@@ -1,0 +1,82 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1354	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	931	0.21	0.30	3.39	7.96
+GO:0048518	positive regulation of biological process	807	0.21	0.30	3.05	7.96
+GO:0048523	negative regulation of cellular process	628	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	591	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	514	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	503	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	472	0.34	0.49	5.84	147.03
+GO:0007597	blood coagulation, intrinsic pathway	3	1.00	0.82	9.63	55.79
+GO:0006464	cellular protein modification process	472	0.34	0.49	5.84	147.03
+GO:0007597	blood coagulation, intrinsic pathway	3	1.00	0.82	9.63	55.79
+GO:0009966	regulation of signal transduction	404	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	382	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	344	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	342	0.39	0.39	5.17	14.95
+GO:0006793	phosphorus metabolic process	311	0.34	0.37	4.88	17.52
+GO:0045937	positive regulation of phosphate metabolic process	154	0.51	0.60	7.47	145.91
+GO:0031399	regulation of protein modification process	279	0.41	0.56	6.69	72.96
+GO:0016192	vesicle-mediated transport	276	0.52	0.51	6.57	10.99
+GO:0010033	response to organic substance	269	0.35	0.37	4.75	9.28
+GO:0033554	cellular response to stress	267	0.44	0.42	6.05	25.47
+GO:0044248	cellular catabolic process	266	0.31	0.36	4.57	26.23
+GO:0015031	protein transport	250	0.48	0.59	6.99	54.46
+GO:0070887	cellular response to chemical stimulus	237	0.40	0.40	5.31	25.21
+GO:0080134	regulation of response to stress	228	0.35	0.42	5.03	11.65
+GO:0042981	regulation of apoptotic process	217	0.45	0.55	6.60	16.23
+GO:0051240	positive regulation of multicellular organismal process	212	0.35	0.42	4.98	23.60
+GO:0070727	cellular macromolecule localization	152	0.45	0.42	5.88	15.33
+GO:0051050	positive regulation of transport	137	0.42	0.50	5.84	25.90
+GO:0006952	defense response	108	0.56	0.48	6.67	9.54
+GO:0051493	regulation of cytoskeleton organization	85	0.51	0.58	7.03	19.19
+GO:0051259	protein complex oligomerization	81	0.78	0.68	9.09	40.42
+GO:0030335	positive regulation of cell migration	75	0.58	0.64	8.22	157.26
+GO:1903829	positive regulation of cellular protein localization	58	0.60	0.62	7.80	40.87
+GO:0046649	lymphocyte activation	53	0.55	0.52	7.16	18.06
+GO:0006874	cellular calcium ion homeostasis	38	0.63	0.71	8.83	287.08
+GO:0016055	Wnt signaling pathway	38	0.59	0.65	7.65	28.58
+GO:1904062	regulation of cation transmembrane transport	37	0.49	0.59	7.03	34.83
+GO:0045926	negative regulation of growth	33	0.59	0.55	7.35	22.25
+GO:0000902	cell morphogenesis	31	0.63	0.56	7.92	43.26
+GO:0006406	mRNA export from nucleus	26	0.89	0.84	9.52	121.36
+GO:1902107	positive regulation of leukocyte differentiation	24	0.64	0.67	8.73	278.03
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	16	1.00	0.92	9.63	384.64
+GO:0008016	regulation of heart contraction	16	0.57	0.61	7.59	16.15
+GO:0007409	axonogenesis	16	0.69	0.72	8.67	64.61
+GO:0060333	interferon-gamma-mediated signaling pathway	13	1.00	0.85	9.63	30.19
+GO:0050796	regulation of insulin secretion	12	0.83	0.81	9.53	205.48
+GO:0008361	regulation of cell size	11	0.78	0.68	9.00	28.02
+GO:0007517	muscle organ development	11	0.78	0.64	8.75	27.68
+GO:0048704	embryonic skeletal system morphogenesis	8	0.87	0.72	9.38	45.49
+GO:0030326	embryonic limb morphogenesis	7	0.89	0.74	9.38	43.31
+GO:0030520	intracellular estrogen receptor signaling pathway	7	1.00	0.88	9.63	54.01
+GO:0030041	actin filament polymerization	6	0.93	0.82	9.55	66.56
+GO:0031663	lipopolysaccharide-mediated signaling pathway	6	1.00	0.82	9.63	26.50
+GO:0097421	liver regeneration	5	1.00	0.82	9.63	47.22
+GO:0003143	embryonic heart tube morphogenesis	5	0.89	0.77	9.41	47.29
+GO:0009303	rRNA transcription	5	0.84	0.85	9.51	822.32
+GO:0034063	stress granule assembly	5	1.00	0.85	9.63	107.30
+GO:0043278	response to morphine	4	0.93	0.82	9.55	93.34
+GO:0002281	macrophage activation involved in immune response	4	0.93	0.79	9.54	81.80
+GO:0070207	protein homotrimerization	4	1.00	0.85	9.63	85.45
+GO:0000460	maturation of 5.8S rRNA	4	0.89	0.86	9.53	358.78
+GO:0048747	muscle fiber development	3	0.89	0.77	9.41	33.94
+GO:0042074	cell migration involved in gastrulation	3	0.83	0.74	9.09	22.57
+GO:0038111	interleukin-7-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0098909	regulation of cardiac muscle cell action potential involved in regulation of contraction	3	1.00	0.82	9.63	24.10
+GO:0072393	microtubule anchoring at microtubule organizing center	2	0.84	0.77	9.34	33.89
+GO:0030318	melanocyte differentiation	2	0.89	0.74	9.34	22.86
+GO:0048842	positive regulation of axon extension involved in axon guidance	2	1.00	0.95	9.63	2927.41
+GO:0072385	minus-end-directed organelle transport along microtubule	2	0.93	0.84	9.57	91.00
+GO:0051145	smooth muscle cell differentiation	2	0.78	0.68	8.86	21.76
+GO:1900275	negative regulation of phospholipase C activity	2	1.00	0.88	9.63	83.36
+GO:0097155	fasciculation of sensory neuron axon	1	1.00	0.88	9.63	32.21
+GO:0017126	nucleologenesis	1	1.00	0.82	9.63	27.97
+GO:0001915	negative regulation of T cell mediated cytotoxicity	1	0.89	0.84	9.56	365.56
+GO:0055113	epiboly involved in gastrulation with mouth forming second	1	1.00	0.85	9.63	33.97
+GO:0035928	rRNA import into mitochondrion	1	1.00	0.90	9.63	117.03
+GO:0000964	mitochondrial RNA 5'-end processing	1	0.93	0.86	9.58	368.45
+GO:0097222	mitochondrial mRNA polyadenylation	1	1.00	0.93	9.63	1686.21
+GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	1	1.00	0.98	9.63	827.39
+GO:0086003	cardiac muscle cell contraction	1	1.00	0.79	9.63	20.96

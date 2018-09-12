@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	903	0.16	0.21	2.71	13.80
+GO:0007166	cell surface receptor signaling pathway	525	0.43	0.51	5.91	23.17
+GO:0031325	positive regulation of cellular metabolic process	493	0.33	0.46	5.39	79.98
+GO:0051240	positive regulation of multicellular organismal process	341	0.35	0.42	4.98	23.60
+GO:0030449	regulation of complement activation	24	0.69	0.72	9.30	245.77
+GO:0002684	positive regulation of immune system process	321	0.41	0.45	5.71	22.61
+GO:0010033	response to organic substance	411	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	301	0.39	0.39	5.14	9.28
+GO:0006357	regulation of transcription by RNA polymerase II	289	0.44	0.63	7.11	248.57
+GO:0035556	intracellular signal transduction	282	0.51	0.55	6.92	23.17
+GO:0008284	positive regulation of cell proliferation	233	0.56	0.57	7.27	43.45
+GO:0051704	multi-organism process	221	0.29	0.15	3.12	3.37
+GO:0051050	positive regulation of transport	197	0.42	0.50	5.84	25.90
+GO:0016477	cell migration	195	0.47	0.48	6.31	17.13
+GO:0002274	myeloid leukocyte activation	194	0.68	0.59	8.67	18.06
+GO:0007186	G-protein coupled receptor signaling pathway	188	0.55	0.57	7.20	23.17
+GO:0006873	cellular ion homeostasis	133	0.55	0.60	7.73	50.28
+GO:0006898	receptor-mediated endocytosis	55	0.68	0.66	8.48	28.44
+GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
+GO:0010863	positive regulation of phospholipase C activity	14	0.93	0.84	9.55	83.74
+GO:0032930	positive regulation of superoxide anion generation	7	1.00	0.88	9.63	144.58
+GO:0030238	male sex determination	1	0.89	0.70	9.29	21.56
+GO:1903141	negative regulation of establishment of endothelial barrier	1	1.00	0.90	9.63	507.76
+GO:0071258	cellular response to gravity	1	1.00	0.79	9.63	37.21

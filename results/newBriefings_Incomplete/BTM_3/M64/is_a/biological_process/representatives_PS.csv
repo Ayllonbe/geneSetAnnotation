@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	792	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	634	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	511	0.33	0.45	5.35	37.59
+GO:0031328	positive regulation of cellular biosynthetic process	290	0.41	0.53	6.32	170.14
+GO:0006355	regulation of transcription, DNA-templated	388	0.40	0.60	6.84	245.35
+GO:0042221	response to chemical	440	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	422	0.39	0.32	4.70	6.14
+GO:0051240	positive regulation of multicellular organismal process	327	0.35	0.42	4.98	23.60
+GO:0035556	intracellular signal transduction	274	0.51	0.55	6.92	23.17
+GO:0043066	negative regulation of apoptotic process	188	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	126	0.56	0.63	7.81	80.91
+GO:0035066	positive regulation of histone acetylation	6	0.81	0.84	9.50	1302.92
+GO:0001932	regulation of protein phosphorylation	257	0.50	0.62	7.64	109.03
+GO:0006887	exocytosis	221	0.67	0.66	8.38	37.08
+GO:0019221	cytokine-mediated signaling pathway	206	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	194	0.48	0.56	7.11	36.74
+GO:0007186	G-protein coupled receptor signaling pathway	179	0.55	0.57	7.20	23.17
+GO:0030155	regulation of cell adhesion	174	0.48	0.44	5.95	7.96
+GO:0044248	cellular catabolic process	147	0.31	0.36	4.57	26.23
+GO:0051046	regulation of secretion	144	0.42	0.50	5.90	14.08
+GO:0046827	positive regulation of protein export from nucleus	3	0.81	0.80	9.43	516.73
+GO:0050900	leukocyte migration	142	0.60	0.59	8.02	26.94
+GO:0006508	proteolysis	131	0.55	0.57	7.34	47.86
+GO:0060284	regulation of cell development	129	0.42	0.50	6.27	27.05
+GO:0002697	regulation of immune effector process	122	0.44	0.47	6.05	10.80
+GO:0015031	protein transport	120	0.48	0.59	6.99	54.46
+GO:0006875	cellular metal ion homeostasis	117	0.59	0.67	8.36	105.84
+GO:0019752	carboxylic acid metabolic process	107	0.32	0.45	5.31	42.50
+GO:0098662	inorganic cation transmembrane transport	86	0.58	0.64	7.91	76.35
+GO:0034762	regulation of transmembrane transport	85	0.44	0.51	6.24	14.08
+GO:0009894	regulation of catabolic process	84	0.42	0.46	5.75	10.74
+GO:0030036	actin cytoskeleton organization	55	0.63	0.61	8.05	29.61
+GO:0051260	protein homooligomerization	51	0.89	0.77	9.41	42.03
+GO:0000302	response to reactive oxygen species	49	0.71	0.60	8.78	25.34
+GO:0051961	negative regulation of nervous system development	46	0.55	0.60	7.67	86.30
+GO:0030593	neutrophil chemotaxis	41	1.00	0.90	9.63	130.30
+GO:0008406	gonad development	25	0.87	0.68	9.27	49.87
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0097191	extrinsic apoptotic signaling pathway	22	0.83	0.74	9.22	51.06
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	20	1.00	0.82	9.63	44.28
+GO:0031663	lipopolysaccharide-mediated signaling pathway	19	1.00	0.82	9.63	26.50
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0007565	female pregnancy	15	1.00	0.70	9.63	32.81
+GO:0070498	interleukin-1-mediated signaling pathway	12	1.00	0.85	9.63	30.19
+GO:0006954	inflammatory response	10	0.68	0.59	8.12	11.94
+GO:0051017	actin filament bundle assembly	10	0.79	0.72	9.14	39.79
+GO:0035722	interleukin-12-mediated signaling pathway	8	1.00	0.85	9.63	30.19
+GO:0001836	release of cytochrome c from mitochondria	8	1.00	0.82	9.63	22.13
+GO:0035176	social behavior	7	1.00	0.70	9.63	22.58
+GO:0050999	regulation of nitric-oxide synthase activity	7	0.89	0.77	9.41	24.72
+GO:0042246	tissue regeneration	4	0.76	0.63	8.94	42.89
+GO:0060231	mesenchymal to epithelial transition	4	0.83	0.70	9.34	24.20
+GO:0035234	ectopic germ cell programmed cell death	3	1.00	0.79	9.63	49.33
+GO:0019430	removal of superoxide radicals	2	1.00	0.79	9.63	35.17
+GO:0051601	exocyst localization	2	0.93	0.79	9.52	40.77
+GO:0072112	glomerular visceral epithelial cell differentiation	2	0.89	0.80	9.45	72.77
+GO:0060539	diaphragm development	1	1.00	0.82	9.63	30.17
+GO:0003069	acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure	1	1.00	0.90	9.63	55.19

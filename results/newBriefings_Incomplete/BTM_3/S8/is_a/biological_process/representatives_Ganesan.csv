@@ -1,0 +1,133 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	268	0.24	0.37	3.90	23.85
+GO:0048583	regulation of response to stimulus	237	0.25	0.32	3.72	7.96
+GO:0048523	negative regulation of cellular process	206	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	166	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	160	0.43	0.51	5.91	23.17
+GO:0010468	regulation of gene expression	155	0.35	0.46	5.09	13.73
+GO:0051239	regulation of multicellular organismal process	144	0.23	0.32	3.68	7.96
+GO:0006355	regulation of transcription, DNA-templated	129	0.40	0.60	6.84	245.35
+GO:0043312	neutrophil degranulation	92	1.00	0.90	9.63	132.80
+GO:0071310	cellular response to organic substance	91	0.44	0.47	5.95	41.66
+GO:0001932	regulation of protein phosphorylation	86	0.50	0.62	7.64	109.03
+GO:1905184	positive regulation of protein serine/threonine phosphatase activity	1	1.00	0.93	9.63	1090.37
+GO:0042981	regulation of apoptotic process	81	0.45	0.55	6.60	16.23
+GO:0045087	innate immune response	62	0.68	0.59	8.16	26.47
+GO:0033993	response to lipid	58	0.53	0.51	6.86	13.32
+GO:0007186	G-protein coupled receptor signaling pathway	57	0.55	0.57	7.20	23.17
+GO:2000145	regulation of cell motility	57	0.47	0.52	6.88	34.54
+GO:0051249	regulation of lymphocyte activation	53	0.48	0.56	7.10	27.11
+GO:0030334	regulation of cell migration	53	0.48	0.56	7.11	36.74
+GO:0019221	cytokine-mediated signaling pathway	52	0.60	0.63	7.60	26.50
+GO:0051248	negative regulation of protein metabolic process	51	0.45	0.55	6.75	129.53
+GO:0050900	leukocyte migration	46	0.60	0.59	8.02	26.94
+GO:0006811	ion transport	46	0.38	0.44	5.19	10.99
+GO:0006468	protein phosphorylation	44	0.57	0.64	8.18	177.76
+GO:0043269	regulation of ion transport	36	0.41	0.50	6.00	14.08
+GO:0006508	proteolysis	34	0.55	0.57	7.34	47.86
+GO:1901652	response to peptide	33	0.62	0.60	8.14	43.80
+GO:0050727	regulation of inflammatory response	32	0.53	0.59	7.40	31.59
+GO:0006874	cellular calcium ion homeostasis	28	0.63	0.71	8.83	287.08
+GO:0009615	response to virus	22	0.74	0.66	8.80	27.27
+GO:0042493	response to drug	40	0.47	0.43	5.84	9.28
+GO:0009636	response to toxic substance	20	0.58	0.49	6.94	9.28
+GO:0002695	negative regulation of leukocyte activation	19	0.58	0.61	8.02	96.77
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	18	0.71	0.71	8.71	27.67
+GO:0050804	modulation of chemical synaptic transmission	18	0.52	0.58	7.24	27.32
+GO:0019722	calcium-mediated signaling	17	0.72	0.71	8.71	27.81
+GO:1903531	negative regulation of secretion by cell	14	0.55	0.62	7.58	107.96
+GO:0090276	regulation of peptide hormone secretion	4	0.65	0.70	8.78	104.37
+GO:0015711	organic anion transport	15	0.43	0.54	6.27	28.20
+GO:0009755	hormone-mediated signaling pathway	14	0.65	0.62	7.99	23.17
+GO:0001666	response to hypoxia	13	0.81	0.70	9.12	21.16
+GO:0010038	response to metal ion	13	0.62	0.56	7.65	12.64
+GO:0007268	chemical synaptic transmission	13	0.74	0.72	8.66	23.17
+GO:0045766	positive regulation of angiogenesis	13	0.81	0.76	9.30	134.49
+GO:0050852	T cell receptor signaling pathway	12	1.00	0.92	9.63	219.43
+GO:0000902	cell morphogenesis	12	0.63	0.56	7.92	43.26
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	11	0.79	0.77	9.12	28.36
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	10	1.00	0.79	9.63	42.20
+GO:0007043	cell-cell junction assembly	10	0.75	0.67	8.82	53.94
+GO:0030260	entry into host cell	10	0.74	0.69	8.68	26.99
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	9	0.78	0.71	8.87	26.98
+GO:0007173	epidermal growth factor receptor signaling pathway	8	0.78	0.78	9.04	32.39
+GO:0046854	phosphatidylinositol phosphorylation	8	1.00	0.88	9.63	218.74
+GO:0010976	positive regulation of neuron projection development	7	0.68	0.73	9.14	493.19
+GO:0071548	response to dexamethasone	7	0.93	0.84	9.57	124.89
+GO:0019217	regulation of fatty acid metabolic process	7	0.62	0.63	8.38	59.64
+GO:0034121	regulation of toll-like receptor signaling pathway	7	0.61	0.66	8.32	87.36
+GO:0001649	osteoblast differentiation	6	1.00	0.75	9.63	21.07
+GO:0022008	neurogenesis	6	0.87	0.68	9.29	21.07
+GO:0051291	protein heterooligomerization	6	0.89	0.77	9.41	42.03
+GO:0006940	regulation of smooth muscle contraction	6	0.65	0.68	8.36	17.35
+GO:0030815	negative regulation of cAMP metabolic process	6	0.83	0.83	9.53	1399.23
+GO:0016266	O-glycan processing	5	0.79	0.79	9.28	178.64
+GO:0007416	synapse assembly	5	0.84	0.67	9.12	35.85
+GO:0071320	cellular response to cAMP	5	1.00	0.85	9.63	327.37
+GO:0045840	positive regulation of mitotic nuclear division	5	0.71	0.73	9.14	276.06
+GO:0007179	transforming growth factor beta receptor signaling pathway	5	0.76	0.75	9.05	29.90
+GO:0038128	ERBB2 signaling pathway	4	0.87	0.83	9.37	32.39
+GO:0002407	dendritic cell chemotaxis	4	0.87	0.78	9.49	93.28
+GO:0002638	negative regulation of immunoglobulin production	4	0.80	0.75	9.19	77.13
+GO:0051963	regulation of synapse assembly	4	0.71	0.68	9.03	59.90
+GO:0006885	regulation of pH	4	0.70	0.72	8.99	35.59
+GO:0016064	immunoglobulin mediated immune response	4	0.76	0.70	9.04	30.58
+GO:0048246	macrophage chemotaxis	4	1.00	0.88	9.63	95.92
+GO:0007202	activation of phospholipase C activity	3	1.00	0.90	9.63	83.74
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	3	1.00	0.88	9.63	82.06
+GO:0043278	response to morphine	3	0.93	0.82	9.55	93.34
+GO:0007214	gamma-aminobutyric acid signaling pathway	3	1.00	0.82	9.63	26.98
+GO:0030539	male genitalia development	3	1.00	0.79	9.63	66.32
+GO:0007413	axonal fasciculation	3	0.89	0.80	9.45	31.51
+GO:0032354	response to follicle-stimulating hormone	3	0.93	0.79	9.49	26.61
+GO:0042220	response to cocaine	3	0.93	0.79	9.55	106.25
+GO:0051969	regulation of transmission of nerve impulse	3	0.81	0.73	9.34	42.49
+GO:0035810	positive regulation of urine volume	3	0.93	0.76	9.51	23.90
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	3	1.00	0.93	9.63	628.11
+GO:0001942	hair follicle development	3	1.00	0.75	9.63	22.36
+GO:0048240	sperm capacitation	3	1.00	0.75	9.63	67.15
+GO:0030318	melanocyte differentiation	2	0.89	0.74	9.34	22.86
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	2	1.00	0.82	9.63	25.00
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	2	1.00	0.79	9.63	23.39
+GO:0002503	peptide antigen assembly with MHC class II protein complex	2	1.00	0.85	9.63	45.62
+GO:0019064	fusion of virus membrane with host plasma membrane	2	0.93	0.82	9.54	56.73
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	2	1.00	0.88	9.63	298.04
+GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
+GO:0045759	negative regulation of action potential	2	0.76	0.67	9.09	33.80
+GO:0035176	social behavior	2	1.00	0.70	9.63	22.58
+GO:0019934	cGMP-mediated signaling	2	0.93	0.84	9.52	28.51
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	2	0.93	0.82	9.55	144.70
+GO:0035815	positive regulation of renal sodium excretion	2	0.93	0.84	9.57	135.62
+GO:0032691	negative regulation of interleukin-1 beta production	2	0.89	0.80	9.46	85.93
+GO:0072282	metanephric nephron tubule morphogenesis	1	0.89	0.82	9.46	83.31
+GO:0038044	transforming growth factor-beta secretion	1	1.00	0.92	9.63	137.07
+GO:0038171	cannabinoid signaling pathway	1	0.87	0.76	9.49	26.98
+GO:0120058	positive regulation of small intestinal transit	1	1.00	0.85	9.63	64.83
+GO:0048290	isotype switching to IgA isotypes	1	1.00	0.96	9.63	268.78
+GO:0098664	G-protein coupled serotonin receptor signaling pathway	1	0.89	0.77	9.41	51.25
+GO:0036321	ghrelin secretion	1	1.00	0.90	9.63	118.18
+GO:0048714	positive regulation of oligodendrocyte differentiation	1	1.00	0.92	9.63	471.69
+GO:0032099	negative regulation of appetite	1	0.93	0.86	9.57	112.28
+GO:0035645	enteric smooth muscle cell differentiation	1	1.00	0.82	9.63	23.37
+GO:0086100	endothelin receptor signaling pathway	1	0.93	0.79	9.49	26.98
+GO:1904000	positive regulation of eating behavior	1	0.93	0.79	9.52	49.89
+GO:0050859	negative regulation of B cell receptor signaling pathway	1	1.00	0.88	9.63	309.62
+GO:0042311	vasodilation	1	0.79	0.77	9.15	40.37
+GO:0014043	negative regulation of neuron maturation	1	0.93	0.86	9.59	593.79
+GO:1903142	positive regulation of establishment of endothelial barrier	1	1.00	0.90	9.63	507.13
+GO:0061290	canonical Wnt signaling pathway involved in metanephric kidney development	1	0.93	0.86	9.57	106.74
+GO:0002092	positive regulation of receptor internalization	1	0.93	0.86	9.59	393.55
+GO:0051001	negative regulation of nitric-oxide synthase activity	1	1.00	0.85	9.63	123.18
+GO:0052695	cellular glucuronidation	1	0.87	0.83	9.45	85.04
+GO:0071467	cellular response to pH	1	0.81	0.70	9.22	37.43
+GO:0072679	thymocyte migration	1	0.89	0.82	9.53	31.85
+GO:0032100	positive regulation of appetite	1	1.00	0.90	9.63	112.03
+GO:0072202	cell differentiation involved in metanephros development	1	0.74	0.66	8.65	23.63
+GO:1904156	DN3 thymocyte differentiation	1	1.00	0.88	9.63	68.09
+GO:1904155	DN2 thymocyte differentiation	1	1.00	0.88	9.63	68.09
+GO:0014826	vein smooth muscle contraction	1	1.00	0.92	9.63	72.05
+GO:0001755	neural crest cell migration	1	0.80	0.72	9.09	22.57
+GO:0042045	epithelial fluid transport	1	0.89	0.74	9.34	24.06
+GO:0090327	negative regulation of locomotion involved in locomotory behavior	1	1.00	0.79	9.63	71.01
+GO:0030252	growth hormone secretion	1	1.00	0.90	9.63	103.34
+GO:0008343	adult feeding behavior	1	1.00	0.70	9.63	24.58

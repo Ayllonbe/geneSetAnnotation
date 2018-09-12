@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6449	0.00	0.00	0.00	0.00
+GO:0045429	positive regulation of nitric oxide biosynthetic process	25	1.00	0.88	9.63	658.64
+GO:0030194	positive regulation of blood coagulation	9	0.77	0.76	9.34	205.45
+GO:0050789	regulation of biological process	4441	0.09	0.17	1.80	4.47
+GO:0006874	cellular calcium ion homeostasis	141	0.63	0.71	8.83	287.08
+GO:0060249	anatomical structure homeostasis	87	0.63	0.57	7.52	10.43
+GO:0035583	sequestering of TGFbeta in extracellular matrix	2	1.00	0.90	9.63	582.46
+GO:0043181	vacuolar sequestering	1	0.93	0.76	9.49	25.86
+GO:0051234	establishment of localization	1806	0.28	0.26	3.49	5.67
+GO:0009605	response to external stimulus	576	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	1001	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	1141	0.39	0.32	4.70	6.14
+GO:0009628	response to abiotic stimulus	350	0.46	0.35	5.43	6.14
+GO:0009605	response to external stimulus	576	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	1001	0.32	0.29	4.12	6.14
+GO:0032501	multicellular organismal process	459	0.33	0.16	3.12	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	16	1.00	0.82	9.63	33.25

@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1587	0.12	0.26	2.47	7.96
+GO:0006807	nitrogen compound metabolic process	1036	0.20	0.22	2.64	6.41
+GO:0044238	primary metabolic process	1083	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1146	0.15	0.20	2.26	6.41
+GO:0048518	positive regulation of biological process	1111	0.21	0.30	3.05	7.96
+GO:0048523	negative regulation of cellular process	800	0.24	0.37	3.90	23.93
+GO:0031325	positive regulation of cellular metabolic process	589	0.33	0.46	5.39	79.98
+GO:0031324	negative regulation of cellular metabolic process	412	0.34	0.46	5.46	80.35
+GO:0006810	transport	697	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	611	0.35	0.46	5.09	13.73
+GO:0048869	cellular developmental process	489	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	469	0.35	0.37	4.75	9.28
+GO:0006464	cellular protein modification process	408	0.34	0.49	5.84	147.03
+GO:0051241	negative regulation of multicellular organismal process	256	0.35	0.42	4.99	23.69
+GO:0030334	regulation of cell migration	230	0.48	0.56	7.11	36.74
+GO:0045087	innate immune response	174	0.68	0.59	8.16	26.47
+GO:0000226	microtubule cytoskeleton organization	65	0.58	0.58	7.66	30.31
+GO:0007229	integrin-mediated signaling pathway	37	1.00	0.82	9.63	26.50
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	29	1.00	0.92	9.63	384.64
+GO:0002244	hematopoietic progenitor cell differentiation	24	0.81	0.66	8.94	21.07
+GO:0071260	cellular response to mechanical stimulus	23	1.00	0.79	9.63	56.12
+GO:0007219	Notch signaling pathway	23	0.78	0.71	8.87	26.50
+GO:0006633	fatty acid biosynthetic process	21	0.65	0.70	8.91	359.85
+GO:0007179	transforming growth factor beta receptor signaling pathway	21	0.76	0.75	9.05	29.90
+GO:0043542	endothelial cell migration	19	0.80	0.75	9.14	24.97
+GO:0007173	epidermal growth factor receptor signaling pathway	19	0.78	0.78	9.04	32.39
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	17	0.83	0.79	9.19	31.00
+GO:0001570	vasculogenesis	15	0.89	0.70	9.29	21.07
+GO:0001890	placenta development	12	1.00	0.75	9.63	49.87
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
+GO:0030072	peptide hormone secretion	9	0.70	0.72	8.94	100.51
+GO:0006883	cellular sodium ion homeostasis	6	1.00	0.90	9.63	285.76
+GO:0009584	detection of visible light	5	0.89	0.77	9.45	52.26
+GO:0001947	heart looping	5	1.00	0.85	9.63	47.98
+GO:0060396	growth hormone receptor signaling pathway	4	1.00	0.88	9.63	31.00
+GO:0060441	epithelial tube branching involved in lung morphogenesis	4	0.93	0.82	9.53	53.50
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	3	1.00	0.85	9.63	26.14
+GO:0003222	ventricular trabecula myocardium morphogenesis	3	0.89	0.80	9.43	28.31
+GO:0007224	smoothened signaling pathway	3	0.78	0.71	8.87	26.50
+GO:0097084	vascular smooth muscle cell development	2	0.89	0.74	9.49	32.85
+GO:0038007	netrin-activated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0003273	cell migration involved in endocardial cushion formation	2	1.00	0.82	9.63	22.83
+GO:0070278	extracellular matrix constituent secretion	2	0.87	0.76	9.38	23.10

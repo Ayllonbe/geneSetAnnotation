@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2404	0.08	0.04	0.98	3.37
+GO:0048666	neuron development	25	0.67	0.58	8.09	32.15
+GO:0008152	metabolic process	2089	0.15	0.07	1.52	3.37
+GO:0051252	regulation of RNA metabolic process	891	0.37	0.51	6.06	70.58
+GO:0032268	regulation of cellular protein metabolic process	616	0.37	0.51	6.13	70.76
+GO:0008104	protein localization	456	0.40	0.40	5.07	7.46
+GO:0006810	transport	915	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	942	0.25	0.12	2.65	3.37
+GO:0034128	negative regulation of MyD88-independent toll-like receptor signaling pathway	1	1.00	0.90	9.63	354.71

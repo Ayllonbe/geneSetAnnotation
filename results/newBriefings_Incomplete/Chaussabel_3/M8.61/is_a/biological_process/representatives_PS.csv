@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1850	0.09	0.17	1.80	4.47
+GO:0071704	organic substance metabolic process	1621	0.15	0.20	2.26	6.41
+GO:0010033	response to organic substance	360	0.35	0.37	4.75	9.28
+GO:0009605	response to external stimulus	241	0.37	0.31	4.62	6.14
+GO:0002376	immune system process	408	0.38	0.19	3.93	3.37
+GO:0065003	protein-containing complex assembly	300	0.45	0.48	6.06	36.47
+GO:0007010	cytoskeleton organization	150	0.52	0.51	6.76	18.35
+GO:0033365	protein localization to organelle	123	0.50	0.54	7.01	29.83
+GO:0006897	endocytosis	89	0.63	0.61	8.09	26.36
+GO:0046718	viral entry into host cell	27	0.77	0.73	8.94	28.37
+GO:0060333	interferon-gamma-mediated signaling pathway	19	1.00	0.85	9.63	30.19
+GO:0019048	modulation by virus of host morphology or physiology	10	0.52	0.58	7.27	41.65
+GO:0000147	actin cortical patch assembly	4	1.00	0.85	9.63	89.93
+GO:0048714	positive regulation of oligodendrocyte differentiation	3	1.00	0.92	9.63	471.69
+GO:0060441	epithelial tube branching involved in lung morphogenesis	3	0.93	0.82	9.53	53.50
+GO:0031103	axon regeneration	3	0.84	0.77	9.43	96.51
+GO:0033173	calcineurin-NFAT signaling cascade	2	1.00	0.90	9.63	57.93
+GO:0060445	branching involved in salivary gland morphogenesis	2	0.93	0.79	9.51	38.29
+GO:0043403	skeletal muscle tissue regeneration	2	0.93	0.76	9.51	44.68
+GO:0022011	myelination in peripheral nervous system	2	1.00	0.79	9.63	21.18

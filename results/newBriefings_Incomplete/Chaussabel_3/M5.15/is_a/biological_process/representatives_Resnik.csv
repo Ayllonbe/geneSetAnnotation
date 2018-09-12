@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2519	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	2431	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	2079	0.16	0.21	2.71	13.80
+GO:1901564	organonitrogen compound metabolic process	1237	0.23	0.31	3.63	19.40
+GO:0016043	cellular component organization	1071	0.28	0.26	3.74	11.45
+GO:0044793	negative regulation by host of viral process	6	0.87	0.78	9.46	73.75
+GO:0050896	response to stimulus	983	0.25	0.12	2.65	3.37
+GO:0070887	cellular response to chemical stimulus	401	0.40	0.40	5.31	25.21
+GO:0006810	transport	969	0.28	0.34	3.95	7.46
+GO:0044267	cellular protein metabolic process	827	0.34	0.46	5.57	80.87
+GO:0010646	regulation of cell communication	759	0.30	0.40	4.51	12.04
+GO:0010604	positive regulation of macromolecule metabolic process	742	0.37	0.48	5.51	38.99
+GO:0065008	regulation of biological quality	612	0.28	0.26	3.48	4.47
+GO:0006351	transcription, DNA-templated	571	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	527	0.38	0.19	3.93	3.37
+GO:0051240	positive regulation of multicellular organismal process	363	0.35	0.42	4.98	23.60
+GO:0051241	negative regulation of multicellular organismal process	246	0.35	0.42	4.99	23.69
+GO:0035556	intracellular signal transduction	431	0.51	0.55	6.92	23.17
+GO:0010941	regulation of cell death	381	0.43	0.47	6.10	12.04
+GO:0030154	cell differentiation	314	0.39	0.39	5.18	16.68
+GO:0002695	negative regulation of leukocyte activation	52	0.58	0.61	8.02	96.77
+GO:0050776	regulation of immune response	268	0.38	0.44	5.64	22.45
+GO:0008284	positive regulation of cell proliferation	195	0.56	0.57	7.27	43.45
+GO:0045785	positive regulation of cell adhesion	110	0.58	0.54	7.23	21.97
+GO:0043901	negative regulation of multi-organism process	54	0.52	0.51	6.65	23.38
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	1	1.00	0.92	9.63	643.34
+GO:0043901	negative regulation of multi-organism process	54	0.52	0.51	6.65	23.38
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	1	1.00	0.92	9.63	643.34
+GO:0043901	negative regulation of multi-organism process	54	0.52	0.51	6.65	23.38
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	1	1.00	0.92	9.63	643.34
+GO:0060333	interferon-gamma-mediated signaling pathway	24	1.00	0.85	9.63	30.19
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	8	1.00	0.82	9.63	26.98
+GO:2000296	negative regulation of hydrogen peroxide catabolic process	1	1.00	0.88	9.63	566.62
+GO:2000252	negative regulation of feeding behavior	1	0.89	0.74	9.49	36.88

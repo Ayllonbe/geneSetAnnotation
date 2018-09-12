@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006479	protein methylation	49	0.59	0.67	8.39	206.80
+GO:0032502	developmental process	965	0.22	0.11	1.89	3.37
+GO:0051701	interaction with host	73	0.38	0.39	5.05	8.50
+GO:0071704	organic substance metabolic process	3329	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	4811	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	1489	0.25	0.12	2.65	3.37
+GO:0006479	protein methylation	49	0.59	0.67	8.39	206.80
+GO:0032502	developmental process	965	0.22	0.11	1.89	3.37
+GO:0044238	primary metabolic process	3181	0.19	0.22	2.60	6.41
+GO:0051701	interaction with host	73	0.38	0.39	5.05	8.50
+GO:0009987	cellular process	4811	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	1489	0.25	0.12	2.65	3.37
+GO:0065007	biological regulation	3824	0.08	0.04	0.98	3.37
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	7	1.00	0.95	9.63	2977.47
+GO:0045475	locomotor rhythm	4	1.00	0.75	9.63	28.71
+GO:0043433	negative regulation of DNA binding transcription factor activity	60	0.81	0.84	9.47	278.01
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	65	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	1049	0.33	0.29	4.10	4.47
+GO:0065007	biological regulation	3824	0.08	0.04	0.98	3.37
+GO:0065008	regulation of biological quality	932	0.28	0.26	3.48	4.47
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	7	1.00	0.95	9.63	2977.47
+GO:0045475	locomotor rhythm	4	1.00	0.75	9.63	28.71
+GO:0043433	negative regulation of DNA binding transcription factor activity	60	0.81	0.84	9.47	278.01
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	65	0.93	0.91	9.59	279.44
+GO:0051234	establishment of localization	1481	0.28	0.26	3.49	5.67
+GO:0015031	protein transport	548	0.48	0.59	6.99	54.46
+GO:0034613	cellular protein localization	386	0.45	0.48	6.33	26.83
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	13	1.00	0.82	9.63	33.25

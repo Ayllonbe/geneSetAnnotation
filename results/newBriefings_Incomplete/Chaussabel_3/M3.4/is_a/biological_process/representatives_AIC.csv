@@ -1,0 +1,110 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	2034	0.22	0.36	4.01	22.77
+GO:0048522	positive regulation of cellular process	1641	0.24	0.37	3.90	23.85
+GO:0019538	protein metabolic process	1374	0.31	0.41	4.91	44.77
+GO:0048583	regulation of response to stimulus	1310	0.25	0.32	3.72	7.96
+GO:0048384	retinoic acid receptor signaling pathway	5	0.79	0.72	8.94	25.57
+GO:0007165	signal transduction	1270	0.36	0.43	5.06	19.43
+GO:0045454	cell redox homeostasis	18	1.00	0.79	9.63	31.94
+GO:0006281	DNA repair	186	0.63	0.66	8.78	180.34
+GO:0016070	RNA metabolic process	1168	0.39	0.52	6.45	112.25
+GO:0006355	regulation of transcription, DNA-templated	1227	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1058	0.34	0.49	5.84	147.03
+GO:0006412	translation	78	0.87	0.78	9.51	402.56
+GO:0010604	positive regulation of macromolecule metabolic process	1035	0.37	0.48	5.51	38.99
+GO:0009966	regulation of signal transduction	975	0.33	0.45	5.35	37.59
+GO:0010629	negative regulation of gene expression	597	0.47	0.56	6.74	59.05
+GO:0033554	cellular response to stress	581	0.44	0.42	6.05	25.47
+GO:0033554	cellular response to stress	581	0.44	0.42	6.05	25.47
+GO:0051049	regulation of transport	571	0.31	0.40	4.67	10.45
+GO:0065003	protein-containing complex assembly	566	0.45	0.48	6.06	36.47
+GO:0070887	cellular response to chemical stimulus	539	0.40	0.40	5.31	25.21
+GO:0009967	positive regulation of signal transduction	527	0.44	0.54	6.71	140.23
+GO:0031327	negative regulation of cellular biosynthetic process	526	0.42	0.53	6.40	170.82
+GO:0032270	positive regulation of cellular protein metabolic process	523	0.47	0.59	7.41	288.49
+GO:0015031	protein transport	502	0.48	0.59	6.99	54.46
+GO:0033043	regulation of organelle organization	472	0.36	0.47	5.49	15.89
+GO:0030154	cell differentiation	431	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	381	0.44	0.54	6.68	140.65
+GO:0009968	negative regulation of signal transduction	381	0.44	0.54	6.68	140.65
+GO:0032269	negative regulation of cellular protein metabolic process	375	0.47	0.59	7.45	289.39
+GO:0034613	cellular protein localization	347	0.45	0.48	6.33	26.83
+GO:0044265	cellular macromolecule catabolic process	326	0.55	0.56	7.70	100.33
+GO:0006886	intracellular protein transport	320	0.55	0.65	8.12	90.55
+GO:0022603	regulation of anatomical structure morphogenesis	317	0.36	0.43	5.15	11.29
+GO:0043066	negative regulation of apoptotic process	305	0.56	0.63	7.79	81.07
+GO:0001934	positive regulation of protein phosphorylation	305	0.58	0.69	8.60	663.11
+GO:0006887	exocytosis	287	0.67	0.66	8.38	37.08
+GO:0045597	positive regulation of cell differentiation	276	0.45	0.51	6.57	82.53
+GO:0030334	regulation of cell migration	274	0.48	0.56	7.11	36.74
+GO:0051345	positive regulation of hydrolase activity	262	0.57	0.57	7.42	32.99
+GO:0071345	cellular response to cytokine stimulus	155	0.67	0.63	8.21	61.60
+GO:0071407	cellular response to organic cyclic compound	124	0.53	0.56	7.03	63.03
+GO:0008285	negative regulation of cell proliferation	241	0.56	0.57	7.31	43.61
+GO:0045786	negative regulation of cell cycle	225	0.51	0.54	7.10	42.35
+GO:0051707	response to other organism	216	0.42	0.46	6.41	24.63
+GO:0040008	regulation of growth	202	0.48	0.44	6.04	7.96
+GO:1903827	regulation of cellular protein localization	201	0.48	0.53	6.86	25.72
+GO:0045087	innate immune response	184	0.68	0.59	8.16	26.47
+GO:0043254	regulation of protein complex assembly	178	0.50	0.54	6.88	27.32
+GO:0001819	positive regulation of cytokine production	164	0.51	0.54	6.97	44.26
+GO:1903706	regulation of hemopoiesis	155	0.50	0.54	7.23	38.17
+GO:0045601	regulation of endothelial cell differentiation	11	0.74	0.69	9.26	57.42
+GO:0001933	negative regulation of protein phosphorylation	160	0.61	0.70	8.76	664.69
+GO:0006875	cellular metal ion homeostasis	145	0.59	0.67	8.36	105.84
+GO:0051052	regulation of DNA metabolic process	145	0.47	0.56	7.17	70.58
+GO:0050900	leukocyte migration	111	0.60	0.59	8.02	26.94
+GO:0010761	fibroblast migration	5	0.93	0.79	9.49	22.57
+GO:0006650	glycerophospholipid metabolic process	114	0.59	0.62	8.12	144.72
+GO:0045089	positive regulation of innate immune response	106	0.54	0.62	7.78	173.78
+GO:0045089	positive regulation of innate immune response	106	0.54	0.62	7.78	173.78
+GO:0001818	negative regulation of cytokine production	98	0.51	0.55	7.03	44.36
+GO:0001666	response to hypoxia	96	0.81	0.70	9.12	21.16
+GO:0031348	negative regulation of defense response	71	0.53	0.59	7.30	44.42
+GO:0060271	cilium assembly	66	0.87	0.76	9.41	137.68
+GO:0019318	hexose metabolic process	64	0.58	0.58	7.68	32.37
+GO:0006898	receptor-mediated endocytosis	63	0.68	0.66	8.48	28.44
+GO:0006816	calcium ion transport	62	0.67	0.71	8.69	35.67
+GO:0048525	negative regulation of viral process	53	0.71	0.68	8.66	43.32
+GO:0032868	response to insulin	49	0.93	0.82	9.54	74.03
+GO:0010508	positive regulation of autophagy	47	0.72	0.71	9.04	216.89
+GO:0042542	response to hydrogen peroxide	46	0.93	0.76	9.54	79.29
+GO:0050715	positive regulation of cytokine secretion	45	0.69	0.74	9.07	549.48
+GO:0045582	positive regulation of T cell differentiation	39	0.70	0.75	9.32	861.16
+GO:0032091	negative regulation of protein binding	36	0.70	0.64	8.48	32.72
+GO:0000281	mitotic cytokinesis	31	0.93	0.76	9.47	28.62
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	30	1.00	0.93	9.63	888.12
+GO:0051591	response to cAMP	29	0.89	0.77	9.45	79.55
+GO:0008584	male gonad development	27	1.00	0.79	9.63	50.96
+GO:0050710	negative regulation of cytokine secretion	22	0.70	0.74	9.09	549.99
+GO:0034198	cellular response to amino acid starvation	22	0.87	0.78	9.45	115.90
+GO:0006986	response to unfolded protein	20	0.87	0.72	9.34	23.96
+GO:0032922	circadian regulation of gene expression	20	1.00	0.82	9.63	31.18
+GO:0033003	regulation of mast cell activation	17	0.74	0.69	9.18	27.11
+GO:0002230	positive regulation of defense response to virus by host	16	1.00	0.88	9.63	73.08
+GO:0043153	entrainment of circadian clock by photoperiod	13	1.00	0.82	9.63	32.76
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0051457	maintenance of protein location in nucleus	11	0.81	0.76	9.29	48.00
+GO:0015721	bile acid and bile salt transport	9	0.93	0.86	9.55	89.96
+GO:0045717	negative regulation of fatty acid biosynthetic process	8	0.84	0.80	9.48	670.14
+GO:0090331	negative regulation of platelet aggregation	7	0.93	0.88	9.60	548.67
+GO:0034058	endosomal vesicle fusion	6	1.00	0.85	9.63	65.81
+GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	5	1.00	0.95	9.63	2003.64
+GO:0048240	sperm capacitation	5	1.00	0.75	9.63	67.15
+GO:0017121	phospholipid scrambling	4	0.80	0.69	9.12	49.44
+GO:0060444	branching involved in mammary gland duct morphogenesis	4	0.87	0.78	9.37	53.50
+GO:1900017	positive regulation of cytokine production involved in inflammatory response	4	1.00	0.88	9.63	226.66
+GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
+GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	3	0.93	0.88	9.61	648.11
+GO:0061326	renal tubule development	3	0.67	0.62	8.33	33.01
+GO:0043116	negative regulation of vascular permeability	3	1.00	0.82	9.63	22.58
+GO:0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	2	1.00	0.92	9.63	1230.94
+GO:1903487	regulation of lactation	2	0.87	0.76	9.46	54.97
+GO:0043318	negative regulation of cytotoxic T cell degranulation	2	1.00	0.93	9.63	1135.38
+GO:2000697	negative regulation of epithelial cell differentiation involved in kidney development	2	0.83	0.76	9.43	323.80
+GO:1900025	negative regulation of substrate adhesion-dependent cell spreading	2	1.00	0.88	9.63	367.37
+GO:0030683	evasion or tolerance by virus of host immune response	1	0.67	0.77	9.10	527.22
+GO:0030578	PML body organization	1	1.00	0.82	9.63	22.53
+GO:0072136	metanephric mesenchymal cell proliferation involved in metanephros development	1	1.00	0.75	9.63	28.01
+GO:0006436	tryptophanyl-tRNA aminoacylation	1	0.93	0.90	9.59	205.43
+GO:0043377	negative regulation of CD8-positive, alpha-beta T cell differentiation	1	1.00	0.93	9.63	1831.20

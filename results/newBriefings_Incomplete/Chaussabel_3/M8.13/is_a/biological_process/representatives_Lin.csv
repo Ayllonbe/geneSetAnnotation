@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	2279	0.28	0.39	4.44	30.44
+GO:0051179	localization	1593	0.26	0.13	2.57	3.37
+GO:0019538	protein metabolic process	1463	0.31	0.41	4.91	44.77
+GO:0048583	regulation of response to stimulus	1378	0.25	0.32	3.72	7.96
+GO:0006355	regulation of transcription, DNA-templated	1310	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	1030	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	904	0.30	0.40	4.57	12.04
+GO:0042221	response to chemical	799	0.32	0.29	4.12	6.14
+GO:0006996	organelle organization	790	0.39	0.39	5.17	14.95
+GO:0007166	cell surface receptor signaling pathway	755	0.43	0.51	5.91	23.17
+GO:0007186	G-protein coupled receptor signaling pathway	222	0.55	0.57	7.20	23.17
+GO:0035556	intracellular signal transduction	596	0.51	0.55	6.92	23.17
+GO:0048869	cellular developmental process	716	0.32	0.29	4.16	13.85
+GO:0065003	protein-containing complex assembly	611	0.45	0.48	6.06	36.47
+GO:0070126	mitochondrial translational termination	60	1.00	0.85	9.63	40.69
+GO:0043065	positive regulation of apoptotic process	253	0.56	0.63	7.81	80.91
+GO:0060548	negative regulation of cell death	361	0.54	0.56	7.27	41.94
+GO:0001932	regulation of protein phosphorylation	493	0.50	0.62	7.64	109.03
+GO:0043666	regulation of phosphoprotein phosphatase activity	41	0.74	0.77	9.33	158.30
+GO:0042127	regulation of cell proliferation	495	0.45	0.48	6.03	12.04
+GO:0051726	regulation of cell cycle	438	0.41	0.45	5.89	12.04
+GO:0006468	protein phosphorylation	344	0.57	0.64	8.18	177.76
+GO:0019752	carboxylic acid metabolic process	344	0.32	0.45	5.31	42.50
+GO:0030334	regulation of cell migration	289	0.48	0.56	7.11	36.74
+GO:0001817	regulation of cytokine production	259	0.40	0.45	5.78	11.79
+GO:0050794	regulation of cellular process	3389	0.12	0.26	2.47	7.96
+GO:0030155	regulation of cell adhesion	220	0.48	0.44	5.95	7.96
+GO:0034660	ncRNA metabolic process	206	0.46	0.58	7.25	115.08
+GO:0016477	cell migration	201	0.47	0.48	6.31	17.13
+GO:0002697	regulation of immune effector process	165	0.44	0.47	6.05	10.80
+GO:0043043	peptide biosynthetic process	88	0.65	0.65	8.66	211.48
+GO:0043393	regulation of protein binding	80	0.59	0.55	7.49	9.33
+GO:0000086	G2/M transition of mitotic cell cycle	63	1.00	0.79	9.63	43.45
+GO:0007268	chemical synaptic transmission	52	0.74	0.72	8.66	23.17
+GO:0050880	regulation of blood vessel size	44	0.63	0.61	8.30	24.53
+GO:0007517	muscle organ development	34	0.78	0.64	8.75	27.68
+GO:0010906	regulation of glucose metabolic process	29	0.68	0.69	8.75	59.51
+GO:0051781	positive regulation of cell division	26	0.68	0.63	8.44	42.29
+GO:0090313	regulation of protein targeting to membrane	12	0.83	0.81	9.50	126.34
+GO:2001044	regulation of integrin-mediated signaling pathway	6	0.89	0.77	9.41	41.85
+GO:0071499	cellular response to laminar fluid shear stress	3	0.93	0.76	9.52	52.24
+GO:0006481	C-terminal protein methylation	2	0.84	0.82	9.45	363.15
+GO:0021503	neural fold bending	1	1.00	0.82	9.63	33.97

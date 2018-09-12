@@ -1,0 +1,78 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006464	cellular protein modification process	1230	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1131	0.33	0.45	5.35	37.59
+GO:0051172	negative regulation of nitrogen compound metabolic process	950	0.37	0.47	5.49	39.78
+GO:0006351	transcription, DNA-templated	936	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	878	0.32	0.29	4.12	6.14
+GO:0033554	cellular response to stress	665	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	654	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	643	0.31	0.40	4.67	10.45
+GO:0002682	regulation of immune system process	622	0.32	0.36	4.60	7.96
+GO:0009967	positive regulation of signal transduction	614	0.44	0.54	6.71	140.23
+GO:0042981	regulation of apoptotic process	569	0.45	0.55	6.60	16.23
+GO:0042127	regulation of cell proliferation	544	0.45	0.48	6.03	12.04
+GO:0043085	positive regulation of catalytic activity	531	0.48	0.49	6.15	18.32
+GO:0071310	cellular response to organic substance	519	0.44	0.47	5.95	41.66
+GO:0006508	proteolysis	507	0.55	0.57	7.34	47.86
+GO:0001934	positive regulation of protein phosphorylation	362	0.58	0.69	8.60	663.11
+GO:0042326	negative regulation of phosphorylation	192	0.58	0.66	8.18	181.49
+GO:0009968	negative regulation of signal transduction	445	0.44	0.54	6.68	140.65
+GO:0051094	positive regulation of developmental process	445	0.38	0.44	5.27	23.11
+GO:0045944	positive regulation of transcription by RNA polymerase II	438	0.55	0.71	8.36	1463.86
+GO:0032940	secretion by cell	423	0.48	0.53	6.33	20.46
+GO:0051704	multi-organism process	390	0.29	0.15	3.12	3.37
+GO:0044255	cellular lipid metabolic process	375	0.38	0.44	5.89	38.02
+GO:0002237	response to molecule of bacterial origin	142	0.69	0.59	8.74	31.75
+GO:0051707	response to other organism	249	0.42	0.46	6.41	24.63
+GO:0019221	cytokine-mediated signaling pathway	297	0.60	0.63	7.60	26.50
+GO:0016567	protein ubiquitination	296	0.69	0.74	9.00	153.79
+GO:0001817	regulation of cytokine production	278	0.40	0.45	5.78	11.79
+GO:0014070	response to organic cyclic compound	267	0.45	0.47	5.96	13.32
+GO:0006955	immune response	259	0.54	0.40	6.57	12.45
+GO:0042119	neutrophil activation	257	0.89	0.77	9.49	20.95
+GO:0007167	enzyme linked receptor protein signaling pathway	236	0.53	0.59	7.04	26.50
+GO:0007186	G-protein coupled receptor signaling pathway	234	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	220	0.47	0.48	6.31	17.13
+GO:0010952	positive regulation of peptidase activity	90	0.71	0.75	9.38	435.08
+GO:0045861	negative regulation of proteolysis	138	0.61	0.68	8.71	337.18
+GO:0003006	developmental process involved in reproduction	182	0.43	0.34	5.07	14.49
+GO:0051090	regulation of DNA binding transcription factor activity	172	0.72	0.77	9.22	255.34
+GO:0043687	post-translational protein modification	160	0.65	0.67	8.51	151.15
+GO:0010469	regulation of signaling receptor activity	153	0.59	0.62	7.95	48.62
+GO:0010759	positive regulation of macrophage chemotaxis	7	1.00	0.92	9.63	998.05
+GO:0050727	regulation of inflammatory response	146	0.53	0.59	7.40	31.59
+GO:0051098	regulation of binding	149	0.50	0.45	6.36	6.77
+GO:0071214	cellular response to abiotic stimulus	141	0.59	0.54	7.66	24.78
+GO:0005975	carbohydrate metabolic process	140	0.38	0.39	5.46	18.42
+GO:0002521	leukocyte differentiation	122	0.58	0.54	7.41	21.07
+GO:0016055	Wnt signaling pathway	121	0.59	0.65	7.65	28.58
+GO:0016311	dephosphorylation	117	0.68	0.63	8.33	24.41
+GO:0051056	regulation of small GTPase mediated signal transduction	114	0.68	0.69	8.65	45.07
+GO:0006888	ER to Golgi vesicle-mediated transport	97	1.00	0.82	9.63	49.13
+GO:0051054	positive regulation of DNA metabolic process	85	0.59	0.65	8.41	301.51
+GO:0006575	cellular modified amino acid metabolic process	74	0.52	0.51	7.11	41.16
+GO:0000902	cell morphogenesis	72	0.63	0.56	7.92	43.26
+GO:0001959	regulation of cytokine-mediated signaling pathway	71	0.61	0.63	8.11	55.11
+GO:1901796	regulation of signal transduction by p53 class mediator	67	0.72	0.71	9.12	45.07
+GO:0010634	positive regulation of epithelial cell migration	58	0.79	0.77	9.38	242.53
+GO:2000379	positive regulation of reactive oxygen species metabolic process	39	0.78	0.71	9.25	112.72
+GO:0045071	negative regulation of viral genome replication	38	0.89	0.82	9.47	85.24
+GO:0048208	COPII vesicle coating	34	1.00	0.82	9.63	62.44
+GO:0001649	osteoblast differentiation	33	1.00	0.75	9.63	21.07
+GO:0006909	phagocytosis	31	0.93	0.79	9.49	28.44
+GO:0051781	positive regulation of cell division	29	0.68	0.63	8.44	42.29
+GO:0031100	animal organ regeneration	29	0.89	0.70	9.29	28.09
+GO:0031343	positive regulation of cell killing	27	0.66	0.58	8.19	21.38
+GO:0043242	negative regulation of protein complex disassembly	26	0.72	0.69	8.83	65.73
+GO:0030279	negative regulation of ossification	23	0.84	0.71	9.38	41.83
+GO:0051146	striated muscle cell differentiation	20	0.74	0.66	8.78	21.76
+GO:0031663	lipopolysaccharide-mediated signaling pathway	18	1.00	0.82	9.63	26.50
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0002062	chondrocyte differentiation	14	0.89	0.70	9.45	21.07
+GO:0015701	bicarbonate transport	14	1.00	0.85	9.63	31.89
+GO:0035987	endodermal cell differentiation	11	1.00	0.75	9.63	21.07
+GO:0050873	brown fat cell differentiation	11	1.00	0.79	9.63	21.76
+GO:1904659	glucose transmembrane transport	9	0.84	0.82	9.37	37.51
+GO:0035973	aggrephagy	3	0.89	0.80	9.45	41.78
+GO:0014835	myoblast differentiation involved in skeletal muscle regeneration	2	1.00	0.79	9.63	21.76
+GO:0009253	peptidoglycan catabolic process	2	0.93	0.82	9.57	290.85

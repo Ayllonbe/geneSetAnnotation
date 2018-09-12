@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	542	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	542	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	200	0.33	0.45	5.35	37.59
+GO:0031325	positive regulation of cellular metabolic process	189	0.33	0.46	5.39	79.98
+GO:0031400	negative regulation of protein modification process	31	0.53	0.64	7.94	366.95
+GO:0010604	positive regulation of macromolecule metabolic process	184	0.37	0.48	5.51	38.99
+GO:0019538	protein metabolic process	155	0.31	0.41	4.91	44.77
+GO:0051049	regulation of transport	135	0.31	0.40	4.67	10.45
+GO:2000026	regulation of multicellular organismal development	126	0.29	0.39	4.73	23.09
+GO:0006464	cellular protein modification process	105	0.34	0.49	5.84	147.03
+GO:0014070	response to organic cyclic compound	66	0.45	0.47	5.96	13.32
+GO:0010243	response to organonitrogen compound	70	0.45	0.48	6.23	25.43
+GO:0007186	G-protein coupled receptor signaling pathway	84	0.55	0.57	7.20	23.17
+GO:0031327	negative regulation of cellular biosynthetic process	76	0.42	0.53	6.40	170.82
+GO:0080134	regulation of response to stress	103	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	70	0.40	0.45	5.60	11.65
+GO:0019221	cytokine-mediated signaling pathway	69	0.60	0.63	7.60	26.50
+GO:0050900	leukocyte migration	66	0.60	0.59	8.02	26.94
+GO:0043069	negative regulation of programmed cell death	62	0.55	0.60	7.50	59.56
+GO:0051130	positive regulation of cellular component organization	60	0.42	0.50	5.95	43.84
+GO:0015031	protein transport	60	0.48	0.59	6.99	54.46
+GO:0006812	cation transport	52	0.45	0.51	6.21	12.09
+GO:0006897	endocytosis	50	0.63	0.61	8.09	26.36
+GO:0044255	cellular lipid metabolic process	47	0.38	0.44	5.89	38.02
+GO:0043270	positive regulation of ion transport	25	0.53	0.59	7.18	46.28
+GO:0034765	regulation of ion transmembrane transport	36	0.46	0.55	6.68	33.04
+GO:0009617	response to bacterium	44	0.75	0.67	8.94	27.27
+GO:0006874	cellular calcium ion homeostasis	43	0.63	0.71	8.83	287.08
+GO:0060326	cell chemotaxis	37	0.64	0.61	8.15	30.29
+GO:0045089	positive regulation of innate immune response	31	0.54	0.62	7.78	173.78
+GO:0010035	response to inorganic substance	30	0.53	0.47	6.60	9.28
+GO:0051259	protein complex oligomerization	29	0.78	0.68	9.09	40.42
+GO:0120035	regulation of plasma membrane bounded cell projection organization	29	0.51	0.58	7.05	17.28
+GO:0045765	regulation of angiogenesis	25	0.70	0.68	8.82	44.94
+GO:0051260	protein homooligomerization	24	0.89	0.77	9.41	42.03
+GO:0019722	calcium-mediated signaling	22	0.72	0.71	8.71	27.81
+GO:0007268	chemical synaptic transmission	19	0.74	0.72	8.66	23.17
+GO:0001666	response to hypoxia	19	0.81	0.70	9.12	21.16
+GO:0072657	protein localization to membrane	17	0.58	0.58	7.59	29.83
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	15	0.79	0.77	9.12	28.36
+GO:0043393	regulation of protein binding	14	0.59	0.55	7.49	9.33
+GO:0031295	T cell costimulation	12	0.93	0.86	9.59	354.90
+GO:0015718	monocarboxylic acid transport	12	0.56	0.66	7.76	50.20
+GO:0008016	regulation of heart contraction	11	0.57	0.61	7.59	16.15
+GO:0046718	viral entry into host cell	10	0.77	0.73	8.94	28.37
+GO:0010595	positive regulation of endothelial cell migration	8	0.83	0.81	9.49	298.63
+GO:0032507	maintenance of protein location in cell	7	0.68	0.63	8.41	43.86
+GO:0030203	glycosaminoglycan metabolic process	7	0.66	0.62	8.41	52.03
+GO:0060070	canonical Wnt signaling pathway	6	0.67	0.71	8.39	31.42
+GO:0001570	vasculogenesis	6	0.89	0.70	9.29	21.07
+GO:0045907	positive regulation of vasoconstriction	5	0.89	0.82	9.58	103.52
+GO:0071560	cellular response to transforming growth factor beta stimulus	5	1.00	0.82	9.63	97.49
+GO:0043114	regulation of vascular permeability	5	0.84	0.71	9.18	21.20
+GO:0008344	adult locomotory behavior	5	0.84	0.62	9.16	24.58
+GO:0042310	vasoconstriction	4	0.75	0.75	9.10	39.68
+GO:0048015	phosphatidylinositol-mediated signaling	4	0.93	0.82	9.51	26.43
+GO:0030301	cholesterol transport	4	0.78	0.74	9.00	37.85
+GO:0035176	social behavior	3	1.00	0.70	9.63	22.58
+GO:0006622	protein targeting to lysosome	3	0.93	0.90	9.59	250.38
+GO:0055002	striated muscle cell development	3	0.76	0.67	8.94	32.85
+GO:0001657	ureteric bud development	3	1.00	0.88	9.63	36.92
+GO:1904886	beta-catenin destruction complex disassembly	3	1.00	0.79	9.63	38.05
+GO:0007595	lactation	3	1.00	0.82	9.63	25.96
+GO:0003056	regulation of vascular smooth muscle contraction	3	0.83	0.79	9.53	76.73
+GO:0060009	Sertoli cell development	3	0.93	0.76	9.52	53.97
+GO:0071455	cellular response to hyperoxia	2	1.00	0.82	9.63	99.66
+GO:1904659	glucose transmembrane transport	2	0.84	0.82	9.37	37.51
+GO:0034446	substrate adhesion-dependent cell spreading	2	1.00	0.82	9.63	56.23
+GO:0051001	negative regulation of nitric-oxide synthase activity	2	1.00	0.85	9.63	123.18
+GO:0042417	dopamine metabolic process	2	0.87	0.78	9.50	117.21
+GO:0048627	myoblast development	1	1.00	0.75	9.63	32.15
+GO:0001964	startle response	1	1.00	0.79	9.63	22.23
+GO:0006465	signal peptide processing	1	0.93	0.82	9.57	245.95
+GO:0072012	glomerulus vasculature development	1	0.89	0.80	9.41	29.79
+GO:0046541	saliva secretion	1	1.00	0.82	9.63	60.49
+GO:0007207	phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway	1	1.00	0.88	9.63	80.59
+GO:0001662	behavioral fear response	1	1.00	0.79	9.63	37.89
+GO:0000160	phosphorelay signal transduction system	1	0.84	0.74	9.27	26.43
+GO:0086098	angiotensin-activated signaling pathway involved in heart process	1	0.93	0.82	9.52	56.26
+GO:0048014	Tie signaling pathway	1	1.00	0.88	9.63	31.00
+GO:0098909	regulation of cardiac muscle cell action potential involved in regulation of contraction	1	1.00	0.82	9.63	24.10
+GO:0070836	caveola assembly	1	1.00	0.85	9.63	78.00
+GO:0042426	choline catabolic process	1	1.00	0.88	9.63	257.11
+GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	1	1.00	0.85	9.63	102.60

@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	522	0.50	0.60	7.60	369.32
+GO:0045944	positive regulation of transcription by RNA polymerase II	404	0.55	0.71	8.36	1463.86
+GO:0030163	protein catabolic process	205	0.63	0.61	8.35	135.67
+GO:0006518	peptide metabolic process	142	0.56	0.57	7.65	56.97
+GO:0000398	mRNA splicing, via spliceosome	109	0.83	0.85	9.49	356.67
+GO:0030182	neuron differentiation	55	0.58	0.54	7.21	21.07
+GO:0051053	negative regulation of DNA metabolic process	55	0.57	0.64	8.26	302.32
+GO:0031333	negative regulation of protein complex assembly	54	0.62	0.63	8.04	78.77
+GO:0032091	negative regulation of protein binding	40	0.70	0.64	8.48	32.72
+GO:0006099	tricarboxylic acid cycle	18	0.93	0.84	9.56	83.50
+GO:0006779	porphyrin-containing compound biosynthetic process	17	0.70	0.68	9.20	516.36
+GO:1902475	L-alpha-amino acid transmembrane transport	15	0.62	0.72	8.53	268.42
+GO:0006509	membrane protein ectodomain proteolysis	8	0.89	0.80	9.45	50.75
+GO:0031848	protection from non-homologous end joining at telomere	4	1.00	0.90	9.63	217.09
+GO:0000390	spliceosomal complex disassembly	2	1.00	0.82	9.63	58.05
+GO:0018160	peptidyl-pyrromethane cofactor linkage	1	1.00	0.90	9.63	311.77

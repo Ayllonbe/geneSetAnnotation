@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	564	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	561	0.36	0.43	5.06	19.43
+GO:0010506	regulation of autophagy	16	0.63	0.64	8.27	43.36
+GO:0065009	regulation of molecular function	364	0.33	0.29	4.10	4.47
+GO:0010033	response to organic substance	294	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	242	0.52	0.51	6.57	10.99
+GO:0030154	cell differentiation	198	0.39	0.39	5.18	16.68
+GO:0045055	regulated exocytosis	172	0.69	0.69	8.57	38.47
+GO:0043410	positive regulation of MAPK cascade	90	0.66	0.75	9.17	1017.24
+GO:0045596	negative regulation of cell differentiation	79	0.44	0.51	6.50	82.79
+GO:0006508	proteolysis	77	0.55	0.57	7.34	47.86
+GO:0003006	developmental process involved in reproduction	58	0.43	0.34	5.07	14.49
+GO:0005975	carbohydrate metabolic process	30	0.38	0.39	5.46	18.42
+GO:1901136	carbohydrate derivative catabolic process	23	0.50	0.50	6.56	36.50
+GO:0046718	viral entry into host cell	18	0.77	0.73	8.94	28.37
+GO:0006664	glycolipid metabolic process	8	0.60	0.62	8.34	77.10
+GO:0048208	COPII vesicle coating	4	1.00	0.82	9.63	62.44
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	3	0.84	0.82	9.59	500.08
+GO:0060441	epithelial tube branching involved in lung morphogenesis	3	0.93	0.82	9.53	53.50
+GO:0010757	negative regulation of plasminogen activation	2	1.00	0.92	9.63	820.53
+GO:0046323	glucose import	1	0.89	0.86	9.46	38.21
+GO:1905572	ganglioside GM1 transport to membrane	1	1.00	0.88	9.63	123.76

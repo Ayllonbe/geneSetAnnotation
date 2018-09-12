@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	173	0.00	0.00	0.00	0.00
+GO:0044093	positive regulation of molecular function	33	0.43	0.41	5.23	6.77
+GO:0060045	positive regulation of cardiac muscle cell proliferation	1	1.00	0.92	9.63	720.41
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	1	1.00	0.85	9.63	344.24
+GO:0045736	negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	0.89	0.89	9.59	2927.12
+GO:0050789	regulation of biological process	140	0.09	0.17	1.80	4.47
+GO:0044093	positive regulation of molecular function	33	0.43	0.41	5.23	6.77
+GO:0060045	positive regulation of cardiac muscle cell proliferation	1	1.00	0.92	9.63	720.41
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	1	1.00	0.85	9.63	344.24
+GO:0045736	negative regulation of cyclin-dependent protein serine/threonine kinase activity	1	0.89	0.89	9.59	2927.12
+GO:0050789	regulation of biological process	140	0.09	0.17	1.80	4.47
+GO:0006958	complement activation, classical pathway	6	1.00	0.88	9.63	171.03
+GO:0002376	immune system process	45	0.38	0.19	3.93	3.37
+GO:0050896	response to stimulus	74	0.25	0.12	2.65	3.37
+GO:0006958	complement activation, classical pathway	6	1.00	0.88	9.63	171.03
+GO:0002376	immune system process	45	0.38	0.19	3.93	3.37
+GO:0050896	response to stimulus	74	0.25	0.12	2.65	3.37
+GO:0043170	macromolecule metabolic process	79	0.25	0.32	3.46	10.22
+GO:0019752	carboxylic acid metabolic process	7	0.32	0.45	5.31	42.50
+GO:0008104	protein localization	36	0.40	0.40	5.07	7.46
+GO:0006810	transport	57	0.28	0.34	3.95	7.46
+GO:0032501	multicellular organismal process	18	0.33	0.16	3.12	3.37

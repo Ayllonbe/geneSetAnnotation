@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2036	0.00	0.00	0.00	0.00
+GO:0003006	developmental process involved in reproduction	98	0.43	0.34	5.07	14.49
+GO:0009987	cellular process	1813	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	497	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	1515	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	568	0.33	0.29	4.10	4.47
+GO:0009056	catabolic process	195	0.30	0.27	3.52	6.41
+GO:0071704	organic substance metabolic process	1021	0.15	0.20	2.26	6.41
+GO:0006810	transport	651	0.28	0.34	3.95	7.46
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0002086	diaphragm contraction	1	1.00	0.88	9.63	31.03

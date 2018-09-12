@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	662	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	451	0.21	0.30	3.05	7.96
+GO:0022607	cellular component assembly	144	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	112	0.39	0.39	5.17	14.95
+GO:0009967	positive regulation of signal transduction	160	0.44	0.54	6.71	140.23
+GO:0042127	regulation of cell proliferation	159	0.45	0.48	6.03	12.04
+GO:0045055	regulated exocytosis	131	0.69	0.69	8.57	38.47
+GO:0006928	movement of cell or subcellular component	123	0.42	0.33	4.88	7.39
+GO:0030334	regulation of cell migration	106	0.48	0.56	7.11	36.74
+GO:0051050	positive regulation of transport	105	0.42	0.50	5.84	25.90
+GO:0051641	cellular localization	101	0.37	0.31	4.44	5.67
+GO:0033554	cellular response to stress	91	0.44	0.42	6.05	25.47
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0048468	cell development	42	0.51	0.45	6.51	28.42
+GO:0009615	response to virus	36	0.74	0.66	8.80	27.27
+GO:0110053	regulation of actin filament organization	22	0.63	0.69	8.47	54.28
+GO:1903078	positive regulation of protein localization to plasma membrane	7	0.84	0.80	9.43	218.50
+GO:0032869	cellular response to insulin stimulus	7	1.00	0.88	9.63	462.70
+GO:0001701	in utero embryonic development	7	1.00	0.85	9.63	22.50
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	5	0.89	0.82	9.54	374.75
+GO:0048675	axon extension	5	0.89	0.74	9.43	51.99
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0019065	receptor-mediated endocytosis of virus by host cell	2	0.89	0.80	9.51	100.58
+GO:0045725	positive regulation of glycogen biosynthetic process	2	1.00	0.92	9.63	1082.43
+GO:0044791	positive regulation by host of viral release from host cell	1	1.00	0.90	9.63	253.87
+GO:0003065	positive regulation of heart rate by epinephrine	1	0.89	0.84	9.50	125.79

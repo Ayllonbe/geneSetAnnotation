@@ -1,0 +1,73 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	796	0.25	0.32	3.72	7.96
+GO:0007166	cell surface receptor signaling pathway	569	0.43	0.51	5.91	23.17
+GO:0010605	negative regulation of macromolecule metabolic process	364	0.37	0.48	5.54	39.19
+GO:0042127	regulation of cell proliferation	353	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	352	0.34	0.49	5.84	147.03
+GO:0050776	regulation of immune response	334	0.38	0.44	5.64	22.45
+GO:0010941	regulation of cell death	321	0.43	0.47	6.10	12.04
+GO:0010033	response to organic substance	435	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	137	0.47	0.43	5.84	9.28
+GO:1901700	response to oxygen-containing compound	319	0.39	0.39	5.14	9.28
+GO:0071310	cellular response to organic substance	307	0.44	0.47	5.95	41.66
+GO:0035556	intracellular signal transduction	302	0.51	0.55	6.92	23.17
+GO:0001932	regulation of protein phosphorylation	285	0.50	0.62	7.64	109.03
+GO:0031397	negative regulation of protein ubiquitination	11	0.75	0.79	9.37	529.46
+GO:0019221	cytokine-mediated signaling pathway	235	0.60	0.63	7.60	26.50
+GO:1902533	positive regulation of intracellular signal transduction	228	0.55	0.63	7.95	189.48
+GO:0051130	positive regulation of cellular component organization	206	0.42	0.50	5.95	43.84
+GO:0050865	regulation of cell activation	198	0.45	0.48	6.31	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
+GO:0043312	neutrophil degranulation	178	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	163	0.68	0.59	8.16	26.47
+GO:0050863	regulation of T cell activation	125	0.52	0.61	7.60	29.19
+GO:0050864	regulation of B cell activation	52	0.64	0.67	8.41	29.19
+GO:0050900	leukocyte migration	153	0.60	0.59	8.02	26.94
+GO:0001819	positive regulation of cytokine production	144	0.51	0.54	6.97	44.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:1901652	response to peptide	88	0.62	0.60	8.14	43.80
+GO:0042742	defense response to bacterium	77	0.79	0.72	9.19	69.65
+GO:0045637	regulation of myeloid cell differentiation	71	0.62	0.63	8.47	67.17
+GO:0042110	T cell activation	70	0.59	0.59	7.76	19.85
+GO:1903829	positive regulation of cellular protein localization	61	0.60	0.62	7.80	40.87
+GO:0002687	positive regulation of leukocyte migration	60	0.66	0.71	8.96	238.70
+GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0030593	neutrophil chemotaxis	44	1.00	0.90	9.63	130.30
+GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
+GO:0008360	regulation of cell shape	42	0.68	0.66	8.69	41.78
+GO:0072657	protein localization to membrane	42	0.58	0.58	7.59	29.83
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	39	0.80	0.65	8.94	20.20
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0030183	B cell differentiation	36	0.73	0.69	9.02	64.36
+GO:1903169	regulation of calcium ion transmembrane transport	34	0.63	0.69	8.50	58.21
+GO:2001056	positive regulation of cysteine-type endopeptidase activity	32	0.79	0.83	9.51	564.45
+GO:0050853	B cell receptor signaling pathway	30	0.93	0.88	9.58	219.43
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	29	0.74	0.75	9.04	58.64
+GO:0038094	Fc-gamma receptor signaling pathway	28	0.93	0.84	9.55	78.48
+GO:0002431	Fc receptor mediated stimulatory signaling pathway	26	0.89	0.84	9.53	218.74
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0038095	Fc-epsilon receptor signaling pathway	25	0.93	0.84	9.55	78.48
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	22	1.00	0.93	9.63	628.11
+GO:0002244	hematopoietic progenitor cell differentiation	21	0.81	0.66	8.94	21.07
+GO:0035987	endodermal cell differentiation	17	1.00	0.75	9.63	21.07
+GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
+GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
+GO:0043647	inositol phosphate metabolic process	8	0.74	0.69	9.28	87.62
+GO:0030220	platelet formation	6	1.00	0.79	9.63	33.80
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0045779	negative regulation of bone resorption	6	1.00	0.85	9.63	83.01
+GO:0035855	megakaryocyte development	5	1.00	0.79	9.63	66.39
+GO:0001766	membrane raft polarization	4	0.93	0.79	9.54	30.90
+GO:0048813	dendrite morphogenesis	4	0.83	0.79	9.49	64.61
+GO:0002554	serotonin secretion by platelet	3	1.00	0.92	9.63	131.65
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	71.51
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	2	1.00	0.85	9.63	83.84
+GO:0006882	cellular zinc ion homeostasis	2	1.00	0.92	9.63	329.34
+GO:0097062	dendritic spine maintenance	1	1.00	0.85	9.63	53.71
+GO:1902951	negative regulation of dendritic spine maintenance	1	1.00	0.88	9.63	176.18

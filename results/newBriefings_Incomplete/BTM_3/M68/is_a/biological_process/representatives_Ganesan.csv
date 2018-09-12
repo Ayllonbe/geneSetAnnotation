@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1787	0.00	0.00	0.00	0.00
+GO:0043392	negative regulation of DNA binding	6	0.76	0.67	8.87	32.53
+GO:0007253	cytoplasmic sequestering of NF-kappaB	3	1.00	0.96	9.63	578.62
+GO:0044130	negative regulation of growth of symbiont in host	7	1.00	0.85	9.63	102.69
+GO:0050789	regulation of biological process	1317	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	32	0.93	0.91	9.59	279.44
+GO:0032502	developmental process	482	0.22	0.11	1.89	3.37
+GO:0008104	protein localization	172	0.40	0.40	5.07	7.46

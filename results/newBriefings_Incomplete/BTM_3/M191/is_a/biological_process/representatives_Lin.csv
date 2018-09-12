@@ -1,0 +1,87 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	504	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	329	0.35	0.46	5.09	13.73
+GO:0051716	cellular response to stimulus	318	0.35	0.30	4.36	13.53
+GO:0019538	protein metabolic process	288	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	262	0.40	0.60	6.84	245.35
+GO:0002684	positive regulation of immune system process	236	0.41	0.45	5.71	22.61
+GO:0042127	regulation of cell proliferation	223	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	214	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	203	0.44	0.47	5.95	41.66
+GO:0035690	cellular response to drug	40	0.56	0.53	7.02	41.91
+GO:0045595	regulation of cell differentiation	193	0.34	0.42	5.25	23.33
+GO:0001932	regulation of protein phosphorylation	193	0.50	0.62	7.64	109.03
+GO:0010941	regulation of cell death	186	0.43	0.47	6.10	12.04
+GO:0051094	positive regulation of developmental process	167	0.38	0.44	5.27	23.11
+GO:0071705	nitrogen compound transport	138	0.36	0.43	4.99	10.99
+GO:0015893	drug transport	19	0.50	0.50	6.29	10.99
+GO:0051180	vitamin transport	6	0.66	0.58	7.84	10.99
+GO:0071702	organic substance transport	166	0.33	0.41	4.62	10.99
+GO:0016070	RNA metabolic process	163	0.39	0.52	6.45	112.25
+GO:0051641	cellular localization	146	0.37	0.31	4.44	5.67
+GO:0051336	regulation of hydrolase activity	141	0.46	0.48	6.24	9.25
+GO:0034220	ion transmembrane transport	119	0.45	0.51	6.18	26.33
+GO:0006820	anion transport	64	0.42	0.50	5.80	12.09
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80
+GO:0051050	positive regulation of transport	136	0.42	0.50	5.84	25.90
+GO:0009968	negative regulation of signal transduction	136	0.44	0.54	6.68	140.65
+GO:0048878	chemical homeostasis	129	0.48	0.49	6.42	10.43
+GO:0022402	cell cycle process	101	0.40	0.32	4.60	7.39
+GO:0030335	positive regulation of cell migration	100	0.58	0.64	8.22	157.26
+GO:0007167	enzyme linked receptor protein signaling pathway	99	0.53	0.59	7.04	26.50
+GO:0009725	response to hormone	99	0.53	0.51	7.03	21.86
+GO:0006629	lipid metabolic process	92	0.37	0.38	5.19	18.42
+GO:0002521	leukocyte differentiation	73	0.58	0.54	7.41	21.07
+GO:0006974	cellular response to DNA damage stimulus	73	0.57	0.53	7.47	29.00
+GO:0080135	regulation of cellular response to stress	62	0.46	0.52	6.64	26.18
+GO:0051276	chromosome organization	59	0.55	0.52	6.96	18.35
+GO:0034765	regulation of ion transmembrane transport	58	0.46	0.55	6.68	33.04
+GO:0044057	regulation of system process	58	0.41	0.46	5.70	11.79
+GO:0051259	protein complex oligomerization	52	0.78	0.68	9.09	40.42
+GO:0031329	regulation of cellular catabolic process	44	0.43	0.51	6.41	39.60
+GO:0030111	regulation of Wnt signaling pathway	32	0.59	0.62	7.99	41.85
+GO:0043687	post-translational protein modification	27	0.65	0.67	8.51	151.15
+GO:0006790	sulfur compound metabolic process	25	0.44	0.42	5.69	17.52
+GO:0016055	Wnt signaling pathway	24	0.59	0.65	7.65	28.58
+GO:0030308	negative regulation of cell growth	22	0.69	0.67	8.67	80.89
+GO:0097193	intrinsic apoptotic signaling pathway	18	0.74	0.69	9.07	50.98
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	16	1.00	0.88	9.63	238.42
+GO:1902275	regulation of chromatin organization	14	0.51	0.61	7.27	21.75
+GO:0070602	regulation of centromeric sister chromatid cohesion	1	0.81	0.80	9.34	56.73
+GO:0000731	DNA synthesis involved in DNA repair	15	0.77	0.76	9.37	574.69
+GO:0042306	regulation of protein import into nucleus	14	0.83	0.79	9.51	189.48
+GO:0042594	response to starvation	14	0.61	0.59	7.51	20.88
+GO:0007517	muscle organ development	12	0.78	0.64	8.75	27.68
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	11	0.93	0.91	9.59	279.62
+GO:0048511	rhythmic process	10	0.62	0.31	5.94	3.37
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0007214	gamma-aminobutyric acid signaling pathway	6	1.00	0.82	9.63	26.98
+GO:0097035	regulation of membrane lipid distribution	6	0.69	0.60	8.44	26.99
+GO:0030301	cholesterol transport	5	0.78	0.74	9.00	37.85
+GO:0003376	sphingosine-1-phosphate signaling pathway	5	0.89	0.77	9.41	50.15
+GO:0050892	intestinal absorption	4	0.81	0.66	9.18	23.07
+GO:1904837	beta-catenin-TCF complex assembly	4	1.00	0.79	9.63	40.42
+GO:0061647	histone H3-K9 modification	4	0.84	0.80	9.49	187.05
+GO:0070633	transepithelial transport	4	0.81	0.66	8.82	10.99
+GO:0048240	sperm capacitation	4	1.00	0.75	9.63	67.15
+GO:0048194	Golgi vesicle budding	3	0.89	0.77	9.41	40.37
+GO:0045348	positive regulation of MHC class II biosynthetic process	3	1.00	0.85	9.63	147.29
+GO:0090400	stress-induced premature senescence	3	0.93	0.76	9.54	55.83
+GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
+GO:0006904	vesicle docking involved in exocytosis	2	0.89	0.77	9.43	32.65
+GO:0001756	somitogenesis	2	1.00	0.79	9.63	43.80
+GO:0050872	white fat cell differentiation	2	0.93	0.76	9.47	21.76
+GO:0051097	negative regulation of helicase activity	2	0.87	0.76	9.43	49.94
+GO:0046628	positive regulation of insulin receptor signaling pathway	2	0.89	0.80	9.52	293.60
+GO:0050434	positive regulation of viral transcription	2	0.93	0.82	9.53	62.41
+GO:0003413	chondrocyte differentiation involved in endochondral bone morphogenesis	1	0.93	0.76	9.47	21.07
+GO:0035358	regulation of peroxisome proliferator activated receptor signaling pathway	1	0.89	0.77	9.41	41.85
+GO:2000655	negative regulation of cellular response to testosterone stimulus	1	1.00	0.79	9.63	79.37
+GO:0061181	regulation of chondrocyte development	1	0.83	0.76	9.46	87.87
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64
+GO:0060766	negative regulation of androgen receptor signaling pathway	1	0.93	0.84	9.57	234.24
+GO:0033210	leptin-mediated signaling pathway	1	0.93	0.82	9.51	30.19
+GO:0006642	triglyceride mobilization	1	1.00	0.88	9.63	86.98
+GO:0045795	positive regulation of cell volume	1	1.00	0.85	9.63	50.63
+GO:0006047	UDP-N-acetylglucosamine metabolic process	1	0.87	0.78	9.52	163.58
+GO:1904179	positive regulation of adipose tissue development	1	1.00	0.82	9.63	84.16

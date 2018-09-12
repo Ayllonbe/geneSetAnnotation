@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	484	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	1454	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	1371	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	630	0.23	0.31	3.63	19.40
+GO:0009966	regulation of signal transduction	555	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	456	0.39	0.32	4.70	6.14
+GO:0019221	cytokine-mediated signaling pathway	226	0.60	0.63	7.60	26.50
+GO:0045055	regulated exocytosis	222	0.69	0.69	8.57	38.47
+GO:0001934	positive regulation of protein phosphorylation	206	0.58	0.69	8.60	663.11
+GO:0006468	protein phosphorylation	150	0.57	0.64	8.18	177.76
+GO:0030335	positive regulation of cell migration	140	0.58	0.64	8.22	157.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	109	0.58	0.64	7.56	28.11
+GO:0050727	regulation of inflammatory response	108	0.53	0.59	7.40	31.59
+GO:0050707	regulation of cytokine secretion	66	0.59	0.67	8.36	114.42
+GO:0046488	phosphatidylinositol metabolic process	36	0.68	0.69	8.80	147.20
+GO:0045216	cell-cell junction organization	34	0.68	0.59	8.15	16.05
+GO:0046718	viral entry into host cell	23	0.77	0.73	8.94	28.37
+GO:0031623	receptor internalization	23	0.72	0.71	9.20	64.85
+GO:0002286	T cell activation involved in immune response	23	0.70	0.67	8.89	82.05
+GO:0070498	interleukin-1-mediated signaling pathway	14	1.00	0.85	9.63	30.19
+GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07
+GO:0010955	negative regulation of protein processing	14	0.72	0.76	9.28	707.20
+GO:2000249	regulation of actin cytoskeleton reorganization	13	0.89	0.82	9.43	36.20
+GO:0048015	phosphatidylinositol-mediated signaling	12	0.93	0.82	9.51	26.43
+GO:0001916	positive regulation of T cell mediated cytotoxicity	8	0.87	0.83	9.52	365.14
+GO:0030225	macrophage differentiation	8	0.93	0.79	9.51	47.07
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0021879	forebrain neuron differentiation	5	0.80	0.72	9.01	26.73
+GO:0030224	monocyte differentiation	4	1.00	0.82	9.63	69.53
+GO:0090331	negative regulation of platelet aggregation	4	0.93	0.88	9.60	548.67
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
+GO:0036006	cellular response to macrophage colony-stimulating factor stimulus	1	1.00	0.82	9.63	81.65
+GO:0060603	mammary gland duct morphogenesis	1	1.00	0.82	9.63	32.21

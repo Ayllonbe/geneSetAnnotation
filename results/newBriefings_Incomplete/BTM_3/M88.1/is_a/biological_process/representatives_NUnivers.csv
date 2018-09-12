@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	700	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	591	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	482	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	378	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	361	0.40	0.60	6.84	245.35
+GO:0034654	nucleobase-containing compound biosynthetic process	254	0.40	0.49	6.85	317.02
+GO:0042592	homeostatic process	217	0.45	0.42	5.70	8.64
+GO:0045944	positive regulation of transcription by RNA polymerase II	159	0.55	0.71	8.36	1463.86
+GO:0050900	leukocyte migration	140	0.60	0.59	8.02	26.94
+GO:0045596	negative regulation of cell differentiation	114	0.44	0.51	6.50	82.79
+GO:0000122	negative regulation of transcription by RNA polymerase II	95	0.61	0.74	8.79	1836.95
+GO:0048812	neuron projection morphogenesis	33	0.65	0.68	8.50	63.00
+GO:0065004	protein-DNA complex assembly	31	0.65	0.65	8.33	63.42
+GO:0030193	regulation of blood coagulation	30	0.67	0.69	8.94	65.68
+GO:0046488	phosphatidylinositol metabolic process	29	0.68	0.69	8.80	147.20
+GO:0048754	branching morphogenesis of an epithelial tube	24	0.74	0.69	8.88	51.71
+GO:0030833	regulation of actin filament polymerization	21	0.70	0.77	9.22	153.53
+GO:0009749	response to glucose	19	0.89	0.80	9.41	32.96
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	18	1.00	0.93	9.63	628.11
+GO:0050796	regulation of insulin secretion	18	0.83	0.81	9.53	205.48
+GO:0009267	cellular response to starvation	15	0.64	0.64	8.46	112.77
+GO:0001678	cellular glucose homeostasis	12	0.93	0.82	9.53	49.18
+GO:0010470	regulation of gastrulation	10	0.59	0.62	7.99	45.91
+GO:0008344	adult locomotory behavior	10	0.84	0.62	9.16	24.58
+GO:0016266	O-glycan processing	9	0.79	0.79	9.28	178.64
+GO:1900029	positive regulation of ruffle assembly	6	1.00	0.90	9.63	200.31
+GO:0032922	circadian regulation of gene expression	6	1.00	0.82	9.63	31.18
+GO:0030073	insulin secretion	5	0.93	0.86	9.59	236.68
+GO:0006591	ornithine metabolic process	3	0.77	0.76	9.13	84.28
+GO:0048557	embryonic digestive tract morphogenesis	3	1.00	0.79	9.63	31.26
+GO:1900212	negative regulation of mesenchymal cell apoptotic process involved in metanephros development	2	0.93	0.86	9.59	461.20
+GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose	1	0.93	0.93	9.60	1118.45
+GO:2000971	negative regulation of detection of glucose	1	1.00	0.79	9.63	39.92
+GO:0072095	regulation of branch elongation involved in ureteric bud branching	1	0.89	0.82	9.56	152.16
+GO:0039020	pronephric nephron tubule development	1	0.89	0.82	9.45	58.05
+GO:2000049	positive regulation of cell-cell adhesion mediated by cadherin	1	1.00	0.82	9.63	52.09
+GO:0019673	GDP-mannose metabolic process	1	0.87	0.78	9.51	126.47
+GO:0072181	mesonephric duct formation	1	1.00	0.92	9.63	118.27
+GO:0033132	negative regulation of glucokinase activity	1	1.00	0.93	9.63	694.68
+GO:0061296	negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis	1	1.00	0.93	9.63	996.62

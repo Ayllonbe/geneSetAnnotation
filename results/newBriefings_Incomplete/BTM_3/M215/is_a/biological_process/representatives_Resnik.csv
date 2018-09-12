@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	530	0.24	0.37	3.90	23.85
+GO:0007166	cell surface receptor signaling pathway	363	0.43	0.51	5.91	23.17
+GO:0002694	regulation of leukocyte activation	131	0.46	0.52	6.81	24.92
+GO:0050776	regulation of immune response	217	0.38	0.44	5.64	22.45
+GO:0006355	regulation of transcription, DNA-templated	241	0.40	0.60	6.84	245.35
+GO:1902531	regulation of intracellular signal transduction	231	0.45	0.55	6.77	41.85
+GO:0051128	regulation of cellular component organization	229	0.30	0.40	4.57	12.04
+GO:0045321	leukocyte activation	212	0.52	0.46	6.78	16.27
+GO:0035556	intracellular signal transduction	195	0.51	0.55	6.92	23.17
+GO:0042325	regulation of phosphorylation	183	0.47	0.59	6.88	31.28
+GO:1903829	positive regulation of cellular protein localization	36	0.60	0.62	7.80	40.87
+GO:0051270	regulation of cellular component movement	146	0.43	0.47	6.20	22.49
+GO:1903829	positive regulation of cellular protein localization	36	0.60	0.62	7.80	40.87
+GO:0051270	regulation of cellular component movement	146	0.43	0.47	6.20	22.49
+GO:0042981	regulation of apoptotic process	165	0.45	0.55	6.60	16.23
+GO:0007186	G-protein coupled receptor signaling pathway	152	0.55	0.57	7.20	23.17
+GO:0008284	positive regulation of cell proliferation	147	0.56	0.57	7.27	43.45
+GO:0045893	positive regulation of transcription, DNA-templated	127	0.52	0.67	8.14	1208.12
+GO:0060326	cell chemotaxis	79	0.64	0.61	8.15	30.29
+GO:0043087	regulation of GTPase activity	54	0.87	0.72	9.29	12.47
+GO:0030030	cell projection organization	47	0.53	0.46	6.62	14.95
+GO:0007162	negative regulation of cell adhesion	45	0.57	0.57	7.40	38.27
+GO:0030036	actin cytoskeleton organization	37	0.63	0.61	8.05	29.61
+GO:0046854	phosphatidylinositol phosphorylation	18	1.00	0.88	9.63	218.74
+GO:0008361	regulation of cell size	4	0.78	0.68	9.00	28.02
+GO:0010310	regulation of hydrogen peroxide metabolic process	2	0.79	0.72	9.22	58.13
+GO:0030037	actin filament reorganization involved in cell cycle	1	1.00	0.82	9.63	31.06

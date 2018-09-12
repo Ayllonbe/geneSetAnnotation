@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1310	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	900	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	733	0.22	0.36	4.01	22.77
+GO:1901564	organonitrogen compound metabolic process	601	0.23	0.31	3.63	19.40
+GO:0006575	cellular modified amino acid metabolic process	17	0.52	0.51	7.11	41.16
+GO:0034641	cellular nitrogen compound metabolic process	462	0.26	0.33	4.23	26.70
+GO:0006355	regulation of transcription, DNA-templated	403	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	325	0.34	0.49	5.84	147.03
+GO:0022607	cellular component assembly	310	0.39	0.39	5.06	14.95
+GO:0044271	cellular nitrogen compound biosynthetic process	308	0.36	0.43	5.55	60.43
+GO:0031328	positive regulation of cellular biosynthetic process	299	0.41	0.53	6.32	170.14
+GO:0071310	cellular response to organic substance	291	0.44	0.47	5.95	41.66
+GO:0010628	positive regulation of gene expression	284	0.47	0.56	6.67	58.80
+GO:0046903	secretion	279	0.46	0.48	5.79	10.99
+GO:0071702	organic substance transport	236	0.33	0.41	4.62	10.99
+GO:0009968	negative regulation of signal transduction	200	0.44	0.54	6.68	140.65
+GO:0031327	negative regulation of cellular biosynthetic process	196	0.42	0.53	6.40	170.82
+GO:0043066	negative regulation of apoptotic process	195	0.56	0.63	7.79	81.07
+GO:0043312	neutrophil degranulation	168	1.00	0.90	9.63	132.80
+GO:0006855	drug transmembrane transport	14	0.58	0.58	7.29	29.08
+GO:0034220	ion transmembrane transport	146	0.45	0.51	6.18	26.33
+GO:0045087	innate immune response	146	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	146	0.60	0.59	8.02	26.94
+GO:0043269	regulation of ion transport	117	0.41	0.50	6.00	14.08
+GO:0006520	cellular amino acid metabolic process	39	0.41	0.53	6.53	77.81
+GO:0032787	monocarboxylic acid metabolic process	73	0.40	0.53	6.17	45.97
+GO:0060627	regulation of vesicle-mediated transport	86	0.48	0.53	6.81	26.12
+GO:0001818	negative regulation of cytokine production	77	0.51	0.55	7.03	44.36
+GO:0042742	defense response to bacterium	71	0.79	0.72	9.19	69.65
+GO:0006732	coenzyme metabolic process	35	0.46	0.48	6.18	20.70
+GO:0006367	transcription initiation from RNA polymerase II promoter	32	1.00	0.90	9.63	477.15
+GO:0002224	toll-like receptor signaling pathway	29	0.68	0.77	9.04	409.66
+GO:0046395	carboxylic acid catabolic process	26	0.44	0.54	6.76	160.26
+GO:0050728	negative regulation of inflammatory response	24	0.67	0.69	8.71	126.18
+GO:0050710	negative regulation of cytokine secretion	20	0.70	0.74	9.09	549.99
+GO:0072529	pyrimidine-containing compound catabolic process	8	0.64	0.61	8.63	303.19
+GO:0055088	lipid homeostasis	6	0.75	0.67	8.67	13.14
+GO:0090314	positive regulation of protein targeting to membrane	6	0.93	0.88	9.59	497.08
+GO:0090181	regulation of cholesterol metabolic process	6	0.83	0.76	9.41	31.92
+GO:1900078	positive regulation of cellular response to insulin stimulus	6	0.84	0.71	9.34	80.48
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	3	1.00	0.93	9.63	1297.42
+GO:0009313	oligosaccharide catabolic process	3	0.68	0.63	8.46	68.60
+GO:0016139	glycoside catabolic process	2	0.71	0.68	8.71	75.13
+GO:0006677	glycosylceramide metabolic process	2	0.79	0.77	9.44	252.36
+GO:1904179	positive regulation of adipose tissue development	2	1.00	0.82	9.63	84.16
+GO:0072615	interleukin-17 secretion	1	1.00	0.92	9.63	137.07
+GO:1903017	positive regulation of exo-alpha-sialidase activity	1	1.00	0.82	9.63	49.74

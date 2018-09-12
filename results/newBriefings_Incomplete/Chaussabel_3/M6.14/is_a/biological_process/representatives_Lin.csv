@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	518	0.08	0.04	0.98	3.37
+GO:0010468	regulation of gene expression	234	0.35	0.46	5.09	13.73
+GO:0032774	RNA biosynthetic process	148	0.53	0.62	8.04	473.34
+GO:0006464	cellular protein modification process	146	0.34	0.49	5.84	147.03
+GO:0032268	regulation of cellular protein metabolic process	133	0.37	0.51	6.13	70.76
+GO:0009966	regulation of signal transduction	124	0.33	0.45	5.35	37.59
+GO:0022607	cellular component assembly	122	0.39	0.39	5.06	14.95
+GO:0007186	G-protein coupled receptor signaling pathway	31	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	96	0.43	0.51	5.91	23.17
+GO:0051049	regulation of transport	98	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	93	0.51	0.55	6.92	23.17
+GO:0033554	cellular response to stress	93	0.44	0.42	6.05	25.47
+GO:0010033	response to organic substance	86	0.35	0.37	4.75	9.28
+GO:2000026	regulation of multicellular organismal development	81	0.29	0.39	4.73	23.09
+GO:0015031	protein transport	77	0.48	0.59	6.99	54.46
+GO:0051895	negative regulation of focal adhesion assembly	1	1.00	0.88	9.63	270.76
+GO:0051130	positive regulation of cellular component organization	76	0.42	0.50	5.95	43.84
+GO:1902531	regulation of intracellular signal transduction	75	0.45	0.55	6.77	41.85
+GO:0008285	negative regulation of cell proliferation	36	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	43	0.56	0.57	7.27	43.45
+GO:0050794	regulation of cellular process	485	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	65	0.32	0.36	4.60	7.96
+GO:0030154	cell differentiation	63	0.39	0.39	5.18	16.68
+GO:0043066	negative regulation of apoptotic process	44	0.56	0.63	7.79	81.07
+GO:0043068	positive regulation of programmed cell death	27	0.54	0.60	7.55	59.39
+GO:0051704	multi-organism process	51	0.29	0.15	3.12	3.37
+GO:0009968	negative regulation of signal transduction	51	0.44	0.54	6.68	140.65
+GO:0009628	response to abiotic stimulus	50	0.46	0.35	5.43	6.14
+GO:1903047	mitotic cell cycle process	48	0.50	0.45	5.87	11.32
+GO:0046903	secretion	47	0.46	0.48	5.79	10.99
+GO:1903827	regulation of cellular protein localization	41	0.48	0.53	6.86	25.72
+GO:0007010	cytoskeleton organization	37	0.52	0.51	6.76	18.35
+GO:0045786	negative regulation of cell cycle	36	0.51	0.54	7.10	42.35
+GO:0051271	negative regulation of cellular component movement	15	0.55	0.56	7.36	52.39
+GO:0030334	regulation of cell migration	35	0.48	0.56	7.11	36.74
+GO:0016042	lipid catabolic process	14	0.51	0.51	6.88	43.15
+GO:0044255	cellular lipid metabolic process	31	0.38	0.44	5.89	38.02
+GO:0051640	organelle localization	33	0.49	0.45	6.08	7.87
+GO:0048468	cell development	28	0.51	0.45	6.51	28.42
+GO:0043547	positive regulation of GTPase activity	28	0.93	0.79	9.52	49.34
+GO:1902532	negative regulation of intracellular signal transduction	27	0.57	0.64	8.15	189.94
+GO:0061024	membrane organization	26	0.47	0.43	6.06	14.95
+GO:0001817	regulation of cytokine production	26	0.40	0.45	5.78	11.79
+GO:0051051	negative regulation of transport	25	0.42	0.50	5.86	25.98
+GO:0090066	regulation of anatomical structure size	20	0.53	0.46	6.45	8.64
+GO:0032989	cellular component morphogenesis	20	0.56	0.48	7.27	42.57
+GO:0006897	endocytosis	20	0.63	0.61	8.09	26.36
+GO:0006914	autophagy	16	0.67	0.59	8.40	37.75
+GO:0090257	regulation of muscle system process	14	0.52	0.55	7.00	14.36
+GO:0006260	DNA replication	11	0.73	0.72	9.27	254.20
+GO:0007204	positive regulation of cytosolic calcium ion concentration	8	0.68	0.77	9.10	290.30
+GO:0030308	negative regulation of cell growth	7	0.69	0.67	8.67	80.89
+GO:0031100	animal organ regeneration	5	0.89	0.70	9.29	28.09
+GO:0042098	T cell proliferation	4	0.72	0.69	9.08	51.29
+GO:0007569	cell aging	4	0.80	0.60	8.94	24.75
+GO:2000278	regulation of DNA biosynthetic process	4	0.69	0.70	9.04	150.74
+GO:2000379	positive regulation of reactive oxygen species metabolic process	4	0.78	0.71	9.25	112.72
+GO:0002227	innate immune response in mucosa	3	1.00	0.79	9.63	46.05
+GO:0051402	neuron apoptotic process	3	0.83	0.70	9.02	23.44
+GO:0050806	positive regulation of synaptic transmission	2	0.67	0.69	8.68	101.55
+GO:0030823	regulation of cGMP metabolic process	2	0.76	0.78	9.39	212.56
+GO:0060406	positive regulation of penile erection	1	1.00	0.79	9.63	118.07
+GO:0060574	intestinal epithelial cell maturation	1	1.00	0.82	9.63	41.35
+GO:0060689	cell differentiation involved in salivary gland development	1	0.84	0.67	9.16	21.07
+GO:0001992	regulation of systemic arterial blood pressure by vasopressin	1	1.00	0.85	9.63	25.38
+GO:0010757	negative regulation of plasminogen activation	1	1.00	0.92	9.63	820.53
+GO:0002578	negative regulation of antigen processing and presentation	1	0.69	0.64	8.48	38.83
+GO:2000124	regulation of endocannabinoid signaling pathway	1	1.00	0.85	9.63	44.99
+GO:0090343	positive regulation of cell aging	1	0.87	0.72	9.34	80.43
+GO:0060487	lung epithelial cell differentiation	1	0.80	0.69	9.01	45.96

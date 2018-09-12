@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1109	0.09	0.17	1.80	4.47
+GO:0048583	regulation of response to stimulus	590	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	1046	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	1046	0.12	0.26	2.47	7.96
+GO:0043207	response to external biotic stimulus	179	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	361	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	329	0.39	0.32	4.70	6.14
+GO:0043207	response to external biotic stimulus	179	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	361	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	329	0.39	0.32	4.70	6.14
+GO:0016043	cellular component organization	500	0.28	0.26	3.74	11.45
+GO:0007166	cell surface receptor signaling pathway	431	0.43	0.51	5.91	23.17
+GO:0009893	positive regulation of metabolic process	414	0.32	0.41	4.71	22.55
+GO:0007565	female pregnancy	9	1.00	0.70	9.63	32.81
+GO:0032502	developmental process	395	0.22	0.11	1.89	3.37
+GO:0007565	female pregnancy	9	1.00	0.70	9.63	32.81
+GO:0032502	developmental process	395	0.22	0.11	1.89	3.37
+GO:0032879	regulation of localization	385	0.27	0.33	4.05	7.96
+GO:0019538	protein metabolic process	338	0.31	0.41	4.91	44.77
+GO:1903510	mucopolysaccharide metabolic process	13	0.72	0.68	8.78	53.64
+GO:0044093	positive regulation of molecular function	271	0.43	0.41	5.23	6.77
+GO:0042127	regulation of cell proliferation	269	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	224	0.51	0.55	6.92	23.17
+GO:0032940	secretion by cell	221	0.48	0.53	6.33	20.46
+GO:0010948	negative regulation of cell cycle process	44	0.53	0.59	7.47	61.75
+GO:0051130	positive regulation of cellular component organization	152	0.42	0.50	5.95	43.84
+GO:0010948	negative regulation of cell cycle process	44	0.53	0.59	7.47	61.75
+GO:0051130	positive regulation of cellular component organization	152	0.42	0.50	5.95	43.84
+GO:0016477	cell migration	169	0.47	0.48	6.31	17.13
+GO:1904037	positive regulation of epithelial cell apoptotic process	11	0.79	0.77	9.15	105.43
+GO:0043066	negative regulation of apoptotic process	144	0.56	0.63	7.79	81.07
+GO:1904037	positive regulation of epithelial cell apoptotic process	11	0.79	0.77	9.15	105.43
+GO:0043066	negative regulation of apoptotic process	144	0.56	0.63	7.79	81.07
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	42	0.70	0.67	8.58	26.98
+GO:0032966	negative regulation of collagen biosynthetic process	2	1.00	0.82	9.63	106.40
+GO:0051901	positive regulation of mitochondrial depolarization	1	1.00	0.88	9.63	107.43
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60

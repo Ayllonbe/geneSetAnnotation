@@ -1,0 +1,83 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3956	0.12	0.26	2.47	7.96
+GO:0010468	regulation of gene expression	1872	0.35	0.46	5.09	13.73
+GO:0050896	response to stimulus	1687	0.25	0.12	2.65	3.37
+GO:0016070	RNA metabolic process	1461	0.39	0.52	6.45	112.25
+GO:0009966	regulation of signal transduction	1222	0.33	0.45	5.35	37.59
+GO:0032879	regulation of localization	1016	0.27	0.33	4.05	7.96
+GO:0009056	catabolic process	870	0.30	0.27	3.52	6.41
+GO:0016192	vesicle-mediated transport	753	0.52	0.51	6.57	10.99
+GO:0006417	regulation of translation	161	0.52	0.61	8.02	212.82
+GO:0001932	regulation of protein phosphorylation	586	0.50	0.62	7.64	109.03
+GO:0035556	intracellular signal transduction	701	0.51	0.55	6.92	23.17
+GO:0010941	regulation of cell death	672	0.43	0.47	6.10	12.04
+GO:0045184	establishment of protein localization	663	0.46	0.48	6.14	17.87
+GO:0006468	protein phosphorylation	417	0.57	0.64	8.18	177.76
+GO:0043687	post-translational protein modification	168	0.65	0.67	8.51	151.15
+GO:0071901	negative regulation of protein serine/threonine kinase activity	64	0.74	0.80	9.39	1262.85
+GO:0051336	regulation of hydrolase activity	513	0.46	0.48	6.24	9.25
+GO:0051130	positive regulation of cellular component organization	516	0.42	0.50	5.95	43.84
+GO:1901566	organonitrogen compound biosynthetic process	422	0.37	0.43	5.45	46.74
+GO:0031329	regulation of cellular catabolic process	373	0.43	0.51	6.41	39.60
+GO:0030334	regulation of cell migration	335	0.48	0.56	7.11	36.74
+GO:0019221	cytokine-mediated signaling pathway	324	0.60	0.63	7.60	26.50
+GO:0032101	regulation of response to external stimulus	322	0.40	0.45	5.60	11.65
+GO:0071495	cellular response to endogenous stimulus	275	0.49	0.44	5.60	8.54
+GO:0048545	response to steroid hormone	96	0.69	0.64	8.94	60.25
+GO:0060284	regulation of cell development	311	0.42	0.50	6.27	27.05
+GO:0022414	reproductive process	306	0.35	0.17	3.17	3.37
+GO:0007346	regulation of mitotic cell cycle	297	0.49	0.53	6.68	14.24
+GO:0019725	cellular homeostasis	291	0.53	0.52	6.93	17.82
+GO:0007167	enzyme linked receptor protein signaling pathway	265	0.53	0.59	7.04	26.50
+GO:0007186	G-protein coupled receptor signaling pathway	249	0.55	0.57	7.20	23.17
+GO:0055086	nucleobase-containing small molecule metabolic process	235	0.38	0.48	6.63	107.58
+GO:0048468	cell development	218	0.51	0.45	6.51	28.42
+GO:1903706	regulation of hemopoiesis	194	0.50	0.54	7.23	38.17
+GO:0045785	positive regulation of cell adhesion	187	0.58	0.54	7.23	21.97
+GO:0006820	anion transport	185	0.42	0.50	5.80	12.09
+GO:0001558	regulation of cell growth	174	0.58	0.58	7.66	26.25
+GO:0034762	regulation of transmembrane transport	168	0.44	0.51	6.24	14.08
+GO:0010817	regulation of hormone levels	152	0.41	0.40	5.23	8.64
+GO:0044057	regulation of system process	150	0.41	0.46	5.70	11.79
+GO:0030029	actin filament-based process	149	0.59	0.42	6.58	7.39
+GO:0000209	protein polyubiquitination	141	0.77	0.80	9.22	155.40
+GO:0050804	modulation of chemical synaptic transmission	124	0.52	0.58	7.24	27.32
+GO:0120031	plasma membrane bounded cell projection assembly	117	0.69	0.64	8.45	55.86
+GO:0030099	myeloid cell differentiation	94	0.69	0.60	8.15	21.07
+GO:0022900	electron transport chain	82	0.71	0.61	8.48	29.76
+GO:0007018	microtubule-based movement	79	0.57	0.48	7.14	18.47
+GO:0008360	regulation of cell shape	78	0.68	0.66	8.69	41.78
+GO:0001701	in utero embryonic development	78	1.00	0.85	9.63	22.50
+GO:0016485	protein processing	63	0.65	0.65	8.32	99.81
+GO:0009249	protein lipoylation	3	1.00	0.90	9.63	361.16
+GO:0015893	drug transport	66	0.50	0.50	6.29	10.99
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	64	1.00	0.79	9.63	42.20
+GO:0043401	steroid hormone mediated signaling pathway	58	0.75	0.70	8.80	25.74
+GO:0048469	cell maturation	58	0.70	0.55	8.24	25.22
+GO:0050880	regulation of blood vessel size	52	0.63	0.61	8.30	24.53
+GO:0051291	protein heterooligomerization	50	0.89	0.77	9.41	42.03
+GO:0006487	protein N-linked glycosylation	38	0.80	0.77	9.34	176.56
+GO:0051781	positive regulation of cell division	31	0.68	0.63	8.44	42.29
+GO:1903428	positive regulation of reactive oxygen species biosynthetic process	26	0.89	0.80	9.50	199.61
+GO:0022617	extracellular matrix disassembly	17	0.87	0.72	9.38	37.09
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	15	1.00	0.85	9.63	76.31
+GO:0071498	cellular response to fluid shear stress	14	0.80	0.65	9.27	39.93
+GO:0035162	embryonic hemopoiesis	12	0.93	0.79	9.49	36.11
+GO:0006595	polyamine metabolic process	10	0.65	0.68	8.53	59.02
+GO:0032402	melanosome transport	10	1.00	0.88	9.63	154.04
+GO:1904706	negative regulation of vascular smooth muscle cell proliferation	9	1.00	0.85	9.63	80.88
+GO:0060218	hematopoietic stem cell differentiation	8	1.00	0.79	9.63	45.53
+GO:0045780	positive regulation of bone resorption	7	1.00	0.85	9.63	82.90
+GO:0001881	receptor recycling	6	0.84	0.74	9.22	34.80
+GO:2000036	regulation of stem cell population maintenance	6	0.74	0.62	9.04	23.09
+GO:0045714	regulation of low-density lipoprotein particle receptor biosynthetic process	4	0.89	0.80	9.49	102.15
+GO:0071468	cellular response to acidic pH	4	0.89	0.77	9.45	48.99
+GO:0006390	mitochondrial transcription	4	0.93	0.88	9.60	701.04
+GO:0032911	negative regulation of transforming growth factor beta1 production	2	0.93	0.82	9.54	85.64
+GO:0060018	astrocyte fate commitment	2	0.93	0.76	9.47	21.63
+GO:0021527	spinal cord association neuron differentiation	2	1.00	0.82	9.63	49.74
+GO:0003309	type B pancreatic cell differentiation	2	1.00	0.88	9.63	28.92
+GO:0070413	trehalose metabolism in response to stress	1	0.81	0.76	9.32	67.27
+GO:0060217	hemangioblast cell differentiation	1	1.00	0.79	9.63	22.68
+GO:0045054	constitutive secretory pathway	1	1.00	0.85	9.63	38.47
+GO:2000474	regulation of opioid receptor signaling pathway	1	0.83	0.76	9.43	44.99

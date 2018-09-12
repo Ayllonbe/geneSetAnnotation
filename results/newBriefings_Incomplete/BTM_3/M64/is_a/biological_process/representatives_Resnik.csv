@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	715	0.25	0.32	3.72	7.96
+GO:0042221	response to chemical	440	0.32	0.29	4.12	6.14
+GO:0001819	positive regulation of cytokine production	127	0.51	0.54	6.97	44.26
+GO:2000026	regulation of multicellular organismal development	350	0.29	0.39	4.73	23.09
+GO:0051049	regulation of transport	299	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	296	0.44	0.54	6.71	140.23
+GO:0031328	positive regulation of cellular biosynthetic process	290	0.41	0.53	6.32	170.14
+GO:0006357	regulation of transcription by RNA polymerase II	277	0.44	0.63	7.11	248.57
+GO:0035556	intracellular signal transduction	274	0.51	0.55	6.92	23.17
+GO:0043066	negative regulation of apoptotic process	188	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	126	0.56	0.63	7.81	80.91
+GO:0045727	positive regulation of translation	15	0.66	0.71	9.12	1032.69
+GO:0001932	regulation of protein phosphorylation	257	0.50	0.62	7.64	109.03
+GO:0032940	secretion by cell	256	0.48	0.53	6.33	20.46
+GO:0006996	organelle organization	236	0.39	0.39	5.17	14.95
+GO:0051704	multi-organism process	212	0.29	0.15	3.12	3.37
+GO:0010648	negative regulation of cell communication	208	0.41	0.50	5.87	43.44
+GO:0019221	cytokine-mediated signaling pathway	206	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	194	0.48	0.56	7.11	36.74
+GO:0051130	positive regulation of cellular component organization	186	0.42	0.50	5.95	43.84
+GO:0007186	G-protein coupled receptor signaling pathway	179	0.55	0.57	7.20	23.17
+GO:0030155	regulation of cell adhesion	174	0.48	0.44	5.95	7.96
+GO:0008104	protein localization	172	0.40	0.40	5.07	7.46
+GO:0044248	cellular catabolic process	147	0.31	0.36	4.57	26.23
+GO:0008285	negative regulation of cell proliferation	145	0.56	0.57	7.31	43.61
+GO:0050900	leukocyte migration	142	0.60	0.59	8.02	26.94
+GO:0045892	negative regulation of transcription, DNA-templated	139	0.56	0.69	8.52	1581.26
+GO:0006508	proteolysis	131	0.55	0.57	7.34	47.86
+GO:0009628	response to abiotic stimulus	131	0.46	0.35	5.43	6.14
+GO:0006875	cellular metal ion homeostasis	117	0.59	0.67	8.36	105.84
+GO:0010469	regulation of signaling receptor activity	114	0.59	0.62	7.95	48.62
+GO:0019752	carboxylic acid metabolic process	107	0.32	0.45	5.31	42.50
+GO:0003006	developmental process involved in reproduction	90	0.43	0.34	5.07	14.49
+GO:0098662	inorganic cation transmembrane transport	86	0.58	0.64	7.91	76.35
+GO:0009894	regulation of catabolic process	84	0.42	0.46	5.75	10.74
+GO:0051260	protein homooligomerization	51	0.89	0.77	9.41	42.03
+GO:0030855	epithelial cell differentiation	51	0.55	0.52	6.96	21.07
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	34	0.93	0.91	9.59	279.44
+GO:0051781	positive regulation of cell division	23	0.68	0.63	8.44	42.29
+GO:0097191	extrinsic apoptotic signaling pathway	22	0.83	0.74	9.22	51.06
+GO:0031663	lipopolysaccharide-mediated signaling pathway	19	1.00	0.82	9.63	26.50
+GO:0034976	response to endoplasmic reticulum stress	17	0.68	0.59	8.28	29.00
+GO:0032768	regulation of monooxygenase activity	14	0.73	0.66	8.80	22.93
+GO:0006954	inflammatory response	10	0.68	0.59	8.12	11.94
+GO:0051017	actin filament bundle assembly	10	0.79	0.72	9.14	39.79
+GO:0042246	tissue regeneration	4	0.76	0.63	8.94	42.89
+GO:0060355	positive regulation of cell adhesion molecule production	3	1.00	0.79	9.63	40.68
+GO:0019430	removal of superoxide radicals	2	1.00	0.79	9.63	35.17
+GO:0060539	diaphragm development	1	1.00	0.82	9.63	30.17
+GO:0003069	acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure	1	1.00	0.90	9.63	55.19

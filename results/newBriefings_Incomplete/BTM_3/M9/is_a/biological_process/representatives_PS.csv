@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043966	histone H3 acetylation	4	0.77	0.83	9.35	659.45
+GO:0006468	protein phosphorylation	105	0.57	0.64	8.18	177.76
+GO:0009987	cellular process	1261	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	543	0.25	0.12	2.65	3.37
+GO:0043966	histone H3 acetylation	4	0.77	0.83	9.35	659.45
+GO:0006468	protein phosphorylation	105	0.57	0.64	8.18	177.76
+GO:0009987	cellular process	1261	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	543	0.25	0.12	2.65	3.37
+GO:0001782	B cell homeostasis	7	0.93	0.82	9.51	22.00
+GO:0009987	cellular process	1261	0.09	0.05	0.84	3.37
+GO:0051345	positive regulation of hydrolase activity	113	0.57	0.57	7.42	32.99
+GO:0045429	positive regulation of nitric oxide biosynthetic process	12	1.00	0.88	9.63	658.64
+GO:0060729	intestinal epithelial structure maintenance	1	1.00	0.88	9.63	27.02
+GO:0051209	release of sequestered calcium ion into cytosol	10	0.80	0.87	9.53	522.93
+GO:0045835	negative regulation of meiotic nuclear division	4	0.72	0.74	9.27	325.60
+GO:0050789	regulation of biological process	1035	0.09	0.17	1.80	4.47
+GO:0008104	protein localization	128	0.40	0.40	5.07	7.46
+GO:0006810	transport	466	0.28	0.34	3.95	7.46
+GO:0009059	macromolecule biosynthetic process	204	0.43	0.46	5.85	36.03
+GO:0006006	glucose metabolic process	8	0.71	0.68	8.57	34.68
+GO:0009059	macromolecule biosynthetic process	204	0.43	0.46	5.85	36.03
+GO:0006006	glucose metabolic process	8	0.71	0.68	8.57	34.68
+GO:0048856	anatomical structure development	150	0.33	0.29	3.70	6.46
+GO:0032502	developmental process	373	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	137	0.33	0.16	3.12	3.37
+GO:0003006	developmental process involved in reproduction	64	0.43	0.34	5.07	14.49
+GO:0050663	cytokine secretion	16	0.61	0.70	8.23	133.33
+GO:0050702	interleukin-1 beta secretion	5	1.00	0.93	9.63	137.76
+GO:0097022	lymphocyte migration into lymph node	1	1.00	0.88	9.63	30.24

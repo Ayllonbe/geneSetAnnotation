@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	950	0.24	0.37	3.90	23.85
+GO:0009966	regulation of signal transduction	597	0.33	0.45	5.35	37.59
+GO:0016192	vesicle-mediated transport	352	0.52	0.51	6.57	10.99
+GO:0006796	phosphate-containing compound metabolic process	323	0.36	0.43	5.28	20.85
+GO:0030154	cell differentiation	320	0.39	0.39	5.18	16.68
+GO:0034645	cellular macromolecule biosynthetic process	307	0.47	0.53	6.91	102.76
+GO:0001932	regulation of protein phosphorylation	307	0.50	0.62	7.64	109.03
+GO:0006952	defense response	243	0.56	0.48	6.67	9.54
+GO:0050708	regulation of protein secretion	108	0.54	0.62	7.86	96.15
+GO:0006886	intracellular protein transport	76	0.55	0.65	8.12	90.55
+GO:0016055	Wnt signaling pathway	42	0.59	0.65	7.65	28.58
+GO:0042108	positive regulation of cytokine biosynthetic process	29	0.63	0.67	8.76	609.34
+GO:0009790	embryo development	29	0.80	0.65	9.04	21.11
+GO:0032868	response to insulin	25	0.93	0.82	9.54	74.03
+GO:0071230	cellular response to amino acid stimulus	21	0.71	0.68	8.96	283.90
+GO:0071260	cellular response to mechanical stimulus	20	1.00	0.79	9.63	56.12
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0006024	glycosaminoglycan biosynthetic process	18	0.76	0.70	9.16	237.50
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	15	0.89	0.89	9.55	412.65
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0045599	negative regulation of fat cell differentiation	11	0.93	0.79	9.54	114.62
+GO:0000041	transition metal ion transport	11	0.61	0.66	7.94	17.36
+GO:0007218	neuropeptide signaling pathway	11	0.93	0.79	9.49	26.98
+GO:0046467	membrane lipid biosynthetic process	11	0.64	0.64	8.43	118.94
+GO:0016266	O-glycan processing	10	0.79	0.79	9.28	178.64
+GO:0048008	platelet-derived growth factor receptor signaling pathway	9	0.78	0.76	9.19	31.00
+GO:0034162	toll-like receptor 9 signaling pathway	7	1.00	0.95	9.63	412.65
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	7	0.93	0.82	9.52	52.45
+GO:0008333	endosome to lysosome transport	6	0.84	0.74	9.37	62.68
+GO:0033692	cellular polysaccharide biosynthetic process	5	0.61	0.63	8.65	458.22
+GO:0009225	nucleotide-sugar metabolic process	3	0.62	0.63	8.62	123.38
+GO:0038180	nerve growth factor signaling pathway	3	1.00	0.85	9.63	27.20
+GO:0046323	glucose import	2	0.89	0.86	9.46	38.21
+GO:0006895	Golgi to endosome transport	2	1.00	0.85	9.63	52.54
+GO:0034158	toll-like receptor 8 signaling pathway	1	1.00	0.95	9.63	412.65
+GO:0006663	platelet activating factor biosynthetic process	1	1.00	0.88	9.63	769.80
+GO:0061355	Wnt protein secretion	1	0.93	0.86	9.57	157.82
+GO:0048011	neurotrophin TRK receptor signaling pathway	1	1.00	0.88	9.63	58.20
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19

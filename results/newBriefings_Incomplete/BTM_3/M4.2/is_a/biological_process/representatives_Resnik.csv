@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1902	0.09	0.05	0.84	3.37
+GO:0009987	cellular process	1902	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	1660	0.08	0.04	0.98	3.37
+GO:0050794	regulation of cellular process	1501	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	1501	0.12	0.26	2.47	7.96
+GO:0007165	signal transduction	861	0.36	0.43	5.06	19.43
+GO:0031915	positive regulation of synaptic plasticity	3	0.87	0.81	9.45	41.66
+GO:0009966	regulation of signal transduction	591	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	567	0.22	0.11	1.89	3.37
+GO:0019219	regulation of nucleobase-containing compound metabolic process	556	0.33	0.45	5.50	54.14
+GO:0032879	regulation of localization	525	0.27	0.33	4.05	7.96
+GO:0006508	proteolysis	169	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	384	0.34	0.49	5.84	147.03
+GO:0006508	proteolysis	169	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	384	0.34	0.49	5.84	147.03
+GO:0042981	regulation of apoptotic process	313	0.45	0.55	6.60	16.23
+GO:0051641	cellular localization	247	0.37	0.31	4.44	5.67
+GO:0008104	protein localization	210	0.40	0.40	5.07	7.46
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	31	1.00	0.79	9.63	42.20

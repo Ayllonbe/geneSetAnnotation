@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	2161	0.22	0.36	4.01	22.77
+GO:0034645	cellular macromolecule biosynthetic process	1071	0.47	0.53	6.91	102.76
+GO:0010033	response to organic substance	688	0.35	0.37	4.75	9.28
+GO:0046907	intracellular transport	611	0.46	0.48	6.38	29.65
+GO:0009967	positive regulation of signal transduction	550	0.44	0.54	6.71	140.23
+GO:0006508	proteolysis	470	0.55	0.57	7.34	47.86
+GO:0051726	regulation of cell cycle	437	0.41	0.45	5.89	12.04
+GO:0060341	regulation of cellular localization	324	0.40	0.45	5.64	10.45
+GO:0032880	regulation of protein localization	357	0.43	0.47	5.90	10.45
+GO:0006259	DNA metabolic process	327	0.45	0.55	7.12	145.26
+GO:0016071	mRNA metabolic process	244	0.59	0.65	8.39	115.08
+GO:0051186	cofactor metabolic process	222	0.41	0.40	5.49	17.52
+GO:0007186	G-protein coupled receptor signaling pathway	221	0.55	0.57	7.20	23.17
+GO:0034660	ncRNA metabolic process	204	0.46	0.58	7.25	115.08
+GO:0051276	chromosome organization	155	0.55	0.52	6.96	18.35
+GO:0006091	generation of precursor metabolites and energy	137	0.53	0.46	6.54	17.52
+GO:0006520	cellular amino acid metabolic process	121	0.41	0.53	6.53	77.81
+GO:0000165	MAPK cascade	105	0.74	0.77	9.24	231.45
+GO:0016042	lipid catabolic process	96	0.51	0.51	6.88	43.15
+GO:0065004	protein-DNA complex assembly	95	0.65	0.65	8.33	63.42
+GO:0022618	ribonucleoprotein complex assembly	79	0.63	0.64	8.02	63.13
+GO:0070126	mitochondrial translational termination	59	1.00	0.85	9.63	40.69
+GO:0070125	mitochondrial translational elongation	56	1.00	0.85	9.63	106.95
+GO:0006633	fatty acid biosynthetic process	49	0.65	0.70	8.91	359.85
+GO:0030307	positive regulation of cell growth	48	0.70	0.67	8.71	80.65
+GO:1902600	proton transmembrane transport	44	0.76	0.75	9.12	95.87
+GO:0045638	negative regulation of myeloid cell differentiation	39	0.73	0.72	9.19	279.08
+GO:0016573	histone acetylation	35	0.69	0.78	9.12	658.07
+GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	34	0.83	0.81	9.49	64.86
+GO:2000573	positive regulation of DNA biosynthetic process	23	0.80	0.77	9.43	748.29
+GO:0048285	organelle fission	20	0.70	0.60	8.40	18.35
+GO:1904837	beta-catenin-TCF complex assembly	12	1.00	0.79	9.63	40.42
+GO:0007602	phototransduction	10	0.81	0.73	9.34	75.43
+GO:0008535	respiratory chain complex IV assembly	9	0.89	0.80	9.43	46.46
+GO:0072321	chaperone-mediated protein transport	8	0.89	0.82	9.47	57.35
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	5	1.00	0.79	9.63	22.95
+GO:0042182	ketone catabolic process	4	0.63	0.56	8.11	113.87
+GO:0046325	negative regulation of glucose import	3	0.93	0.84	9.55	84.77
+GO:0090521	glomerular visceral epithelial cell migration	3	1.00	0.85	9.63	24.97
+GO:0071049	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	2	1.00	0.82	9.63	27.63

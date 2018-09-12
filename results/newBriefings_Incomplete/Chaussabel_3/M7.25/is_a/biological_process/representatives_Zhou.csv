@@ -1,0 +1,6 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6331	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4528	0.08	0.04	0.98	3.37
+GO:0045475	locomotor rhythm	5	1.00	0.75	9.63	28.71
+GO:1901019	regulation of calcium ion transmembrane transporter activity	31	0.68	0.74	9.03	123.78
+GO:0051090	regulation of DNA binding transcription factor activity	206	0.72	0.77	9.22	255.34

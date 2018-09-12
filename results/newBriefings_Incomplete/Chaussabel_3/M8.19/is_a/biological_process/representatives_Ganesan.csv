@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3198	0.12	0.26	2.47	7.96
+GO:0010604	positive regulation of macromolecule metabolic process	1040	0.37	0.48	5.51	38.99
+GO:0051248	negative regulation of protein metabolic process	398	0.45	0.55	6.75	129.53
+GO:1900060	negative regulation of ceramide biosynthetic process	2	0.87	0.83	9.53	911.69
+GO:0006355	regulation of transcription, DNA-templated	1231	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1065	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	979	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	811	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	737	0.39	0.39	5.17	14.95
+GO:0015031	protein transport	508	0.48	0.59	6.99	54.46
+GO:0042981	regulation of apoptotic process	486	0.45	0.55	6.60	16.23
+GO:0042127	regulation of cell proliferation	461	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	407	0.53	0.56	6.88	24.41
+GO:1901566	organonitrogen compound biosynthetic process	332	0.37	0.43	5.45	46.74
+GO:0006887	exocytosis	289	0.67	0.66	8.38	37.08
+GO:0006281	DNA repair	187	0.63	0.66	8.78	180.34
+GO:0006397	mRNA processing	165	0.71	0.73	9.17	234.35
+GO:0043269	regulation of ion transport	160	0.41	0.50	6.00	14.08
+GO:1901990	regulation of mitotic cell cycle phase transition	155	0.61	0.66	8.15	36.35
+GO:0008380	RNA splicing	142	0.72	0.74	9.18	117.48
+GO:1903829	positive regulation of cellular protein localization	128	0.60	0.62	7.80	40.87
+GO:0048193	Golgi vesicle transport	127	0.72	0.65	8.47	13.98
+GO:0051098	regulation of binding	124	0.50	0.45	6.36	6.77
+GO:0050900	leukocyte migration	112	0.60	0.59	8.02	26.94
+GO:0051260	protein homooligomerization	100	0.89	0.77	9.41	42.03
+GO:0032870	cellular response to hormone stimulus	99	0.60	0.59	7.93	80.94
+GO:0006914	autophagy	92	0.67	0.59	8.40	37.75
+GO:0051480	regulation of cytosolic calcium ion concentration	79	0.66	0.75	9.02	288.69
+GO:0060271	cilium assembly	67	0.87	0.76	9.41	137.68
+GO:0000086	G2/M transition of mitotic cell cycle	58	1.00	0.79	9.63	43.45
+GO:0051291	protein heterooligomerization	39	0.89	0.77	9.41	42.03
+GO:0097711	ciliary basal body-plasma membrane docking	34	1.00	0.79	9.63	21.39
+GO:0002064	epithelial cell development	34	0.63	0.57	7.95	32.15
+GO:0048754	branching morphogenesis of an epithelial tube	34	0.74	0.69	8.88	51.71
+GO:0032981	mitochondrial respiratory chain complex I assembly	30	1.00	0.85	9.63	91.11
+GO:0090630	activation of GTPase activity	28	1.00	0.85	9.63	49.34
+GO:0048278	vesicle docking	27	0.81	0.70	9.18	21.39
+GO:0006672	ceramide metabolic process	26	0.71	0.71	9.18	101.21
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	24	1.00	0.82	9.63	32.65
+GO:0051496	positive regulation of stress fiber assembly	23	1.00	0.93	9.63	365.07
+GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	22	0.78	0.78	9.25	56.87
+GO:0000045	autophagosome assembly	21	1.00	0.82	9.63	62.10
+GO:0034605	cellular response to heat	20	0.84	0.71	9.26	50.43
+GO:0007224	smoothened signaling pathway	19	0.78	0.71	8.87	26.50
+GO:0002027	regulation of heart rate	18	0.70	0.70	8.71	26.87
+GO:0036258	multivesicular body assembly	14	1.00	0.85	9.63	62.72
+GO:0035329	hippo signaling	12	1.00	0.82	9.63	26.43
+GO:0006607	NLS-bearing protein import into nucleus	12	1.00	0.92	9.63	278.23
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	12	1.00	0.82	9.63	33.25
+GO:0032456	endocytic recycling	10	0.89	0.77	9.43	48.98
+GO:1903543	positive regulation of exosomal secretion	8	1.00	0.90	9.63	273.98
+GO:0042772	DNA damage response, signal transduction resulting in transcription	8	0.93	0.82	9.55	58.83
+GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
+GO:0045022	early endosome to late endosome transport	7	1.00	0.82	9.63	50.18
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	7	1.00	0.85	9.63	33.34
+GO:0006012	galactose metabolic process	6	0.78	0.71	9.07	34.68
+GO:0048280	vesicle fusion with Golgi apparatus	6	0.81	0.76	9.19	65.81
+GO:0015937	coenzyme A biosynthetic process	6	1.00	0.93	9.63	6508.61
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	4	0.89	0.80	9.46	65.81
+GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
+GO:0033615	mitochondrial proton-transporting ATP synthase complex assembly	3	1.00	0.88	9.63	46.31
+GO:0043328	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	2	1.00	0.90	9.63	308.46
+GO:0007341	penetration of zona pellucida	2	1.00	0.70	9.63	44.01
+GO:0015871	choline transport	2	1.00	0.85	9.63	80.16
+GO:0090156	cellular sphingolipid homeostasis	2	1.00	0.82	9.63	50.57
+GO:0042426	choline catabolic process	2	1.00	0.88	9.63	257.11
+GO:0005989	lactose biosynthetic process	2	1.00	0.85	9.63	323.91
+GO:0002520	immune system development	2	1.00	0.75	9.63	21.38
+GO:0010797	regulation of multivesicular body size involved in endosome transport	1	1.00	0.85	9.63	28.71
+GO:0071048	nuclear retention of unspliced pre-mRNA at the site of transcription	1	1.00	0.82	9.63	27.63
+GO:0000350	generation of catalytic spliceosome for second transesterification step	1	1.00	0.85	9.63	66.60

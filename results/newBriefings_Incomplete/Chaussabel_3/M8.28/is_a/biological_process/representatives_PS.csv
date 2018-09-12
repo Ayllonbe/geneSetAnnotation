@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3000	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	3000	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	2006	0.28	0.39	4.44	30.44
+GO:0044248	cellular catabolic process	580	0.31	0.36	4.57	26.23
+GO:0006417	regulation of translation	115	0.52	0.61	8.02	212.82
+GO:0051252	regulation of RNA metabolic process	1243	0.37	0.51	6.06	70.58
+GO:0006417	regulation of translation	115	0.52	0.61	8.02	212.82
+GO:0051252	regulation of RNA metabolic process	1243	0.37	0.51	6.06	70.58
+GO:0065008	regulation of biological quality	795	0.28	0.26	3.48	4.47
+GO:0009968	negative regulation of signal transduction	358	0.44	0.54	6.68	140.65
+GO:0009967	positive regulation of signal transduction	491	0.44	0.54	6.71	140.23
+GO:0033554	cellular response to stress	543	0.44	0.42	6.05	25.47
+GO:0015031	protein transport	479	0.48	0.59	6.99	54.46
+GO:0071310	cellular response to organic substance	402	0.44	0.47	5.95	41.66
+GO:0044255	cellular lipid metabolic process	311	0.38	0.44	5.89	38.02
+GO:0031329	regulation of cellular catabolic process	272	0.43	0.51	6.41	39.60
+GO:0055085	transmembrane transport	261	0.41	0.46	5.44	10.99
+GO:0098771	inorganic ion homeostasis	184	0.53	0.59	7.39	14.93
+GO:0000398	mRNA splicing, via spliceosome	96	0.83	0.85	9.49	356.67
+GO:0051607	defense response to virus	79	0.87	0.76	9.49	78.89
+GO:0010810	regulation of cell-substrate adhesion	54	0.69	0.60	8.24	10.16
+GO:0007268	chemical synaptic transmission	51	0.74	0.72	8.66	23.17
+GO:0030182	neuron differentiation	51	0.58	0.54	7.21	21.07
+GO:0006893	Golgi to plasma membrane transport	25	0.89	0.80	9.51	32.11
+GO:0000045	autophagosome assembly	20	1.00	0.82	9.63	62.10
+GO:0000245	spliceosomal complex assembly	11	0.93	0.82	9.53	66.60
+GO:0007084	mitotic nuclear envelope reassembly	5	1.00	0.82	9.63	35.64
+GO:0006337	nucleosome disassembly	5	0.87	0.76	9.39	96.25

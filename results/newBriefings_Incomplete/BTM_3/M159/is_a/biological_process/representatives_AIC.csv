@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	926	0.21	0.30	3.05	7.96
+GO:0044237	cellular metabolic process	901	0.16	0.21	2.71	13.80
+GO:0007165	signal transduction	769	0.36	0.43	5.06	19.43
+GO:0010646	regulation of cell communication	567	0.30	0.40	4.51	12.04
+GO:0048869	cellular developmental process	416	0.32	0.29	4.16	13.85
+GO:0031328	positive regulation of cellular biosynthetic process	301	0.41	0.53	6.32	170.14
+GO:0045595	regulation of cell differentiation	300	0.34	0.42	5.25	23.33
+GO:0032516	positive regulation of phosphoprotein phosphatase activity	5	0.87	0.85	9.55	1089.27
+GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
+GO:0051345	positive regulation of hydrolase activity	152	0.57	0.57	7.42	32.99
+GO:0045892	negative regulation of transcription, DNA-templated	147	0.56	0.69	8.52	1581.26
+GO:0006468	protein phosphorylation	145	0.57	0.64	8.18	177.76
+GO:0010564	regulation of cell cycle process	118	0.42	0.50	6.22	14.24
+GO:1902105	regulation of leukocyte differentiation	83	0.53	0.59	7.80	67.17
+GO:0001933	negative regulation of protein phosphorylation	74	0.61	0.70	8.76	664.69
+GO:0043434	response to peptide hormone	62	0.67	0.66	8.71	71.33
+GO:0008016	regulation of heart contraction	34	0.57	0.61	7.59	16.15
+GO:0016042	lipid catabolic process	31	0.51	0.51	6.88	43.15
+GO:0009152	purine ribonucleotide biosynthetic process	26	0.63	0.73	9.03	3100.80
+GO:0000086	G2/M transition of mitotic cell cycle	18	1.00	0.79	9.63	43.45
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	10	1.00	0.95	9.63	292.09
+GO:0003091	renal water homeostasis	9	1.00	0.85	9.63	57.14
+GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	6	1.00	0.93	9.63	219.46
+GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	6	0.89	0.86	9.56	427.81
+GO:0097711	ciliary basal body-plasma membrane docking	5	1.00	0.79	9.63	21.39
+GO:0043011	myeloid dendritic cell differentiation	4	0.89	0.77	9.49	91.17
+GO:0030819	positive regulation of cAMP biosynthetic process	4	0.87	0.87	9.58	5453.91
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23
+GO:1904322	cellular response to forskolin	2	1.00	0.82	9.63	399.35
+GO:0097338	response to clozapine	2	1.00	0.79	9.63	76.05
+GO:0005513	detection of calcium ion	2	1.00	0.82	9.63	27.95
+GO:2000344	positive regulation of acrosome reaction	1	0.93	0.79	9.54	105.55
+GO:0060466	activation of meiosis involved in egg activation	1	1.00	0.92	9.63	334.72
+GO:2000438	negative regulation of monocyte extravasation	1	1.00	0.92	9.63	705.80
+GO:0007603	phototransduction, visible light	1	1.00	0.85	9.63	130.00
+GO:1904778	positive regulation of protein localization to cell cortex	1	0.87	0.81	9.47	109.22

@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	330	0.24	0.37	3.90	23.93
+GO:0002376	immune system process	326	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	306	0.43	0.51	5.91	23.17
+GO:0010604	positive regulation of macromolecule metabolic process	263	0.37	0.48	5.51	38.99
+GO:0032269	negative regulation of cellular protein metabolic process	65	0.47	0.59	7.45	289.39
+GO:0009966	regulation of signal transduction	277	0.33	0.45	5.35	37.59
+GO:0050794	regulation of cellular process	741	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	237	0.32	0.36	4.60	7.96
+GO:0048869	cellular developmental process	219	0.32	0.29	4.16	13.85
+GO:0032774	RNA biosynthetic process	105	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	128	0.47	0.53	6.91	102.76
+GO:0032774	RNA biosynthetic process	105	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	128	0.47	0.53	6.91	102.76
+GO:0032774	RNA biosynthetic process	105	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	128	0.47	0.53	6.91	102.76
+GO:0043933	protein-containing complex subunit organization	133	0.43	0.41	5.44	14.95
+GO:0010629	negative regulation of gene expression	96	0.47	0.56	6.74	59.05
+GO:0001819	positive regulation of cytokine production	63	0.51	0.54	6.97	44.26
+GO:0032305	positive regulation of icosanoid secretion	4	0.84	0.82	9.50	399.74
+GO:0006974	cellular response to DNA damage stimulus	55	0.57	0.53	7.47	29.00
+GO:0016071	mRNA metabolic process	28	0.59	0.65	8.39	115.08
+GO:0006091	generation of precursor metabolites and energy	28	0.53	0.46	6.54	17.52
+GO:0010948	negative regulation of cell cycle process	27	0.53	0.59	7.47	61.75
+GO:0008584	male gonad development	12	1.00	0.79	9.63	50.96
+GO:0048146	positive regulation of fibroblast proliferation	10	0.89	0.77	9.43	63.75
+GO:0060964	regulation of gene silencing by miRNA	7	0.74	0.74	9.16	63.20
+GO:0001516	prostaglandin biosynthetic process	4	0.89	0.88	9.60	1037.18
+GO:0090344	negative regulation of cell aging	4	0.87	0.72	9.34	80.68
+GO:0006356	regulation of transcription by RNA polymerase I	2	0.75	0.79	9.31	248.57

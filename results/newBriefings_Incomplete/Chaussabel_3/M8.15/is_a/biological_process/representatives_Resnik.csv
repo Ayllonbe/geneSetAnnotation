@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	3179	0.16	0.21	2.71	13.80
+GO:0009892	negative regulation of metabolic process	1012	0.32	0.41	4.73	22.63
+GO:0031323	regulation of cellular metabolic process	2155	0.22	0.36	4.01	22.77
+GO:0044249	cellular biosynthetic process	1552	0.29	0.34	4.29	26.87
+GO:0032268	regulation of cellular protein metabolic process	914	0.37	0.51	6.13	70.76
+GO:0009966	regulation of signal transduction	1022	0.33	0.45	5.35	37.59
+GO:0006810	transport	1398	0.28	0.34	3.95	7.46
+GO:0061512	protein localization to cilium	13	0.80	0.72	9.22	32.77
+GO:0016070	RNA metabolic process	1224	0.39	0.52	6.45	112.25
+GO:0051716	cellular response to stimulus	1013	0.35	0.30	4.36	13.53
+GO:0032496	response to lipopolysaccharide	121	0.89	0.74	9.45	64.41
+GO:0051716	cellular response to stimulus	1013	0.35	0.30	4.36	13.53
+GO:0032496	response to lipopolysaccharide	121	0.89	0.74	9.45	64.41
+GO:0032502	developmental process	933	0.22	0.11	1.89	3.37
+GO:0065008	regulation of biological quality	900	0.28	0.26	3.48	4.47
+GO:0051128	regulation of cellular component organization	900	0.30	0.40	4.57	12.04
+GO:0051239	regulation of multicellular organismal process	898	0.23	0.32	3.68	7.96
+GO:0060271	cilium assembly	73	0.87	0.76	9.41	137.68
+GO:0065003	protein-containing complex assembly	604	0.45	0.48	6.06	36.47
+GO:0060271	cilium assembly	73	0.87	0.76	9.41	137.68
+GO:0065003	protein-containing complex assembly	604	0.45	0.48	6.06	36.47
+GO:0045786	negative regulation of cell cycle	246	0.51	0.54	7.10	42.35

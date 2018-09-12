@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	282	0.21	0.30	3.05	7.96
+GO:0016043	cellular component organization	230	0.28	0.26	3.74	11.45
+GO:0022402	cell cycle process	63	0.40	0.32	4.60	7.39
+GO:0010468	regulation of gene expression	239	0.35	0.46	5.09	13.73
+GO:0044249	cellular biosynthetic process	230	0.29	0.34	4.29	26.87
+GO:0051179	localization	221	0.26	0.13	2.57	3.37
+GO:0050770	regulation of axonogenesis	9	0.63	0.71	8.86	152.13
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	7	0.74	0.74	8.99	58.93
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	4	0.89	0.80	9.45	80.05

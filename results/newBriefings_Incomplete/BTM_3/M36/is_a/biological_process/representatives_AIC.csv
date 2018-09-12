@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	890	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	844	0.36	0.43	5.06	19.43
+GO:0060255	regulation of macromolecule metabolic process	815	0.26	0.38	4.09	10.74
+GO:0048523	negative regulation of cellular process	723	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	576	0.33	0.45	5.35	37.59
+GO:0031326	regulation of cellular biosynthetic process	554	0.29	0.44	4.86	40.35
+GO:0002682	regulation of immune system process	481	0.32	0.36	4.60	7.96
+GO:0071310	cellular response to organic substance	311	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	307	0.39	0.39	5.18	16.68
+GO:0031401	positive regulation of protein modification process	234	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	219	0.44	0.54	6.68	140.65
+GO:0031327	negative regulation of cellular biosynthetic process	216	0.42	0.53	6.40	170.82
+GO:0016477	cell migration	209	0.47	0.48	6.31	17.13
+GO:0002275	myeloid cell activation involved in immune response	197	0.74	0.66	9.05	59.31
+GO:0045087	innate immune response	165	0.68	0.59	8.16	26.47
+GO:0001819	positive regulation of cytokine production	147	0.51	0.54	6.97	44.26
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	128	0.68	0.66	8.81	76.40
+GO:0032496	response to lipopolysaccharide	117	0.89	0.74	9.45	64.41
+GO:0051129	negative regulation of cellular component organization	115	0.42	0.50	5.99	44.00
+GO:0046649	lymphocyte activation	114	0.55	0.52	7.16	18.06
+GO:0050870	positive regulation of T cell activation	99	0.63	0.69	8.78	216.07
+GO:1902105	regulation of leukocyte differentiation	93	0.53	0.59	7.80	67.17
+GO:0042493	response to drug	138	0.47	0.43	5.84	9.28
+GO:0009636	response to toxic substance	79	0.58	0.49	6.94	9.28
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0002687	positive regulation of leukocyte migration	61	0.66	0.71	8.96	238.70
+GO:0051607	defense response to virus	58	0.87	0.76	9.49	78.89
+GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
+GO:0050777	negative regulation of immune response	46	0.52	0.55	7.29	78.83
+GO:0050868	negative regulation of T cell activation	37	0.64	0.69	8.87	233.20
+GO:0046651	lymphocyte proliferation	35	0.69	0.63	8.73	28.26
+GO:0043271	negative regulation of ion transport	35	0.53	0.59	7.18	46.37
+GO:0009306	protein secretion	33	0.57	0.66	7.92	130.29
+GO:0051023	regulation of immunoglobulin secretion	6	0.89	0.82	9.52	116.25
+GO:0050710	negative regulation of cytokine secretion	21	0.70	0.74	9.09	549.99
+GO:0051023	regulation of immunoglobulin secretion	6	0.89	0.82	9.52	116.25
+GO:0050710	negative regulation of cytokine secretion	21	0.70	0.74	9.09	549.99
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0048167	regulation of synaptic plasticity	25	0.67	0.69	8.57	39.26
+GO:0031623	receptor internalization	23	0.72	0.71	9.20	64.85
+GO:0031532	actin cytoskeleton reorganization	12	1.00	0.82	9.63	32.01
+GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
+GO:0002456	T cell mediated immunity	9	0.76	0.67	9.12	29.49
+GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
+GO:0009308	amine metabolic process	9	0.53	0.51	6.96	23.64
+GO:0045190	isotype switching	7	0.83	0.86	9.52	267.40
+GO:0002230	positive regulation of defense response to virus by host	5	1.00	0.88	9.63	73.08
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:1900181	negative regulation of protein localization to nucleus	4	0.84	0.77	9.37	74.71
+GO:0002666	positive regulation of T cell tolerance induction	3	0.87	0.78	9.49	165.82
+GO:1905564	positive regulation of vascular endothelial cell proliferation	3	1.00	0.88	9.63	108.29
+GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0086072	AV node cell-bundle of His cell adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0098904	regulation of AV node cell action potential	1	0.83	0.79	9.50	70.34
+GO:1990771	clathrin-dependent extracellular exosome endocytosis	1	1.00	0.88	9.63	77.46

@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4709	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	911	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	3604	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1024	0.33	0.29	4.10	4.47
+GO:0016569	covalent chromatin modification	138	0.54	0.56	7.38	32.64
+GO:0044237	cellular metabolic process	3231	0.16	0.21	2.71	13.80
+GO:0008104	protein localization	696	0.40	0.40	5.07	7.46
+GO:0006810	transport	1415	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	1461	0.25	0.12	2.65	3.37
+GO:0048856	anatomical structure development	423	0.33	0.29	3.70	6.46
+GO:0032501	multicellular organismal process	387	0.33	0.16	3.12	3.37
+GO:0003006	developmental process involved in reproduction	170	0.43	0.34	5.07	14.49
+GO:0050900	leukocyte migration	124	0.60	0.59	8.02	26.94
+GO:0000902	cell morphogenesis	65	0.63	0.56	7.92	43.26
+GO:0030217	T cell differentiation	45	0.66	0.65	8.68	65.05
+GO:0046718	viral entry into host cell	37	0.77	0.73	8.94	28.37
+GO:0007032	endosome organization	34	0.84	0.71	9.22	20.92
+GO:0007179	transforming growth factor beta receptor signaling pathway	29	0.76	0.75	9.05	29.90
+GO:0015914	phospholipid transport	26	0.78	0.74	9.04	67.00
+GO:0030218	erythrocyte differentiation	25	0.84	0.71	9.12	22.68
+GO:0030216	keratinocyte differentiation	17	0.89	0.77	9.38	25.59
+GO:0036258	multivesicular body assembly	16	1.00	0.85	9.63	62.72
+GO:0043249	erythrocyte maturation	6	0.89	0.70	9.38	39.56
+GO:0060509	Type I pneumocyte differentiation	4	1.00	0.82	9.63	47.35
+GO:1905572	ganglioside GM1 transport to membrane	1	1.00	0.88	9.63	123.76

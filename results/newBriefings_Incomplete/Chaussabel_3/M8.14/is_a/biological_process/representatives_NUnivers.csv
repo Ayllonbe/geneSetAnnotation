@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	1858	0.23	0.31	3.63	19.40
+GO:0016043	cellular component organization	1626	0.28	0.26	3.74	11.45
+GO:2000112	regulation of cellular macromolecule biosynthetic process	1450	0.36	0.50	5.87	74.82
+GO:0016070	RNA metabolic process	1231	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	327	0.45	0.55	7.12	145.26
+GO:0007165	signal transduction	1343	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	1125	0.34	0.49	5.84	147.03
+GO:0034645	cellular macromolecule biosynthetic process	1071	0.47	0.53	6.91	102.76
+GO:0006351	transcription, DNA-templated	853	0.57	0.68	8.45	581.39
+GO:0009967	positive regulation of signal transduction	550	0.44	0.54	6.71	140.23
+GO:0015031	protein transport	533	0.48	0.59	6.99	54.46
+GO:0034622	cellular protein-containing complex assembly	338	0.48	0.53	6.52	40.42
+GO:1904837	beta-catenin-TCF complex assembly	12	1.00	0.79	9.63	40.42
+GO:0009725	response to hormone	222	0.53	0.51	7.03	21.86
+GO:1903829	positive regulation of cellular protein localization	133	0.60	0.62	7.80	40.87
+GO:0006913	nucleocytoplasmic transport	106	0.63	0.64	8.15	33.20
+GO:0016042	lipid catabolic process	96	0.51	0.51	6.88	43.15
+GO:0006401	RNA catabolic process	92	0.59	0.65	8.78	532.61
+GO:0006633	fatty acid biosynthetic process	49	0.65	0.70	8.91	359.85
+GO:0030307	positive regulation of cell growth	48	0.70	0.67	8.71	80.65
+GO:0000187	activation of MAPK activity	48	0.81	0.87	9.53	3706.25
+GO:0045471	response to ethanol	44	0.93	0.76	9.52	69.73
+GO:0043488	regulation of mRNA stability	44	0.74	0.77	9.24	282.23
+GO:1902600	proton transmembrane transport	44	0.76	0.75	9.12	95.87
+GO:0006637	acyl-CoA metabolic process	43	0.59	0.59	7.98	77.21
+GO:0045638	negative regulation of myeloid cell differentiation	39	0.73	0.72	9.19	279.08
+GO:0016573	histone acetylation	35	0.69	0.78	9.12	658.07
+GO:0000077	DNA damage checkpoint	32	0.81	0.78	9.46	85.76
+GO:2000573	positive regulation of DNA biosynthetic process	23	0.80	0.77	9.43	748.29
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	22	0.93	0.88	9.59	425.74
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	17	0.89	0.84	9.53	355.96
+GO:0034080	CENP-A containing nucleosome assembly	16	1.00	0.90	9.63	242.74
+GO:0006783	heme biosynthetic process	16	0.83	0.76	9.46	646.21
+GO:0043628	ncRNA 3'-end processing	14	0.69	0.74	8.94	356.15
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	12	1.00	0.93	9.63	1297.42
+GO:0043278	response to morphine	9	0.93	0.82	9.55	93.34
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	8	1.00	0.88	9.63	66.40
+GO:0045039	protein import into mitochondrial inner membrane	5	1.00	0.92	9.63	627.92
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	5	1.00	0.79	9.63	22.95
+GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process	4	0.81	0.84	9.47	2485.17
+GO:0007141	male meiosis I	4	1.00	0.88	9.63	140.07
+GO:0042182	ketone catabolic process	4	0.63	0.56	8.11	113.87
+GO:0046325	negative regulation of glucose import	3	0.93	0.84	9.55	84.77
+GO:0090521	glomerular visceral epithelial cell migration	3	1.00	0.85	9.63	24.97
+GO:0046952	ketone body catabolic process	2	0.89	0.74	9.52	195.63
+GO:0071049	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	2	1.00	0.82	9.63	27.63
+GO:0007066	female meiosis sister chromatid cohesion	1	1.00	0.85	9.63	102.55

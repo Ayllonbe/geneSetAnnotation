@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1316	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	721	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	699	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	635	0.28	0.26	3.74	11.45
+GO:0006355	regulation of transcription, DNA-templated	494	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	463	0.34	0.49	5.84	147.03
+GO:0051716	cellular response to stimulus	420	0.35	0.30	4.36	13.53
+GO:0009966	regulation of signal transduction	393	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	369	0.39	0.32	4.70	6.14
+GO:0032774	RNA biosynthetic process	352	0.53	0.62	8.04	473.34
+GO:0051239	regulation of multicellular organismal process	341	0.23	0.32	3.68	7.96
+GO:0090399	replicative senescence	2	1.00	0.75	9.63	26.14
+GO:0030154	cell differentiation	178	0.39	0.39	5.18	16.68
+GO:0045944	positive regulation of transcription by RNA polymerase II	167	0.55	0.71	8.36	1463.86
+GO:0009968	negative regulation of signal transduction	166	0.44	0.54	6.68	140.65
+GO:0006886	intracellular protein transport	155	0.55	0.65	8.12	90.55
+GO:0006629	lipid metabolic process	147	0.37	0.38	5.19	18.42
+GO:0006928	movement of cell or subcellular component	105	0.42	0.33	4.88	7.39
+GO:0043312	neutrophil degranulation	83	1.00	0.90	9.63	132.80
+GO:0009725	response to hormone	81	0.53	0.51	7.03	21.86
+GO:0071214	cellular response to abiotic stimulus	61	0.59	0.54	7.66	24.78
+GO:0042176	regulation of protein catabolic process	51	0.59	0.62	8.21	56.79
+GO:0032496	response to lipopolysaccharide	40	0.89	0.74	9.45	64.41
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	31	0.89	0.82	9.52	239.11
+GO:0019318	hexose metabolic process	28	0.58	0.58	7.68	32.37
+GO:0050707	regulation of cytokine secretion	27	0.59	0.67	8.36	114.42
+GO:0002221	pattern recognition receptor signaling pathway	24	0.65	0.74	8.89	408.27
+GO:2001056	positive regulation of cysteine-type endopeptidase activity	23	0.79	0.83	9.51	564.45
+GO:1902600	proton transmembrane transport	22	0.76	0.75	9.12	95.87
+GO:0050729	positive regulation of inflammatory response	21	0.66	0.68	8.59	125.85
+GO:0010977	negative regulation of neuron projection development	17	0.68	0.73	9.14	494.13
+GO:0031338	regulation of vesicle fusion	17	0.72	0.69	8.94	48.20
+GO:1990542	mitochondrial transmembrane transport	16	0.63	0.60	7.59	26.62
+GO:0045471	response to ethanol	15	0.93	0.76	9.52	69.73
+GO:0090630	activation of GTPase activity	14	1.00	0.85	9.63	49.34
+GO:0045070	positive regulation of viral genome replication	8	0.89	0.82	9.47	85.31
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	8	1.00	0.92	9.63	990.06
+GO:0010831	positive regulation of myotube differentiation	7	0.84	0.80	9.45	178.04
+GO:0050994	regulation of lipid catabolic process	5	0.64	0.64	8.17	28.34
+GO:0032802	low-density lipoprotein particle receptor catabolic process	3	1.00	0.85	9.63	464.42
+GO:0005978	glycogen biosynthetic process	3	1.00	0.88	9.63	798.05
+GO:0045651	positive regulation of macrophage differentiation	2	0.93	0.86	9.59	840.78
+GO:0039650	suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	1	1.00	0.95	9.63	1338.58
+GO:0000303	response to superoxide	1	0.93	0.79	9.52	40.75
+GO:0042904	9-cis-retinoic acid biosynthetic process	1	1.00	0.93	9.63	742.99
+GO:0015939	pantothenate metabolic process	1	0.83	0.76	9.44	165.93
+GO:0017055	negative regulation of RNA polymerase II transcriptional preinitiation complex assembly	1	1.00	0.96	9.63	4859.33
+GO:0060180	female mating behavior	1	0.80	0.69	9.22	21.24

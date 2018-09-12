@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	643	0.21	0.30	3.05	7.96
+GO:0031503	protein-containing complex localization	9	0.59	0.42	6.58	5.67
+GO:0006810	transport	456	0.28	0.34	3.95	7.46
+GO:0048523	negative regulation of cellular process	445	0.24	0.37	3.90	23.93
+GO:0006464	cellular protein modification process	221	0.34	0.49	5.84	147.03
+GO:0051049	regulation of transport	221	0.31	0.40	4.67	10.45
+GO:0006952	defense response	142	0.56	0.48	6.67	9.54
+GO:0044248	cellular catabolic process	101	0.31	0.36	4.57	26.23
+GO:0019369	arachidonic acid metabolic process	5	0.87	0.83	9.47	252.18
+GO:0095500	acetylcholine receptor signaling pathway	5	0.79	0.72	9.18	23.17
+GO:1902808	positive regulation of cell cycle G1/S phase transition	5	0.89	0.82	9.55	106.08

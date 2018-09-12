@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	543	0.26	0.38	4.09	10.74
+GO:0051171	regulation of nitrogen compound metabolic process	521	0.25	0.38	4.03	10.74
+GO:0080090	regulation of primary metabolic process	528	0.24	0.37	3.95	10.74
+GO:0006810	transport	391	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	360	0.31	0.41	4.91	44.77
+GO:0006351	transcription, DNA-templated	214	0.57	0.68	8.45	581.39
+GO:0009150	purine ribonucleotide metabolic process	25	0.55	0.67	8.37	538.25
+GO:0007409	axonogenesis	9	0.69	0.72	8.67	64.61
+GO:0048013	ephrin receptor signaling pathway	7	1.00	0.88	9.63	31.00
+GO:0022008	neurogenesis	5	0.87	0.68	9.29	21.07
+GO:0035329	hippo signaling	3	1.00	0.82	9.63	26.43
+GO:0030316	osteoclast differentiation	3	0.93	0.79	9.51	47.07
+GO:0071816	tail-anchored membrane protein insertion into ER membrane	1	1.00	0.90	9.63	57.72
+GO:0090557	establishment of endothelial intestinal barrier	1	1.00	0.85	9.63	36.14

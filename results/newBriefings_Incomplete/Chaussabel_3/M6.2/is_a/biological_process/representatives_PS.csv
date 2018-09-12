@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	268	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	28	0.28	0.26	3.48	4.47
+GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	0.93	0.86	9.60	568.89
+GO:0034314	Arp2/3 complex-mediated actin nucleation	1	1.00	0.96	9.63	481.97
+GO:0050789	regulation of biological process	162	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	37	0.33	0.29	4.10	4.47
+GO:0065008	regulation of biological quality	28	0.28	0.26	3.48	4.47
+GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	1	0.93	0.86	9.60	568.89
+GO:0034314	Arp2/3 complex-mediated actin nucleation	1	1.00	0.96	9.63	481.97
+GO:0050789	regulation of biological process	162	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	37	0.33	0.29	4.10	4.47
+GO:0006405	RNA export from nucleus	11	0.71	0.73	9.03	77.48
+GO:0051234	establishment of localization	97	0.28	0.26	3.49	5.67
+GO:0034613	cellular protein localization	20	0.45	0.48	6.33	26.83
+GO:0002376	immune system process	29	0.38	0.19	3.93	3.37
+GO:0032501	multicellular organismal process	19	0.33	0.16	3.12	3.37
+GO:1904837	beta-catenin-TCF complex assembly	3	1.00	0.79	9.63	40.42
+GO:0007043	cell-cell junction assembly	2	0.75	0.67	8.82	53.94
+GO:0007565	female pregnancy	2	1.00	0.70	9.63	32.81
+GO:0060271	cilium assembly	2	0.87	0.76	9.41	137.68
+GO:0032060	bleb assembly	1	1.00	0.82	9.63	58.57
+GO:0070208	protein heterotrimerization	1	1.00	0.85	9.63	85.45
+GO:0051289	protein homotetramerization	1	1.00	0.85	9.63	85.45
+GO:0010761	fibroblast migration	1	0.93	0.79	9.49	22.57
+GO:0043248	proteasome assembly	1	0.87	0.76	9.31	44.52
+GO:0048268	clathrin coat assembly	1	0.84	0.74	9.31	44.52

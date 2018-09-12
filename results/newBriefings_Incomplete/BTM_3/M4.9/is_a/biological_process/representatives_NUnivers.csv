@@ -1,0 +1,58 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1463	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	904	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	734	0.24	0.37	3.90	23.93
+GO:0051716	cellular response to stimulus	503	0.35	0.30	4.36	13.53
+GO:0050793	regulation of developmental process	491	0.26	0.33	3.95	7.96
+GO:0006355	regulation of transcription, DNA-templated	454	0.40	0.60	6.84	245.35
+GO:0090304	nucleic acid metabolic process	363	0.35	0.46	5.97	111.15
+GO:0006206	pyrimidine nucleobase metabolic process	8	0.73	0.72	9.24	227.01
+GO:0034654	nucleobase-containing compound biosynthetic process	317	0.40	0.49	6.85	317.02
+GO:0031401	positive regulation of protein modification process	238	0.51	0.63	7.86	366.05
+GO:0065003	protein-containing complex assembly	231	0.45	0.48	6.06	36.47
+GO:0006468	protein phosphorylation	165	0.57	0.64	8.18	177.76
+GO:0045892	negative regulation of transcription, DNA-templated	164	0.56	0.69	8.52	1581.26
+GO:0051345	positive regulation of hydrolase activity	163	0.57	0.57	7.42	32.99
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0045596	negative regulation of cell differentiation	138	0.44	0.51	6.50	82.79
+GO:1903047	mitotic cell cycle process	136	0.50	0.45	5.87	11.32
+GO:0048513	animal organ development	107	0.50	0.45	5.88	11.73
+GO:0071417	cellular response to organonitrogen compound	101	0.53	0.56	7.37	128.53
+GO:0003006	developmental process involved in reproduction	101	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	90	0.55	0.52	6.96	18.35
+GO:0045132	meiotic chromosome segregation	6	0.80	0.65	9.09	42.96
+GO:1901990	regulation of mitotic cell cycle phase transition	64	0.61	0.66	8.15	36.35
+GO:1901991	negative regulation of mitotic cell cycle phase transition	36	0.70	0.72	8.97	187.67
+GO:0032355	response to estradiol	30	0.93	0.76	9.52	74.25
+GO:0043524	negative regulation of neuron apoptotic process	30	0.79	0.77	9.25	179.63
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0070301	cellular response to hydrogen peroxide	23	1.00	0.82	9.63	361.03
+GO:0007052	mitotic spindle organization	18	0.83	0.76	9.28	96.22
+GO:0010718	positive regulation of epithelial to mesenchymal transition	16	0.81	0.73	9.38	170.70
+GO:0030071	regulation of mitotic metaphase/anaphase transition	15	0.76	0.79	9.41	262.33
+GO:0051303	establishment of chromosome localization	15	0.72	0.65	8.76	43.83
+GO:0007281	germ cell development	14	0.87	0.68	9.34	71.68
+GO:0008156	negative regulation of DNA replication	13	0.71	0.73	9.22	828.34
+GO:0032467	positive regulation of cytokinesis	11	0.70	0.70	9.02	142.06
+GO:0034446	substrate adhesion-dependent cell spreading	11	1.00	0.82	9.63	56.23
+GO:0140013	meiotic nuclear division	10	0.78	0.71	9.22	44.67
+GO:1900006	positive regulation of dendrite development	7	0.87	0.85	9.59	582.43
+GO:0045814	negative regulation of gene expression, epigenetic	7	0.77	0.73	9.08	80.10
+GO:0007094	mitotic spindle assembly checkpoint	7	1.00	0.96	9.63	1801.80
+GO:0097711	ciliary basal body-plasma membrane docking	6	1.00	0.79	9.63	21.39
+GO:0032515	negative regulation of phosphoprotein phosphatase activity	6	0.87	0.85	9.55	1090.45
+GO:0071168	protein localization to chromatin	5	0.74	0.72	8.94	34.72
+GO:0001556	oocyte maturation	5	1.00	0.75	9.63	79.09
+GO:0010569	regulation of double-strand break repair via homologous recombination	4	0.84	0.82	9.52	184.48
+GO:0046601	positive regulation of centriole replication	3	0.93	0.90	9.59	492.49
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	3	1.00	0.92	9.63	350.56
+GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
+GO:0051598	meiotic recombination checkpoint	2	1.00	0.90	9.63	404.93
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0032487	regulation of Rap protein signal transduction	2	1.00	0.90	9.63	48.76
+GO:0098534	centriole assembly	2	0.84	0.71	9.34	67.08
+GO:0051106	positive regulation of DNA ligation	1	0.93	0.84	9.58	378.60
+GO:0098532	histone H3-K27 trimethylation	1	1.00	0.95	9.63	767.59
+GO:0033624	negative regulation of integrin activation	1	1.00	0.85	9.63	113.99
+GO:0007089	traversing start control point of mitotic cell cycle	1	1.00	0.92	9.63	354.41
+GO:0048387	negative regulation of retinoic acid receptor signaling pathway	1	1.00	0.85	9.63	187.41

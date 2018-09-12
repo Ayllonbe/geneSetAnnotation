@@ -1,0 +1,56 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	890	0.36	0.43	5.06	19.43
+GO:0048869	cellular developmental process	482	0.32	0.29	4.16	13.85
+GO:0006464	cellular protein modification process	402	0.34	0.49	5.84	147.03
+GO:0050776	regulation of immune response	362	0.38	0.44	5.64	22.45
+GO:0010628	positive regulation of gene expression	336	0.47	0.56	6.67	58.80
+GO:0071310	cellular response to organic substance	329	0.44	0.47	5.95	41.66
+GO:0008284	positive regulation of cell proliferation	274	0.56	0.57	7.27	43.45
+GO:0045893	positive regulation of transcription, DNA-templated	272	0.52	0.67	8.14	1208.12
+GO:0065003	protein-containing complex assembly	243	0.45	0.48	6.06	36.47
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0050900	leukocyte migration	162	0.60	0.59	8.02	26.94
+GO:0030335	positive regulation of cell migration	149	0.58	0.64	8.22	157.26
+GO:0015031	protein transport	149	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	129	0.59	0.62	7.95	48.62
+GO:0071417	cellular response to organonitrogen compound	107	0.53	0.56	7.37	128.53
+GO:0070372	regulation of ERK1 and ERK2 cascade	89	0.87	0.85	9.54	158.99
+GO:0007162	negative regulation of cell adhesion	82	0.57	0.57	7.40	38.27
+GO:0043434	response to peptide hormone	72	0.67	0.66	8.71	71.33
+GO:0002576	platelet degranulation	47	1.00	0.88	9.63	39.86
+GO:0002009	morphogenesis of an epithelium	46	0.51	0.51	6.34	13.50
+GO:0031960	response to corticosteroid	45	0.71	0.68	9.05	61.64
+GO:0008360	regulation of cell shape	44	0.68	0.66	8.69	41.78
+GO:0030198	extracellular matrix organization	43	0.68	0.59	8.24	16.90
+GO:0010952	positive regulation of peptidase activity	43	0.71	0.75	9.38	435.08
+GO:0042542	response to hydrogen peroxide	39	0.93	0.76	9.54	79.29
+GO:0032355	response to estradiol	31	0.93	0.76	9.52	74.25
+GO:0045471	response to ethanol	30	0.93	0.76	9.52	69.73
+GO:0016525	negative regulation of angiogenesis	29	0.81	0.78	9.32	151.11
+GO:0051591	response to cAMP	25	0.89	0.77	9.45	79.55
+GO:0034504	protein localization to nucleus	24	0.72	0.68	8.76	32.77
+GO:0071260	cellular response to mechanical stimulus	21	1.00	0.79	9.63	56.12
+GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9.42	236.53
+GO:0010718	positive regulation of epithelial to mesenchymal transition	16	0.81	0.73	9.38	170.70
+GO:0007044	cell-substrate junction assembly	16	0.87	0.72	9.38	36.10
+GO:0030199	collagen fibril organization	15	1.00	0.79	9.63	53.96
+GO:0071300	cellular response to retinoic acid	14	1.00	0.82	9.63	200.60
+GO:0034446	substrate adhesion-dependent cell spreading	11	1.00	0.82	9.63	56.23
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
+GO:0007597	blood coagulation, intrinsic pathway	8	1.00	0.82	9.63	55.79
+GO:0071774	response to fibroblast growth factor	8	0.93	0.76	9.47	24.05
+GO:0048592	eye morphogenesis	7	0.80	0.69	8.94	16.18
+GO:0045773	positive regulation of axon extension	6	0.89	0.88	9.58	1257.91
+GO:0071295	cellular response to vitamin	5	0.74	0.72	9.03	139.33
+GO:0071799	cellular response to prostaglandin D stimulus	3	1.00	0.88	9.63	436.89
+GO:2001205	negative regulation of osteoclast development	3	1.00	0.92	9.63	1250.36
+GO:0061304	retinal blood vessel morphogenesis	2	1.00	0.79	9.63	25.97
+GO:0035582	sequestering of BMP in extracellular matrix	2	1.00	0.96	9.63	807.96
+GO:2001202	negative regulation of transforming growth factor-beta secretion	2	1.00	0.92	9.63	670.94
+GO:0060739	mesenchymal-epithelial cell signaling involved in prostate gland development	1	0.93	0.76	9.49	28.89
+GO:1902618	cellular response to fluoride	1	1.00	0.79	9.63	70.21
+GO:0014012	peripheral nervous system axon regeneration	1	1.00	0.88	9.63	97.89
+GO:0072249	metanephric glomerular visceral epithelial cell development	1	1.00	0.85	9.63	72.86
+GO:0035583	sequestering of TGFbeta in extracellular matrix	1	1.00	0.90	9.63	582.46
+GO:0060447	bud outgrowth involved in lung branching	1	1.00	0.82	9.63	21.22
+GO:0048677	axon extension involved in regeneration	1	1.00	0.82	9.63	104.39

@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	197	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	162	0.24	0.37	3.90	23.93
+GO:0007165	signal transduction	152	0.36	0.43	5.06	19.43
+GO:0019538	protein metabolic process	147	0.31	0.41	4.91	44.77
+GO:0006464	cellular protein modification process	116	0.34	0.49	5.84	147.03
+GO:0045595	regulation of cell differentiation	59	0.34	0.42	5.25	23.33
+GO:0045944	positive regulation of transcription by RNA polymerase II	59	0.55	0.71	8.36	1463.86
+GO:0045892	negative regulation of transcription, DNA-templated	52	0.56	0.69	8.52	1581.26
+GO:0009967	positive regulation of signal transduction	51	0.44	0.54	6.71	140.23
+GO:0006366	transcription by RNA polymerase II	34	0.60	0.72	8.61	583.88
+GO:0019752	carboxylic acid metabolic process	32	0.32	0.45	5.31	42.50
+GO:0001934	positive regulation of protein phosphorylation	31	0.58	0.69	8.60	663.11
+GO:1902532	negative regulation of intracellular signal transduction	23	0.57	0.64	8.15	189.94
+GO:0006888	ER to Golgi vesicle-mediated transport	16	1.00	0.82	9.63	49.13
+GO:0050900	leukocyte migration	13	0.60	0.59	8.02	26.94
+GO:0045785	positive regulation of cell adhesion	12	0.58	0.54	7.23	21.97
+GO:0032465	regulation of cytokinesis	11	0.59	0.62	8.14	31.80
+GO:0022904	respiratory electron transport chain	11	0.74	0.66	8.68	30.45
+GO:0001701	in utero embryonic development	11	1.00	0.85	9.63	22.50
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	9	1.00	0.93	9.63	888.12
+GO:0030336	negative regulation of cell migration	8	0.58	0.64	8.21	158.04
+GO:0006289	nucleotide-excision repair	8	0.84	0.80	9.46	183.05
+GO:0046718	viral entry into host cell	7	0.77	0.73	8.94	28.37
+GO:0010508	positive regulation of autophagy	7	0.72	0.71	9.04	216.89
+GO:0006650	glycerophospholipid metabolic process	7	0.59	0.62	8.12	144.72
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	7	1.00	0.79	9.63	42.20
+GO:0005996	monosaccharide metabolic process	7	0.51	0.51	7.00	29.98
+GO:0007043	cell-cell junction assembly	5	0.75	0.67	8.82	53.94
+GO:0035065	regulation of histone acetylation	5	0.70	0.77	9.17	181.05
+GO:0009063	cellular amino acid catabolic process	3	0.51	0.60	7.74	294.05
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	3	0.83	0.85	9.50	3778.55
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	3	1.00	0.92	9.63	990.06
+GO:0006094	gluconeogenesis	3	1.00	0.85	9.63	174.61
+GO:0051289	protein homotetramerization	3	1.00	0.85	9.63	85.45
+GO:0006749	glutathione metabolic process	2	0.84	0.74	9.36	147.29
+GO:0070373	negative regulation of ERK1 and ERK2 cascade	2	1.00	0.93	9.63	1180.90
+GO:0061621	canonical glycolysis	2	1.00	0.99	9.63	17318.20
+GO:0048821	erythrocyte development	2	0.89	0.74	9.38	33.54
+GO:0045070	positive regulation of viral genome replication	2	0.89	0.82	9.47	85.31
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	2	1.00	0.88	9.63	500.32
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	2	0.89	0.86	9.54	264.07
+GO:0051693	actin filament capping	2	0.89	0.89	9.58	826.90
+GO:1900181	negative regulation of protein localization to nucleus	2	0.84	0.77	9.37	74.71
+GO:0006677	glycosylceramide metabolic process	2	0.79	0.77	9.44	252.36
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0072488	ammonium transmembrane transport	1	0.78	0.74	9.19	79.76
+GO:1901723	negative regulation of cell proliferation involved in kidney development	1	0.84	0.77	9.51	182.01
+GO:0015695	organic cation transport	1	0.63	0.64	8.08	30.14
+GO:0009052	pentose-phosphate shunt, non-oxidative branch	1	1.00	0.82	9.63	180.21
+GO:0006098	pentose-phosphate shunt	1	1.00	0.93	9.63	549.79
+GO:2001170	negative regulation of ATP biosynthetic process	1	0.84	0.85	9.55	2736.76

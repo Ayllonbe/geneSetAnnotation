@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	856	0.09	0.17	1.80	4.47
+GO:0042221	response to chemical	274	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	251	0.39	0.32	4.70	6.14
+GO:0006810	transport	399	0.28	0.34	3.95	7.46
+GO:0044260	cellular macromolecule metabolic process	342	0.28	0.39	4.44	30.44
+GO:0043312	neutrophil degranulation	124	1.00	0.90	9.63	132.80
+GO:0051260	protein homooligomerization	33	0.89	0.77	9.41	42.03
+GO:0030218	erythrocyte differentiation	7	0.84	0.71	9.12	22.68
+GO:0006778	porphyrin-containing compound metabolic process	6	0.62	0.60	8.53	104.51

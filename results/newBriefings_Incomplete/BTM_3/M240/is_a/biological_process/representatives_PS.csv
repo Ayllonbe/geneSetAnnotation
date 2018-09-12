@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	848	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	678	0.12	0.26	2.47	7.96
+GO:0051239	regulation of multicellular organismal process	244	0.23	0.32	3.68	7.96
+GO:0044237	cellular metabolic process	379	0.16	0.21	2.71	13.80
+GO:0006355	regulation of transcription, DNA-templated	169	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	134	0.34	0.49	5.84	147.03
+GO:0001666	response to hypoxia	25	0.81	0.70	9.12	21.16
+GO:0001570	vasculogenesis	10	0.89	0.70	9.29	21.07
+GO:0043388	positive regulation of DNA binding	6	0.71	0.64	8.58	32.53
+GO:0055012	ventricular cardiac muscle cell differentiation	2	1.00	0.85	9.63	47.30
+GO:0035886	vascular smooth muscle cell differentiation	1	0.84	0.74	9.27	23.37
+GO:0060065	uterus development	1	1.00	0.75	9.63	49.87

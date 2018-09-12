@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019222	regulation of metabolic process	47	0.21	0.30	3.39	7.96
+GO:0048518	positive regulation of biological process	47	0.21	0.30	3.05	7.96
+GO:0009893	positive regulation of metabolic process	34	0.32	0.41	4.71	22.55
+GO:0022607	cellular component assembly	25	0.39	0.39	5.06	14.95
+GO:0042221	response to chemical	24	0.32	0.29	4.12	6.14
+GO:0051704	multi-organism process	20	0.29	0.15	3.12	3.37
+GO:0030154	cell differentiation	20	0.39	0.39	5.18	16.68
+GO:0009967	positive regulation of signal transduction	14	0.44	0.54	6.71	140.23
+GO:0051239	regulation of multicellular organismal process	13	0.23	0.32	3.68	7.96
+GO:2000026	regulation of multicellular organismal development	12	0.29	0.39	4.73	23.09
+GO:0008284	positive regulation of cell proliferation	9	0.56	0.57	7.27	43.45
+GO:0034329	cell junction assembly	9	0.71	0.61	8.53	35.01
+GO:0009653	anatomical structure morphogenesis	7	0.36	0.31	4.09	6.46
+GO:0030155	regulation of cell adhesion	7	0.48	0.44	5.95	7.96
+GO:0043066	negative regulation of apoptotic process	5	0.56	0.63	7.79	81.07
+GO:0009628	response to abiotic stimulus	5	0.46	0.35	5.43	6.14
+GO:0051259	protein complex oligomerization	5	0.78	0.68	9.09	40.42
+GO:2000145	regulation of cell motility	4	0.47	0.52	6.88	34.54
+GO:0032388	positive regulation of intracellular transport	4	0.61	0.63	8.04	60.38
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0007229	integrin-mediated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0072659	protein localization to plasma membrane	2	0.79	0.72	9.26	65.43
+GO:0032940	secretion by cell	2	0.48	0.53	6.33	20.46
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0032463	negative regulation of protein homooligomerization	1	0.93	0.84	9.56	148.87
+GO:0008016	regulation of heart contraction	1	0.57	0.61	7.59	16.15
+GO:0006914	autophagy	1	0.67	0.59	8.40	37.75
+GO:0007016	cytoskeletal anchoring at plasma membrane	1	1.00	0.82	9.63	66.89
+GO:1902476	chloride transmembrane transport	1	1.00	0.88	9.63	110.52

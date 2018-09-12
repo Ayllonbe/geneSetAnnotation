@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6331	0.00	0.00	0.00	0.00
+GO:0035264	multicellular organism growth	36	1.00	0.70	9.63	22.58
+GO:0065007	biological regulation	4528	0.08	0.04	0.98	3.37
+GO:0045475	locomotor rhythm	5	1.00	0.75	9.63	28.71
+GO:0048856	anatomical structure development	517	0.33	0.29	3.70	6.46
+GO:0033036	macromolecule localization	869	0.39	0.32	4.60	5.67
+GO:0006810	transport	1715	0.28	0.34	3.95	7.46
+GO:0051641	cellular localization	1016	0.37	0.31	4.44	5.67
+GO:0006810	transport	1715	0.28	0.34	3.95	7.46

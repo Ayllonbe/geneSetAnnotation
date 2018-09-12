@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	951	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	652	0.21	0.30	3.05	7.96
+GO:0045986	negative regulation of smooth muscle contraction	5	0.75	0.75	8.98	66.40
+GO:0042574	retinal metabolic process	1	1.00	0.90	9.63	79.50
+GO:0044248	cellular catabolic process	105	0.31	0.36	4.57	26.23
+GO:0071704	organic substance metabolic process	646	0.15	0.20	2.26	6.41
+GO:0044237	cellular metabolic process	643	0.16	0.21	2.71	13.80
+GO:0007165	signal transduction	572	0.36	0.43	5.06	19.43
+GO:0050896	response to stimulus	530	0.25	0.12	2.65	3.37
+GO:0031323	regulation of cellular metabolic process	520	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	453	0.24	0.37	3.90	23.93
+GO:1901564	organonitrogen compound metabolic process	408	0.23	0.31	3.63	19.40
+GO:0010646	regulation of cell communication	404	0.30	0.40	4.51	12.04
+GO:0032502	developmental process	359	0.22	0.11	1.89	3.37
+GO:0032879	regulation of localization	347	0.27	0.33	4.05	7.96
+GO:0065008	regulation of biological quality	330	0.28	0.26	3.48	4.47
+GO:0042127	regulation of cell proliferation	237	0.45	0.48	6.03	12.04
+GO:0043933	protein-containing complex subunit organization	187	0.43	0.41	5.44	14.95
+GO:0043312	neutrophil degranulation	143	1.00	0.90	9.63	132.80
+GO:0043542	endothelial cell migration	12	0.80	0.75	9.14	24.97
+GO:0009404	toxin metabolic process	1	0.57	0.48	7.29	27.62

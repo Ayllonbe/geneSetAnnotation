@@ -1,0 +1,111 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	1096	0.28	0.39	4.44	30.44
+GO:0031323	regulation of cellular metabolic process	1054	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	779	0.28	0.26	3.74	11.45
+GO:0010468	regulation of gene expression	774	0.35	0.46	5.09	13.73
+GO:0044267	cellular protein metabolic process	607	0.34	0.46	5.57	80.87
+GO:0006351	transcription, DNA-templated	404	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	392	0.43	0.51	5.91	23.17
+GO:0008104	protein localization	359	0.40	0.40	5.07	7.46
+GO:0046907	intracellular transport	335	0.46	0.48	6.38	29.65
+GO:0016192	vesicle-mediated transport	328	0.52	0.51	6.57	10.99
+GO:0033554	cellular response to stress	319	0.44	0.42	6.05	25.47
+GO:0010629	negative regulation of gene expression	316	0.47	0.56	6.74	59.05
+GO:0035556	intracellular signal transduction	313	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	309	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	274	0.44	0.54	6.71	140.23
+GO:0001932	regulation of protein phosphorylation	251	0.50	0.62	7.64	109.03
+GO:0071310	cellular response to organic substance	238	0.44	0.47	5.95	41.66
+GO:0042127	regulation of cell proliferation	230	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	226	0.55	0.57	7.34	47.86
+GO:0050776	regulation of immune response	201	0.38	0.44	5.64	22.45
+GO:0006629	lipid metabolic process	187	0.37	0.38	5.19	18.42
+GO:0051704	multi-organism process	184	0.29	0.15	3.12	3.37
+GO:1902533	positive regulation of intracellular signal transduction	184	0.55	0.63	7.95	189.48
+GO:0006468	protein phosphorylation	175	0.57	0.64	8.18	177.76
+GO:0043436	oxoacid metabolic process	164	0.32	0.41	5.14	39.73
+GO:0006259	DNA metabolic process	163	0.45	0.55	7.12	145.26
+GO:0010564	regulation of cell cycle process	155	0.42	0.50	6.22	14.24
+GO:1903047	mitotic cell cycle process	154	0.50	0.45	5.87	11.32
+GO:0006396	RNA processing	154	0.49	0.60	7.48	115.08
+GO:0019221	cytokine-mediated signaling pathway	133	0.60	0.63	7.60	26.50
+GO:0007186	G-protein coupled receptor signaling pathway	107	0.55	0.57	7.20	23.17
+GO:0051640	organelle localization	98	0.49	0.45	6.08	7.87
+GO:0051259	protein complex oligomerization	96	0.78	0.68	9.09	40.42
+GO:0030030	cell projection organization	94	0.53	0.46	6.62	14.95
+GO:0001819	positive regulation of cytokine production	91	0.51	0.54	6.97	44.26
+GO:0034655	nucleobase-containing compound catabolic process	86	0.48	0.53	7.63	314.02
+GO:0045785	positive regulation of cell adhesion	81	0.58	0.54	7.23	21.97
+GO:0043687	post-translational protein modification	73	0.65	0.67	8.51	151.15
+GO:0016050	vesicle organization	73	0.58	0.54	7.25	18.35
+GO:0006914	autophagy	55	0.67	0.59	8.40	37.75
+GO:0010506	regulation of autophagy	52	0.63	0.64	8.27	43.36
+GO:1903311	regulation of mRNA metabolic process	52	0.60	0.65	8.36	73.29
+GO:0050792	regulation of viral process	47	0.60	0.59	7.74	14.20
+GO:0051091	positive regulation of DNA binding transcription factor activity	47	0.81	0.84	9.43	277.83
+GO:0016197	endosomal transport	40	0.71	0.64	8.82	47.19
+GO:0071826	ribonucleoprotein complex subunit organization	39	0.61	0.56	7.43	17.51
+GO:0006486	protein glycosylation	39	0.62	0.66	8.59	174.08
+GO:0060828	regulation of canonical Wnt signaling pathway	37	0.70	0.70	8.83	44.05
+GO:0070507	regulation of microtubule cytoskeleton organization	37	0.61	0.65	8.24	33.71
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	36	1.00	0.79	9.63	42.20
+GO:0022900	electron transport chain	33	0.71	0.61	8.48	29.76
+GO:0030308	negative regulation of cell growth	31	0.69	0.67	8.67	80.89
+GO:0045766	positive regulation of angiogenesis	31	0.81	0.76	9.30	134.49
+GO:0061025	membrane fusion	30	0.61	0.55	7.48	18.35
+GO:0048284	organelle fusion	26	0.62	0.56	7.57	18.35
+GO:0042113	B cell activation	25	0.68	0.63	8.28	19.85
+GO:0010595	positive regulation of endothelial cell migration	23	0.83	0.81	9.49	298.63
+GO:0043484	regulation of RNA splicing	22	0.77	0.73	9.34	89.96
+GO:0072524	pyridine-containing compound metabolic process	22	0.55	0.52	7.77	90.26
+GO:0036498	IRE1-mediated unfolded protein response	21	1.00	0.82	9.63	55.46
+GO:0019751	polyol metabolic process	19	0.53	0.56	7.20	25.87
+GO:0035335	peptidyl-tyrosine dephosphorylation	18	0.89	0.82	9.53	179.25
+GO:0006368	transcription elongation from RNA polymerase II promoter	16	1.00	0.90	9.63	477.15
+GO:0070936	protein K48-linked ubiquitination	15	1.00	0.93	9.63	157.60
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	14	0.93	0.88	9.59	425.74
+GO:0090503	RNA phosphodiester bond hydrolysis, exonucleolytic	13	0.84	0.80	9.47	231.14
+GO:0018022	peptidyl-lysine methylation	13	0.69	0.74	9.15	367.05
+GO:0045540	regulation of cholesterol biosynthetic process	13	0.89	0.84	9.49	116.99
+GO:0048704	embryonic skeletal system morphogenesis	11	0.87	0.72	9.38	45.49
+GO:1900034	regulation of cellular response to heat	11	0.87	0.76	9.27	29.43
+GO:2000573	positive regulation of DNA biosynthetic process	10	0.80	0.77	9.43	748.29
+GO:0072678	T cell migration	10	0.71	0.71	8.88	30.24
+GO:0032801	receptor catabolic process	10	0.84	0.74	9.34	102.12
+GO:0008286	insulin receptor signaling pathway	9	0.87	0.81	9.34	31.00
+GO:0042407	cristae formation	8	1.00	0.85	9.63	41.99
+GO:0010501	RNA secondary structure unwinding	8	1.00	0.85	9.63	115.08
+GO:0007202	activation of phospholipase C activity	7	1.00	0.90	9.63	83.74
+GO:0035987	endodermal cell differentiation	7	1.00	0.75	9.63	21.07
+GO:0035872	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway	7	0.87	0.76	9.38	25.57
+GO:1901797	negative regulation of signal transduction by p53 class mediator	6	0.83	0.79	9.47	239.49
+GO:0010529	negative regulation of transposition	6	0.87	0.72	9.27	41.76
+GO:0032784	regulation of DNA-templated transcription, elongation	6	0.79	0.81	9.44	248.57
+GO:0090110	cargo loading into COPII-coated vesicle	5	1.00	0.85	9.63	99.47
+GO:0048169	regulation of long-term neuronal synaptic plasticity	5	0.89	0.84	9.46	42.76
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	4	1.00	0.88	9.63	234.24
+GO:0061154	endothelial tube morphogenesis	4	0.83	0.74	9.31	48.80
+GO:0010738	regulation of protein kinase A signaling	4	0.93	0.82	9.52	45.07
+GO:0016554	cytidine to uridine editing	4	1.00	0.90	9.63	133.94
+GO:0050872	white fat cell differentiation	4	0.93	0.76	9.47	21.76
+GO:0010606	positive regulation of cytoplasmic mRNA processing body assembly	3	1.00	0.88	9.63	306.35
+GO:0030225	macrophage differentiation	3	0.93	0.79	9.51	47.07
+GO:1901409	positive regulation of phosphorylation of RNA polymerase II C-terminal domain	3	0.93	0.91	9.60	1031.31
+GO:2000036	regulation of stem cell population maintenance	3	0.74	0.62	9.04	23.09
+GO:0097680	double-strand break repair via classical nonhomologous end joining	2	1.00	0.92	9.63	369.50
+GO:0097428	protein maturation by iron-sulfur cluster transfer	2	0.89	0.77	9.43	50.16
+GO:0002076	osteoblast development	2	1.00	0.75	9.63	32.15
+GO:1904211	membrane protein proteolysis involved in retrograde protein transport, ER to cytosol	2	1.00	0.85	9.63	102.60
+GO:2001271	negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	2	1.00	0.96	9.63	947.59
+GO:0035493	SNARE complex assembly	2	1.00	0.82	9.63	44.52
+GO:0048387	negative regulation of retinoic acid receptor signaling pathway	2	1.00	0.85	9.63	187.41
+GO:0030576	Cajal body organization	1	1.00	0.82	9.63	22.53
+GO:0089700	protein kinase D signaling	1	1.00	0.82	9.63	26.43
+GO:0018095	protein polyglutamylation	1	1.00	0.90	9.63	157.24
+GO:1903758	negative regulation of transcription from RNA polymerase II promoter by histone modification	1	1.00	0.95	9.63	2281.03
+GO:0070829	heterochromatin maintenance	1	0.89	0.74	9.51	53.16
+GO:0021902	commitment of neuronal cell to specific neuron type in forebrain	1	1.00	0.82	9.63	23.24
+GO:0032485	regulation of Ral protein signal transduction	1	1.00	0.90	9.63	48.76
+GO:0042843	D-xylose catabolic process	1	0.89	0.80	9.56	171.70
+GO:2000374	regulation of oxygen metabolic process	1	0.89	0.74	9.34	26.78
+GO:0044571	[2Fe-2S] cluster assembly	1	1.00	0.82	9.63	63.39

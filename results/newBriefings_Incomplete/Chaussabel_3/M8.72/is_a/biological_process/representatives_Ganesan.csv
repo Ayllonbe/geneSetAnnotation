@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048519	negative regulation of biological process	708	0.21	0.30	3.07	7.96
+GO:0090304	nucleic acid metabolic process	594	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	517	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	506	0.39	0.52	6.45	112.25
+GO:0006351	transcription, DNA-templated	347	0.57	0.68	8.45	581.39
+GO:0071310	cellular response to organic substance	186	0.44	0.47	5.95	41.66
+GO:0000398	mRNA splicing, via spliceosome	50	0.83	0.85	9.49	356.67
+GO:0000209	protein polyubiquitination	40	0.77	0.80	9.22	155.40
+GO:0072422	signal transduction involved in DNA damage checkpoint	22	0.80	0.77	9.45	87.74
+GO:0030433	ubiquitin-dependent ERAD pathway	15	0.93	0.88	9.60	603.05
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	9	1.00	0.92	9.63	350.56
+GO:0001755	neural crest cell migration	8	0.80	0.72	9.09	22.57
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	6	0.93	0.90	9.60	659.85
+GO:0071526	semaphorin-plexin signaling pathway	5	0.81	0.73	9.09	26.50
+GO:0048843	negative regulation of axon extension involved in axon guidance	4	1.00	0.95	9.63	2931.02
+GO:0001756	somitogenesis	3	1.00	0.79	9.63	43.80
+GO:0021915	neural tube development	3	1.00	0.79	9.63	33.01
+GO:0071878	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	2	0.93	0.88	9.58	527.67
+GO:1905312	positive regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis	1	1.00	0.88	9.63	891.28
+GO:0140074	cardiac endothelial to mesenchymal transition	1	1.00	0.79	9.63	23.15

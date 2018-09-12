@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1067	0.24	0.37	3.90	23.85
+GO:0016070	RNA metabolic process	725	0.39	0.52	6.45	112.25
+GO:0065009	regulation of molecular function	626	0.33	0.29	4.10	4.47
+GO:0032268	regulation of cellular protein metabolic process	574	0.37	0.51	6.13	70.76
+GO:0006357	regulation of transcription by RNA polymerase II	542	0.44	0.63	7.11	248.57
+GO:0010033	response to organic substance	418	0.35	0.37	4.75	9.28
+GO:0035556	intracellular signal transduction	384	0.51	0.55	6.92	23.17
+GO:1901575	organic substance catabolic process	377	0.30	0.35	4.26	18.93
+GO:0030212	hyaluronan metabolic process	5	0.89	0.80	9.51	101.22
+GO:0042981	regulation of apoptotic process	316	0.45	0.55	6.60	16.23
+GO:0042127	regulation of cell proliferation	286	0.45	0.48	6.03	12.04
+GO:0032101	regulation of response to external stimulus	167	0.40	0.45	5.60	11.65
+GO:0050778	positive regulation of immune response	169	0.46	0.52	6.76	78.39
+GO:0006468	protein phosphorylation	220	0.57	0.64	8.18	177.76
+GO:0006811	ion transport	207	0.38	0.44	5.19	10.99
+GO:0045321	leukocyte activation	206	0.52	0.46	6.78	16.27
+GO:0006952	defense response	170	0.56	0.48	6.67	9.54
+GO:0019221	cytokine-mediated signaling pathway	157	0.60	0.63	7.60	26.50
+GO:0034105	positive regulation of tissue remodeling	10	0.78	0.68	9.09	42.29
+GO:0001819	positive regulation of cytokine production	102	0.51	0.54	6.97	44.26
+GO:0001558	regulation of cell growth	85	0.58	0.58	7.66	26.25
+GO:0045619	regulation of lymphocyte differentiation	49	0.57	0.63	8.36	97.97
+GO:0050671	positive regulation of lymphocyte proliferation	41	0.74	0.75	9.27	262.65
+GO:0000209	protein polyubiquitination	66	0.77	0.80	9.22	155.40
+GO:0051260	protein homooligomerization	65	0.89	0.77	9.41	42.03
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	44	1.00	0.79	9.63	42.20
+GO:0048469	cell maturation	25	0.70	0.55	8.24	25.22
+GO:0006986	response to unfolded protein	15	0.87	0.72	9.34	23.96
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0043029	T cell homeostasis	12	1.00	0.85	9.63	22.00
+GO:0000077	DNA damage checkpoint	12	0.81	0.78	9.46	85.76
+GO:0006695	cholesterol biosynthetic process	12	0.87	0.78	9.51	430.36
+GO:0001961	positive regulation of cytokine-mediated signaling pathway	10	0.72	0.71	8.97	244.22
+GO:0031663	lipopolysaccharide-mediated signaling pathway	10	1.00	0.82	9.63	26.50
+GO:0043001	Golgi to plasma membrane protein transport	9	0.93	0.84	9.59	211.18
+GO:0006004	fucose metabolic process	4	0.81	0.73	9.31	34.68
+GO:0032012	regulation of ARF protein signal transduction	3	0.89	0.84	9.46	48.76
+GO:1904100	positive regulation of protein O-linked glycosylation	1	1.00	0.92	9.63	1562.75
+GO:0014732	skeletal muscle atrophy	1	1.00	0.85	9.63	61.04

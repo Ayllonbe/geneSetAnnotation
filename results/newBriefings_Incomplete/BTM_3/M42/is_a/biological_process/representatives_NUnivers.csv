@@ -1,0 +1,66 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	876	0.24	0.37	3.90	23.85
+GO:0032928	regulation of superoxide anion generation	8	0.89	0.80	9.41	29.55
+GO:0007165	signal transduction	830	0.36	0.43	5.06	19.43
+GO:0002902	regulation of B cell apoptotic process	7	0.74	0.76	9.12	22.88
+GO:0048583	regulation of response to stimulus	796	0.25	0.32	3.72	7.96
+GO:0048523	negative regulation of cellular process	711	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	646	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	490	0.35	0.30	4.36	13.53
+GO:0048869	cellular developmental process	445	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	440	0.40	0.60	6.84	245.35
+GO:0051240	positive regulation of multicellular organismal process	365	0.35	0.42	4.98	23.60
+GO:0016192	vesicle-mediated transport	338	0.52	0.51	6.57	10.99
+GO:0009967	positive regulation of signal transduction	328	0.44	0.54	6.71	140.23
+GO:0045595	regulation of cell differentiation	322	0.34	0.42	5.25	23.33
+GO:0071310	cellular response to organic substance	307	0.44	0.47	5.95	41.66
+GO:0071229	cellular response to acid chemical	49	0.59	0.55	7.35	41.25
+GO:0032270	positive regulation of cellular protein metabolic process	285	0.47	0.59	7.41	288.49
+GO:0030098	lymphocyte differentiation	83	0.61	0.60	8.24	42.31
+GO:0002275	myeloid cell activation involved in immune response	192	0.74	0.66	9.05	59.31
+GO:0043207	response to external biotic stimulus	247	0.41	0.40	5.91	16.64
+GO:0050778	positive regulation of immune response	242	0.46	0.52	6.76	78.39
+GO:0009725	response to hormone	153	0.53	0.51	7.03	21.86
+GO:0010243	response to organonitrogen compound	172	0.45	0.48	6.23	25.43
+GO:0006955	immune response	212	0.54	0.40	6.57	12.45
+GO:0030334	regulation of cell migration	208	0.48	0.56	7.11	36.74
+GO:0045597	positive regulation of cell differentiation	189	0.45	0.51	6.57	82.53
+GO:0051345	positive regulation of hydrolase activity	158	0.57	0.57	7.42	32.99
+GO:0006468	protein phosphorylation	156	0.57	0.64	8.18	177.76
+GO:0050900	leukocyte migration	153	0.60	0.59	8.02	26.94
+GO:0015031	protein transport	140	0.48	0.59	6.99	54.46
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	123	0.68	0.66	8.81	76.40
+GO:0051251	positive regulation of lymphocyte activation	122	0.58	0.64	8.19	127.58
+GO:0034613	cellular protein localization	107	0.45	0.48	6.33	26.83
+GO:0001933	negative regulation of protein phosphorylation	81	0.61	0.70	8.76	664.69
+GO:0007204	positive regulation of cytosolic calcium ion concentration	74	0.68	0.77	9.10	290.30
+GO:0050707	regulation of cytokine secretion	66	0.59	0.67	8.36	114.42
+GO:0030100	regulation of endocytosis	59	0.59	0.62	8.15	44.91
+GO:0006644	phospholipid metabolic process	57	0.53	0.56	7.60	99.63
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	39	0.80	0.65	8.94	20.20
+GO:0042542	response to hydrogen peroxide	36	0.93	0.76	9.54	79.29
+GO:0009743	response to carbohydrate	28	0.63	0.57	8.10	27.32
+GO:0042108	positive regulation of cytokine biosynthetic process	28	0.63	0.67	8.76	609.34
+GO:0051279	regulation of release of sequestered calcium ion into cytosol	23	0.74	0.76	9.24	148.50
+GO:0015696	ammonium transport	19	0.59	0.62	7.81	30.14
+GO:0071230	cellular response to amino acid stimulus	18	0.71	0.68	8.96	283.90
+GO:0043300	regulation of leukocyte degranulation	17	0.68	0.74	8.94	77.23
+GO:0043551	regulation of phosphatidylinositol 3-kinase activity	16	0.83	0.83	9.52	113.72
+GO:0002762	negative regulation of myeloid leukocyte differentiation	16	0.77	0.76	9.35	700.15
+GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
+GO:0034122	negative regulation of toll-like receptor signaling pathway	10	0.71	0.73	9.01	260.81
+GO:0030889	negative regulation of B cell proliferation	10	1.00	0.90	9.63	506.34
+GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
+GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
+GO:0007257	activation of JUN kinase activity	8	1.00	0.98	9.63	8640.55
+GO:0043306	positive regulation of mast cell degranulation	4	0.89	0.88	9.58	1034.30
+GO:0002885	positive regulation of hypersensitivity	4	0.80	0.81	9.44	636.62
+GO:2000010	positive regulation of protein localization to cell surface	4	1.00	0.85	9.63	73.71
+GO:0019370	leukotriene biosynthetic process	2	0.87	0.81	9.49	324.41
+GO:0090237	regulation of arachidonic acid secretion	2	0.89	0.84	9.49	83.14
+GO:0032959	inositol trisphosphate biosynthetic process	2	1.00	0.88	9.63	361.00
+GO:0033026	negative regulation of mast cell apoptotic process	1	1.00	0.90	9.63	301.33
+GO:0032237	activation of store-operated calcium channel activity	1	1.00	0.95	9.63	1441.32
+GO:0007603	phototransduction, visible light	1	1.00	0.85	9.63	130.00
+GO:0071306	cellular response to vitamin E	1	1.00	0.88	9.63	314.08

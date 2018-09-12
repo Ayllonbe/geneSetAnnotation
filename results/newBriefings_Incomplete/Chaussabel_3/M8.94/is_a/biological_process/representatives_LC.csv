@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	386	0.00	0.00	0.00	0.00
+GO:0051179	localization	132	0.26	0.13	2.57	3.37
+GO:0048522	positive regulation of cellular process	124	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	124	0.35	0.46	5.09	13.73
+GO:0048523	negative regulation of cellular process	100	0.24	0.37	3.90	23.93
+GO:0031328	positive regulation of cellular biosynthetic process	51	0.41	0.53	6.32	170.14
+GO:0009967	positive regulation of signal transduction	30	0.44	0.54	6.71	140.23
+GO:0006469	negative regulation of protein kinase activity	5	0.68	0.76	9.22	1097.06
+GO:0031401	positive regulation of protein modification process	22	0.51	0.63	7.86	366.05
+GO:0044092	negative regulation of molecular function	22	0.43	0.41	5.21	6.77
+GO:0006468	protein phosphorylation	22	0.57	0.64	8.18	177.76
+GO:0006952	defense response	20	0.56	0.48	6.67	9.54
+GO:0051701	interaction with host	9	0.38	0.39	5.05	8.50
+GO:0034765	regulation of ion transmembrane transport	8	0.46	0.55	6.68	33.04
+GO:0033993	response to lipid	13	0.53	0.51	6.86	13.32
+GO:0014070	response to organic cyclic compound	8	0.45	0.47	5.96	13.32
+GO:0070588	calcium ion transmembrane transport	3	0.71	0.75	9.08	116.68
+GO:0003352	regulation of cilium movement	2	0.81	0.73	9.31	38.80
+GO:0046827	positive regulation of protein export from nucleus	2	0.81	0.80	9.43	516.73
+GO:0050715	positive regulation of cytokine secretion	2	0.69	0.74	9.07	549.48
+GO:0071663	positive regulation of granzyme B production	1	1.00	0.85	9.63	91.77
+GO:0032464	positive regulation of protein homooligomerization	1	0.93	0.84	9.56	175.26
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus	1	1.00	0.82	9.63	81.65
+GO:0042102	positive regulation of T cell proliferation	1	0.78	0.78	9.42	564.85
+GO:0035397	helper T cell enhancement of adaptive immune response	1	0.89	0.82	9.49	141.16

@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	3743	0.08	0.04	0.98	3.37
+GO:0044260	cellular macromolecule metabolic process	2301	0.28	0.39	4.44	30.44
+GO:0048518	positive regulation of biological process	1989	0.21	0.30	3.05	7.96
+GO:0006810	transport	1416	0.28	0.34	3.95	7.46
+GO:0007165	signal transduction	1356	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	1322	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	1035	0.33	0.45	5.35	37.59
+GO:0007204	positive regulation of cytosolic calcium ion concentration	74	0.68	0.77	9.10	290.30
+GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	11	1.00	0.92	9.63	581.32
+GO:0051932	synaptic transmission, GABAergic	3	1.00	0.88	9.63	25.74
+GO:0060396	growth hormone receptor signaling pathway	2	1.00	0.88	9.63	31.00
+GO:0019254	carnitine metabolic process, CoA-linked	1	1.00	0.82	9.63	69.77
+GO:0071420	cellular response to histamine	1	1.00	0.82	9.63	323.56

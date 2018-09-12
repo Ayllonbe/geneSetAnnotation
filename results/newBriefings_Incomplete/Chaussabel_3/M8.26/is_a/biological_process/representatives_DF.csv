@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	2840	0.16	0.21	2.71	13.80
+GO:0034641	cellular nitrogen compound metabolic process	1608	0.26	0.33	4.23	26.70
+GO:0048522	positive regulation of cellular process	1550	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	1432	0.24	0.37	3.90	23.93
+GO:0031326	regulation of cellular biosynthetic process	1367	0.29	0.44	4.86	40.35
+GO:0090304	nucleic acid metabolic process	1275	0.35	0.46	5.97	111.15
+GO:0007166	cell surface receptor signaling pathway	667	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	537	0.51	0.55	6.92	23.17
+GO:0006464	cellular protein modification process	999	0.34	0.49	5.84	147.03
+GO:0051246	regulation of protein metabolic process	884	0.34	0.46	5.46	41.09
+GO:0031324	negative regulation of cellular metabolic process	816	0.34	0.46	5.46	80.35
+GO:0006996	organelle organization	710	0.39	0.39	5.17	14.95
+GO:0043933	protein-containing complex subunit organization	643	0.43	0.41	5.44	14.95
+GO:0031399	regulation of protein modification process	575	0.41	0.56	6.69	72.96
+GO:0046907	intracellular transport	563	0.46	0.48	6.38	29.65
+GO:0033554	cellular response to stress	551	0.44	0.42	6.05	25.47
+GO:0043085	positive regulation of catalytic activity	432	0.48	0.49	6.15	18.32
+GO:0030154	cell differentiation	407	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	362	0.44	0.54	6.68	140.65
+GO:0010564	regulation of cell cycle process	267	0.42	0.50	6.22	14.24
+GO:1903047	mitotic cell cycle process	248	0.50	0.45	5.87	11.32
+GO:0050767	regulation of neurogenesis	200	0.47	0.56	7.34	60.46
+GO:0051707	response to other organism	188	0.42	0.46	6.41	24.63
+GO:0030163	protein catabolic process	184	0.63	0.61	8.35	135.67
+GO:0043312	neutrophil degranulation	177	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	161	0.68	0.59	8.16	26.47
+GO:0051346	negative regulation of hydrolase activity	149	0.57	0.58	7.50	33.09
+GO:0006897	endocytosis	144	0.63	0.61	8.09	26.36
+GO:0030001	metal ion transport	143	0.54	0.59	7.29	15.42
+GO:0006820	anion transport	142	0.42	0.50	5.80	12.09
+GO:0071345	cellular response to cytokine stimulus	133	0.67	0.63	8.21	61.60
+GO:0045862	positive regulation of proteolysis	127	0.61	0.68	8.73	336.28
+GO:1903829	positive regulation of cellular protein localization	119	0.60	0.62	7.80	40.87
+GO:0032496	response to lipopolysaccharide	107	0.89	0.74	9.45	64.41
+GO:0001818	negative regulation of cytokine production	89	0.51	0.55	7.03	44.36
+GO:0046395	carboxylic acid catabolic process	86	0.44	0.54	6.76	160.26
+GO:0030098	lymphocyte differentiation	72	0.61	0.60	8.24	42.31
+GO:2001020	regulation of response to DNA damage stimulus	69	0.59	0.62	8.02	29.43
+GO:0051054	positive regulation of DNA metabolic process	67	0.59	0.65	8.41	301.51
+GO:0001701	in utero embryonic development	62	1.00	0.85	9.63	22.50
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	57	1.00	0.79	9.63	42.20
+GO:0050728	negative regulation of inflammatory response	42	0.67	0.69	8.71	126.18
+GO:0032868	response to insulin	41	0.93	0.82	9.54	74.03
+GO:0097711	ciliary basal body-plasma membrane docking	32	1.00	0.79	9.63	21.39
+GO:0016239	positive regulation of macroautophagy	24	0.77	0.76	9.24	266.07
+GO:0008361	regulation of cell size	22	0.78	0.68	9.00	28.02
+GO:0051496	positive regulation of stress fiber assembly	22	1.00	0.93	9.63	365.07
+GO:0008344	adult locomotory behavior	19	0.84	0.62	9.16	24.58
+GO:0010972	negative regulation of G2/M transition of mitotic cell cycle	17	0.81	0.80	9.39	357.15
+GO:0001756	somitogenesis	14	1.00	0.79	9.63	43.80
+GO:0007257	activation of JUN kinase activity	12	1.00	0.98	9.63	8640.55
+GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	10	0.93	0.86	9.58	354.41
+GO:1903204	negative regulation of oxidative stress-induced neuron death	9	0.87	0.83	9.58	363.98
+GO:0051894	positive regulation of focal adhesion assembly	9	1.00	0.88	9.63	280.50
+GO:0046597	negative regulation of viral entry into host cell	8	0.93	0.84	9.55	84.95
+GO:0071493	cellular response to UV-B	6	1.00	0.88	9.63	82.44
+GO:0030853	negative regulation of granulocyte differentiation	4	0.87	0.83	9.51	843.04
+GO:0099590	neurotransmitter receptor internalization	4	0.93	0.84	9.58	96.03
+GO:0090650	cellular response to oxygen-glucose deprivation	4	1.00	0.82	9.63	135.20
+GO:0046323	glucose import	3	0.89	0.86	9.46	38.21
+GO:2000368	positive regulation of acrosomal vesicle exocytosis	2	1.00	0.93	9.63	501.21
+GO:0007341	penetration of zona pellucida	1	1.00	0.70	9.63	44.01
+GO:0090156	cellular sphingolipid homeostasis	1	1.00	0.82	9.63	50.57
+GO:2000355	negative regulation of ovarian follicle development	1	0.93	0.84	9.57	209.89

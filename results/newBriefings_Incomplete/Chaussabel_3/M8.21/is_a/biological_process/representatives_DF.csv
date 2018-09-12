@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016070	RNA metabolic process	1110	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	290	0.45	0.55	7.12	145.26
+GO:0006355	regulation of transcription, DNA-templated	1186	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1012	0.34	0.49	5.84	147.03
+GO:0032774	RNA biosynthetic process	834	0.53	0.62	8.04	473.34
+GO:0007166	cell surface receptor signaling pathway	677	0.43	0.51	5.91	23.17
+GO:0031328	positive regulation of cellular biosynthetic process	593	0.41	0.53	6.32	170.14
+GO:0030154	cell differentiation	414	0.39	0.39	5.18	16.68
+GO:0001934	positive regulation of protein phosphorylation	295	0.58	0.69	8.60	663.11
+GO:0030334	regulation of cell migration	264	0.48	0.56	7.11	36.74
+GO:0051707	response to other organism	193	0.42	0.46	6.41	24.63
+GO:0045087	innate immune response	167	0.68	0.59	8.16	26.47
+GO:0010498	proteasomal protein catabolic process	155	0.73	0.72	9.08	189.71
+GO:0001819	positive regulation of cytokine production	152	0.51	0.54	6.97	44.26
+GO:0071345	cellular response to cytokine stimulus	139	0.67	0.63	8.21	61.60
+GO:1903829	positive regulation of cellular protein localization	122	0.60	0.62	7.80	40.87
+GO:0002237	response to molecule of bacterial origin	118	0.69	0.59	8.74	31.75
+GO:0045089	positive regulation of innate immune response	96	0.54	0.62	7.78	173.78
+GO:0001666	response to hypoxia	93	0.81	0.70	9.12	21.16
+GO:0006914	autophagy	88	0.67	0.59	8.40	37.75
+GO:0050768	negative regulation of neurogenesis	70	0.58	0.64	8.39	271.38
+GO:0051054	positive regulation of DNA metabolic process	70	0.59	0.65	8.41	301.51
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	70	0.89	0.82	9.52	239.11
+GO:0022618	ribonucleoprotein complex assembly	69	0.63	0.64	8.02	63.13
+GO:0051099	positive regulation of binding	65	0.61	0.55	7.48	18.40
+GO:0001701	in utero embryonic development	64	1.00	0.85	9.63	22.50
+GO:0051028	mRNA transport	60	0.87	0.81	9.45	42.49
+GO:0000086	G2/M transition of mitotic cell cycle	55	1.00	0.79	9.63	43.45
+GO:0048525	negative regulation of viral process	47	0.71	0.68	8.66	43.32
+GO:0050684	regulation of mRNA processing	43	0.71	0.73	9.20	91.75
+GO:0050729	positive regulation of inflammatory response	43	0.66	0.68	8.59	125.85
+GO:0050715	positive regulation of cytokine secretion	42	0.69	0.74	9.07	549.48
+GO:0048524	positive regulation of viral process	37	0.71	0.68	8.71	43.24
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	33	0.83	0.85	9.50	3778.55
+GO:0002224	toll-like receptor signaling pathway	33	0.68	0.77	9.04	409.66
+GO:0032392	DNA geometric change	32	0.75	0.70	8.94	22.34
+GO:0030890	positive regulation of B cell proliferation	19	1.00	0.90	9.63	506.16
+GO:0060760	positive regulation of response to cytokine stimulus	18	0.70	0.64	8.44	40.71
+GO:0048146	positive regulation of fibroblast proliferation	17	0.89	0.77	9.43	63.75
+GO:0050691	regulation of defense response to virus by host	16	0.89	0.80	9.47	72.39
+GO:0045604	regulation of epidermal cell differentiation	14	0.74	0.69	9.29	70.10
+GO:0090023	positive regulation of neutrophil chemotaxis	13	1.00	0.93	9.63	945.71
+GO:0097352	autophagosome maturation	13	1.00	0.79	9.63	38.05
+GO:0048255	mRNA stabilization	9	0.89	0.86	9.58	1968.72
+GO:0001967	suckling behavior	7	1.00	0.70	9.63	23.34
+GO:0033194	response to hydroperoxide	7	0.80	0.65	9.34	25.34
+GO:0071360	cellular response to exogenous dsRNA	6	1.00	0.85	9.63	172.53
+GO:2000637	positive regulation of gene silencing by miRNA	6	0.84	0.82	9.43	125.12
+GO:0044130	negative regulation of growth of symbiont in host	5	1.00	0.85	9.63	102.69
+GO:0042989	sequestering of actin monomers	5	1.00	0.95	9.63	480.51
+GO:1903608	protein localization to cytoplasmic stress granule	4	1.00	0.82	9.63	32.77
+GO:0046833	positive regulation of RNA export from nucleus	3	0.84	0.80	9.45	194.80
+GO:0010836	negative regulation of protein ADP-ribosylation	2	1.00	0.90	9.63	445.80
+GO:1905765	negative regulation of protection from non-homologous end joining at telomere	2	1.00	0.92	9.63	1594.74
+GO:0061819	telomeric DNA-containing double minutes formation	2	1.00	0.92	9.63	337.72
+GO:0070459	prolactin secretion	2	1.00	0.90	9.63	236.68
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	1	1.00	0.79	9.63	22.95
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	1	1.00	0.85	9.63	112.16

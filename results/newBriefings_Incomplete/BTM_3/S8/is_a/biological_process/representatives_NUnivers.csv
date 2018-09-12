@@ -1,0 +1,134 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	268	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	257	0.36	0.43	5.06	19.43
+GO:0048583	regulation of response to stimulus	237	0.25	0.32	3.72	7.96
+GO:0048523	negative regulation of cellular process	206	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	166	0.33	0.45	5.35	37.59
+GO:0006355	regulation of transcription, DNA-templated	129	0.40	0.60	6.84	245.35
+GO:0032268	regulation of cellular protein metabolic process	114	0.37	0.51	6.13	70.76
+GO:0000902	cell morphogenesis	12	0.63	0.56	7.92	43.26
+GO:0030154	cell differentiation	99	0.39	0.39	5.18	16.68
+GO:0022607	cellular component assembly	96	0.39	0.39	5.06	14.95
+GO:0009967	positive regulation of signal transduction	95	0.44	0.54	6.71	140.23
+GO:0006464	cellular protein modification process	93	0.34	0.49	5.84	147.03
+GO:0043312	neutrophil degranulation	92	1.00	0.90	9.63	132.80
+GO:0051240	positive regulation of multicellular organismal process	92	0.35	0.42	4.98	23.60
+GO:0071310	cellular response to organic substance	91	0.44	0.47	5.95	41.66
+GO:0006955	immune response	81	0.54	0.40	6.57	12.45
+GO:0045893	positive regulation of transcription, DNA-templated	67	0.52	0.67	8.14	1208.12
+GO:0031401	positive regulation of protein modification process	63	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	61	0.44	0.54	6.68	140.65
+GO:0016477	cell migration	59	0.47	0.48	6.31	17.13
+GO:2000145	regulation of cell motility	57	0.47	0.52	6.88	34.54
+GO:0043066	negative regulation of apoptotic process	51	0.56	0.63	7.79	81.07
+GO:0045892	negative regulation of transcription, DNA-templated	49	0.56	0.69	8.52	1581.26
+GO:0006811	ion transport	46	0.38	0.44	5.19	10.99
+GO:0045597	positive regulation of cell differentiation	44	0.45	0.51	6.57	82.53
+GO:0032269	negative regulation of cellular protein metabolic process	44	0.47	0.59	7.45	289.39
+GO:0002429	immune response-activating cell surface receptor signaling pathway	42	0.74	0.75	9.28	217.35
+GO:0043065	positive regulation of apoptotic process	39	0.56	0.63	7.81	80.91
+GO:0071417	cellular response to organonitrogen compound	39	0.53	0.56	7.37	128.53
+GO:2000147	positive regulation of cell motility	36	0.58	0.61	8.05	115.84
+GO:0006508	proteolysis	34	0.55	0.57	7.34	47.86
+GO:0050727	regulation of inflammatory response	32	0.53	0.59	7.40	31.59
+GO:0032496	response to lipopolysaccharide	28	0.89	0.74	9.45	64.41
+GO:0006874	cellular calcium ion homeostasis	28	0.63	0.71	8.83	287.08
+GO:0043434	response to peptide hormone	27	0.67	0.66	8.71	71.33
+GO:0034765	regulation of ion transmembrane transport	26	0.46	0.55	6.68	33.04
+GO:0009615	response to virus	22	0.74	0.66	8.80	27.27
+GO:0002695	negative regulation of leukocyte activation	19	0.58	0.61	8.02	96.77
+GO:0050804	modulation of chemical synaptic transmission	18	0.52	0.58	7.24	27.32
+GO:0030595	leukocyte chemotaxis	18	0.69	0.67	8.77	62.06
+GO:0045619	regulation of lymphocyte differentiation	16	0.57	0.63	8.36	97.97
+GO:0098662	inorganic cation transmembrane transport	16	0.58	0.64	7.91	76.35
+GO:0032102	negative regulation of response to external stimulus	15	0.51	0.55	6.94	42.31
+GO:0015711	organic anion transport	15	0.43	0.54	6.27	28.20
+GO:0071222	cellular response to lipopolysaccharide	15	1.00	0.82	9.63	238.00
+GO:0050769	positive regulation of neurogenesis	14	0.58	0.64	8.42	270.71
+GO:0001666	response to hypoxia	13	0.81	0.70	9.12	21.16
+GO:0032355	response to estradiol	13	0.93	0.76	9.52	74.25
+GO:0050671	positive regulation of lymphocyte proliferation	13	0.74	0.75	9.27	262.65
+GO:0007268	chemical synaptic transmission	13	0.74	0.72	8.66	23.17
+GO:0045766	positive regulation of angiogenesis	13	0.81	0.76	9.30	134.49
+GO:0000187	activation of MAPK activity	11	0.81	0.87	9.53	3706.25
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	10	1.00	0.79	9.63	42.20
+GO:0007043	cell-cell junction assembly	10	0.75	0.67	8.82	53.94
+GO:0030260	entry into host cell	10	0.74	0.69	8.68	26.99
+GO:0050709	negative regulation of protein secretion	9	0.65	0.70	8.75	381.97
+GO:0031295	T cell costimulation	8	0.93	0.86	9.59	354.90
+GO:0046854	phosphatidylinositol phosphorylation	8	1.00	0.88	9.63	218.74
+GO:0071548	response to dexamethasone	7	0.93	0.84	9.57	124.89
+GO:0002790	peptide secretion	7	0.54	0.62	7.21	48.05
+GO:0098661	inorganic anion transmembrane transport	6	0.73	0.72	8.98	90.75
+GO:0097746	regulation of blood vessel diameter	6	0.64	0.64	8.47	38.29
+GO:0030815	negative regulation of cAMP metabolic process	6	0.83	0.83	9.53	1399.23
+GO:0045471	response to ethanol	5	0.93	0.76	9.52	69.73
+GO:0046928	regulation of neurotransmitter secretion	5	0.65	0.68	8.82	103.11
+GO:0007194	negative regulation of adenylate cyclase activity	5	0.89	0.89	9.59	6285.12
+GO:0045840	positive regulation of mitotic nuclear division	5	0.71	0.73	9.14	276.06
+GO:0060291	long-term synaptic potentiation	4	1.00	0.88	9.63	145.77
+GO:0050907	detection of chemical stimulus involved in sensory perception	4	0.78	0.64	8.67	22.00
+GO:0002675	positive regulation of acute inflammatory response	4	0.71	0.73	8.97	164.52
+GO:0002638	negative regulation of immunoglobulin production	4	0.80	0.75	9.19	77.13
+GO:0051963	regulation of synapse assembly	4	0.71	0.68	9.03	59.90
+GO:0006885	regulation of pH	4	0.70	0.72	8.99	35.59
+GO:0090276	regulation of peptide hormone secretion	4	0.65	0.70	8.78	104.37
+GO:0042036	negative regulation of cytokine biosynthetic process	4	0.63	0.67	8.76	610.46
+GO:0007202	activation of phospholipase C activity	3	1.00	0.90	9.63	83.74
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	3	1.00	0.88	9.63	82.06
+GO:0043278	response to morphine	3	0.93	0.82	9.55	93.34
+GO:0030539	male genitalia development	3	1.00	0.79	9.63	66.32
+GO:0007413	axonal fasciculation	3	0.89	0.80	9.45	31.51
+GO:0045923	positive regulation of fatty acid metabolic process	3	0.71	0.71	9.06	231.96
+GO:0032354	response to follicle-stimulating hormone	3	0.93	0.79	9.49	26.61
+GO:0042220	response to cocaine	3	0.93	0.79	9.55	106.25
+GO:0051969	regulation of transmission of nerve impulse	3	0.81	0.73	9.34	42.49
+GO:0061098	positive regulation of protein tyrosine kinase activity	3	0.84	0.85	9.56	2154.62
+GO:0035810	positive regulation of urine volume	3	0.93	0.76	9.51	23.90
+GO:0001942	hair follicle development	3	1.00	0.75	9.63	22.36
+GO:0048240	sperm capacitation	3	1.00	0.75	9.63	67.15
+GO:0060292	long term synaptic depression	2	1.00	0.88	9.63	145.81
+GO:0035094	response to nicotine	2	0.93	0.72	9.45	26.17
+GO:0019064	fusion of virus membrane with host plasma membrane	2	0.93	0.82	9.54	56.73
+GO:0040018	positive regulation of multicellular organism growth	2	1.00	0.82	9.63	145.46
+GO:0033604	negative regulation of catecholamine secretion	2	0.87	0.81	9.46	206.24
+GO:0099553	trans-synaptic signaling by endocannabinoid, modulating synaptic transmission	2	1.00	0.90	9.63	101.34
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	2	1.00	0.88	9.63	298.04
+GO:0031999	negative regulation of fatty acid beta-oxidation	2	0.93	0.86	9.59	724.82
+GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
+GO:0060405	regulation of penile erection	2	0.89	0.70	9.34	34.93
+GO:0045759	negative regulation of action potential	2	0.76	0.67	9.09	33.80
+GO:0035176	social behavior	2	1.00	0.70	9.63	22.58
+GO:0033077	T cell differentiation in thymus	2	0.87	0.78	9.42	66.99
+GO:0051971	positive regulation of transmission of nerve impulse	2	0.93	0.82	9.57	161.99
+GO:0032922	circadian regulation of gene expression	2	1.00	0.82	9.63	31.18
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	2	0.93	0.82	9.55	144.70
+GO:0035815	positive regulation of renal sodium excretion	2	0.93	0.84	9.57	135.62
+GO:0032691	negative regulation of interleukin-1 beta production	2	0.89	0.80	9.46	85.93
+GO:1902938	regulation of intracellular calcium activated chloride channel activity	1	0.89	0.84	9.52	199.08
+GO:0072282	metanephric nephron tubule morphogenesis	1	0.89	0.82	9.46	83.31
+GO:0048290	isotype switching to IgA isotypes	1	1.00	0.96	9.63	268.78
+GO:0051454	intracellular pH elevation	1	0.84	0.85	9.48	181.15
+GO:0071294	cellular response to zinc ion	1	1.00	0.82	9.63	78.50
+GO:1904000	positive regulation of eating behavior	1	0.93	0.79	9.52	49.89
+GO:0007216	G-protein coupled glutamate receptor signaling pathway	1	0.89	0.80	9.43	54.17
+GO:0014043	negative regulation of neuron maturation	1	0.93	0.86	9.59	593.79
+GO:0007197	adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	1	0.93	0.86	9.55	81.69
+GO:1903142	positive regulation of establishment of endothelial barrier	1	1.00	0.90	9.63	507.13
+GO:0061290	canonical Wnt signaling pathway involved in metanephric kidney development	1	0.93	0.86	9.57	106.74
+GO:1904349	positive regulation of small intestine smooth muscle contraction	1	1.00	0.92	9.63	112.17
+GO:0002092	positive regulation of receptor internalization	1	0.93	0.86	9.59	393.55
+GO:2000510	positive regulation of dendritic cell chemotaxis	1	0.93	0.88	9.59	509.14
+GO:0051001	negative regulation of nitric-oxide synthase activity	1	1.00	0.85	9.63	123.18
+GO:0052695	cellular glucuronidation	1	0.87	0.83	9.45	85.04
+GO:0060406	positive regulation of penile erection	1	1.00	0.79	9.63	118.07
+GO:0071467	cellular response to pH	1	0.81	0.70	9.22	37.43
+GO:0032100	positive regulation of appetite	1	1.00	0.90	9.63	112.03
+GO:0043305	negative regulation of mast cell degranulation	1	0.93	0.90	9.61	1077.15
+GO:0042045	epithelial fluid transport	1	0.89	0.74	9.34	24.06
+GO:0043134	regulation of hindgut contraction	1	0.89	0.82	9.43	36.05
+GO:0090327	negative regulation of locomotion involved in locomotory behavior	1	1.00	0.79	9.63	71.01
+GO:2001226	negative regulation of chloride transport	1	0.89	0.82	9.47	90.21
+GO:0005513	detection of calcium ion	1	1.00	0.82	9.63	27.95
+GO:0003333	amino acid transmembrane transport	1	0.58	0.68	8.30	195.85
+GO:0008343	adult feeding behavior	1	1.00	0.70	9.63	24.58

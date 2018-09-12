@@ -1,0 +1,70 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1604	0.08	0.04	0.98	3.37
+GO:0016043	cellular component organization	651	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	578	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
+GO:0010468	regulation of gene expression	560	0.35	0.46	5.09	13.73
+GO:0050793	regulation of developmental process	483	0.26	0.33	3.95	7.96
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0032268	regulation of cellular protein metabolic process	427	0.37	0.51	6.13	70.76
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0032268	regulation of cellular protein metabolic process	427	0.37	0.51	6.13	70.76
+GO:0051240	positive regulation of multicellular organismal process	373	0.35	0.42	4.98	23.60
+GO:0008285	negative regulation of cell proliferation	158	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	251	0.56	0.57	7.27	43.45
+GO:0016192	vesicle-mediated transport	344	0.52	0.51	6.57	10.99
+GO:0035556	intracellular signal transduction	312	0.51	0.55	6.92	23.17
+GO:0006952	defense response	236	0.56	0.48	6.67	9.54
+GO:0060548	negative regulation of cell death	223	0.54	0.56	7.27	41.94
+GO:0051271	negative regulation of cellular component movement	74	0.55	0.56	7.36	52.39
+GO:0030334	regulation of cell migration	211	0.48	0.56	7.11	36.74
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0030155	regulation of cell adhesion	195	0.48	0.44	5.95	7.96
+GO:0050867	positive regulation of cell activation	149	0.56	0.57	7.43	42.07
+GO:0007010	cytoskeleton organization	111	0.52	0.51	6.76	18.35
+GO:0030049	muscle filament sliding	6	1.00	0.82	9.63	20.96
+GO:0040008	regulation of growth	109	0.48	0.44	6.04	7.96
+GO:0048513	animal organ development	105	0.50	0.45	5.88	11.73
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0006631	fatty acid metabolic process	49	0.54	0.62	7.85	91.02
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0006631	fatty acid metabolic process	49	0.54	0.62	7.85	91.02
+GO:0032956	regulation of actin cytoskeleton organization	69	0.56	0.63	7.72	34.12
+GO:0018108	peptidyl-tyrosine phosphorylation	53	0.81	0.80	9.41	338.33
+GO:0009150	purine ribonucleotide metabolic process	48	0.55	0.67	8.37	538.25
+GO:0034329	cell junction assembly	39	0.71	0.61	8.53	35.01
+GO:0006367	transcription initiation from RNA polymerase II promoter	34	1.00	0.90	9.63	477.15
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0051781	positive regulation of cell division	25	0.68	0.63	8.44	42.29
+GO:0071897	DNA biosynthetic process	25	0.71	0.71	9.25	573.30
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:1903725	regulation of phospholipid metabolic process	19	0.60	0.65	8.24	46.80
+GO:0060401	cytosolic calcium ion transport	16	0.72	0.76	8.99	37.62
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:0030199	collagen fibril organization	15	1.00	0.79	9.63	53.96
+GO:0001570	vasculogenesis	13	0.89	0.70	9.29	21.07
+GO:1905953	negative regulation of lipid localization	11	0.62	0.60	7.78	23.73
+GO:0071526	semaphorin-plexin signaling pathway	10	0.81	0.73	9.09	26.50
+GO:0032781	positive regulation of ATPase activity	9	0.75	0.70	8.78	51.42
+GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
+GO:0010507	negative regulation of autophagy	8	0.74	0.72	9.12	217.48
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0001942	hair follicle development	6	1.00	0.75	9.63	22.36
+GO:0048333	mesodermal cell differentiation	4	0.83	0.66	8.94	21.07
+GO:0033623	regulation of integrin activation	4	0.87	0.76	9.38	31.01
+GO:0007097	nuclear migration	4	0.71	0.65	8.71	66.02
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
+GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway	3	1.00	0.85	9.63	213.04
+GO:0007172	signal complex assembly	2	1.00	0.82	9.63	86.37
+GO:0038007	netrin-activated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0070318	positive regulation of G0 to G1 transition	2	1.00	0.85	9.63	82.72
+GO:0070278	extracellular matrix constituent secretion	2	0.87	0.76	9.38	23.10
+GO:0038027	apolipoprotein A-I-mediated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0060683	regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	1	1.00	0.85	9.63	114.97
+GO:0050748	negative regulation of lipoprotein metabolic process	1	0.83	0.76	9.47	288.58
+GO:0045715	negative regulation of low-density lipoprotein particle receptor biosynthetic process	1	1.00	0.88	9.63	494.75
+GO:0051545	negative regulation of elastin biosynthetic process	1	1.00	0.90	9.63	967.92
+GO:0034059	response to anoxia	1	0.89	0.74	9.34	21.16

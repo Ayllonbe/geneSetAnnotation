@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0071704	organic substance metabolic process	943	0.15	0.20	2.26	6.41
+GO:0031325	positive regulation of cellular metabolic process	492	0.33	0.46	5.39	79.98
+GO:0031324	negative regulation of cellular metabolic process	339	0.34	0.46	5.46	80.35
+GO:0010646	regulation of cell communication	567	0.30	0.40	4.51	12.04
+GO:0007166	cell surface receptor signaling pathway	524	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	416	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	410	0.35	0.37	4.75	9.28
+GO:0007186	G-protein coupled receptor signaling pathway	187	0.55	0.57	7.20	23.17
+GO:0035556	intracellular signal transduction	282	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	300	0.34	0.42	5.25	23.33
+GO:0051094	positive regulation of developmental process	255	0.38	0.44	5.27	23.11
+GO:0048878	chemical homeostasis	177	0.48	0.49	6.42	10.43
+GO:0060341	regulation of cellular localization	135	0.40	0.45	5.64	10.45
+GO:0008016	regulation of heart contraction	34	0.57	0.61	7.59	16.15
+GO:0051345	positive regulation of hydrolase activity	152	0.57	0.57	7.42	32.99
+GO:0010564	regulation of cell cycle process	118	0.42	0.50	6.22	14.24
+GO:0051606	detection of stimulus	54	0.49	0.37	5.62	6.14
+GO:0000086	G2/M transition of mitotic cell cycle	18	1.00	0.79	9.63	43.45
+GO:0032735	positive regulation of interleukin-12 production	13	0.89	0.77	9.43	65.24
+GO:2000243	positive regulation of reproductive process	8	0.53	0.51	6.78	23.46
+GO:0097711	ciliary basal body-plasma membrane docking	5	1.00	0.79	9.63	21.39
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23
+GO:2000438	negative regulation of monocyte extravasation	1	1.00	0.92	9.63	705.80

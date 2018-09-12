@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	504	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	329	0.35	0.46	5.09	13.73
+GO:0051716	cellular response to stimulus	318	0.35	0.30	4.36	13.53
+GO:0006355	regulation of transcription, DNA-templated	262	0.40	0.60	6.84	245.35
+GO:0070887	cellular response to chemical stimulus	225	0.40	0.40	5.31	25.21
+GO:0051049	regulation of transport	218	0.31	0.40	4.67	10.45
+GO:0006464	cellular protein modification process	214	0.34	0.49	5.84	147.03
+GO:0045595	regulation of cell differentiation	193	0.34	0.42	5.25	23.33
+GO:0001932	regulation of protein phosphorylation	193	0.50	0.62	7.64	109.03
+GO:0042592	homeostatic process	172	0.45	0.42	5.70	8.64
+GO:0071705	nitrogen compound transport	138	0.36	0.43	4.99	10.99
+GO:0006820	anion transport	64	0.42	0.50	5.80	12.09
+GO:0051094	positive regulation of developmental process	167	0.38	0.44	5.27	23.11
+GO:0007186	G-protein coupled receptor signaling pathway	156	0.55	0.57	7.20	23.17
+GO:0051336	regulation of hydrolase activity	141	0.46	0.48	6.24	9.25
+GO:0045893	positive regulation of transcription, DNA-templated	140	0.52	0.67	8.14	1208.12
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80
+GO:0009968	negative regulation of signal transduction	136	0.44	0.54	6.68	140.65
+GO:0044092	negative regulation of molecular function	124	0.43	0.41	5.21	6.77
+GO:0034220	ion transmembrane transport	119	0.45	0.51	6.18	26.33
+GO:0006351	transcription, DNA-templated	117	0.57	0.68	8.45	581.39
+GO:0045944	positive regulation of transcription by RNA polymerase II	108	0.55	0.71	8.36	1463.86
+GO:0022402	cell cycle process	101	0.40	0.32	4.60	7.39
+GO:0030335	positive regulation of cell migration	100	0.58	0.64	8.22	157.26
+GO:0007167	enzyme linked receptor protein signaling pathway	99	0.53	0.59	7.04	26.50
+GO:0009725	response to hormone	99	0.53	0.51	7.03	21.86
+GO:0010942	positive regulation of cell death	94	0.54	0.56	7.33	41.78
+GO:0008285	negative regulation of cell proliferation	92	0.56	0.57	7.31	43.61
+GO:0006629	lipid metabolic process	92	0.37	0.38	5.19	18.42
+GO:0045892	negative regulation of transcription, DNA-templated	80	0.56	0.69	8.52	1581.26
+GO:0002521	leukocyte differentiation	73	0.58	0.54	7.41	21.07
+GO:0006974	cellular response to DNA damage stimulus	73	0.57	0.53	7.47	29.00
+GO:0034613	cellular protein localization	67	0.45	0.48	6.33	26.83
+GO:0080135	regulation of cellular response to stress	62	0.46	0.52	6.64	26.18
+GO:0071345	cellular response to cytokine stimulus	59	0.67	0.63	8.21	61.60
+GO:0051276	chromosome organization	59	0.55	0.52	6.96	18.35
+GO:0044057	regulation of system process	58	0.41	0.46	5.70	11.79
+GO:0051259	protein complex oligomerization	52	0.78	0.68	9.09	40.42
+GO:0006366	transcription by RNA polymerase II	49	0.60	0.72	8.61	583.88
+GO:0031329	regulation of cellular catabolic process	44	0.43	0.51	6.41	39.60
+GO:0070647	protein modification by small protein conjugation or removal	39	0.61	0.66	8.44	151.15
+GO:0061024	membrane organization	39	0.47	0.43	6.06	14.95
+GO:0002821	positive regulation of adaptive immune response	32	0.62	0.63	8.31	108.81
+GO:0030111	regulation of Wnt signaling pathway	32	0.59	0.62	7.99	41.85
+GO:0043687	post-translational protein modification	27	0.65	0.67	8.51	151.15
+GO:0006790	sulfur compound metabolic process	25	0.44	0.42	5.69	17.52
+GO:0016055	Wnt signaling pathway	24	0.59	0.65	7.65	28.58
+GO:0030308	negative regulation of cell growth	22	0.69	0.67	8.67	80.89
+GO:1901215	negative regulation of neuron death	21	0.76	0.70	9.05	58.54
+GO:0006511	ubiquitin-dependent protein catabolic process	19	0.74	0.74	9.19	156.45
+GO:0042391	regulation of membrane potential	19	0.52	0.46	6.44	8.64
+GO:0001938	positive regulation of endothelial cell proliferation	18	0.89	0.80	9.46	87.31
+GO:0097193	intrinsic apoptotic signaling pathway	18	0.74	0.69	9.07	50.98
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	16	1.00	0.88	9.63	238.42
+GO:1902275	regulation of chromatin organization	14	0.51	0.61	7.27	21.75
+GO:0070602	regulation of centromeric sister chromatid cohesion	1	0.81	0.80	9.34	56.73
+GO:0000731	DNA synthesis involved in DNA repair	15	0.77	0.76	9.37	574.69
+GO:0042306	regulation of protein import into nucleus	14	0.83	0.79	9.51	189.48
+GO:0042594	response to starvation	14	0.61	0.59	7.51	20.88
+GO:0007517	muscle organ development	12	0.78	0.64	8.75	27.68
+GO:0048511	rhythmic process	10	0.62	0.31	5.94	3.37
+GO:0006605	protein targeting	8	0.72	0.76	9.18	93.44
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0030301	cholesterol transport	5	0.78	0.74	9.00	37.85
+GO:0050892	intestinal absorption	4	0.81	0.66	9.18	23.07
+GO:1904837	beta-catenin-TCF complex assembly	4	1.00	0.79	9.63	40.42
+GO:0061647	histone H3-K9 modification	4	0.84	0.80	9.49	187.05
+GO:0070633	transepithelial transport	4	0.81	0.66	8.82	10.99
+GO:0048240	sperm capacitation	4	1.00	0.75	9.63	67.15
+GO:0045348	positive regulation of MHC class II biosynthetic process	3	1.00	0.85	9.63	147.29
+GO:0006364	rRNA processing	3	0.63	0.71	8.68	356.39
+GO:0090400	stress-induced premature senescence	3	0.93	0.76	9.54	55.83
+GO:0006904	vesicle docking involved in exocytosis	2	0.89	0.77	9.43	32.65
+GO:0001756	somitogenesis	2	1.00	0.79	9.63	43.80
+GO:0050872	white fat cell differentiation	2	0.93	0.76	9.47	21.76
+GO:0046628	positive regulation of insulin receptor signaling pathway	2	0.89	0.80	9.52	293.60
+GO:0050434	positive regulation of viral transcription	2	0.93	0.82	9.53	62.41
+GO:0003413	chondrocyte differentiation involved in endochondral bone morphogenesis	1	0.93	0.76	9.47	21.07
+GO:0035358	regulation of peroxisome proliferator activated receptor signaling pathway	1	0.89	0.77	9.41	41.85
+GO:2000655	negative regulation of cellular response to testosterone stimulus	1	1.00	0.79	9.63	79.37
+GO:0061181	regulation of chondrocyte development	1	0.83	0.76	9.46	87.87
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64
+GO:0033210	leptin-mediated signaling pathway	1	0.93	0.82	9.51	30.19
+GO:0006047	UDP-N-acetylglucosamine metabolic process	1	0.87	0.78	9.52	163.58

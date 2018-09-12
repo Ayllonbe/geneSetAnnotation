@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060716	labyrinthine layer blood vessel development	4	1.00	0.79	9.63	85.13
+GO:0048856	anatomical structure development	246	0.33	0.29	3.70	6.46
+GO:0009987	cellular process	1892	0.09	0.05	0.84	3.37
+GO:0031103	axon regeneration	6	0.84	0.77	9.43	96.51
+GO:2001258	negative regulation of cation channel activity	10	0.71	0.75	9.10	527.32
+GO:0042730	fibrinolysis	7	1.00	0.90	9.63	252.90
+GO:0051091	positive regulation of DNA binding transcription factor activity	61	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	1578	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	592	0.33	0.29	4.10	4.47
+GO:2001258	negative regulation of cation channel activity	10	0.71	0.75	9.10	527.32
+GO:0042730	fibrinolysis	7	1.00	0.90	9.63	252.90
+GO:0051091	positive regulation of DNA binding transcription factor activity	61	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	1578	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	592	0.33	0.29	4.10	4.47
+GO:0043170	macromolecule metabolic process	853	0.25	0.32	3.46	10.22
+GO:0006094	gluconeogenesis	4	1.00	0.85	9.63	174.61
+GO:0043170	macromolecule metabolic process	853	0.25	0.32	3.46	10.22
+GO:0006094	gluconeogenesis	4	1.00	0.85	9.63	174.61
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0009605	response to external stimulus	327	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	494	0.32	0.29	4.12	6.14
+GO:0051704	multi-organism process	245	0.29	0.15	3.12	3.37
+GO:0032501	multicellular organismal process	215	0.33	0.16	3.12	3.37
+GO:0000060	protein import into nucleus, translocation	11	1.00	0.90	9.63	93.44

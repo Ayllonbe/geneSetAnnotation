@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1618	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	948	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	833	0.24	0.37	3.90	23.93
+GO:0019222	regulation of metabolic process	1209	0.21	0.30	3.39	7.96
+GO:0016043	cellular component organization	835	0.28	0.26	3.74	11.45
+GO:0032502	developmental process	488	0.22	0.11	1.89	3.37
+GO:0050896	response to stimulus	769	0.25	0.12	2.65	3.37
+GO:0006810	transport	753	0.28	0.34	3.95	7.46
+GO:0031295	T cell costimulation	15	0.93	0.86	9.59	354.90
+GO:0007165	signal transduction	734	0.36	0.43	5.06	19.43
+GO:0031295	T cell costimulation	15	0.93	0.86	9.59	354.90
+GO:0007165	signal transduction	734	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	543	0.33	0.45	5.35	37.59
+GO:0051050	positive regulation of transport	190	0.42	0.50	5.84	25.90
+GO:0030335	positive regulation of cell migration	104	0.58	0.64	8.22	157.26
+GO:1903706	regulation of hemopoiesis	89	0.50	0.54	7.23	38.17
+GO:0051495	positive regulation of cytoskeleton organization	50	0.62	0.66	8.29	90.96

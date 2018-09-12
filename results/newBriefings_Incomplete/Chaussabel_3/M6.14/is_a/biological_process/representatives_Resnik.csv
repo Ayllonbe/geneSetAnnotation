@@ -1,0 +1,93 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050896	response to stimulus	201	0.25	0.12	2.65	3.37
+GO:0006357	regulation of transcription by RNA polymerase II	137	0.44	0.63	7.11	248.57
+GO:0009966	regulation of signal transduction	124	0.33	0.45	5.35	37.59
+GO:0010629	negative regulation of gene expression	103	0.47	0.56	6.74	59.05
+GO:0010628	positive regulation of gene expression	102	0.47	0.56	6.67	58.80
+GO:0051049	regulation of transport	98	0.31	0.40	4.67	10.45
+GO:0007166	cell surface receptor signaling pathway	96	0.43	0.51	5.91	23.17
+GO:0065003	protein-containing complex assembly	81	0.45	0.48	6.06	36.47
+GO:2000026	regulation of multicellular organismal development	81	0.29	0.39	4.73	23.09
+GO:0015031	protein transport	77	0.48	0.59	6.99	54.46
+GO:0051895	negative regulation of focal adhesion assembly	1	1.00	0.88	9.63	270.76
+GO:0051130	positive regulation of cellular component organization	76	0.42	0.50	5.95	43.84
+GO:0045944	positive regulation of transcription by RNA polymerase II	75	0.55	0.71	8.36	1463.86
+GO:0045892	negative regulation of transcription, DNA-templated	74	0.56	0.69	8.52	1581.26
+GO:0008285	negative regulation of cell proliferation	36	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	43	0.56	0.57	7.27	43.45
+GO:0001932	regulation of protein phosphorylation	64	0.50	0.62	7.64	109.03
+GO:0043066	negative regulation of apoptotic process	44	0.56	0.63	7.79	81.07
+GO:0043068	positive regulation of programmed cell death	27	0.54	0.60	7.55	59.39
+GO:0071310	cellular response to organic substance	57	0.44	0.47	5.95	41.66
+GO:0051704	multi-organism process	51	0.29	0.15	3.12	3.37
+GO:0009968	negative regulation of signal transduction	51	0.44	0.54	6.68	140.65
+GO:0009628	response to abiotic stimulus	50	0.46	0.35	5.43	6.14
+GO:1903047	mitotic cell cycle process	48	0.50	0.45	5.87	11.32
+GO:0046903	secretion	47	0.46	0.48	5.79	10.99
+GO:0006974	cellular response to DNA damage stimulus	46	0.57	0.53	7.47	29.00
+GO:0009725	response to hormone	30	0.53	0.51	7.03	21.86
+GO:0010243	response to organonitrogen compound	34	0.45	0.48	6.23	25.43
+GO:0006366	transcription by RNA polymerase II	43	0.60	0.72	8.61	583.88
+GO:1903827	regulation of cellular protein localization	41	0.48	0.53	6.86	25.72
+GO:0002684	positive regulation of immune system process	38	0.41	0.45	5.71	22.61
+GO:0007010	cytoskeleton organization	37	0.52	0.51	6.76	18.35
+GO:0045786	negative regulation of cell cycle	36	0.51	0.54	7.10	42.35
+GO:0051271	negative regulation of cellular component movement	15	0.55	0.56	7.36	52.39
+GO:0030334	regulation of cell migration	35	0.48	0.56	7.11	36.74
+GO:1902533	positive regulation of intracellular signal transduction	36	0.55	0.63	7.95	189.48
+GO:0016042	lipid catabolic process	14	0.51	0.51	6.88	43.15
+GO:0044255	cellular lipid metabolic process	31	0.38	0.44	5.89	38.02
+GO:0051640	organelle localization	33	0.49	0.45	6.08	7.87
+GO:0016567	protein ubiquitination	33	0.69	0.74	9.00	153.79
+GO:0007186	G-protein coupled receptor signaling pathway	31	0.55	0.57	7.20	23.17
+GO:0048468	cell development	28	0.51	0.45	6.51	28.42
+GO:0043547	positive regulation of GTPase activity	28	0.93	0.79	9.52	49.34
+GO:0061024	membrane organization	26	0.47	0.43	6.06	14.95
+GO:0001817	regulation of cytokine production	26	0.40	0.45	5.78	11.79
+GO:0051051	negative regulation of transport	25	0.42	0.50	5.86	25.98
+GO:0019221	cytokine-mediated signaling pathway	25	0.60	0.63	7.60	26.50
+GO:0090066	regulation of anatomical structure size	20	0.53	0.46	6.45	8.64
+GO:0032989	cellular component morphogenesis	20	0.56	0.48	7.27	42.57
+GO:0006897	endocytosis	20	0.63	0.61	8.09	26.36
+GO:0050727	regulation of inflammatory response	17	0.53	0.59	7.40	31.59
+GO:0006914	autophagy	16	0.67	0.59	8.40	37.75
+GO:0007265	Ras protein signal transduction	16	0.76	0.73	8.94	27.53
+GO:0030031	cell projection assembly	16	0.67	0.59	8.12	35.52
+GO:0016055	Wnt signaling pathway	15	0.59	0.65	7.65	28.58
+GO:0006367	transcription initiation from RNA polymerase II promoter	15	1.00	0.90	9.63	477.15
+GO:0090257	regulation of muscle system process	14	0.52	0.55	7.00	14.36
+GO:0045861	negative regulation of proteolysis	14	0.61	0.68	8.71	337.18
+GO:0034976	response to endoplasmic reticulum stress	14	0.68	0.59	8.28	29.00
+GO:0051056	regulation of small GTPase mediated signal transduction	12	0.68	0.69	8.65	45.07
+GO:0006260	DNA replication	11	0.73	0.72	9.27	254.20
+GO:0050878	regulation of body fluid levels	10	0.58	0.49	7.01	8.64
+GO:0034329	cell junction assembly	9	0.71	0.61	8.53	35.01
+GO:0009267	cellular response to starvation	9	0.64	0.64	8.46	112.77
+GO:0007204	positive regulation of cytosolic calcium ion concentration	8	0.68	0.77	9.10	290.30
+GO:0006334	nucleosome assembly	8	0.87	0.78	9.47	104.52
+GO:0030308	negative regulation of cell growth	7	0.69	0.67	8.67	80.89
+GO:0045727	positive regulation of translation	5	0.66	0.71	9.12	1032.69
+GO:0031100	animal organ regeneration	5	0.89	0.70	9.29	28.09
+GO:0045652	regulation of megakaryocyte differentiation	5	0.89	0.80	9.46	68.96
+GO:0042098	T cell proliferation	4	0.72	0.69	9.08	51.29
+GO:0010001	glial cell differentiation	4	0.72	0.61	8.40	21.07
+GO:0007569	cell aging	4	0.80	0.60	8.94	24.75
+GO:2000278	regulation of DNA biosynthetic process	4	0.69	0.70	9.04	150.74
+GO:2000379	positive regulation of reactive oxygen species metabolic process	4	0.78	0.71	9.25	112.72
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	4	0.83	0.79	9.19	31.00
+GO:0006986	response to unfolded protein	3	0.87	0.72	9.34	23.96
+GO:0051402	neuron apoptotic process	3	0.83	0.70	9.02	23.44
+GO:0009749	response to glucose	2	0.89	0.80	9.41	32.96
+GO:0002062	chondrocyte differentiation	2	0.89	0.70	9.45	21.07
+GO:0070371	ERK1 and ERK2 cascade	2	1.00	0.92	9.63	233.40
+GO:0050806	positive regulation of synaptic transmission	2	0.67	0.69	8.68	101.55
+GO:0018149	peptide cross-linking	2	0.60	0.65	8.12	151.15
+GO:0030823	regulation of cGMP metabolic process	2	0.76	0.78	9.39	212.56
+GO:0060406	positive regulation of penile erection	1	1.00	0.79	9.63	118.07
+GO:0060574	intestinal epithelial cell maturation	1	1.00	0.82	9.63	41.35
+GO:0060689	cell differentiation involved in salivary gland development	1	0.84	0.67	9.16	21.07
+GO:0001992	regulation of systemic arterial blood pressure by vasopressin	1	1.00	0.85	9.63	25.38
+GO:0002578	negative regulation of antigen processing and presentation	1	0.69	0.64	8.48	38.83
+GO:2000124	regulation of endocannabinoid signaling pathway	1	1.00	0.85	9.63	44.99
+GO:0090343	positive regulation of cell aging	1	0.87	0.72	9.34	80.43
+GO:0060487	lung epithelial cell differentiation	1	0.80	0.69	9.01	45.96

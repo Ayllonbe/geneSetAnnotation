@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5872	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4187	0.08	0.04	0.98	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	15	1.00	0.82	9.63	33.25
+GO:0051101	regulation of DNA binding	52	0.61	0.55	7.68	9.33
+GO:0031295	T cell costimulation	32	0.93	0.86	9.59	354.90
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	62	1.00	0.79	9.63	42.20
+GO:0051090	regulation of DNA binding transcription factor activity	184	0.72	0.77	9.22	255.34
+GO:0006810	transport	1594	0.28	0.34	3.95	7.46
+GO:0042747	circadian sleep/wake cycle, REM sleep	1	1.00	0.79	9.63	21.52

@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	882	0.36	0.43	5.06	19.43
+GO:0006810	transport	688	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	604	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	476	0.32	0.29	4.16	13.85
+GO:0070887	cellular response to chemical stimulus	371	0.40	0.40	5.31	25.21
+GO:0010033	response to organic substance	459	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	340	0.39	0.39	5.14	9.28
+GO:0010033	response to organic substance	459	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	340	0.39	0.39	5.14	9.28
+GO:0010628	positive regulation of gene expression	330	0.47	0.56	6.67	58.80
+GO:0060548	negative regulation of cell death	232	0.54	0.56	7.27	41.94
+GO:0006351	transcription, DNA-templated	229	0.57	0.68	8.45	581.39
+GO:0045944	positive regulation of transcription by RNA polymerase II	211	0.55	0.71	8.36	1463.86
+GO:0006508	proteolysis	178	0.55	0.57	7.34	47.86
+GO:0045087	innate immune response	173	0.68	0.59	8.16	26.47
+GO:0055085	transmembrane transport	172	0.41	0.46	5.44	10.99
+GO:0050900	leukocyte migration	161	0.60	0.59	8.02	26.94
+GO:0002696	positive regulation of leukocyte activation	148	0.57	0.61	7.92	96.44
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	134	0.68	0.66	8.81	76.40
+GO:0032496	response to lipopolysaccharide	119	0.89	0.74	9.45	64.41
+GO:0071396	cellular response to lipid	110	0.60	0.59	7.70	61.75
+GO:0071417	cellular response to organonitrogen compound	106	0.53	0.56	7.37	128.53
+GO:0042326	negative regulation of phosphorylation	97	0.58	0.66	8.18	181.49
+GO:0015711	organic anion transport	83	0.43	0.54	6.27	28.20
+GO:0042742	defense response to bacterium	80	0.79	0.72	9.19	69.65
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0050714	positive regulation of protein secretion	73	0.65	0.70	8.73	381.48
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0006898	receptor-mediated endocytosis	66	0.68	0.66	8.48	28.44
+GO:0007584	response to nutrient	34	0.58	0.58	7.78	20.62
+GO:0010977	negative regulation of neuron projection development	31	0.68	0.73	9.14	494.13
+GO:0030449	regulation of complement activation	30	0.69	0.72	9.30	245.77
+GO:0006958	complement activation, classical pathway	28	1.00	0.88	9.63	171.03
+GO:0038083	peptidyl-tyrosine autophosphorylation	20	1.00	0.92	9.63	522.64
+GO:0045761	regulation of adenylate cyclase activity	11	0.78	0.82	9.45	755.00
+GO:0001890	placenta development	11	1.00	0.75	9.63	49.87
+GO:0050892	intestinal absorption	10	0.81	0.66	9.18	23.07
+GO:2000251	positive regulation of actin cytoskeleton reorganization	8	1.00	0.90	9.63	130.74
+GO:0001662	behavioral fear response	7	1.00	0.79	9.63	37.89
+GO:0014072	response to isoquinoline alkaloid	7	0.83	0.74	9.41	49.90
+GO:0032376	positive regulation of cholesterol transport	6	0.81	0.78	9.32	149.27
+GO:2001025	positive regulation of response to drug	5	0.65	0.62	7.96	42.54
+GO:0060100	positive regulation of phagocytosis, engulfment	4	0.93	0.86	9.58	308.81
+GO:1905522	negative regulation of macrophage migration	4	0.89	0.84	9.53	296.20
+GO:1903861	positive regulation of dendrite extension	3	1.00	0.92	9.63	830.98
+GO:1903997	positive regulation of non-membrane spanning protein tyrosine kinase activity	2	1.00	0.95	9.63	2433.42
+GO:0036150	phosphatidylserine acyl-chain remodeling	2	1.00	0.88	9.63	193.22
+GO:0061092	positive regulation of phospholipid translocation	2	1.00	0.90	9.63	348.31
+GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	2	1.00	0.90	9.63	967.92
+GO:1900028	negative regulation of ruffle assembly	2	1.00	0.90	9.63	173.85
+GO:0043215	daunorubicin transport	1	1.00	0.85	9.63	103.95
+GO:1902227	negative regulation of macrophage colony-stimulating factor signaling pathway	1	1.00	0.88	9.63	445.66
+GO:1904151	positive regulation of microglial cell mediated cytotoxicity	1	1.00	0.82	9.63	47.82
+GO:0071475	cellular hyperosmotic salinity response	1	0.93	0.82	9.57	243.84
+GO:1904478	regulation of intestinal absorption	1	0.77	0.71	9.22	30.84
+GO:0071217	cellular response to external biotic stimulus	1	1.00	0.75	9.63	54.04

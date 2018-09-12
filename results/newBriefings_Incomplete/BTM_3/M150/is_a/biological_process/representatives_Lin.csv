@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044281	small molecule metabolic process	221	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	896	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	953	0.15	0.20	2.26	6.41
+GO:0050896	response to stimulus	748	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	556	0.38	0.19	3.93	3.37
+GO:0034641	cellular nitrogen compound metabolic process	466	0.26	0.33	4.23	26.70
+GO:2000026	regulation of multicellular organismal development	366	0.29	0.39	4.73	23.09
+GO:0042981	regulation of apoptotic process	286	0.45	0.55	6.60	16.23
+GO:0071702	organic substance transport	239	0.33	0.41	4.62	10.99
+GO:0045893	positive regulation of transcription, DNA-templated	231	0.52	0.67	8.14	1208.12
+GO:0019221	cytokine-mediated signaling pathway	219	0.60	0.63	7.60	26.50
+GO:1902533	positive regulation of intracellular signal transduction	216	0.55	0.63	7.95	189.48
+GO:0033554	cellular response to stress	209	0.44	0.42	6.05	25.47
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	174	0.50	0.60	7.60	369.32
+GO:0006468	protein phosphorylation	149	0.57	0.64	8.18	177.76
+GO:0001819	positive regulation of cytokine production	135	0.51	0.54	6.97	44.26
+GO:1903706	regulation of hemopoiesis	115	0.50	0.54	7.23	38.17
+GO:0006259	DNA metabolic process	111	0.45	0.55	7.12	145.26
+GO:0051090	regulation of DNA binding transcription factor activity	85	0.72	0.77	9.22	255.34
+GO:0045089	positive regulation of innate immune response	81	0.54	0.62	7.78	173.78
+GO:0034121	regulation of toll-like receptor signaling pathway	19	0.61	0.66	8.32	87.36
+GO:0043900	regulation of multi-organism process	74	0.40	0.40	5.32	7.96
+GO:0002819	regulation of adaptive immune response	66	0.52	0.55	7.28	25.62
+GO:0051224	negative regulation of protein transport	36	0.60	0.65	8.07	87.71
+GO:0051701	interaction with host	35	0.38	0.39	5.05	8.50
+GO:0030522	intracellular receptor signaling pathway	34	0.65	0.62	7.99	23.17
+GO:0051100	negative regulation of binding	32	0.62	0.56	7.57	18.50
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0001701	in utero embryonic development	24	1.00	0.85	9.63	22.50
+GO:0032526	response to retinoic acid	20	0.93	0.76	9.49	43.79
+GO:0006446	regulation of translational initiation	14	0.62	0.69	8.74	215.82
+GO:0051289	protein homotetramerization	13	1.00	0.85	9.63	85.45
+GO:0043666	regulation of phosphoprotein phosphatase activity	13	0.74	0.77	9.33	158.30
+GO:0033003	regulation of mast cell activation	13	0.74	0.69	9.18	27.11
+GO:0071466	cellular response to xenobiotic stimulus	12	0.74	0.62	8.58	40.79
+GO:0010596	negative regulation of endothelial cell migration	9	0.84	0.82	9.53	299.56
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	7	0.78	0.76	9.31	117.17
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	7	0.79	0.64	8.82	10.56
+GO:1900225	regulation of NLRP3 inflammasome complex assembly	5	0.89	0.77	9.38	31.01
+GO:0071360	cellular response to exogenous dsRNA	5	1.00	0.85	9.63	172.53
+GO:0055012	ventricular cardiac muscle cell differentiation	4	1.00	0.85	9.63	47.30
+GO:0033689	negative regulation of osteoblast proliferation	3	1.00	0.82	9.63	63.18
+GO:0001893	maternal placenta development	3	1.00	0.75	9.63	43.25
+GO:0060700	regulation of ribonuclease activity	3	0.80	0.75	9.39	157.94
+GO:0051097	negative regulation of helicase activity	3	0.87	0.76	9.43	49.94
+GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway	3	0.84	0.74	9.45	67.48
+GO:0016554	cytidine to uridine editing	2	1.00	0.90	9.63	133.94
+GO:0009972	cytidine deamination	2	1.00	0.93	9.63	2918.46
+GO:0010529	negative regulation of transposition	2	0.87	0.72	9.27	41.76
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0071357	cellular response to type I interferon	1	1.00	0.82	9.63	81.65
+GO:0017121	phospholipid scrambling	1	0.80	0.69	9.12	49.44
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81
+GO:0006659	phosphatidylserine biosynthetic process	1	1.00	0.88	9.63	760.20
+GO:1902044	regulation of Fas signaling pathway	1	0.89	0.77	9.41	41.85
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	1	1.00	0.85	9.63	112.16
+GO:0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	1.00	0.85	9.63	72.45

@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	2074	0.16	0.21	2.71	13.80
+GO:0044237	cellular metabolic process	2074	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	1180	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	1078	0.24	0.37	3.90	23.93
+GO:0010468	regulation of gene expression	1054	0.35	0.46	5.09	13.73
+GO:0006810	transport	953	0.28	0.34	3.95	7.46
+GO:0090304	nucleic acid metabolic process	922	0.35	0.46	5.97	111.15
+GO:0016192	vesicle-mediated transport	428	0.52	0.51	6.57	10.99
+GO:0051049	regulation of transport	423	0.31	0.40	4.67	10.45
+GO:0033554	cellular response to stress	414	0.44	0.42	6.05	25.47
+GO:0015031	protein transport	363	0.48	0.59	6.99	54.46
+GO:0001932	regulation of protein phosphorylation	341	0.50	0.62	7.64	109.03
+GO:0043666	regulation of phosphoprotein phosphatase activity	29	0.74	0.77	9.33	158.30
+GO:0042981	regulation of apoptotic process	349	0.45	0.55	6.60	16.23
+GO:0009968	negative regulation of signal transduction	277	0.44	0.54	6.68	140.65
+GO:0034613	cellular protein localization	248	0.45	0.48	6.33	26.83
+GO:0051241	negative regulation of multicellular organismal process	243	0.35	0.42	4.99	23.69
+GO:0050778	positive regulation of immune response	183	0.46	0.52	6.76	78.39
+GO:0019221	cytokine-mediated signaling pathway	180	0.60	0.63	7.60	26.50
+GO:0006812	cation transport	152	0.45	0.51	6.21	12.09
+GO:0051249	regulation of lymphocyte activation	119	0.48	0.56	7.10	27.11
+GO:0071407	cellular response to organic cyclic compound	94	0.53	0.56	7.03	63.03
+GO:0030036	actin cytoskeleton organization	87	0.63	0.61	8.05	29.61
+GO:0000398	mRNA splicing, via spliceosome	65	0.83	0.85	9.49	356.67
+GO:0051607	defense response to virus	55	0.87	0.76	9.49	78.89
+GO:0030522	intracellular receptor signaling pathway	50	0.65	0.62	7.99	23.17
+GO:0030833	regulation of actin filament polymerization	44	0.70	0.77	9.22	153.53
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0050852	T cell receptor signaling pathway	37	1.00	0.92	9.63	219.43
+GO:0034644	cellular response to UV	33	0.80	0.75	9.22	66.19
+GO:0006694	steroid biosynthetic process	33	0.67	0.63	8.59	127.07
+GO:0007281	germ cell development	31	0.87	0.68	9.34	71.68
+GO:0050688	regulation of defense response to virus	25	0.75	0.70	9.19	71.29
+GO:0007266	Rho protein signal transduction	24	0.93	0.84	9.52	29.61
+GO:0038095	Fc-epsilon receptor signaling pathway	22	0.93	0.84	9.55	78.48
+GO:0090630	activation of GTPase activity	21	1.00	0.85	9.63	49.34
+GO:0019933	cAMP-mediated signaling	20	0.77	0.76	9.12	28.51
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	19	0.83	0.79	9.19	31.00
+GO:1990138	neuron projection extension	16	0.81	0.66	9.22	50.60
+GO:0002286	T cell activation involved in immune response	12	0.70	0.67	8.89	82.05
+GO:0008543	fibroblast growth factor receptor signaling pathway	12	0.71	0.73	8.57	31.00
+GO:0019054	modulation by virus of host process	12	0.55	0.62	7.70	74.20
+GO:1905515	non-motile cilium assembly	10	1.00	0.85	9.63	138.78
+GO:0035459	cargo loading into vesicle	8	0.83	0.74	9.32	55.51
+GO:0007616	long-term memory	6	1.00	0.85	9.63	22.23
+GO:0048741	skeletal muscle fiber development	4	1.00	0.85	9.63	69.28
+GO:0030277	maintenance of gastrointestinal epithelium	3	0.93	0.82	9.53	27.02
+GO:0043046	DNA methylation involved in gamete generation	2	1.00	0.92	9.63	410.99
+GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	1	1.00	0.95	9.63	2003.64
+GO:0035616	histone H2B conserved C-terminal lysine deubiquitination	1	1.00	0.93	9.63	393.14
+GO:0015730	propanoate transport	1	1.00	0.93	9.63	92.09
+GO:0015913	short-chain fatty acid import	1	1.00	0.93	9.63	74.11

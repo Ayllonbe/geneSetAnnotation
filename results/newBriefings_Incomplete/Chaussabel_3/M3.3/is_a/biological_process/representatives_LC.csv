@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5019	0.00	0.00	0.00	0.00
+GO:0051661	maintenance of centrosome location	4	1.00	0.82	9.63	46.02
+GO:0032206	positive regulation of telomere maintenance	16	0.76	0.75	9.40	504.23
+GO:0050789	regulation of biological process	3417	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	976	0.33	0.29	4.10	4.47
+GO:0032502	developmental process	898	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	369	0.33	0.16	3.12	3.37
+GO:0002376	immune system process	719	0.38	0.19	3.93	3.37
+GO:0010033	response to organic substance	656	0.35	0.37	4.75	9.28
+GO:0071732	cellular response to nitric oxide	5	1.00	0.82	9.63	346.50
+GO:0033365	protein localization to organelle	227	0.50	0.54	7.01	29.83
+GO:0008645	hexose transmembrane transport	7	0.73	0.74	8.83	35.43
+GO:0019088	immortalization of host cell by virus	1	1.00	0.88	9.63	54.80

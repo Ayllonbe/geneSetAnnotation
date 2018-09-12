@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1872	0.00	0.00	0.00	0.00
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	15	0.93	0.91	9.59	279.62
+GO:0048872	homeostasis of number of cells	25	0.67	0.58	7.80	10.43
+GO:0050789	regulation of biological process	1387	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	36	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	522	0.33	0.29	4.10	4.47
+GO:0046718	viral entry into host cell	23	0.77	0.73	8.94	28.37
+GO:0050896	response to stimulus	734	0.25	0.12	2.65	3.37
+GO:0002355	detection of tumor cell	1	1.00	0.75	9.63	27.40
+GO:0006810	transport	603	0.28	0.34	3.95	7.46
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23

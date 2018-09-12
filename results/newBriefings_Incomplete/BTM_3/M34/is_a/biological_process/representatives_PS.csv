@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051345	positive regulation of hydrolase activity	161	0.57	0.57	7.42	32.99
+GO:0000187	activation of MAPK activity	35	0.81	0.87	9.53	3706.25
+GO:0051918	negative regulation of fibrinolysis	3	1.00	0.90	9.63	332.96
+GO:0050789	regulation of biological process	1531	0.09	0.17	1.80	4.47
+GO:0051345	positive regulation of hydrolase activity	161	0.57	0.57	7.42	32.99
+GO:0000187	activation of MAPK activity	35	0.81	0.87	9.53	3706.25
+GO:0051918	negative regulation of fibrinolysis	3	1.00	0.90	9.63	332.96
+GO:0050789	regulation of biological process	1531	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	990	0.16	0.21	2.71	13.80
+GO:0042221	response to chemical	481	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	474	0.39	0.32	4.70	6.14
+GO:0006810	transport	657	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	544	0.22	0.11	1.89	3.37
+GO:0008543	fibroblast growth factor receptor signaling pathway	12	0.71	0.73	8.57	31.00
+GO:0051017	actin filament bundle assembly	12	0.79	0.72	9.14	39.79
+GO:0030032	lamellipodium assembly	8	0.89	0.77	9.53	78.22
+GO:0034333	adherens junction assembly	8	0.84	0.74	9.34	54.64
+GO:0048041	focal adhesion assembly	7	1.00	0.88	9.63	92.53
+GO:0048675	axon extension	7	0.89	0.74	9.43	51.99
+GO:0030049	muscle filament sliding	6	1.00	0.82	9.63	20.96
+GO:0030220	platelet formation	6	1.00	0.79	9.63	33.80
+GO:0034394	protein localization to cell surface	6	1.00	0.79	9.63	29.83
+GO:0032060	bleb assembly	4	1.00	0.82	9.63	58.57
+GO:0043297	apical junction assembly	2	1.00	0.82	9.63	56.14
+GO:0045214	sarcomere organization	2	1.00	0.85	9.63	33.96
+GO:0036344	platelet morphogenesis	2	1.00	0.82	9.63	47.45

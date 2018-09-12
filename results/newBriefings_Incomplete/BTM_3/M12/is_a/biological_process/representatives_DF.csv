@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	874	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	603	0.33	0.45	5.35	37.59
+GO:0010605	negative regulation of macromolecule metabolic process	397	0.37	0.48	5.54	39.19
+GO:0006464	cellular protein modification process	393	0.34	0.49	5.84	147.03
+GO:0031328	positive regulation of cellular biosynthetic process	353	0.41	0.53	6.32	170.14
+GO:0009967	positive regulation of signal transduction	344	0.44	0.54	6.71	140.23
+GO:0050778	positive regulation of immune response	256	0.46	0.52	6.76	78.39
+GO:0043066	negative regulation of apoptotic process	218	0.56	0.63	7.79	81.07
+GO:0045087	innate immune response	171	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0001819	positive regulation of cytokine production	154	0.51	0.54	6.97	44.26
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	128	0.68	0.66	8.81	76.40
+GO:0002237	response to molecule of bacterial origin	128	0.69	0.59	8.74	31.75
+GO:0045860	positive regulation of protein kinase activity	128	0.63	0.73	9.00	1094.92
+GO:0006875	cellular metal ion homeostasis	126	0.59	0.67	8.36	105.84
+GO:0050870	positive regulation of T cell activation	102	0.63	0.69	8.78	216.07
+GO:0051051	negative regulation of transport	98	0.42	0.50	5.86	25.98
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0006631	fatty acid metabolic process	52	0.54	0.62	7.85	91.02
+GO:0030217	T cell differentiation	50	0.66	0.65	8.68	65.05
+GO:0046854	phosphatidylinositol phosphorylation	33	1.00	0.88	9.63	218.74
+GO:0045840	positive regulation of mitotic nuclear division	23	0.71	0.73	9.14	276.06
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	21	0.93	0.93	9.60	734.49
+GO:0006637	acyl-CoA metabolic process	17	0.59	0.59	7.98	77.21
+GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
+GO:0045589	regulation of regulatory T cell differentiation	12	0.79	0.79	9.52	133.47
+GO:0030206	chondroitin sulfate biosynthetic process	7	1.00	0.88	9.63	416.10
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:0048304	positive regulation of isotype switching to IgG isotypes	5	1.00	0.93	9.63	1407.90
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0019319	hexose biosynthetic process	5	0.75	0.70	9.15	135.77
+GO:0072311	glomerular epithelial cell differentiation	2	0.79	0.72	9.22	49.62
+GO:0032594	protein transport within lipid bilayer	2	0.70	0.75	9.24	121.86
+GO:1902108	regulation of mitochondrial membrane permeability involved in apoptotic process	1	0.87	0.78	9.49	74.66
+GO:0000390	spliceosomal complex disassembly	1	1.00	0.82	9.63	58.05
+GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
+GO:0032913	negative regulation of transforming growth factor beta3 production	1	0.93	0.82	9.54	85.64

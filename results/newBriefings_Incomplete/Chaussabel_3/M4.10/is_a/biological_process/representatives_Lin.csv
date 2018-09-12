@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	4295	0.08	0.04	0.98	3.37
+GO:0006355	regulation of transcription, DNA-templated	1512	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	1206	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	984	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	928	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	913	0.43	0.51	5.91	23.17
+GO:0006796	phosphate-containing compound metabolic process	856	0.36	0.43	5.28	20.85
+GO:0002682	regulation of immune system process	695	0.32	0.36	4.60	7.96
+GO:0035556	intracellular signal transduction	691	0.51	0.55	6.92	23.17
+GO:0050776	regulation of immune response	468	0.38	0.44	5.64	22.45
+GO:0043066	negative regulation of apoptotic process	392	0.56	0.63	7.79	81.07
+GO:0001934	positive regulation of protein phosphorylation	389	0.58	0.69	8.60	663.11
+GO:0008284	positive regulation of cell proliferation	354	0.56	0.57	7.27	43.45
+GO:2000145	regulation of cell motility	347	0.47	0.52	6.88	34.54
+GO:0009653	anatomical structure morphogenesis	302	0.36	0.31	4.09	6.46
+GO:0007186	G-protein coupled receptor signaling pathway	245	0.55	0.57	7.20	23.17
+GO:0050708	regulation of protein secretion	189	0.54	0.62	7.86	96.15
+GO:0050900	leukocyte migration	153	0.60	0.59	8.02	26.94
+GO:0046649	lymphocyte activation	150	0.55	0.52	7.16	18.06
+GO:0051260	protein homooligomerization	134	0.89	0.77	9.41	42.03
+GO:0007610	behavior	85	0.48	0.24	4.72	3.37
+GO:0071356	cellular response to tumor necrosis factor	48	1.00	0.82	9.63	81.65
+GO:0015914	phospholipid transport	29	0.78	0.74	9.04	67.00
+GO:0030041	actin filament polymerization	13	0.93	0.82	9.55	66.56
+GO:0045947	negative regulation of translational initiation	12	0.75	0.77	9.38	1335.45
+GO:0032461	positive regulation of protein oligomerization	9	0.87	0.78	9.55	141.07
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	9	1.00	0.85	9.63	147.29
+GO:0051712	positive regulation of killing of cells of other organism	8	0.72	0.65	9.05	72.12
+GO:0051000	positive regulation of nitric-oxide synthase activity	8	1.00	0.85	9.63	123.23
+GO:0010918	positive regulation of mitochondrial membrane potential	7	1.00	0.79	9.63	24.66
+GO:0019226	transmission of nerve impulse	4	1.00	0.75	9.63	26.02
+GO:0071205	protein localization to juxtaparanode region of axon	3	0.93	0.76	9.51	40.93

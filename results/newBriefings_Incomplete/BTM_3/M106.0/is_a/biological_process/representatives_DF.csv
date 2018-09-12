@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	30	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	29	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	27	0.40	0.60	6.84	245.35
+GO:1903047	mitotic cell cycle process	26	0.50	0.45	5.87	11.32
+GO:0007165	signal transduction	25	0.36	0.43	5.06	19.43
+GO:0006996	organelle organization	25	0.39	0.39	5.17	14.95
+GO:0048869	cellular developmental process	24	0.32	0.29	4.16	13.85
+GO:0050658	RNA transport	18	0.64	0.67	8.39	40.09
+GO:0006886	intracellular protein transport	14	0.55	0.65	8.12	90.55
+GO:0034613	cellular protein localization	14	0.45	0.48	6.33	26.83
+GO:0009967	positive regulation of signal transduction	12	0.44	0.54	6.71	140.23
+GO:0000122	negative regulation of transcription by RNA polymerase II	7	0.61	0.74	8.79	1836.95
+GO:0070507	regulation of microtubule cytoskeleton organization	5	0.61	0.65	8.24	33.71
+GO:0009968	negative regulation of signal transduction	5	0.44	0.54	6.68	140.65
+GO:0033157	regulation of intracellular protein transport	4	0.60	0.65	8.42	91.14
+GO:0007051	spindle organization	4	0.69	0.67	8.69	44.52
+GO:0043547	positive regulation of GTPase activity	3	0.93	0.79	9.52	49.34
+GO:0051259	protein complex oligomerization	3	0.78	0.68	9.09	40.42
+GO:0010638	positive regulation of organelle organization	3	0.48	0.56	6.86	66.93
+GO:0007080	mitotic metaphase plate congression	2	1.00	0.85	9.63	61.63
+GO:0006511	ubiquitin-dependent protein catabolic process	2	0.74	0.74	9.19	156.45
+GO:0000070	mitotic sister chromatid segregation	2	1.00	0.82	9.63	56.84
+GO:0050830	defense response to Gram-positive bacterium	2	1.00	0.85	9.63	71.44
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0051292	nuclear pore complex assembly	2	0.93	0.79	9.55	123.37
+GO:0042176	regulation of protein catabolic process	2	0.59	0.62	8.21	56.79
+GO:0030032	lamellipodium assembly	1	0.89	0.77	9.53	78.22
+GO:1903438	positive regulation of mitotic cytokinetic process	1	0.74	0.77	9.22	347.74
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07
+GO:0043488	regulation of mRNA stability	1	0.74	0.77	9.24	282.23
+GO:0046039	GTP metabolic process	1	0.89	0.86	9.57	1313.88
+GO:0043407	negative regulation of MAP kinase activity	1	0.81	0.85	9.54	2610.18
+GO:0045540	regulation of cholesterol biosynthetic process	1	0.89	0.84	9.49	116.99
+GO:1904781	positive regulation of protein localization to centrosome	1	1.00	0.85	9.63	73.71
+GO:0048246	macrophage chemotaxis	1	1.00	0.88	9.63	95.92
+GO:0008585	female gonad development	1	1.00	0.79	9.63	50.96
+GO:0034198	cellular response to amino acid starvation	1	0.87	0.78	9.45	115.90
+GO:0031023	microtubule organizing center organization	1	0.73	0.56	8.47	24.42
+GO:0031081	nuclear pore distribution	1	1.00	0.85	9.63	71.75
+GO:0032092	positive regulation of protein binding	1	0.71	0.64	8.53	32.71
+GO:0009888	tissue development	1	0.47	0.44	5.74	11.73

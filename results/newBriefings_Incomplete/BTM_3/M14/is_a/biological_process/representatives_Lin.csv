@@ -1,0 +1,66 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	508	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	1542	0.12	0.26	2.47	7.96
+GO:0010605	negative regulation of macromolecule metabolic process	397	0.37	0.48	5.54	39.19
+GO:0031328	positive regulation of cellular biosynthetic process	353	0.41	0.53	6.32	170.14
+GO:0009967	positive regulation of signal transduction	343	0.44	0.54	6.71	140.23
+GO:0035556	intracellular signal transduction	329	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	316	0.45	0.55	6.60	16.23
+GO:0050778	positive regulation of immune response	254	0.46	0.52	6.76	78.39
+GO:2000145	regulation of cell motility	234	0.47	0.52	6.88	34.54
+GO:0006351	transcription, DNA-templated	229	0.57	0.68	8.45	581.39
+GO:0006955	immune response	220	0.54	0.40	6.57	12.45
+GO:0008285	negative regulation of cell proliferation	168	0.56	0.57	7.31	43.61
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0046907	intracellular transport	154	0.46	0.48	6.38	29.65
+GO:0001819	positive regulation of cytokine production	152	0.51	0.54	6.97	44.26
+GO:0007167	enzyme linked receptor protein signaling pathway	147	0.53	0.59	7.04	26.50
+GO:0045785	positive regulation of cell adhesion	144	0.58	0.54	7.23	21.97
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	128	0.68	0.66	8.81	76.40
+GO:0071345	cellular response to cytokine stimulus	103	0.67	0.63	8.21	61.60
+GO:0051259	protein complex oligomerization	84	0.78	0.68	9.09	40.42
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0045619	regulation of lymphocyte differentiation	60	0.57	0.63	8.36	97.97
+GO:0030217	T cell differentiation	50	0.66	0.65	8.68	65.05
+GO:0050679	positive regulation of epithelial cell proliferation	48	0.72	0.68	8.65	65.07
+GO:0009888	tissue development	44	0.47	0.44	5.74	11.73
+GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	37	0.89	0.80	9.43	45.07
+GO:0007229	integrin-mediated signaling pathway	34	1.00	0.82	9.63	26.50
+GO:0046854	phosphatidylinositol phosphorylation	33	1.00	0.88	9.63	218.74
+GO:0048562	embryonic organ morphogenesis	31	0.76	0.63	8.67	29.31
+GO:0001649	osteoblast differentiation	30	1.00	0.75	9.63	21.07
+GO:0001701	in utero embryonic development	27	1.00	0.85	9.63	22.50
+GO:0045840	positive regulation of mitotic nuclear division	23	0.71	0.73	9.14	276.06
+GO:0090090	negative regulation of canonical Wnt signaling pathway	21	0.79	0.77	9.28	236.99
+GO:0038083	peptidyl-tyrosine autophosphorylation	20	1.00	0.92	9.63	522.64
+GO:0090101	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	17	0.71	0.71	9.00	188.92
+GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
+GO:0007416	synapse assembly	16	0.84	0.67	9.12	35.85
+GO:0090184	positive regulation of kidney development	15	0.65	0.65	8.53	85.86
+GO:0001837	epithelial to mesenchymal transition	13	0.75	0.67	8.65	23.15
+GO:0022008	neurogenesis	13	0.87	0.68	9.29	21.07
+GO:0045668	negative regulation of osteoblast differentiation	11	0.93	0.79	9.56	170.33
+GO:0003382	epithelial cell morphogenesis	10	0.87	0.76	9.37	47.45
+GO:0050860	negative regulation of T cell receptor signaling pathway	10	0.93	0.84	9.58	309.62
+GO:0048538	thymus development	9	1.00	0.79	9.63	35.89
+GO:0002863	positive regulation of inflammatory response to antigenic stimulus	8	0.77	0.76	9.34	270.70
+GO:0061037	negative regulation of cartilage development	7	0.83	0.74	9.37	85.27
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:1904837	beta-catenin-TCF complex assembly	6	1.00	0.79	9.63	40.42
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0001766	membrane raft polarization	5	0.93	0.79	9.54	30.90
+GO:0016331	morphogenesis of embryonic epithelium	5	0.74	0.66	8.42	31.67
+GO:0033153	T cell receptor V(D)J recombination	4	1.00	0.93	9.63	333.87
+GO:0019800	peptide cross-linking via chondroitin 4-sulfate glycosaminoglycan	4	1.00	0.90	9.63	433.46
+GO:0003334	keratinocyte development	4	1.00	0.79	9.63	34.35
+GO:0060335	positive regulation of interferon-gamma-mediated signaling pathway	3	1.00	0.90	9.63	643.97
+GO:0021773	striatal medium spiny neuron differentiation	3	1.00	0.85	9.63	28.52
+GO:0031077	post-embryonic camera-type eye development	3	1.00	0.85	9.63	36.78
+GO:1905006	negative regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	2	1.00	0.88	9.63	277.95
+GO:0021902	commitment of neuronal cell to specific neuron type in forebrain	2	1.00	0.82	9.63	23.24
+GO:0060302	negative regulation of cytokine activity	2	0.93	0.84	9.58	129.50
+GO:0021533	cell differentiation in hindbrain	2	0.78	0.64	8.60	21.07
+GO:2000313	regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	1	0.89	0.80	9.49	96.70
+GO:0048712	negative regulation of astrocyte differentiation	1	0.93	0.88	9.59	472.93
+GO:0044336	canonical Wnt signaling pathway involved in negative regulation of apoptotic process	1	1.00	0.90	9.63	34.31
+GO:0060825	fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	1	0.93	0.86	9.53	33.84

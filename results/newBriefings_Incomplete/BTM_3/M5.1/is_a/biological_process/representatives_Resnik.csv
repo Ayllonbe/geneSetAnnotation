@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1199	0.00	0.00	0.00	0.00
+GO:0008150	biological_process	1199	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	875	0.09	0.17	1.80	4.47
+GO:0019222	regulation of metabolic process	467	0.21	0.30	3.39	7.96
+GO:0007166	cell surface receptor signaling pathway	335	0.43	0.51	5.91	23.17
+GO:0032879	regulation of localization	297	0.27	0.33	4.05	7.96
+GO:0001817	regulation of cytokine production	100	0.40	0.45	5.78	11.79
+GO:0001920	negative regulation of receptor recycling	1	1.00	0.82	9.63	203.34
+GO:0009966	regulation of signal transduction	311	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	295	0.22	0.11	1.89	3.37
+GO:0010033	response to organic substance	256	0.35	0.37	4.75	9.28
+GO:0071731	response to nitric oxide	4	0.93	0.76	9.54	66.43
+GO:0051128	regulation of cellular component organization	208	0.30	0.40	4.57	12.04
+GO:0035556	intracellular signal transduction	173	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	149	0.45	0.55	6.60	16.23
+GO:0007186	G-protein coupled receptor signaling pathway	148	0.55	0.57	7.20	23.17
+GO:0065003	protein-containing complex assembly	142	0.45	0.48	6.06	36.47
+GO:0032507	maintenance of protein location in cell	7	0.68	0.63	8.41	43.86
+GO:0048878	chemical homeostasis	122	0.48	0.49	6.42	10.43
+GO:0006470	protein dephosphorylation	11	0.76	0.73	9.22	177.17
+GO:0016310	phosphorylation	104	0.53	0.56	6.88	24.41
+GO:0015031	protein transport	88	0.48	0.59	6.99	54.46
+GO:0051345	positive regulation of hydrolase activity	80	0.57	0.57	7.42	32.99
+GO:0097190	apoptotic signaling pathway	35	0.70	0.64	8.53	23.17
+GO:0061024	membrane organization	34	0.47	0.43	6.06	14.95
+GO:0051447	negative regulation of meiotic cell cycle	5	0.67	0.66	8.66	99.48
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16

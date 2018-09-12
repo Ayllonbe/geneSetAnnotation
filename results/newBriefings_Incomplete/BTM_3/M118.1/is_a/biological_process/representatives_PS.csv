@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	391	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	292	0.24	0.37	3.90	23.93
+GO:0007166	cell surface receptor signaling pathway	285	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	251	0.33	0.45	5.35	37.59
+GO:0071310	cellular response to organic substance	155	0.44	0.47	5.95	41.66
+GO:0033993	response to lipid	107	0.53	0.51	6.86	13.32
+GO:0006355	regulation of transcription, DNA-templated	158	0.40	0.60	6.84	245.35
+GO:0035556	intracellular signal transduction	140	0.51	0.55	6.92	23.17
+GO:0048585	negative regulation of response to stimulus	118	0.36	0.43	5.03	23.55
+GO:0043312	neutrophil degranulation	110	1.00	0.90	9.63	132.80
+GO:0001934	positive regulation of protein phosphorylation	105	0.58	0.69	8.60	663.11
+GO:0050900	leukocyte migration	94	0.60	0.59	8.02	26.94
+GO:0055065	metal ion homeostasis	84	0.57	0.64	7.90	34.21
+GO:0051251	positive regulation of lymphocyte activation	63	0.58	0.64	8.19	127.58
+GO:0045577	regulation of B cell differentiation	4	0.74	0.74	9.22	130.38
+GO:0030001	metal ion transport	61	0.54	0.59	7.29	15.42
+GO:0001819	positive regulation of cytokine production	59	0.51	0.54	6.97	44.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	49	0.58	0.64	7.56	28.11
+GO:1902105	regulation of leukocyte differentiation	40	0.53	0.59	7.80	67.17
+GO:0019722	calcium-mediated signaling	29	0.72	0.71	8.71	27.81
+GO:0050804	modulation of chemical synaptic transmission	26	0.52	0.58	7.24	27.32
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	23	0.62	0.66	8.48	139.22
+GO:0030183	B cell differentiation	22	0.73	0.69	9.02	64.36
+GO:0045861	negative regulation of proteolysis	22	0.61	0.68	8.71	337.18
+GO:0050829	defense response to Gram-negative bacterium	18	1.00	0.85	9.63	71.44
+GO:0050852	T cell receptor signaling pathway	18	1.00	0.92	9.63	219.43
+GO:0030217	T cell differentiation	18	0.66	0.65	8.68	65.05
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	17	0.79	0.77	9.12	28.36
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	16	1.00	0.79	9.63	42.20
+GO:0030260	entry into host cell	15	0.74	0.69	8.68	26.99
+GO:0071260	cellular response to mechanical stimulus	12	1.00	0.79	9.63	56.12
+GO:0033209	tumor necrosis factor-mediated signaling pathway	12	0.89	0.80	9.51	30.19
+GO:0097191	extrinsic apoptotic signaling pathway	11	0.83	0.74	9.22	51.06
+GO:0045444	fat cell differentiation	11	0.87	0.68	9.29	21.07
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	8	0.93	0.82	9.56	84.23
+GO:0032507	maintenance of protein location in cell	7	0.68	0.63	8.41	43.86
+GO:0001782	B cell homeostasis	5	0.93	0.82	9.51	22.00
+GO:0003376	sphingosine-1-phosphate signaling pathway	4	0.89	0.77	9.41	50.15
+GO:0070498	interleukin-1-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:0043011	myeloid dendritic cell differentiation	3	0.89	0.77	9.49	91.17
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0097186	amelogenesis	3	1.00	0.82	9.63	26.74
+GO:0035723	interleukin-15-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0006090	pyruvate metabolic process	2	0.62	0.66	8.19	50.36
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
+GO:0002399	MHC class II protein complex assembly	1	1.00	0.85	9.63	45.62
+GO:0048305	immunoglobulin secretion	1	0.93	0.86	9.57	133.33
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:1903141	negative regulation of establishment of endothelial barrier	1	1.00	0.90	9.63	507.76
+GO:0050712	negative regulation of interleukin-1 alpha secretion	1	1.00	0.93	9.63	999.30
+GO:0035879	plasma membrane lactate transport	1	0.93	0.90	9.58	200.28

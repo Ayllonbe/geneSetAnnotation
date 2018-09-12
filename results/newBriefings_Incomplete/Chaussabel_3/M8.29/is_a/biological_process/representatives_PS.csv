@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4109	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	3160	0.09	0.17	1.80	4.47
+GO:0044260	cellular macromolecule metabolic process	1999	0.28	0.39	4.44	30.44
+GO:0022900	electron transport chain	70	0.71	0.61	8.48	29.76
+GO:0034641	cellular nitrogen compound metabolic process	1595	0.26	0.33	4.23	26.70
+GO:0051179	localization	1411	0.26	0.13	2.57	3.37
+GO:0050896	response to stimulus	1265	0.25	0.12	2.65	3.37
+GO:0065008	regulation of biological quality	792	0.28	0.26	3.48	4.47
+GO:0002376	immune system process	650	0.38	0.19	3.93	3.37
+GO:0030154	cell differentiation	401	0.39	0.39	5.18	16.68
+GO:0034220	ion transmembrane transport	214	0.45	0.51	6.18	26.33
+GO:0006875	cellular metal ion homeostasis	137	0.59	0.67	8.36	105.84
+GO:0007005	mitochondrion organization	83	0.62	0.56	7.74	18.35
+GO:0060271	cilium assembly	63	0.87	0.76	9.41	137.68
+GO:0070126	mitochondrial translational termination	44	1.00	0.85	9.63	40.69
+GO:0032781	positive regulation of ATPase activity	21	0.75	0.70	8.78	51.42
+GO:0008543	fibroblast growth factor receptor signaling pathway	20	0.71	0.73	8.57	31.00
+GO:0031497	chromatin assembly	12	0.76	0.67	8.80	37.86
+GO:0000715	nucleotide-excision repair, DNA damage recognition	12	0.93	0.76	9.47	21.24
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	8	0.93	0.86	9.57	68.47
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
+GO:1902109	negative regulation of mitochondrial membrane permeability involved in apoptotic process	1	1.00	0.88	9.63	138.60
+GO:1990144	intrinsic apoptotic signaling pathway in response to hypoxia	1	1.00	0.85	9.63	52.93
+GO:0010387	COP9 signalosome assembly	1	1.00	0.82	9.63	44.52

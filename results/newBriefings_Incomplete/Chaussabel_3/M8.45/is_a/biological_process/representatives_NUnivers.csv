@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1958	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	1020	0.24	0.37	3.90	23.93
+GO:0007165	signal transduction	897	0.36	0.43	5.06	19.43
+GO:0006357	regulation of transcription by RNA polymerase II	572	0.44	0.63	7.11	248.57
+GO:0032774	RNA biosynthetic process	572	0.53	0.62	8.04	473.34
+GO:0048869	cellular developmental process	475	0.32	0.29	4.16	13.85
+GO:0045893	positive regulation of transcription, DNA-templated	354	0.52	0.67	8.14	1208.12
+GO:0015031	protein transport	347	0.48	0.59	6.99	54.46
+GO:0006508	proteolysis	291	0.55	0.57	7.34	47.86
+GO:1901565	organonitrogen compound catabolic process	195	0.39	0.45	5.67	46.28
+GO:0016567	protein ubiquitination	159	0.69	0.74	9.00	153.79
+GO:0043547	positive regulation of GTPase activity	101	0.93	0.79	9.52	49.34
+GO:0051056	regulation of small GTPase mediated signal transduction	79	0.68	0.69	8.65	45.07
+GO:0006650	glycerophospholipid metabolic process	73	0.59	0.62	8.12	144.72
+GO:0006520	cellular amino acid metabolic process	70	0.41	0.53	6.53	77.81
+GO:0034976	response to endoplasmic reticulum stress	66	0.68	0.59	8.28	29.00
+GO:0031669	cellular response to nutrient levels	54	0.55	0.57	7.65	58.45
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	47	0.89	0.82	9.52	239.11
+GO:0010976	positive regulation of neuron projection development	47	0.68	0.73	9.14	493.19
+GO:0008360	regulation of cell shape	45	0.68	0.66	8.69	41.78
+GO:0002576	platelet degranulation	42	1.00	0.88	9.63	39.86
+GO:0046474	glycerophospholipid biosynthetic process	42	0.66	0.68	8.82	510.21
+GO:0030308	negative regulation of cell growth	40	0.69	0.67	8.67	80.89
+GO:0006334	nucleosome assembly	35	0.87	0.78	9.47	104.52
+GO:0050796	regulation of insulin secretion	32	0.83	0.81	9.53	205.48
+GO:0034644	cellular response to UV	30	0.80	0.75	9.22	66.19
+GO:0007517	muscle organ development	22	0.78	0.64	8.75	27.68
+GO:0043525	positive regulation of neuron apoptotic process	20	0.84	0.80	9.39	179.36
+GO:0016239	positive regulation of macroautophagy	17	0.77	0.76	9.24	266.07
+GO:0006094	gluconeogenesis	14	1.00	0.85	9.63	174.61
+GO:0045806	negative regulation of endocytosis	13	0.72	0.71	9.06	124.58
+GO:0032922	circadian regulation of gene expression	11	1.00	0.82	9.63	31.18
+GO:0002230	positive regulation of defense response to virus by host	10	1.00	0.88	9.63	73.08
+GO:0009247	glycolipid biosynthetic process	10	0.67	0.68	8.81	239.47
+GO:0010575	positive regulation of vascular endothelial growth factor production	8	1.00	0.82	9.63	64.54
+GO:0043267	negative regulation of potassium ion transport	8	0.74	0.75	9.03	68.61
+GO:1903204	negative regulation of oxidative stress-induced neuron death	7	0.87	0.83	9.58	363.98
+GO:1903351	cellular response to dopamine	6	1.00	0.88	9.63	545.63
+GO:0031642	negative regulation of myelination	3	1.00	0.85	9.63	207.09
+GO:0032057	negative regulation of translational initiation in response to stress	3	0.84	0.84	9.54	3170.18
+GO:1990737	response to manganese-induced endoplasmic reticulum stress	3	1.00	0.85	9.63	109.01
+GO:0051451	myoblast migration	3	0.93	0.79	9.49	22.01
+GO:0046855	inositol phosphate dephosphorylation	3	0.93	0.84	9.59	336.66
+GO:1902237	positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	3	1.00	0.92	9.63	829.38
+GO:0032288	myelin assembly	2	0.89	0.74	9.41	32.85
+GO:0072673	lamellipodium morphogenesis	1	1.00	0.85	9.63	82.65
+GO:0042631	cellular response to water deprivation	1	0.93	0.79	9.59	306.78

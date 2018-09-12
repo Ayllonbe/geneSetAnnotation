@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	539	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	1308	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	1224	0.16	0.21	2.71	13.80
+GO:0048518	positive regulation of biological process	778	0.21	0.30	3.05	7.96
+GO:0006139	nucleobase-containing compound metabolic process	636	0.29	0.40	5.40	96.28
+GO:0007165	signal transduction	521	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	490	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	461	0.34	0.49	5.84	147.03
+GO:0051128	regulation of cellular component organization	370	0.30	0.40	4.57	12.04
+GO:0042221	response to chemical	302	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	366	0.39	0.32	4.70	6.14
+GO:0031324	negative regulation of cellular metabolic process	353	0.34	0.46	5.46	80.35
+GO:0016192	vesicle-mediated transport	272	0.52	0.51	6.57	10.99
+GO:0015031	protein transport	245	0.48	0.59	6.99	54.46
+GO:0065003	protein-containing complex assembly	243	0.45	0.48	6.06	36.47
+GO:0030154	cell differentiation	175	0.39	0.39	5.18	16.68
+GO:0001934	positive regulation of protein phosphorylation	133	0.58	0.69	8.60	663.11
+GO:0051345	positive regulation of hydrolase activity	124	0.57	0.57	7.42	32.99
+GO:0031400	negative regulation of protein modification process	107	0.53	0.64	7.94	366.95
+GO:1902532	negative regulation of intracellular signal transduction	93	0.57	0.64	8.15	189.94
+GO:0043312	neutrophil degranulation	82	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	75	0.68	0.59	8.16	26.47
+GO:0010959	regulation of metal ion transport	40	0.50	0.57	7.05	16.65
+GO:0071222	cellular response to lipopolysaccharide	25	1.00	0.82	9.63	238.00
+GO:0007204	positive regulation of cytosolic calcium ion concentration	25	0.68	0.77	9.10	290.30
+GO:0042742	defense response to bacterium	23	0.79	0.72	9.19	69.65
+GO:0048525	negative regulation of viral process	15	0.71	0.68	8.66	43.32
+GO:0030838	positive regulation of actin filament polymerization	15	0.79	0.83	9.46	459.93
+GO:0008016	regulation of heart contraction	15	0.57	0.61	7.59	16.15
+GO:0045814	negative regulation of gene expression, epigenetic	14	0.77	0.73	9.08	80.10
+GO:0006094	gluconeogenesis	11	1.00	0.85	9.63	174.61
+GO:0051085	chaperone cofactor-dependent protein refolding	9	1.00	0.79	9.63	21.14
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	9	0.89	0.74	9.38	32.56
+GO:0001916	positive regulation of T cell mediated cytotoxicity	8	0.87	0.83	9.52	365.14
+GO:0032720	negative regulation of tumor necrosis factor production	7	0.89	0.80	9.46	85.93
+GO:0002820	negative regulation of adaptive immune response	6	0.63	0.64	8.39	109.01
+GO:0046949	fatty-acyl-CoA biosynthetic process	6	0.79	0.74	9.35	404.08
+GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	4	0.87	0.72	9.41	42.20
+GO:0035025	positive regulation of Rho protein signal transduction	4	1.00	0.92	9.63	339.62
+GO:1903243	negative regulation of cardiac muscle hypertrophy in response to stress	3	1.00	0.90	9.63	308.05
+GO:2000852	regulation of corticosterone secretion	2	0.89	0.88	9.54	120.66
+GO:0071872	cellular response to epinephrine stimulus	2	1.00	0.88	9.63	410.29
+GO:0010138	pyrimidine ribonucleotide salvage	2	0.87	0.87	9.57	5684.31
+GO:0051001	negative regulation of nitric-oxide synthase activity	2	1.00	0.85	9.63	123.18
+GO:0042089	cytokine biosynthetic process	1	0.63	0.64	8.18	87.71
+GO:1900041	negative regulation of interleukin-2 secretion	1	1.00	0.92	9.63	753.97
+GO:0070873	regulation of glycogen metabolic process	1	0.79	0.77	9.38	122.18
+GO:0021547	midbrain-hindbrain boundary initiation	1	1.00	0.75	9.63	25.17
+GO:0006843	mitochondrial citrate transmembrane transport	1	1.00	0.93	9.63	312.56
+GO:1901660	calcium ion export	1	0.84	0.82	9.37	37.62

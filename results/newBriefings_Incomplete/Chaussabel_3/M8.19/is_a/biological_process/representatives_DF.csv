@@ -1,0 +1,83 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3198	0.12	0.26	2.47	7.96
+GO:0090304	nucleic acid metabolic process	1364	0.35	0.46	5.97	111.15
+GO:0007165	signal transduction	1275	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	1231	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1065	0.34	0.49	5.84	147.03
+GO:0034654	nucleobase-containing compound biosynthetic process	1028	0.40	0.49	6.85	317.02
+GO:0010628	positive regulation of gene expression	638	0.47	0.56	6.67	58.80
+GO:0046907	intracellular transport	585	0.46	0.48	6.38	29.65
+GO:0065003	protein-containing complex assembly	572	0.45	0.48	6.06	36.47
+GO:0045595	regulation of cell differentiation	517	0.34	0.42	5.25	23.33
+GO:0045893	positive regulation of transcription, DNA-templated	508	0.52	0.67	8.14	1208.12
+GO:0015031	protein transport	508	0.48	0.59	6.99	54.46
+GO:0045892	negative regulation of transcription, DNA-templated	415	0.56	0.69	8.52	1581.26
+GO:0016310	phosphorylation	407	0.53	0.56	6.88	24.41
+GO:0009968	negative regulation of signal transduction	383	0.44	0.54	6.68	140.65
+GO:0006886	intracellular protein transport	323	0.55	0.65	8.12	90.55
+GO:0006887	exocytosis	289	0.67	0.66	8.38	37.08
+GO:0007010	cytoskeleton organization	261	0.52	0.51	6.76	18.35
+GO:0008285	negative regulation of cell proliferation	244	0.56	0.57	7.31	43.61
+GO:0043312	neutrophil degranulation	185	1.00	0.90	9.63	132.80
+GO:0070925	organelle assembly	177	0.61	0.55	7.53	37.31
+GO:0050900	leukocyte migration	112	0.60	0.59	8.02	26.94
+GO:0006914	autophagy	92	0.67	0.59	8.40	37.75
+GO:0045732	positive regulation of protein catabolic process	80	0.70	0.70	9.03	231.05
+GO:0051480	regulation of cytosolic calcium ion concentration	79	0.66	0.75	9.02	288.69
+GO:0060271	cilium assembly	67	0.87	0.76	9.41	137.68
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	67	0.74	0.74	8.99	58.93
+GO:0140056	organelle localization by membrane tethering	63	0.73	0.62	8.53	19.19
+GO:0000086	G2/M transition of mitotic cell cycle	58	1.00	0.79	9.63	43.45
+GO:0042177	negative regulation of protein catabolic process	49	0.71	0.71	9.11	231.82
+GO:0022904	respiratory electron transport chain	46	0.74	0.66	8.68	30.45
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	42	0.87	0.88	9.56	734.49
+GO:0032092	positive regulation of protein binding	42	0.71	0.64	8.53	32.71
+GO:0006906	vesicle fusion	42	0.68	0.66	8.56	63.10
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	35	0.93	0.88	9.60	778.67
+GO:0002064	epithelial cell development	34	0.63	0.57	7.95	32.15
+GO:0048754	branching morphogenesis of an epithelial tube	34	0.74	0.69	8.88	51.71
+GO:0090630	activation of GTPase activity	28	1.00	0.85	9.63	49.34
+GO:0006893	Golgi to plasma membrane transport	26	0.89	0.80	9.51	32.11
+GO:0006672	ceramide metabolic process	26	0.71	0.71	9.18	101.21
+GO:0051496	positive regulation of stress fiber assembly	23	1.00	0.93	9.63	365.07
+GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	22	0.78	0.78	9.25	56.87
+GO:1901016	regulation of potassium ion transmembrane transporter activity	21	0.67	0.73	9.00	134.63
+GO:0034605	cellular response to heat	20	0.84	0.71	9.26	50.43
+GO:0002027	regulation of heart rate	18	0.70	0.70	8.71	26.87
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	15	1.00	0.92	9.63	990.06
+GO:1900034	regulation of cellular response to heat	15	0.87	0.76	9.27	29.43
+GO:1901020	negative regulation of calcium ion transmembrane transporter activity	14	0.80	0.81	9.43	681.41
+GO:0000422	autophagy of mitochondrion	13	0.87	0.76	9.45	99.53
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	13	0.93	0.90	9.60	659.85
+GO:0035025	positive regulation of Rho protein signal transduction	12	1.00	0.92	9.63	339.62
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	12	1.00	0.82	9.63	33.25
+GO:0006656	phosphatidylcholine biosynthetic process	11	0.80	0.77	9.40	749.29
+GO:0046827	positive regulation of protein export from nucleus	10	0.81	0.80	9.43	516.73
+GO:1902902	negative regulation of autophagosome assembly	9	1.00	0.90	9.63	476.82
+GO:0007094	mitotic spindle assembly checkpoint	9	1.00	0.96	9.63	1801.80
+GO:2000678	negative regulation of transcription regulatory region DNA binding	8	0.87	0.76	9.34	47.57
+GO:0060306	regulation of membrane repolarization	8	0.71	0.71	9.16	46.47
+GO:1903543	positive regulation of exosomal secretion	8	1.00	0.90	9.63	273.98
+GO:0042772	DNA damage response, signal transduction resulting in transcription	8	0.93	0.82	9.55	58.83
+GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
+GO:0018146	keratan sulfate biosynthetic process	7	1.00	0.88	9.63	415.41
+GO:0006012	galactose metabolic process	6	0.78	0.71	9.07	34.68
+GO:0015937	coenzyme A biosynthetic process	6	1.00	0.93	9.63	6508.61
+GO:0097067	cellular response to thyroid hormone stimulus	6	0.89	0.77	9.49	110.48
+GO:1904667	negative regulation of ubiquitin protein ligase activity	4	1.00	0.95	9.63	755.45
+GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
+GO:0060054	positive regulation of epithelial cell proliferation involved in wound healing	2	1.00	0.85	9.63	67.71
+GO:0060058	positive regulation of apoptotic process involved in mammary gland involution	2	1.00	0.92	9.63	328.43
+GO:0007341	penetration of zona pellucida	2	1.00	0.70	9.63	44.01
+GO:1900060	negative regulation of ceramide biosynthetic process	2	0.87	0.83	9.53	911.69
+GO:0015871	choline transport	2	1.00	0.85	9.63	80.16
+GO:0090156	cellular sphingolipid homeostasis	2	1.00	0.82	9.63	50.57
+GO:0042426	choline catabolic process	2	1.00	0.88	9.63	257.11
+GO:0005989	lactose biosynthetic process	2	1.00	0.85	9.63	323.91
+GO:1902309	negative regulation of peptidyl-serine dephosphorylation	2	1.00	0.92	9.63	774.51
+GO:0002520	immune system development	2	1.00	0.75	9.63	21.38
+GO:0010797	regulation of multivesicular body size involved in endosome transport	1	1.00	0.85	9.63	28.71
+GO:2000048	negative regulation of cell-cell adhesion mediated by cadherin	1	1.00	0.85	9.63	69.05
+GO:0071048	nuclear retention of unspliced pre-mRNA at the site of transcription	1	1.00	0.82	9.63	27.63
+GO:1905913	negative regulation of calcium ion export across plasma membrane	1	1.00	0.90	9.63	91.93
+GO:0071387	cellular response to cortisol stimulus	1	1.00	0.90	9.63	644.90

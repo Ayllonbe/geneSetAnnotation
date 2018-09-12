@@ -1,0 +1,69 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1172	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	799	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	735	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	579	0.24	0.37	3.90	23.93
+GO:0010033	response to organic substance	374	0.35	0.37	4.75	9.28
+GO:0006355	regulation of transcription, DNA-templated	352	0.40	0.60	6.84	245.35
+GO:0070887	cellular response to chemical stimulus	297	0.40	0.40	5.31	25.21
+GO:0009967	positive regulation of signal transduction	282	0.44	0.54	6.71	140.23
+GO:0031328	positive regulation of cellular biosynthetic process	264	0.41	0.53	6.32	170.14
+GO:0065003	protein-containing complex assembly	197	0.45	0.48	6.06	36.47
+GO:0030199	collagen fibril organization	14	1.00	0.79	9.63	53.96
+GO:0050778	positive regulation of immune response	196	0.46	0.52	6.76	78.39
+GO:0016477	cell migration	185	0.47	0.48	6.31	17.13
+GO:0009968	negative regulation of signal transduction	181	0.44	0.54	6.68	140.65
+GO:0001934	positive regulation of protein phosphorylation	181	0.58	0.69	8.60	663.11
+GO:0033554	cellular response to stress	179	0.44	0.42	6.05	25.47
+GO:0043066	negative regulation of apoptotic process	167	0.56	0.63	7.79	81.07
+GO:0043312	neutrophil degranulation	155	1.00	0.90	9.63	132.80
+GO:0034220	ion transmembrane transport	136	0.45	0.51	6.18	26.33
+GO:0006629	lipid metabolic process	128	0.37	0.38	5.19	18.42
+GO:0001819	positive regulation of cytokine production	117	0.51	0.54	6.97	44.26
+GO:0051051	negative regulation of transport	81	0.42	0.50	5.86	25.98
+GO:0044057	regulation of system process	73	0.41	0.46	5.70	11.79
+GO:0042493	response to drug	119	0.47	0.43	5.84	9.28
+GO:0009636	response to toxic substance	64	0.58	0.49	6.94	9.28
+GO:0006886	intracellular protein transport	61	0.55	0.65	8.12	90.55
+GO:0050671	positive regulation of lymphocyte proliferation	53	0.74	0.75	9.27	262.65
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0071214	cellular response to abiotic stimulus	48	0.59	0.54	7.66	24.78
+GO:0006699	bile acid biosynthetic process	4	1.00	0.88	9.63	493.35
+GO:0006631	fatty acid metabolic process	42	0.54	0.62	7.85	91.02
+GO:0045766	positive regulation of angiogenesis	43	0.81	0.76	9.30	134.49
+GO:0050804	modulation of chemical synaptic transmission	41	0.52	0.58	7.24	27.32
+GO:1902107	positive regulation of leukocyte differentiation	40	0.64	0.67	8.73	278.03
+GO:0042542	response to hydrogen peroxide	30	0.93	0.76	9.54	79.29
+GO:0097746	regulation of blood vessel diameter	26	0.64	0.64	8.47	38.29
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	24	0.87	0.88	9.56	734.49
+GO:0090023	positive regulation of neutrophil chemotaxis	20	1.00	0.93	9.63	945.71
+GO:0051101	regulation of DNA binding	19	0.61	0.55	7.68	9.33
+GO:0050796	regulation of insulin secretion	16	0.83	0.81	9.53	205.48
+GO:0051209	release of sequestered calcium ion into cytosol	13	0.80	0.87	9.53	522.93
+GO:0006879	cellular iron ion homeostasis	12	0.84	0.84	9.47	186.74
+GO:0016064	immunoglobulin mediated immune response	11	0.76	0.70	9.04	30.58
+GO:0042307	positive regulation of protein import into nucleus	10	0.93	0.86	9.59	778.75
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0042168	heme metabolic process	9	0.71	0.68	9.05	114.92
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	8	0.89	0.80	9.49	93.60
+GO:0016241	regulation of macroautophagy	8	0.67	0.69	8.61	45.30
+GO:0050873	brown fat cell differentiation	7	1.00	0.79	9.63	21.76
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:0045581	negative regulation of T cell differentiation	6	0.70	0.75	9.32	878.99
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0031670	cellular response to nutrient	6	0.62	0.63	8.51	111.40
+GO:0031622	positive regulation of fever generation	6	0.84	0.82	9.45	276.00
+GO:0046697	decidualization	6	1.00	0.75	9.63	34.68
+GO:0044539	long-chain fatty acid import	3	1.00	0.93	9.63	75.03
+GO:0006809	nitric oxide biosynthetic process	3	1.00	0.82	9.63	241.10
+GO:0046598	positive regulation of viral entry into host cell	3	0.93	0.84	9.55	85.02
+GO:0061304	retinal blood vessel morphogenesis	2	1.00	0.79	9.63	25.97
+GO:0051085	chaperone cofactor-dependent protein refolding	2	1.00	0.79	9.63	21.14
+GO:0032764	negative regulation of mast cell cytokine production	2	1.00	0.88	9.63	311.05
+GO:0097202	activation of cysteine-type endopeptidase activity	2	1.00	0.95	9.63	669.11
+GO:0043305	negative regulation of mast cell degranulation	2	0.93	0.90	9.61	1077.15
+GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	1	1.00	0.95	9.63	2003.64
+GO:0014806	smooth muscle hyperplasia	1	1.00	0.82	9.63	38.94
+GO:0010025	wax biosynthetic process	1	1.00	0.79	9.63	48.51
+GO:0042264	peptidyl-aspartic acid hydroxylation	1	0.93	0.86	9.57	309.91

@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0006355	regulation of transcription, DNA-templated	1292	0.40	0.60	6.84	245.35
+GO:0006275	regulation of DNA replication	56	0.61	0.66	8.62	150.74
+GO:0009966	regulation of signal transduction	1018	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	921	0.39	0.32	4.70	6.14
+GO:0006351	transcription, DNA-templated	844	0.57	0.68	8.45	581.39
+GO:0035556	intracellular signal transduction	590	0.51	0.55	6.92	23.17
+GO:0051240	positive regulation of multicellular organismal process	522	0.35	0.42	4.98	23.60
+GO:0070647	protein modification by small protein conjugation or removal	390	0.61	0.66	8.44	151.15
+GO:0044255	cellular lipid metabolic process	346	0.38	0.44	5.89	38.02
+GO:0006886	intracellular protein transport	332	0.55	0.65	8.12	90.55
+GO:0006259	DNA metabolic process	325	0.45	0.55	7.12	145.26
+GO:0019221	cytokine-mediated signaling pathway	266	0.60	0.63	7.60	26.50
+GO:0006511	ubiquitin-dependent protein catabolic process	223	0.74	0.74	9.19	156.45
+GO:0051259	protein complex oligomerization	184	0.78	0.68	9.09	40.42
+GO:0006397	mRNA processing	167	0.71	0.73	9.17	234.35
+GO:0032103	positive regulation of response to external stimulus	112	0.53	0.55	7.02	42.20
+GO:0009617	response to bacterium	83	0.75	0.67	8.94	27.27
+GO:0006367	transcription initiation from RNA polymerase II promoter	73	1.00	0.90	9.63	477.15
+GO:0001701	in utero embryonic development	69	1.00	0.85	9.63	22.50
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0043401	steroid hormone mediated signaling pathway	50	0.75	0.70	8.80	25.74
+GO:0030595	leukocyte chemotaxis	47	0.69	0.67	8.77	62.06
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	40	0.93	0.93	9.60	734.49
+GO:0035264	multicellular organism growth	29	1.00	0.70	9.63	22.58
+GO:0050710	negative regulation of cytokine secretion	25	0.70	0.74	9.09	549.99
+GO:0007254	JNK cascade	17	1.00	0.93	9.63	290.61
+GO:0034080	CENP-A containing nucleosome assembly	15	1.00	0.90	9.63	242.74
+GO:0016358	dendrite development	14	0.83	0.74	9.26	32.63
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	12	1.00	0.82	9.63	26.98
+GO:0050775	positive regulation of dendrite morphogenesis	11	0.93	0.90	9.60	973.03
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	9	0.89	0.89	9.56	487.92
+GO:0046007	negative regulation of activated T cell proliferation	7	1.00	0.92	9.63	666.97
+GO:0051382	kinetochore assembly	7	1.00	0.82	9.63	123.98
+GO:0051000	positive regulation of nitric-oxide synthase activity	7	1.00	0.85	9.63	123.23
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	4	0.89	0.77	9.43	55.29
+GO:0071225	cellular response to muramyl dipeptide	3	1.00	0.85	9.63	334.58
+GO:1903394	protein localization to kinetochore involved in kinetochore assembly	1	1.00	0.90	9.63	37.20
+GO:0042228	interleukin-8 biosynthetic process	1	1.00	0.85	9.63	142.64

@@ -1,0 +1,55 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010604	positive regulation of macromolecule metabolic process	476	0.37	0.48	5.51	38.99
+GO:0032268	regulation of cellular protein metabolic process	376	0.37	0.51	6.13	70.76
+GO:0016192	vesicle-mediated transport	303	0.52	0.51	6.57	10.99
+GO:0006955	immune response	183	0.54	0.40	6.57	12.45
+GO:0006351	transcription, DNA-templated	180	0.57	0.68	8.45	581.39
+GO:0007186	G-protein coupled receptor signaling pathway	179	0.55	0.57	7.20	23.17
+GO:0050900	leukocyte migration	141	0.60	0.59	8.02	26.94
+GO:0032689	negative regulation of interferon-gamma production	12	0.89	0.77	9.43	65.25
+GO:0001819	positive regulation of cytokine production	127	0.51	0.54	6.97	44.26
+GO:0032689	negative regulation of interferon-gamma production	12	0.89	0.77	9.43	65.25
+GO:0001819	positive regulation of cytokine production	127	0.51	0.54	6.97	44.26
+GO:0006508	proteolysis	131	0.55	0.57	7.34	47.86
+GO:0010469	regulation of signaling receptor activity	114	0.59	0.62	7.95	48.62
+GO:0002683	negative regulation of immune system process	110	0.43	0.47	5.92	22.69
+GO:0050727	regulation of inflammatory response	99	0.53	0.59	7.40	31.59
+GO:0009615	response to virus	77	0.74	0.66	8.80	27.27
+GO:0000902	cell morphogenesis	54	0.63	0.56	7.92	43.26
+GO:0043687	post-translational protein modification	47	0.65	0.67	8.51	151.15
+GO:0045766	positive regulation of angiogenesis	45	0.81	0.76	9.30	134.49
+GO:2001234	negative regulation of apoptotic signaling pathway	45	0.69	0.72	9.15	292.03
+GO:0006631	fatty acid metabolic process	44	0.54	0.62	7.85	91.02
+GO:0045807	positive regulation of endocytosis	39	0.69	0.69	8.90	124.49
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	34	0.93	0.91	9.59	279.44
+GO:0097191	extrinsic apoptotic signaling pathway	22	0.83	0.74	9.22	51.06
+GO:1901216	positive regulation of neuron death	21	0.81	0.73	9.26	58.38
+GO:0017038	protein import	20	0.74	0.75	8.98	57.35
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0001774	microglial cell activation	13	0.93	0.79	9.51	31.20
+GO:0043032	positive regulation of macrophage activation	11	0.93	0.82	9.55	126.60
+GO:0002830	positive regulation of type 2 immune response	11	0.89	0.77	9.46	108.58
+GO:0010828	positive regulation of glucose transmembrane transport	8	0.89	0.80	9.53	65.59
+GO:0001836	release of cytochrome c from mitochondria	7	1.00	0.82	9.63	22.13
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0010884	positive regulation of lipid storage	5	0.89	0.77	9.43	46.20
+GO:0051023	regulation of immunoglobulin secretion	5	0.89	0.82	9.52	116.25
+GO:1903573	negative regulation of response to endoplasmic reticulum stress	5	0.77	0.73	9.14	87.06
+GO:0045745	positive regulation of G-protein coupled receptor protein signaling pathway	4	0.65	0.68	8.65	189.39
+GO:0010866	regulation of triglyceride biosynthetic process	4	0.89	0.80	9.47	120.43
+GO:0051131	chaperone-mediated protein complex assembly	4	1.00	0.82	9.63	44.52
+GO:0006883	cellular sodium ion homeostasis	4	1.00	0.90	9.63	285.76
+GO:0032462	regulation of protein homooligomerization	3	0.83	0.76	9.41	32.39
+GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	2	1.00	0.95	9.63	450.20
+GO:0043691	reverse cholesterol transport	2	1.00	0.88	9.63	39.64
+GO:0032286	central nervous system myelin maintenance	2	1.00	0.82	9.63	21.35
+GO:1902949	positive regulation of tau-protein kinase activity	2	1.00	0.93	9.63	1259.20
+GO:1905895	negative regulation of cellular response to tunicamycin	1	1.00	0.79	9.63	80.06
+GO:0061741	chaperone-mediated protein transport involved in chaperone-mediated autophagy	1	1.00	0.90	9.63	132.03
+GO:1905892	negative regulation of cellular response to thapsigargin	1	1.00	0.79	9.63	80.06
+GO:0051788	response to misfolded protein	1	0.89	0.74	9.34	23.96
+GO:0038172	interleukin-33-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:1905906	regulation of amyloid fibril formation	1	0.89	0.77	9.46	62.06
+GO:1902847	regulation of neuronal signal transduction	1	0.89	0.77	9.41	41.85
+GO:1902998	positive regulation of neurofibrillary tangle assembly	1	1.00	0.85	9.63	133.00
+GO:1902003	regulation of amyloid-beta formation	1	0.89	0.80	9.47	89.78

@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	662	0.22	0.36	4.01	22.77
+GO:0009966	regulation of signal transduction	482	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	342	0.30	0.40	4.57	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	258	0.44	0.63	7.11	248.57
+GO:0080134	regulation of response to stress	244	0.35	0.42	5.03	11.65
+GO:0042592	homeostatic process	217	0.45	0.42	5.70	8.64
+GO:0032774	RNA biosynthetic process	192	0.53	0.62	8.04	473.34
+GO:0009653	anatomical structure morphogenesis	144	0.36	0.31	4.09	6.46
+GO:0050900	leukocyte migration	140	0.60	0.59	8.02	26.94
+GO:0008285	negative regulation of cell proliferation	137	0.56	0.57	7.31	43.61
+GO:0045596	negative regulation of cell differentiation	114	0.44	0.51	6.50	82.79
+GO:0010817	regulation of hormone levels	58	0.41	0.40	5.23	8.64
+GO:0030855	epithelial cell differentiation	46	0.55	0.52	6.96	21.07
+GO:0065004	protein-DNA complex assembly	31	0.65	0.65	8.33	63.42
+GO:0046488	phosphatidylinositol metabolic process	29	0.68	0.69	8.80	147.20
+GO:0030522	intracellular receptor signaling pathway	28	0.65	0.62	7.99	23.17
+GO:0031669	cellular response to nutrient levels	23	0.55	0.57	7.65	58.45
+GO:0043401	steroid hormone mediated signaling pathway	19	0.75	0.70	8.80	25.74
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0009749	response to glucose	19	0.89	0.80	9.41	32.96
+GO:0007219	Notch signaling pathway	18	0.78	0.71	8.87	26.50
+GO:0090183	regulation of kidney development	17	0.54	0.56	7.57	27.38
+GO:0010470	regulation of gastrulation	10	0.59	0.62	7.99	45.91
+GO:0008344	adult locomotory behavior	10	0.84	0.62	9.16	24.58
+GO:0016266	O-glycan processing	9	0.79	0.79	9.28	178.64
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0032922	circadian regulation of gene expression	6	1.00	0.82	9.63	31.18
+GO:2000811	negative regulation of anoikis	5	1.00	0.88	9.63	103.92
+GO:0023019	signal transduction involved in regulation of gene expression	4	1.00	0.79	9.63	23.17
+GO:0006591	ornithine metabolic process	3	0.77	0.76	9.13	84.28
+GO:0071542	dopaminergic neuron differentiation	2	0.93	0.76	9.47	23.84
+GO:0021520	spinal cord motor neuron cell fate specification	2	1.00	0.79	9.63	21.52
+GO:0009225	nucleotide-sugar metabolic process	2	0.62	0.63	8.62	123.38
+GO:2000971	negative regulation of detection of glucose	1	1.00	0.79	9.63	39.92
+GO:0039020	pronephric nephron tubule development	1	0.89	0.82	9.45	58.05
+GO:2000049	positive regulation of cell-cell adhesion mediated by cadherin	1	1.00	0.82	9.63	52.09
+GO:0001826	inner cell mass cell differentiation	1	1.00	0.75	9.63	21.07

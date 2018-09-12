@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	305	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	198	0.08	0.04	0.98	3.37
+GO:0072086	specification of loop of Henle identity	1	0.93	0.76	9.47	26.26
+GO:0072272	proximal/distal pattern formation involved in metanephric nephron development	1	1.00	0.82	9.63	42.80
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0065007	biological regulation	198	0.08	0.04	0.98	3.37
+GO:0072086	specification of loop of Henle identity	1	0.93	0.76	9.47	26.26
+GO:0072272	proximal/distal pattern formation involved in metanephric nephron development	1	1.00	0.82	9.63	42.80
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0051641	cellular localization	72	0.37	0.31	4.44	5.67
+GO:0006810	transport	104	0.28	0.34	3.95	7.46
+GO:0051704	multi-organism process	17	0.29	0.15	3.12	3.37

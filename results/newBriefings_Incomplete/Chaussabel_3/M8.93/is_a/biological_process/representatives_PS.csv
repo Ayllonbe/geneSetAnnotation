@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	275	0.08	0.04	0.98	3.37
+GO:0009987	cellular process	354	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	256	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	122	0.21	0.30	3.07	7.96
+GO:0044237	cellular metabolic process	252	0.16	0.21	2.71	13.80
+GO:0051179	localization	134	0.26	0.13	2.57	3.37
+GO:0006904	vesicle docking involved in exocytosis	6	0.89	0.77	9.43	32.65
+GO:0044703	multi-organism reproductive process	5	0.69	0.47	7.64	14.23
+GO:0001755	neural crest cell migration	2	0.80	0.72	9.09	22.57
+GO:0071376	cellular response to corticotropin-releasing hormone stimulus	1	1.00	0.88	9.63	462.70

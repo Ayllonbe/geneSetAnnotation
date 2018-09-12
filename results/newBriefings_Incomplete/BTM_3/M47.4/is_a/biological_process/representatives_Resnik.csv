@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050896	response to stimulus	63	0.25	0.12	2.65	3.37
+GO:0048583	regulation of response to stimulus	58	0.25	0.32	3.72	7.96
+GO:0031401	positive regulation of protein modification process	22	0.51	0.63	7.86	366.05
+GO:0051128	regulation of cellular component organization	37	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	33	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	31	0.38	0.19	3.93	3.37
+GO:0002683	negative regulation of immune system process	10	0.43	0.47	5.92	22.69
+GO:0002694	regulation of leukocyte activation	11	0.46	0.52	6.81	24.92
+GO:0050776	regulation of immune response	12	0.38	0.44	5.64	22.45
+GO:0007186	G-protein coupled receptor signaling pathway	9	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	8	0.40	0.45	5.78	11.79
+GO:0007266	Rho protein signal transduction	4	0.93	0.84	9.52	29.61
+GO:0006898	receptor-mediated endocytosis	3	0.68	0.66	8.48	28.44
+GO:1901216	positive regulation of neuron death	2	0.81	0.73	9.26	58.38
+GO:0072540	T-helper 17 cell lineage commitment	1	1.00	0.88	9.63	46.26
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	1	1.00	0.95	9.63	292.09
+GO:0001942	hair follicle development	1	1.00	0.75	9.63	22.36
+GO:0090251	protein localization involved in establishment of planar polarity	1	1.00	0.79	9.63	29.83

@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	498	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	459	0.16	0.21	2.71	13.80
+GO:0016043	cellular component organization	230	0.28	0.26	3.74	11.45
+GO:0022402	cell cycle process	63	0.40	0.32	4.60	7.39
+GO:0051179	localization	221	0.26	0.13	2.57	3.37
+GO:0006355	regulation of transcription, DNA-templated	194	0.40	0.60	6.84	245.35
+GO:0033674	positive regulation of kinase activity	26	0.61	0.70	8.62	265.90
+GO:0090316	positive regulation of intracellular protein transport	16	0.71	0.73	9.11	289.79
+GO:0050770	regulation of axonogenesis	9	0.63	0.71	8.86	152.13

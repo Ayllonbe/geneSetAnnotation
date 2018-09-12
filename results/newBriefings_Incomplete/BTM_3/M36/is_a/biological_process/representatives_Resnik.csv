@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	890	0.24	0.37	3.90	23.85
+GO:0048519	negative regulation of biological process	790	0.21	0.30	3.07	7.96
+GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	576	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	574	0.33	0.29	4.10	4.47
+GO:0042221	response to chemical	481	0.32	0.29	4.12	6.14
+GO:0051607	defense response to virus	58	0.87	0.76	9.49	78.89
+GO:0002682	regulation of immune system process	481	0.32	0.36	4.60	7.96
+GO:0048869	cellular developmental process	450	0.32	0.29	4.16	13.85
+GO:0006955	immune response	215	0.54	0.40	6.57	12.45
+GO:0045321	leukocyte activation	313	0.52	0.46	6.78	16.27
+GO:0010605	negative regulation of macromolecule metabolic process	369	0.37	0.48	5.54	39.19
+GO:0010628	positive regulation of gene expression	312	0.47	0.56	6.67	58.80
+GO:0035556	intracellular signal transduction	311	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	301	0.45	0.55	6.60	16.23
+GO:0065003	protein-containing complex assembly	229	0.45	0.48	6.06	36.47
+GO:0016477	cell migration	209	0.47	0.48	6.31	17.13
+GO:0008104	protein localization	202	0.40	0.40	5.07	7.46
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	197	0.40	0.45	5.78	11.79
+GO:0098904	regulation of AV node cell action potential	1	0.83	0.79	9.50	70.34
+GO:0045786	negative regulation of cell cycle	104	0.51	0.54	7.10	42.35
+GO:0097190	apoptotic signaling pathway	66	0.70	0.64	8.53	23.17
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0006898	receptor-mediated endocytosis	60	0.68	0.66	8.48	28.44
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0048167	regulation of synaptic plasticity	25	0.67	0.69	8.57	39.26
+GO:0007155	cell adhesion	14	0.55	0.40	6.09	4.75
+GO:0031532	actin cytoskeleton reorganization	12	1.00	0.82	9.63	32.01
+GO:0009308	amine metabolic process	9	0.53	0.51	6.96	23.64
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:1905564	positive regulation of vascular endothelial cell proliferation	3	1.00	0.88	9.63	108.29
+GO:0045919	positive regulation of cytolysis	1	0.84	0.71	9.38	41.09

@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5917	0.00	0.00	0.00	0.00
+GO:0007194	negative regulation of adenylate cyclase activity	4	0.89	0.89	9.59	6285.12
+GO:0090630	activation of GTPase activity	35	1.00	0.85	9.63	49.34
+GO:0007202	activation of phospholipase C activity	12	1.00	0.90	9.63	83.74
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	2	1.00	0.92	9.63	1344.96
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	45	0.93	0.93	9.60	734.49
+GO:0050789	regulation of biological process	4076	0.09	0.17	1.80	4.47
+GO:0051179	localization	1820	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	322	0.46	0.35	5.43	6.14
+GO:0009605	response to external stimulus	541	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	926	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	1048	0.39	0.32	4.70	6.14
+GO:0022414	reproductive process	298	0.35	0.17	3.17	3.37
+GO:0007610	behavior	84	0.48	0.24	4.72	3.37
+GO:0007610	behavior	84	0.48	0.24	4.72	3.37
+GO:0032501	multicellular organismal process	425	0.33	0.16	3.12	3.37

@@ -1,0 +1,69 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	924	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	860	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	749	0.24	0.37	3.90	23.93
+GO:0006355	regulation of transcription, DNA-templated	463	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	382	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	319	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	317	0.39	0.39	5.18	16.68
+GO:0042325	regulation of phosphorylation	308	0.47	0.59	6.88	31.28
+GO:0045893	positive regulation of transcription, DNA-templated	262	0.52	0.67	8.14	1208.12
+GO:0043066	negative regulation of apoptotic process	215	0.56	0.63	7.79	81.07
+GO:1903047	mitotic cell cycle process	158	0.50	0.45	5.87	11.32
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	27	0.61	0.63	8.36	112.25
+GO:0006260	DNA replication	49	0.73	0.72	9.27	254.20
+GO:0006259	DNA metabolic process	136	0.45	0.55	7.12	145.26
+GO:0006974	cellular response to DNA damage stimulus	134	0.57	0.53	7.47	29.00
+GO:0000122	negative regulation of transcription by RNA polymerase II	129	0.61	0.74	8.79	1836.95
+GO:0045860	positive regulation of protein kinase activity	126	0.63	0.73	9.00	1094.92
+GO:0080135	regulation of cellular response to stress	111	0.46	0.52	6.64	26.18
+GO:0051276	chromosome organization	94	0.55	0.52	6.96	18.35
+GO:0051052	regulation of DNA metabolic process	88	0.47	0.56	7.17	70.58
+GO:0044772	mitotic cell cycle phase transition	73	0.84	0.67	9.04	28.43
+GO:0051054	positive regulation of DNA metabolic process	58	0.59	0.65	8.41	301.51
+GO:0033365	protein localization to organelle	57	0.50	0.54	7.01	29.83
+GO:0031334	positive regulation of protein complex assembly	46	0.61	0.63	8.09	105.22
+GO:0008360	regulation of cell shape	43	0.68	0.66	8.69	41.78
+GO:0034614	cellular response to reactive oxygen species	36	0.77	0.67	9.20	144.09
+GO:0071375	cellular response to peptide hormone stimulus	35	0.74	0.72	9.12	386.03
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	35	0.74	0.74	8.99	58.93
+GO:0065004	protein-DNA complex assembly	35	0.65	0.65	8.33	63.42
+GO:0070507	regulation of microtubule cytoskeleton organization	32	0.61	0.65	8.24	33.71
+GO:0032355	response to estradiol	30	0.93	0.76	9.52	74.25
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	30	1.00	0.79	9.63	42.20
+GO:0071897	DNA biosynthetic process	27	0.71	0.71	9.25	573.30
+GO:0006269	DNA replication, synthesis of RNA primer	3	0.83	0.79	9.52	624.58
+GO:0006909	phagocytosis	26	0.93	0.79	9.49	28.44
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	25	0.80	0.80	9.39	355.88
+GO:0006813	potassium ion transport	25	0.80	0.75	9.31	34.17
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:0007052	mitotic spindle organization	20	0.83	0.76	9.28	96.22
+GO:1901992	positive regulation of mitotic cell cycle phase transition	20	0.79	0.77	9.34	187.20
+GO:0000724	double-strand break repair via homologous recombination	19	0.87	0.83	9.52	520.62
+GO:0034644	cellular response to UV	17	0.80	0.75	9.22	66.19
+GO:1901796	regulation of signal transduction by p53 class mediator	17	0.72	0.71	9.12	45.07
+GO:0060968	regulation of gene silencing	16	0.62	0.63	8.24	28.72
+GO:0071466	cellular response to xenobiotic stimulus	15	0.74	0.62	8.58	40.79
+GO:0030071	regulation of mitotic metaphase/anaphase transition	15	0.76	0.79	9.41	262.33
+GO:0008156	negative regulation of DNA replication	14	0.71	0.73	9.22	828.34
+GO:0071548	response to dexamethasone	13	0.93	0.84	9.57	124.89
+GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
+GO:0097711	ciliary basal body-plasma membrane docking	11	1.00	0.79	9.63	21.39
+GO:0034080	CENP-A containing nucleosome assembly	11	1.00	0.90	9.63	242.74
+GO:0032467	positive regulation of cytokinesis	11	0.70	0.70	9.02	142.06
+GO:0045740	positive regulation of DNA replication	11	0.77	0.76	9.43	747.31
+GO:0000060	protein import into nucleus, translocation	11	1.00	0.90	9.63	93.44
+GO:0097421	liver regeneration	10	1.00	0.82	9.63	47.22
+GO:0021915	neural tube development	5	1.00	0.79	9.63	33.01
+GO:0001947	heart looping	5	1.00	0.85	9.63	47.98
+GO:0098534	centriole assembly	5	0.84	0.71	9.34	67.08
+GO:0000578	embryonic axis specification	4	0.79	0.64	8.75	24.59
+GO:0046601	positive regulation of centriole replication	3	0.93	0.90	9.59	492.49
+GO:0033314	mitotic DNA replication checkpoint	3	1.00	0.93	9.63	738.10
+GO:0072708	response to sorbitol	3	0.93	0.76	9.47	29.40
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0002455	humoral immune response mediated by circulating immunoglobulin	3	1.00	0.85	9.63	48.29
+GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
+GO:1905340	regulation of protein localization to kinetochore	2	0.89	0.77	9.38	29.06
+GO:1902426	deactivation of mitotic spindle assembly checkpoint	1	1.00	0.96	9.63	1950.70
+GO:1905775	negative regulation of DNA helicase activity	1	0.93	0.86	9.59	205.11

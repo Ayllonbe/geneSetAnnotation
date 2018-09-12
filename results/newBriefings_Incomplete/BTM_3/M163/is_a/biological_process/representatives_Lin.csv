@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	852	0.16	0.21	2.71	13.80
+GO:0007165	signal transduction	724	0.36	0.43	5.06	19.43
+GO:0050896	response to stimulus	690	0.25	0.12	2.65	3.37
+GO:0048523	negative regulation of cellular process	615	0.24	0.37	3.90	23.93
+GO:0002376	immune system process	505	0.38	0.19	3.93	3.37
+GO:0065008	regulation of biological quality	437	0.28	0.26	3.48	4.47
+GO:0019538	protein metabolic process	417	0.31	0.41	4.91	44.77
+GO:0002682	regulation of immune system process	389	0.32	0.36	4.60	7.96
+GO:0016192	vesicle-mediated transport	300	0.52	0.51	6.57	10.99
+GO:0006357	regulation of transcription by RNA polymerase II	267	0.44	0.63	7.11	248.57
+GO:0030154	cell differentiation	266	0.39	0.39	5.18	16.68
+GO:0006811	ion transport	198	0.38	0.44	5.19	10.99
+GO:0043547	positive regulation of GTPase activity	69	0.93	0.79	9.52	49.34
+GO:0006644	phospholipid metabolic process	46	0.53	0.56	7.60	99.63
+GO:0021782	glial cell development	13	0.76	0.63	8.78	32.15
+GO:0046580	negative regulation of Ras protein signal transduction	9	0.83	0.81	9.39	288.25
+GO:1904886	beta-catenin destruction complex disassembly	5	1.00	0.79	9.63	38.05
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14

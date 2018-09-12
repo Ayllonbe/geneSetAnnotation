@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	104	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	22	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	1	1.00	0.88	9.63	658.64
+GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	1	0.89	0.86	9.57	673.65
+GO:0050789	regulation of biological process	81	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	34	0.33	0.29	4.10	4.47
+GO:0065008	regulation of biological quality	22	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	1	1.00	0.88	9.63	658.64
+GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	1	0.89	0.86	9.57	673.65
+GO:0050789	regulation of biological process	81	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	34	0.33	0.29	4.10	4.47
+GO:0065008	regulation of biological quality	22	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	1	1.00	0.88	9.63	658.64
+GO:0051280	negative regulation of release of sequestered calcium ion into cytosol	1	0.89	0.86	9.57	673.65
+GO:0050789	regulation of biological process	81	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	34	0.33	0.29	4.10	4.47
+GO:0007165	signal transduction	37	0.36	0.43	5.06	19.43
+GO:0021943	formation of radial glial scaffolds	1	1.00	0.82	9.63	47.45
+GO:0050896	response to stimulus	45	0.25	0.12	2.65	3.37
+GO:0007165	signal transduction	37	0.36	0.43	5.06	19.43
+GO:0021943	formation of radial glial scaffolds	1	1.00	0.82	9.63	47.45
+GO:0050896	response to stimulus	45	0.25	0.12	2.65	3.37
+GO:0051179	localization	36	0.26	0.13	2.57	3.37
+GO:0042592	homeostatic process	11	0.45	0.42	5.70	8.64
+GO:0002376	immune system process	18	0.38	0.19	3.93	3.37
+GO:0030154	cell differentiation	26	0.39	0.39	5.18	16.68
+GO:0003006	developmental process involved in reproduction	13	0.43	0.34	5.07	14.49
+GO:0034329	cell junction assembly	12	0.71	0.61	8.53	35.01
+GO:0007565	female pregnancy	3	1.00	0.70	9.63	32.81
+GO:0097421	liver regeneration	3	1.00	0.82	9.63	47.22
+GO:0001657	ureteric bud development	2	1.00	0.88	9.63	36.92
+GO:0021915	neural tube development	2	1.00	0.79	9.63	33.01
+GO:0030316	osteoclast differentiation	1	0.93	0.79	9.51	47.07
+GO:0060271	cilium assembly	1	0.87	0.76	9.41	137.68
+GO:0060751	branch elongation involved in mammary gland duct branching	1	0.93	0.79	9.49	21.22
+GO:0085029	extracellular matrix assembly	1	0.80	0.69	9.18	38.16
+GO:0019049	evasion or tolerance of host defenses by virus	1	0.66	0.73	8.89	177.37
+GO:0033622	integrin activation	1	1.00	0.79	9.63	40.42
+GO:0008354	germ cell migration	1	0.93	0.76	9.51	40.54

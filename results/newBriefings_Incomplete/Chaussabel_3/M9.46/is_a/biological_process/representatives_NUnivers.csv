@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	260	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	257	0.16	0.21	2.71	13.80
+GO:0016043	cellular component organization	129	0.28	0.26	3.74	11.45
+GO:0006355	regulation of transcription, DNA-templated	101	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	90	0.34	0.49	5.84	147.03
+GO:0034645	cellular macromolecule biosynthetic process	86	0.47	0.53	6.91	102.76
+GO:0006351	transcription, DNA-templated	74	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	62	0.33	0.45	5.35	37.59
+GO:0015031	protein transport	54	0.48	0.59	6.99	54.46
+GO:0045944	positive regulation of transcription by RNA polymerase II	40	0.55	0.71	8.36	1463.86
+GO:0070887	cellular response to chemical stimulus	34	0.40	0.40	5.31	25.21
+GO:0042981	regulation of apoptotic process	33	0.45	0.55	6.60	16.23
+GO:1903047	mitotic cell cycle process	24	0.50	0.45	5.87	11.32
+GO:0031401	positive regulation of protein modification process	24	0.51	0.63	7.86	366.05
+GO:0003006	developmental process involved in reproduction	16	0.43	0.34	5.07	14.49
+GO:0000226	microtubule cytoskeleton organization	15	0.58	0.58	7.66	30.31
+GO:1902600	proton transmembrane transport	11	0.76	0.75	9.12	95.87
+GO:0045666	positive regulation of neuron differentiation	10	0.62	0.68	8.71	337.32
+GO:0046328	regulation of JNK cascade	6	0.79	0.83	9.49	236.20
+GO:0006283	transcription-coupled nucleotide-excision repair	6	1.00	0.90	9.63	184.44
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	5	0.89	0.82	9.52	239.11
+GO:0032467	positive regulation of cytokinesis	4	0.70	0.70	9.02	142.06
+GO:0090630	activation of GTPase activity	4	1.00	0.85	9.63	49.34
+GO:0030433	ubiquitin-dependent ERAD pathway	3	0.93	0.88	9.60	603.05
+GO:0070301	cellular response to hydrogen peroxide	3	1.00	0.82	9.63	361.03
+GO:0042307	positive regulation of protein import into nucleus	3	0.93	0.86	9.59	778.75
+GO:0071479	cellular response to ionizing radiation	2	0.89	0.77	9.45	48.66
+GO:1903071	positive regulation of ER-associated ubiquitin-dependent protein catabolic process	1	1.00	0.95	9.63	6504.67
+GO:0034080	CENP-A containing nucleosome assembly	1	1.00	0.90	9.63	242.74
+GO:1990182	exosomal secretion	1	1.00	0.85	9.63	38.47
+GO:0034140	negative regulation of toll-like receptor 3 signaling pathway	1	1.00	0.90	9.63	354.71
+GO:0045132	meiotic chromosome segregation	1	0.80	0.65	9.09	42.96
+GO:1901340	negative regulation of store-operated calcium channel activity	1	1.00	0.93	9.63	1444.03

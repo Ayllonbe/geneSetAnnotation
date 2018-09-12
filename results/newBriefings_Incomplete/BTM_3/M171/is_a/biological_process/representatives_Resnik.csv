@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0042221	response to chemical	392	0.32	0.29	4.12	6.14
+GO:0051128	regulation of cellular component organization	328	0.30	0.40	4.57	12.04
+GO:0030278	regulation of ossification	33	0.74	0.62	8.94	11.79
+GO:2000026	regulation of multicellular organismal development	307	0.29	0.39	4.73	23.09
+GO:0042127	regulation of cell proliferation	297	0.45	0.48	6.03	12.04
+GO:0031324	negative regulation of cellular metabolic process	284	0.34	0.46	5.46	80.35
+GO:0030154	cell differentiation	240	0.39	0.39	5.18	16.68
+GO:0048468	cell development	78	0.51	0.45	6.51	28.42
+GO:0035556	intracellular signal transduction	246	0.51	0.55	6.92	23.17
+GO:0042592	homeostatic process	208	0.45	0.42	5.70	8.64
+GO:0032774	RNA biosynthetic process	176	0.53	0.62	8.04	473.34
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0045944	positive regulation of transcription by RNA polymerase II	142	0.55	0.71	8.36	1463.86
+GO:0048513	animal organ development	86	0.50	0.45	5.88	11.73
+GO:0030029	actin filament-based process	57	0.59	0.42	6.58	7.39
+GO:0001666	response to hypoxia	52	0.81	0.70	9.12	21.16
+GO:0051260	protein homooligomerization	47	0.89	0.77	9.41	42.03
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	36	0.79	0.81	9.45	779.36
+GO:0001701	in utero embryonic development	21	1.00	0.85	9.63	22.50
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	10	1.00	0.92	9.63	570.20
+GO:0006778	porphyrin-containing compound metabolic process	10	0.62	0.60	8.53	104.51
+GO:0010559	regulation of glycoprotein biosynthetic process	9	0.66	0.68	8.90	149.76
+GO:0008344	adult locomotory behavior	9	0.84	0.62	9.16	24.58
+GO:0020027	hemoglobin metabolic process	3	0.89	0.74	9.46	80.87
+GO:2000678	negative regulation of transcription regulatory region DNA binding	2	0.87	0.76	9.34	47.57
+GO:0018160	peptidyl-pyrromethane cofactor linkage	1	1.00	0.90	9.63	311.77

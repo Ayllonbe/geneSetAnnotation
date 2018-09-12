@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1316	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	1234	0.16	0.21	2.71	13.80
+GO:0009894	regulation of catabolic process	119	0.42	0.46	5.75	10.74
+GO:0080090	regulation of primary metabolic process	830	0.24	0.37	3.95	10.74
+GO:0006810	transport	590	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	573	0.31	0.41	4.91	44.77
+GO:0042221	response to chemical	306	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	369	0.39	0.32	4.70	6.14
+GO:0006355	regulation of transcription, DNA-templated	494	0.40	0.60	6.84	245.35
+GO:0034645	cellular macromolecule biosynthetic process	402	0.47	0.53	6.91	102.76
+GO:0006950	response to stress	369	0.39	0.32	4.70	6.14
+GO:0051241	negative regulation of multicellular organismal process	133	0.35	0.42	4.99	23.69
+GO:0051345	positive regulation of hydrolase activity	126	0.57	0.57	7.42	32.99
+GO:0043312	neutrophil degranulation	83	1.00	0.90	9.63	132.80
+GO:0071214	cellular response to abiotic stimulus	61	0.59	0.54	7.66	24.78
+GO:0006518	peptide metabolic process	51	0.56	0.57	7.65	56.97
+GO:0030855	epithelial cell differentiation	29	0.55	0.52	6.96	21.07
+GO:0006367	transcription initiation from RNA polymerase II promoter	28	1.00	0.90	9.63	477.15
+GO:0019318	hexose metabolic process	28	0.58	0.58	7.68	32.37
+GO:0090257	regulation of muscle system process	27	0.52	0.55	7.00	14.36
+GO:0050729	positive regulation of inflammatory response	21	0.66	0.68	8.59	125.85
+GO:0043401	steroid hormone mediated signaling pathway	20	0.75	0.70	8.80	25.74
+GO:0010631	epithelial cell migration	15	0.66	0.65	8.28	22.57
+GO:0034754	cellular hormone metabolic process	12	0.59	0.59	8.02	37.69
+GO:0031032	actomyosin structure organization	10	0.72	0.68	8.76	32.01
+GO:0030218	erythrocyte differentiation	9	0.84	0.71	9.12	22.68
+GO:0045070	positive regulation of viral genome replication	8	0.89	0.82	9.47	85.31
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	5	0.89	0.89	9.56	487.92
+GO:0034138	toll-like receptor 3 signaling pathway	5	1.00	0.95	9.63	412.65
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	5	0.89	0.89	9.55	412.65
+GO:0030049	muscle filament sliding	4	1.00	0.82	9.63	20.96
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	4	0.93	0.93	9.59	413.35
+GO:0043297	apical junction assembly	3	1.00	0.82	9.63	56.14
+GO:0071550	death-inducing signaling complex assembly	3	0.93	0.76	9.49	40.42
+GO:0030225	macrophage differentiation	2	0.93	0.79	9.51	47.07
+GO:0036462	TRAIL-activated apoptotic signaling pathway	2	1.00	0.88	9.63	52.45
+GO:0090399	replicative senescence	2	1.00	0.75	9.63	26.14
+GO:0002154	thyroid hormone mediated signaling pathway	1	1.00	0.82	9.63	51.30
+GO:0039650	suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	1	1.00	0.95	9.63	1338.58
+GO:0060715	syncytiotrophoblast cell differentiation involved in labyrinthine layer development	1	1.00	0.79	9.63	42.29
+GO:0034166	toll-like receptor 10 signaling pathway	1	1.00	0.95	9.63	412.65
+GO:0008050	female courtship behavior	1	1.00	0.82	9.63	21.93
+GO:0045925	positive regulation of female receptivity	1	0.93	0.82	9.53	31.67

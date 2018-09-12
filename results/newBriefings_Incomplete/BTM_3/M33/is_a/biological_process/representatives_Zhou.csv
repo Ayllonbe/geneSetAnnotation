@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	606	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1831	0.09	0.05	0.84	3.37
+GO:0043403	skeletal muscle tissue regeneration	1	0.93	0.76	9.51	44.68
+GO:0065008	regulation of biological quality	501	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	18	1.00	0.88	9.63	658.64
+GO:0043085	positive regulation of catalytic activity	289	0.48	0.49	6.15	18.32
+GO:0042102	positive regulation of T cell proliferation	47	0.78	0.78	9.42	564.85
+GO:0050789	regulation of biological process	1533	0.09	0.17	1.80	4.47
+GO:0065008	regulation of biological quality	501	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	18	1.00	0.88	9.63	658.64
+GO:0043085	positive regulation of catalytic activity	289	0.48	0.49	6.15	18.32
+GO:0042102	positive regulation of T cell proliferation	47	0.78	0.78	9.42	564.85
+GO:0050789	regulation of biological process	1533	0.09	0.17	1.80	4.47
+GO:0051641	cellular localization	232	0.37	0.31	4.44	5.67
+GO:0006810	transport	658	0.28	0.34	3.95	7.46
+GO:0009605	response to external stimulus	319	0.37	0.31	4.62	6.14
+GO:0045087	innate immune response	165	0.68	0.59	8.16	26.47
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0007628	adult walking behavior	3	1.00	0.75	9.63	34.94

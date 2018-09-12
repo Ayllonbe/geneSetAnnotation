@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	447	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	252	0.21	0.30	3.05	7.96
+GO:0050794	regulation of cellular process	447	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	430	0.16	0.21	2.71	13.80
+GO:0048583	regulation of response to stimulus	153	0.25	0.32	3.72	7.96
+GO:0006464	cellular protein modification process	137	0.34	0.49	5.84	147.03
+GO:0051716	cellular response to stimulus	131	0.35	0.30	4.36	13.53
+GO:0051641	cellular localization	121	0.37	0.31	4.44	5.67
+GO:0006996	organelle organization	116	0.39	0.39	5.17	14.95
+GO:0033157	regulation of intracellular protein transport	23	0.60	0.65	8.42	91.14
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	22	0.58	0.64	7.56	28.11
+GO:0051480	regulation of cytosolic calcium ion concentration	10	0.66	0.75	9.02	288.69
+GO:0060271	cilium assembly	10	0.87	0.76	9.41	137.68
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	3	1.00	0.85	9.63	76.31
+GO:0051290	protein heterotetramerization	3	1.00	0.85	9.63	85.45
+GO:0048251	elastic fiber assembly	2	1.00	0.82	9.63	39.54
+GO:0021540	corpus callosum morphogenesis	2	1.00	0.93	9.63	69.80
+GO:0070207	protein homotrimerization	2	1.00	0.85	9.63	85.45
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	2	0.93	0.82	9.52	52.45
+GO:0033227	dsRNA transport	1	1.00	0.88	9.63	42.49
+GO:0001188	RNA polymerase I transcriptional preinitiation complex assembly	1	1.00	0.88	9.63	67.29
+GO:0060294	cilium movement involved in cell motility	1	0.93	0.76	9.47	21.36

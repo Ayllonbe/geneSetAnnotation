@@ -1,0 +1,142 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	963	0.35	0.46	5.09	13.73
+GO:0031326	regulation of cellular biosynthetic process	927	0.29	0.44	4.86	40.35
+GO:0006464	cellular protein modification process	696	0.34	0.49	5.84	147.03
+GO:0051716	cellular response to stimulus	630	0.35	0.30	4.36	13.53
+GO:0009966	regulation of signal transduction	626	0.33	0.45	5.35	37.59
+GO:0032268	regulation of cellular protein metabolic process	580	0.37	0.51	6.13	70.76
+GO:0051128	regulation of cellular component organization	559	0.30	0.40	4.57	12.04
+GO:0032774	RNA biosynthetic process	550	0.53	0.62	8.04	473.34
+GO:0050793	regulation of developmental process	496	0.26	0.33	3.95	7.96
+GO:0022607	cellular component assembly	513	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	485	0.39	0.39	5.17	14.95
+GO:0061024	membrane organization	114	0.47	0.43	6.06	14.95
+GO:0006996	organelle organization	485	0.39	0.39	5.17	14.95
+GO:0010033	response to organic substance	421	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	395	0.52	0.51	6.57	10.99
+GO:0035556	intracellular signal transduction	386	0.51	0.55	6.92	23.17
+GO:0044093	positive regulation of molecular function	376	0.43	0.41	5.23	6.77
+GO:0009967	positive regulation of signal transduction	339	0.44	0.54	6.71	140.23
+GO:0015031	protein transport	337	0.48	0.59	6.99	54.46
+GO:0042981	regulation of apoptotic process	319	0.45	0.55	6.60	16.23
+GO:1903204	negative regulation of oxidative stress-induced neuron death	6	0.87	0.83	9.58	363.98
+GO:0042493	response to drug	132	0.47	0.43	5.84	9.28
+GO:1901700	response to oxygen-containing compound	294	0.39	0.39	5.14	9.28
+GO:0042127	regulation of cell proliferation	290	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	282	0.53	0.56	6.88	24.41
+GO:0051094	positive regulation of developmental process	254	0.38	0.44	5.27	23.11
+GO:0045937	positive regulation of phosphate metabolic process	242	0.51	0.60	7.47	145.91
+GO:0006629	lipid metabolic process	240	0.37	0.38	5.19	18.42
+GO:0006811	ion transport	210	0.38	0.44	5.19	10.99
+GO:0010564	regulation of cell cycle process	184	0.42	0.50	6.22	14.24
+GO:0034622	cellular protein-containing complex assembly	182	0.48	0.53	6.52	40.42
+GO:0030334	regulation of cell migration	175	0.48	0.56	7.11	36.74
+GO:0006952	defense response	174	0.56	0.48	6.67	9.54
+GO:0019221	cytokine-mediated signaling pathway	159	0.60	0.63	7.60	26.50
+GO:0031400	negative regulation of protein modification process	156	0.53	0.64	7.94	366.95
+GO:0007017	microtubule-based process	137	0.49	0.37	5.66	7.39
+GO:1903827	regulation of cellular protein localization	137	0.48	0.53	6.86	25.72
+GO:0007186	G-protein coupled receptor signaling pathway	136	0.55	0.57	7.20	23.17
+GO:0045596	negative regulation of cell differentiation	133	0.44	0.51	6.50	82.79
+GO:0016477	cell migration	120	0.47	0.48	6.31	17.13
+GO:0040008	regulation of growth	119	0.48	0.44	6.04	7.96
+GO:0051640	organelle localization	118	0.49	0.45	6.08	7.87
+GO:0043269	regulation of ion transport	107	0.41	0.50	6.00	14.08
+GO:0003006	developmental process involved in reproduction	106	0.43	0.34	5.07	14.49
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	106	0.58	0.64	7.56	28.11
+GO:0055065	metal ion homeostasis	103	0.57	0.64	7.90	34.21
+GO:0032989	cellular component morphogenesis	95	0.56	0.48	7.27	42.57
+GO:0034248	regulation of cellular amide metabolic process	89	0.47	0.53	6.77	41.10
+GO:0033044	regulation of chromosome organization	87	0.44	0.54	6.49	19.19
+GO:0006790	sulfur compound metabolic process	81	0.44	0.42	5.69	17.52
+GO:0002521	leukocyte differentiation	74	0.58	0.54	7.41	21.07
+GO:0016055	Wnt signaling pathway	70	0.59	0.65	7.65	28.58
+GO:0044772	mitotic cell cycle phase transition	69	0.84	0.67	9.04	28.43
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0030111	regulation of Wnt signaling pathway	63	0.59	0.62	7.99	41.85
+GO:0050804	modulation of chemical synaptic transmission	63	0.52	0.58	7.24	27.32
+GO:0006310	DNA recombination	50	0.61	0.66	8.53	149.04
+GO:0030855	epithelial cell differentiation	50	0.55	0.52	6.96	21.07
+GO:0007610	behavior	50	0.48	0.24	4.72	3.37
+GO:0002009	morphogenesis of an epithelium	43	0.51	0.51	6.34	13.50
+GO:0003222	ventricular trabecula myocardium morphogenesis	3	0.89	0.80	9.43	28.31
+GO:0051099	positive regulation of binding	44	0.61	0.55	7.48	18.40
+GO:0048598	embryonic morphogenesis	44	0.54	0.47	6.15	10.94
+GO:0009755	hormone-mediated signaling pathway	41	0.65	0.62	7.99	23.17
+GO:0018212	peptidyl-tyrosine modification	41	0.63	0.69	8.45	154.25
+GO:0034329	cell junction assembly	40	0.71	0.61	8.53	35.01
+GO:2000027	regulation of organ morphogenesis	39	0.45	0.52	6.54	42.54
+GO:0001701	in utero embryonic development	37	1.00	0.85	9.63	22.50
+GO:0006399	tRNA metabolic process	36	0.54	0.64	7.95	117.72
+GO:0007268	chemical synaptic transmission	34	0.74	0.72	8.66	23.17
+GO:0030278	regulation of ossification	31	0.74	0.62	8.94	11.79
+GO:0048469	cell maturation	28	0.70	0.55	8.24	25.22
+GO:0007229	integrin-mediated signaling pathway	27	1.00	0.82	9.63	26.50
+GO:0007565	female pregnancy	25	1.00	0.70	9.63	32.81
+GO:1901184	regulation of ERBB signaling pathway	25	0.70	0.67	8.76	41.85
+GO:0035295	tube development	24	0.56	0.48	6.60	11.73
+GO:0050848	regulation of calcium-mediated signaling	22	0.67	0.68	8.73	45.07
+GO:0032481	positive regulation of type I interferon production	22	0.81	0.73	9.26	65.24
+GO:0030856	regulation of epithelial cell differentiation	22	0.56	0.57	7.76	54.42
+GO:0048588	developmental cell growth	21	0.68	0.54	8.28	29.95
+GO:0007219	Notch signaling pathway	21	0.78	0.71	8.87	26.50
+GO:0022405	hair cycle process	19	0.87	0.63	8.94	9.53
+GO:0061515	myeloid cell development	15	0.81	0.66	9.02	32.15
+GO:0001837	epithelial to mesenchymal transition	15	0.75	0.67	8.65	23.15
+GO:0001954	positive regulation of cell-matrix adhesion	15	0.87	0.76	9.34	50.26
+GO:0051402	neuron apoptotic process	14	0.83	0.70	9.02	23.44
+GO:0007389	pattern specification process	13	0.47	0.36	5.23	7.59
+GO:2000573	positive regulation of DNA biosynthetic process	13	0.80	0.77	9.43	748.29
+GO:0007416	synapse assembly	13	0.84	0.67	9.12	35.85
+GO:0045685	regulation of glial cell differentiation	12	0.72	0.73	9.12	64.05
+GO:0001916	positive regulation of T cell mediated cytotoxicity	11	0.87	0.83	9.52	365.14
+GO:0006378	mRNA polyadenylation	11	0.93	0.88	9.58	472.44
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	11	1.00	0.82	9.63	32.65
+GO:1904837	beta-catenin-TCF complex assembly	10	1.00	0.79	9.63	40.42
+GO:0045165	cell fate commitment	10	0.51	0.45	6.38	16.68
+GO:0045747	positive regulation of Notch signaling pathway	9	0.93	0.82	9.56	187.64
+GO:0010718	positive regulation of epithelial to mesenchymal transition	8	0.81	0.73	9.38	170.70
+GO:0048538	thymus development	8	1.00	0.79	9.63	35.89
+GO:0016358	dendrite development	7	0.83	0.74	9.26	32.63
+GO:0090481	pyrimidine nucleotide-sugar transmembrane transport	6	0.78	0.74	9.10	63.68
+GO:0035235	ionotropic glutamate receptor signaling pathway	6	0.87	0.78	9.31	27.20
+GO:1904886	beta-catenin destruction complex disassembly	6	1.00	0.79	9.63	38.05
+GO:0045429	positive regulation of nitric oxide biosynthetic process	6	1.00	0.88	9.63	658.64
+GO:0060479	lung cell differentiation	6	0.78	0.64	8.75	21.07
+GO:0007221	positive regulation of transcription of Notch receptor target	5	1.00	0.95	9.63	1467.90
+GO:0034394	protein localization to cell surface	5	1.00	0.79	9.63	29.83
+GO:1990000	amyloid fibril formation	5	1.00	0.79	9.63	65.11
+GO:0071498	cellular response to fluid shear stress	5	0.80	0.65	9.27	39.93
+GO:0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	4	1.00	0.90	9.63	157.55
+GO:0051145	smooth muscle cell differentiation	4	0.78	0.68	8.86	21.76
+GO:0051000	positive regulation of nitric-oxide synthase activity	4	1.00	0.85	9.63	123.23
+GO:0002265	astrocyte activation involved in immune response	3	1.00	0.79	9.63	30.95
+GO:1903980	positive regulation of microglial cell activation	3	1.00	0.88	9.63	155.50
+GO:1904948	midbrain dopaminergic neuron differentiation	3	1.00	0.82	9.63	50.57
+GO:0035635	entry of bacterium into host cell	3	1.00	0.85	9.63	28.37
+GO:0016260	selenocysteine biosynthetic process	2	1.00	0.92	9.63	562.40
+GO:0023021	termination of signal transduction	2	0.87	0.78	9.43	144.87
+GO:0048096	chromatin-mediated maintenance of transcription	2	1.00	0.93	9.63	1311.62
+GO:0035621	ER to Golgi ceramide transport	2	1.00	0.85	9.63	89.55
+GO:1905908	positive regulation of amyloid fibril formation	2	1.00	0.85	9.63	262.58
+GO:0010909	positive regulation of heparan sulfate proteoglycan biosynthetic process	2	0.93	0.88	9.60	885.90
+GO:0010752	regulation of cGMP-mediated signaling	2	0.87	0.78	9.34	45.07
+GO:0048505	regulation of timing of cell differentiation	1	0.80	0.69	9.18	40.29
+GO:0071874	cellular response to norepinephrine stimulus	1	1.00	0.88	9.63	410.29
+GO:0030997	regulation of centriole-centriole cohesion	1	0.89	0.84	9.47	54.57
+GO:0120012	intermembrane sphingolipid transfer	1	1.00	0.85	9.63	52.08
+GO:0022009	central nervous system vasculogenesis	1	1.00	0.79	9.63	21.76
+GO:0060769	positive regulation of epithelial cell proliferation involved in prostate gland development	1	1.00	0.85	9.63	208.66
+GO:1901189	positive regulation of ephrin receptor signaling pathway	1	1.00	0.85	9.63	186.95
+GO:0045636	positive regulation of melanocyte differentiation	1	0.89	0.80	9.50	190.70
+GO:0045976	negative regulation of mitotic cell cycle, embryonic	1	0.89	0.80	9.52	202.68
+GO:0003256	regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation	1	0.93	0.91	9.58	254.26
+GO:0061419	positive regulation of transcription from RNA polymerase II promoter in response to hypoxia	1	1.00	0.96	9.63	4007.30
+GO:0007172	signal complex assembly	1	1.00	0.82	9.63	86.37
+GO:2000017	positive regulation of determination of dorsal identity	1	1.00	0.82	9.63	84.16
+GO:0048023	positive regulation of melanin biosynthetic process	1	1.00	0.85	9.63	326.12
+GO:0061548	ganglion development	1	0.79	0.64	8.84	30.32
+GO:0031460	glycine betaine transport	1	1.00	0.90	9.63	100.78
+GO:0048250	iron import into the mitochondrion	1	1.00	0.92	9.63	155.42
+GO:1902685	positive regulation of receptor localization to synapse	1	1.00	0.82	9.63	27.09
+GO:0051884	regulation of timing of anagen	1	0.89	0.80	9.45	56.45

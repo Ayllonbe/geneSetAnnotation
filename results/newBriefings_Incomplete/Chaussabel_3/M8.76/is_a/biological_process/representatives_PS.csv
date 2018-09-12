@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1299	0.12	0.26	2.47	7.96
+GO:0051246	regulation of protein metabolic process	411	0.34	0.46	5.46	41.09
+GO:0006355	regulation of transcription, DNA-templated	484	0.40	0.60	6.84	245.35
+GO:0016043	cellular component organization	629	0.28	0.26	3.74	11.45
+GO:0006464	cellular protein modification process	460	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	322	0.57	0.68	8.45	581.39
+GO:2000026	regulation of multicellular organismal development	221	0.29	0.39	4.73	23.09
+GO:0034613	cellular protein localization	145	0.45	0.48	6.33	26.83
+GO:0001817	regulation of cytokine production	100	0.40	0.45	5.78	11.79
+GO:0019221	cytokine-mediated signaling pathway	88	0.60	0.63	7.60	26.50
+GO:0006955	immune response	86	0.54	0.40	6.57	12.45
+GO:0043547	positive regulation of GTPase activity	67	0.93	0.79	9.52	49.34
+GO:0007265	Ras protein signal transduction	55	0.76	0.73	8.94	27.53
+GO:0060271	cilium assembly	22	0.87	0.76	9.41	137.68
+GO:0007229	integrin-mediated signaling pathway	18	1.00	0.82	9.63	26.50
+GO:0046718	viral entry into host cell	18	0.77	0.73	8.94	28.37
+GO:0042113	B cell activation	18	0.68	0.63	8.28	19.85
+GO:0007517	muscle organ development	10	0.78	0.64	8.75	27.68
+GO:0034446	substrate adhesion-dependent cell spreading	9	1.00	0.82	9.63	56.23
+GO:0001755	neural crest cell migration	7	0.80	0.72	9.09	22.57
+GO:0048041	focal adhesion assembly	6	1.00	0.88	9.63	92.53
+GO:0001942	hair follicle development	6	1.00	0.75	9.63	22.36
+GO:0001658	branching involved in ureteric bud morphogenesis	3	1.00	0.85	9.63	53.50
+GO:0031581	hemidesmosome assembly	3	1.00	0.82	9.63	36.80
+GO:0016331	morphogenesis of embryonic epithelium	3	0.74	0.66	8.42	31.67
+GO:0045446	endothelial cell differentiation	3	0.79	0.68	8.94	24.20
+GO:0002430	complement receptor mediated signaling pathway	1	0.93	0.86	9.58	218.74
+GO:0060445	branching involved in salivary gland morphogenesis	1	0.93	0.79	9.51	38.29

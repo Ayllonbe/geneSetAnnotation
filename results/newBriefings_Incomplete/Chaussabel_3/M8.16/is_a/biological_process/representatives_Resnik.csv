@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4627	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	3548	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0051240	positive regulation of multicellular organismal process	522	0.35	0.42	4.98	23.60
+GO:0043170	macromolecule metabolic process	2646	0.25	0.32	3.46	10.22
+GO:2000112	regulation of cellular macromolecule biosynthetic process	1436	0.36	0.50	5.87	74.82
+GO:0031324	negative regulation of cellular metabolic process	903	0.34	0.46	5.46	80.35
+GO:0032502	developmental process	930	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	765	0.38	0.19	3.93	3.37
+GO:0006796	phosphate-containing compound metabolic process	734	0.36	0.43	5.28	20.85
+GO:0008104	protein localization	687	0.40	0.40	5.07	7.46
+GO:0065003	protein-containing complex assembly	601	0.45	0.48	6.06	36.47
+GO:0035556	intracellular signal transduction	590	0.51	0.55	6.92	23.17
+GO:0002682	regulation of immune system process	574	0.32	0.36	4.60	7.96
+GO:0070647	protein modification by small protein conjugation or removal	390	0.61	0.66	8.44	151.15
+GO:0006511	ubiquitin-dependent protein catabolic process	223	0.74	0.74	9.19	156.45
+GO:0019221	cytokine-mediated signaling pathway	266	0.60	0.63	7.60	26.50
+GO:0009617	response to bacterium	83	0.75	0.67	8.94	27.27
+GO:0043401	steroid hormone mediated signaling pathway	50	0.75	0.70	8.80	25.74
+GO:0070317	negative regulation of G0 to G1 transition	24	1.00	0.85	9.63	83.03
+GO:0045454	cell redox homeostasis	21	1.00	0.79	9.63	31.94
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	12	1.00	0.82	9.63	26.98

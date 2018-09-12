@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1577	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	973	0.16	0.21	2.71	13.80
+GO:0009605	response to external stimulus	313	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	477	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	470	0.39	0.32	4.70	6.14
+GO:0051641	cellular localization	227	0.37	0.31	4.44	5.67
+GO:0006810	transport	647	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	590	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	569	0.43	0.51	5.91	23.17
+GO:0051239	regulation of multicellular organismal process	558	0.23	0.32	3.68	7.96
+GO:0032879	regulation of localization	508	0.27	0.33	4.05	7.96
+GO:0065008	regulation of biological quality	496	0.28	0.26	3.48	4.47
+GO:0048869	cellular developmental process	445	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	440	0.40	0.60	6.84	245.35
+GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
+GO:0035556	intracellular signal transduction	302	0.51	0.55	6.92	23.17
+GO:0043067	regulation of programmed cell death	301	0.44	0.51	6.32	13.83
+GO:0043933	protein-containing complex subunit organization	266	0.43	0.41	5.44	14.95
+GO:0030155	regulation of cell adhesion	190	0.48	0.44	5.95	7.96
+GO:0032928	regulation of superoxide anion generation	8	0.89	0.80	9.41	29.55
+GO:0045634	regulation of melanocyte differentiation	3	0.79	0.72	9.22	39.04

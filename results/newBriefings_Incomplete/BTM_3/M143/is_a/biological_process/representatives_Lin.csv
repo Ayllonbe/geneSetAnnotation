@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:2000112	regulation of cellular macromolecule biosynthetic process	490	0.36	0.50	5.87	74.82
+GO:0009605	response to external stimulus	308	0.37	0.31	4.62	6.14
+GO:0006950	response to stress	464	0.39	0.32	4.70	6.14
+GO:0022402	cell cycle process	169	0.40	0.32	4.60	7.39
+GO:0046907	intracellular transport	141	0.46	0.48	6.38	29.65
+GO:0034504	protein localization to nucleus	22	0.72	0.68	8.76	32.77
+GO:0051259	protein complex oligomerization	79	0.78	0.68	9.09	40.42
+GO:0009888	tissue development	42	0.47	0.44	5.74	11.73
+GO:0016071	mRNA metabolic process	39	0.59	0.65	8.39	115.08
+GO:0046822	regulation of nucleocytoplasmic transport	29	0.65	0.65	8.53	30.75
+GO:0022008	neurogenesis	12	0.87	0.68	9.29	21.07
+GO:0008543	fibroblast growth factor receptor signaling pathway	11	0.71	0.73	8.57	31.00
+GO:0006368	transcription elongation from RNA polymerase II promoter	10	1.00	0.90	9.63	477.15
+GO:0042795	snRNA transcription by RNA polymerase II	9	1.00	0.95	9.63	1410.65
+GO:0006369	termination of RNA polymerase II transcription	7	0.89	0.84	9.55	477.15
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0034629	cellular protein-containing complex localization	6	0.70	0.64	8.62	38.21
+GO:0031047	gene silencing by RNA	3	0.77	0.76	9.17	70.60
+GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	3	0.93	0.76	9.47	21.24
+GO:0031442	positive regulation of mRNA 3'-end processing	2	0.93	0.88	9.59	630.64
+GO:1904263	positive regulation of TORC1 signaling	2	1.00	0.90	9.63	286.95
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0008585	female gonad development	2	1.00	0.79	9.63	50.96

@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	107	0.35	0.46	5.97	111.15
+GO:0048523	negative regulation of cellular process	86	0.24	0.37	3.90	23.93
+GO:0044267	cellular protein metabolic process	77	0.34	0.46	5.57	80.87
+GO:0007165	signal transduction	62	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	45	0.33	0.45	5.35	37.59
+GO:0015031	protein transport	43	0.48	0.59	6.99	54.46
+GO:0045944	positive regulation of transcription by RNA polymerase II	32	0.55	0.71	8.36	1463.86
+GO:0051241	negative regulation of multicellular organismal process	12	0.35	0.42	4.99	23.69
+GO:0051052	regulation of DNA metabolic process	10	0.47	0.56	7.17	70.58
+GO:0043547	positive regulation of GTPase activity	10	0.93	0.79	9.52	49.34
+GO:0001666	response to hypoxia	9	0.81	0.70	9.12	21.16
+GO:0043065	positive regulation of apoptotic process	7	0.56	0.63	7.81	80.91
+GO:0048812	neuron projection morphogenesis	6	0.65	0.68	8.50	63.00
+GO:0034765	regulation of ion transmembrane transport	6	0.46	0.55	6.68	33.04
+GO:0030036	actin cytoskeleton organization	5	0.63	0.61	8.05	29.61
+GO:0032868	response to insulin	4	0.93	0.82	9.54	74.03
+GO:1903779	regulation of cardiac conduction	4	0.69	0.70	8.76	28.83
+GO:0010977	negative regulation of neuron projection development	4	0.68	0.73	9.14	494.13
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	4	0.89	0.86	9.58	717.25
+GO:0071260	cellular response to mechanical stimulus	3	1.00	0.79	9.63	56.12
+GO:0007565	female pregnancy	3	1.00	0.70	9.63	32.81
+GO:0071222	cellular response to lipopolysaccharide	2	1.00	0.82	9.63	238.00
+GO:0006342	chromatin silencing	2	0.78	0.82	9.45	1752.52
+GO:0050766	positive regulation of phagocytosis	2	0.77	0.76	9.34	175.33
+GO:0003018	vascular process in circulatory system	2	0.61	0.56	7.43	11.17
+GO:1901381	positive regulation of potassium ion transmembrane transport	2	0.74	0.76	9.27	341.49
+GO:0051795	positive regulation of timing of catagen	1	1.00	0.88	9.63	253.10
+GO:1903595	positive regulation of histamine secretion by mast cell	1	1.00	0.95	9.63	1919.15
+GO:0097421	liver regeneration	1	1.00	0.82	9.63	47.22
+GO:0051464	positive regulation of cortisol secretion	1	1.00	0.95	9.63	911.29
+GO:0060268	negative regulation of respiratory burst	1	0.93	0.76	9.49	37.30
+GO:1902891	negative regulation of root hair elongation	1	1.00	0.88	9.63	724.54
+GO:0006182	cGMP biosynthetic process	1	1.00	0.93	9.63	6128.11
+GO:0031943	regulation of glucocorticoid metabolic process	1	0.76	0.73	9.34	68.66
+GO:0006337	nucleosome disassembly	1	0.87	0.76	9.39	96.25
+GO:0061049	cell growth involved in cardiac muscle cell development	1	0.93	0.72	9.49	32.43
+GO:0043314	negative regulation of neutrophil degranulation	1	1.00	0.93	9.63	799.86
+GO:0002692	negative regulation of cellular extravasation	1	0.79	0.79	9.37	296.76
+GO:0050728	negative regulation of inflammatory response	1	0.67	0.69	8.71	126.18
+GO:0014898	cardiac muscle hypertrophy in response to stress	1	1.00	0.85	9.63	75.67
+GO:0050672	negative regulation of lymphocyte proliferation	1	0.74	0.75	9.27	262.95
+GO:0048714	positive regulation of oligodendrocyte differentiation	1	1.00	0.92	9.63	471.69
+GO:0045823	positive regulation of heart contraction	1	0.67	0.69	8.67	64.31

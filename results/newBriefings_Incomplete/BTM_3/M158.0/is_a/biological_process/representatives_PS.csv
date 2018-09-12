@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	59	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	48	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	31	0.25	0.12	2.65	3.37
+GO:0009615	response to virus	12	0.74	0.66	8.80	27.27
+GO:0002376	immune system process	11	0.38	0.19	3.93	3.37
+GO:0003006	developmental process involved in reproduction	6	0.43	0.34	5.07	14.49
+GO:0061436	establishment of skin barrier	2	1.00	0.88	9.63	44.87
+GO:0031581	hemidesmosome assembly	2	1.00	0.82	9.63	36.80
+GO:0006606	protein import into nucleus	2	0.89	0.84	9.55	277.54
+GO:0008306	associative learning	2	0.84	0.77	9.22	22.45
+GO:0022029	telencephalon cell migration	1	0.69	0.67	8.68	21.32
+GO:0035987	endodermal cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0048333	mesodermal cell differentiation	1	0.83	0.66	8.94	21.07
+GO:0030216	keratinocyte differentiation	1	0.89	0.77	9.38	25.59
+GO:0097186	amelogenesis	1	1.00	0.82	9.63	26.74
+GO:0001545	primary ovarian follicle growth	1	0.89	0.64	9.29	21.72

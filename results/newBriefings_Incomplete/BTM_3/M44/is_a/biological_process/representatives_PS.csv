@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1423	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	876	0.24	0.37	3.90	23.85
+GO:0060255	regulation of macromolecule metabolic process	799	0.26	0.38	4.09	10.74
+GO:0016043	cellular component organization	646	0.28	0.26	3.74	11.45
+GO:0016043	cellular component organization	646	0.28	0.26	3.74	11.45
+GO:0001934	positive regulation of protein phosphorylation	210	0.58	0.69	8.60	663.11
+GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	569	0.43	0.51	5.91	23.17
+GO:0032879	regulation of localization	508	0.27	0.33	4.05	7.96
+GO:0010033	response to organic substance	435	0.35	0.37	4.75	9.28
+GO:0032693	negative regulation of interleukin-10 production	8	0.89	0.77	9.43	65.25
+GO:0051240	positive regulation of multicellular organismal process	365	0.35	0.42	4.98	23.60
+GO:0043085	positive regulation of catalytic activity	283	0.48	0.49	6.15	18.32
+GO:0019221	cytokine-mediated signaling pathway	235	0.60	0.63	7.60	26.50
+GO:0006952	defense response	233	0.56	0.48	6.67	9.54
+GO:0033554	cellular response to stress	224	0.44	0.42	6.05	25.47
+GO:0006470	protein dephosphorylation	22	0.76	0.73	9.22	177.17
+GO:0016310	phosphorylation	198	0.53	0.56	6.88	24.41
+GO:0006351	transcription, DNA-templated	209	0.57	0.68	8.45	581.39
+GO:0030334	regulation of cell migration	208	0.48	0.56	7.11	36.74
+GO:0043066	negative regulation of apoptotic process	208	0.56	0.63	7.79	81.07
+GO:0031347	regulation of defense response	199	0.40	0.49	5.73	14.14
+GO:0043312	neutrophil degranulation	178	1.00	0.90	9.63	132.80
+GO:0050900	leukocyte migration	153	0.60	0.59	8.02	26.94
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:0050870	positive regulation of T cell activation	95	0.63	0.69	8.78	216.07
+GO:0032819	positive regulation of natural killer cell proliferation	3	0.93	0.86	9.59	506.27
+GO:0009615	response to virus	87	0.74	0.66	8.80	27.27
+GO:0042110	T cell activation	70	0.59	0.59	7.76	19.85
+GO:0042100	B cell proliferation	24	0.87	0.76	9.39	50.60
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	69	0.52	0.58	7.50	27.23
+GO:0000902	cell morphogenesis	57	0.63	0.56	7.92	43.26
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
+GO:0008360	regulation of cell shape	42	0.68	0.66	8.69	41.78
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	39	0.80	0.65	8.94	20.20
+GO:0060333	interferon-gamma-mediated signaling pathway	36	1.00	0.85	9.63	30.19
+GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	32	0.64	0.67	8.12	28.11
+GO:0050853	B cell receptor signaling pathway	30	0.93	0.88	9.58	219.43
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	24	1.00	0.92	9.63	384.64
+GO:0031100	animal organ regeneration	23	0.89	0.70	9.29	28.09
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	22	1.00	0.93	9.63	628.11
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0071479	cellular response to ionizing radiation	15	0.89	0.77	9.45	48.66
+GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07
+GO:0051146	striated muscle cell differentiation	14	0.74	0.66	8.78	21.76
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0006006	glucose metabolic process	11	0.71	0.68	8.57	34.68
+GO:0035722	interleukin-12-mediated signaling pathway	10	1.00	0.85	9.63	30.19
+GO:0019395	fatty acid oxidation	10	0.78	0.76	9.28	147.79
+GO:0001890	placenta development	9	1.00	0.75	9.63	49.87
+GO:0002062	chondrocyte differentiation	8	0.89	0.70	9.45	21.07
+GO:1904837	beta-catenin-TCF complex assembly	6	1.00	0.79	9.63	40.42
+GO:0048557	embryonic digestive tract morphogenesis	5	1.00	0.79	9.63	31.26
+GO:0038111	interleukin-7-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0021915	neural tube development	5	1.00	0.79	9.63	33.01
+GO:0033153	T cell receptor V(D)J recombination	3	1.00	0.93	9.63	333.87
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	71.51
+GO:0006882	cellular zinc ion homeostasis	2	1.00	0.92	9.63	329.34
+GO:0097062	dendritic spine maintenance	1	1.00	0.85	9.63	53.71
+GO:0010737	protein kinase A signaling	1	1.00	0.82	9.63	26.43
+GO:0014835	myoblast differentiation involved in skeletal muscle regeneration	1	1.00	0.79	9.63	21.76
+GO:0030538	embryonic genitalia morphogenesis	1	1.00	0.79	9.63	67.05
+GO:1902951	negative regulation of dendritic spine maintenance	1	1.00	0.88	9.63	176.18

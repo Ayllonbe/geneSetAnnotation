@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1243	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	852	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	615	0.24	0.37	3.90	23.93
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0007166	cell surface receptor signaling pathway	493	0.43	0.51	5.91	23.17
+GO:0019538	protein metabolic process	417	0.31	0.41	4.91	44.77
+GO:0050776	regulation of immune response	277	0.38	0.44	5.64	22.45
+GO:0006357	regulation of transcription by RNA polymerase II	267	0.44	0.63	7.11	248.57
+GO:0045055	regulated exocytosis	207	0.69	0.69	8.57	38.47
+GO:0033554	cellular response to stress	194	0.44	0.42	6.05	25.47
+GO:0045087	innate immune response	128	0.68	0.59	8.16	26.47
+GO:0043547	positive regulation of GTPase activity	69	0.93	0.79	9.52	49.34
+GO:0050852	T cell receptor signaling pathway	47	1.00	0.92	9.63	219.43
+GO:0008360	regulation of cell shape	38	0.68	0.66	8.69	41.78
+GO:0046488	phosphatidylinositol metabolic process	29	0.68	0.69	8.80	147.20
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0030316	osteoclast differentiation	12	0.93	0.79	9.51	47.07
+GO:0046580	negative regulation of Ras protein signal transduction	9	0.83	0.81	9.39	288.25
+GO:0002281	macrophage activation involved in immune response	6	0.93	0.79	9.54	81.80
+GO:1904886	beta-catenin destruction complex disassembly	5	1.00	0.79	9.63	38.05
+GO:0048709	oligodendrocyte differentiation	4	0.89	0.74	9.34	23.15
+GO:0014002	astrocyte development	4	0.93	0.76	9.49	34.10
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0050908	detection of light stimulus involved in visual perception	3	1.00	0.85	9.63	116.24
+GO:0014005	microglia development	2	1.00	0.79	9.63	67.64
+GO:0019262	N-acetylneuraminate catabolic process	1	1.00	0.85	9.63	426.13

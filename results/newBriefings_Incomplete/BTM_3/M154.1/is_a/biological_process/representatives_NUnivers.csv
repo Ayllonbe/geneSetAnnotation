@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1298	0.12	0.26	2.47	7.96
+GO:0016043	cellular component organization	603	0.28	0.26	3.74	11.45
+GO:0006139	nucleobase-containing compound metabolic process	396	0.29	0.40	5.40	96.28
+GO:0009967	positive regulation of signal transduction	303	0.44	0.54	6.71	140.23
+GO:0065003	protein-containing complex assembly	212	0.45	0.48	6.06	36.47
+GO:0043312	neutrophil degranulation	168	1.00	0.90	9.63	132.80
+GO:0055085	transmembrane transport	163	0.41	0.46	5.44	10.99
+GO:0050900	leukocyte migration	146	0.60	0.59	8.02	26.94
+GO:0015711	organic anion transport	76	0.43	0.54	6.27	28.20
+GO:0072657	protein localization to membrane	36	0.58	0.58	7.59	29.83
+GO:0006520	cellular amino acid metabolic process	36	0.41	0.53	6.53	77.81
+GO:0032412	regulation of ion transmembrane transporter activity	35	0.54	0.62	7.76	60.98
+GO:0034767	positive regulation of ion transmembrane transport	30	0.57	0.64	7.89	131.86
+GO:0098661	inorganic anion transmembrane transport	22	0.73	0.72	8.98	90.75
+GO:0050806	positive regulation of synaptic transmission	21	0.67	0.69	8.68	101.55
+GO:0035725	sodium ion transmembrane transport	21	0.89	0.82	9.49	113.92
+GO:0050796	regulation of insulin secretion	20	0.83	0.81	9.53	205.48
+GO:0015696	ammonium transport	19	0.59	0.62	7.81	30.14
+GO:0003333	amino acid transmembrane transport	18	0.58	0.68	8.30	195.85
+GO:0071277	cellular response to calcium ion	16	1.00	0.82	9.63	78.50
+GO:0120034	positive regulation of plasma membrane bounded cell projection assembly	15	0.74	0.75	9.08	145.55
+GO:0007589	body fluid secretion	14	0.80	0.69	9.00	24.01
+GO:0006605	protein targeting	12	0.72	0.76	9.18	93.44
+GO:0008643	carbohydrate transport	11	0.55	0.57	6.95	14.73
+GO:0042136	neurotransmitter biosynthetic process	11	0.70	0.64	8.67	62.16
+GO:0090314	positive regulation of protein targeting to membrane	6	0.93	0.88	9.59	497.08
+GO:0048488	synaptic vesicle endocytosis	5	0.89	0.77	9.43	55.01
+GO:0140058	neuron projection arborization	4	0.84	0.80	9.42	64.61
+GO:0071709	membrane assembly	4	0.79	0.64	8.94	37.31
+GO:0060999	positive regulation of dendritic spine development	4	0.93	0.90	9.60	671.85
+GO:0046415	urate metabolic process	4	0.89	0.74	9.49	153.84
+GO:0072531	pyrimidine-containing compound transmembrane transport	3	0.79	0.68	9.18	43.70
+GO:0007269	neurotransmitter secretion	3	0.70	0.73	8.77	61.60
+GO:0015811	L-cystine transport	2	0.93	0.88	9.57	254.96
+GO:0015812	gamma-aminobutyric acid transport	2	0.84	0.82	9.43	135.23
+GO:1900244	positive regulation of synaptic vesicle endocytosis	2	0.93	0.84	9.58	265.90
+GO:1990573	potassium ion import across plasma membrane	2	1.00	0.93	9.63	262.95
+GO:0015851	nucleobase transport	2	0.72	0.65	8.78	29.45
+GO:0009313	oligosaccharide catabolic process	2	0.68	0.63	8.46	68.60
+GO:0051937	catecholamine transport	2	0.71	0.68	9.00	48.89
+GO:2000302	positive regulation of synaptic vesicle exocytosis	1	0.83	0.85	9.53	1061.77
+GO:0010841	positive regulation of circadian sleep/wake cycle, wakefulness	1	1.00	0.82	9.63	109.56
+GO:1901642	nucleoside transmembrane transport	1	0.93	0.82	9.53	64.93
+GO:1905520	positive regulation of presynaptic active zone assembly	1	1.00	0.90	9.63	390.91
+GO:0098942	retrograde trans-synaptic signaling by trans-synaptic protein complex	1	1.00	0.85	9.63	46.63
+GO:2000809	positive regulation of synaptic vesicle clustering	1	1.00	0.85	9.63	59.69
+GO:0015760	glucose-6-phosphate transport	1	1.00	0.85	9.63	35.11
+GO:0061002	negative regulation of dendritic spine morphogenesis	1	1.00	0.95	9.63	1979.51
+GO:0002087	regulation of respiratory gaseous exchange by neurological system process	1	1.00	0.82	9.63	40.36
+GO:1902474	positive regulation of protein localization to synapse	1	0.93	0.79	9.49	25.48

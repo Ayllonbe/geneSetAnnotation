@@ -1,0 +1,79 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	987	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	932	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	621	0.16	0.21	2.71	13.80
+GO:0048583	regulation of response to stimulus	522	0.25	0.32	3.72	7.96
+GO:0016043	cellular component organization	432	0.28	0.26	3.74	11.45
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	45	0.52	0.58	7.50	27.23
+GO:0051239	regulation of multicellular organismal process	339	0.23	0.32	3.68	7.96
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	45	0.52	0.58	7.50	27.23
+GO:0051239	regulation of multicellular organismal process	339	0.23	0.32	3.68	7.96
+GO:0006950	response to stress	290	0.39	0.32	4.70	6.14
+GO:0048869	cellular developmental process	282	0.32	0.29	4.16	13.85
+GO:0048869	cellular developmental process	282	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	263	0.40	0.60	6.84	245.35
+GO:0045471	response to ethanol	13	0.93	0.76	9.52	69.73
+GO:0070887	cellular response to chemical stimulus	226	0.40	0.40	5.31	25.21
+GO:0006464	cellular protein modification process	217	0.34	0.49	5.84	147.03
+GO:0045937	positive regulation of phosphate metabolic process	159	0.51	0.60	7.47	145.91
+GO:0031399	regulation of protein modification process	206	0.41	0.56	6.69	72.96
+GO:0042981	regulation of apoptotic process	173	0.45	0.55	6.60	16.23
+GO:2000145	regulation of cell motility	149	0.47	0.52	6.88	34.54
+GO:0019221	cytokine-mediated signaling pathway	144	0.60	0.63	7.60	26.50
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80
+GO:0050900	leukocyte migration	119	0.60	0.59	8.02	26.94
+GO:0046649	lymphocyte activation	71	0.55	0.52	7.16	18.06
+GO:0048468	cell development	59	0.51	0.45	6.51	28.42
+GO:0009615	response to virus	48	0.74	0.66	8.80	27.27
+GO:0050852	T cell receptor signaling pathway	44	1.00	0.92	9.63	219.43
+GO:0022900	electron transport chain	40	0.71	0.61	8.48	29.76
+GO:0010975	regulation of neuron projection development	37	0.57	0.66	8.40	84.29
+GO:0007264	small GTPase mediated signal transduction	37	0.74	0.69	8.74	26.43
+GO:0050804	modulation of chemical synaptic transmission	31	0.52	0.58	7.24	27.32
+GO:0050853	B cell receptor signaling pathway	25	0.93	0.88	9.58	219.43
+GO:0051099	positive regulation of binding	24	0.61	0.55	7.48	18.40
+GO:0006518	peptide metabolic process	20	0.56	0.57	7.65	56.97
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	19	0.62	0.56	7.74	16.14
+GO:0008584	male gonad development	16	1.00	0.79	9.63	50.96
+GO:0001649	osteoblast differentiation	15	1.00	0.75	9.63	21.07
+GO:0007517	muscle organ development	12	0.78	0.64	8.75	27.68
+GO:0034644	cellular response to UV	12	0.80	0.75	9.22	66.19
+GO:0048863	stem cell differentiation	11	0.70	0.60	8.24	21.07
+GO:0001701	in utero embryonic development	11	1.00	0.85	9.63	22.50
+GO:0030182	neuron differentiation	9	0.58	0.54	7.21	21.07
+GO:0030218	erythrocyte differentiation	8	0.84	0.71	9.12	22.68
+GO:0035914	skeletal muscle cell differentiation	8	0.87	0.68	9.29	21.07
+GO:0048666	neuron development	8	0.67	0.58	8.09	32.15
+GO:0060562	epithelial tube morphogenesis	8	0.63	0.61	7.92	30.01
+GO:0001782	B cell homeostasis	7	0.93	0.82	9.51	22.00
+GO:0031581	hemidesmosome assembly	6	1.00	0.82	9.63	36.80
+GO:0070207	protein homotrimerization	6	1.00	0.85	9.63	85.45
+GO:0060065	uterus development	5	1.00	0.75	9.63	49.87
+GO:0060536	cartilage morphogenesis	5	0.84	0.67	9.16	27.73
+GO:0002062	chondrocyte differentiation	5	0.89	0.70	9.45	21.07
+GO:0060998	regulation of dendritic spine development	5	0.83	0.83	9.52	87.63
+GO:0030220	platelet formation	4	1.00	0.79	9.63	33.80
+GO:0048538	thymus development	4	1.00	0.79	9.63	35.89
+GO:0030318	melanocyte differentiation	3	0.89	0.74	9.34	22.86
+GO:0031929	TOR signaling	3	0.87	0.76	9.38	26.43
+GO:0002076	osteoblast development	3	1.00	0.75	9.63	32.15
+GO:0048667	cell morphogenesis involved in neuron differentiation	3	0.81	0.73	9.22	47.45
+GO:0048701	embryonic cranial skeleton morphogenesis	3	1.00	0.82	9.63	46.18
+GO:0051145	smooth muscle cell differentiation	3	0.78	0.68	8.86	21.76
+GO:0014902	myotube differentiation	3	0.87	0.76	9.38	22.45
+GO:0060231	mesenchymal to epithelial transition	3	0.83	0.70	9.34	24.20
+GO:0001947	heart looping	3	1.00	0.85	9.63	47.98
+GO:0035162	embryonic hemopoiesis	3	0.93	0.79	9.49	36.11
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0030224	monocyte differentiation	2	1.00	0.82	9.63	69.53
+GO:0055012	ventricular cardiac muscle cell differentiation	2	1.00	0.85	9.63	47.30
+GO:0060374	mast cell differentiation	2	1.00	0.82	9.63	47.07
+GO:0072643	interferon-gamma secretion	2	1.00	0.92	9.63	137.07
+GO:0010918	positive regulation of mitochondrial membrane potential	2	1.00	0.79	9.63	24.66
+GO:0061290	canonical Wnt signaling pathway involved in metanephric kidney development	2	0.93	0.86	9.57	106.74
+GO:0014065	phosphatidylinositol 3-kinase signaling	2	1.00	0.88	9.63	26.43
+GO:0072160	nephron tubule epithelial cell differentiation	1	0.87	0.76	9.31	49.62
+GO:0071599	otic vesicle development	1	1.00	0.79	9.63	62.40
+GO:0072602	interleukin-4 secretion	1	1.00	0.92	9.63	137.07
+GO:0002572	pro-T cell differentiation	1	1.00	0.82	9.63	23.26
+GO:0035898	parathyroid hormone secretion	1	1.00	0.90	9.63	52.62

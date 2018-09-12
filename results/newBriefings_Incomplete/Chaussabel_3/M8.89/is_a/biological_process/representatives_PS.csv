@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	573	0.00	0.00	0.00	0.00
+GO:0043900	regulation of multi-organism process	17	0.40	0.40	5.32	7.96
+GO:0050794	regulation of cellular process	372	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	45	0.32	0.36	4.60	7.96
+GO:0006333	chromatin assembly or disassembly	4	0.70	0.60	8.29	17.51
+GO:0009972	cytidine deamination	1	1.00	0.93	9.63	2918.46
+GO:0044237	cellular metabolic process	358	0.16	0.21	2.71	13.80
+GO:0008584	male gonad development	5	1.00	0.79	9.63	50.96
+GO:0048704	embryonic skeletal system morphogenesis	3	0.87	0.72	9.38	45.49
+GO:0051290	protein heterotetramerization	2	1.00	0.85	9.63	85.45
+GO:0060218	hematopoietic stem cell differentiation	1	1.00	0.79	9.63	45.53
+GO:0048539	bone marrow development	1	1.00	0.79	9.63	32.52

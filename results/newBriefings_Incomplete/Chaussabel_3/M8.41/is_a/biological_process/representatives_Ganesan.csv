@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2197	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	1983	0.16	0.21	2.71	13.80
+GO:0016070	RNA metabolic process	763	0.39	0.52	6.45	112.25
+GO:1901564	organonitrogen compound metabolic process	1178	0.23	0.31	3.63	19.40
+GO:0060255	regulation of macromolecule metabolic process	1380	0.26	0.38	4.09	10.74
+GO:0016043	cellular component organization	1031	0.28	0.26	3.74	11.45
+GO:0008104	protein localization	455	0.40	0.40	5.07	7.46
+GO:0010033	response to organic substance	448	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	416	0.52	0.51	6.57	10.99
+GO:0046620	regulation of organ growth	15	0.70	0.64	8.74	36.78
+GO:2000026	regulation of multicellular organismal development	399	0.29	0.39	4.73	23.09
+GO:0007219	Notch signaling pathway	22	0.78	0.71	8.87	26.50
+GO:0051726	regulation of cell cycle	278	0.41	0.45	5.89	12.04
+GO:0048856	anatomical structure development	280	0.33	0.29	3.70	6.46
+GO:0006811	ion transport	225	0.38	0.44	5.19	10.99
+GO:0034765	regulation of ion transmembrane transport	87	0.46	0.55	6.68	33.04
+GO:0007268	chemical synaptic transmission	37	0.74	0.72	8.66	23.17
+GO:0050880	regulation of blood vessel size	29	0.63	0.61	8.30	24.53
+GO:0070098	chemokine-mediated signaling pathway	24	0.73	0.72	9.00	30.19
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	18	0.83	0.79	9.19	31.00
+GO:0007080	mitotic metaphase plate congression	15	1.00	0.85	9.63	61.63
+GO:0048017	inositol lipid-mediated signaling	15	0.89	0.77	9.49	26.43
+GO:0047496	vesicle transport along microtubule	13	0.79	0.77	9.37	173.01
+GO:0001657	ureteric bud development	10	1.00	0.88	9.63	36.92
+GO:0001756	somitogenesis	9	1.00	0.79	9.63	43.80
+GO:0014032	neural crest cell development	9	0.89	0.74	9.51	65.00
+GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
+GO:0047497	mitochondrion transport along microtubule	7	0.81	0.78	9.45	156.38
+GO:0008354	germ cell migration	4	0.93	0.76	9.51	40.54
+GO:0035050	embryonic heart tube development	3	1.00	0.79	9.63	33.01
+GO:0038084	vascular endothelial growth factor signaling pathway	3	0.78	0.76	9.12	31.00
+GO:1904798	positive regulation of core promoter binding	2	1.00	0.85	9.63	62.60
+GO:0072010	glomerular epithelium development	1	0.84	0.77	9.38	21.87
+GO:1990049	retrograde neuronal dense core vesicle transport	1	1.00	0.92	9.63	423.65

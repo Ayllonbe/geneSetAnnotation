@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	3876	0.08	0.04	0.98	3.37
+GO:0002376	immune system process	793	0.38	0.19	3.93	3.37
+GO:0051345	positive regulation of hydrolase activity	286	0.57	0.57	7.42	32.99
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	8	1.00	0.95	9.63	2977.47
+GO:0030334	regulation of cell migration	298	0.48	0.56	7.11	36.74
+GO:0050789	regulation of biological process	3738	0.09	0.17	1.80	4.47
+GO:0110032	positive regulation of G2/MI transition of meiotic cell cycle	3	1.00	0.90	9.63	414.48
+GO:0051345	positive regulation of hydrolase activity	286	0.57	0.57	7.42	32.99
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	8	1.00	0.95	9.63	2977.47
+GO:0030334	regulation of cell migration	298	0.48	0.56	7.11	36.74
+GO:0050789	regulation of biological process	3738	0.09	0.17	1.80	4.47
+GO:0110032	positive regulation of G2/MI transition of meiotic cell cycle	3	1.00	0.90	9.63	414.48
+GO:0008152	metabolic process	3502	0.15	0.07	1.52	3.37
+GO:0016043	cellular component organization	1706	0.28	0.26	3.74	11.45
+GO:0051402	neuron apoptotic process	21	0.83	0.70	9.02	23.44
+GO:0045141	meiotic telomere clustering	4	0.93	0.82	9.58	114.35
+GO:0000054	ribosomal subunit export from nucleus	6	0.89	0.89	9.57	268.61
+GO:0006810	transport	1454	0.28	0.34	3.95	7.46
+GO:0009628	response to abiotic stimulus	296	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	829	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	950	0.39	0.32	4.70	6.14
+GO:0048869	cellular developmental process	752	0.32	0.29	4.16	13.85
+GO:0065003	protein-containing complex assembly	634	0.45	0.48	6.06	36.47
+GO:0048856	anatomical structure development	440	0.33	0.29	3.70	6.46
+GO:0032501	multicellular organismal process	397	0.33	0.16	3.12	3.37
+GO:0003006	developmental process involved in reproduction	176	0.43	0.34	5.07	14.49
+GO:0051260	protein homooligomerization	117	0.89	0.77	9.41	42.03
+GO:0000086	G2/M transition of mitotic cell cycle	65	1.00	0.79	9.63	43.45
+GO:0006415	translational termination	64	0.89	0.77	9.41	39.99
+GO:0050852	T cell receptor signaling pathway	56	1.00	0.92	9.63	219.43
+GO:0046718	viral entry into host cell	38	0.77	0.73	8.94	28.37
+GO:0097711	ciliary basal body-plasma membrane docking	36	1.00	0.79	9.63	21.39
+GO:0007179	transforming growth factor beta receptor signaling pathway	31	0.76	0.75	9.05	29.90
+GO:0048013	ephrin receptor signaling pathway	31	1.00	0.88	9.63	31.00
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	31	0.83	0.79	9.19	31.00
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	26	1.00	0.93	9.63	628.11
+GO:0007173	epidermal growth factor receptor signaling pathway	23	0.78	0.78	9.04	32.39
+GO:0048538	thymus development	16	1.00	0.79	9.63	35.89
+GO:0000245	spliceosomal complex assembly	14	0.93	0.82	9.53	66.60
+GO:0001657	ureteric bud development	14	1.00	0.88	9.63	36.92
+GO:0007094	mitotic spindle assembly checkpoint	14	1.00	0.96	9.63	1801.80
+GO:0007616	long-term memory	9	1.00	0.85	9.63	22.23
+GO:0007143	female meiotic nuclear division	6	0.89	0.80	9.47	65.97
+GO:0001188	RNA polymerase I transcriptional preinitiation complex assembly	5	1.00	0.88	9.63	67.29
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	2	1.00	0.82	9.63	71.51
+GO:0000493	box H/ACA snoRNP assembly	1	1.00	0.88	9.63	67.29

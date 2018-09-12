@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	3123	0.16	0.21	2.71	13.80
+GO:0016043	cellular component organization	1598	0.28	0.26	3.74	11.45
+GO:0016043	cellular component organization	1598	0.28	0.26	3.74	11.45
+GO:0051179	localization	1560	0.26	0.13	2.57	3.37
+GO:0019538	protein metabolic process	1428	0.31	0.41	4.91	44.77
+GO:0002943	tRNA dihydrouridine synthesis	2	1.00	0.93	9.63	494.29
+GO:0048583	regulation of response to stimulus	1349	0.25	0.32	3.72	7.96
+GO:0045815	positive regulation of gene expression, epigenetic	24	0.78	0.74	9.08	79.85
+GO:0006355	regulation of transcription, DNA-templated	1276	0.40	0.60	6.84	245.35
+GO:0065009	regulation of molecular function	1002	0.33	0.29	4.10	4.47
+GO:0032774	RNA biosynthetic process	894	0.53	0.62	8.04	473.34
+GO:0065008	regulation of biological quality	888	0.28	0.26	3.48	4.47
+GO:0032879	regulation of localization	856	0.27	0.33	4.05	7.96
+GO:0042221	response to chemical	783	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	744	0.43	0.51	5.91	23.17
+GO:0051093	negative regulation of developmental process	283	0.37	0.44	5.25	23.19
+GO:2000026	regulation of multicellular organismal development	597	0.29	0.39	4.73	23.09
+GO:0035556	intracellular signal transduction	579	0.51	0.55	6.92	23.17
+GO:0001932	regulation of protein phosphorylation	484	0.50	0.62	7.64	109.03
+GO:0030154	cell differentiation	446	0.39	0.39	5.18	16.68
+GO:0048856	anatomical structure development	412	0.33	0.29	3.70	6.46
+GO:0009653	anatomical structure morphogenesis	261	0.36	0.31	4.09	6.46
+GO:0007186	G-protein coupled receptor signaling pathway	218	0.55	0.57	7.20	23.17
+GO:0006518	peptide metabolic process	134	0.56	0.57	7.65	56.97
+GO:0030522	intracellular receptor signaling pathway	61	0.65	0.62	7.99	23.17
+GO:0050680	negative regulation of epithelial cell proliferation	50	0.73	0.69	8.69	65.20
+GO:0043401	steroid hormone mediated signaling pathway	49	0.75	0.70	8.80	25.74
+GO:0045540	regulation of cholesterol biosynthetic process	22	0.89	0.84	9.49	116.99
+GO:0051782	negative regulation of cell division	9	0.68	0.63	8.40	42.45
+GO:0009437	carnitine metabolic process	7	0.87	0.72	9.37	68.67
+GO:0045200	establishment of neuroblast polarity	2	1.00	0.75	9.63	22.65
+GO:0021997	neural plate axis specification	1	1.00	0.79	9.63	26.38

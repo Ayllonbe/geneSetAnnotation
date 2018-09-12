@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	541	0.35	0.46	5.09	13.73
+GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
+GO:0016071	mRNA metabolic process	39	0.59	0.65	8.39	115.08
+GO:0046822	regulation of nucleocytoplasmic transport	29	0.65	0.65	8.53	30.75
+GO:0050830	defense response to Gram-positive bacterium	23	1.00	0.85	9.63	71.44
+GO:0034504	protein localization to nucleus	22	0.72	0.68	8.76	32.77
+GO:0006406	mRNA export from nucleus	20	0.89	0.84	9.52	121.36
+GO:0006605	protein targeting	18	0.72	0.76	9.18	93.44
+GO:0000398	mRNA splicing, via spliceosome	18	0.83	0.85	9.49	356.67
+GO:0022008	neurogenesis	12	0.87	0.68	9.29	21.07
+GO:0008543	fibroblast growth factor receptor signaling pathway	11	0.71	0.73	8.57	31.00
+GO:0007080	mitotic metaphase plate congression	10	1.00	0.85	9.63	61.63
+GO:0006611	protein export from nucleus	10	0.75	0.77	9.28	128.44
+GO:0006368	transcription elongation from RNA polymerase II promoter	10	1.00	0.90	9.63	477.15
+GO:0042795	snRNA transcription by RNA polymerase II	9	1.00	0.95	9.63	1410.65
+GO:0006370	7-methylguanosine mRNA capping	8	1.00	0.92	9.63	354.47
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	7	0.89	0.70	9.29	27.92
+GO:0006369	termination of RNA polymerase II transcription	7	0.89	0.84	9.55	477.15
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0034198	cellular response to amino acid starvation	7	0.87	0.78	9.45	115.90
+GO:0070208	protein heterotrimerization	6	1.00	0.85	9.63	85.45
+GO:0034629	cellular protein-containing complex localization	6	0.70	0.64	8.62	38.21
+GO:0021915	neural tube development	5	1.00	0.79	9.63	33.01
+GO:0051290	protein heterotetramerization	4	1.00	0.85	9.63	85.45
+GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	3	0.93	0.76	9.47	21.24
+GO:0048339	paraxial mesoderm development	3	1.00	0.79	9.63	34.04
+GO:1904263	positive regulation of TORC1 signaling	2	1.00	0.90	9.63	286.95
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0008585	female gonad development	2	1.00	0.79	9.63	50.96
+GO:0033260	nuclear DNA replication	2	0.87	0.85	9.55	268.93
+GO:0006408	snRNA export from nucleus	1	1.00	0.92	9.63	123.44
+GO:0098789	pre-mRNA cleavage required for polyadenylation	1	1.00	0.92	9.63	348.70

@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	705	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	267	0.33	0.45	5.35	37.59
+GO:0010556	regulation of macromolecule biosynthetic process	239	0.33	0.46	5.12	27.30
+GO:0006139	nucleobase-containing compound metabolic process	188	0.29	0.40	5.40	96.28
+GO:0051240	positive regulation of multicellular organismal process	168	0.35	0.42	4.98	23.60
+GO:0071310	cellular response to organic substance	162	0.44	0.47	5.95	41.66
+GO:0044267	cellular protein metabolic process	145	0.34	0.46	5.57	80.87
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0030154	cell differentiation	144	0.39	0.39	5.18	16.68
+GO:0001932	regulation of protein phosphorylation	142	0.50	0.62	7.64	109.03
+GO:0043312	neutrophil degranulation	115	1.00	0.90	9.63	132.80
+GO:0051241	negative regulation of multicellular organismal process	98	0.35	0.42	4.99	23.69
+GO:0030335	positive regulation of cell migration	77	0.58	0.64	8.22	157.26
+GO:0009653	anatomical structure morphogenesis	67	0.36	0.31	4.09	6.46
+GO:0048513	animal organ development	47	0.50	0.45	5.88	11.73
+GO:0048754	branching morphogenesis of an epithelial tube	11	0.74	0.69	8.88	51.71
+GO:0070301	cellular response to hydrogen peroxide	8	1.00	0.82	9.63	361.03
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0042572	retinol metabolic process	3	1.00	0.90	9.63	118.01
+GO:0070327	thyroid hormone transport	1	1.00	0.79	9.63	23.79

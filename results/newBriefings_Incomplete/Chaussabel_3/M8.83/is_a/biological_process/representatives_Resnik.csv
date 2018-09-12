@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	598	0.09	0.17	1.80	4.47
+GO:0006357	regulation of transcription by RNA polymerase II	157	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	155	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	148	0.33	0.45	5.35	37.59
+GO:0002376	immune system process	127	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	119	0.43	0.51	5.91	23.17
+GO:0051049	regulation of transport	113	0.31	0.40	4.67	10.45
+GO:0065003	protein-containing complex assembly	108	0.45	0.48	6.06	36.47
+GO:0035556	intracellular signal transduction	107	0.51	0.55	6.92	23.17
+GO:0045948	positive regulation of translational initiation	3	0.76	0.78	9.39	1253.37
+GO:0042325	regulation of phosphorylation	77	0.47	0.59	6.88	31.28
+GO:0045948	positive regulation of translational initiation	3	0.76	0.78	9.39	1253.37
+GO:0042325	regulation of phosphorylation	77	0.47	0.59	6.88	31.28
+GO:0071310	cellular response to organic substance	69	0.44	0.47	5.95	41.66
+GO:0051345	positive regulation of hydrolase activity	50	0.57	0.57	7.42	32.99
+GO:0008284	positive regulation of cell proliferation	49	0.56	0.57	7.27	43.45
+GO:0006887	exocytosis	49	0.67	0.66	8.38	37.08
+GO:0007186	G-protein coupled receptor signaling pathway	34	0.55	0.57	7.20	23.17
+GO:0009615	response to virus	19	0.74	0.66	8.80	27.27
+GO:0022409	positive regulation of cell-cell adhesion	17	0.59	0.59	7.66	36.23
+GO:0050792	regulation of viral process	15	0.60	0.59	7.74	14.20
+GO:0006874	cellular calcium ion homeostasis	13	0.63	0.71	8.83	287.08
+GO:0006816	calcium ion transport	6	0.67	0.71	8.69	35.67
+GO:0032729	positive regulation of interferon-gamma production	6	0.89	0.77	9.43	65.24
+GO:2000106	regulation of leukocyte apoptotic process	5	0.61	0.66	8.08	19.32

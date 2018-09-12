@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	966	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	386	0.33	0.45	5.35	37.59
+GO:0051240	positive regulation of multicellular organismal process	236	0.35	0.42	4.98	23.60
+GO:0051049	regulation of transport	229	0.31	0.40	4.67	10.45
+GO:0046903	secretion	223	0.46	0.48	5.79	10.99
+GO:0006357	regulation of transcription by RNA polymerase II	193	0.44	0.63	7.11	248.57
+GO:0001934	positive regulation of protein phosphorylation	150	0.58	0.69	8.60	663.11
+GO:0006629	lipid metabolic process	104	0.37	0.38	5.19	18.42
+GO:0006875	cellular metal ion homeostasis	94	0.59	0.67	8.36	105.84
+GO:0043087	regulation of GTPase activity	59	0.87	0.72	9.29	12.47
+GO:0006366	transcription by RNA polymerase II	53	0.60	0.72	8.61	583.88
+GO:0030036	actin cytoskeleton organization	43	0.63	0.61	8.05	29.61
+GO:0032102	negative regulation of response to external stimulus	40	0.51	0.55	6.94	42.31
+GO:0009150	purine ribonucleotide metabolic process	37	0.55	0.67	8.37	538.25
+GO:0016055	Wnt signaling pathway	29	0.59	0.65	7.65	28.58
+GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	16	0.78	0.78	9.25	56.87
+GO:0045471	response to ethanol	14	0.93	0.76	9.52	69.73
+GO:0022008	neurogenesis	11	0.87	0.68	9.29	21.07
+GO:0007218	neuropeptide signaling pathway	9	0.93	0.79	9.49	26.98
+GO:0097755	positive regulation of blood vessel diameter	8	0.75	0.73	9.07	39.68
+GO:0030326	embryonic limb morphogenesis	8	0.89	0.74	9.38	43.31
+GO:0071385	cellular response to glucocorticoid stimulus	6	0.84	0.80	9.45	407.30
+GO:0007565	female pregnancy	6	1.00	0.70	9.63	32.81
+GO:0051968	positive regulation of synaptic transmission, glutamatergic	5	0.89	0.82	9.56	135.83
+GO:0090277	positive regulation of peptide hormone secretion	5	0.75	0.77	9.29	444.53
+GO:0001662	behavioral fear response	4	1.00	0.79	9.63	37.89
+GO:0001541	ovarian follicle development	3	1.00	0.75	9.63	34.61
+GO:0070445	regulation of oligodendrocyte progenitor proliferation	3	0.89	0.82	9.49	81.50
+GO:0051205	protein insertion into membrane	2	0.74	0.72	9.08	54.50
+GO:0048715	negative regulation of oligodendrocyte differentiation	2	1.00	0.92	9.63	472.52
+GO:0030073	insulin secretion	2	0.93	0.86	9.59	236.68
+GO:0006825	copper ion transport	2	0.77	0.76	9.07	19.76
+GO:0021520	spinal cord motor neuron cell fate specification	1	1.00	0.79	9.63	21.52

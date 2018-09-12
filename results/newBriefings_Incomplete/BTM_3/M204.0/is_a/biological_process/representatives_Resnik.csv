@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	261	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	480	0.21	0.30	3.05	7.96
+GO:0044237	cellular metabolic process	397	0.16	0.21	2.71	13.80
+GO:0002376	immune system process	320	0.38	0.19	3.93	3.37
+GO:0048869	cellular developmental process	204	0.32	0.29	4.16	13.85
+GO:0002684	positive regulation of immune system process	170	0.41	0.45	5.71	22.61
+GO:0006357	regulation of transcription by RNA polymerase II	131	0.44	0.63	7.11	248.57
+GO:0065003	protein-containing complex assembly	99	0.45	0.48	6.06	36.47
+GO:0043066	negative regulation of apoptotic process	85	0.56	0.63	7.79	81.07
+GO:0051345	positive regulation of hydrolase activity	71	0.57	0.57	7.42	32.99
+GO:0001819	positive regulation of cytokine production	62	0.51	0.54	6.97	44.26
+GO:0006508	proteolysis	45	0.55	0.57	7.34	47.86
+GO:0009615	response to virus	38	0.74	0.66	8.80	27.27
+GO:2000573	positive regulation of DNA biosynthetic process	13	0.80	0.77	9.43	748.29
+GO:0051604	protein maturation	11	0.59	0.59	7.61	47.86
+GO:0031100	animal organ regeneration	10	0.89	0.70	9.29	28.09
+GO:0043687	post-translational protein modification	10	0.65	0.67	8.51	151.15
+GO:0000209	protein polyubiquitination	5	0.77	0.80	9.22	155.40
+GO:0000154	rRNA modification	2	0.74	0.79	9.32	491.63
+GO:0051084	'de novo' posttranslational protein folding	2	0.89	0.70	9.22	9.88
+GO:0006986	response to unfolded protein	2	0.87	0.72	9.34	23.96
+GO:0045041	protein import into mitochondrial intermembrane space	1	1.00	0.92	9.63	478.65
+GO:0006264	mitochondrial DNA replication	1	1.00	0.90	9.63	406.93

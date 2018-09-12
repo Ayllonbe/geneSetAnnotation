@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	665	0.23	0.31	3.63	19.40
+GO:0010468	regulation of gene expression	562	0.35	0.46	5.09	13.73
+GO:0002684	positive regulation of immune system process	357	0.41	0.45	5.71	22.61
+GO:0009967	positive regulation of signal transduction	334	0.44	0.54	6.71	140.23
+GO:0045595	regulation of cell differentiation	331	0.34	0.42	5.25	23.33
+GO:0042981	regulation of apoptotic process	304	0.45	0.55	6.60	16.23
+GO:0032774	RNA biosynthetic process	246	0.53	0.62	8.04	473.34
+GO:0006952	defense response	238	0.56	0.48	6.67	9.54
+GO:0065003	protein-containing complex assembly	230	0.45	0.48	6.06	36.47
+GO:0051050	positive regulation of transport	216	0.42	0.50	5.84	25.90
+GO:0001934	positive regulation of protein phosphorylation	214	0.58	0.69	8.60	663.11
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0033993	response to lipid	206	0.53	0.51	6.86	13.32
+GO:0014070	response to organic cyclic compound	164	0.45	0.47	5.96	13.32
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0001819	positive regulation of cytokine production	148	0.51	0.54	6.97	44.26
+GO:0006259	DNA metabolic process	120	0.45	0.55	7.12	145.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:1901565	organonitrogen compound catabolic process	108	0.39	0.45	5.67	46.28
+GO:0035295	tube development	23	0.56	0.48	6.60	11.73
+GO:0048513	animal organ development	106	0.50	0.45	5.88	11.73
+GO:0032989	cellular component morphogenesis	95	0.56	0.48	7.27	42.57
+GO:0097190	apoptotic signaling pathway	67	0.70	0.64	8.53	23.17
+GO:0030217	T cell differentiation	49	0.66	0.65	8.68	65.05
+GO:0051701	interaction with host	39	0.38	0.39	5.05	8.50
+GO:0030308	negative regulation of cell growth	32	0.69	0.67	8.67	80.89
+GO:0007050	cell cycle arrest	23	0.81	0.73	9.29	55.62
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0022008	neurogenesis	13	0.87	0.68	9.29	21.07
+GO:0032507	maintenance of protein location in cell	11	0.68	0.63	8.41	43.86
+GO:0050860	negative regulation of T cell receptor signaling pathway	10	0.93	0.84	9.58	309.62
+GO:0048538	thymus development	8	1.00	0.79	9.63	35.89
+GO:0043967	histone H4 acetylation	7	0.83	0.86	9.46	659.45
+GO:0045739	positive regulation of DNA repair	7	0.77	0.76	9.36	499.62
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:0035723	interleukin-15-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:0046598	positive regulation of viral entry into host cell	4	0.93	0.84	9.55	85.02
+GO:0045879	negative regulation of smoothened signaling pathway	3	0.87	0.78	9.45	188.11
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0021773	striatal medium spiny neuron differentiation	3	1.00	0.85	9.63	28.52
+GO:0031077	post-embryonic camera-type eye development	3	1.00	0.85	9.63	36.78
+GO:0003334	keratinocyte development	3	1.00	0.79	9.63	34.35
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus	2	1.00	0.82	9.63	81.65
+GO:0021902	commitment of neuronal cell to specific neuron type in forebrain	2	1.00	0.82	9.63	23.24
+GO:0002001	renin secretion into blood stream	2	1.00	0.90	9.63	133.33
+GO:0034395	regulation of transcription from RNA polymerase II promoter in response to iron	2	0.89	0.88	9.53	252.65
+GO:0002669	positive regulation of T cell anergy	1	1.00	0.88	9.63	417.44
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31
+GO:0050760	negative regulation of thymidylate synthase biosynthetic process	1	1.00	0.85	9.63	323.45
+GO:0035397	helper T cell enhancement of adaptive immune response	1	0.89	0.82	9.49	141.16

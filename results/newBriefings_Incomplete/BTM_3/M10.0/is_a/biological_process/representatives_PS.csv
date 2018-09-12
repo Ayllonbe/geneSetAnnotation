@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0042769	DNA damage response, detection of DNA damage	2	0.79	0.68	9.14	39.84
+GO:0006699	bile acid biosynthetic process	1	1.00	0.88	9.63	493.35
+GO:0044237	cellular metabolic process	34	0.16	0.21	2.71	13.80
+GO:0051895	negative regulation of focal adhesion assembly	1	1.00	0.88	9.63	270.76
+GO:0044093	positive regulation of molecular function	8	0.43	0.41	5.23	6.77
+GO:0045835	negative regulation of meiotic nuclear division	1	0.72	0.74	9.27	325.60
+GO:0050789	regulation of biological process	29	0.09	0.17	1.80	4.47
+GO:0051895	negative regulation of focal adhesion assembly	1	1.00	0.88	9.63	270.76
+GO:0044093	positive regulation of molecular function	8	0.43	0.41	5.23	6.77
+GO:0045835	negative regulation of meiotic nuclear division	1	0.72	0.74	9.27	325.60
+GO:0050789	regulation of biological process	29	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	19	0.25	0.12	2.65	3.37
+GO:0000082	G1/S transition of mitotic cell cycle	12	1.00	0.79	9.63	42.75
+GO:0065003	protein-containing complex assembly	10	0.45	0.48	6.06	36.47
+GO:0048869	cellular developmental process	8	0.32	0.29	4.16	13.85
+GO:0034728	nucleosome organization	4	0.71	0.65	8.68	36.42
+GO:0000226	microtubule cytoskeleton organization	4	0.58	0.58	7.66	30.31
+GO:0000086	G2/M transition of mitotic cell cycle	5	1.00	0.79	9.63	43.45
+GO:0006268	DNA unwinding involved in DNA replication	5	0.83	0.79	9.34	24.42
+GO:0051641	cellular localization	5	0.37	0.31	4.44	5.67
+GO:0097421	liver regeneration	2	1.00	0.82	9.63	47.22
+GO:0030855	epithelial cell differentiation	2	0.55	0.52	6.96	21.07
+GO:0000281	mitotic cytokinesis	2	0.93	0.76	9.47	28.62
+GO:0030041	actin filament polymerization	1	0.93	0.82	9.55	66.56
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0035986	senescence-associated heterochromatin focus assembly	1	1.00	0.85	9.63	78.57
+GO:0060718	chorionic trophoblast cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0015918	sterol transport	1	0.74	0.69	8.80	36.24
+GO:0071163	DNA replication preinitiation complex assembly	1	0.87	0.78	9.39	77.23
+GO:0000707	meiotic DNA recombinase assembly	1	0.83	0.79	9.41	133.96
+GO:0048041	focal adhesion assembly	1	1.00	0.88	9.63	92.53
+GO:0016055	Wnt signaling pathway	1	0.59	0.65	7.65	28.58
+GO:0048821	erythrocyte development	1	0.89	0.74	9.38	33.54
+GO:0070192	chromosome organization involved in meiotic cell cycle	1	0.70	0.64	8.57	44.79
+GO:0001890	placenta development	1	1.00	0.75	9.63	49.87
+GO:0048012	hepatocyte growth factor receptor signaling pathway	1	1.00	0.88	9.63	31.00
+GO:0007266	Rho protein signal transduction	1	0.93	0.84	9.52	29.61
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	1	0.87	0.78	9.52	52.93
+GO:0051260	protein homooligomerization	1	0.89	0.77	9.41	42.03

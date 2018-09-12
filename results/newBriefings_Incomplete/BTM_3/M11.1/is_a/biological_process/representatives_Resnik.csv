@@ -1,0 +1,119 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032268	regulation of cellular protein metabolic process	394	0.37	0.51	6.13	70.76
+GO:0050776	regulation of immune response	310	0.38	0.44	5.64	22.45
+GO:0050776	regulation of immune response	310	0.38	0.44	5.64	22.45
+GO:0001101	response to acid chemical	72	0.51	0.45	6.31	9.28
+GO:0010033	response to organic substance	412	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	302	0.39	0.39	5.14	9.28
+GO:0071310	cellular response to organic substance	292	0.44	0.47	5.95	41.66
+GO:0035556	intracellular signal transduction	287	0.51	0.55	6.92	23.17
+GO:0010628	positive regulation of gene expression	286	0.47	0.56	6.67	58.80
+GO:0071702	organic substance transport	237	0.33	0.41	4.62	10.99
+GO:0019221	cytokine-mediated signaling pathway	217	0.60	0.63	7.60	26.50
+GO:0065003	protein-containing complex assembly	215	0.45	0.48	6.06	36.47
+GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	196	0.56	0.63	7.79	81.07
+GO:0002274	myeloid leukocyte activation	195	0.68	0.59	8.67	18.06
+GO:0043408	regulation of MAPK cascade	152	0.60	0.70	8.65	157.04
+GO:0045087	innate immune response	149	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	148	0.60	0.59	8.02	26.94
+GO:0050707	regulation of cytokine secretion	63	0.59	0.67	8.36	114.42
+GO:0001819	positive regulation of cytokine production	134	0.51	0.54	6.97	44.26
+GO:0010942	positive regulation of cell death	145	0.54	0.56	7.33	41.78
+GO:0006508	proteolysis	140	0.55	0.57	7.34	47.86
+GO:0030335	positive regulation of cell migration	139	0.58	0.64	8.22	157.26
+GO:0045785	positive regulation of cell adhesion	128	0.58	0.54	7.23	21.97
+GO:0051251	positive regulation of lymphocyte activation	118	0.58	0.64	8.19	127.58
+GO:1903980	positive regulation of microglial cell activation	4	1.00	0.88	9.63	155.50
+GO:0043269	regulation of ion transport	119	0.41	0.50	6.00	14.08
+GO:0043410	positive regulation of MAPK cascade	119	0.66	0.75	9.17	1017.24
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	115	0.68	0.66	8.81	76.40
+GO:0006974	cellular response to DNA damage stimulus	110	0.57	0.53	7.47	29.00
+GO:0000122	negative regulation of transcription by RNA polymerase II	108	0.61	0.74	8.79	1836.95
+GO:0002521	leukocyte differentiation	106	0.58	0.54	7.41	21.07
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	106	0.58	0.64	7.56	28.11
+GO:0050727	regulation of inflammatory response	104	0.53	0.59	7.40	31.59
+GO:0080135	regulation of cellular response to stress	98	0.46	0.52	6.64	26.18
+GO:0098655	cation transmembrane transport	96	0.52	0.58	7.13	43.36
+GO:0006897	endocytosis	94	0.63	0.61	8.09	26.36
+GO:0003006	developmental process involved in reproduction	92	0.43	0.34	5.07	14.49
+GO:0070663	regulation of leukocyte proliferation	84	0.61	0.59	7.87	15.51
+GO:1901652	response to peptide	83	0.62	0.60	8.14	43.80
+GO:0051090	regulation of DNA binding transcription factor activity	83	0.72	0.77	9.22	255.34
+GO:1903827	regulation of cellular protein localization	81	0.48	0.53	6.86	25.72
+GO:0051259	protein complex oligomerization	77	0.78	0.68	9.09	40.42
+GO:2001233	regulation of apoptotic signaling pathway	77	0.59	0.64	8.44	61.17
+GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
+GO:0042742	defense response to bacterium	71	0.79	0.72	9.19	69.65
+GO:0071216	cellular response to biotic stimulus	68	0.63	0.51	7.77	23.86
+GO:0019932	second-messenger-mediated signaling	66	0.65	0.65	8.32	26.43
+GO:0045637	regulation of myeloid cell differentiation	65	0.62	0.63	8.47	67.17
+GO:0002758	innate immune response-activating signal transduction	56	0.63	0.71	8.79	406.89
+GO:0034121	regulation of toll-like receptor signaling pathway	19	0.61	0.66	8.32	87.36
+GO:0023014	signal transduction by protein phosphorylation	61	0.72	0.74	9.15	203.92
+GO:0009991	response to extracellular stimulus	57	0.51	0.45	6.23	8.70
+GO:0030100	regulation of endocytosis	55	0.59	0.62	8.15	44.91
+GO:0050769	positive regulation of neurogenesis	55	0.58	0.64	8.42	270.71
+GO:0046942	carboxylic acid transport	52	0.45	0.58	6.78	47.71
+GO:0030099	myeloid cell differentiation	51	0.69	0.60	8.15	21.07
+GO:0043687	post-translational protein modification	48	0.65	0.67	8.51	151.15
+GO:0002576	platelet degranulation	45	1.00	0.88	9.63	39.86
+GO:2000377	regulation of reactive oxygen species metabolic process	44	0.66	0.62	8.48	26.78
+GO:0050777	negative regulation of immune response	42	0.52	0.55	7.29	78.83
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	41	0.89	0.82	9.52	239.11
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	40	0.79	0.81	9.45	779.36
+GO:0006520	cellular amino acid metabolic process	39	0.41	0.53	6.53	77.81
+GO:0007265	Ras protein signal transduction	35	0.76	0.73	8.94	27.53
+GO:0072376	protein activation cascade	35	0.75	0.67	8.88	54.00
+GO:2000106	regulation of leukocyte apoptotic process	34	0.61	0.66	8.08	19.32
+GO:0007229	integrin-mediated signaling pathway	33	1.00	0.82	9.63	26.50
+GO:0030193	regulation of blood coagulation	33	0.67	0.69	8.94	65.68
+GO:1905952	regulation of lipid localization	31	0.51	0.51	6.78	10.45
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	30	0.80	0.65	8.94	20.20
+GO:0018105	peptidyl-serine phosphorylation	28	0.74	0.76	9.21	338.74
+GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
+GO:0009743	response to carbohydrate	26	0.63	0.57	8.10	27.32
+GO:0010506	regulation of autophagy	25	0.63	0.64	8.27	43.36
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	23	0.79	0.77	9.12	28.36
+GO:0031663	lipopolysaccharide-mediated signaling pathway	19	1.00	0.82	9.63	26.50
+GO:0050663	cytokine secretion	19	0.61	0.70	8.23	133.33
+GO:0038083	peptidyl-tyrosine autophosphorylation	19	1.00	0.92	9.63	522.64
+GO:0072659	protein localization to plasma membrane	18	0.79	0.72	9.26	65.43
+GO:0006606	protein import into nucleus	17	0.89	0.84	9.55	277.54
+GO:0006665	sphingolipid metabolic process	16	0.61	0.63	8.44	65.68
+GO:0006888	ER to Golgi vesicle-mediated transport	14	1.00	0.82	9.63	49.13
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0090025	regulation of monocyte chemotaxis	12	0.89	0.84	9.51	137.53
+GO:0043388	positive regulation of DNA binding	12	0.71	0.64	8.58	32.53
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0050850	positive regulation of calcium-mediated signaling	11	0.78	0.76	9.28	239.92
+GO:0033238	regulation of cellular amine metabolic process	11	0.53	0.56	7.48	41.10
+GO:0034605	cellular response to heat	10	0.84	0.71	9.26	50.43
+GO:0018149	peptide cross-linking	10	0.60	0.65	8.12	151.15
+GO:0035590	purinergic nucleotide receptor signaling pathway	9	0.93	0.82	9.51	27.20
+GO:0055094	response to lipoprotein particle	9	0.87	0.72	9.27	38.33
+GO:0045742	positive regulation of epidermal growth factor receptor signaling pathway	9	0.83	0.79	9.42	233.18
+GO:0010803	regulation of tumor necrosis factor-mediated signaling pathway	8	0.89	0.80	9.45	58.00
+GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
+GO:0045780	positive regulation of bone resorption	8	1.00	0.85	9.63	82.90
+GO:0010744	positive regulation of macrophage derived foam cell differentiation	7	1.00	0.82	9.63	113.86
+GO:0044130	negative regulation of growth of symbiont in host	7	1.00	0.85	9.63	102.69
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0042953	lipoprotein transport	6	1.00	0.88	9.63	68.45
+GO:0060397	JAK-STAT cascade involved in growth hormone signaling pathway	5	1.00	0.88	9.63	26.43
+GO:0048208	COPII vesicle coating	5	1.00	0.82	9.63	62.44
+GO:0050861	positive regulation of B cell receptor signaling pathway	4	1.00	0.88	9.63	365.09
+GO:0006090	pyruvate metabolic process	4	0.62	0.66	8.19	50.36
+GO:0071447	cellular response to hydroperoxide	4	0.87	0.72	9.49	143.11
+GO:0035249	synaptic transmission, glutamatergic	4	1.00	0.88	9.63	25.74
+GO:1900227	positive regulation of NLRP3 inflammasome complex assembly	3	1.00	0.85	9.63	140.38
+GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
+GO:2000334	positive regulation of blood microparticle formation	2	0.93	0.79	9.55	107.44
+GO:0072011	glomerular endothelium development	2	0.93	0.84	9.52	41.72
+GO:0019370	leukotriene biosynthetic process	2	0.87	0.81	9.49	324.41
+GO:1990000	amyloid fibril formation	2	1.00	0.79	9.63	65.11
+GO:0007320	insemination	1	1.00	0.70	9.63	44.01
+GO:0038195	urokinase plasminogen activator signaling pathway	1	1.00	0.82	9.63	26.50
+GO:0055096	low-density lipoprotein particle mediated signaling	1	1.00	0.82	9.63	23.86
+GO:0010668	ectodermal cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0060369	positive regulation of Fc receptor mediated stimulatory signaling pathway	1	0.93	0.82	9.58	294.15

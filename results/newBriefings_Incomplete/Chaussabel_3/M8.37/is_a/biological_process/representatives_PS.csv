@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	1562	0.28	0.39	4.44	30.44
+GO:0048519	negative regulation of biological process	1262	0.21	0.30	3.07	7.96
+GO:0048522	positive regulation of cellular process	1233	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	1101	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	825	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	804	0.34	0.49	5.84	147.03
+GO:0032804	negative regulation of low-density lipoprotein particle receptor catabolic process	1	1.00	0.90	9.63	1382.79
+GO:0031399	regulation of protein modification process	470	0.41	0.56	6.69	72.96
+GO:0032804	negative regulation of low-density lipoprotein particle receptor catabolic process	1	1.00	0.90	9.63	1382.79
+GO:0031399	regulation of protein modification process	470	0.41	0.56	6.69	72.96
+GO:1902531	regulation of intracellular signal transduction	463	0.45	0.55	6.77	41.85
+GO:0045595	regulation of cell differentiation	393	0.34	0.42	5.25	23.33
+GO:0015031	protein transport	385	0.48	0.59	6.99	54.46
+GO:0051240	positive regulation of multicellular organismal process	380	0.35	0.42	4.98	23.60
+GO:0042127	regulation of cell proliferation	341	0.45	0.48	6.03	12.04
+GO:0051130	positive regulation of cellular component organization	339	0.42	0.50	5.95	43.84
+GO:0051336	regulation of hydrolase activity	336	0.46	0.48	6.24	9.25
+GO:0006629	lipid metabolic process	285	0.37	0.38	5.19	18.42
+GO:0007186	G-protein coupled receptor signaling pathway	166	0.55	0.57	7.20	23.17
+GO:0043312	neutrophil degranulation	151	1.00	0.90	9.63	132.80
+GO:0098542	defense response to other organism	113	0.66	0.62	8.42	39.21
+GO:0051251	positive regulation of lymphocyte activation	84	0.58	0.64	8.19	127.58
+GO:0050804	modulation of chemical synaptic transmission	82	0.52	0.58	7.24	27.32
+GO:0030855	epithelial cell differentiation	65	0.55	0.52	6.96	21.07
+GO:0046474	glycerophospholipid biosynthetic process	50	0.66	0.68	8.82	510.21
+GO:0072659	protein localization to plasma membrane	45	0.79	0.72	9.26	65.43
+GO:0006665	sphingolipid metabolic process	42	0.61	0.63	8.44	65.68
+GO:0043271	negative regulation of ion transport	40	0.53	0.59	7.18	46.37
+GO:0008203	cholesterol metabolic process	38	0.80	0.72	9.22	82.65
+GO:0097191	extrinsic apoptotic signaling pathway	34	0.83	0.74	9.22	51.06
+GO:0051851	modification by host of symbiont morphology or physiology	24	0.54	0.56	7.41	24.28
+GO:0042692	muscle cell differentiation	23	0.69	0.59	8.24	21.07
+GO:0035722	interleukin-12-mediated signaling pathway	19	1.00	0.85	9.63	30.19
+GO:0001837	epithelial to mesenchymal transition	18	0.75	0.67	8.65	23.15
+GO:0007589	body fluid secretion	18	0.80	0.69	9.00	24.01
+GO:0006900	vesicle budding from membrane	15	0.80	0.69	9.09	39.27
+GO:0030521	androgen receptor signaling pathway	15	0.89	0.82	9.45	54.01
+GO:0002548	monocyte chemotaxis	11	1.00	0.85	9.63	125.46
+GO:0030199	collagen fibril organization	10	1.00	0.79	9.63	53.96
+GO:0002827	positive regulation of T-helper 1 type immune response	9	0.89	0.82	9.50	171.87
+GO:0030520	intracellular estrogen receptor signaling pathway	9	1.00	0.88	9.63	54.01
+GO:0051290	protein heterotetramerization	9	1.00	0.85	9.63	85.45
+GO:0042730	fibrinolysis	9	1.00	0.90	9.63	252.90
+GO:0097066	response to thyroid hormone	7	0.83	0.70	9.34	25.22
+GO:0045445	myoblast differentiation	5	0.89	0.70	9.29	21.07
+GO:0001765	membrane raft assembly	4	0.89	0.74	9.51	58.55
+GO:0036035	osteoclast development	4	1.00	0.79	9.63	66.39
+GO:0070102	interleukin-6-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0043403	skeletal muscle tissue regeneration	3	0.93	0.76	9.51	44.68
+GO:0000380	alternative mRNA splicing, via spliceosome	3	0.93	0.91	9.58	357.77
+GO:0030242	autophagy of peroxisome	2	0.89	0.74	9.41	39.83
+GO:1905597	positive regulation of low-density lipoprotein particle receptor binding	1	1.00	0.85	9.63	65.42
+GO:0070120	ciliary neurotrophic factor-mediated signaling pathway	1	1.00	0.85	9.63	30.19

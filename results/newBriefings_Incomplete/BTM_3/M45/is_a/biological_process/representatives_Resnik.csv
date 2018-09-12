@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051641	cellular localization	227	0.37	0.31	4.44	5.67
+GO:0006810	transport	647	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	646	0.28	0.26	3.74	11.45
+GO:0002376	immune system process	590	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	569	0.43	0.51	5.91	23.17
+GO:0051246	regulation of protein metabolic process	467	0.34	0.46	5.46	41.09
+GO:0010629	negative regulation of gene expression	218	0.47	0.56	6.74	59.05
+GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
+GO:0033026	negative regulation of mast cell apoptotic process	1	1.00	0.90	9.63	301.33
+GO:0002682	regulation of immune system process	470	0.32	0.36	4.60	7.96
+GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
+GO:0048869	cellular developmental process	445	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	435	0.35	0.37	4.75	9.28
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	71.51
+GO:0010033	response to organic substance	435	0.35	0.37	4.75	9.28
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	71.51
+GO:0051128	regulation of cellular component organization	402	0.30	0.40	4.57	12.04
+GO:0042127	regulation of cell proliferation	353	0.45	0.48	6.03	12.04
+GO:0043066	negative regulation of apoptotic process	208	0.56	0.63	7.79	81.07
+GO:0010942	positive regulation of cell death	150	0.54	0.56	7.33	41.78
+GO:0035556	intracellular signal transduction	302	0.51	0.55	6.92	23.17
+GO:0006796	phosphate-containing compound metabolic process	292	0.36	0.43	5.28	20.85
+GO:0051704	multi-organism process	239	0.29	0.15	3.12	3.37
+GO:0001817	regulation of cytokine production	193	0.40	0.45	5.78	11.79
+GO:0045779	negative regulation of bone resorption	6	1.00	0.85	9.63	83.01
+GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
+GO:0060341	regulation of cellular localization	142	0.40	0.45	5.64	10.45
+GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	29	0.74	0.75	9.04	58.64
+GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0006882	cellular zinc ion homeostasis	2	1.00	0.92	9.63	329.34

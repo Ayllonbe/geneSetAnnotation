@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	498	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	415	0.22	0.36	4.01	22.77
+GO:0006810	transport	384	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	360	0.28	0.26	3.74	11.45
+GO:0051716	cellular response to stimulus	270	0.35	0.30	4.36	13.53
+GO:0042221	response to chemical	268	0.32	0.29	4.12	6.14
+GO:0009966	regulation of signal transduction	295	0.33	0.45	5.35	37.59
+GO:0019538	protein metabolic process	221	0.31	0.41	4.91	44.77
+GO:0006366	transcription by RNA polymerase II	41	0.60	0.72	8.61	583.88
+GO:0044093	positive regulation of molecular function	179	0.43	0.41	5.23	6.77
+GO:0010941	regulation of cell death	152	0.43	0.47	6.10	12.04
+GO:0022414	reproductive process	78	0.35	0.17	3.17	3.37
+GO:0001701	in utero embryonic development	9	1.00	0.85	9.63	22.50

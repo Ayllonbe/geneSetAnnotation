@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	746	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	466	0.16	0.21	2.71	13.80
+GO:0044237	cellular metabolic process	466	0.16	0.21	2.71	13.80
+GO:0065009	regulation of molecular function	267	0.33	0.29	4.10	4.47
+GO:0010033	response to organic substance	233	0.35	0.37	4.75	9.28
+GO:0006355	regulation of transcription, DNA-templated	196	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	44	0.47	0.56	7.17	70.58
+GO:0006355	regulation of transcription, DNA-templated	196	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	44	0.47	0.56	7.17	70.58
+GO:0016192	vesicle-mediated transport	202	0.52	0.51	6.57	10.99
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	23	0.61	0.63	8.36	112.25
+GO:0032774	RNA biosynthetic process	107	0.53	0.62	8.04	473.34
+GO:0006259	DNA metabolic process	67	0.45	0.55	7.12	145.26
+GO:0042327	positive regulation of phosphorylation	114	0.56	0.66	8.02	180.93
+GO:0001932	regulation of protein phosphorylation	150	0.50	0.62	7.64	109.03
+GO:0006996	organelle organization	127	0.39	0.39	5.17	14.95
+GO:0006351	transcription, DNA-templated	90	0.57	0.68	8.45	581.39
+GO:0006886	intracellular protein transport	46	0.55	0.65	8.12	90.55
+GO:0032787	monocarboxylic acid metabolic process	37	0.40	0.53	6.17	45.97
+GO:0001649	osteoblast differentiation	11	1.00	0.75	9.63	21.07
+GO:0006370	7-methylguanosine mRNA capping	6	1.00	0.92	9.63	354.47
+GO:0034968	histone lysine methylation	6	0.71	0.77	9.27	765.80
+GO:0035337	fatty-acyl-CoA metabolic process	6	0.67	0.66	8.75	91.30
+GO:0061025	membrane fusion	11	0.61	0.55	7.48	18.35
+GO:0048284	organelle fusion	5	0.62	0.56	7.57	18.35
+GO:0006623	protein targeting to vacuole	4	0.84	0.84	9.55	198.72
+GO:0006294	nucleotide-excision repair, preincision complex assembly	4	1.00	0.85	9.63	65.90
+GO:1904837	beta-catenin-TCF complex assembly	3	1.00	0.79	9.63	40.42
+GO:0016573	histone acetylation	3	0.69	0.78	9.12	658.07
+GO:0002076	osteoblast development	3	1.00	0.75	9.63	32.15
+GO:0046697	decidualization	3	1.00	0.75	9.63	34.68
+GO:0006625	protein targeting to peroxisome	2	0.89	0.86	9.56	237.37
+GO:0000707	meiotic DNA recombinase assembly	2	0.83	0.79	9.41	133.96
+GO:0007141	male meiosis I	2	1.00	0.88	9.63	140.07
+GO:0003309	type B pancreatic cell differentiation	1	1.00	0.88	9.63	28.92
+GO:0002098	tRNA wobble uridine modification	1	0.84	0.87	9.55	495.68

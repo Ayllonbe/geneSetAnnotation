@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	935	0.28	0.39	4.44	30.44
+GO:0010468	regulation of gene expression	650	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	506	0.39	0.52	6.45	112.25
+GO:0051239	regulation of multicellular organismal process	353	0.23	0.32	3.68	7.96
+GO:0071310	cellular response to organic substance	186	0.44	0.47	5.95	41.66
+GO:0006974	cellular response to DNA damage stimulus	131	0.57	0.53	7.47	29.00
+GO:0008380	RNA splicing	64	0.72	0.74	9.18	117.48
+GO:0000209	protein polyubiquitination	40	0.77	0.80	9.22	155.40
+GO:0040013	negative regulation of locomotion	38	0.55	0.52	6.95	22.16
+GO:0001755	neural crest cell migration	8	0.80	0.72	9.09	22.57
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	6	0.93	0.90	9.60	659.85
+GO:0071526	semaphorin-plexin signaling pathway	5	0.81	0.73	9.09	26.50
+GO:0001756	somitogenesis	3	1.00	0.79	9.63	43.80
+GO:0031087	deadenylation-independent decapping of nuclear-transcribed mRNA	3	0.93	0.82	9.56	114.45
+GO:0021915	neural tube development	3	1.00	0.79	9.63	33.01
+GO:0071878	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	2	0.93	0.88	9.58	527.67
+GO:0140074	cardiac endothelial to mesenchymal transition	1	1.00	0.79	9.63	23.15

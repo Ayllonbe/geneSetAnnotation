@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	330	0.24	0.37	3.90	23.93
+GO:0002376	immune system process	326	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	306	0.43	0.51	5.91	23.17
+GO:0032270	positive regulation of cellular protein metabolic process	143	0.47	0.59	7.41	288.49
+GO:0010605	negative regulation of macromolecule metabolic process	156	0.37	0.48	5.54	39.19
+GO:0043933	protein-containing complex subunit organization	133	0.43	0.41	5.44	14.95
+GO:0002694	regulation of leukocyte activation	102	0.46	0.52	6.81	24.92
+GO:0010469	regulation of signaling receptor activity	70	0.59	0.62	7.95	48.62
+GO:0001819	positive regulation of cytokine production	63	0.51	0.54	6.97	44.26
+GO:0006974	cellular response to DNA damage stimulus	55	0.57	0.53	7.47	29.00
+GO:0016071	mRNA metabolic process	28	0.59	0.65	8.39	115.08
+GO:0006091	generation of precursor metabolites and energy	28	0.53	0.46	6.54	17.52
+GO:0010948	negative regulation of cell cycle process	27	0.53	0.59	7.47	61.75
+GO:0006352	DNA-templated transcription, initiation	16	0.83	0.79	9.45	475.54
+GO:0008584	male gonad development	12	1.00	0.79	9.63	50.96
+GO:0007569	cell aging	10	0.80	0.60	8.94	24.75
+GO:0048146	positive regulation of fibroblast proliferation	10	0.89	0.77	9.43	63.75
+GO:0060964	regulation of gene silencing by miRNA	7	0.74	0.74	9.16	63.20
+GO:0033033	negative regulation of myeloid cell apoptotic process	6	0.84	0.80	9.36	105.02
+GO:0045815	positive regulation of gene expression, epigenetic	6	0.78	0.74	9.08	79.85
+GO:0006368	transcription elongation from RNA polymerase II promoter	6	1.00	0.90	9.63	477.15
+GO:0042795	snRNA transcription by RNA polymerase II	4	1.00	0.95	9.63	1410.65
+GO:0032305	positive regulation of icosanoid secretion	4	0.84	0.82	9.50	399.74
+GO:0001516	prostaglandin biosynthetic process	4	0.89	0.88	9.60	1037.18
+GO:0090344	negative regulation of cell aging	4	0.87	0.72	9.34	80.68
+GO:0006363	termination of RNA polymerase I transcription	4	1.00	0.90	9.63	477.15
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	3	1.00	0.85	9.63	344.24
+GO:0006356	regulation of transcription by RNA polymerase I	2	0.75	0.79	9.31	248.57
+GO:0006383	transcription by RNA polymerase III	2	0.84	0.84	9.50	583.88
+GO:0010739	positive regulation of protein kinase A signaling	2	1.00	0.88	9.63	237.72
+GO:0021860	pyramidal neuron development	1	1.00	0.85	9.63	36.72
+GO:1901797	negative regulation of signal transduction by p53 class mediator	1	0.83	0.79	9.47	239.49
+GO:0070125	mitochondrial translational elongation	1	1.00	0.85	9.63	106.95
+GO:0001193	maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase II promoter	1	1.00	0.90	9.63	476.64

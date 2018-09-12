@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1234	0.08	0.04	0.98	3.37
+GO:0023051	regulation of signaling	483	0.30	0.35	4.24	7.96
+GO:0051239	regulation of multicellular organismal process	423	0.23	0.32	3.68	7.96
+GO:0080090	regulation of primary metabolic process	611	0.24	0.37	3.95	10.74
+GO:0002764	immune response-regulating signaling pathway	136	0.59	0.58	7.89	48.80
+GO:0080134	regulation of response to stress	221	0.35	0.42	5.03	11.65
+GO:0009966	regulation of signal transduction	450	0.33	0.45	5.35	37.59
+GO:0046854	phosphatidylinositol phosphorylation	24	1.00	0.88	9.63	218.74
+GO:1901564	organonitrogen compound metabolic process	489	0.23	0.31	3.63	19.40
+GO:0002376	immune system process	465	0.38	0.19	3.93	3.37
+GO:0065009	regulation of molecular function	455	0.33	0.29	4.10	4.47
+GO:0007166	cell surface receptor signaling pathway	451	0.43	0.51	5.91	23.17
+GO:0009628	response to abiotic stimulus	111	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	385	0.32	0.29	4.12	6.14
+GO:0065008	regulation of biological quality	396	0.28	0.26	3.48	4.47
+GO:0051128	regulation of cellular component organization	322	0.30	0.40	4.57	12.04
+GO:0022607	cellular component assembly	272	0.39	0.39	5.06	14.95
+GO:0031399	regulation of protein modification process	259	0.41	0.56	6.69	72.96
+GO:0035556	intracellular signal transduction	243	0.51	0.55	6.92	23.17
+GO:0030154	cell differentiation	231	0.39	0.39	5.18	16.68
+GO:0035855	megakaryocyte development	3	1.00	0.79	9.63	66.39
+GO:0042981	regulation of apoptotic process	231	0.45	0.55	6.60	16.23
+GO:0006357	regulation of transcription by RNA polymerase II	223	0.44	0.63	7.11	248.57
+GO:0010628	positive regulation of gene expression	219	0.47	0.56	6.67	58.80
+GO:0008284	positive regulation of cell proliferation	204	0.56	0.57	7.27	43.45
+GO:0016477	cell migration	180	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	171	0.55	0.57	7.20	23.17
+GO:0051649	establishment of localization in cell	144	0.42	0.41	5.33	7.46
+GO:0022414	reproductive process	116	0.35	0.17	3.17	3.37
+GO:0040008	regulation of growth	83	0.48	0.44	6.04	7.96
+GO:0030029	actin filament-based process	55	0.59	0.42	6.58	7.39
+GO:0007268	chemical synaptic transmission	33	0.74	0.72	8.66	23.17
+GO:0010811	positive regulation of cell-substrate adhesion	21	0.80	0.69	9.01	35.31
+GO:0032467	positive regulation of cytokinesis	10	0.70	0.70	9.02	142.06
+GO:0035162	embryonic hemopoiesis	4	0.93	0.79	9.49	36.11

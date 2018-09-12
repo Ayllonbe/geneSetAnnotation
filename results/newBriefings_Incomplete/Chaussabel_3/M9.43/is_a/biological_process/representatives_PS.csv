@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	440	0.09	0.05	0.84	3.37
+GO:0090026	positive regulation of monocyte chemotaxis	2	1.00	0.92	9.63	859.36
+GO:0050789	regulation of biological process	338	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	80	0.33	0.29	4.10	4.47
+GO:0090026	positive regulation of monocyte chemotaxis	2	1.00	0.92	9.63	859.36
+GO:0050789	regulation of biological process	338	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	80	0.33	0.29	4.10	4.47
+GO:0043170	macromolecule metabolic process	260	0.25	0.32	3.46	10.22
+GO:0006682	galactosylceramide biosynthetic process	1	1.00	0.92	9.63	1990.90
+GO:0043170	macromolecule metabolic process	260	0.25	0.32	3.46	10.22
+GO:0006682	galactosylceramide biosynthetic process	1	1.00	0.92	9.63	1990.90
+GO:0051179	localization	160	0.26	0.13	2.57	3.37
+GO:0030154	cell differentiation	36	0.39	0.39	5.18	16.68
+GO:0071310	cellular response to organic substance	31	0.44	0.47	5.95	41.66
+GO:0071216	cellular response to biotic stimulus	6	0.63	0.51	7.77	23.86
+GO:0007265	Ras protein signal transduction	9	0.76	0.73	8.94	27.53
+GO:0019933	cAMP-mediated signaling	6	0.77	0.76	9.12	28.51
+GO:0035115	embryonic forelimb morphogenesis	3	1.00	0.82	9.63	58.81
+GO:0048701	embryonic cranial skeleton morphogenesis	2	1.00	0.82	9.63	46.18
+GO:0002076	osteoblast development	1	1.00	0.75	9.63	32.15
+GO:0048469	cell maturation	1	0.70	0.55	8.24	25.22
+GO:0002063	chondrocyte development	1	0.89	0.70	9.47	32.15
+GO:0002408	myeloid dendritic cell chemotaxis	1	0.93	0.84	9.56	125.06
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	1	0.87	0.78	9.52	52.93
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	1	0.93	0.82	9.52	52.45

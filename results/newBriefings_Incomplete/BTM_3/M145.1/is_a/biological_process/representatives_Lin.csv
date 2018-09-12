@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	203	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	662	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	451	0.21	0.30	3.05	7.96
+GO:0042127	regulation of cell proliferation	159	0.45	0.48	6.03	12.04
+GO:0022607	cellular component assembly	144	0.39	0.39	5.06	14.95
+GO:0045055	regulated exocytosis	131	0.69	0.69	8.57	38.47
+GO:0009891	positive regulation of biosynthetic process	125	0.40	0.49	5.65	38.82
+GO:0051704	multi-organism process	120	0.29	0.15	3.12	3.37
+GO:0040012	regulation of locomotion	117	0.43	0.41	5.73	7.96
+GO:1901701	cellular response to oxygen-containing compound	108	0.47	0.48	6.19	42.34
+GO:0051050	positive regulation of transport	105	0.42	0.50	5.84	25.90
+GO:0033043	regulation of organelle organization	80	0.36	0.47	5.49	15.89
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0045785	positive regulation of cell adhesion	66	0.58	0.54	7.23	21.97
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0048468	cell development	42	0.51	0.45	6.51	28.42
+GO:0030029	actin filament-based process	28	0.59	0.42	6.58	7.39
+GO:0061024	membrane organization	25	0.47	0.43	6.06	14.95
+GO:0034329	cell junction assembly	23	0.71	0.61	8.53	35.01
+GO:0120031	plasma membrane bounded cell projection assembly	12	0.69	0.64	8.45	55.86
+GO:1903078	positive regulation of protein localization to plasma membrane	7	0.84	0.80	9.43	218.50
+GO:0001701	in utero embryonic development	7	1.00	0.85	9.63	22.50
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	5	0.89	0.82	9.54	374.75
+GO:0048675	axon extension	5	0.89	0.74	9.43	51.99
+GO:0008286	insulin receptor signaling pathway	5	0.87	0.81	9.34	31.00
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0048278	vesicle docking	3	0.81	0.70	9.18	21.39
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0060161	positive regulation of dopamine receptor signaling pathway	2	0.93	0.84	9.57	238.31
+GO:0010761	fibroblast migration	1	0.93	0.79	9.49	22.57
+GO:0071476	cellular hypotonic response	1	0.89	0.77	9.47	99.28
+GO:0048251	elastic fiber assembly	1	1.00	0.82	9.63	39.54
+GO:0003065	positive regulation of heart rate by epinephrine	1	0.89	0.84	9.50	125.79

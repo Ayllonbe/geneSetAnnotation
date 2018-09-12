@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1903047	mitotic cell cycle process	24	0.50	0.45	5.87	11.32
+GO:0006355	regulation of transcription, DNA-templated	23	0.40	0.60	6.84	245.35
+GO:0006259	DNA metabolic process	19	0.45	0.55	7.12	145.26
+GO:0009607	response to biotic stimulus	15	0.40	0.32	5.00	6.14
+GO:0051276	chromosome organization	13	0.55	0.52	6.96	18.35
+GO:0010564	regulation of cell cycle process	12	0.42	0.50	6.22	14.24
+GO:0045893	positive regulation of transcription, DNA-templated	12	0.52	0.67	8.14	1208.12
+GO:0006913	nucleocytoplasmic transport	10	0.63	0.64	8.15	33.20
+GO:0045944	positive regulation of transcription by RNA polymerase II	9	0.55	0.71	8.36	1463.86
+GO:0006468	protein phosphorylation	8	0.57	0.64	8.18	177.76
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	5	0.79	0.83	9.47	340.69
+GO:0006366	transcription by RNA polymerase II	5	0.60	0.72	8.61	583.88
+GO:0006397	mRNA processing	3	0.71	0.73	9.17	234.35
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	3	1.00	0.88	9.63	115.14
+GO:0006999	nuclear pore organization	3	0.89	0.74	9.49	38.43
+GO:0006353	DNA-templated transcription, termination	3	0.80	0.77	9.41	475.54
+GO:0006352	DNA-templated transcription, initiation	3	0.83	0.79	9.45	475.54
+GO:0006294	nucleotide-excision repair, preincision complex assembly	2	1.00	0.85	9.63	65.90
+GO:0006368	transcription elongation from RNA polymerase II promoter	2	1.00	0.90	9.63	477.15
+GO:0022008	neurogenesis	2	0.87	0.68	9.29	21.07
+GO:0034629	cellular protein-containing complex localization	2	0.70	0.64	8.62	38.21
+GO:0030032	lamellipodium assembly	1	0.89	0.77	9.53	78.22
+GO:1901409	positive regulation of phosphorylation of RNA polymerase II C-terminal domain	1	0.93	0.91	9.60	1031.31
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	1	1.00	0.85	9.63	108.68
+GO:1904263	positive regulation of TORC1 signaling	1	1.00	0.90	9.63	286.95
+GO:0048246	macrophage chemotaxis	1	1.00	0.88	9.63	95.92
+GO:0008585	female gonad development	1	1.00	0.79	9.63	50.96
+GO:0006360	transcription by RNA polymerase I	1	0.93	0.88	9.59	583.88
+GO:0034198	cellular response to amino acid starvation	1	0.87	0.78	9.45	115.90
+GO:0009888	tissue development	1	0.47	0.44	5.74	11.73

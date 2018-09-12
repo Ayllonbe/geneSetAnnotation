@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009967	positive regulation of signal transduction	160	0.44	0.54	6.71	140.23
+GO:0022607	cellular component assembly	144	0.39	0.39	5.06	14.95
+GO:0045055	regulated exocytosis	131	0.69	0.69	8.57	38.47
+GO:0006928	movement of cell or subcellular component	123	0.42	0.33	4.88	7.39
+GO:0010628	positive regulation of gene expression	103	0.47	0.56	6.67	58.80
+GO:0030335	positive regulation of cell migration	76	0.58	0.64	8.22	157.26
+GO:0043410	positive regulation of MAPK cascade	69	0.66	0.75	9.17	1017.24
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0045785	positive regulation of cell adhesion	66	0.58	0.54	7.23	21.97
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0008285	negative regulation of cell proliferation	63	0.56	0.57	7.31	43.61
+GO:0048468	cell development	42	0.51	0.45	6.51	28.42
+GO:0009615	response to virus	36	0.74	0.66	8.80	27.27
+GO:0030336	negative regulation of cell migration	24	0.58	0.64	8.21	158.04
+GO:0034329	cell junction assembly	23	0.71	0.61	8.53	35.01
+GO:0051928	positive regulation of calcium ion transport	22	0.70	0.73	8.85	69.31
+GO:0007088	regulation of mitotic nuclear division	19	0.59	0.64	8.17	54.97
+GO:0008360	regulation of cell shape	16	0.68	0.66	8.69	41.78
+GO:0001938	positive regulation of endothelial cell proliferation	14	0.89	0.80	9.46	87.31
+GO:0070925	organelle assembly	13	0.61	0.55	7.53	37.31
+GO:0034614	cellular response to reactive oxygen species	13	0.77	0.67	9.20	144.09
+GO:0120031	plasma membrane bounded cell projection assembly	12	0.69	0.64	8.45	55.86
+GO:0046889	positive regulation of lipid biosynthetic process	10	0.61	0.65	8.18	116.24
+GO:0032233	positive regulation of actin filament bundle assembly	9	0.89	0.86	9.53	256.93
+GO:1903078	positive regulation of protein localization to plasma membrane	7	0.84	0.80	9.43	218.50
+GO:0032869	cellular response to insulin stimulus	7	1.00	0.88	9.63	462.70
+GO:0090303	positive regulation of wound healing	7	0.70	0.70	8.75	62.35
+GO:0001701	in utero embryonic development	7	1.00	0.85	9.63	22.50
+GO:0031032	actomyosin structure organization	7	0.72	0.68	8.76	32.01
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	5	0.89	0.82	9.54	374.75
+GO:0048675	axon extension	5	0.89	0.74	9.43	51.99
+GO:0008286	insulin receptor signaling pathway	5	0.87	0.81	9.34	31.00
+GO:0045652	regulation of megakaryocyte differentiation	5	0.89	0.80	9.46	68.96
+GO:0006906	vesicle fusion	4	0.68	0.66	8.56	63.10
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0048278	vesicle docking	3	0.81	0.70	9.18	21.39
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0019065	receptor-mediated endocytosis of virus by host cell	2	0.89	0.80	9.51	100.58
+GO:2001275	positive regulation of glucose import in response to insulin stimulus	2	1.00	0.90	9.63	210.72
+GO:0070836	caveola assembly	2	1.00	0.85	9.63	78.00
+GO:0045010	actin nucleation	2	0.89	0.89	9.57	481.27
+GO:0045725	positive regulation of glycogen biosynthetic process	2	1.00	0.92	9.63	1082.43
+GO:0044791	positive regulation by host of viral release from host cell	1	1.00	0.90	9.63	253.87
+GO:0030241	skeletal muscle myosin thick filament assembly	1	1.00	0.90	9.63	129.67
+GO:0071476	cellular hypotonic response	1	0.89	0.77	9.47	99.28
+GO:0051694	pointed-end actin filament capping	1	1.00	0.96	9.63	827.59
+GO:0003065	positive regulation of heart rate by epinephrine	1	0.89	0.84	9.50	125.79

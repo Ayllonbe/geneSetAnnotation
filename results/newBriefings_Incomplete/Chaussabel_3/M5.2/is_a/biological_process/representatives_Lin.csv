@@ -1,0 +1,87 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	6636	0.09	0.05	0.84	3.37
+GO:1901564	organonitrogen compound metabolic process	2688	0.23	0.31	3.63	19.40
+GO:0010468	regulation of gene expression	2330	0.35	0.46	5.09	13.73
+GO:0051179	localization	2309	0.26	0.13	2.57	3.37
+GO:0006351	transcription, DNA-templated	1239	0.57	0.68	8.45	581.39
+GO:0006396	RNA processing	500	0.49	0.60	7.48	115.08
+GO:0009966	regulation of signal transduction	1497	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	1319	0.39	0.32	4.70	6.14
+GO:0051128	regulation of cellular component organization	1268	0.30	0.40	4.57	12.04
+GO:0022607	cellular component assembly	1261	0.39	0.39	5.06	14.95
+GO:0022607	cellular component assembly	1261	0.39	0.39	5.06	14.95
+GO:0007166	cell surface receptor signaling pathway	1100	0.43	0.51	5.91	23.17
+GO:0016192	vesicle-mediated transport	934	0.52	0.51	6.57	10.99
+GO:0002682	regulation of immune system process	845	0.32	0.36	4.60	7.96
+GO:0035556	intracellular signal transduction	841	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	783	0.34	0.42	5.25	23.33
+GO:0001932	regulation of protein phosphorylation	708	0.50	0.62	7.64	109.03
+GO:0071310	cellular response to organic substance	671	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	655	0.39	0.39	5.18	16.68
+GO:0050727	regulation of inflammatory response	182	0.53	0.59	7.40	31.59
+GO:0050776	regulation of immune response	570	0.38	0.44	5.64	22.45
+GO:0051336	regulation of hydrolase activity	621	0.46	0.48	6.24	9.25
+GO:0051726	regulation of cell cycle	595	0.41	0.45	5.89	12.04
+GO:0070647	protein modification by small protein conjugation or removal	576	0.61	0.66	8.44	151.15
+GO:0060548	negative regulation of cell death	540	0.54	0.56	7.27	41.94
+GO:0043525	positive regulation of neuron apoptotic process	36	0.84	0.80	9.39	179.36
+GO:0044265	cellular macromolecule catabolic process	535	0.55	0.56	7.70	100.33
+GO:0022402	cell cycle process	522	0.40	0.32	4.60	7.39
+GO:0042592	homeostatic process	520	0.45	0.42	5.70	8.64
+GO:0006468	protein phosphorylation	499	0.57	0.64	8.18	177.76
+GO:0051704	multi-organism process	496	0.29	0.15	3.12	3.37
+GO:0044255	cellular lipid metabolic process	489	0.38	0.44	5.89	38.02
+GO:0006700	C21-steroid hormone biosynthetic process	5	0.89	0.80	9.54	273.07
+GO:0006811	ion transport	481	0.38	0.44	5.19	10.99
+GO:0031329	regulation of cellular catabolic process	473	0.43	0.51	6.41	39.60
+GO:0022603	regulation of anatomical structure morphogenesis	472	0.36	0.43	5.15	11.29
+GO:0006259	DNA metabolic process	467	0.45	0.55	7.12	145.26
+GO:0008284	positive regulation of cell proliferation	418	0.56	0.57	7.27	43.45
+GO:2000145	regulation of cell motility	416	0.47	0.52	6.88	34.54
+GO:0001817	regulation of cytokine production	379	0.40	0.45	5.78	11.79
+GO:0007186	G-protein coupled receptor signaling pathway	287	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	280	0.47	0.48	6.31	17.13
+GO:0060627	regulation of vesicle-mediated transport	280	0.48	0.53	6.81	26.12
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	260	0.58	0.64	7.56	28.11
+GO:0043900	regulation of multi-organism process	224	0.40	0.40	5.32	7.96
+GO:0051052	regulation of DNA metabolic process	222	0.47	0.56	7.17	70.58
+GO:0043687	post-translational protein modification	209	0.65	0.67	8.51	151.15
+GO:0016050	vesicle organization	190	0.58	0.54	7.25	18.35
+GO:1903311	regulation of mRNA metabolic process	154	0.60	0.65	8.36	73.29
+GO:0071826	ribonucleoprotein complex subunit organization	139	0.61	0.56	7.43	17.51
+GO:0030098	lymphocyte differentiation	135	0.61	0.60	8.24	42.31
+GO:0043393	regulation of protein binding	117	0.59	0.55	7.49	9.33
+GO:0006352	DNA-templated transcription, initiation	116	0.83	0.79	9.45	475.54
+GO:0000302	response to reactive oxygen species	112	0.71	0.60	8.78	25.34
+GO:0006470	protein dephosphorylation	107	0.76	0.73	9.22	177.17
+GO:0022900	electron transport chain	101	0.71	0.61	8.48	29.76
+GO:0048002	antigen processing and presentation of peptide antigen	92	0.70	0.55	8.09	8.95
+GO:0001701	in utero embryonic development	91	1.00	0.85	9.63	22.50
+GO:0006006	glucose metabolic process	72	0.71	0.68	8.57	34.68
+GO:0006368	transcription elongation from RNA polymerase II promoter	55	1.00	0.90	9.63	477.15
+GO:0035295	tube development	52	0.56	0.48	6.60	11.73
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	51	0.93	0.91	9.59	279.62
+GO:1904035	regulation of epithelial cell apoptotic process	41	0.68	0.69	8.44	19.32
+GO:0035264	multicellular organism growth	40	1.00	0.70	9.63	22.58
+GO:0140029	exocytic process	36	0.70	0.47	7.33	7.39
+GO:0040014	regulation of multicellular organism growth	32	0.89	0.74	9.38	36.78
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	32	1.00	0.88	9.63	115.14
+GO:0006363	termination of RNA polymerase I transcription	25	1.00	0.90	9.63	477.15
+GO:0000715	nucleotide-excision repair, DNA damage recognition	22	0.93	0.76	9.47	21.24
+GO:0043457	regulation of cellular respiration	14	0.66	0.65	8.32	28.73
+GO:0006360	transcription by RNA polymerase I	6	0.93	0.88	9.59	583.88
+GO:0071472	cellular response to salt stress	6	0.78	0.71	9.34	100.20
+GO:0002666	positive regulation of T cell tolerance induction	5	0.87	0.78	9.49	165.82
+GO:0060712	spongiotrophoblast layer development	5	1.00	0.75	9.63	49.67
+GO:0038203	TORC2 signaling	5	1.00	0.85	9.63	27.12
+GO:1900223	positive regulation of amyloid-beta clearance	5	1.00	0.79	9.63	41.04
+GO:1902430	negative regulation of amyloid-beta formation	5	1.00	0.88	9.63	443.74
+GO:0006499	N-terminal protein myristoylation	4	0.93	0.86	9.58	615.78
+GO:0060576	intestinal epithelial cell development	4	1.00	0.82	9.63	35.74
+GO:0140058	neuron projection arborization	4	0.84	0.80	9.42	64.61
+GO:0034395	regulation of transcription from RNA polymerase II promoter in response to iron	2	0.89	0.88	9.53	252.65
+GO:2000653	regulation of genetic imprinting	2	1.00	0.82	9.63	70.58
+GO:1904582	positive regulation of intracellular mRNA localization	2	0.89	0.77	9.38	26.87
+GO:0016267	O-glycan processing, core 1	1	1.00	0.92	9.63	180.72
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31
+GO:0035063	nuclear speck organization	1	1.00	0.82	9.63	22.53

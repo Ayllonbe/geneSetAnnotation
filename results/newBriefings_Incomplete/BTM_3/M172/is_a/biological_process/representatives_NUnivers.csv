@@ -1,0 +1,73 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	766	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	705	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	663	0.36	0.43	5.06	19.43
+GO:0043179	rhythmic excitation	1	1.00	0.88	9.63	31.31
+GO:0009966	regulation of signal transduction	456	0.33	0.45	5.35	37.59
+GO:0031325	positive regulation of cellular metabolic process	422	0.33	0.46	5.39	79.98
+GO:0065008	regulation of biological quality	400	0.28	0.26	3.48	4.47
+GO:0048869	cellular developmental process	349	0.32	0.29	4.16	13.85
+GO:2000026	regulation of multicellular organismal development	307	0.29	0.39	4.73	23.09
+GO:0051240	positive regulation of multicellular organismal process	285	0.35	0.42	4.98	23.60
+GO:0070887	cellular response to chemical stimulus	284	0.40	0.40	5.31	25.21
+GO:0016477	cell migration	181	0.47	0.48	6.31	17.13
+GO:0030334	regulation of cell migration	176	0.48	0.56	7.11	36.74
+GO:0032774	RNA biosynthetic process	176	0.53	0.62	8.04	473.34
+GO:0002275	myeloid cell activation involved in immune response	163	0.74	0.66	9.05	59.31
+GO:0043066	negative regulation of apoptotic process	158	0.56	0.63	7.79	81.07
+GO:0010243	response to organonitrogen compound	147	0.45	0.48	6.23	25.43
+GO:0045944	positive regulation of transcription by RNA polymerase II	142	0.55	0.71	8.36	1463.86
+GO:0032269	negative regulation of cellular protein metabolic process	132	0.47	0.59	7.45	289.39
+GO:0009725	response to hormone	127	0.53	0.51	7.03	21.86
+GO:0030335	positive regulation of cell migration	123	0.58	0.64	8.22	157.26
+GO:0006508	proteolysis	103	0.55	0.57	7.34	47.86
+GO:0032496	response to lipopolysaccharide	96	0.89	0.74	9.45	64.41
+GO:0000122	negative regulation of transcription by RNA polymerase II	89	0.61	0.74	8.79	1836.95
+GO:0048513	animal organ development	86	0.50	0.45	5.88	11.73
+GO:0071417	cellular response to organonitrogen compound	80	0.53	0.56	7.37	128.53
+GO:0001666	response to hypoxia	51	0.81	0.70	9.12	21.16
+GO:0000302	response to reactive oxygen species	44	0.71	0.60	8.78	25.34
+GO:0051091	positive regulation of DNA binding transcription factor activity	44	0.81	0.84	9.43	277.83
+GO:0048545	response to steroid hormone	42	0.69	0.64	8.94	60.25
+GO:0030593	neutrophil chemotaxis	41	1.00	0.90	9.63	130.30
+GO:0046883	regulation of hormone secretion	25	0.53	0.62	7.77	67.74
+GO:0007275	multicellular organism development	25	0.70	0.55	8.18	19.32
+GO:0097746	regulation of blood vessel diameter	24	0.64	0.64	8.47	38.29
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	20	1.00	0.82	9.63	44.28
+GO:0090023	positive regulation of neutrophil chemotaxis	18	1.00	0.93	9.63	945.71
+GO:0045840	positive regulation of mitotic nuclear division	16	0.71	0.73	9.14	276.06
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0043507	positive regulation of JUN kinase activity	16	0.87	0.90	9.58	4931.41
+GO:0071398	cellular response to fatty acid	15	0.74	0.69	9.00	203.00
+GO:0006885	regulation of pH	14	0.70	0.72	8.99	35.59
+GO:0030195	negative regulation of blood coagulation	13	0.78	0.76	9.39	250.95
+GO:0007565	female pregnancy	11	1.00	0.70	9.63	32.81
+GO:0071384	cellular response to corticosteroid stimulus	8	0.79	0.74	9.35	342.08
+GO:0035094	response to nicotine	8	0.93	0.72	9.45	26.17
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	8	1.00	0.95	9.63	292.09
+GO:0001569	branching involved in blood vessel morphogenesis	7	1.00	0.85	9.63	53.50
+GO:0030072	peptide hormone secretion	7	0.70	0.72	8.94	100.51
+GO:0010828	positive regulation of glucose transmembrane transport	7	0.89	0.80	9.53	65.59
+GO:0001516	prostaglandin biosynthetic process	6	0.89	0.88	9.60	1037.18
+GO:0032308	positive regulation of prostaglandin secretion	6	0.89	0.86	9.55	484.67
+GO:0007274	neuromuscular synaptic transmission	4	0.93	0.84	9.52	25.74
+GO:0070873	regulation of glycogen metabolic process	4	0.79	0.77	9.38	122.18
+GO:0042045	epithelial fluid transport	4	0.89	0.74	9.34	24.06
+GO:0035815	positive regulation of renal sodium excretion	4	0.93	0.84	9.57	135.62
+GO:0033089	positive regulation of T cell differentiation in thymus	4	0.89	0.86	9.58	998.09
+GO:0001821	histamine secretion	4	0.80	0.77	9.30	92.72
+GO:0016264	gap junction assembly	3	1.00	0.82	9.63	56.14
+GO:0045586	regulation of gamma-delta T cell differentiation	3	0.89	0.84	9.52	166.67
+GO:0060585	positive regulation of prostaglandin-endoperoxide synthase activity	2	1.00	0.82	9.63	94.42
+GO:0030185	nitric oxide transport	2	1.00	0.79	9.63	43.44
+GO:0032765	positive regulation of mast cell cytokine production	2	1.00	0.90	9.63	311.83
+GO:2000253	positive regulation of feeding behavior	2	0.89	0.74	9.49	36.80
+GO:0070101	positive regulation of chemokine-mediated signaling pathway	2	0.93	0.84	9.58	306.09
+GO:0048752	semicircular canal morphogenesis	1	1.00	0.75	9.63	28.50
+GO:0060298	positive regulation of sarcomere organization	1	1.00	0.92	9.63	726.92
+GO:1900625	positive regulation of monocyte aggregation	1	1.00	0.85	9.63	70.46
+GO:1903208	negative regulation of hydrogen peroxide-induced neuron death	1	0.93	0.88	9.60	1053.93
+GO:0045793	positive regulation of cell size	1	0.93	0.79	9.52	29.63
+GO:0038097	positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway	1	1.00	0.92	9.63	425.20
+GO:0061051	positive regulation of cell growth involved in cardiac muscle cell development	1	1.00	0.92	9.63	1867.06
+GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	1	1.00	0.85	9.63	147.30

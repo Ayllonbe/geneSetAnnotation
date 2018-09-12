@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	638	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	452	0.24	0.37	3.90	23.93
+GO:0051239	regulation of multicellular organismal process	352	0.23	0.32	3.68	7.96
+GO:0010604	positive regulation of macromolecule metabolic process	345	0.37	0.48	5.51	38.99
+GO:0010033	response to organic substance	301	0.35	0.37	4.75	9.28
+GO:0042127	regulation of cell proliferation	236	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	224	0.34	0.49	5.84	147.03
+GO:0031324	negative regulation of cellular metabolic process	222	0.34	0.46	5.46	80.35
+GO:0043065	positive regulation of apoptotic process	87	0.56	0.63	7.81	80.91
+GO:0060548	negative regulation of cell death	131	0.54	0.56	7.27	41.94
+GO:0065003	protein-containing complex assembly	164	0.45	0.48	6.06	36.47
+GO:0007186	G-protein coupled receptor signaling pathway	159	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	155	0.47	0.48	6.31	17.13
+GO:0032774	RNA biosynthetic process	142	0.53	0.62	8.04	473.34
+GO:0051050	positive regulation of transport	141	0.42	0.50	5.84	25.90
+GO:0016310	phosphorylation	134	0.53	0.56	6.88	24.41
+GO:0048878	chemical homeostasis	131	0.48	0.49	6.42	10.43
+GO:0045597	positive regulation of cell differentiation	120	0.45	0.51	6.57	82.53
+GO:1903237	negative regulation of leukocyte tethering or rolling	1	1.00	0.92	9.63	459.05
+GO:0040017	positive regulation of locomotion	110	0.55	0.52	6.96	22.08
+GO:0051345	positive regulation of hydrolase activity	107	0.57	0.57	7.42	32.99
+GO:0045785	positive regulation of cell adhesion	97	0.58	0.54	7.23	21.97
+GO:0001667	ameboidal-type cell migration	18	0.61	0.60	7.76	20.63
+GO:0060326	cell chemotaxis	82	0.64	0.61	8.15	30.29
+GO:0009628	response to abiotic stimulus	92	0.46	0.35	5.43	6.14
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	83	0.58	0.64	7.56	28.11
+GO:0010469	regulation of signaling receptor activity	81	0.59	0.62	7.95	48.62
+GO:0006974	cellular response to DNA damage stimulus	77	0.57	0.53	7.47	29.00
+GO:0060627	regulation of vesicle-mediated transport	68	0.48	0.53	6.81	26.12
+GO:0032989	cellular component morphogenesis	65	0.56	0.48	7.27	42.57
+GO:0051051	negative regulation of transport	62	0.42	0.50	5.86	25.98
+GO:0051493	regulation of cytoskeleton organization	62	0.51	0.58	7.03	19.19
+GO:0009615	response to virus	49	0.74	0.66	8.80	27.27
+GO:0006898	receptor-mediated endocytosis	40	0.68	0.66	8.48	28.44
+GO:0070098	chemokine-mediated signaling pathway	39	0.73	0.72	9.00	30.19
+GO:0030111	regulation of Wnt signaling pathway	36	0.59	0.62	7.99	41.85
+GO:0030855	epithelial cell differentiation	35	0.55	0.52	6.96	21.07
+GO:0071363	cellular response to growth factor stimulus	34	0.77	0.67	8.94	60.39
+GO:0007268	chemical synaptic transmission	32	0.74	0.72	8.66	23.17
+GO:0030217	T cell differentiation	31	0.66	0.65	8.68	65.05
+GO:0051897	positive regulation of protein kinase B signaling	30	1.00	0.88	9.63	238.42
+GO:0007017	microtubule-based process	29	0.49	0.37	5.66	7.39
+GO:0016055	Wnt signaling pathway	28	0.59	0.65	7.65	28.58
+GO:0035239	tube morphogenesis	25	0.56	0.48	6.58	10.94
+GO:0030856	regulation of epithelial cell differentiation	23	0.56	0.57	7.76	54.42
+GO:0030198	extracellular matrix organization	22	0.68	0.59	8.24	16.90
+GO:0007229	integrin-mediated signaling pathway	22	1.00	0.82	9.63	26.50
+GO:0043433	negative regulation of DNA binding transcription factor activity	20	0.81	0.84	9.47	278.01
+GO:0120031	plasma membrane bounded cell projection assembly	17	0.69	0.64	8.45	55.86
+GO:0031099	regeneration	17	0.70	0.55	7.89	11.73
+GO:0008584	male gonad development	17	1.00	0.79	9.63	50.96
+GO:0009582	detection of abiotic stimulus	13	0.63	0.51	7.55	17.39
+GO:0021782	glial cell development	12	0.76	0.63	8.78	32.15
+GO:0001570	vasculogenesis	11	0.89	0.70	9.29	21.07
+GO:0061035	regulation of cartilage development	11	0.70	0.64	8.78	27.38
+GO:0030182	neuron differentiation	11	0.58	0.54	7.21	21.07
+GO:0031175	neuron projection development	11	0.68	0.63	8.33	18.96
+GO:0060560	developmental growth involved in morphogenesis	11	0.60	0.50	7.06	15.00
+GO:0048762	mesenchymal cell differentiation	10	0.68	0.59	8.02	21.07
+GO:2000736	regulation of stem cell differentiation	9	0.66	0.62	8.48	27.05
+GO:0031532	actin cytoskeleton reorganization	8	1.00	0.82	9.63	32.01
+GO:0008344	adult locomotory behavior	7	0.84	0.62	9.16	24.58
+GO:0030510	regulation of BMP signaling pathway	6	0.75	0.81	9.36	322.78
+GO:0031581	hemidesmosome assembly	6	1.00	0.82	9.63	36.80
+GO:2000036	regulation of stem cell population maintenance	5	0.74	0.62	9.04	23.09
+GO:0051491	positive regulation of filopodium assembly	5	1.00	0.90	9.63	200.31
+GO:0033148	positive regulation of intracellular estrogen receptor signaling pathway	4	1.00	0.88	9.63	233.77
+GO:0035162	embryonic hemopoiesis	4	0.93	0.79	9.49	36.11
+GO:0060485	mesenchyme development	3	0.72	0.61	8.18	15.06
+GO:0007498	mesoderm development	3	0.83	0.66	8.82	15.06
+GO:0032489	regulation of Cdc42 protein signal transduction	2	1.00	0.92	9.63	50.15
+GO:1902174	positive regulation of keratinocyte apoptotic process	2	1.00	0.90	9.63	129.82
+GO:1902287	semaphorin-plexin signaling pathway involved in axon guidance	2	1.00	0.88	9.63	28.58
+GO:0061548	ganglion development	2	0.79	0.64	8.84	30.32
+GO:0032288	myelin assembly	2	0.89	0.74	9.41	32.85
+GO:0035329	hippo signaling	1	1.00	0.82	9.63	26.43
+GO:1902946	protein localization to early endosome	1	0.93	0.82	9.52	33.47
+GO:1904835	dorsal root ganglion morphogenesis	1	1.00	0.79	9.63	28.43
+GO:1902378	VEGF-activated neuropilin signaling pathway involved in axon guidance	1	1.00	0.92	9.63	58.60
+GO:1901202	negative regulation of extracellular matrix assembly	1	1.00	0.85	9.63	97.16
+GO:0002328	pro-B cell differentiation	1	1.00	0.82	9.63	23.26
+GO:2000761	positive regulation of N-terminal peptidyl-lysine acetylation	1	1.00	0.93	9.63	926.29
+GO:0050847	progesterone receptor signaling pathway	1	1.00	0.88	9.63	54.01
+GO:0061162	establishment of monopolar cell polarity	1	0.80	0.65	9.04	22.65

@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	1117	0.22	0.36	4.01	22.77
+GO:0006355	regulation of transcription, DNA-templated	655	0.40	0.60	6.84	245.35
+GO:0006357	regulation of transcription by RNA polymerase II	456	0.44	0.63	7.11	248.57
+GO:0051239	regulation of multicellular organismal process	456	0.23	0.32	3.68	7.96
+GO:0006351	transcription, DNA-templated	428	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	408	0.38	0.19	3.93	3.37
+GO:0010629	negative regulation of gene expression	336	0.47	0.56	6.74	59.05
+GO:0065003	protein-containing complex assembly	300	0.45	0.48	6.06	36.47
+GO:0032270	positive regulation of cellular protein metabolic process	300	0.47	0.59	7.41	288.49
+GO:0010033	response to organic substance	360	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	249	0.39	0.39	5.14	9.28
+GO:0002683	negative regulation of immune system process	91	0.43	0.47	5.92	22.69
+GO:0050776	regulation of immune response	213	0.38	0.44	5.64	22.45
+GO:0009605	response to external stimulus	241	0.37	0.31	4.62	6.14
+GO:0045944	positive regulation of transcription by RNA polymerase II	213	0.55	0.71	8.36	1463.86
+GO:0022603	regulation of anatomical structure morphogenesis	178	0.36	0.43	5.15	11.29
+GO:0006259	DNA metabolic process	171	0.45	0.55	7.12	145.26
+GO:0007010	cytoskeleton organization	150	0.52	0.51	6.76	18.35
+GO:0080135	regulation of cellular response to stress	140	0.46	0.52	6.64	26.18
+GO:0006366	transcription by RNA polymerase II	135	0.60	0.72	8.61	583.88
+GO:0016567	protein ubiquitination	130	0.69	0.74	9.00	153.79
+GO:0033365	protein localization to organelle	123	0.50	0.54	7.01	29.83
+GO:1902532	negative regulation of intracellular signal transduction	113	0.57	0.64	8.15	189.94
+GO:0051493	regulation of cytoskeleton organization	107	0.51	0.58	7.03	19.19
+GO:0006897	endocytosis	89	0.63	0.61	8.09	26.36
+GO:0051052	regulation of DNA metabolic process	81	0.47	0.56	7.17	70.58
+GO:0010469	regulation of signaling receptor activity	77	0.59	0.62	7.95	48.62
+GO:0051962	positive regulation of nervous system development	65	0.56	0.60	7.74	86.11
+GO:0051701	interaction with host	47	0.38	0.39	5.05	8.50
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	39	1.00	0.79	9.63	42.20
+GO:0030336	negative regulation of cell migration	38	0.58	0.64	8.21	158.04
+GO:0006412	translation	35	0.87	0.78	9.51	402.56
+GO:0006633	fatty acid biosynthetic process	28	0.65	0.70	8.91	359.85
+GO:1901216	positive regulation of neuron death	24	0.81	0.73	9.26	58.38
+GO:0050764	regulation of phagocytosis	22	0.69	0.69	9.05	47.10
+GO:0031099	regeneration	22	0.70	0.55	7.89	11.73
+GO:0061138	morphogenesis of a branching epithelium	21	0.70	0.64	8.48	36.50
+GO:0006637	acyl-CoA metabolic process	20	0.59	0.59	7.98	77.21
+GO:0060333	interferon-gamma-mediated signaling pathway	19	1.00	0.85	9.63	30.19
+GO:0010717	regulation of epithelial to mesenchymal transition	14	0.71	0.65	9.00	54.42
+GO:0001954	positive regulation of cell-matrix adhesion	12	0.87	0.76	9.34	50.26
+GO:0006383	transcription by RNA polymerase III	11	0.84	0.84	9.50	583.88
+GO:0006359	regulation of transcription by RNA polymerase III	8	0.84	0.84	9.53	248.57
+GO:0006509	membrane protein ectodomain proteolysis	6	0.89	0.80	9.45	50.75
+GO:0006471	protein ADP-ribosylation	5	0.80	0.75	9.25	151.15
+GO:0033173	calcineurin-NFAT signaling cascade	2	1.00	0.90	9.63	57.93
+GO:0006384	transcription initiation from RNA polymerase III promoter	2	1.00	0.90	9.63	477.15
+GO:0022011	myelination in peripheral nervous system	2	1.00	0.79	9.63	21.18
+GO:1902950	regulation of dendritic spine maintenance	2	0.89	0.80	9.43	39.54

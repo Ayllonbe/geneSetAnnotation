@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006464	cellular protein modification process	1005	0.34	0.49	5.84	147.03
+GO:0031325	positive regulation of cellular metabolic process	981	0.33	0.46	5.39	79.98
+GO:0009966	regulation of signal transduction	929	0.33	0.45	5.35	37.59
+GO:0006357	regulation of transcription by RNA polymerase II	811	0.44	0.63	7.11	248.57
+GO:0051641	cellular localization	746	0.37	0.31	4.44	5.67
+GO:0006996	organelle organization	713	0.39	0.39	5.17	14.95
+GO:0042221	response to chemical	705	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	674	0.43	0.51	5.91	23.17
+GO:0010628	positive regulation of gene expression	601	0.47	0.56	6.67	58.80
+GO:0031399	regulation of protein modification process	578	0.41	0.56	6.69	72.96
+GO:0051049	regulation of transport	551	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	541	0.51	0.55	6.92	23.17
+GO:0002682	regulation of immune system process	508	0.32	0.36	4.60	7.96
+GO:0042981	regulation of apoptotic process	463	0.45	0.55	6.60	16.23
+GO:0043436	oxoacid metabolic process	332	0.32	0.41	5.14	39.73
+GO:0006811	ion transport	317	0.38	0.44	5.19	10.99
+GO:0000122	negative regulation of transcription by RNA polymerase II	282	0.61	0.74	8.79	1836.95
+GO:0006887	exocytosis	279	0.67	0.66	8.38	37.08
+GO:1903047	mitotic cell cycle process	249	0.50	0.45	5.87	11.32
+GO:0007186	G-protein coupled receptor signaling pathway	203	0.55	0.57	7.20	23.17
+GO:0006325	chromatin organization	179	0.49	0.44	6.23	14.95
+GO:0016477	cell migration	177	0.47	0.48	6.31	17.13
+GO:0031331	positive regulation of cellular catabolic process	130	0.54	0.59	7.66	167.85
+GO:0097435	supramolecular fiber organization	104	0.60	0.50	7.35	14.95
+GO:0006486	protein glycosylation	74	0.62	0.66	8.59	174.08
+GO:0051604	protein maturation	68	0.59	0.59	7.61	47.86
+GO:0006643	membrane lipid metabolic process	68	0.56	0.57	7.82	40.66
+GO:0032092	positive regulation of protein binding	40	0.71	0.64	8.53	32.71
+GO:0032465	regulation of cytokinesis	36	0.59	0.62	8.14	31.80
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	22	0.68	0.71	8.88	231.14
+GO:0006378	mRNA polyadenylation	16	0.93	0.88	9.58	472.44
+GO:0030520	intracellular estrogen receptor signaling pathway	11	1.00	0.88	9.63	54.01
+GO:0032925	regulation of activin receptor signaling pathway	8	0.76	0.73	9.34	44.05
+GO:1902991	regulation of amyloid precursor protein catabolic process	7	0.76	0.70	9.07	43.98
+GO:0030318	melanocyte differentiation	6	0.89	0.74	9.34	22.86
+GO:0007183	SMAD protein complex assembly	3	1.00	0.82	9.63	44.52
+GO:0010848	regulation of chromatin disassembly	2	1.00	0.90	9.63	25.33
+GO:0044375	regulation of peroxisome size	2	1.00	0.79	9.63	28.02
+GO:0070100	negative regulation of chemokine-mediated signaling pathway	2	0.93	0.84	9.58	306.68

@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2459	0.00	0.00	0.00	0.00
+GO:0000165	MAPK cascade	57	0.74	0.77	9.24	231.45
+GO:0008152	metabolic process	1547	0.15	0.07	1.52	3.37
+GO:0007166	cell surface receptor signaling pathway	386	0.43	0.51	5.91	23.17
+GO:0000165	MAPK cascade	57	0.74	0.77	9.24	231.45
+GO:0008152	metabolic process	1547	0.15	0.07	1.52	3.37
+GO:0007166	cell surface receptor signaling pathway	386	0.43	0.51	5.91	23.17
+GO:0055065	metal ion homeostasis	80	0.57	0.64	7.90	34.21
+GO:0002726	positive regulation of T cell cytokine production	5	0.89	0.84	9.57	628.05
+GO:0050789	regulation of biological process	1713	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	503	0.33	0.29	4.10	4.47
+GO:0090427	activation of meiosis	1	0.93	0.86	9.58	326.69
+GO:0055065	metal ion homeostasis	80	0.57	0.64	7.90	34.21
+GO:0002726	positive regulation of T cell cytokine production	5	0.89	0.84	9.57	628.05
+GO:0050789	regulation of biological process	1713	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	503	0.33	0.29	4.10	4.47
+GO:0090427	activation of meiosis	1	0.93	0.86	9.58	326.69
+GO:0002726	positive regulation of T cell cytokine production	5	0.89	0.84	9.57	628.05
+GO:0072507	divalent inorganic cation homeostasis	60	0.61	0.66	8.18	34.21
+GO:0050789	regulation of biological process	1713	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	503	0.33	0.29	4.10	4.47
+GO:0090427	activation of meiosis	1	0.93	0.86	9.58	326.69
+GO:0002726	positive regulation of T cell cytokine production	5	0.89	0.84	9.57	628.05
+GO:0072507	divalent inorganic cation homeostasis	60	0.61	0.66	8.18	34.21
+GO:0050789	regulation of biological process	1713	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	503	0.33	0.29	4.10	4.47
+GO:0090427	activation of meiosis	1	0.93	0.86	9.58	326.69
+GO:0051234	establishment of localization	724	0.28	0.26	3.49	5.67
+GO:0008104	protein localization	354	0.40	0.40	5.07	7.46
+GO:0016043	cellular component organization	761	0.28	0.26	3.74	11.45
+GO:0002376	immune system process	388	0.38	0.19	3.93	3.37
+GO:0030154	cell differentiation	223	0.39	0.39	5.18	16.68
+GO:0048856	anatomical structure development	194	0.33	0.29	3.70	6.46
+GO:0003006	developmental process involved in reproduction	79	0.43	0.34	5.07	14.49
+GO:0007268	chemical synaptic transmission	25	0.74	0.72	8.66	23.17
+GO:0046718	viral entry into host cell	24	0.77	0.73	8.94	28.37
+GO:0007565	female pregnancy	20	1.00	0.70	9.63	32.81
+GO:0030326	embryonic limb morphogenesis	12	0.89	0.74	9.38	43.31
+GO:0097755	positive regulation of blood vessel diameter	7	0.75	0.73	9.07	39.68
+GO:0048701	embryonic cranial skeleton morphogenesis	6	1.00	0.82	9.63	46.18
+GO:0016331	morphogenesis of embryonic epithelium	4	0.74	0.66	8.42	31.67
+GO:0048268	clathrin coat assembly	4	0.84	0.74	9.31	44.52
+GO:0021795	cerebral cortex cell migration	3	0.77	0.73	9.22	22.93
+GO:0060536	cartilage morphogenesis	2	0.84	0.67	9.16	27.73
+GO:0048596	embryonic camera-type eye morphogenesis	2	1.00	0.85	9.63	49.04
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	1	1.00	0.85	9.63	26.14
+GO:0035494	SNARE complex disassembly	1	1.00	0.82	9.63	39.99
+GO:0008595	anterior/posterior axis specification, embryo	1	0.89	0.74	9.38	40.32

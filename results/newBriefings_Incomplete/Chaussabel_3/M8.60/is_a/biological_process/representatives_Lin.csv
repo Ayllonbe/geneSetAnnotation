@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	1134	0.22	0.36	4.01	22.77
+GO:0034641	cellular nitrogen compound metabolic process	917	0.26	0.33	4.23	26.70
+GO:0016043	cellular component organization	835	0.28	0.26	3.74	11.45
+GO:0006810	transport	753	0.28	0.34	3.95	7.46
+GO:0006357	regulation of transcription by RNA polymerase II	465	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	436	0.57	0.68	8.45	581.39
+GO:0006796	phosphate-containing compound metabolic process	384	0.36	0.43	5.28	20.85
+GO:0050794	regulation of cellular process	1786	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	316	0.32	0.36	4.60	7.96
+GO:0071310	cellular response to organic substance	257	0.44	0.47	5.95	41.66
+GO:0051050	positive regulation of transport	190	0.42	0.50	5.84	25.90
+GO:0001934	positive regulation of protein phosphorylation	187	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	184	0.56	0.63	7.79	81.07
+GO:0060284	regulation of cell development	130	0.42	0.50	6.27	27.05
+GO:0030335	positive regulation of cell migration	104	0.58	0.64	8.22	157.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	94	0.58	0.64	7.56	28.11
+GO:0048468	cell development	92	0.51	0.45	6.51	28.42
+GO:1903706	regulation of hemopoiesis	89	0.50	0.54	7.23	38.17
+GO:0001666	response to hypoxia	57	0.81	0.70	9.12	21.16
+GO:0051495	positive regulation of cytoskeleton organization	50	0.62	0.66	8.29	90.96
+GO:1901184	regulation of ERBB signaling pathway	21	0.70	0.67	8.76	41.85
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0048754	branching morphogenesis of an epithelial tube	18	0.74	0.69	8.88	51.71
+GO:0009060	aerobic respiration	12	0.77	0.71	8.87	31.55
+GO:0031532	actin cytoskeleton reorganization	10	1.00	0.82	9.63	32.01
+GO:0035735	intraciliary transport involved in cilium assembly	7	1.00	0.88	9.63	77.81
+GO:1904707	positive regulation of vascular smooth muscle cell proliferation	7	1.00	0.85	9.63	80.76
+GO:0042246	tissue regeneration	6	0.76	0.63	8.94	42.89
+GO:0007224	smoothened signaling pathway	6	0.78	0.71	8.87	26.50
+GO:0071157	negative regulation of cell cycle arrest	4	1.00	0.85	9.63	127.41
+GO:0033148	positive regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	233.77
+GO:2000587	negative regulation of platelet-derived growth factor receptor-beta signaling pathway	2	1.00	0.88	9.63	232.73
+GO:0060244	negative regulation of cell proliferation involved in contact inhibition	2	1.00	0.82	9.63	46.98
+GO:0060821	inactivation of X chromosome by DNA methylation	1	1.00	0.90	9.63	20.99

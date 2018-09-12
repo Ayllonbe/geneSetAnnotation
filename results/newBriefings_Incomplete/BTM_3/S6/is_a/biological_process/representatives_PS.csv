@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	497	0.08	0.04	0.98	3.37
+GO:0050794	regulation of cellular process	455	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	307	0.21	0.30	3.05	7.96
+GO:0019222	regulation of metabolic process	258	0.21	0.30	3.39	7.96
+GO:0016043	cellular component organization	205	0.28	0.26	3.74	11.45
+GO:0009967	positive regulation of signal transduction	99	0.44	0.54	6.71	140.23
+GO:0031401	positive regulation of protein modification process	65	0.51	0.63	7.86	366.05
+GO:0051046	regulation of secretion	47	0.42	0.50	5.90	14.08
+GO:0051051	negative regulation of transport	37	0.42	0.50	5.86	25.98
+GO:0006874	cellular calcium ion homeostasis	30	0.63	0.71	8.83	287.08
+GO:0032496	response to lipopolysaccharide	29	0.89	0.74	9.45	64.41
+GO:0099537	trans-synaptic signaling	18	0.63	0.60	8.02	19.88
+GO:0043547	positive regulation of GTPase activity	16	0.93	0.79	9.52	49.34
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	11	1.00	0.79	9.63	42.20
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	10	0.78	0.71	8.87	26.98
+GO:0007218	neuropeptide signaling pathway	7	0.93	0.79	9.49	26.98
+GO:0051604	protein maturation	6	0.59	0.59	7.61	47.86
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	4	1.00	0.82	9.63	26.98
+GO:0072659	protein localization to plasma membrane	4	0.79	0.72	9.26	65.43
+GO:0070493	thrombin-activated receptor signaling pathway	1	1.00	0.82	9.63	26.98

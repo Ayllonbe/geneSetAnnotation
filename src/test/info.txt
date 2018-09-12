@@ -1,0 +1,14 @@
+Organism=Human
+Listgene=CIFITM3,RTP4,IFIT1,IFIT3,IFI44L,OASL,HERC5,TRIM6,LAMP3,EPSTI1,OTOF,FLJ20035,HES4,BATF2,RSAD2,MX1,IFI44,ISG15,LOC129607,CXCL10,OAS1,OAS2,OAS3,SERPING1,XAF1,LY6E,LOC26010
+MethodSS=Schlicker
+HCL=ward.D2
+ic=Zhou
+ontology=biological_process
+filtre=0.9
+precision=1
+length_min=0.1
+ncombination_cluster=0.1
+gofile=./go.owl
+goafile=./gene_association.goa_human
+Rfile=./clusteranalisis.R
+exportfolder=Export/

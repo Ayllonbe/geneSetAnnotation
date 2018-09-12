@@ -1,0 +1,70 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	542	0.12	0.26	2.47	7.96
+GO:0007165	signal transduction	331	0.36	0.43	5.06	19.43
+GO:0045454	cell redox homeostasis	2	1.00	0.79	9.63	31.94
+GO:0031323	regulation of cellular metabolic process	278	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	229	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	200	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	161	0.32	0.29	4.16	13.85
+GO:0019538	protein metabolic process	155	0.31	0.41	4.91	44.77
+GO:0070887	cellular response to chemical stimulus	127	0.40	0.40	5.31	25.21
+GO:2000026	regulation of multicellular organismal development	126	0.29	0.39	4.73	23.09
+GO:0009967	positive regulation of signal transduction	120	0.44	0.54	6.71	140.23
+GO:0071702	organic substance transport	106	0.33	0.41	4.62	10.99
+GO:0045862	positive regulation of proteolysis	21	0.61	0.68	8.73	336.28
+GO:0031401	positive regulation of protein modification process	87	0.51	0.63	7.86	366.05
+GO:0010628	positive regulation of gene expression	88	0.47	0.56	6.67	58.80
+GO:0016477	cell migration	85	0.47	0.48	6.31	17.13
+GO:0048545	response to steroid hormone	21	0.69	0.64	8.94	60.25
+GO:0010243	response to organonitrogen compound	70	0.45	0.48	6.23	25.43
+GO:0031327	negative regulation of cellular biosynthetic process	76	0.42	0.53	6.40	170.82
+GO:0080134	regulation of response to stress	103	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	70	0.40	0.45	5.60	11.65
+GO:0043069	negative regulation of programmed cell death	62	0.55	0.60	7.50	59.56
+GO:0051130	positive regulation of cellular component organization	60	0.42	0.50	5.95	43.84
+GO:0015031	protein transport	60	0.48	0.59	6.99	54.46
+GO:0043269	regulation of ion transport	54	0.41	0.50	6.00	14.08
+GO:0006812	cation transport	52	0.45	0.51	6.21	12.09
+GO:0006897	endocytosis	50	0.63	0.61	8.09	26.36
+GO:0044255	cellular lipid metabolic process	47	0.38	0.44	5.89	38.02
+GO:0009617	response to bacterium	44	0.75	0.67	8.94	27.27
+GO:0006874	cellular calcium ion homeostasis	43	0.63	0.71	8.83	287.08
+GO:0050708	regulation of protein secretion	36	0.54	0.62	7.86	96.15
+GO:0001933	negative regulation of protein phosphorylation	28	0.61	0.70	8.76	664.69
+GO:0031397	negative regulation of protein ubiquitination	3	0.75	0.79	9.37	529.46
+GO:0070482	response to oxygen levels	21	0.70	0.55	8.33	8.85
+GO:0051962	positive regulation of nervous system development	20	0.56	0.60	7.74	86.11
+GO:0007268	chemical synaptic transmission	19	0.74	0.72	8.66	23.17
+GO:0003018	vascular process in circulatory system	17	0.61	0.56	7.43	11.17
+GO:0072657	protein localization to membrane	17	0.58	0.58	7.59	29.83
+GO:0043393	regulation of protein binding	14	0.59	0.55	7.49	9.33
+GO:0031295	T cell costimulation	12	0.93	0.86	9.59	354.90
+GO:0015718	monocarboxylic acid transport	12	0.56	0.66	7.76	50.20
+GO:0090316	positive regulation of intracellular protein transport	11	0.71	0.73	9.11	289.79
+GO:0042542	response to hydrogen peroxide	11	0.93	0.76	9.54	79.29
+GO:0008016	regulation of heart contraction	11	0.57	0.61	7.59	16.15
+GO:0046718	viral entry into host cell	10	0.77	0.73	8.94	28.37
+GO:0010595	positive regulation of endothelial cell migration	8	0.83	0.81	9.49	298.63
+GO:1900027	regulation of ruffle assembly	8	0.89	0.82	9.45	51.76
+GO:0032507	maintenance of protein location in cell	7	0.68	0.63	8.41	43.86
+GO:0030203	glycosaminoglycan metabolic process	7	0.66	0.62	8.41	52.03
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	5	0.93	0.90	9.60	732.69
+GO:2001258	negative regulation of cation channel activity	5	0.71	0.75	9.10	527.32
+GO:0007589	body fluid secretion	5	0.80	0.69	9.00	24.01
+GO:0098901	regulation of cardiac muscle cell action potential	5	0.65	0.62	8.53	21.90
+GO:0008344	adult locomotory behavior	5	0.84	0.62	9.16	24.58
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	4	1.00	0.93	9.63	628.11
+GO:0035176	social behavior	3	1.00	0.70	9.63	22.58
+GO:0001657	ureteric bud development	3	1.00	0.88	9.63	36.92
+GO:0032417	positive regulation of sodium:proton antiporter activity	2	1.00	0.93	9.63	842.89
+GO:0048550	negative regulation of pinocytosis	2	0.93	0.84	9.56	174.57
+GO:0034446	substrate adhesion-dependent cell spreading	2	1.00	0.82	9.63	56.23
+GO:1903543	positive regulation of exosomal secretion	2	1.00	0.90	9.63	273.98
+GO:0051001	negative regulation of nitric-oxide synthase activity	2	1.00	0.85	9.63	123.18
+GO:0042417	dopamine metabolic process	2	0.87	0.78	9.50	117.21
+GO:0001964	startle response	1	1.00	0.79	9.63	22.23
+GO:0051586	positive regulation of dopamine uptake involved in synaptic transmission	1	1.00	0.90	9.63	542.84
+GO:0072012	glomerulus vasculature development	1	0.89	0.80	9.41	29.79
+GO:0006656	phosphatidylcholine biosynthetic process	1	0.80	0.77	9.40	749.29
+GO:0001662	behavioral fear response	1	1.00	0.79	9.63	37.89
+GO:0042426	choline catabolic process	1	1.00	0.88	9.63	257.11

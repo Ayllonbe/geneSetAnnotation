@@ -1,0 +1,81 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	456	0.43	0.51	5.91	23.17
+GO:0032879	regulation of localization	419	0.27	0.33	4.05	7.96
+GO:0032879	regulation of localization	419	0.27	0.33	4.05	7.96
+GO:0065008	regulation of biological quality	403	0.28	0.26	3.48	4.47
+GO:0042221	response to chemical	393	0.32	0.29	4.12	6.14
+GO:0002682	regulation of immune system process	359	0.32	0.36	4.60	7.96
+GO:0032268	regulation of cellular protein metabolic process	346	0.37	0.51	6.13	70.76
+GO:0051128	regulation of cellular component organization	328	0.30	0.40	4.57	12.04
+GO:0045669	positive regulation of osteoblast differentiation	10	0.93	0.79	9.56	169.86
+GO:2000026	regulation of multicellular organismal development	309	0.29	0.39	4.73	23.09
+GO:0008285	negative regulation of cell proliferation	129	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	211	0.56	0.57	7.27	43.45
+GO:0044267	cellular protein metabolic process	287	0.34	0.46	5.57	80.87
+GO:0009967	positive regulation of signal transduction	271	0.44	0.54	6.71	140.23
+GO:0045321	leukocyte activation	251	0.52	0.46	6.78	16.27
+GO:0045727	positive regulation of translation	12	0.66	0.71	9.12	1032.69
+GO:0001932	regulation of protein phosphorylation	240	0.50	0.62	7.64	109.03
+GO:0035556	intracellular signal transduction	246	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	238	0.45	0.55	6.60	16.23
+GO:1903208	negative regulation of hydrogen peroxide-induced neuron death	2	0.93	0.88	9.60	1053.93
+GO:0042981	regulation of apoptotic process	238	0.45	0.55	6.60	16.23
+GO:1903208	negative regulation of hydrogen peroxide-induced neuron death	2	0.93	0.88	9.60	1053.93
+GO:0010557	positive regulation of macromolecule biosynthetic process	236	0.45	0.55	6.62	113.59
+GO:0019221	cytokine-mediated signaling pathway	178	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	177	0.48	0.56	7.11	36.74
+GO:0007186	G-protein coupled receptor signaling pathway	172	0.55	0.57	7.20	23.17
+GO:0009890	negative regulation of biosynthetic process	171	0.41	0.49	5.73	39.03
+GO:0006836	neurotransmitter transport	20	0.58	0.54	7.10	10.99
+GO:0071705	nitrogen compound transport	170	0.36	0.43	4.99	10.99
+GO:0033554	cellular response to stress	167	0.44	0.42	6.05	25.47
+GO:0098542	defense response to other organism	91	0.66	0.62	8.42	39.21
+GO:0002237	response to molecule of bacterial origin	105	0.69	0.59	8.74	31.75
+GO:0006955	immune response	154	0.54	0.40	6.57	12.45
+GO:0051726	regulation of cell cycle	148	0.41	0.45	5.89	12.04
+GO:0001818	negative regulation of cytokine production	60	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	106	0.51	0.54	6.97	44.26
+GO:0050900	leukocyte migration	137	0.60	0.59	8.02	26.94
+GO:0098771	inorganic ion homeostasis	133	0.53	0.59	7.39	14.93
+GO:0055080	cation homeostasis	132	0.54	0.59	7.36	14.93
+GO:0032102	negative regulation of response to external stimulus	52	0.51	0.55	6.94	42.31
+GO:0032103	positive regulation of response to external stimulus	86	0.53	0.55	7.02	42.20
+GO:0022414	reproductive process	123	0.35	0.17	3.17	3.37
+GO:0010469	regulation of signaling receptor activity	104	0.59	0.62	7.95	48.62
+GO:0006508	proteolysis	103	0.55	0.57	7.34	47.86
+GO:0019752	carboxylic acid metabolic process	97	0.32	0.45	5.31	42.50
+GO:0048468	cell development	78	0.51	0.45	6.51	28.42
+GO:0003008	system process	71	0.44	0.35	5.06	7.59
+GO:0044057	regulation of system process	70	0.41	0.46	5.70	11.79
+GO:0051090	regulation of DNA binding transcription factor activity	70	0.72	0.77	9.22	255.34
+GO:0097746	regulation of blood vessel diameter	24	0.64	0.64	8.47	38.29
+GO:0032535	regulation of cellular component size	33	0.60	0.55	7.84	25.54
+GO:0010817	regulation of hormone levels	52	0.41	0.40	5.23	8.64
+GO:0051098	regulation of binding	50	0.50	0.45	6.36	6.77
+GO:0043900	regulation of multi-organism process	48	0.40	0.40	5.32	7.96
+GO:0097435	supramolecular fiber organization	42	0.60	0.50	7.35	14.95
+GO:0043687	post-translational protein modification	37	0.65	0.67	8.51	151.15
+GO:0030198	extracellular matrix organization	33	0.68	0.59	8.24	16.90
+GO:0001959	regulation of cytokine-mediated signaling pathway	27	0.61	0.63	8.11	55.11
+GO:0031099	regeneration	27	0.70	0.55	7.89	11.73
+GO:0007275	multicellular organism development	25	0.70	0.55	8.18	19.32
+GO:0061138	morphogenesis of a branching epithelium	24	0.70	0.64	8.48	36.50
+GO:0045428	regulation of nitric oxide biosynthetic process	19	0.89	0.80	9.49	114.30
+GO:0034103	regulation of tissue remodeling	17	0.68	0.59	8.38	11.79
+GO:0035987	endodermal cell differentiation	15	1.00	0.75	9.63	21.07
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0045599	negative regulation of fat cell differentiation	10	0.93	0.79	9.54	114.62
+GO:0034114	regulation of heterotypic cell-cell adhesion	6	0.89	0.74	9.29	12.87
+GO:0045346	regulation of MHC class II biosynthetic process	6	0.89	0.77	9.38	30.01
+GO:0030225	macrophage differentiation	6	0.93	0.79	9.51	47.07
+GO:0050873	brown fat cell differentiation	6	1.00	0.79	9.63	21.76
+GO:0031581	hemidesmosome assembly	6	1.00	0.82	9.63	36.80
+GO:0060271	cilium assembly	5	0.87	0.76	9.41	137.68
+GO:0001836	release of cytochrome c from mitochondria	5	1.00	0.82	9.63	22.13
+GO:0042045	epithelial fluid transport	4	0.89	0.74	9.34	24.06
+GO:0060585	positive regulation of prostaglandin-endoperoxide synthase activity	2	1.00	0.82	9.63	94.42
+GO:0032800	receptor biosynthetic process	2	0.83	0.74	9.32	73.96
+GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0043179	rhythmic excitation	1	1.00	0.88	9.63	31.31
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
+GO:0042313	protein kinase C deactivation	1	1.00	0.85	9.63	44.99

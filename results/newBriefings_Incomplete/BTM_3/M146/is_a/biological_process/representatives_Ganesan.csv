@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1388	0.12	0.26	2.47	7.96
+GO:0002684	positive regulation of immune system process	341	0.41	0.45	5.71	22.61
+GO:0050776	regulation of immune response	332	0.38	0.44	5.64	22.45
+GO:1901797	negative regulation of signal transduction by p53 class mediator	6	0.83	0.79	9.47	239.49
+GO:0009967	positive regulation of signal transduction	323	0.44	0.54	6.71	140.23
+GO:0001932	regulation of protein phosphorylation	280	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	242	0.52	0.67	8.14	1208.12
+GO:0006952	defense response	229	0.56	0.48	6.67	9.54
+GO:0031347	regulation of defense response	199	0.40	0.49	5.73	14.14
+GO:0033993	response to lipid	197	0.53	0.51	6.86	13.32
+GO:0014070	response to organic cyclic compound	158	0.45	0.47	5.96	13.32
+GO:0050900	leukocyte migration	150	0.60	0.59	8.02	26.94
+GO:0001819	positive regulation of cytokine production	142	0.51	0.54	6.97	44.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	110	0.58	0.64	7.56	28.11
+GO:0002791	regulation of peptide secretion	109	0.51	0.58	7.07	32.12
+GO:0071345	cellular response to cytokine stimulus	91	0.67	0.63	8.21	61.60
+GO:1902105	regulation of leukocyte differentiation	87	0.53	0.59	7.80	67.17
+GO:0006886	intracellular protein transport	72	0.55	0.65	8.12	90.55
+GO:0042110	T cell activation	68	0.59	0.59	7.76	19.85
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	51	0.62	0.66	8.48	139.22
+GO:0048002	antigen processing and presentation of peptide antigen	38	0.70	0.55	8.09	8.95
+GO:0060333	interferon-gamma-mediated signaling pathway	34	1.00	0.85	9.63	30.19
+GO:0060337	type I interferon signaling pathway	31	1.00	0.85	9.63	30.19
+GO:0030260	entry into host cell	27	0.74	0.69	8.68	26.99
+GO:0090023	positive regulation of neutrophil chemotaxis	20	1.00	0.93	9.63	945.71
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	19	1.00	0.82	9.63	26.43
+GO:0010524	positive regulation of calcium ion transport into cytosol	17	0.81	0.85	9.49	446.86
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	15	0.89	0.89	9.55	412.65
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0070206	protein trimerization	13	0.89	0.77	9.41	42.03
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0032507	maintenance of protein location in cell	11	0.68	0.63	8.41	43.86
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:0034162	toll-like receptor 9 signaling pathway	6	1.00	0.95	9.63	412.65
+GO:0035723	interleukin-15-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0051290	protein heterotetramerization	4	1.00	0.85	9.63	85.45
+GO:0046598	positive regulation of viral entry into host cell	4	0.93	0.84	9.55	85.02
+GO:0007252	I-kappaB phosphorylation	4	1.00	0.88	9.63	180.75
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0034154	toll-like receptor 7 signaling pathway	3	1.00	0.95	9.63	412.65
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0002906	negative regulation of mature B cell apoptotic process	2	1.00	0.93	9.63	225.74
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0035691	macrophage migration inhibitory factor signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0034158	toll-like receptor 8 signaling pathway	1	1.00	0.95	9.63	412.65
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37

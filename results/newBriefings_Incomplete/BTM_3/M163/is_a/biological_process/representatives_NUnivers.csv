@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1315	0.09	0.17	1.80	4.47
+GO:0048523	negative regulation of cellular process	615	0.24	0.37	3.90	23.93
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	417	0.31	0.41	4.91	44.77
+GO:0048869	cellular developmental process	393	0.32	0.29	4.16	13.85
+GO:0006357	regulation of transcription by RNA polymerase II	267	0.44	0.63	7.11	248.57
+GO:0033554	cellular response to stress	194	0.44	0.42	6.05	25.47
+GO:0002275	myeloid cell activation involved in immune response	174	0.74	0.66	9.05	59.31
+GO:0002253	activation of immune response	137	0.59	0.62	8.04	87.88
+GO:0045087	innate immune response	128	0.68	0.59	8.16	26.47
+GO:0098660	inorganic ion transmembrane transport	102	0.56	0.60	7.40	27.94
+GO:0043547	positive regulation of GTPase activity	69	0.93	0.79	9.52	49.34
+GO:0006644	phospholipid metabolic process	46	0.53	0.56	7.60	99.63
+GO:0044262	cellular carbohydrate metabolic process	16	0.46	0.48	6.72	38.14
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0046580	negative regulation of Ras protein signal transduction	9	0.83	0.81	9.39	288.25
+GO:1904886	beta-catenin destruction complex disassembly	5	1.00	0.79	9.63	38.05
+GO:2001204	regulation of osteoclast development	5	0.89	0.84	9.51	200.39
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0050908	detection of light stimulus involved in visual perception	3	1.00	0.85	9.63	116.24
+GO:0019262	N-acetylneuraminate catabolic process	1	1.00	0.85	9.63	426.13

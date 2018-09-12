@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	212	0.12	0.26	2.47	7.96
+GO:0016070	RNA metabolic process	103	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	26	0.45	0.55	7.12	145.26
+GO:0009966	regulation of signal transduction	52	0.33	0.45	5.35	37.59
+GO:0015031	protein transport	45	0.48	0.59	6.99	54.46
+GO:0006508	proteolysis	31	0.55	0.57	7.34	47.86
+GO:0006897	endocytosis	11	0.63	0.61	8.09	26.36
+GO:0043299	leukocyte degranulation	11	0.81	0.78	9.22	48.81
+GO:0051607	defense response to virus	8	0.87	0.76	9.49	78.89
+GO:1903305	regulation of regulated secretory pathway	5	0.61	0.68	8.27	62.05
+GO:1900026	positive regulation of substrate adhesion-dependent cell spreading	2	1.00	0.88	9.63	350.52
+GO:0045471	response to ethanol	2	0.93	0.76	9.52	69.73
+GO:2000825	positive regulation of androgen receptor activity	1	1.00	0.95	9.63	1282.77
+GO:0002467	germinal center formation	1	1.00	0.79	9.63	29.46
+GO:0050709	negative regulation of protein secretion	1	0.65	0.70	8.75	381.97
+GO:0051402	neuron apoptotic process	1	0.83	0.70	9.02	23.44

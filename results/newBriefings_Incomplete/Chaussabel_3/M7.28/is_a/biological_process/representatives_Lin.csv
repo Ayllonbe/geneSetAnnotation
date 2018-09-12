@@ -1,0 +1,101 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	2603	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	1919	0.24	0.37	3.90	23.93
+GO:0010468	regulation of gene expression	1910	0.35	0.46	5.09	13.73
+GO:0006464	cellular protein modification process	1345	0.34	0.49	5.84	147.03
+GO:0018130	heterocycle biosynthetic process	1314	0.36	0.43	5.43	52.56
+GO:0034645	cellular macromolecule biosynthetic process	1285	0.47	0.53	6.91	102.76
+GO:0051716	cellular response to stimulus	1216	0.35	0.30	4.36	13.53
+GO:0008104	protein localization	843	0.40	0.40	5.07	7.46
+GO:0065003	protein-containing complex assembly	727	0.45	0.48	6.06	36.47
+GO:0009967	positive regulation of signal transduction	691	0.44	0.54	6.71	140.23
+GO:0042127	regulation of cell proliferation	604	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	554	0.55	0.57	7.34	47.86
+GO:0009968	negative regulation of signal transduction	501	0.44	0.54	6.68	140.65
+GO:0032940	secretion by cell	473	0.48	0.53	6.33	20.46
+GO:0060548	negative regulation of cell death	456	0.54	0.56	7.27	41.94
+GO:0009894	regulation of catabolic process	439	0.42	0.46	5.75	10.74
+GO:0006259	DNA metabolic process	387	0.45	0.55	7.12	145.26
+GO:0006396	RNA processing	386	0.49	0.60	7.48	115.08
+GO:0009628	response to abiotic stimulus	334	0.46	0.35	5.43	6.14
+GO:0016567	protein ubiquitination	321	0.69	0.74	9.00	153.79
+GO:0022414	reproductive process	313	0.35	0.17	3.17	3.37
+GO:0009653	anatomical structure morphogenesis	311	0.36	0.31	4.09	6.46
+GO:0051960	regulation of nervous system development	302	0.45	0.52	6.58	27.38
+GO:0080135	regulation of cellular response to stress	297	0.46	0.52	6.64	26.18
+GO:0017144	drug metabolic process	252	0.37	0.38	5.07	17.52
+GO:1903827	regulation of cellular protein localization	251	0.48	0.53	6.86	25.72
+GO:0051493	regulation of cytoskeleton organization	232	0.51	0.58	7.03	19.19
+GO:0048468	cell development	225	0.51	0.45	6.51	28.42
+GO:0006897	endocytosis	188	0.63	0.61	8.09	26.36
+GO:0051052	regulation of DNA metabolic process	184	0.47	0.56	7.17	70.58
+GO:0006875	cellular metal ion homeostasis	184	0.59	0.67	8.36	105.84
+GO:0015672	monovalent inorganic cation transport	117	0.67	0.66	8.33	15.42
+GO:0030001	metal ion transport	179	0.54	0.59	7.29	15.42
+GO:0043687	post-translational protein modification	171	0.65	0.67	8.51	151.15
+GO:0050900	leukocyte migration	157	0.60	0.59	8.02	26.94
+GO:0044057	regulation of system process	155	0.41	0.46	5.70	11.79
+GO:0006650	glycerophospholipid metabolic process	145	0.59	0.62	8.12	144.72
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	140	0.61	0.63	8.36	112.25
+GO:0032984	protein-containing complex disassembly	136	0.61	0.55	7.66	35.41
+GO:0001818	negative regulation of cytokine production	134	0.51	0.55	7.03	44.36
+GO:0120031	plasma membrane bounded cell projection assembly	121	0.69	0.64	8.45	55.86
+GO:0044419	interspecies interaction between organisms	119	0.32	0.29	4.18	6.20
+GO:0006914	autophagy	118	0.67	0.59	8.40	37.75
+GO:0034976	response to endoplasmic reticulum stress	116	0.68	0.59	8.28	29.00
+GO:0030100	regulation of endocytosis	114	0.59	0.62	8.15	44.91
+GO:0046395	carboxylic acid catabolic process	114	0.44	0.54	6.76	160.26
+GO:0031396	regulation of protein ubiquitination	111	0.64	0.72	8.86	78.03
+GO:0008202	steroid metabolic process	101	0.57	0.53	7.51	35.32
+GO:0006486	protein glycosylation	97	0.62	0.66	8.59	174.08
+GO:0050658	RNA transport	96	0.64	0.67	8.39	40.09
+GO:0040029	regulation of gene expression, epigenetic	83	0.63	0.64	7.86	16.68
+GO:0001701	in utero embryonic development	79	1.00	0.85	9.63	22.50
+GO:0031056	regulation of histone modification	74	0.56	0.65	8.38	99.90
+GO:0010634	positive regulation of epithelial cell migration	67	0.79	0.77	9.38	242.53
+GO:0070125	mitochondrial translational elongation	61	1.00	0.85	9.63	106.95
+GO:1904064	positive regulation of cation transmembrane transport	45	0.60	0.68	8.21	171.07
+GO:0006368	transcription elongation from RNA polymerase II promoter	44	1.00	0.90	9.63	477.15
+GO:0016202	regulation of striated muscle tissue development	41	0.61	0.63	8.27	41.67
+GO:0045995	regulation of embryonic development	39	0.50	0.54	6.89	27.38
+GO:0000281	mitotic cytokinesis	38	0.93	0.76	9.47	28.62
+GO:0060429	epithelium development	33	0.55	0.53	6.89	15.06
+GO:0007389	pattern specification process	31	0.47	0.36	5.23	7.59
+GO:0032781	positive regulation of ATPase activity	26	0.75	0.70	8.78	51.42
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	25	1.00	0.82	9.63	32.65
+GO:0002312	B cell activation involved in immune response	25	0.74	0.69	8.98	81.36
+GO:0051402	neuron apoptotic process	24	0.83	0.70	9.02	23.44
+GO:0006986	response to unfolded protein	23	0.87	0.72	9.34	23.96
+GO:0006361	transcription initiation from RNA polymerase I promoter	21	1.00	0.90	9.63	477.15
+GO:0006363	termination of RNA polymerase I transcription	20	1.00	0.90	9.63	477.15
+GO:0010812	negative regulation of cell-substrate adhesion	18	0.80	0.72	9.12	52.01
+GO:0000413	protein peptidyl-prolyl isomerization	17	0.93	0.86	9.57	156.19
+GO:0033146	regulation of intracellular estrogen receptor signaling pathway	14	0.89	0.80	9.43	43.64
+GO:1903672	positive regulation of sprouting angiogenesis	14	0.87	0.81	9.45	183.75
+GO:0035510	DNA dealkylation	13	0.83	0.79	9.47	166.36
+GO:0035265	organ growth	11	0.77	0.58	8.75	22.58
+GO:0045662	negative regulation of myoblast differentiation	10	0.93	0.79	9.54	114.62
+GO:0007628	adult walking behavior	9	1.00	0.75	9.63	34.94
+GO:0045199	maintenance of epithelial cell apical/basal polarity	8	1.00	0.82	9.63	34.60
+GO:0033344	cholesterol efflux	7	1.00	0.88	9.63	39.64
+GO:0090083	regulation of inclusion body assembly	7	0.79	0.68	9.12	27.32
+GO:0050872	white fat cell differentiation	7	0.93	0.76	9.47	21.76
+GO:2000234	positive regulation of rRNA processing	6	1.00	0.88	9.63	509.09
+GO:0034244	negative regulation of transcription elongation from RNA polymerase II promoter	5	1.00	0.95	9.63	4178.88
+GO:1900746	regulation of vascular endothelial growth factor signaling pathway	5	0.89	0.77	9.45	69.04
+GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	5	1.00	0.82	9.63	27.94
+GO:0006273	lagging strand elongation	5	0.93	0.86	9.58	265.92
+GO:0032933	SREBP signaling pathway	4	1.00	0.95	9.63	1530.99
+GO:0072112	glomerular visceral epithelial cell differentiation	4	0.89	0.80	9.45	72.77
+GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
+GO:0006288	base-excision repair, DNA ligation	3	1.00	0.90	9.63	150.14
+GO:0061084	negative regulation of protein refolding	2	1.00	0.82	9.63	56.79
+GO:1990928	response to amino acid starvation	2	1.00	0.82	9.63	23.52
+GO:0097264	self proteolysis	2	0.89	0.77	9.43	49.65
+GO:0060853	Notch signaling pathway involved in arterial endothelial cell fate commitment	1	1.00	0.85	9.63	28.58
+GO:0036060	slit diaphragm assembly	1	1.00	0.85	9.63	56.83
+GO:1903758	negative regulation of transcription from RNA polymerase II promoter by histone modification	1	1.00	0.95	9.63	2281.03
+GO:0042245	RNA repair	1	1.00	0.85	9.63	115.08
+GO:1990592	protein K69-linked ufmylation	1	1.00	0.93	9.63	153.79
+GO:0042275	error-free postreplication DNA repair	1	0.93	0.86	9.59	183.74

@@ -1,0 +1,70 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016070	RNA metabolic process	1467	0.39	0.52	6.45	112.25
+GO:0006357	regulation of transcription by RNA polymerase II	1057	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	1042	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	997	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	941	0.38	0.19	3.93	3.37
+GO:0006811	ion transport	400	0.38	0.44	5.19	10.99
+GO:0071702	organic substance transport	915	0.33	0.41	4.62	10.99
+GO:0006996	organelle organization	898	0.39	0.39	5.17	14.95
+GO:0010629	negative regulation of gene expression	755	0.47	0.56	6.74	59.05
+GO:0046907	intracellular transport	727	0.46	0.48	6.38	29.65
+GO:0044093	positive regulation of molecular function	726	0.43	0.41	5.23	6.77
+GO:0035556	intracellular signal transduction	710	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	706	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	678	0.44	0.54	6.71	140.23
+GO:0045595	regulation of cell differentiation	649	0.34	0.42	5.25	23.33
+GO:0045893	positive regulation of transcription, DNA-templated	637	0.52	0.67	8.14	1208.12
+GO:0042981	regulation of apoptotic process	617	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	592	0.50	0.62	7.64	109.03
+GO:0032101	regulation of response to external stimulus	325	0.40	0.45	5.60	11.65
+GO:0050778	positive regulation of immune response	336	0.46	0.52	6.76	78.39
+GO:0006508	proteolysis	541	0.55	0.57	7.34	47.86
+GO:0009968	negative regulation of signal transduction	487	0.44	0.54	6.68	140.65
+GO:0070647	protein modification by small protein conjugation or removal	457	0.61	0.66	8.44	151.15
+GO:0043436	oxoacid metabolic process	438	0.32	0.41	5.14	39.73
+GO:0009894	regulation of catabolic process	428	0.42	0.46	5.75	10.74
+GO:0006468	protein phosphorylation	421	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	379	0.45	0.55	7.12	145.26
+GO:0043620	regulation of DNA-templated transcription in response to stress	39	0.63	0.73	8.89	277.57
+GO:0006974	cellular response to DNA damage stimulus	348	0.57	0.53	7.47	29.00
+GO:0008284	positive regulation of cell proliferation	358	0.56	0.57	7.27	43.45
+GO:0019221	cytokine-mediated signaling pathway	327	0.60	0.63	7.60	26.50
+GO:0001817	regulation of cytokine production	318	0.40	0.45	5.78	11.79
+GO:0016071	mRNA metabolic process	305	0.59	0.65	8.39	115.08
+GO:0019725	cellular homeostasis	296	0.53	0.52	6.93	17.82
+GO:0007167	enzyme linked receptor protein signaling pathway	270	0.53	0.59	7.04	26.50
+GO:0048468	cell development	222	0.51	0.45	6.51	28.42
+GO:0045787	positive regulation of cell cycle	192	0.53	0.55	7.23	42.18
+GO:0051276	chromosome organization	180	0.55	0.52	6.96	18.35
+GO:0043687	post-translational protein modification	170	0.65	0.67	8.51	151.15
+GO:0120036	plasma membrane bounded cell projection organization	168	0.58	0.54	7.33	16.56
+GO:0006650	glycerophospholipid metabolic process	140	0.59	0.62	8.12	144.72
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	137	0.61	0.63	8.36	112.25
+GO:0016055	Wnt signaling pathway	131	0.59	0.65	7.65	28.58
+GO:0006486	protein glycosylation	94	0.62	0.66	8.59	174.08
+GO:0022900	electron transport chain	84	0.71	0.61	8.48	29.76
+GO:0006367	transcription initiation from RNA polymerase II promoter	79	1.00	0.90	9.63	477.15
+GO:0048167	regulation of synaptic plasticity	63	0.67	0.69	8.57	39.26
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	45	0.71	0.71	8.71	27.67
+GO:0032006	regulation of TOR signaling	44	0.79	0.74	9.26	45.07
+GO:0007032	endosome organization	43	0.84	0.71	9.22	20.92
+GO:0006368	transcription elongation from RNA polymerase II promoter	43	1.00	0.90	9.63	477.15
+GO:0007517	muscle organ development	39	0.78	0.64	8.75	27.68
+GO:0032526	response to retinoic acid	37	0.93	0.76	9.49	43.79
+GO:0007611	learning or memory	37	0.70	0.64	8.38	19.74
+GO:0060964	regulation of gene silencing by miRNA	26	0.74	0.74	9.16	63.20
+GO:0031663	lipopolysaccharide-mediated signaling pathway	23	1.00	0.82	9.63	26.50
+GO:0006294	nucleotide-excision repair, preincision complex assembly	23	1.00	0.85	9.63	65.90
+GO:0043331	response to dsRNA	22	0.87	0.72	9.47	30.26
+GO:0021953	central nervous system neuron differentiation	22	0.67	0.63	8.02	23.84
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	21	0.89	0.86	9.54	264.07
+GO:0030521	androgen receptor signaling pathway	20	0.89	0.82	9.45	54.01
+GO:0006596	polyamine biosynthetic process	10	0.77	0.76	9.28	263.11
+GO:0006521	regulation of cellular amino acid metabolic process	10	0.57	0.61	8.06	100.45
+GO:0075733	intracellular transport of virus	9	0.73	0.69	8.98	41.41
+GO:0072718	response to cisplatin	4	0.93	0.76	9.47	29.73
+GO:0045351	type I interferon biosynthetic process	2	0.89	0.80	9.49	91.33
+GO:0006880	intracellular sequestering of iron ion	2	1.00	0.82	9.63	44.55
+GO:0071888	macrophage apoptotic process	1	1.00	0.82	9.63	45.60
+GO:1903251	multi-ciliated epithelial cell differentiation	1	1.00	0.79	9.63	24.20

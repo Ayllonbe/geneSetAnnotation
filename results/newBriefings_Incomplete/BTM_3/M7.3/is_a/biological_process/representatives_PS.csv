@@ -1,0 +1,76 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	801	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	646	0.24	0.37	3.90	23.93
+GO:0051354	negative regulation of oxidoreductase activity	7	0.69	0.64	8.63	69.01
+GO:0060255	regulation of macromolecule metabolic process	730	0.26	0.38	4.09	10.74
+GO:0048583	regulation of response to stimulus	726	0.25	0.32	3.72	7.96
+GO:0031343	positive regulation of cell killing	19	0.66	0.58	8.19	21.38
+GO:0043170	macromolecule metabolic process	722	0.25	0.32	3.46	10.22
+GO:0031323	regulation of cellular metabolic process	721	0.22	0.36	4.01	22.77
+GO:0006810	transport	590	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	520	0.33	0.45	5.35	37.59
+GO:0051049	regulation of transport	304	0.31	0.40	4.67	10.45
+GO:0044087	regulation of cellular component biogenesis	122	0.41	0.40	5.33	7.96
+GO:0071310	cellular response to organic substance	287	0.44	0.47	5.95	41.66
+GO:0070723	response to cholesterol	5	0.93	0.79	9.52	80.92
+GO:0035556	intracellular signal transduction	278	0.51	0.55	6.92	23.17
+GO:0006796	phosphate-containing compound metabolic process	264	0.36	0.43	5.28	20.85
+GO:0002669	positive regulation of T cell anergy	1	1.00	0.88	9.63	417.44
+GO:0030334	regulation of cell migration	198	0.48	0.56	7.11	36.74
+GO:0002669	positive regulation of T cell anergy	1	1.00	0.88	9.63	417.44
+GO:0030334	regulation of cell migration	198	0.48	0.56	7.11	36.74
+GO:0002669	positive regulation of T cell anergy	1	1.00	0.88	9.63	417.44
+GO:0030334	regulation of cell migration	198	0.48	0.56	7.11	36.74
+GO:0002274	myeloid leukocyte activation	194	0.68	0.59	8.67	18.06
+GO:0006955	immune response	186	0.54	0.40	6.57	12.45
+GO:0007186	G-protein coupled receptor signaling pathway	180	0.55	0.57	7.20	23.17
+GO:0001818	negative regulation of cytokine production	75	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	132	0.51	0.54	6.97	44.26
+GO:0032880	regulation of protein localization	168	0.43	0.47	5.90	10.45
+GO:0043065	positive regulation of apoptotic process	127	0.56	0.63	7.81	80.91
+GO:2000106	regulation of leukocyte apoptotic process	32	0.61	0.66	8.08	19.32
+GO:0051345	positive regulation of hydrolase activity	145	0.57	0.57	7.42	32.99
+GO:0050900	leukocyte migration	143	0.60	0.59	8.02	26.94
+GO:0022409	positive regulation of cell-cell adhesion	100	0.59	0.59	7.66	36.23
+GO:0051250	negative regulation of lymphocyte activation	43	0.60	0.65	8.26	127.90
+GO:0006875	cellular metal ion homeostasis	118	0.59	0.67	8.36	105.84
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	97	0.58	0.64	7.56	28.11
+GO:0009615	response to virus	79	0.74	0.66	8.80	27.27
+GO:0050851	antigen receptor-mediated signaling pathway	68	0.87	0.83	9.53	218.74
+GO:0097190	apoptotic signaling pathway	62	0.70	0.64	8.53	23.17
+GO:0051260	protein homooligomerization	51	0.89	0.77	9.41	42.03
+GO:0070098	chemokine-mediated signaling pathway	42	0.73	0.72	9.00	30.19
+GO:0006816	calcium ion transport	42	0.67	0.71	8.69	35.67
+GO:0019722	calcium-mediated signaling	41	0.72	0.71	8.71	27.81
+GO:0030593	neutrophil chemotaxis	41	1.00	0.90	9.63	130.30
+GO:0030217	T cell differentiation	38	0.66	0.65	8.68	65.05
+GO:0030522	intracellular receptor signaling pathway	31	0.65	0.62	7.99	23.17
+GO:0050792	regulation of viral process	30	0.60	0.59	7.74	14.20
+GO:0050853	B cell receptor signaling pathway	27	0.93	0.88	9.58	219.43
+GO:0030260	entry into host cell	27	0.74	0.69	8.68	26.99
+GO:0060333	interferon-gamma-mediated signaling pathway	25	1.00	0.85	9.63	30.19
+GO:0038095	Fc-epsilon receptor signaling pathway	23	0.93	0.84	9.55	78.48
+GO:0048247	lymphocyte chemotaxis	23	0.77	0.73	9.30	94.38
+GO:0002548	monocyte chemotaxis	22	1.00	0.85	9.63	125.46
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	22	1.00	0.92	9.63	384.64
+GO:0051101	regulation of DNA binding	21	0.61	0.55	7.68	9.33
+GO:0031663	lipopolysaccharide-mediated signaling pathway	19	1.00	0.82	9.63	26.50
+GO:0051262	protein tetramerization	19	0.89	0.77	9.41	42.03
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	17	1.00	0.82	9.63	26.43
+GO:0072678	T cell migration	13	0.71	0.71	8.88	30.24
+GO:0002407	dendritic cell chemotaxis	11	0.87	0.78	9.49	93.28
+GO:0048245	eosinophil chemotaxis	9	1.00	0.90	9.63	130.30
+GO:0007259	JAK-STAT cascade	9	0.93	0.82	9.51	26.43
+GO:0035722	interleukin-12-mediated signaling pathway	8	1.00	0.85	9.63	30.19
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	7	1.00	0.88	9.63	82.06
+GO:0048246	macrophage chemotaxis	7	1.00	0.88	9.63	95.92
+GO:0070207	protein homotrimerization	6	1.00	0.85	9.63	85.45
+GO:0035655	interleukin-18-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0016358	dendrite development	3	0.83	0.74	9.26	32.63
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0038155	interleukin-23-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0038114	interleukin-21-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0070757	interleukin-35-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0045063	T-helper 1 cell differentiation	2	1.00	0.93	9.63	473.70
+GO:0001865	NK T cell differentiation	2	1.00	0.88	9.63	92.19
+GO:0002355	detection of tumor cell	1	1.00	0.75	9.63	27.40

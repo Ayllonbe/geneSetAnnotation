@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	1302	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1123	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1022	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	851	0.57	0.68	8.45	581.39
+GO:0010629	negative regulation of gene expression	624	0.47	0.56	6.74	59.05
+GO:0065003	protein-containing complex assembly	604	0.45	0.48	6.06	36.47
+GO:0009967	positive regulation of signal transduction	548	0.44	0.54	6.71	140.23
+GO:0045893	positive regulation of transcription, DNA-templated	535	0.52	0.67	8.14	1208.12
+GO:0045892	negative regulation of transcription, DNA-templated	435	0.56	0.69	8.52	1581.26
+GO:0045859	regulation of protein kinase activity	300	0.56	0.68	8.33	159.56
+GO:0006511	ubiquitin-dependent protein catabolic process	224	0.74	0.74	9.19	156.45
+GO:0071345	cellular response to cytokine stimulus	163	0.67	0.63	8.21	61.60
+GO:0046394	carboxylic acid biosynthetic process	123	0.44	0.54	6.80	162.02
+GO:0032496	response to lipopolysaccharide	121	0.89	0.74	9.45	64.41
+GO:1902115	regulation of organelle assembly	77	0.60	0.62	7.91	30.61
+GO:0060271	cilium assembly	73	0.87	0.76	9.41	137.68
+GO:0010976	positive regulation of neuron projection development	68	0.68	0.73	9.14	493.19
+GO:0006898	receptor-mediated endocytosis	67	0.68	0.66	8.48	28.44
+GO:0007050	cell cycle arrest	63	0.81	0.73	9.29	55.62
+GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	54	0.81	0.85	9.56	733.39
+GO:0070588	calcium ion transmembrane transport	49	0.71	0.75	9.08	116.68
+GO:0034644	cellular response to UV	48	0.80	0.75	9.22	66.19
+GO:0008033	tRNA processing	47	0.60	0.70	8.50	356.95
+GO:0030307	positive regulation of cell growth	47	0.70	0.67	8.71	80.65
+GO:0016236	macroautophagy	43	0.77	0.67	8.94	39.83
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	43	0.87	0.88	9.56	734.49
+GO:0010977	negative regulation of neuron projection development	43	0.68	0.73	9.14	494.13
+GO:0042073	intraciliary transport	20	0.87	0.78	9.45	76.71
+GO:0042304	regulation of fatty acid biosynthetic process	20	0.70	0.70	9.01	138.58
+GO:0010972	negative regulation of G2/M transition of mitotic cell cycle	20	0.81	0.80	9.39	357.15
+GO:1903779	regulation of cardiac conduction	19	0.69	0.70	8.76	28.83
+GO:0006284	base-excision repair	17	0.93	0.84	9.58	183.05
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	16	0.89	0.91	9.59	905.07
+GO:0097421	liver regeneration	16	1.00	0.82	9.63	47.22
+GO:0048675	axon extension	15	0.89	0.74	9.43	51.99
+GO:0071333	cellular response to glucose stimulus	15	1.00	0.88	9.63	272.30
+GO:0097756	negative regulation of blood vessel diameter	14	0.74	0.72	9.07	39.68
+GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	14	0.93	0.88	9.60	831.25
+GO:0061512	protein localization to cilium	13	0.80	0.72	9.22	32.77
+GO:0045746	negative regulation of Notch signaling pathway	12	0.93	0.82	9.56	188.11
+GO:0015813	L-glutamate transmembrane transport	8	0.87	0.87	9.55	441.02
+GO:0014047	glutamate secretion	8	0.93	0.88	9.57	161.52
+GO:0045019	negative regulation of nitric oxide biosynthetic process	7	1.00	0.88	9.63	660.58
+GO:0006729	tetrahydrobiopterin biosynthetic process	4	1.00	0.88	9.63	752.88
+GO:0045586	regulation of gamma-delta T cell differentiation	3	0.89	0.84	9.52	166.67
+GO:0042438	melanin biosynthetic process	3	0.89	0.77	9.54	304.50
+GO:0060575	intestinal epithelial cell differentiation	2	0.89	0.77	9.38	25.59
+GO:1905705	cellular response to paclitaxel	1	1.00	0.82	9.63	145.63

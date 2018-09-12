@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	448	0.43	0.51	5.91	23.17
+GO:0006355	regulation of transcription, DNA-templated	322	0.40	0.60	6.84	245.35
+GO:0008284	positive regulation of cell proliferation	204	0.56	0.57	7.27	43.45
+GO:0006351	transcription, DNA-templated	144	0.57	0.68	8.45	581.39
+GO:1903507	negative regulation of nucleic acid-templated transcription	116	0.55	0.67	8.38	898.55
+GO:0043065	positive regulation of apoptotic process	111	0.56	0.63	7.81	80.91
+GO:0006259	DNA metabolic process	94	0.45	0.55	7.12	145.26
+GO:0051259	protein complex oligomerization	63	0.78	0.68	9.09	40.42
+GO:0006886	intracellular protein transport	56	0.55	0.65	8.12	90.55
+GO:0006511	ubiquitin-dependent protein catabolic process	30	0.74	0.74	9.19	156.45
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	23	0.87	0.88	9.56	734.49
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	19	0.93	0.93	9.60	734.49
+GO:0006406	mRNA export from nucleus	18	0.89	0.84	9.52	121.36
+GO:0042306	regulation of protein import into nucleus	17	0.83	0.79	9.51	189.48
+GO:0006606	protein import into nucleus	16	0.89	0.84	9.55	277.54
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0070317	negative regulation of G0 to G1 transition	11	1.00	0.85	9.63	83.03
+GO:0006282	regulation of DNA repair	10	0.65	0.68	8.81	104.86
+GO:0017148	negative regulation of translation	9	0.65	0.70	9.08	1114.67
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	4	0.93	0.90	9.60	659.85
+GO:0036228	protein localization to nuclear inner membrane	2	1.00	0.88	9.63	68.37
+GO:0030488	tRNA methylation	1	0.74	0.80	9.31	684.86
+GO:0035520	monoubiquitinated protein deubiquitination	1	0.89	0.86	9.58	204.99
+GO:0036353	histone H2A-K119 monoubiquitination	1	1.00	0.96	9.63	843.90

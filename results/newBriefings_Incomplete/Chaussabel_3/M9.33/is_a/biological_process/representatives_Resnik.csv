@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051252	regulation of RNA metabolic process	338	0.37	0.51	6.06	70.58
+GO:0051246	regulation of protein metabolic process	274	0.34	0.46	5.46	41.09
+GO:0009966	regulation of signal transduction	235	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	218	0.57	0.68	8.45	581.39
+GO:0032502	developmental process	218	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	199	0.38	0.19	3.93	3.37
+GO:0065008	regulation of biological quality	194	0.28	0.26	3.48	4.47
+GO:0050793	regulation of developmental process	190	0.26	0.33	3.95	7.96
+GO:0007166	cell surface receptor signaling pathway	176	0.43	0.51	5.91	23.17
+GO:0010629	negative regulation of gene expression	169	0.47	0.56	6.74	59.05
+GO:0051049	regulation of transport	165	0.31	0.40	4.67	10.45
+GO:0010762	regulation of fibroblast migration	3	0.83	0.76	9.43	40.04
+GO:0071214	cellular response to abiotic stimulus	31	0.59	0.54	7.66	24.78
+GO:0070887	cellular response to chemical stimulus	145	0.40	0.40	5.31	25.21
+GO:0045893	positive regulation of transcription, DNA-templated	147	0.52	0.67	8.14	1208.12
+GO:0042127	regulation of cell proliferation	115	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	113	0.39	0.39	5.18	16.68
+GO:0043066	negative regulation of apoptotic process	88	0.56	0.63	7.79	81.07
+GO:2001233	regulation of apoptotic signaling pathway	42	0.59	0.64	8.44	61.17
+GO:0010564	regulation of cell cycle process	104	0.42	0.50	6.22	14.24
+GO:0006259	DNA metabolic process	99	0.45	0.55	7.12	145.26
+GO:0006811	ion transport	87	0.38	0.44	5.19	10.99
+GO:0015893	drug transport	10	0.50	0.50	6.29	10.99
+GO:0051704	multi-organism process	84	0.29	0.15	3.12	3.37
+GO:0080135	regulation of cellular response to stress	71	0.46	0.52	6.64	26.18
+GO:0016567	protein ubiquitination	64	0.69	0.74	9.00	153.79
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	56	0.76	0.78	9.31	348.36
+GO:0055086	nucleobase-containing small molecule metabolic process	52	0.38	0.48	6.63	107.58
+GO:0019725	cellular homeostasis	50	0.53	0.52	6.93	17.82
+GO:0048468	cell development	46	0.51	0.45	6.51	28.42
+GO:0043687	post-translational protein modification	45	0.65	0.67	8.51	151.15
+GO:0048513	animal organ development	34	0.50	0.45	5.88	11.73
+GO:0030029	actin filament-based process	31	0.59	0.42	6.58	7.39
+GO:0006906	vesicle fusion	16	0.68	0.66	8.56	63.10
+GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
+GO:0000902	cell morphogenesis	12	0.63	0.56	7.92	43.26
+GO:0051085	chaperone cofactor-dependent protein refolding	6	1.00	0.79	9.63	21.14
+GO:0045071	negative regulation of viral genome replication	6	0.89	0.82	9.47	85.24
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	6	0.89	0.86	9.54	264.07
+GO:0032781	positive regulation of ATPase activity	5	0.75	0.70	8.78	51.42
+GO:0010529	negative regulation of transposition	4	0.87	0.72	9.27	41.76
+GO:0016554	cytidine to uridine editing	3	1.00	0.90	9.63	133.94
+GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	3	0.89	0.86	9.55	176.63
+GO:0070207	protein homotrimerization	3	1.00	0.85	9.63	85.45
+GO:0006833	water transport	1	0.81	0.70	9.04	11.68
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	1	0.83	0.66	8.94	22.01
+GO:0015793	glycerol transport	1	1.00	0.85	9.63	38.32

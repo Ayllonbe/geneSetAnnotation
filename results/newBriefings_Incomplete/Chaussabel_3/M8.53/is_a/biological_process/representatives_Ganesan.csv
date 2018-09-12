@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2824	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	547	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	2230	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	650	0.33	0.29	4.10	4.47
+GO:0006810	transport	879	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	500	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	566	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	588	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	236	0.33	0.16	3.12	3.37

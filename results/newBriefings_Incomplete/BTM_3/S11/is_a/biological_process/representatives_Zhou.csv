@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1093	0.08	0.04	0.98	3.37
+GO:0016043	cellular component organization	454	0.28	0.26	3.74	11.45
+GO:0044237	cellular metabolic process	662	0.16	0.21	2.71	13.80
+GO:0002376	immune system process	424	0.38	0.19	3.93	3.37
+GO:0043085	positive regulation of catalytic activity	206	0.48	0.49	6.15	18.32
+GO:0045741	positive regulation of epidermal growth factor-activated receptor activity	3	0.93	0.91	9.61	2972.11
+GO:0050789	regulation of biological process	1047	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	25	0.93	0.91	9.59	279.44
+GO:0043085	positive regulation of catalytic activity	206	0.48	0.49	6.15	18.32
+GO:0045741	positive regulation of epidermal growth factor-activated receptor activity	3	0.93	0.91	9.61	2972.11
+GO:0050789	regulation of biological process	1047	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	25	0.93	0.91	9.59	279.44
+GO:0050896	response to stimulus	546	0.25	0.12	2.65	3.37
+GO:0008104	protein localization	129	0.40	0.40	5.07	7.46
+GO:0006810	transport	472	0.28	0.34	3.95	7.46
+GO:0022414	reproductive process	99	0.35	0.17	3.17	3.37
+GO:0032502	developmental process	377	0.22	0.11	1.89	3.37
+GO:0046718	viral entry into host cell	20	0.77	0.73	8.94	28.37

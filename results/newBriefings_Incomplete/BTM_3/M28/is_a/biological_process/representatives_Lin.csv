@@ -1,0 +1,56 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	580	0.43	0.51	5.91	23.17
+GO:0010604	positive regulation of macromolecule metabolic process	542	0.37	0.48	5.51	38.99
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0050776	regulation of immune response	348	0.38	0.44	5.64	22.45
+GO:0071310	cellular response to organic substance	313	0.44	0.47	5.95	41.66
+GO:0050778	positive regulation of immune response	250	0.46	0.52	6.76	78.39
+GO:0006952	defense response	238	0.56	0.48	6.67	9.54
+GO:1902533	positive regulation of intracellular signal transduction	235	0.55	0.63	7.95	189.48
+GO:0045055	regulated exocytosis	231	0.69	0.69	8.57	38.47
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	198	0.40	0.45	5.78	11.79
+GO:0010942	positive regulation of cell death	154	0.54	0.56	7.33	41.78
+GO:0045785	positive regulation of cell adhesion	141	0.58	0.54	7.23	21.97
+GO:0002237	response to molecule of bacterial origin	126	0.69	0.59	8.74	31.75
+GO:0000122	negative regulation of transcription by RNA polymerase II	123	0.61	0.74	8.79	1836.95
+GO:0006897	endocytosis	105	0.63	0.61	8.09	26.36
+GO:0032103	positive regulation of response to external stimulus	102	0.53	0.55	7.02	42.20
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0042110	T cell activation	75	0.59	0.59	7.76	19.85
+GO:0019932	second-messenger-mediated signaling	69	0.65	0.65	8.32	26.43
+GO:0006979	response to oxidative stress	67	0.65	0.53	8.02	9.54
+GO:2000377	regulation of reactive oxygen species metabolic process	48	0.66	0.62	8.48	26.78
+GO:0031334	positive regulation of protein complex assembly	45	0.61	0.63	8.09	105.22
+GO:0070098	chemokine-mediated signaling pathway	44	0.73	0.72	9.00	30.19
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	41	0.80	0.65	8.94	20.20
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	41	0.93	0.91	9.59	279.44
+GO:0006869	lipid transport	34	0.55	0.57	7.06	14.73
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	27	0.63	0.67	8.36	49.28
+GO:0070542	response to fatty acid	26	0.67	0.63	8.58	43.79
+GO:0050663	cytokine secretion	20	0.61	0.70	8.23	133.33
+GO:0090630	activation of GTPase activity	12	1.00	0.85	9.63	49.34
+GO:0030194	positive regulation of blood coagulation	12	0.77	0.76	9.34	205.45
+GO:0002456	T cell mediated immunity	9	0.76	0.67	9.12	29.49
+GO:0055094	response to lipoprotein particle	9	0.87	0.72	9.27	38.33
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0010744	positive regulation of macrophage derived foam cell differentiation	7	1.00	0.82	9.63	113.86
+GO:0042953	lipoprotein transport	7	1.00	0.88	9.63	68.45
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:0002922	positive regulation of humoral immune response	6	0.70	0.67	9.03	108.81
+GO:2000669	negative regulation of dendritic cell apoptotic process	5	1.00	0.90	9.63	128.74
+GO:0097029	mature conventional dendritic cell differentiation	4	1.00	0.82	9.63	70.63
+GO:0060100	positive regulation of phagocytosis, engulfment	4	0.93	0.86	9.58	308.81
+GO:0016045	detection of bacterium	3	0.93	0.79	9.55	95.72
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:0050862	positive regulation of T cell receptor signaling pathway	3	1.00	0.88	9.63	365.09
+GO:0042308	negative regulation of protein import into nucleus	3	0.93	0.86	9.59	779.11
+GO:1990000	amyloid fibril formation	2	1.00	0.79	9.63	65.11
+GO:2000334	positive regulation of blood microparticle formation	2	0.93	0.79	9.55	107.44
+GO:0010886	positive regulation of cholesterol storage	2	1.00	0.85	9.63	69.45
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0002408	myeloid dendritic cell chemotaxis	2	0.93	0.84	9.56	125.06
+GO:0097022	lymphocyte migration into lymph node	1	1.00	0.88	9.63	30.24
+GO:0055096	low-density lipoprotein particle mediated signaling	1	1.00	0.82	9.63	23.86
+GO:2000522	positive regulation of immunological synapse formation	1	1.00	0.88	9.63	159.41
+GO:2000526	positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation	1	1.00	0.90	9.63	733.95

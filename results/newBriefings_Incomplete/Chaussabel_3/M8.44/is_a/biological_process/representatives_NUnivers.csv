@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	898	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	819	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	726	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	539	0.57	0.68	8.45	581.39
+GO:0065003	protein-containing complex assembly	372	0.45	0.48	6.06	36.47
+GO:0015031	protein transport	349	0.48	0.59	6.99	54.46
+GO:0051240	positive regulation of multicellular organismal process	346	0.35	0.42	4.98	23.60
+GO:0051248	negative regulation of protein metabolic process	279	0.45	0.55	6.75	129.53
+GO:0045055	regulated exocytosis	182	0.69	0.69	8.57	38.47
+GO:0005975	carbohydrate metabolic process	94	0.38	0.39	5.46	18.42
+GO:0001666	response to hypoxia	70	0.81	0.70	9.12	21.16
+GO:0008202	steroid metabolic process	60	0.57	0.53	7.51	35.32
+GO:0030855	epithelial cell differentiation	59	0.55	0.52	6.96	21.07
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	52	0.93	0.90	9.60	1178.86
+GO:1901215	negative regulation of neuron death	44	0.76	0.70	9.05	58.54
+GO:0034504	protein localization to nucleus	37	0.72	0.68	8.76	32.77
+GO:0060271	cilium assembly	35	0.87	0.76	9.41	137.68
+GO:0006906	vesicle fusion	29	0.68	0.66	8.56	63.10
+GO:0045471	response to ethanol	29	0.93	0.76	9.52	69.73
+GO:0007517	muscle organ development	23	0.78	0.64	8.75	27.68
+GO:0006909	phagocytosis	20	0.93	0.79	9.49	28.44
+GO:0006749	glutathione metabolic process	20	0.84	0.74	9.36	147.29
+GO:0090277	positive regulation of peptide hormone secretion	20	0.75	0.77	9.29	444.53
+GO:0032370	positive regulation of lipid transport	19	0.63	0.64	8.27	82.73
+GO:0015914	phospholipid transport	18	0.78	0.74	9.04	67.00
+GO:0042073	intraciliary transport	9	0.87	0.78	9.45	76.71
+GO:0035094	response to nicotine	7	0.93	0.72	9.45	26.17
+GO:1903351	cellular response to dopamine	6	1.00	0.88	9.63	545.63
+GO:1901687	glutathione derivative biosynthetic process	6	0.93	0.76	9.56	153.57
+GO:0090331	negative regulation of platelet aggregation	6	0.93	0.88	9.60	548.67
+GO:0050427	3'-phosphoadenosine 5'-phosphosulfate metabolic process	5	0.93	0.88	9.60	1067.60
+GO:0030206	chondroitin sulfate biosynthetic process	5	1.00	0.88	9.63	416.10
+GO:0006853	carnitine shuttle	5	1.00	0.93	9.63	360.11
+GO:0007026	negative regulation of microtubule depolymerization	5	0.89	0.86	9.55	364.42
+GO:0045723	positive regulation of fatty acid biosynthetic process	4	0.80	0.77	9.45	668.03
+GO:0033344	cholesterol efflux	3	1.00	0.88	9.63	39.64
+GO:0097151	positive regulation of inhibitory postsynaptic potential	3	1.00	0.88	9.63	396.36
+GO:0006068	ethanol catabolic process	3	1.00	0.85	9.63	292.84
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	60.18
+GO:0042420	dopamine catabolic process	3	1.00	0.88	9.63	561.10
+GO:0051923	sulfation	3	0.81	0.66	9.16	21.66
+GO:0051351	positive regulation of ligase activity	2	0.78	0.68	8.87	31.72
+GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	2	1.00	0.90	9.63	967.92
+GO:0009448	gamma-aminobutyric acid metabolic process	2	0.89	0.80	9.52	162.58
+GO:0070164	negative regulation of adiponectin secretion	2	1.00	0.90	9.63	854.51
+GO:0045964	positive regulation of dopamine metabolic process	2	0.93	0.84	9.57	287.85
+GO:0014053	negative regulation of gamma-aminobutyric acid secretion	1	1.00	0.90	9.63	403.66
+GO:0033602	negative regulation of dopamine secretion	1	1.00	0.90	9.63	383.60
+GO:1901076	positive regulation of engulfment of apoptotic cell	1	1.00	0.92	9.63	653.87
+GO:1904450	positive regulation of aspartate secretion	1	1.00	0.90	9.63	414.49

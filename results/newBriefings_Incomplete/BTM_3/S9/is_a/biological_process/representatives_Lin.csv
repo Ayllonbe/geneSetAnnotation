@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	418	0.12	0.26	2.47	7.96
+GO:0044281	small molecule metabolic process	56	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	269	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	284	0.15	0.20	2.26	6.41
+GO:0006810	transport	198	0.28	0.34	3.95	7.46
+GO:0009893	positive regulation of metabolic process	156	0.32	0.41	4.71	22.55
+GO:0007166	cell surface receptor signaling pathway	149	0.43	0.51	5.91	23.17
+GO:0042221	response to chemical	138	0.32	0.29	4.12	6.14
+GO:0019538	protein metabolic process	129	0.31	0.41	4.91	44.77
+GO:0002683	negative regulation of immune system process	34	0.43	0.47	5.92	22.69
+GO:0050776	regulation of immune response	92	0.38	0.44	5.64	22.45
+GO:0051128	regulation of cellular component organization	102	0.30	0.40	4.57	12.04
+GO:0030154	cell differentiation	95	0.39	0.39	5.18	16.68
+GO:0042127	regulation of cell proliferation	91	0.45	0.48	6.03	12.04
+GO:0010941	regulation of cell death	82	0.43	0.47	6.10	12.04
+GO:0043207	response to external biotic stimulus	74	0.41	0.40	5.91	16.64
+GO:0042592	homeostatic process	63	0.45	0.42	5.70	8.64
+GO:0045806	negative regulation of endocytosis	7	0.72	0.71	9.06	124.58
+GO:0051050	positive regulation of transport	53	0.42	0.50	5.84	25.90
+GO:2000145	regulation of cell motility	55	0.47	0.52	6.88	34.54
+GO:0016477	cell migration	54	0.47	0.48	6.31	17.13
+GO:0032880	regulation of protein localization	45	0.43	0.47	5.90	10.45
+GO:0007186	G-protein coupled receptor signaling pathway	41	0.55	0.57	7.20	23.17
+GO:0009628	response to abiotic stimulus	41	0.46	0.35	5.43	6.14
+GO:0046649	lymphocyte activation	38	0.55	0.52	7.16	18.06
+GO:0007010	cytoskeleton organization	31	0.52	0.51	6.76	18.35
+GO:0048468	cell development	28	0.51	0.45	6.51	28.42
+GO:0044057	regulation of system process	24	0.41	0.46	5.70	11.79
+GO:0055085	transmembrane transport	23	0.41	0.46	5.44	10.99
+GO:0032989	cellular component morphogenesis	23	0.56	0.48	7.27	42.57
+GO:0120035	regulation of plasma membrane bounded cell projection organization	23	0.51	0.58	7.05	17.28
+GO:0050807	regulation of synapse organization	5	0.59	0.58	7.57	15.89
+GO:0034765	regulation of ion transmembrane transport	22	0.46	0.55	6.68	33.04
+GO:0051259	protein complex oligomerization	22	0.78	0.68	9.09	40.42
+GO:0001818	negative regulation of cytokine production	22	0.51	0.55	7.03	44.36
+GO:0022412	cellular process involved in reproduction in multicellular organism	19	0.53	0.39	6.04	15.42
+GO:0050804	modulation of chemical synaptic transmission	14	0.52	0.58	7.24	27.32
+GO:0019722	calcium-mediated signaling	12	0.72	0.71	8.71	27.81
+GO:0072657	protein localization to membrane	11	0.58	0.58	7.59	29.83
+GO:0007610	behavior	11	0.48	0.24	4.72	3.37
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	9	1.00	0.79	9.63	42.20
+GO:0007569	cell aging	8	0.80	0.60	8.94	24.75
+GO:0023052	signaling	8	0.53	0.26	5.25	3.37
+GO:0046718	viral entry into host cell	7	0.77	0.73	8.94	28.37
+GO:0031175	neuron projection development	5	0.68	0.63	8.33	18.96
+GO:0002244	hematopoietic progenitor cell differentiation	5	0.81	0.66	8.94	21.07
+GO:0010717	regulation of epithelial to mesenchymal transition	4	0.71	0.65	9.00	54.42
+GO:0001701	in utero embryonic development	4	1.00	0.85	9.63	22.50
+GO:0016064	immunoglobulin mediated immune response	3	0.76	0.70	9.04	30.58
+GO:0042053	regulation of dopamine metabolic process	3	0.83	0.76	9.45	57.43
+GO:0040014	regulation of multicellular organism growth	3	0.89	0.74	9.38	36.78
+GO:0050906	detection of stimulus involved in sensory perception	3	0.66	0.53	7.39	8.54
+GO:0043171	peptide catabolic process	2	0.72	0.68	8.97	139.84
+GO:0099054	presynapse assembly	2	1.00	0.75	9.63	34.60
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	2	0.83	0.66	8.94	22.01
+GO:0071709	membrane assembly	2	0.79	0.64	8.94	37.31
+GO:0022900	electron transport chain	2	0.71	0.61	8.48	29.76
+GO:0016264	gap junction assembly	1	1.00	0.82	9.63	56.14
+GO:0010841	positive regulation of circadian sleep/wake cycle, wakefulness	1	1.00	0.82	9.63	109.56
+GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	1	1.00	0.90	9.63	967.92
+GO:0086072	AV node cell-bundle of His cell adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0019227	neuronal action potential propagation	1	1.00	0.82	9.63	26.36
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17
+GO:1904861	excitatory synapse assembly	1	1.00	0.79	9.63	37.24

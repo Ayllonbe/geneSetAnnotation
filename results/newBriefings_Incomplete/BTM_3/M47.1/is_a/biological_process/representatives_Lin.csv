@@ -1,0 +1,73 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	72	0.35	0.46	5.09	13.73
+GO:0009966	regulation of signal transduction	62	0.33	0.45	5.35	37.59
+GO:0002376	immune system process	54	0.38	0.19	3.93	3.37
+GO:0032774	RNA biosynthetic process	37	0.53	0.62	8.04	473.34
+GO:0042127	regulation of cell proliferation	34	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	33	0.51	0.55	6.92	23.17
+GO:0051704	multi-organism process	30	0.29	0.15	3.12	3.37
+GO:0051726	regulation of cell cycle	30	0.41	0.45	5.89	12.04
+GO:0065003	protein-containing complex assembly	29	0.45	0.48	6.06	36.47
+GO:0050776	regulation of immune response	28	0.38	0.44	5.64	22.45
+GO:0006796	phosphate-containing compound metabolic process	28	0.36	0.43	5.28	20.85
+GO:0010941	regulation of cell death	24	0.43	0.47	6.10	12.04
+GO:0001934	positive regulation of protein phosphorylation	24	0.58	0.69	8.60	663.11
+GO:1901701	cellular response to oxygen-containing compound	20	0.47	0.48	6.19	42.34
+GO:0042113	B cell activation	19	0.68	0.63	8.28	19.85
+GO:0051251	positive regulation of lymphocyte activation	14	0.58	0.64	8.19	127.58
+GO:0002695	negative regulation of leukocyte activation	7	0.58	0.61	8.02	96.77
+GO:0009628	response to abiotic stimulus	14	0.46	0.35	5.43	6.14
+GO:0002237	response to molecule of bacterial origin	5	0.69	0.59	8.74	31.75
+GO:0009617	response to bacterium	9	0.75	0.67	8.94	27.27
+GO:0032956	regulation of actin cytoskeleton organization	12	0.56	0.63	7.72	34.12
+GO:0007186	G-protein coupled receptor signaling pathway	11	0.55	0.57	7.20	23.17
+GO:0007167	enzyme linked receptor protein signaling pathway	10	0.53	0.59	7.04	26.50
+GO:0080135	regulation of cellular response to stress	10	0.46	0.52	6.64	26.18
+GO:0016055	Wnt signaling pathway	9	0.59	0.65	7.65	28.58
+GO:0000086	G2/M transition of mitotic cell cycle	8	1.00	0.79	9.63	43.45
+GO:0001818	negative regulation of cytokine production	8	0.51	0.55	7.03	44.36
+GO:0032446	protein modification by small protein conjugation	8	0.66	0.70	8.79	151.85
+GO:0046578	regulation of Ras protein signal transduction	7	0.70	0.72	8.71	46.46
+GO:0006898	receptor-mediated endocytosis	6	0.68	0.66	8.48	28.44
+GO:0097190	apoptotic signaling pathway	6	0.70	0.64	8.53	23.17
+GO:0051896	regulation of protein kinase B signaling	6	0.89	0.80	9.43	45.07
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	6	1.00	0.79	9.63	42.20
+GO:0030336	negative regulation of cell migration	5	0.58	0.64	8.21	158.04
+GO:0060828	regulation of canonical Wnt signaling pathway	5	0.70	0.70	8.83	44.05
+GO:0007204	positive regulation of cytosolic calcium ion concentration	4	0.68	0.77	9.10	290.30
+GO:0045666	positive regulation of neuron differentiation	4	0.62	0.68	8.71	337.32
+GO:0051224	negative regulation of protein transport	4	0.60	0.65	8.07	87.71
+GO:0002698	negative regulation of immune effector process	4	0.55	0.56	7.28	39.43
+GO:0022008	neurogenesis	4	0.87	0.68	9.29	21.07
+GO:0050764	regulation of phagocytosis	3	0.69	0.69	9.05	47.10
+GO:0002577	regulation of antigen processing and presentation	3	0.60	0.55	7.52	10.80
+GO:0050854	regulation of antigen receptor-mediated signaling pathway	3	0.78	0.71	9.29	67.48
+GO:0051017	actin filament bundle assembly	3	0.79	0.72	9.14	39.79
+GO:0001959	regulation of cytokine-mediated signaling pathway	3	0.61	0.63	8.11	55.11
+GO:0032461	positive regulation of protein oligomerization	2	0.87	0.78	9.55	141.07
+GO:0071356	cellular response to tumor necrosis factor	2	1.00	0.82	9.63	81.65
+GO:0010839	negative regulation of keratinocyte proliferation	2	1.00	0.85	9.63	86.67
+GO:0048041	focal adhesion assembly	2	1.00	0.88	9.63	92.53
+GO:0035914	skeletal muscle cell differentiation	2	0.87	0.68	9.29	21.07
+GO:0034394	protein localization to cell surface	2	1.00	0.79	9.63	29.83
+GO:0070588	calcium ion transmembrane transport	2	0.71	0.75	9.08	116.68
+GO:0010918	positive regulation of mitochondrial membrane potential	2	1.00	0.79	9.63	24.66
+GO:0070098	chemokine-mediated signaling pathway	1	0.73	0.72	9.00	30.19
+GO:0042094	interleukin-2 biosynthetic process	1	1.00	0.85	9.63	142.64
+GO:0018298	protein-chromophore linkage	1	0.74	0.72	9.04	151.15
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	1	1.00	0.85	9.63	344.24
+GO:0051573	negative regulation of histone H3-K9 methylation	1	0.89	0.88	9.57	805.14
+GO:0042986	positive regulation of amyloid precursor protein biosynthetic process	1	1.00	0.90	9.63	886.60
+GO:0090251	protein localization involved in establishment of planar polarity	1	1.00	0.79	9.63	29.83
+GO:2001199	negative regulation of dendritic cell differentiation	1	1.00	0.88	9.63	349.47
+GO:0016064	immunoglobulin mediated immune response	1	0.76	0.70	9.04	30.58
+GO:0072311	glomerular epithelial cell differentiation	1	0.79	0.72	9.22	49.62
+GO:0048701	embryonic cranial skeleton morphogenesis	1	1.00	0.82	9.63	46.18
+GO:0045947	negative regulation of translational initiation	1	0.75	0.77	9.38	1335.45
+GO:0060267	positive regulation of respiratory burst	1	0.93	0.76	9.49	37.09
+GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
+GO:0007268	chemical synaptic transmission	1	0.74	0.72	8.66	23.17
+GO:0032594	protein transport within lipid bilayer	1	0.70	0.75	9.24	121.86
+GO:0001942	hair follicle development	1	1.00	0.75	9.63	22.36
+GO:1902950	regulation of dendritic spine maintenance	1	0.89	0.80	9.43	39.54
+GO:2000480	negative regulation of cAMP-dependent protein kinase activity	1	1.00	0.95	9.63	1429.05

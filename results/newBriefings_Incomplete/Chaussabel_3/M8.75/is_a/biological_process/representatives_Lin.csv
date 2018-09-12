@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044281	small molecule metabolic process	237	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	1177	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1225	0.15	0.20	2.26	6.41
+GO:0019222	regulation of metabolic process	893	0.21	0.30	3.39	7.96
+GO:0031323	regulation of cellular metabolic process	833	0.22	0.36	4.01	22.77
+GO:0006810	transport	587	0.28	0.34	3.95	7.46
+GO:0009059	macromolecule biosynthetic process	431	0.43	0.46	5.85	36.03
+GO:1901701	cellular response to oxygen-containing compound	110	0.47	0.48	6.19	42.34
+GO:0006950	response to stress	366	0.39	0.32	4.70	6.14
+GO:0065009	regulation of molecular function	396	0.33	0.29	4.10	4.47
+GO:0051128	regulation of cellular component organization	370	0.30	0.40	4.57	12.04
+GO:0006793	phosphorus metabolic process	301	0.34	0.37	4.88	17.52
+GO:0031399	regulation of protein modification process	274	0.41	0.56	6.69	72.96
+GO:1902531	regulation of intracellular signal transduction	257	0.45	0.55	6.77	41.85
+GO:0065003	protein-containing complex assembly	243	0.45	0.48	6.06	36.47
+GO:0030154	cell differentiation	175	0.39	0.39	5.18	16.68
+GO:0008284	positive regulation of cell proliferation	116	0.56	0.57	7.27	43.45
+GO:0019221	cytokine-mediated signaling pathway	90	0.60	0.63	7.60	26.50
+GO:0007186	G-protein coupled receptor signaling pathway	74	0.55	0.57	7.20	23.17
+GO:0044057	regulation of system process	52	0.41	0.46	5.70	11.79
+GO:0006914	autophagy	44	0.67	0.59	8.40	37.75
+GO:0048002	antigen processing and presentation of peptide antigen	42	0.70	0.55	8.09	8.95
+GO:0001818	negative regulation of cytokine production	41	0.51	0.55	7.03	44.36
+GO:0010959	regulation of metal ion transport	40	0.50	0.57	7.05	16.65
+GO:0002819	regulation of adaptive immune response	33	0.52	0.55	7.28	25.62
+GO:0007204	positive regulation of cytosolic calcium ion concentration	25	0.68	0.77	9.10	290.30
+GO:0048525	negative regulation of viral process	15	0.71	0.68	8.66	43.32
+GO:1900034	regulation of cellular response to heat	10	0.87	0.76	9.27	29.43
+GO:0051085	chaperone cofactor-dependent protein refolding	9	1.00	0.79	9.63	21.14
+GO:0070534	protein K63-linked ubiquitination	5	0.93	0.90	9.58	157.60
+GO:0051001	negative regulation of nitric-oxide synthase activity	2	1.00	0.85	9.63	123.18
+GO:2000744	positive regulation of anterior head development	1	1.00	0.79	9.63	39.53
+GO:0021547	midbrain-hindbrain boundary initiation	1	1.00	0.75	9.63	25.17
+GO:0006843	mitochondrial citrate transmembrane transport	1	1.00	0.93	9.63	312.56
+GO:1901660	calcium ion export	1	0.84	0.82	9.37	37.62

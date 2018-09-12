@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0045087	innate immune response	165	0.68	0.59	8.16	26.47
+GO:0009987	cellular process	1828	0.09	0.05	0.84	3.37
+GO:0007166	cell surface receptor signaling pathway	576	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	574	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	572	0.33	0.29	4.10	4.47
+GO:0009893	positive regulation of metabolic process	564	0.32	0.41	4.71	22.55
+GO:0002682	regulation of immune system process	479	0.32	0.36	4.60	7.96
+GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
+GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
+GO:0009636	response to toxic substance	79	0.58	0.49	6.94	9.28
+GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	138	0.47	0.43	5.84	9.28
+GO:0048869	cellular developmental process	449	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	448	0.40	0.60	6.84	245.35
+GO:0051049	regulation of transport	334	0.31	0.40	4.67	10.45
+GO:0030335	positive regulation of cell migration	145	0.58	0.64	8.22	157.26
+GO:0009892	negative regulation of metabolic process	393	0.32	0.41	4.73	22.63
+GO:0006357	regulation of transcription by RNA polymerase II	317	0.44	0.63	7.11	248.57
+GO:0035556	intracellular signal transduction	309	0.51	0.55	6.92	23.17
+GO:0006796	phosphate-containing compound metabolic process	297	0.36	0.43	5.28	20.85
+GO:0048856	anatomical structure development	235	0.33	0.29	3.70	6.46
+GO:0006351	transcription, DNA-templated	213	0.57	0.68	8.45	581.39
+GO:0022603	regulation of anatomical structure morphogenesis	212	0.36	0.43	5.15	11.29
+GO:0016477	cell migration	208	0.47	0.48	6.31	17.13
+GO:0008104	protein localization	202	0.40	0.40	5.07	7.46
+GO:0007186	G-protein coupled receptor signaling pathway	197	0.55	0.57	7.20	23.17
+GO:0010942	positive regulation of cell death	151	0.54	0.56	7.33	41.78
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	62	0.69	0.74	9.07	111.97
+GO:0032729	positive regulation of interferon-gamma production	33	0.89	0.77	9.43	65.24
+GO:0008361	regulation of cell size	11	0.78	0.68	9.00	28.02
+GO:0009308	amine metabolic process	9	0.53	0.51	6.96	23.64
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:1905564	positive regulation of vascular endothelial cell proliferation	3	1.00	0.88	9.63	108.29

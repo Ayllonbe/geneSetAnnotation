@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1539	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	600	0.33	0.45	5.35	37.59
+GO:0006464	cellular protein modification process	393	0.34	0.49	5.84	147.03
+GO:0070887	cellular response to chemical stimulus	370	0.40	0.40	5.31	25.21
+GO:0006357	regulation of transcription by RNA polymerase II	341	0.44	0.63	7.11	248.57
+GO:0042981	regulation of apoptotic process	315	0.45	0.55	6.60	16.23
+GO:0033993	response to lipid	211	0.53	0.51	6.86	13.32
+GO:0044255	cellular lipid metabolic process	145	0.38	0.44	5.89	38.02
+GO:0032870	cellular response to hormone stimulus	77	0.60	0.59	7.93	80.94
+GO:0008654	phospholipid biosynthetic process	28	0.61	0.63	8.32	240.37
+GO:0006650	glycerophospholipid metabolic process	57	0.59	0.62	8.12	144.72
+GO:0008202	steroid metabolic process	32	0.57	0.53	7.51	35.32
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	32	1.00	0.79	9.63	42.20
+GO:0046890	regulation of lipid biosynthetic process	32	0.50	0.57	7.07	29.09
+GO:0008584	male gonad development	24	1.00	0.79	9.63	50.96
+GO:0009267	cellular response to starvation	23	0.64	0.64	8.46	112.77
+GO:0006690	icosanoid metabolic process	21	0.66	0.65	8.75	57.98
+GO:1901606	alpha-amino acid catabolic process	19	0.52	0.64	7.92	380.53
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0032467	positive regulation of cytokinesis	13	0.70	0.70	9.02	142.06
+GO:0000060	protein import into nucleus, translocation	12	1.00	0.90	9.63	93.44
+GO:0015918	sterol transport	11	0.74	0.69	8.80	36.24
+GO:0030216	keratinocyte differentiation	11	0.89	0.77	9.38	25.59
+GO:0008203	cholesterol metabolic process	10	0.80	0.72	9.22	82.65
+GO:0050482	arachidonic acid secretion	5	1.00	0.95	9.63	224.86
+GO:0018146	keratan sulfate biosynthetic process	4	1.00	0.88	9.63	415.41
+GO:1901661	quinone metabolic process	2	0.62	0.56	8.04	61.62
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31
+GO:0016488	farnesol catabolic process	1	1.00	0.90	9.63	931.11

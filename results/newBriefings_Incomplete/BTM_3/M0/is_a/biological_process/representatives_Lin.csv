@@ -1,0 +1,58 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0001934	positive regulation of protein phosphorylation	164	0.58	0.69	8.60	663.11
+GO:0048523	negative regulation of cellular process	510	0.24	0.37	3.90	23.93
+GO:0065009	regulation of molecular function	422	0.33	0.29	4.10	4.47
+GO:0042221	response to chemical	361	0.32	0.29	4.12	6.14
+GO:0050793	regulation of developmental process	345	0.26	0.33	3.95	7.96
+GO:0019538	protein metabolic process	338	0.31	0.41	4.91	44.77
+GO:0002684	positive regulation of immune system process	253	0.41	0.45	5.71	22.61
+GO:0050776	regulation of immune response	243	0.38	0.44	5.64	22.45
+GO:0042127	regulation of cell proliferation	269	0.45	0.48	6.03	12.04
+GO:0009967	positive regulation of signal transduction	252	0.44	0.54	6.71	140.23
+GO:0051049	regulation of transport	250	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	224	0.51	0.55	6.92	23.17
+GO:0032940	secretion by cell	221	0.48	0.53	6.33	20.46
+GO:0010557	positive regulation of macromolecule biosynthetic process	219	0.45	0.55	6.62	113.59
+GO:0002237	response to molecule of bacterial origin	97	0.69	0.59	8.74	31.75
+GO:0051707	response to other organism	125	0.42	0.46	6.41	24.63
+GO:0016477	cell migration	169	0.47	0.48	6.31	17.13
+GO:0019221	cytokine-mediated signaling pathway	168	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	160	0.48	0.56	7.11	36.74
+GO:0080134	regulation of response to stress	207	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	151	0.40	0.45	5.60	11.65
+GO:0043066	negative regulation of apoptotic process	144	0.56	0.63	7.79	81.07
+GO:0001817	regulation of cytokine production	134	0.40	0.45	5.78	11.79
+GO:0007167	enzyme linked receptor protein signaling pathway	110	0.53	0.59	7.04	26.50
+GO:0022414	reproductive process	108	0.35	0.17	3.17	3.37
+GO:0010638	positive regulation of organelle organization	74	0.48	0.56	6.86	66.93
+GO:0001666	response to hypoxia	46	0.81	0.70	9.12	21.16
+GO:0010948	negative regulation of cell cycle process	44	0.53	0.59	7.47	61.75
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	42	0.70	0.67	8.58	26.98
+GO:0030198	extracellular matrix organization	29	0.68	0.59	8.24	16.90
+GO:0030278	regulation of ossification	28	0.74	0.62	8.94	11.79
+GO:0051099	positive regulation of binding	27	0.61	0.55	7.48	18.40
+GO:1900182	positive regulation of protein localization to nucleus	19	0.84	0.77	9.37	74.62
+GO:0031663	lipopolysaccharide-mediated signaling pathway	16	1.00	0.82	9.63	26.50
+GO:0048863	stem cell differentiation	13	0.70	0.60	8.24	21.07
+GO:1903510	mucopolysaccharide metabolic process	13	0.72	0.68	8.78	53.64
+GO:0035987	endodermal cell differentiation	12	1.00	0.75	9.63	21.07
+GO:1904037	positive regulation of epithelial cell apoptotic process	11	0.79	0.77	9.15	105.43
+GO:0048666	neuron development	10	0.67	0.58	8.09	32.15
+GO:0030225	macrophage differentiation	6	0.93	0.79	9.51	47.07
+GO:0010888	negative regulation of lipid storage	6	0.89	0.77	9.43	46.28
+GO:0045779	negative regulation of bone resorption	5	1.00	0.85	9.63	83.01
+GO:0016239	positive regulation of macroautophagy	5	0.77	0.76	9.24	266.07
+GO:2000696	regulation of epithelial cell differentiation involved in kidney development	5	0.72	0.68	9.04	87.19
+GO:0070208	protein heterotrimerization	4	1.00	0.85	9.63	85.45
+GO:0032461	positive regulation of protein oligomerization	3	0.87	0.78	9.55	141.07
+GO:0048711	positive regulation of astrocyte differentiation	3	0.93	0.88	9.59	472.10
+GO:2000660	negative regulation of interleukin-1-mediated signaling pathway	3	1.00	0.88	9.63	306.27
+GO:0031639	plasminogen activation	3	0.93	0.84	9.55	103.97
+GO:0036499	PERK-mediated unfolded protein response	3	1.00	0.82	9.63	80.02
+GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0032966	negative regulation of collagen biosynthetic process	2	1.00	0.82	9.63	106.40
+GO:0051901	positive regulation of mitochondrial depolarization	1	1.00	0.88	9.63	107.43
+GO:1900747	negative regulation of vascular endothelial growth factor signaling pathway	1	1.00	0.85	9.63	326.55
+GO:2000427	positive regulation of apoptotic cell clearance	1	0.93	0.86	9.57	227.08
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
+GO:0007260	tyrosine phosphorylation of STAT protein	1	1.00	0.92	9.63	339.94

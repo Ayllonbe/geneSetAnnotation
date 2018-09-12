@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	2422	0.35	0.46	5.09	13.73
+GO:0006351	transcription, DNA-templated	1275	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	1159	0.43	0.51	5.91	23.17
+GO:0008104	protein localization	1111	0.40	0.40	5.07	7.46
+GO:0010033	response to organic substance	1060	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	310	0.47	0.43	5.84	9.28
+GO:0042981	regulation of apoptotic process	807	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	754	0.50	0.62	7.64	109.03
+GO:0006508	proteolysis	704	0.55	0.57	7.34	47.86
+GO:0009894	regulation of catabolic process	572	0.42	0.46	5.75	10.74
+GO:0022402	cell cycle process	541	0.40	0.32	4.60	7.39
+GO:0034622	cellular protein-containing complex assembly	508	0.48	0.53	6.52	40.42
+GO:0018193	peptidyl-amino acid modification	481	0.39	0.54	6.24	151.15
+GO:0006974	cellular response to DNA damage stimulus	455	0.57	0.53	7.47	29.00
+GO:2000145	regulation of cell motility	439	0.47	0.52	6.88	34.54
+GO:0008284	positive regulation of cell proliferation	437	0.56	0.57	7.27	43.45
+GO:0010564	regulation of cell cycle process	428	0.42	0.50	6.22	14.24
+GO:0009628	response to abiotic stimulus	422	0.46	0.35	5.43	6.14
+GO:0016071	mRNA metabolic process	418	0.59	0.65	8.39	115.08
+GO:0060284	regulation of cell development	404	0.42	0.50	6.27	27.05
+GO:0043312	neutrophil degranulation	385	1.00	0.90	9.63	132.80
+GO:1902532	negative regulation of intracellular signal transduction	304	0.57	0.64	8.15	189.94
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	284	0.58	0.64	7.56	28.11
+GO:0043687	post-translational protein modification	222	0.65	0.67	8.51	151.15
+GO:0043547	positive regulation of GTPase activity	209	0.93	0.79	9.52	49.34
+GO:0006631	fatty acid metabolic process	191	0.54	0.62	7.85	91.02
+GO:1903320	regulation of protein modification by small protein conjugation or removal	164	0.59	0.67	8.45	75.95
+GO:0034976	response to endoplasmic reticulum stress	159	0.68	0.59	8.28	29.00
+GO:0006352	DNA-templated transcription, initiation	121	0.83	0.79	9.45	475.54
+GO:0001959	regulation of cytokine-mediated signaling pathway	106	0.61	0.63	8.11	55.11
+GO:0010038	response to metal ion	105	0.62	0.56	7.65	12.64
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	101	0.63	0.64	8.31	41.85
+GO:1901796	regulation of signal transduction by p53 class mediator	84	0.72	0.71	9.12	45.07
+GO:0030182	neuron differentiation	82	0.58	0.54	7.21	21.07
+GO:0007006	mitochondrial membrane organization	78	0.68	0.63	8.58	39.10
+GO:0051170	import into nucleus	78	0.74	0.72	8.94	33.90
+GO:0071236	cellular response to antibiotic	77	0.64	0.57	7.70	41.40
+GO:0048167	regulation of synaptic plasticity	74	0.67	0.69	8.57	39.26
+GO:1900180	regulation of protein localization to nucleus	73	0.74	0.69	9.01	29.06
+GO:0043401	steroid hormone mediated signaling pathway	73	0.75	0.70	8.80	25.74
+GO:1902600	proton transmembrane transport	68	0.76	0.75	9.12	95.87
+GO:0006479	protein methylation	65	0.59	0.67	8.39	206.80
+GO:0032091	negative regulation of protein binding	65	0.70	0.64	8.48	32.72
+GO:0006353	DNA-templated transcription, termination	60	0.80	0.77	9.41	475.54
+GO:0006368	transcription elongation from RNA polymerase II promoter	57	1.00	0.90	9.63	477.15
+GO:0097711	ciliary basal body-plasma membrane docking	53	1.00	0.79	9.63	21.39
+GO:0090263	positive regulation of canonical Wnt signaling pathway	47	0.83	0.79	9.42	236.53
+GO:0060964	regulation of gene silencing by miRNA	33	0.74	0.74	9.16	63.20
+GO:0045815	positive regulation of gene expression, epigenetic	33	0.78	0.74	9.08	79.85
+GO:0032480	negative regulation of type I interferon production	32	0.80	0.72	9.19	65.25
+GO:0035307	positive regulation of protein dephosphorylation	30	0.81	0.80	9.46	660.90
+GO:0006383	transcription by RNA polymerase III	29	0.84	0.84	9.50	583.88
+GO:0009225	nucleotide-sugar metabolic process	28	0.62	0.63	8.62	123.38
+GO:0051402	neuron apoptotic process	28	0.83	0.70	9.02	23.44
+GO:0051085	chaperone cofactor-dependent protein refolding	24	1.00	0.79	9.63	21.14
+GO:0042149	cellular response to glucose starvation	24	0.89	0.80	9.50	115.90
+GO:0007259	JAK-STAT cascade	23	0.93	0.82	9.51	26.43
+GO:0071353	cellular response to interleukin-4	18	1.00	0.82	9.63	81.65
+GO:0045671	negative regulation of osteoclast differentiation	18	0.93	0.86	9.59	842.53
+GO:1900101	regulation of endoplasmic reticulum unfolded protein response	17	0.76	0.73	9.19	73.23
+GO:0034620	cellular response to unfolded protein	13	0.93	0.79	9.55	123.18
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	12	1.00	0.88	9.63	500.32
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	12	1.00	0.82	9.63	80.91
+GO:0009312	oligosaccharide biosynthetic process	11	0.70	0.64	8.61	68.90
+GO:0030318	melanocyte differentiation	9	0.89	0.74	9.34	22.86
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	8	0.89	0.80	9.45	48.00
+GO:0048384	retinoic acid receptor signaling pathway	7	0.79	0.72	8.94	25.57
+GO:0046323	glucose import	6	0.89	0.86	9.46	38.21
+GO:0070682	proteasome regulatory particle assembly	2	1.00	0.85	9.63	45.62
+GO:0060741	prostate gland stromal morphogenesis	1	1.00	0.70	9.63	30.55
+GO:0071847	TNFSF11-mediated signaling pathway	1	0.93	0.84	9.52	30.19

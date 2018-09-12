@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016043	cellular component organization	989	0.28	0.26	3.74	11.45
+GO:0006355	regulation of transcription, DNA-templated	798	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	744	0.39	0.52	6.45	112.25
+GO:0032502	developmental process	586	0.22	0.11	1.89	3.37
+GO:1903507	negative regulation of nucleic acid-templated transcription	284	0.55	0.67	8.38	898.55
+GO:0006974	cellular response to DNA damage stimulus	180	0.57	0.53	7.47	29.00
+GO:0050900	leukocyte migration	72	0.60	0.59	8.02	26.94
+GO:0042742	defense response to bacterium	40	0.79	0.72	9.19	69.65
+GO:0050810	regulation of steroid biosynthetic process	22	0.61	0.65	8.27	49.64
+GO:0042130	negative regulation of T cell proliferation	16	0.78	0.78	9.42	581.93
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0048662	negative regulation of smooth muscle cell proliferation	13	0.93	0.79	9.52	63.59
+GO:2000406	positive regulation of T cell migration	10	0.80	0.81	9.46	351.78
+GO:1902476	chloride transmembrane transport	10	1.00	0.88	9.63	110.52
+GO:0051016	barbed-end actin filament capping	6	1.00	0.96	9.63	827.59
+GO:0042535	positive regulation of tumor necrosis factor biosynthetic process	3	1.00	0.88	9.63	857.34
+GO:0030328	prenylcysteine catabolic process	1	1.00	0.90	9.63	660.32
+GO:0030327	prenylated protein catabolic process	1	1.00	0.88	9.63	156.45

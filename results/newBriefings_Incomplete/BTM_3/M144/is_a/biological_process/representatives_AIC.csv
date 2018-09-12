@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1768	0.09	0.05	0.84	3.37
+GO:0043392	negative regulation of DNA binding	10	0.76	0.67	8.87	32.53
+GO:0043433	negative regulation of DNA binding transcription factor activity	35	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	56	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	1478	0.09	0.17	1.80	4.47
+GO:0090304	nucleic acid metabolic process	346	0.35	0.46	5.97	111.15
+GO:0019538	protein metabolic process	483	0.31	0.41	4.91	44.77
+GO:0044248	cellular catabolic process	166	0.31	0.36	4.57	26.23
+GO:0008104	protein localization	193	0.40	0.40	5.07	7.46
+GO:0006810	transport	634	0.28	0.34	3.95	7.46
+GO:0033554	cellular response to stress	220	0.44	0.42	6.05	25.47
+GO:0042221	response to chemical	468	0.32	0.29	4.12	6.14
+GO:0019076	viral release from host cell	1	0.84	0.77	9.39	33.81

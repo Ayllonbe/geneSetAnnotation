@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016043	cellular component organization	647	0.28	0.26	3.74	11.45
+GO:0032774	RNA biosynthetic process	360	0.53	0.62	8.04	473.34
+GO:0048869	cellular developmental process	284	0.32	0.29	4.16	13.85
+GO:0007166	cell surface receptor signaling pathway	284	0.43	0.51	5.91	23.17
+GO:0065003	protein-containing complex assembly	248	0.45	0.48	6.06	36.47
+GO:0045944	positive regulation of transcription by RNA polymerase II	169	0.55	0.71	8.36	1463.86
+GO:0001819	positive regulation of cytokine production	76	0.51	0.54	6.97	44.26
+GO:0006397	mRNA processing	75	0.71	0.73	9.17	234.35
+GO:0034599	cellular response to oxidative stress	37	0.72	0.61	8.94	68.67
+GO:0048638	regulation of developmental growth	37	0.53	0.51	6.96	21.65
+GO:0048608	reproductive structure development	31	0.61	0.50	7.37	31.35
+GO:0071248	cellular response to metal ion	26	0.70	0.64	8.46	59.28
+GO:1902600	proton transmembrane transport	23	0.76	0.75	9.12	95.87
+GO:0002576	platelet degranulation	21	1.00	0.88	9.63	39.86
+GO:0042542	response to hydrogen peroxide	21	0.93	0.76	9.54	79.29
+GO:0006283	transcription-coupled nucleotide-excision repair	21	1.00	0.90	9.63	184.44
+GO:0042795	snRNA transcription by RNA polymerase II	19	1.00	0.95	9.63	1410.65
+GO:0045471	response to ethanol	17	0.93	0.76	9.52	69.73
+GO:0000187	activation of MAPK activity	17	0.81	0.87	9.53	3706.25
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0043524	negative regulation of neuron apoptotic process	16	0.79	0.77	9.25	179.63
+GO:0006637	acyl-CoA metabolic process	13	0.59	0.59	7.98	77.21
+GO:0060964	regulation of gene silencing by miRNA	12	0.74	0.74	9.16	63.20
+GO:0006749	glutathione metabolic process	11	0.84	0.74	9.36	147.29
+GO:0098930	axonal transport	11	0.74	0.75	9.20	69.72
+GO:0006879	cellular iron ion homeostasis	7	0.84	0.84	9.47	186.74
+GO:0048538	thymus development	6	1.00	0.79	9.63	35.89
+GO:0006379	mRNA cleavage	6	0.83	0.79	9.47	348.01
+GO:0006783	heme biosynthetic process	5	0.83	0.76	9.46	646.21
+GO:0046716	muscle cell cellular homeostasis	5	1.00	0.79	9.63	31.95
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	5	1.00	0.88	9.63	66.40
+GO:0071318	cellular response to ATP	4	1.00	0.85	9.63	523.25
+GO:0019430	removal of superoxide radicals	4	1.00	0.79	9.63	35.17
+GO:0001975	response to amphetamine	3	0.93	0.79	9.54	70.50
+GO:0045541	negative regulation of cholesterol biosynthetic process	3	1.00	0.92	9.63	666.11
+GO:0032930	positive regulation of superoxide anion generation	2	1.00	0.88	9.63	144.58
+GO:0019226	transmission of nerve impulse	2	1.00	0.75	9.63	26.02
+GO:0033081	regulation of T cell differentiation in thymus	2	0.79	0.79	9.42	133.47
+GO:1902177	positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	2	0.89	0.86	9.57	997.82
+GO:0000303	response to superoxide	2	0.93	0.79	9.52	40.75
+GO:0034465	response to carbon monoxide	2	0.93	0.72	9.49	53.49
+GO:0050665	hydrogen peroxide biosynthetic process	1	1.00	0.82	9.63	211.46
+GO:0060087	relaxation of vascular smooth muscle	1	1.00	0.90	9.63	81.72

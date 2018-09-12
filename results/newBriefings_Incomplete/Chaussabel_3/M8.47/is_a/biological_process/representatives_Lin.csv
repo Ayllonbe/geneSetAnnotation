@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016070	RNA metabolic process	755	0.39	0.52	6.45	112.25
+GO:0010604	positive regulation of macromolecule metabolic process	713	0.37	0.48	5.51	38.99
+GO:0031324	negative regulation of cellular metabolic process	582	0.34	0.46	5.46	80.35
+GO:0006950	response to stress	578	0.39	0.32	4.70	6.14
+GO:0032879	regulation of localization	561	0.27	0.33	4.05	7.96
+GO:0035556	intracellular signal transduction	402	0.51	0.55	6.92	23.17
+GO:0070887	cellular response to chemical stimulus	379	0.40	0.40	5.31	25.21
+GO:0051726	regulation of cell cycle	273	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	257	0.40	0.32	4.60	7.39
+GO:0006468	protein phosphorylation	232	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	202	0.45	0.55	7.12	145.26
+GO:0034622	cellular protein-containing complex assembly	193	0.48	0.53	6.52	40.42
+GO:0008284	positive regulation of cell proliferation	187	0.56	0.57	7.27	43.45
+GO:0043065	positive regulation of apoptotic process	169	0.56	0.63	7.81	80.91
+GO:0051640	organelle localization	125	0.49	0.45	6.08	7.87
+GO:0003006	developmental process involved in reproduction	113	0.43	0.34	5.07	14.49
+GO:0033044	regulation of chromosome organization	90	0.44	0.54	6.49	19.19
+GO:0031334	positive regulation of protein complex assembly	63	0.61	0.63	8.09	105.22
+GO:0120031	plasma membrane bounded cell projection assembly	54	0.69	0.64	8.45	55.86
+GO:0023052	signaling	50	0.53	0.26	5.25	3.37
+GO:0035023	regulation of Rho protein signal transduction	34	0.84	0.82	9.32	48.76
+GO:0045069	regulation of viral genome replication	29	0.78	0.74	9.09	18.47
+GO:0048024	regulation of mRNA splicing, via spliceosome	20	0.81	0.80	9.45	184.42
+GO:0032508	DNA duplex unwinding	18	0.80	0.75	9.22	23.73
+GO:0035264	multicellular organism growth	18	1.00	0.70	9.63	22.58
+GO:2001022	positive regulation of response to DNA damage stimulus	18	0.70	0.70	8.89	86.91
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0007020	microtubule nucleation	6	0.80	0.72	9.07	33.20
+GO:0098909	regulation of cardiac muscle cell action potential involved in regulation of contraction	5	1.00	0.82	9.63	24.10
+GO:0070198	protein localization to chromosome, telomeric region	3	0.89	0.80	9.43	34.72
+GO:2000675	negative regulation of type B pancreatic cell apoptotic process	3	1.00	0.90	9.63	129.93
+GO:0035128	post-embryonic forelimb morphogenesis	1	1.00	0.82	9.63	58.94
+GO:0035063	nuclear speck organization	1	1.00	0.82	9.63	22.53
+GO:1901580	regulation of telomeric RNA transcription from RNA pol II promoter	1	0.89	0.88	9.53	252.65

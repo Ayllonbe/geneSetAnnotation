@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7205	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	5130	0.08	0.04	0.98	3.37
+GO:0045087	innate immune response	276	0.68	0.59	8.16	26.47
+GO:2000649	regulation of sodium ion transmembrane transporter activity	25	0.71	0.75	9.11	122.59
+GO:0046732	active induction of host immune response by virus	1	0.87	0.87	9.56	754.04
+GO:0043433	negative regulation of DNA binding transcription factor activity	88	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	148	0.81	0.84	9.43	277.83
+GO:0051179	localization	2241	0.26	0.13	2.57	3.37
+GO:0032922	circadian regulation of gene expression	28	1.00	0.82	9.63	31.18
+GO:0032502	developmental process	1298	0.22	0.11	1.89	3.37
+GO:0032922	circadian regulation of gene expression	28	1.00	0.82	9.63	31.18
+GO:0032502	developmental process	1298	0.22	0.11	1.89	3.37
+GO:0051704	multi-organism process	483	0.29	0.15	3.12	3.37

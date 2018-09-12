@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1033	0.08	0.04	0.98	3.37
+GO:0048208	COPII vesicle coating	4	1.00	0.82	9.63	62.44
+GO:0071704	organic substance metabolic process	629	0.15	0.20	2.26	6.41
+GO:0016192	vesicle-mediated transport	242	0.52	0.51	6.57	10.99
+GO:0071702	organic substance transport	168	0.33	0.41	4.62	10.99
+GO:0032502	developmental process	344	0.22	0.11	1.89	3.37
+GO:0010033	response to organic substance	294	0.35	0.37	4.75	9.28
+GO:0046718	viral entry into host cell	18	0.77	0.73	8.94	28.37

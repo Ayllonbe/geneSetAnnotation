@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	154	0.26	0.38	4.09	10.74
+GO:0060732	positive regulation of inositol phosphate biosynthetic process	1	0.93	0.84	9.59	800.12
+GO:0051179	localization	132	0.26	0.13	2.57	3.37
+GO:0048523	negative regulation of cellular process	100	0.24	0.37	3.90	23.93
+GO:0045595	regulation of cell differentiation	35	0.34	0.42	5.25	23.33
+GO:0051128	regulation of cellular component organization	75	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	44	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	44	0.51	0.55	6.92	23.17
+GO:0022607	cellular component assembly	64	0.39	0.39	5.06	14.95
+GO:0051049	regulation of transport	51	0.31	0.40	4.67	10.45
+GO:0051270	regulation of cellular component movement	16	0.43	0.47	6.20	22.49
+GO:0050829	defense response to Gram-negative bacterium	3	1.00	0.85	9.63	71.44
+GO:0002376	immune system process	51	0.38	0.19	3.93	3.37
+GO:0010033	response to organic substance	38	0.35	0.37	4.75	9.28
+GO:0009967	positive regulation of signal transduction	30	0.44	0.54	6.71	140.23
+GO:0051704	multi-organism process	28	0.29	0.15	3.12	3.37
+GO:0044092	negative regulation of molecular function	22	0.43	0.41	5.21	6.77
+GO:0006468	protein phosphorylation	22	0.57	0.64	8.18	177.76
+GO:0045086	positive regulation of interleukin-2 biosynthetic process	1	1.00	0.88	9.63	834.88
+GO:0002684	positive regulation of immune system process	16	0.41	0.45	5.71	22.61
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0060317	cardiac epithelial to mesenchymal transition	1	0.80	0.72	9.01	24.76

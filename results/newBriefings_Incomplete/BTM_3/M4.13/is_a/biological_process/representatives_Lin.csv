@@ -1,0 +1,62 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1089	0.12	0.26	2.47	7.96
+GO:0016043	cellular component organization	518	0.28	0.26	3.74	11.45
+GO:0050794	regulation of cellular process	1089	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	351	0.32	0.36	4.60	7.96
+GO:0051128	regulation of cellular component organization	313	0.30	0.40	4.57	12.04
+GO:0051049	regulation of transport	263	0.31	0.40	4.67	10.45
+GO:0042981	regulation of apoptotic process	224	0.45	0.55	6.60	16.23
+GO:0001933	negative regulation of protein phosphorylation	61	0.61	0.70	8.76	664.69
+GO:0031401	positive regulation of protein modification process	184	0.51	0.63	7.86	366.05
+GO:0080134	regulation of response to stress	219	0.35	0.42	5.03	11.65
+GO:0006887	exocytosis	205	0.67	0.66	8.38	37.08
+GO:0008284	positive regulation of cell proliferation	197	0.56	0.57	7.27	43.45
+GO:2000145	regulation of cell motility	183	0.47	0.52	6.88	34.54
+GO:0019221	cytokine-mediated signaling pathway	174	0.60	0.63	7.60	26.50
+GO:1901701	cellular response to oxygen-containing compound	167	0.47	0.48	6.19	42.34
+GO:0006952	defense response	160	0.56	0.48	6.67	9.54
+GO:0008104	protein localization	157	0.40	0.40	5.07	7.46
+GO:0009653	anatomical structure morphogenesis	126	0.36	0.31	4.09	6.46
+GO:0006468	protein phosphorylation	121	0.57	0.64	8.18	177.76
+GO:0060326	cell chemotaxis	91	0.64	0.61	8.15	30.29
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	89	0.58	0.64	7.56	28.11
+GO:0034613	cellular protein localization	87	0.45	0.48	6.33	26.83
+GO:0007010	cytoskeleton organization	84	0.52	0.51	6.76	18.35
+GO:0046649	lymphocyte activation	83	0.55	0.52	7.16	18.06
+GO:0051493	regulation of cytoskeleton organization	77	0.51	0.58	7.03	19.19
+GO:0071801	regulation of podosome assembly	4	0.89	0.80	9.43	64.45
+GO:0051259	protein complex oligomerization	62	0.78	0.68	9.09	40.42
+GO:0001666	response to hypoxia	47	0.81	0.70	9.12	21.16
+GO:0048608	reproductive structure development	38	0.61	0.50	7.37	31.35
+GO:0007229	integrin-mediated signaling pathway	28	1.00	0.82	9.63	26.50
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	28	0.80	0.65	8.94	20.20
+GO:0031099	regeneration	23	0.70	0.55	7.89	11.73
+GO:0051147	regulation of muscle cell differentiation	20	0.60	0.59	7.95	27.05
+GO:0007043	cell-cell junction assembly	18	0.75	0.67	8.82	53.94
+GO:0031663	lipopolysaccharide-mediated signaling pathway	17	1.00	0.82	9.63	26.50
+GO:0032091	negative regulation of protein binding	17	0.70	0.64	8.48	32.72
+GO:0007266	Rho protein signal transduction	17	0.93	0.84	9.52	29.61
+GO:0034250	positive regulation of cellular amide metabolic process	15	0.60	0.62	8.20	170.99
+GO:0022617	extracellular matrix disassembly	13	0.87	0.72	9.38	37.09
+GO:1900076	regulation of cellular response to insulin stimulus	11	0.74	0.62	8.84	23.69
+GO:0043488	regulation of mRNA stability	10	0.74	0.77	9.24	282.23
+GO:0051017	actin filament bundle assembly	9	0.79	0.72	9.14	39.79
+GO:0016064	immunoglobulin mediated immune response	8	0.76	0.70	9.04	30.58
+GO:0032930	positive regulation of superoxide anion generation	7	1.00	0.88	9.63	144.58
+GO:0032703	negative regulation of interleukin-2 production	7	0.89	0.77	9.43	65.25
+GO:0090398	cellular senescence	5	0.87	0.68	9.45	55.14
+GO:0033148	positive regulation of intracellular estrogen receptor signaling pathway	4	1.00	0.88	9.63	233.77
+GO:0045880	positive regulation of smoothened signaling pathway	3	0.89	0.80	9.50	187.64
+GO:0007216	G-protein coupled glutamate receptor signaling pathway	3	0.89	0.80	9.43	54.17
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	3	0.87	0.78	9.52	52.93
+GO:0034351	negative regulation of glial cell apoptotic process	3	0.93	0.84	9.55	104.33
+GO:0060244	negative regulation of cell proliferation involved in contact inhibition	3	1.00	0.82	9.63	46.98
+GO:0032079	positive regulation of endodeoxyribonuclease activity	2	1.00	0.90	9.63	975.11
+GO:0007406	negative regulation of neuroblast proliferation	2	0.89	0.82	9.55	502.08
+GO:0070885	negative regulation of calcineurin-NFAT signaling cascade	1	1.00	0.92	9.63	339.11
+GO:0010737	protein kinase A signaling	1	1.00	0.82	9.63	26.43
+GO:0023021	termination of signal transduction	1	0.87	0.78	9.43	144.87
+GO:1900163	positive regulation of phospholipid scramblase activity	1	1.00	0.90	9.63	406.95
+GO:0002522	leukocyte migration involved in immune response	1	0.93	0.79	9.52	38.09
+GO:2001045	negative regulation of integrin-mediated signaling pathway	1	1.00	0.85	9.63	187.41
+GO:0051490	negative regulation of filopodium assembly	1	1.00	0.90	9.63	173.85

@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	888	0.25	0.32	3.46	10.22
+GO:0002376	immune system process	632	0.38	0.19	3.93	3.37
+GO:0007218	neuropeptide signaling pathway	11	0.93	0.79	9.49	26.98
+GO:0007166	cell surface receptor signaling pathway	597	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	603	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	597	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	459	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	340	0.39	0.39	5.14	9.28
+GO:0043066	negative regulation of apoptotic process	219	0.56	0.63	7.79	81.07
+GO:0051251	positive regulation of lymphocyte activation	131	0.58	0.64	8.19	127.58
+GO:0006897	endocytosis	113	0.63	0.61	8.09	26.36
+GO:0042742	defense response to bacterium	80	0.79	0.72	9.19	69.65
+GO:0007268	chemical synaptic transmission	35	0.74	0.72	8.66	23.17
+GO:0034976	response to endoplasmic reticulum stress	22	0.68	0.59	8.28	29.00
+GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0050716	positive regulation of interleukin-1 secretion	12	0.89	0.86	9.57	755.70
+GO:0045454	cell redox homeostasis	5	1.00	0.79	9.63	31.94
+GO:0060267	positive regulation of respiratory burst	1	0.93	0.76	9.49	37.09
+GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	1	1.00	0.95	9.63	2754.97

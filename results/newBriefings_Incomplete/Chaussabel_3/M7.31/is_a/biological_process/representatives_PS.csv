@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	5430	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	1065	0.28	0.26	3.48	4.47
+GO:0043407	negative regulation of MAP kinase activity	37	0.81	0.85	9.54	2610.18
+GO:0050790	regulation of catalytic activity	888	0.37	0.39	4.99	6.77
+GO:0050789	regulation of biological process	4216	0.09	0.17	1.80	4.47
+GO:0044093	positive regulation of molecular function	726	0.43	0.41	5.23	6.77
+GO:0065008	regulation of biological quality	1065	0.28	0.26	3.48	4.47
+GO:0043407	negative regulation of MAP kinase activity	37	0.81	0.85	9.54	2610.18
+GO:0050789	regulation of biological process	4216	0.09	0.17	1.80	4.47
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	182	0.76	0.78	9.31	348.36
+GO:0008152	metabolic process	3894	0.15	0.07	1.52	3.37
+GO:0006974	cellular response to DNA damage stimulus	348	0.57	0.53	7.47	29.00
+GO:0006810	transport	1658	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	955	0.32	0.29	4.12	6.14
+GO:0002376	immune system process	941	0.38	0.19	3.93	3.37
+GO:0006605	protein targeting	163	0.72	0.76	9.18	93.44
+GO:0016055	Wnt signaling pathway	131	0.59	0.65	7.65	28.58
+GO:0006913	nucleocytoplasmic transport	128	0.63	0.64	8.15	33.20
+GO:0060333	interferon-gamma-mediated signaling pathway	47	1.00	0.85	9.63	30.19
+GO:0002064	epithelial cell development	46	0.63	0.57	7.95	32.15
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	45	0.71	0.71	8.71	27.67
+GO:0007032	endosome organization	43	0.84	0.71	9.22	20.92
+GO:0060337	type I interferon signaling pathway	42	1.00	0.85	9.63	30.19
+GO:0007179	transforming growth factor beta receptor signaling pathway	40	0.76	0.75	9.05	29.90
+GO:0007517	muscle organ development	39	0.78	0.64	8.75	27.68
+GO:0007611	learning or memory	37	0.70	0.64	8.38	19.74
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	37	0.83	0.79	9.19	31.00
+GO:0032482	Rab protein signal transduction	35	1.00	0.88	9.63	29.61
+GO:0008543	fibroblast growth factor receptor signaling pathway	30	0.71	0.73	8.57	31.00
+GO:0070498	interleukin-1-mediated signaling pathway	29	1.00	0.85	9.63	30.19
+GO:0030521	androgen receptor signaling pathway	20	0.89	0.82	9.45	54.01
+GO:0000715	nucleotide-excision repair, DNA damage recognition	19	0.93	0.76	9.47	21.24
+GO:0030032	lamellipodium assembly	15	0.89	0.77	9.53	78.22
+GO:0048008	platelet-derived growth factor receptor signaling pathway	15	0.78	0.76	9.19	31.00
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	14	0.93	0.93	9.59	413.35
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	13	0.89	0.89	9.56	487.92
+GO:0035855	megakaryocyte development	11	1.00	0.79	9.63	66.39
+GO:0016601	Rac protein signal transduction	10	1.00	0.88	9.63	29.61
+GO:0044458	motile cilium assembly	8	1.00	0.85	9.63	138.78
+GO:0021895	cerebral cortex neuron differentiation	5	0.83	0.74	9.18	26.73
+GO:0072673	lamellipodium morphogenesis	4	1.00	0.85	9.63	82.65
+GO:0021522	spinal cord motor neuron differentiation	4	0.87	0.76	9.31	49.74
+GO:1903251	multi-ciliated epithelial cell differentiation	1	1.00	0.79	9.63	24.20

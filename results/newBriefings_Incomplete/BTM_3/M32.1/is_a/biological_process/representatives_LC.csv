@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	141	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	117	0.08	0.04	0.98	3.37
+GO:0032417	positive regulation of sodium:proton antiporter activity	1	1.00	0.93	9.63	842.89
+GO:0031295	T cell costimulation	1	0.93	0.86	9.59	354.90
+GO:0043433	negative regulation of DNA binding transcription factor activity	3	0.81	0.84	9.47	278.01
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	2	1.00	0.79	9.63	42.20
+GO:1903408	positive regulation of sodium:potassium-exchanging ATPase activity	1	1.00	0.93	9.63	1737.61
+GO:0051179	localization	50	0.26	0.13	2.57	3.37

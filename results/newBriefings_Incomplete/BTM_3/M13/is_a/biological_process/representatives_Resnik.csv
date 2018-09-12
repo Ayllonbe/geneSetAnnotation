@@ -1,0 +1,75 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019222	regulation of metabolic process	922	0.21	0.30	3.39	7.96
+GO:0002376	immune system process	625	0.38	0.19	3.93	3.37
+GO:0042221	response to chemical	504	0.32	0.29	4.12	6.14
+GO:0002682	regulation of immune system process	498	0.32	0.36	4.60	7.96
+GO:0010033	response to organic substance	458	0.35	0.37	4.75	9.28
+GO:0045595	regulation of cell differentiation	346	0.34	0.42	5.25	23.33
+GO:0022603	regulation of anatomical structure morphogenesis	219	0.36	0.43	5.15	11.29
+GO:2000026	regulation of multicellular organismal development	412	0.29	0.39	4.73	23.09
+GO:0051049	regulation of transport	349	0.31	0.40	4.67	10.45
+GO:1905952	regulation of lipid localization	31	0.51	0.51	6.78	10.45
+GO:0045595	regulation of cell differentiation	346	0.34	0.42	5.25	23.33
+GO:0071310	cellular response to organic substance	326	0.44	0.47	5.95	41.66
+GO:0042981	regulation of apoptotic process	316	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	310	0.50	0.62	7.64	109.03
+GO:0032270	positive regulation of cellular protein metabolic process	306	0.47	0.59	7.41	288.49
+GO:0032940	secretion by cell	288	0.48	0.53	6.33	20.46
+GO:0008284	positive regulation of cell proliferation	271	0.56	0.57	7.27	43.45
+GO:0002237	response to molecule of bacterial origin	128	0.69	0.59	8.74	31.75
+GO:0051707	response to other organism	182	0.42	0.46	6.41	24.63
+GO:0019221	cytokine-mediated signaling pathway	248	0.60	0.63	7.60	26.50
+GO:0006952	defense response	245	0.56	0.48	6.67	9.54
+GO:0010648	negative regulation of cell communication	245	0.41	0.50	5.87	43.44
+GO:1902533	positive regulation of intracellular signal transduction	239	0.55	0.63	7.95	189.48
+GO:0051130	positive regulation of cellular component organization	231	0.42	0.50	5.95	43.84
+GO:0030334	regulation of cell migration	221	0.48	0.56	7.11	36.74
+GO:0045088	regulation of innate immune response	128	0.47	0.56	6.78	42.47
+GO:0050727	regulation of inflammatory response	116	0.53	0.59	7.40	31.59
+GO:0045944	positive regulation of transcription by RNA polymerase II	211	0.55	0.71	8.36	1463.86
+GO:0007186	G-protein coupled receptor signaling pathway	202	0.55	0.57	7.20	23.17
+GO:0050718	positive regulation of interleukin-1 beta secretion	11	1.00	0.93	9.63	998.82
+GO:0001818	negative regulation of cytokine production	82	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	154	0.51	0.54	6.97	44.26
+GO:0008285	negative regulation of cell proliferation	168	0.56	0.57	7.31	43.61
+GO:0051345	positive regulation of hydrolase activity	166	0.57	0.57	7.42	32.99
+GO:0009628	response to abiotic stimulus	148	0.46	0.35	5.43	6.14
+GO:0006974	cellular response to DNA damage stimulus	146	0.57	0.53	7.47	29.00
+GO:0000122	negative regulation of transcription by RNA polymerase II	132	0.61	0.74	8.79	1836.95
+GO:0010469	regulation of signaling receptor activity	129	0.59	0.62	7.95	48.62
+GO:0022409	positive regulation of cell-cell adhesion	114	0.59	0.59	7.66	36.23
+GO:0048513	animal organ development	113	0.50	0.45	5.88	11.73
+GO:0006874	cellular calcium ion homeostasis	107	0.63	0.71	8.83	287.08
+GO:0051090	regulation of DNA binding transcription factor activity	100	0.72	0.77	9.22	255.34
+GO:0006366	transcription by RNA polymerase II	92	0.60	0.72	8.61	583.88
+GO:0043900	regulation of multi-organism process	90	0.40	0.40	5.32	7.96
+GO:0045862	positive regulation of proteolysis	71	0.61	0.68	8.73	336.28
+GO:0030595	leukocyte chemotaxis	71	0.69	0.67	8.77	62.06
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0000165	MAPK cascade	64	0.74	0.77	9.24	231.45
+GO:0043122	regulation of I-kappaB kinase/NF-kappaB signaling	60	0.79	0.74	9.26	45.07
+GO:0043687	post-translational protein modification	51	0.65	0.67	8.51	151.15
+GO:0060759	regulation of response to cytokine stimulus	50	0.59	0.55	7.43	11.65
+GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
+GO:0016579	protein deubiquitination	38	0.73	0.76	9.15	202.60
+GO:0051781	positive regulation of cell division	28	0.68	0.63	8.44	42.29
+GO:1901222	regulation of NIK/NF-kappaB signaling	27	0.84	0.77	9.34	45.07
+GO:0051262	protein tetramerization	21	0.89	0.77	9.41	42.03
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0045429	positive regulation of nitric oxide biosynthetic process	18	1.00	0.88	9.63	658.64
+GO:0045727	positive regulation of translation	17	0.66	0.71	9.12	1032.69
+GO:0012501	programmed cell death	13	0.55	0.47	6.38	8.78
+GO:0043491	protein kinase B signaling	13	1.00	0.82	9.63	26.43
+GO:0000060	protein import into nucleus, translocation	12	1.00	0.90	9.63	93.44
+GO:0043392	negative regulation of DNA binding	11	0.76	0.67	8.87	32.53
+GO:0050994	regulation of lipid catabolic process	9	0.64	0.64	8.17	28.34
+GO:0035176	social behavior	7	1.00	0.70	9.63	22.58
+GO:0045779	negative regulation of bone resorption	6	1.00	0.85	9.63	83.01
+GO:0044351	macropinocytosis	3	0.87	0.78	9.41	29.54
+GO:0060355	positive regulation of cell adhesion molecule production	3	1.00	0.79	9.63	40.68
+GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway	3	1.00	0.85	9.63	213.04
+GO:0032966	negative regulation of collagen biosynthetic process	2	1.00	0.82	9.63	106.40
+GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:0030213	hyaluronan biosynthetic process	1	1.00	0.88	9.63	506.70

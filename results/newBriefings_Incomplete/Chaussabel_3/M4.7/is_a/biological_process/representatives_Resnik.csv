@@ -1,0 +1,95 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	3876	0.08	0.04	0.98	3.37
+GO:0044237	cellular metabolic process	3352	0.16	0.21	2.71	13.80
+GO:0019538	protein metabolic process	1529	0.31	0.41	4.91	44.77
+GO:0016070	RNA metabolic process	1301	0.39	0.52	6.45	112.25
+GO:0031323	regulation of cellular metabolic process	2280	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	1706	0.28	0.26	3.74	11.45
+GO:0051179	localization	1653	0.26	0.13	2.57	3.37
+GO:0051726	regulation of cell cycle	452	0.41	0.45	5.89	12.04
+GO:0031325	positive regulation of cellular metabolic process	1149	0.33	0.46	5.39	79.98
+GO:0006355	regulation of transcription, DNA-templated	1381	0.40	0.60	6.84	245.35
+GO:0044267	cellular protein metabolic process	1305	0.34	0.46	5.57	80.87
+GO:0016070	RNA metabolic process	1301	0.39	0.52	6.45	112.25
+GO:0006166	purine ribonucleoside salvage	3	0.84	0.84	9.54	4114.62
+GO:0016070	RNA metabolic process	1301	0.39	0.52	6.45	112.25
+GO:0006166	purine ribonucleoside salvage	3	0.84	0.84	9.54	4114.62
+GO:0006464	cellular protein modification process	1186	0.34	0.49	5.84	147.03
+GO:0006342	chromatin silencing	29	0.78	0.82	9.45	1752.52
+GO:0010605	negative regulation of macromolecule metabolic process	991	0.37	0.48	5.54	39.19
+GO:0006357	regulation of transcription by RNA polymerase II	957	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	933	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	907	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	793	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	788	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	717	0.35	0.37	4.75	9.28
+GO:0071732	cellular response to nitric oxide	8	1.00	0.82	9.63	346.50
+GO:0010628	positive regulation of gene expression	706	0.47	0.56	6.67	58.80
+GO:1902531	regulation of intracellular signal transduction	673	0.45	0.55	6.77	41.85
+GO:2000584	negative regulation of platelet-derived growth factor receptor-alpha signaling pathway	1	1.00	0.88	9.63	232.73
+GO:1903829	positive regulation of cellular protein localization	139	0.60	0.62	7.80	40.87
+GO:0051049	regulation of transport	620	0.31	0.40	4.67	10.45
+GO:0065003	protein-containing complex assembly	634	0.45	0.48	6.06	36.47
+GO:0033554	cellular response to stress	628	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	619	0.51	0.55	6.92	23.17
+GO:0060548	negative regulation of cell death	379	0.54	0.56	7.27	41.94
+GO:0010942	positive regulation of cell death	284	0.54	0.56	7.33	41.78
+GO:0042127	regulation of cell proliferation	516	0.45	0.48	6.03	12.04
+GO:0080134	regulation of response to stress	514	0.35	0.42	5.03	11.65
+GO:0006508	proteolysis	492	0.55	0.57	7.34	47.86
+GO:0006468	protein phosphorylation	365	0.57	0.64	8.18	177.76
+GO:0016311	dephosphorylation	114	0.68	0.63	8.33	24.41
+GO:0002694	regulation of leukocyte activation	216	0.46	0.52	6.81	24.92
+GO:0050776	regulation of immune response	393	0.38	0.44	5.64	22.45
+GO:0030154	cell differentiation	468	0.39	0.39	5.18	16.68
+GO:0048856	anatomical structure development	440	0.33	0.29	3.70	6.46
+GO:0044255	cellular lipid metabolic process	366	0.38	0.44	5.89	38.02
+GO:0016125	sterol metabolic process	57	0.71	0.64	8.71	52.06
+GO:0007610	behavior	79	0.48	0.24	4.72	3.37
+GO:0032501	multicellular organismal process	397	0.33	0.16	3.12	3.37
+GO:0042592	homeostatic process	386	0.45	0.42	5.70	8.64
+GO:0006811	ion transport	364	0.38	0.44	5.19	10.99
+GO:0009894	regulation of catabolic process	358	0.42	0.46	5.75	10.74
+GO:0050794	regulation of cellular process	3537	0.12	0.26	2.47	7.96
+GO:0044087	regulation of cellular component biogenesis	351	0.41	0.40	5.33	7.96
+GO:0006259	DNA metabolic process	342	0.45	0.55	7.12	145.26
+GO:1903047	mitotic cell cycle process	309	0.50	0.45	5.87	11.32
+GO:0030334	regulation of cell migration	298	0.48	0.56	7.11	36.74
+GO:0009628	response to abiotic stimulus	296	0.46	0.35	5.43	6.14
+GO:0016567	protein ubiquitination	285	0.69	0.74	9.00	153.79
+GO:0019221	cytokine-mediated signaling pathway	274	0.60	0.63	7.60	26.50
+GO:0006366	transcription by RNA polymerase II	262	0.60	0.72	8.61	583.88
+GO:0003006	developmental process involved in reproduction	176	0.43	0.34	5.07	14.49
+GO:1903046	meiotic cell cycle process	60	0.49	0.44	6.09	19.36
+GO:0007167	enzyme linked receptor protein signaling pathway	218	0.53	0.59	7.04	26.50
+GO:0048468	cell development	196	0.51	0.45	6.51	28.42
+GO:0051276	chromosome organization	162	0.55	0.52	6.96	18.35
+GO:0051052	regulation of DNA metabolic process	159	0.47	0.56	7.17	70.58
+GO:0043687	post-translational protein modification	156	0.65	0.67	8.51	151.15
+GO:0022411	cellular component disassembly	156	0.54	0.47	6.60	14.95
+GO:0006897	endocytosis	155	0.63	0.61	8.09	26.36
+GO:0045785	positive regulation of cell adhesion	155	0.58	0.54	7.23	21.97
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	121	0.61	0.63	8.36	112.25
+GO:0001505	regulation of neurotransmitter levels	89	0.49	0.44	5.98	8.64
+GO:0001701	in utero embryonic development	72	1.00	0.85	9.63	22.50
+GO:0070125	mitochondrial translational elongation	58	1.00	0.85	9.63	106.95
+GO:0045069	regulation of viral genome replication	48	0.78	0.74	9.09	18.47
+GO:0007219	Notch signaling pathway	38	0.78	0.71	8.87	26.50
+GO:0046718	viral entry into host cell	38	0.77	0.73	8.94	28.37
+GO:0045333	cellular respiration	32	0.68	0.63	8.24	30.86
+GO:0035264	multicellular organism growth	31	1.00	0.70	9.63	22.58
+GO:0006997	nucleus organization	22	0.69	0.59	8.10	18.35
+GO:0045669	positive regulation of osteoblast differentiation	21	0.93	0.79	9.56	169.86
+GO:0051402	neuron apoptotic process	21	0.83	0.70	9.02	23.44
+GO:0006361	transcription initiation from RNA polymerase I promoter	19	1.00	0.90	9.63	477.15
+GO:0006356	regulation of transcription by RNA polymerase I	17	0.75	0.79	9.31	248.57
+GO:0042558	pteridine-containing compound metabolic process	16	0.64	0.57	8.56	81.87
+GO:0001756	somitogenesis	15	1.00	0.79	9.63	43.80
+GO:0001657	ureteric bud development	14	1.00	0.88	9.63	36.92
+GO:1900449	regulation of glutamate receptor signaling pathway	13	0.78	0.71	9.14	41.85
+GO:0060395	SMAD protein signal transduction	12	1.00	0.79	9.63	23.17
+GO:0034243	regulation of transcription elongation from RNA polymerase II promoter	10	0.89	0.88	9.54	502.60
+GO:0070525	tRNA threonylcarbamoyladenosine metabolic process	6	0.79	0.74	9.39	115.08
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	6	1.00	0.79	9.63	22.95
+GO:0090399	replicative senescence	5	1.00	0.75	9.63	26.14
+GO:1905843	regulation of cellular response to gamma radiation	1	0.89	0.74	9.34	24.79

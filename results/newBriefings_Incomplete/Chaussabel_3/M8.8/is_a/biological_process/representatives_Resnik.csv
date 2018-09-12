@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2598	0.09	0.05	0.84	3.37
+GO:0031323	regulation of cellular metabolic process	1238	0.22	0.36	4.01	22.77
+GO:0031323	regulation of cellular metabolic process	1238	0.22	0.36	4.01	22.77
+GO:0080090	regulation of primary metabolic process	1224	0.24	0.37	3.95	10.74
+GO:0048523	negative regulation of cellular process	917	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	915	0.28	0.26	3.74	11.45
+GO:0006810	transport	808	0.28	0.34	3.95	7.46
+GO:0006355	regulation of transcription, DNA-templated	732	0.40	0.60	6.84	245.35
+GO:0006357	regulation of transcription by RNA polymerase II	507	0.44	0.63	7.11	248.57
+GO:0048584	positive regulation of response to stimulus	459	0.35	0.42	4.95	23.46
+GO:0031347	regulation of defense response	158	0.40	0.49	5.73	14.14
+GO:0006351	transcription, DNA-templated	481	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	450	0.43	0.51	5.91	23.17
+GO:0060341	regulation of cellular localization	198	0.40	0.45	5.64	10.45
+GO:0051049	regulation of transport	362	0.31	0.40	4.67	10.45
+GO:0051049	regulation of transport	362	0.31	0.40	4.67	10.45
+GO:0032880	regulation of protein localization	207	0.43	0.47	5.90	10.45
+GO:0031399	regulation of protein modification process	387	0.41	0.56	6.69	72.96
+GO:0010628	positive regulation of gene expression	383	0.47	0.56	6.67	58.80
+GO:0033554	cellular response to stress	356	0.44	0.42	6.05	25.47
+GO:0071478	cellular response to radiation	47	0.67	0.63	8.53	36.92
+GO:0035556	intracellular signal transduction	364	0.51	0.55	6.92	23.17
+GO:0070887	cellular response to chemical stimulus	341	0.40	0.40	5.31	25.21
+GO:0065003	protein-containing complex assembly	330	0.45	0.48	6.06	36.47
+GO:0045595	regulation of cell differentiation	323	0.34	0.42	5.25	23.33
+GO:0009967	positive regulation of signal transduction	319	0.44	0.54	6.71	140.23
+GO:0043065	positive regulation of apoptotic process	154	0.56	0.63	7.81	80.91
+GO:0060548	negative regulation of cell death	214	0.54	0.56	7.27	41.94
+GO:0045893	positive regulation of transcription, DNA-templated	310	0.52	0.67	8.14	1208.12
+GO:0051240	positive regulation of multicellular organismal process	309	0.35	0.42	4.98	23.60
+GO:1902532	negative regulation of intracellular signal transduction	126	0.57	0.64	8.15	189.94
+GO:1902533	positive regulation of intracellular signal transduction	210	0.55	0.63	7.95	189.48
+GO:0042127	regulation of cell proliferation	273	0.45	0.48	6.03	12.04
+GO:0051336	regulation of hydrolase activity	270	0.46	0.48	6.24	9.25
+GO:1903507	negative regulation of nucleic acid-templated transcription	256	0.55	0.67	8.38	898.55
+GO:0051726	regulation of cell cycle	247	0.41	0.45	5.89	12.04
+GO:0046903	secretion	227	0.46	0.48	5.79	10.99
+GO:0070647	protein modification by small protein conjugation or removal	219	0.61	0.66	8.44	151.15
+GO:0022603	regulation of anatomical structure morphogenesis	208	0.36	0.43	5.15	11.29
+GO:0006468	protein phosphorylation	206	0.57	0.64	8.18	177.76
+GO:0042592	homeostatic process	205	0.45	0.42	5.70	8.64
+GO:1903047	mitotic cell cycle process	170	0.50	0.45	5.87	11.32
+GO:0006396	RNA processing	166	0.49	0.60	7.48	115.08
+GO:0080135	regulation of cellular response to stress	153	0.46	0.52	6.64	26.18
+GO:0019221	cytokine-mediated signaling pathway	151	0.60	0.63	7.60	26.50
+GO:0006366	transcription by RNA polymerase II	149	0.60	0.72	8.61	583.88
+GO:0007186	G-protein coupled receptor signaling pathway	134	0.55	0.57	7.20	23.17
+GO:0030155	regulation of cell adhesion	134	0.48	0.44	5.95	7.96
+GO:0006511	ubiquitin-dependent protein catabolic process	131	0.74	0.74	9.19	156.45
+GO:0007017	microtubule-based process	130	0.49	0.37	5.66	7.39
+GO:0007167	enzyme linked receptor protein signaling pathway	129	0.53	0.59	7.04	26.50
+GO:0009725	response to hormone	129	0.53	0.51	7.03	21.86
+GO:0055086	nucleobase-containing small molecule metabolic process	126	0.38	0.48	6.63	107.58
+GO:0061024	membrane organization	106	0.47	0.43	6.06	14.95
+GO:0043687	post-translational protein modification	85	0.65	0.67	8.51	151.15
+GO:0051276	chromosome organization	83	0.55	0.52	6.96	18.35
+GO:0051090	regulation of DNA binding transcription factor activity	79	0.72	0.77	9.22	255.34
+GO:0097190	apoptotic signaling pathway	70	0.70	0.64	8.53	23.17
+GO:0010506	regulation of autophagy	59	0.63	0.64	8.27	43.36
+GO:0030308	negative regulation of cell growth	37	0.69	0.67	8.67	80.89
+GO:0042594	response to starvation	31	0.61	0.59	7.51	20.88
+GO:0071897	DNA biosynthetic process	26	0.71	0.71	9.25	573.30
+GO:0007565	female pregnancy	24	1.00	0.70	9.63	32.81
+GO:0007043	cell-cell junction assembly	21	0.75	0.67	8.82	53.94
+GO:0032507	maintenance of protein location in cell	20	0.68	0.63	8.41	43.86
+GO:0007517	muscle organ development	19	0.78	0.64	8.75	27.68
+GO:0048511	rhythmic process	16	0.62	0.31	5.94	3.37
+GO:0010803	regulation of tumor necrosis factor-mediated signaling pathway	15	0.89	0.80	9.45	58.00
+GO:0048863	stem cell differentiation	11	0.70	0.60	8.24	21.07
+GO:0048675	axon extension	11	0.89	0.74	9.43	51.99
+GO:0007224	smoothened signaling pathway	7	0.78	0.71	8.87	26.50
+GO:0001947	heart looping	7	1.00	0.85	9.63	47.98
+GO:0050872	white fat cell differentiation	6	0.93	0.76	9.47	21.76
+GO:0045348	positive regulation of MHC class II biosynthetic process	4	1.00	0.85	9.63	147.29
+GO:0030225	macrophage differentiation	4	0.93	0.79	9.51	47.07
+GO:0035358	regulation of peroxisome proliferator activated receptor signaling pathway	4	0.89	0.77	9.41	41.85
+GO:0042462	eye photoreceptor cell development	4	0.79	0.72	9.00	34.93
+GO:0090400	stress-induced premature senescence	3	0.93	0.76	9.54	55.83
+GO:0035089	establishment of apical/basal cell polarity	3	0.87	0.72	9.41	35.41
+GO:0075044	autophagy of host cells involved in interaction with symbiont	3	0.93	0.79	9.52	40.52
+GO:0006642	triglyceride mobilization	2	1.00	0.88	9.63	86.98
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64
+GO:2000707	positive regulation of dense core granule biogenesis	1	1.00	0.79	9.63	38.58
+GO:0010650	positive regulation of cell communication by electrical coupling	1	0.93	0.79	9.52	62.55

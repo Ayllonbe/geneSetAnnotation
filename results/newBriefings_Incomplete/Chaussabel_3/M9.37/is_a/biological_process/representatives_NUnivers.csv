@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	538	0.12	0.26	2.47	7.96
+GO:0090304	nucleic acid metabolic process	231	0.35	0.46	5.97	111.15
+GO:0007165	signal transduction	216	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	207	0.40	0.60	6.84	245.35
+GO:0043933	protein-containing complex subunit organization	115	0.43	0.41	5.44	14.95
+GO:0006996	organelle organization	129	0.39	0.39	5.17	14.95
+GO:0044267	cellular protein metabolic process	176	0.34	0.46	5.57	80.87
+GO:0046907	intracellular transport	112	0.46	0.48	6.38	29.65
+GO:0031399	regulation of protein modification process	98	0.41	0.56	6.69	72.96
+GO:0015031	protein transport	92	0.48	0.59	6.99	54.46
+GO:0043065	positive regulation of apoptotic process	35	0.56	0.63	7.81	80.91
+GO:0045087	innate immune response	33	0.68	0.59	8.16	26.47
+GO:0043547	positive regulation of GTPase activity	31	0.93	0.79	9.52	49.34
+GO:0033674	positive regulation of kinase activity	29	0.61	0.70	8.62	265.90
+GO:0002253	activation of immune response	24	0.59	0.62	8.04	87.88
+GO:0006897	endocytosis	23	0.63	0.61	8.09	26.36
+GO:0030336	negative regulation of cell migration	16	0.58	0.64	8.21	158.04
+GO:0051056	regulation of small GTPase mediated signal transduction	15	0.68	0.69	8.65	45.07
+GO:0045732	positive regulation of protein catabolic process	12	0.70	0.70	9.03	231.05
+GO:0048278	vesicle docking	8	0.81	0.70	9.18	21.39
+GO:0050728	negative regulation of inflammatory response	8	0.67	0.69	8.71	126.18
+GO:0030071	regulation of mitotic metaphase/anaphase transition	8	0.76	0.79	9.41	262.33
+GO:0000082	G1/S transition of mitotic cell cycle	7	1.00	0.79	9.63	42.75
+GO:0046330	positive regulation of JNK cascade	6	0.84	0.87	9.57	1762.04
+GO:0030449	regulation of complement activation	4	0.69	0.72	9.30	245.77
+GO:0031145	anaphase-promoting complex-dependent catabolic process	4	1.00	0.92	9.63	350.56
+GO:0034314	Arp2/3 complex-mediated actin nucleation	3	1.00	0.96	9.63	481.97
+GO:0097345	mitochondrial outer membrane permeabilization	3	1.00	0.92	9.63	138.60
+GO:0045739	positive regulation of DNA repair	3	0.77	0.76	9.36	499.62
+GO:0043542	endothelial cell migration	3	0.80	0.75	9.14	24.97
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	1	1.00	0.92	9.63	570.20
+GO:0097498	endothelial tube lumen extension	1	0.93	0.82	9.52	49.90

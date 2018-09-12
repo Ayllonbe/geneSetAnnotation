@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	793	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	722	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	586	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	473	0.57	0.68	8.45	581.39
+GO:0048869	cellular developmental process	419	0.32	0.29	4.16	13.85
+GO:2000026	regulation of multicellular organismal development	347	0.29	0.39	4.73	23.09
+GO:0065003	protein-containing complex assembly	327	0.45	0.48	6.06	36.47
+GO:0006887	exocytosis	179	0.67	0.66	8.38	37.08
+GO:0043312	neutrophil degranulation	110	1.00	0.90	9.63	132.80
+GO:0043547	positive regulation of GTPase activity	93	0.93	0.79	9.52	49.34
+GO:0032989	cellular component morphogenesis	90	0.56	0.48	7.27	42.57
+GO:0098662	inorganic cation transmembrane transport	86	0.58	0.64	7.91	76.35
+GO:0043687	post-translational protein modification	84	0.65	0.67	8.51	151.15
+GO:0010975	regulation of neuron projection development	82	0.57	0.66	8.40	84.29
+GO:0034765	regulation of ion transmembrane transport	75	0.46	0.55	6.68	33.04
+GO:0050900	leukocyte migration	68	0.60	0.59	8.02	26.94
+GO:0120031	plasma membrane bounded cell projection assembly	48	0.69	0.64	8.45	55.86
+GO:0050768	negative regulation of neurogenesis	42	0.58	0.64	8.39	271.38
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	35	0.80	0.80	9.39	355.88
+GO:0051384	response to glucocorticoid	30	0.77	0.73	9.22	62.74
+GO:0006906	vesicle fusion	27	0.68	0.66	8.56	63.10
+GO:0030203	glycosaminoglycan metabolic process	26	0.66	0.62	8.41	52.03
+GO:0007565	female pregnancy	23	1.00	0.70	9.63	32.81
+GO:0048562	embryonic organ morphogenesis	18	0.76	0.63	8.67	29.31
+GO:0001523	retinoid metabolic process	12	0.77	0.76	9.19	47.55
+GO:0005977	glycogen metabolic process	11	0.87	0.78	9.52	182.58
+GO:0043392	negative regulation of DNA binding	11	0.76	0.67	8.87	32.53
+GO:0035115	embryonic forelimb morphogenesis	8	1.00	0.82	9.63	58.81
+GO:0043113	receptor clustering	7	0.77	0.71	8.99	42.89
+GO:0035435	phosphate ion transmembrane transport	7	0.89	0.82	9.49	110.11
+GO:0051491	positive regulation of filopodium assembly	7	1.00	0.90	9.63	200.31
+GO:0002053	positive regulation of mesenchymal cell proliferation	4	0.87	0.76	9.34	64.15
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	4	1.00	0.79	9.63	23.39
+GO:0070294	renal sodium ion absorption	1	0.93	0.86	9.56	61.19
+GO:0048743	positive regulation of skeletal muscle fiber development	1	1.00	0.90	9.63	623.83
+GO:0045887	positive regulation of synaptic growth at neuromuscular junction	1	1.00	0.88	9.63	481.11

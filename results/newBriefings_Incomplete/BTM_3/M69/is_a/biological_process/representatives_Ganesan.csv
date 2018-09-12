@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0071704	organic substance metabolic process	879	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	1592	0.09	0.05	0.84	3.37
+GO:0044238	primary metabolic process	825	0.19	0.22	2.60	6.41
+GO:0009987	cellular process	1592	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	437	0.28	0.26	3.48	4.47
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	12	0.89	0.91	9.59	905.07
+GO:0050789	regulation of biological process	1315	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	690	0.25	0.12	2.65	3.37
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	505	0.38	0.19	3.93	3.37
+GO:0048856	anatomical structure development	206	0.33	0.29	3.70	6.46
+GO:0051260	protein homooligomerization	50	0.89	0.77	9.41	42.03
+GO:0050853	B cell receptor signaling pathway	25	0.93	0.88	9.58	219.43
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0048041	focal adhesion assembly	6	1.00	0.88	9.63	92.53

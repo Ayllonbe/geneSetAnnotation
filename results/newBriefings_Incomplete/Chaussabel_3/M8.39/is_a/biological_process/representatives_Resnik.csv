@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	3095	0.09	0.05	0.84	3.37
+GO:0009987	cellular process	3095	0.09	0.05	0.84	3.37
+GO:1901564	organonitrogen compound metabolic process	1243	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	1190	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	1077	0.28	0.26	3.74	11.45
+GO:0016043	cellular component organization	1077	0.28	0.26	3.74	11.45
+GO:0044267	cellular protein metabolic process	829	0.34	0.46	5.57	80.87
+GO:0009893	positive regulation of metabolic process	797	0.32	0.41	4.71	22.55
+GO:0080134	regulation of response to stress	355	0.35	0.42	5.03	11.65
+GO:0009966	regulation of signal transduction	700	0.33	0.45	5.35	37.59
+GO:0032101	regulation of response to external stimulus	191	0.40	0.45	5.60	11.65
+GO:0009966	regulation of signal transduction	700	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	704	0.33	0.29	4.10	4.47
+GO:0009605	response to external stimulus	319	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	550	0.32	0.29	4.12	6.14
+GO:0051128	regulation of cellular component organization	629	0.30	0.40	4.57	12.04
+GO:0065008	regulation of biological quality	617	0.28	0.26	3.48	4.47
+GO:0032879	regulation of localization	600	0.27	0.33	4.05	7.96
+GO:0022607	cellular component assembly	576	0.39	0.39	5.06	14.95
+GO:0006351	transcription, DNA-templated	572	0.57	0.68	8.45	581.39
+GO:0051641	cellular localization	566	0.37	0.31	4.44	5.67
+GO:0007166	cell surface receptor signaling pathway	528	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	510	0.32	0.29	4.16	13.85
+GO:0045595	regulation of cell differentiation	383	0.34	0.42	5.25	23.33
+GO:0042127	regulation of cell proliferation	329	0.45	0.48	6.03	12.04
+GO:0051253	negative regulation of RNA metabolic process	320	0.52	0.61	7.81	302.25
+GO:0032435	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	6	0.84	0.85	9.52	3784.46
+GO:0051726	regulation of cell cycle	286	0.41	0.45	5.89	12.04
+GO:0032501	multicellular organismal process	271	0.33	0.16	3.12	3.37
+GO:0051704	multi-organism process	247	0.29	0.15	3.12	3.37
+GO:0045055	regulated exocytosis	203	0.69	0.69	8.57	38.47
+GO:0007186	G-protein coupled receptor signaling pathway	163	0.55	0.57	7.20	23.17
+GO:0017144	drug metabolic process	135	0.37	0.38	5.07	17.52
+GO:0001819	positive regulation of cytokine production	116	0.51	0.54	6.97	44.26
+GO:0022900	electron transport chain	45	0.71	0.61	8.48	29.76
+GO:0072376	protein activation cascade	24	0.75	0.67	8.88	54.00
+GO:0048675	axon extension	12	0.89	0.74	9.43	51.99

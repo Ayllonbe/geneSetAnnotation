@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0045597	positive regulation of cell differentiation	16	0.45	0.51	6.57	82.53
+GO:0048519	negative regulation of biological process	78	0.21	0.30	3.07	7.96
+GO:0045597	positive regulation of cell differentiation	16	0.45	0.51	6.57	82.53
+GO:0048519	negative regulation of biological process	78	0.21	0.30	3.07	7.96
+GO:0009893	positive regulation of metabolic process	63	0.32	0.41	4.71	22.55
+GO:0031324	negative regulation of cellular metabolic process	41	0.34	0.46	5.46	80.35
+GO:0050896	response to stimulus	78	0.25	0.12	2.65	3.37
+GO:0080135	regulation of cellular response to stress	10	0.46	0.52	6.64	26.18
+GO:0009966	regulation of signal transduction	62	0.33	0.45	5.35	37.59
+GO:0006355	regulation of transcription, DNA-templated	63	0.40	0.60	6.84	245.35
+GO:0051179	localization	62	0.26	0.13	2.57	3.37
+GO:0032502	developmental process	62	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	54	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	54	0.43	0.51	5.91	23.17
+GO:0009059	macromolecule biosynthetic process	46	0.43	0.46	5.85	36.03
+GO:0022607	cellular component assembly	45	0.39	0.39	5.06	14.95
+GO:0051128	regulation of cellular component organization	42	0.30	0.40	4.57	12.04
+GO:0065008	regulation of biological quality	39	0.28	0.26	3.48	4.47
+GO:0002682	regulation of immune system process	39	0.32	0.36	4.60	7.96
+GO:0006464	cellular protein modification process	35	0.34	0.49	5.84	147.03
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0006464	cellular protein modification process	35	0.34	0.49	5.84	147.03
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0006464	cellular protein modification process	35	0.34	0.49	5.84	147.03
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0006464	cellular protein modification process	35	0.34	0.49	5.84	147.03
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0042127	regulation of cell proliferation	34	0.45	0.48	6.03	12.04
+GO:0097190	apoptotic signaling pathway	6	0.70	0.64	8.53	23.17
+GO:0035556	intracellular signal transduction	33	0.51	0.55	6.92	23.17
+GO:0051704	multi-organism process	30	0.29	0.15	3.12	3.37
+GO:0051726	regulation of cell cycle	30	0.41	0.45	5.89	12.04
+GO:0010941	regulation of cell death	24	0.43	0.47	6.10	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	11	0.55	0.57	7.20	23.17
+GO:0000086	G2/M transition of mitotic cell cycle	8	1.00	0.79	9.63	43.45
+GO:0007268	chemical synaptic transmission	1	0.74	0.72	8.66	23.17

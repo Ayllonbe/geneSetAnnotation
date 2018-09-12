@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	901	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	678	0.12	0.26	2.47	7.96
+GO:0008104	protein localization	148	0.40	0.40	5.07	7.46
+GO:0006810	transport	297	0.28	0.34	3.95	7.46
+GO:0044267	cellular protein metabolic process	244	0.34	0.46	5.57	80.87
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	19	1.00	0.79	9.63	42.20
+GO:0000082	G1/S transition of mitotic cell cycle	13	1.00	0.79	9.63	42.75
+GO:0032482	Rab protein signal transduction	10	1.00	0.88	9.63	29.61
+GO:0048013	ephrin receptor signaling pathway	6	1.00	0.88	9.63	31.00
+GO:0032869	cellular response to insulin stimulus	5	1.00	0.88	9.63	462.70
+GO:0048709	oligodendrocyte differentiation	4	0.89	0.74	9.34	23.15
+GO:0070830	bicellular tight junction assembly	3	1.00	0.82	9.63	56.14
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway	3	0.74	0.77	9.09	99.04
+GO:0048268	clathrin coat assembly	2	0.84	0.74	9.31	44.52
+GO:0097368	establishment of Sertoli cell barrier	2	1.00	0.82	9.63	53.97
+GO:0016191	synaptic vesicle uncoating	2	1.00	0.90	9.63	42.88
+GO:0035767	endothelial cell chemotaxis	1	0.93	0.84	9.55	59.00

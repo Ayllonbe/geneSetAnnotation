@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1067	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	965	0.24	0.37	3.90	23.93
+GO:0001558	regulation of cell growth	85	0.58	0.58	7.66	26.25
+GO:0007165	signal transduction	837	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	778	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	725	0.39	0.52	6.45	112.25
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0010033	response to organic substance	418	0.35	0.37	4.75	9.28
+GO:0009967	positive regulation of signal transduction	331	0.44	0.54	6.71	140.23
+GO:0000209	protein polyubiquitination	66	0.77	0.80	9.22	155.40
+GO:0006468	protein phosphorylation	220	0.57	0.64	8.18	177.76
+GO:0097202	activation of cysteine-type endopeptidase activity	5	1.00	0.95	9.63	669.11
+GO:0031401	positive regulation of protein modification process	263	0.51	0.63	7.86	366.05
+GO:0045944	positive regulation of transcription by RNA polymerase II	248	0.55	0.71	8.36	1463.86
+GO:0044265	cellular macromolecule catabolic process	209	0.55	0.56	7.70	100.33
+GO:0000122	negative regulation of transcription by RNA polymerase II	196	0.61	0.74	8.79	1836.95
+GO:0050778	positive regulation of immune response	169	0.46	0.52	6.76	78.39
+GO:0043312	neutrophil degranulation	116	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	109	0.68	0.59	8.16	26.47
+GO:0034105	positive regulation of tissue remodeling	10	0.78	0.68	9.09	42.29
+GO:0001819	positive regulation of cytokine production	102	0.51	0.54	6.97	44.26
+GO:0071417	cellular response to organonitrogen compound	87	0.53	0.56	7.37	128.53
+GO:0046649	lymphocyte activation	80	0.55	0.52	7.16	18.06
+GO:0051260	protein homooligomerization	65	0.89	0.77	9.41	42.03
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	44	1.00	0.79	9.63	42.20
+GO:0045580	regulation of T cell differentiation	42	0.60	0.67	8.66	131.17
+GO:0050671	positive regulation of lymphocyte proliferation	41	0.74	0.75	9.27	262.65
+GO:0045621	positive regulation of lymphocyte differentiation	32	0.67	0.71	9.10	508.22
+GO:0050729	positive regulation of inflammatory response	31	0.66	0.68	8.59	125.85
+GO:0030203	glycosaminoglycan metabolic process	29	0.66	0.62	8.41	52.03
+GO:0032092	positive regulation of protein binding	26	0.71	0.64	8.53	32.71
+GO:0048469	cell maturation	25	0.70	0.55	8.24	25.22
+GO:0006865	amino acid transport	18	0.52	0.64	7.71	64.92
+GO:0035725	sodium ion transmembrane transport	15	0.89	0.82	9.49	113.92
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0050830	defense response to Gram-positive bacterium	13	1.00	0.85	9.63	71.44
+GO:0043029	T cell homeostasis	12	1.00	0.85	9.63	22.00
+GO:0050691	regulation of defense response to virus by host	12	0.89	0.80	9.47	72.39
+GO:0006695	cholesterol biosynthetic process	12	0.87	0.78	9.51	430.36
+GO:0032515	negative regulation of phosphoprotein phosphatase activity	11	0.87	0.85	9.55	1090.45
+GO:0007257	activation of JUN kinase activity	11	1.00	0.98	9.63	8640.55
+GO:0050718	positive regulation of interleukin-1 beta secretion	11	1.00	0.93	9.63	998.82
+GO:0043001	Golgi to plasma membrane protein transport	9	0.93	0.84	9.59	211.18
+GO:0006004	fucose metabolic process	4	0.81	0.73	9.31	34.68
+GO:0019377	glycolipid catabolic process	3	0.80	0.75	9.44	279.07
+GO:0071223	cellular response to lipoteichoic acid	3	1.00	0.82	9.63	155.88
+GO:0016139	glycoside catabolic process	3	0.71	0.68	8.71	75.13
+GO:0071305	cellular response to vitamin D	3	1.00	0.88	9.63	396.20
+GO:1904417	positive regulation of xenophagy	1	1.00	0.90	9.63	536.76
+GO:0014732	skeletal muscle atrophy	1	1.00	0.85	9.63	61.04

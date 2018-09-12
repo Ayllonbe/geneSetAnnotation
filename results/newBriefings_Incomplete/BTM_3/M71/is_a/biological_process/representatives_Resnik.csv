@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1298	0.08	0.04	0.98	3.37
+GO:0048522	positive regulation of cellular process	735	0.24	0.37	3.90	23.85
+GO:0051239	regulation of multicellular organismal process	462	0.23	0.32	3.68	7.96
+GO:0050896	response to stimulus	655	0.25	0.12	2.65	3.37
+GO:0043065	positive regulation of apoptotic process	119	0.56	0.63	7.81	80.91
+GO:0048523	negative regulation of cellular process	579	0.24	0.37	3.90	23.93
+GO:0006810	transport	549	0.28	0.34	3.95	7.46
+GO:1901564	organonitrogen compound metabolic process	514	0.23	0.31	3.63	19.40
+GO:0002376	immune system process	485	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	470	0.43	0.51	5.91	23.17
+GO:0002682	regulation of immune system process	376	0.32	0.36	4.60	7.96
+GO:0030334	regulation of cell migration	184	0.48	0.56	7.11	36.74
+GO:0031325	positive regulation of cellular metabolic process	441	0.33	0.46	5.39	79.98
+GO:0044093	positive regulation of molecular function	309	0.43	0.41	5.23	6.77
+GO:0044092	negative regulation of molecular function	162	0.43	0.41	5.21	6.77
+GO:0042127	regulation of cell proliferation	307	0.45	0.48	6.03	12.04
+GO:0050804	modulation of chemical synaptic transmission	41	0.52	0.58	7.24	27.32
+GO:0009967	positive regulation of signal transduction	282	0.44	0.54	6.71	140.23
+GO:0051049	regulation of transport	278	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	257	0.51	0.55	6.92	23.17
+GO:0065003	protein-containing complex assembly	197	0.45	0.48	6.06	36.47
+GO:0030199	collagen fibril organization	14	1.00	0.79	9.63	53.96
+GO:0048856	anatomical structure development	194	0.33	0.29	3.70	6.46
+GO:0016477	cell migration	185	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	175	0.55	0.57	7.20	23.17
+GO:0006629	lipid metabolic process	128	0.37	0.38	5.19	18.42
+GO:1901568	fatty acid derivative metabolic process	28	0.57	0.49	7.01	10.22
+GO:0006875	cellular metal ion homeostasis	112	0.59	0.67	8.36	105.84
+GO:0045786	negative regulation of cell cycle	91	0.51	0.54	7.10	42.35
+GO:0003008	system process	73	0.44	0.35	5.06	7.59
+GO:0022900	electron transport chain	43	0.71	0.61	8.48	29.76
+GO:0016241	regulation of macroautophagy	8	0.67	0.69	8.61	45.30
+GO:0050873	brown fat cell differentiation	7	1.00	0.79	9.63	21.76
+GO:0033629	negative regulation of cell adhesion mediated by integrin	3	0.93	0.79	9.52	51.32
+GO:0046598	positive regulation of viral entry into host cell	3	0.93	0.84	9.55	85.02
+GO:0061304	retinal blood vessel morphogenesis	2	1.00	0.79	9.63	25.97
+GO:0051085	chaperone cofactor-dependent protein refolding	2	1.00	0.79	9.63	21.14
+GO:0034395	regulation of transcription from RNA polymerase II promoter in response to iron	2	0.89	0.88	9.53	252.65
+GO:0009404	toxin metabolic process	1	0.57	0.48	7.29	27.62
+GO:0042264	peptidyl-aspartic acid hydroxylation	1	0.93	0.86	9.57	309.91

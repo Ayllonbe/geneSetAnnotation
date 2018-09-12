@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0061684	chaperone-mediated autophagy	1	1.00	0.82	9.63	237.71
+GO:0030593	neutrophil chemotaxis	4	1.00	0.90	9.63	130.30
+GO:0032502	developmental process	136	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	694	0.09	0.05	0.84	3.37
+GO:0061684	chaperone-mediated autophagy	1	1.00	0.82	9.63	237.71
+GO:0030593	neutrophil chemotaxis	4	1.00	0.90	9.63	130.30
+GO:0032502	developmental process	136	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	694	0.09	0.05	0.84	3.37
+GO:0098712	L-glutamate import across plasma membrane	1	0.93	0.91	9.60	1074.09
+GO:0045741	positive regulation of epidermal growth factor-activated receptor activity	1	0.93	0.91	9.61	2972.11
+GO:0050789	regulation of biological process	549	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	141	0.33	0.29	4.10	4.47
+GO:0045624	positive regulation of T-helper cell differentiation	3	0.84	0.87	9.57	2153.61
+GO:0098712	L-glutamate import across plasma membrane	1	0.93	0.91	9.60	1074.09
+GO:0045741	positive regulation of epidermal growth factor-activated receptor activity	1	0.93	0.91	9.61	2972.11
+GO:0050789	regulation of biological process	549	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	141	0.33	0.29	4.10	4.47
+GO:0045624	positive regulation of T-helper cell differentiation	3	0.84	0.87	9.57	2153.61
+GO:0051641	cellular localization	137	0.37	0.31	4.44	5.67
+GO:0006810	transport	227	0.28	0.34	3.95	7.46
+GO:0006955	immune response	35	0.54	0.40	6.57	12.45
+GO:0009605	response to external stimulus	69	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	110	0.32	0.29	4.12	6.14
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	10	0.80	0.65	8.94	20.20
+GO:0008344	adult locomotory behavior	4	0.84	0.62	9.16	24.58

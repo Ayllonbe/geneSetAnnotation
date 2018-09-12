@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2117	0.00	0.00	0.00	0.00
+GO:0008150	biological_process	2117	0.00	0.00	0.00	0.00
+GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
+GO:1905775	negative regulation of DNA helicase activity	1	0.93	0.86	9.59	205.11
+GO:0050789	regulation of biological process	1575	0.09	0.17	1.80	4.47
+GO:0051641	cellular localization	243	0.37	0.31	4.44	5.67
+GO:0006810	transport	669	0.28	0.34	3.95	7.46
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	30	1.00	0.79	9.63	42.20

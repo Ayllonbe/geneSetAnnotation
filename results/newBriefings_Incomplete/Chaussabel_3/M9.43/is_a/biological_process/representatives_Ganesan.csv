@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	322	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	322	0.12	0.26	2.47	7.96
+GO:0090304	nucleic acid metabolic process	153	0.35	0.46	5.97	111.15
+GO:0019538	protein metabolic process	131	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	126	0.40	0.60	6.84	245.35
+GO:0006996	organelle organization	90	0.39	0.39	5.17	14.95
+GO:0035556	intracellular signal transduction	65	0.51	0.55	6.92	23.17
+GO:0007166	cell surface receptor signaling pathway	63	0.43	0.51	5.91	23.17
+GO:0042981	regulation of apoptotic process	44	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	35	0.50	0.62	7.64	109.03
+GO:0045861	negative regulation of proteolysis	7	0.61	0.68	8.71	337.18
+GO:0030154	cell differentiation	36	0.39	0.39	5.18	16.68
+GO:0006366	transcription by RNA polymerase II	33	0.60	0.72	8.61	583.88
+GO:0071310	cellular response to organic substance	31	0.44	0.47	5.95	41.66
+GO:0051223	regulation of protein transport	24	0.49	0.57	7.04	29.14
+GO:0007186	G-protein coupled receptor signaling pathway	23	0.55	0.57	7.20	23.17
+GO:0043547	positive regulation of GTPase activity	14	0.93	0.79	9.52	49.34
+GO:0007265	Ras protein signal transduction	9	0.76	0.73	8.94	27.53
+GO:0030182	neuron differentiation	9	0.58	0.54	7.21	21.07
+GO:0048812	neuron projection morphogenesis	7	0.65	0.68	8.50	63.00
+GO:0019933	cAMP-mediated signaling	6	0.77	0.76	9.12	28.51
+GO:0030217	T cell differentiation	5	0.66	0.65	8.68	65.05
+GO:0001649	osteoblast differentiation	4	1.00	0.75	9.63	21.07
+GO:1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	4	0.71	0.81	9.26	1467.90
+GO:0051053	negative regulation of DNA metabolic process	4	0.57	0.64	8.26	302.32
+GO:0035115	embryonic forelimb morphogenesis	3	1.00	0.82	9.63	58.81
+GO:0006829	zinc ion transport	2	0.81	0.78	9.22	55.44
+GO:0048701	embryonic cranial skeleton morphogenesis	2	1.00	0.82	9.63	46.18
+GO:0090026	positive regulation of monocyte chemotaxis	2	1.00	0.92	9.63	859.36
+GO:0051402	neuron apoptotic process	2	0.83	0.70	9.02	23.44
+GO:0007173	epidermal growth factor receptor signaling pathway	2	0.78	0.78	9.04	32.39
+GO:0035562	negative regulation of chromatin binding	2	0.93	0.76	9.49	31.33
+GO:0030913	paranodal junction assembly	1	1.00	0.82	9.63	88.99
+GO:0042487	regulation of odontogenesis of dentin-containing tooth	1	0.81	0.76	9.34	47.78
+GO:0002076	osteoblast development	1	1.00	0.75	9.63	32.15
+GO:0048469	cell maturation	1	0.70	0.55	8.24	25.22
+GO:0002063	chondrocyte development	1	0.89	0.70	9.47	32.15
+GO:0002062	chondrocyte differentiation	1	0.89	0.70	9.45	21.07
+GO:0002408	myeloid dendritic cell chemotaxis	1	0.93	0.84	9.56	125.06
+GO:0051496	positive regulation of stress fiber assembly	1	1.00	0.93	9.63	365.07
+GO:0002175	protein localization to paranode region of axon	1	1.00	0.79	9.63	40.93
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	1	0.87	0.78	9.52	52.93
+GO:0072429	response to intra-S DNA damage checkpoint signaling	1	1.00	0.85	9.63	40.46
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	1	0.93	0.82	9.52	52.45
+GO:1900016	negative regulation of cytokine production involved in inflammatory response	1	1.00	0.88	9.63	227.00
+GO:0006682	galactosylceramide biosynthetic process	1	1.00	0.92	9.63	1990.90
+GO:0045762	positive regulation of adenylate cyclase activity	1	0.89	0.89	9.59	6276.06

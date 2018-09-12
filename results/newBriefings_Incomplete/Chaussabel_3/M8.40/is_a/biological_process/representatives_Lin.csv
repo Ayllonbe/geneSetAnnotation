@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	927	0.31	0.41	4.91	44.77
+GO:0045948	positive regulation of translational initiation	9	0.76	0.78	9.39	1253.37
+GO:0051252	regulation of RNA metabolic process	891	0.37	0.51	6.06	70.58
+GO:0045948	positive regulation of translational initiation	9	0.76	0.78	9.39	1253.37
+GO:0051252	regulation of RNA metabolic process	891	0.37	0.51	6.06	70.58
+GO:0016070	RNA metabolic process	768	0.39	0.52	6.45	112.25
+GO:0006950	response to stress	591	0.39	0.32	4.70	6.14
+GO:0008104	protein localization	456	0.40	0.40	5.07	7.46
+GO:0009628	response to abiotic stimulus	196	0.46	0.35	5.43	6.14
+GO:0009605	response to external stimulus	300	0.37	0.31	4.62	6.14
+GO:0044092	negative regulation of molecular function	269	0.43	0.41	5.21	6.77
+GO:0051186	cofactor metabolic process	128	0.41	0.40	5.49	17.52
+GO:0098662	inorganic cation transmembrane transport	98	0.58	0.64	7.91	76.35
+GO:0016311	dephosphorylation	72	0.68	0.63	8.33	24.41
+GO:0030522	intracellular receptor signaling pathway	49	0.65	0.62	7.99	23.17
+GO:0002576	platelet degranulation	45	1.00	0.88	9.63	39.86
+GO:0043401	steroid hormone mediated signaling pathway	37	0.75	0.70	8.80	25.74
+GO:0048666	neuron development	25	0.67	0.58	8.09	32.15
+GO:0009749	response to glucose	24	0.89	0.80	9.41	32.96
+GO:0032482	Rab protein signal transduction	23	1.00	0.88	9.63	29.61
+GO:0048814	regulation of dendrite morphogenesis	19	0.83	0.83	9.53	153.51
+GO:0010961	cellular magnesium ion homeostasis	2	1.00	0.90	9.63	287.08
+GO:0071286	cellular response to magnesium ion	2	1.00	0.82	9.63	77.81
+GO:0034128	negative regulation of MyD88-independent toll-like receptor signaling pathway	1	1.00	0.90	9.63	354.71
+GO:1990967	multi-organism toxin transport	1	1.00	0.79	9.63	37.18

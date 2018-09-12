@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	852	0.09	0.17	1.80	4.47
+GO:0048522	positive regulation of cellular process	484	0.24	0.37	3.90	23.85
+GO:0048522	positive regulation of cellular process	484	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	366	0.28	0.26	3.74	11.45
+GO:0048523	negative regulation of cellular process	363	0.24	0.37	3.90	23.93
+GO:0007166	cell surface receptor signaling pathway	320	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	304	0.33	0.45	5.35	37.59
+GO:0006355	regulation of transcription, DNA-templated	221	0.40	0.60	6.84	245.35
+GO:0051240	positive regulation of multicellular organismal process	185	0.35	0.42	4.98	23.60
+GO:0030154	cell differentiation	161	0.39	0.39	5.18	16.68
+GO:0006351	transcription, DNA-templated	100	0.57	0.68	8.45	581.39
+GO:0043065	positive regulation of apoptotic process	65	0.56	0.63	7.81	80.91
+GO:0006508	proteolysis	62	0.55	0.57	7.34	47.86
+GO:0050870	positive regulation of T cell activation	53	0.63	0.69	8.78	216.07
+GO:0050708	regulation of protein secretion	51	0.54	0.62	7.86	96.15
+GO:0042113	B cell activation	32	0.68	0.63	8.28	19.85
+GO:0001666	response to hypoxia	28	0.81	0.70	9.12	21.16
+GO:0006814	sodium ion transport	25	0.81	0.76	9.31	34.17
+GO:0006865	amino acid transport	17	0.52	0.64	7.71	64.92
+GO:0046718	viral entry into host cell	14	0.77	0.73	8.94	28.37
+GO:0009267	cellular response to starvation	12	0.64	0.64	8.46	112.77
+GO:0072659	protein localization to plasma membrane	11	0.79	0.72	9.26	65.43
+GO:0043542	endothelial cell migration	9	0.80	0.75	9.14	24.97
+GO:0045190	isotype switching	7	0.83	0.86	9.52	267.40
+GO:0010508	positive regulation of autophagy	7	0.72	0.71	9.04	216.89
+GO:0007257	activation of JUN kinase activity	5	1.00	0.98	9.63	8640.55
+GO:0010923	negative regulation of phosphatase activity	4	0.79	0.79	9.36	265.75
+GO:0001662	behavioral fear response	3	1.00	0.79	9.63	37.89
+GO:0001504	neurotransmitter uptake	3	0.76	0.67	9.05	37.60
+GO:0048305	immunoglobulin secretion	2	0.93	0.86	9.57	133.33
+GO:0016236	macroautophagy	2	0.77	0.67	8.94	39.83

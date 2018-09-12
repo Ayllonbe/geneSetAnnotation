@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	678	0.26	0.38	4.09	10.74
+GO:0051171	regulation of nitrogen compound metabolic process	670	0.25	0.38	4.03	10.74
+GO:0080090	regulation of primary metabolic process	677	0.24	0.37	3.95	10.74
+GO:0016043	cellular component organization	577	0.28	0.26	3.74	11.45
+GO:1903506	regulation of nucleic acid-templated transcription	370	0.40	0.58	6.66	149.90
+GO:1901700	response to oxygen-containing compound	287	0.39	0.39	5.14	9.28
+GO:0030154	cell differentiation	262	0.39	0.39	5.18	16.68
+GO:0016070	RNA metabolic process	228	0.39	0.52	6.45	112.25
+GO:1903047	mitotic cell cycle process	112	0.50	0.45	5.87	11.32
+GO:0006259	DNA metabolic process	102	0.45	0.55	7.12	145.26
+GO:0051052	regulation of DNA metabolic process	69	0.47	0.56	7.17	70.58
+GO:0070647	protein modification by small protein conjugation or removal	60	0.61	0.66	8.44	151.15
+GO:0071214	cellular response to abiotic stimulus	50	0.59	0.54	7.66	24.78
+GO:0019722	calcium-mediated signaling	40	0.72	0.71	8.71	27.81
+GO:0050658	RNA transport	25	0.64	0.67	8.39	40.09
+GO:0070507	regulation of microtubule cytoskeleton organization	25	0.61	0.65	8.24	33.71
+GO:0034504	protein localization to nucleus	21	0.72	0.68	8.76	32.77
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	20	0.93	0.93	9.60	734.49
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0016573	histone acetylation	8	0.69	0.78	9.12	658.07
+GO:0046825	regulation of protein export from nucleus	6	0.71	0.73	9.09	125.87
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	6	0.93	0.82	9.52	52.45
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0036337	Fas signaling pathway	1	1.00	0.82	9.63	26.50
+GO:0072423	response to DNA damage checkpoint signaling	1	0.84	0.74	9.37	39.36

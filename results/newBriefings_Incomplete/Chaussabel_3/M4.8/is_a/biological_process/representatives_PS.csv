@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	2351	0.28	0.39	4.44	30.44
+GO:0048522	positive regulation of cellular process	1807	0.24	0.37	3.90	23.85
+GO:0006355	regulation of transcription, DNA-templated	1355	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	1272	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	1170	0.34	0.49	5.84	147.03
+GO:2000026	regulation of multicellular organismal development	634	0.29	0.39	4.73	23.09
+GO:0009968	negative regulation of signal transduction	418	0.44	0.54	6.68	140.65
+GO:0043066	negative regulation of apoptotic process	337	0.56	0.63	7.79	81.07
+GO:0006974	cellular response to DNA damage stimulus	309	0.57	0.53	7.47	29.00
+GO:0031347	regulation of defense response	271	0.40	0.49	5.73	14.14
+GO:0007346	regulation of mitotic cell cycle	263	0.49	0.53	6.68	14.24
+GO:0007186	G-protein coupled receptor signaling pathway	230	0.55	0.57	7.20	23.17
+GO:0016569	covalent chromatin modification	143	0.54	0.56	7.38	32.64
+GO:0032496	response to lipopolysaccharide	124	0.89	0.74	9.45	64.41
+GO:0016055	Wnt signaling pathway	113	0.59	0.65	7.65	28.58
+GO:0045732	positive regulation of protein catabolic process	83	0.70	0.70	9.03	231.05
+GO:0060271	cilium assembly	75	0.87	0.76	9.41	137.68
+GO:0050707	regulation of cytokine secretion	70	0.59	0.67	8.36	114.42
+GO:0031056	regulation of histone modification	62	0.56	0.65	8.38	99.90
+GO:0006406	mRNA export from nucleus	49	0.89	0.84	9.52	121.36
+GO:0010595	positive regulation of endothelial cell migration	41	0.83	0.81	9.49	298.63
+GO:0048524	positive regulation of viral process	41	0.71	0.68	8.71	43.24
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	21	1.00	0.88	9.63	115.14
+GO:0006294	nucleotide-excision repair, preincision complex assembly	18	1.00	0.85	9.63	65.90
+GO:0006378	mRNA polyadenylation	17	0.93	0.88	9.58	472.44
+GO:0000715	nucleotide-excision repair, DNA damage recognition	16	0.93	0.76	9.47	21.24
+GO:1901661	quinone metabolic process	16	0.62	0.56	8.04	61.62
+GO:0045655	regulation of monocyte differentiation	11	0.89	0.82	9.49	139.68
+GO:0030316	osteoclast differentiation	9	0.93	0.79	9.51	47.07
+GO:0051382	kinetochore assembly	8	1.00	0.82	9.63	123.98
+GO:0006198	cAMP catabolic process	5	1.00	0.93	9.63	5918.16
+GO:0036035	osteoclast development	5	1.00	0.79	9.63	66.39
+GO:0051256	mitotic spindle midzone assembly	5	1.00	0.79	9.63	55.95
+GO:0007064	mitotic sister chromatid cohesion	5	0.87	0.76	9.34	49.16
+GO:0035926	chemokine (C-C motif) ligand 2 secretion	3	1.00	0.93	9.63	137.76
+GO:0061470	T follicular helper cell differentiation	3	1.00	0.93	9.63	473.70
+GO:0072619	interleukin-21 secretion	1	1.00	0.92	9.63	137.07

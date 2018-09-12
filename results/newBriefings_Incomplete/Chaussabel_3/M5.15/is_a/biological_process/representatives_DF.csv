@@ -1,0 +1,56 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1186	0.24	0.37	3.90	23.85
+GO:0019538	protein metabolic process	971	0.31	0.41	4.91	44.77
+GO:0007165	signal transduction	946	0.36	0.43	5.06	19.43
+GO:0010646	regulation of cell communication	759	0.30	0.40	4.51	12.04
+GO:0010604	positive regulation of macromolecule metabolic process	742	0.37	0.48	5.51	38.99
+GO:0022607	cellular component assembly	575	0.39	0.39	5.06	14.95
+GO:0006351	transcription, DNA-templated	571	0.57	0.68	8.45	581.39
+GO:0071310	cellular response to organic substance	321	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	314	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	279	0.44	0.54	6.68	140.65
+GO:0050776	regulation of immune response	268	0.38	0.44	5.64	22.45
+GO:0001934	positive regulation of protein phosphorylation	231	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	229	0.56	0.63	7.79	81.07
+GO:0043086	negative regulation of catalytic activity	201	0.49	0.49	6.28	18.42
+GO:0010243	response to organonitrogen compound	195	0.45	0.48	6.23	25.43
+GO:0051707	response to other organism	146	0.42	0.46	6.41	24.63
+GO:0043312	neutrophil degranulation	142	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	131	0.68	0.59	8.16	26.47
+GO:0045785	positive regulation of cell adhesion	110	0.58	0.54	7.23	21.97
+GO:0032496	response to lipopolysaccharide	87	0.89	0.74	9.45	64.41
+GO:0050900	leukocyte migration	85	0.60	0.59	8.02	26.94
+GO:0009636	response to toxic substance	84	0.58	0.49	6.94	9.28
+GO:0001818	negative regulation of cytokine production	68	0.51	0.55	7.03	44.36
+GO:0043901	negative regulation of multi-organism process	54	0.52	0.51	6.65	23.38
+GO:0002695	negative regulation of leukocyte activation	52	0.58	0.61	8.02	96.77
+GO:0006898	receptor-mediated endocytosis	51	0.68	0.66	8.48	28.44
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	46	1.00	0.79	9.63	42.20
+GO:0050852	T cell receptor signaling pathway	39	1.00	0.92	9.63	219.43
+GO:2000117	negative regulation of cysteine-type endopeptidase activity	38	0.83	0.85	9.54	565.44
+GO:0043062	extracellular structure organization	35	0.61	0.51	7.46	14.95
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0033273	response to vitamin	27	0.67	0.66	8.44	22.82
+GO:0042108	positive regulation of cytokine biosynthetic process	21	0.63	0.67	8.76	609.34
+GO:0045778	positive regulation of ossification	18	0.84	0.71	9.38	41.73
+GO:0071549	cellular response to dexamethasone stimulus	13	1.00	0.90	9.63	704.27
+GO:0042744	hydrogen peroxide catabolic process	8	0.93	0.79	9.56	235.80
+GO:0019430	removal of superoxide radicals	7	1.00	0.79	9.63	35.17
+GO:0043114	regulation of vascular permeability	7	0.84	0.71	9.18	21.20
+GO:0051873	killing by host of symbiont cells	5	0.81	0.76	9.45	141.48
+GO:0001774	microglial cell activation	5	0.93	0.79	9.51	31.20
+GO:0009235	cobalamin metabolic process	4	0.84	0.71	9.46	140.17
+GO:0000050	urea cycle	3	1.00	0.82	9.63	229.46
+GO:0050930	induction of positive chemotaxis	2	1.00	0.88	9.63	129.40
+GO:0015889	cobalamin transport	2	1.00	0.79	9.63	71.58
+GO:2001205	negative regulation of osteoclast development	2	1.00	0.92	9.63	1250.36
+GO:0010963	regulation of L-arginine import	1	0.87	0.81	9.47	68.26
+GO:0002149	hypochlorous acid biosynthetic process	1	1.00	0.82	9.63	112.92
+GO:0019547	arginine catabolic process to ornithine	1	1.00	0.93	9.63	647.31
+GO:2000296	negative regulation of hydrogen peroxide catabolic process	1	1.00	0.88	9.63	566.62
+GO:2000552	negative regulation of T-helper 2 cell cytokine production	1	1.00	0.92	9.63	875.75
+GO:0033214	iron assimilation by chelation and transport	1	1.00	0.95	9.63	187.84
+GO:0006824	cobalt ion transport	1	1.00	0.88	9.63	36.28
+GO:2000252	negative regulation of feeding behavior	1	0.89	0.74	9.49	36.88
+GO:2000872	positive regulation of progesterone secretion	1	1.00	0.92	9.63	875.62
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	1	1.00	0.92	9.63	643.34

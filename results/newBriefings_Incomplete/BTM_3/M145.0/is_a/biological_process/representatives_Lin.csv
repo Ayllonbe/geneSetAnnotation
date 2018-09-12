@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	745	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	711	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	665	0.12	0.26	2.47	7.96
+GO:0007165	signal transduction	427	0.36	0.43	5.06	19.43
+GO:0050896	response to stimulus	385	0.25	0.12	2.65	3.37
+GO:0051179	localization	358	0.26	0.13	2.57	3.37
+GO:0007166	cell surface receptor signaling pathway	291	0.43	0.51	5.91	23.17
+GO:0032502	developmental process	233	0.22	0.11	1.89	3.37
+GO:0065008	regulation of biological quality	231	0.28	0.26	3.48	4.47
+GO:0042127	regulation of cell proliferation	159	0.45	0.48	6.03	12.04
+GO:0006906	vesicle fusion	4	0.68	0.66	8.56	63.10
+GO:0022607	cellular component assembly	146	0.39	0.39	5.06	14.95
+GO:0051704	multi-organism process	120	0.29	0.15	3.12	3.37
+GO:0040012	regulation of locomotion	117	0.43	0.41	5.73	7.96
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0030029	actin filament-based process	29	0.59	0.42	6.58	7.39
+GO:0008016	regulation of heart contraction	16	0.57	0.61	7.59	16.15
+GO:0036336	dendritic cell migration	11	0.84	0.74	9.41	29.14
+GO:1901877	negative regulation of calcium ion binding	1	1.00	0.79	9.63	30.92
+GO:0010458	exit from mitosis	1	1.00	0.79	9.63	29.82

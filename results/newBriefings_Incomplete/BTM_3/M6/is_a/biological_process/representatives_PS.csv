@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	620	0.24	0.37	3.90	23.85
+GO:0044260	cellular macromolecule metabolic process	442	0.28	0.39	4.44	30.44
+GO:0009966	regulation of signal transduction	403	0.33	0.45	5.35	37.59
+GO:0051172	negative regulation of nitrogen compound metabolic process	232	0.37	0.47	5.49	39.78
+GO:0043933	protein-containing complex subunit organization	203	0.43	0.41	5.44	14.95
+GO:0019221	cytokine-mediated signaling pathway	161	0.60	0.63	7.60	26.50
+GO:0001934	positive regulation of protein phosphorylation	158	0.58	0.69	8.60	663.11
+GO:0006468	protein phosphorylation	113	0.57	0.64	8.18	177.76
+GO:0070647	protein modification by small protein conjugation or removal	49	0.61	0.66	8.44	151.15
+GO:0043066	negative regulation of apoptotic process	136	0.56	0.63	7.79	81.07
+GO:0015031	protein transport	97	0.48	0.59	6.99	54.46
+GO:0010564	regulation of cell cycle process	89	0.42	0.50	6.22	14.24
+GO:0045786	negative regulation of cell cycle	75	0.51	0.54	7.10	42.35
+GO:0007346	regulation of mitotic cell cycle	75	0.49	0.53	6.68	14.24
+GO:0051276	chromosome organization	74	0.55	0.52	6.96	18.35
+GO:0033365	protein localization to organelle	43	0.50	0.54	7.01	29.83
+GO:1903829	positive regulation of cellular protein localization	42	0.60	0.62	7.80	40.87
+GO:0051054	positive regulation of DNA metabolic process	37	0.59	0.65	8.41	301.51
+GO:0000226	microtubule cytoskeleton organization	31	0.58	0.58	7.66	30.31
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	22	1.00	0.79	9.63	42.20
+GO:0070507	regulation of microtubule cytoskeleton organization	21	0.61	0.65	8.24	33.71
+GO:0032091	negative regulation of protein binding	15	0.70	0.64	8.48	32.72
+GO:0007517	muscle organ development	14	0.78	0.64	8.75	27.68
+GO:0034644	cellular response to UV	14	0.80	0.75	9.22	66.19
+GO:0000086	G2/M transition of mitotic cell cycle	14	1.00	0.79	9.63	43.45
+GO:0016202	regulation of striated muscle tissue development	13	0.61	0.63	8.27	41.67
+GO:0051310	metaphase plate congression	12	0.84	0.74	9.34	45.44
+GO:0050773	regulation of dendrite development	12	0.76	0.78	9.51	86.24
+GO:0007052	mitotic spindle organization	12	0.83	0.76	9.28	96.22
+GO:0000070	mitotic sister chromatid segregation	11	1.00	0.82	9.63	56.84
+GO:0000281	mitotic cytokinesis	7	0.93	0.76	9.47	28.62
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	7	0.83	0.85	9.50	3778.55
+GO:0007098	centrosome cycle	7	1.00	0.75	9.63	37.69
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	6	0.89	0.70	9.29	27.92
+GO:1904666	regulation of ubiquitin protein ligase activity	5	0.89	0.88	9.52	93.80
+GO:0045132	meiotic chromosome segregation	5	0.80	0.65	9.09	42.96
+GO:0007094	mitotic spindle assembly checkpoint	5	1.00	0.96	9.63	1801.80
+GO:0097711	ciliary basal body-plasma membrane docking	4	1.00	0.79	9.63	21.39
+GO:0071392	cellular response to estradiol stimulus	4	1.00	0.82	9.63	338.17
+GO:0007140	male meiotic nuclear division	4	0.89	0.80	9.47	65.97
+GO:0051754	meiotic sister chromatid cohesion, centromeric	3	1.00	0.85	9.63	117.00
+GO:0000132	establishment of mitotic spindle orientation	2	0.93	0.84	9.58	227.85
+GO:0007077	mitotic nuclear envelope disassembly	2	1.00	0.82	9.63	74.08
+GO:0016321	female meiosis chromosome segregation	2	0.93	0.76	9.52	64.48
+GO:0051256	mitotic spindle midzone assembly	2	1.00	0.79	9.63	55.95
+GO:0031915	positive regulation of synaptic plasticity	2	0.87	0.81	9.45	41.66
+GO:0099606	microtubule plus-end directed mitotic chromosome migration	1	1.00	0.82	9.63	45.44
+GO:0072520	seminiferous tubule development	1	1.00	0.75	9.63	49.56
+GO:0007079	mitotic chromosome movement towards spindle pole	1	1.00	0.85	9.63	93.22
+GO:0036089	cleavage furrow formation	1	0.93	0.79	9.52	34.65

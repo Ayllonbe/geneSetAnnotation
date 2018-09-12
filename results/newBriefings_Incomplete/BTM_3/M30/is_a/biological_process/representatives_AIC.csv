@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	893	0.24	0.37	3.90	23.85
+GO:0045785	positive regulation of cell adhesion	139	0.58	0.54	7.23	21.97
+GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	312	0.51	0.55	6.92	23.17
+GO:0048523	negative regulation of cellular process	725	0.24	0.37	3.90	23.93
+GO:0048523	negative regulation of cellular process	725	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	578	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	560	0.35	0.46	5.09	13.73
+GO:0009628	response to abiotic stimulus	142	0.46	0.35	5.43	6.14
+GO:0006950	response to stress	475	0.39	0.32	4.70	6.14
+GO:0048869	cellular developmental process	451	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	439	0.35	0.37	4.75	9.28
+GO:0051128	regulation of cellular component organization	407	0.30	0.40	4.57	12.04
+GO:0051240	positive regulation of multicellular organismal process	373	0.35	0.42	4.98	23.60
+GO:0022607	cellular component assembly	335	0.39	0.39	5.06	14.95
+GO:0045595	regulation of cell differentiation	327	0.34	0.42	5.25	23.33
+GO:0034654	nucleobase-containing compound biosynthetic process	314	0.40	0.49	6.85	317.02
+GO:0042325	regulation of phosphorylation	300	0.47	0.59	6.88	31.28
+GO:0032940	secretion by cell	283	0.48	0.53	6.33	20.46
+GO:0048856	anatomical structure development	237	0.33	0.29	3.70	6.46
+GO:0030334	regulation of cell migration	211	0.48	0.56	7.11	36.74
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0051248	negative regulation of protein metabolic process	195	0.45	0.55	6.75	129.53
+GO:0045087	innate immune response	165	0.68	0.59	8.16	26.47
+GO:0006468	protein phosphorylation	161	0.57	0.64	8.18	177.76
+GO:0046907	intracellular transport	149	0.46	0.48	6.38	29.65
+GO:0007010	cytoskeleton organization	111	0.52	0.51	6.76	18.35
+GO:0048513	animal organ development	105	0.50	0.45	5.88	11.73
+GO:0006897	endocytosis	102	0.63	0.61	8.09	26.36
+GO:0032989	cellular component morphogenesis	94	0.56	0.48	7.27	42.57
+GO:0045862	positive regulation of proteolysis	68	0.61	0.68	8.73	336.28
+GO:0045766	positive regulation of angiogenesis	51	0.81	0.76	9.30	134.49
+GO:0006631	fatty acid metabolic process	49	0.54	0.62	7.85	91.02
+GO:0009150	purine ribonucleotide metabolic process	48	0.55	0.67	8.37	538.25
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0034614	cellular response to reactive oxygen species	35	0.77	0.67	9.20	144.09
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	24	1.00	0.92	9.63	384.64
+GO:0050829	defense response to Gram-negative bacterium	22	1.00	0.85	9.63	71.44
+GO:0030195	negative regulation of blood coagulation	18	0.78	0.76	9.39	250.95
+GO:0090303	positive regulation of wound healing	16	0.70	0.70	8.75	62.35
+GO:0060401	cytosolic calcium ion transport	16	0.72	0.76	8.99	37.62
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:0050771	negative regulation of axonogenesis	15	0.74	0.79	9.36	885.10
+GO:0030199	collagen fibril organization	15	1.00	0.79	9.63	53.96
+GO:1905953	negative regulation of lipid localization	11	0.62	0.60	7.78	23.73
+GO:0032781	positive regulation of ATPase activity	9	0.75	0.70	8.78	51.42
+GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
+GO:0010507	negative regulation of autophagy	8	0.74	0.72	9.12	217.48
+GO:0030049	muscle filament sliding	6	1.00	0.82	9.63	20.96
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0051496	positive regulation of stress fiber assembly	6	1.00	0.93	9.63	365.07
+GO:0061436	establishment of skin barrier	4	1.00	0.88	9.63	44.87
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
+GO:0046621	negative regulation of organ growth	3	0.81	0.73	9.36	146.93
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0060683	regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling	1	1.00	0.85	9.63	114.97
+GO:0010512	negative regulation of phosphatidylinositol biosynthetic process	1	0.89	0.86	9.56	796.57

@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	589	0.43	0.51	5.91	23.17
+GO:0002682	regulation of immune system process	496	0.32	0.36	4.60	7.96
+GO:0045595	regulation of cell differentiation	344	0.34	0.42	5.25	23.33
+GO:2000026	regulation of multicellular organismal development	409	0.29	0.39	4.73	23.09
+GO:0010033	response to organic substance	455	0.35	0.37	4.75	9.28
+GO:0010605	negative regulation of macromolecule metabolic process	396	0.37	0.48	5.54	39.19
+GO:0031328	positive regulation of cellular biosynthetic process	352	0.41	0.53	6.32	170.14
+GO:0009967	positive regulation of signal transduction	341	0.44	0.54	6.71	140.23
+GO:0035556	intracellular signal transduction	327	0.51	0.55	6.92	23.17
+GO:0030154	cell differentiation	320	0.39	0.39	5.18	16.68
+GO:0043303	mast cell degranulation	6	1.00	0.90	9.63	196.34
+GO:0006796	phosphate-containing compound metabolic process	323	0.36	0.43	5.28	20.85
+GO:0030154	cell differentiation	320	0.39	0.39	5.18	16.68
+GO:0042981	regulation of apoptotic process	314	0.45	0.55	6.60	16.23
+GO:0008284	positive regulation of cell proliferation	269	0.56	0.57	7.27	43.45
+GO:0042592	homeostatic process	249	0.45	0.42	5.70	8.64
+GO:0051704	multi-organism process	246	0.29	0.15	3.12	3.37
+GO:0006952	defense response	243	0.56	0.48	6.67	9.54
+GO:2000145	regulation of cell motility	230	0.47	0.52	6.88	34.54
+GO:0051726	regulation of cell cycle	227	0.41	0.45	5.89	12.04
+GO:0016477	cell migration	211	0.47	0.48	6.31	17.13
+GO:0001817	regulation of cytokine production	203	0.40	0.45	5.78	11.79
+GO:0045859	regulation of protein kinase activity	189	0.56	0.68	8.33	159.56
+GO:0031056	regulation of histone modification	22	0.56	0.65	8.38	99.90
+GO:0006508	proteolysis	172	0.55	0.57	7.34	47.86
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	128	0.59	0.62	7.95	48.62
+GO:0050727	regulation of inflammatory response	116	0.53	0.59	7.40	31.59
+GO:0048468	cell development	114	0.51	0.45	6.51	28.42
+GO:0048513	animal organ development	112	0.50	0.45	5.88	11.73
+GO:0051051	negative regulation of transport	98	0.42	0.50	5.86	25.98
+GO:0006366	transcription by RNA polymerase II	92	0.60	0.72	8.61	583.88
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0010817	regulation of hormone levels	69	0.41	0.40	5.23	8.64
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0051260	protein homooligomerization	55	0.89	0.77	9.41	42.03
+GO:0048469	cell maturation	29	0.70	0.55	8.24	25.22
+GO:0001701	in utero embryonic development	26	1.00	0.85	9.63	22.50
+GO:2000679	positive regulation of transcription regulatory region DNA binding	7	0.89	0.77	9.43	47.97
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0001766	membrane raft polarization	5	0.93	0.79	9.54	30.90
+GO:0010716	negative regulation of extracellular matrix disassembly	4	1.00	0.85	9.63	86.14
+GO:0033632	regulation of cell-cell adhesion mediated by integrin	3	0.89	0.74	9.34	24.13
+GO:0072178	nephric duct morphogenesis	2	0.87	0.76	9.38	32.21
+GO:2000683	regulation of cellular response to X-ray	1	0.89	0.70	9.29	23.69
+GO:0001920	negative regulation of receptor recycling	1	1.00	0.82	9.63	203.34
+GO:0042421	norepinephrine biosynthetic process	1	1.00	0.88	9.63	472.61

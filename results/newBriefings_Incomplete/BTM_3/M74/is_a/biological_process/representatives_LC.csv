@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1673	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	411	0.28	0.26	3.48	4.47
+GO:0051091	positive regulation of DNA binding transcription factor activity	46	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	1230	0.09	0.17	1.80	4.47
+GO:0090073	positive regulation of protein homodimerization activity	1	1.00	0.82	9.63	47.42
+GO:0051179	localization	601	0.26	0.13	2.57	3.37
+GO:0050982	detection of mechanical stimulus	7	0.74	0.62	8.71	57.71
+GO:0042221	response to chemical	406	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	375	0.39	0.32	4.70	6.14
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	25	1.00	0.79	9.63	42.20
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	2	1.00	0.82	9.63	24.26

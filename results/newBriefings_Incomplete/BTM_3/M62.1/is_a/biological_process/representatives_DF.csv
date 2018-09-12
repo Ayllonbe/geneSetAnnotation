@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	518	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	1587	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	615	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	489	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	469	0.35	0.37	4.75	9.28
+GO:0006464	cellular protein modification process	408	0.34	0.49	5.84	147.03
+GO:0051240	positive regulation of multicellular organismal process	398	0.35	0.42	4.98	23.60
+GO:0006357	regulation of transcription by RNA polymerase II	350	0.44	0.63	7.11	248.57
+GO:0008284	positive regulation of cell proliferation	279	0.56	0.57	7.27	43.45
+GO:1902533	positive regulation of intracellular signal transduction	248	0.55	0.63	7.95	189.48
+GO:0010629	negative regulation of gene expression	244	0.47	0.56	6.74	59.05
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0042327	positive regulation of phosphorylation	234	0.56	0.66	8.02	180.93
+GO:0030334	regulation of cell migration	230	0.48	0.56	7.11	36.74
+GO:0043066	negative regulation of apoptotic process	228	0.56	0.63	7.79	81.07
+GO:0016477	cell migration	223	0.47	0.48	6.31	17.13
+GO:0006508	proteolysis	184	0.55	0.57	7.34	47.86
+GO:0045087	innate immune response	174	0.68	0.59	8.16	26.47
+GO:0006898	receptor-mediated endocytosis	67	0.68	0.66	8.48	28.44
+GO:0000226	microtubule cytoskeleton organization	65	0.58	0.58	7.66	30.31
+GO:0022408	negative regulation of cell-cell adhesion	56	0.58	0.61	7.77	52.93
+GO:0051961	negative regulation of nervous system development	53	0.55	0.60	7.67	86.30
+GO:0002009	morphogenesis of an epithelium	48	0.51	0.51	6.34	13.50
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	29	1.00	0.92	9.63	384.64
+GO:0071260	cellular response to mechanical stimulus	23	1.00	0.79	9.63	56.12
+GO:0006633	fatty acid biosynthetic process	21	0.65	0.70	8.91	359.85
+GO:2000060	positive regulation of ubiquitin-dependent protein catabolic process	17	0.81	0.82	9.48	1661.59
+GO:0001890	placenta development	12	1.00	0.75	9.63	49.87
+GO:0051893	regulation of focal adhesion assembly	11	0.89	0.80	9.47	59.48
+GO:0010507	negative regulation of autophagy	9	0.74	0.72	9.12	217.48
+GO:0030148	sphingolipid biosynthetic process	9	0.69	0.70	8.99	238.83
+GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
+GO:0030072	peptide hormone secretion	9	0.70	0.72	8.94	100.51
+GO:0010613	positive regulation of cardiac muscle hypertrophy	8	0.89	0.82	9.49	95.58
+GO:0021955	central nervous system neuron axonogenesis	7	0.70	0.75	8.80	66.00
+GO:0006883	cellular sodium ion homeostasis	6	1.00	0.90	9.63	285.76
+GO:0009584	detection of visible light	5	0.89	0.77	9.45	52.26
+GO:1903543	positive regulation of exosomal secretion	5	1.00	0.90	9.63	273.98
+GO:0007097	nuclear migration	5	0.71	0.65	8.71	66.02
+GO:2000304	positive regulation of ceramide biosynthetic process	4	0.93	0.86	9.60	909.79
+GO:0046621	negative regulation of organ growth	4	0.81	0.73	9.36	146.93
+GO:0031953	negative regulation of protein autophosphorylation	4	0.93	0.88	9.60	780.33
+GO:0003222	ventricular trabecula myocardium morphogenesis	3	0.89	0.80	9.43	28.31
+GO:0070278	extracellular matrix constituent secretion	2	0.87	0.76	9.38	23.10
+GO:0006685	sphingomyelin catabolic process	1	1.00	0.88	9.63	779.44

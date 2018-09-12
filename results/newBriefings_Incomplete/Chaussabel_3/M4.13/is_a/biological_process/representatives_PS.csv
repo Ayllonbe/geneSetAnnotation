@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5917	0.00	0.00	0.00	0.00
+GO:0008150	biological_process	5917	0.00	0.00	0.00	0.00
+GO:0007194	negative regulation of adenylate cyclase activity	4	0.89	0.89	9.59	6285.12
+GO:0090630	activation of GTPase activity	35	1.00	0.85	9.63	49.34
+GO:0007202	activation of phospholipase C activity	12	1.00	0.90	9.63	83.74
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	2	1.00	0.92	9.63	1344.96
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	45	0.93	0.93	9.60	734.49
+GO:0050789	regulation of biological process	4076	0.09	0.17	1.80	4.47
+GO:0006810	transport	1610	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	442	0.45	0.48	6.33	26.83
+GO:0098838	folate transmembrane transport	2	0.89	0.86	9.55	336.91
+GO:0006810	transport	1610	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	442	0.45	0.48	6.33	26.83
+GO:0098838	folate transmembrane transport	2	0.89	0.86	9.55	336.91
+GO:0050896	response to stimulus	1649	0.25	0.12	2.65	3.37
+GO:0065003	protein-containing complex assembly	693	0.45	0.48	6.06	36.47
+GO:0050900	leukocyte migration	150	0.60	0.59	8.02	26.94
+GO:0030098	lymphocyte differentiation	100	0.61	0.60	8.24	42.31
+GO:0007610	behavior	84	0.48	0.24	4.72	3.37
+GO:0007268	chemical synaptic transmission	54	0.74	0.72	8.66	23.17
+GO:0007565	female pregnancy	38	1.00	0.70	9.63	32.81
+GO:0042692	muscle cell differentiation	32	0.69	0.59	8.24	21.07
+GO:0031100	animal organ regeneration	31	0.89	0.70	9.29	28.09
+GO:0030218	erythrocyte differentiation	31	0.84	0.71	9.12	22.68
+GO:0043542	endothelial cell migration	22	0.80	0.75	9.14	24.97
+GO:0007416	synapse assembly	21	0.84	0.67	9.12	35.85
+GO:0035914	skeletal muscle cell differentiation	15	0.87	0.68	9.29	21.07
+GO:0042246	tissue regeneration	14	0.76	0.63	8.94	42.89
+GO:0030316	osteoclast differentiation	13	0.93	0.79	9.51	47.07
+GO:0048041	focal adhesion assembly	13	1.00	0.88	9.63	92.53
+GO:0030225	macrophage differentiation	10	0.93	0.79	9.51	47.07
+GO:0048711	positive regulation of astrocyte differentiation	9	0.93	0.88	9.59	472.10
+GO:0050702	interleukin-1 beta secretion	8	1.00	0.93	9.63	137.76
+GO:0030851	granulocyte differentiation	8	0.87	0.76	9.31	47.07
+GO:0002320	lymphoid progenitor cell differentiation	7	0.87	0.72	9.22	22.16
+GO:0034214	protein hexamerization	6	1.00	0.82	9.63	42.03
+GO:0048557	embryonic digestive tract morphogenesis	6	1.00	0.79	9.63	31.26
+GO:0060074	synapse maturation	2	1.00	0.75	9.63	25.43
+GO:0060179	male mating behavior	1	0.76	0.67	8.71	21.24

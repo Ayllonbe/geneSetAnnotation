@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006357	regulation of transcription by RNA polymerase II	906	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	904	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	858	0.57	0.68	8.45	581.39
+GO:0008104	protein localization	691	0.40	0.40	5.07	7.46
+GO:0065003	protein-containing complex assembly	611	0.45	0.48	6.06	36.47
+GO:0070126	mitochondrial translational termination	60	1.00	0.85	9.63	40.69
+GO:1902531	regulation of intracellular signal transduction	641	0.45	0.55	6.77	41.85
+GO:0033554	cellular response to stress	614	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	596	0.51	0.55	6.92	23.17
+GO:0009967	positive regulation of signal transduction	553	0.44	0.54	6.71	140.23
+GO:0043065	positive regulation of apoptotic process	253	0.56	0.63	7.81	80.91
+GO:0060548	negative regulation of cell death	361	0.54	0.56	7.27	41.94
+GO:0001932	regulation of protein phosphorylation	493	0.50	0.62	7.64	109.03
+GO:0043666	regulation of phosphoprotein phosphatase activity	41	0.74	0.77	9.33	158.30
+GO:0042127	regulation of cell proliferation	495	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	472	0.55	0.57	7.34	47.86
+GO:0045944	positive regulation of transcription by RNA polymerase II	401	0.55	0.71	8.36	1463.86
+GO:0070647	protein modification by small protein conjugation or removal	394	0.61	0.66	8.44	151.15
+GO:0019752	carboxylic acid metabolic process	344	0.32	0.45	5.31	42.50
+GO:0006468	protein phosphorylation	344	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	329	0.45	0.55	7.12	145.26
+GO:0000122	negative regulation of transcription by RNA polymerase II	310	0.61	0.74	8.79	1836.95
+GO:0030334	regulation of cell migration	289	0.48	0.56	7.11	36.74
+GO:0001817	regulation of cytokine production	259	0.40	0.45	5.78	11.79
+GO:0007186	G-protein coupled receptor signaling pathway	222	0.55	0.57	7.20	23.17
+GO:0050794	regulation of cellular process	3389	0.12	0.26	2.47	7.96
+GO:0030155	regulation of cell adhesion	220	0.48	0.44	5.95	7.96
+GO:0034660	ncRNA metabolic process	206	0.46	0.58	7.25	115.08
+GO:0030163	protein catabolic process	203	0.63	0.61	8.35	135.67
+GO:0042493	response to drug	203	0.47	0.43	5.84	9.28
+GO:0016477	cell migration	201	0.47	0.48	6.31	17.13
+GO:0098655	cation transmembrane transport	165	0.52	0.58	7.13	43.36
+GO:0002697	regulation of immune effector process	165	0.44	0.47	6.05	10.80
+GO:0051090	regulation of DNA binding transcription factor activity	156	0.72	0.77	9.22	255.34
+GO:0030036	actin cytoskeleton organization	119	0.63	0.61	8.05	29.61
+GO:0030855	epithelial cell differentiation	90	0.55	0.52	6.96	21.07
+GO:0043043	peptide biosynthetic process	88	0.65	0.65	8.66	211.48
+GO:0071363	cellular response to growth factor stimulus	86	0.77	0.67	8.94	60.39
+GO:0043393	regulation of protein binding	80	0.59	0.55	7.49	9.33
+GO:0060759	regulation of response to cytokine stimulus	69	0.59	0.55	7.43	11.65
+GO:0000086	G2/M transition of mitotic cell cycle	63	1.00	0.79	9.63	43.45
+GO:0070125	mitochondrial translational elongation	57	1.00	0.85	9.63	106.95
+GO:0007268	chemical synaptic transmission	52	0.74	0.72	8.66	23.17
+GO:0030307	positive regulation of cell growth	49	0.70	0.67	8.71	80.65
+GO:0050880	regulation of blood vessel size	44	0.63	0.61	8.30	24.53
+GO:0007229	integrin-mediated signaling pathway	38	1.00	0.82	9.63	26.50
+GO:0007219	Notch signaling pathway	36	0.78	0.71	8.87	26.50
+GO:0033209	tumor necrosis factor-mediated signaling pathway	34	0.89	0.80	9.51	30.19
+GO:0007517	muscle organ development	34	0.78	0.64	8.75	27.68
+GO:0007032	endosome organization	31	0.84	0.71	9.22	20.92
+GO:0010906	regulation of glucose metabolic process	29	0.68	0.69	8.75	59.51
+GO:0051781	positive regulation of cell division	26	0.68	0.63	8.44	42.29
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	22	0.89	0.82	9.54	374.75
+GO:0048747	muscle fiber development	15	0.89	0.77	9.41	33.94
+GO:0090313	regulation of protein targeting to membrane	12	0.83	0.81	9.50	126.34
+GO:2001044	regulation of integrin-mediated signaling pathway	6	0.89	0.77	9.41	41.85
+GO:0006481	C-terminal protein methylation	2	0.84	0.82	9.45	363.15
+GO:0021503	neural fold bending	1	1.00	0.82	9.63	33.97

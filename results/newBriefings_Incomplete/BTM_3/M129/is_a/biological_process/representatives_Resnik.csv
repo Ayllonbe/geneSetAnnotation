@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	811	0.22	0.36	4.01	22.77
+GO:0008104	protein localization	205	0.40	0.40	5.07	7.46
+GO:0006810	transport	661	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	653	0.28	0.26	3.74	11.45
+GO:0019538	protein metabolic process	502	0.31	0.41	4.91	44.77
+GO:0051128	regulation of cellular component organization	408	0.30	0.40	4.57	12.04
+GO:2000026	regulation of multicellular organismal development	395	0.29	0.39	4.73	23.09
+GO:0001101	response to acid chemical	81	0.51	0.45	6.31	9.28
+GO:0010033	response to organic substance	441	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	326	0.39	0.39	5.14	9.28
+GO:0044262	cellular carbohydrate metabolic process	21	0.46	0.48	6.72	38.14
+GO:0006796	phosphate-containing compound metabolic process	303	0.36	0.43	5.28	20.85
+GO:0035556	intracellular signal transduction	313	0.51	0.55	6.92	23.17
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:0048468	cell development	109	0.51	0.45	6.51	28.42
+GO:0050708	regulation of protein secretion	106	0.54	0.62	7.86	96.15
+GO:0006367	transcription initiation from RNA polymerase II promoter	34	1.00	0.90	9.63	477.15
+GO:0009267	cellular response to starvation	22	0.64	0.64	8.46	112.77
+GO:0032465	regulation of cytokinesis	19	0.59	0.62	8.14	31.80
+GO:0006914	autophagy	16	0.67	0.59	8.40	37.75
+GO:0034162	toll-like receptor 9 signaling pathway	7	1.00	0.95	9.63	412.65
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69

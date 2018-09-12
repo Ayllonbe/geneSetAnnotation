@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	196	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	122	0.25	0.32	3.46	10.22
+GO:0006119	oxidative phosphorylation	1	0.93	0.90	9.60	1310.55
+GO:0000289	nuclear-transcribed mRNA poly(A) tail shortening	2	0.93	0.88	9.60	717.25
+GO:0016043	cellular component organization	98	0.28	0.26	3.74	11.45
+GO:0022402	cell cycle process	50	0.40	0.32	4.60	7.39
+GO:0048856	anatomical structure development	28	0.33	0.29	3.70	6.46
+GO:0048869	cellular developmental process	66	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	53	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	36	0.39	0.39	5.14	9.28
+GO:0006974	cellular response to DNA damage stimulus	29	0.57	0.53	7.47	29.00
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	4	0.89	0.86	9.54	264.07
+GO:0051052	regulation of DNA metabolic process	21	0.47	0.56	7.17	70.58
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	4	0.89	0.86	9.54	264.07
+GO:0051052	regulation of DNA metabolic process	21	0.47	0.56	7.17	70.58
+GO:0050871	positive regulation of B cell activation	15	0.74	0.75	9.12	160.33
+GO:0034644	cellular response to UV	4	0.80	0.75	9.22	66.19
+GO:0019724	B cell mediated immunity	3	0.73	0.66	8.88	29.49
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:0034502	protein localization to chromosome	2	0.67	0.66	8.49	32.77
+GO:0051096	positive regulation of helicase activity	2	0.89	0.77	9.52	50.03
+GO:0055089	fatty acid homeostasis	1	1.00	0.85	9.63	32.35

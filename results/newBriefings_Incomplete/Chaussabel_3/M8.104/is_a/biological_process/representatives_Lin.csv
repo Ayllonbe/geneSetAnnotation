@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051128	regulation of cellular component organization	913	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	872	0.57	0.68	8.45	581.39
+GO:0006793	phosphorus metabolic process	794	0.34	0.37	4.88	17.52
+GO:0002376	immune system process	774	0.38	0.19	3.93	3.37
+GO:0035556	intracellular signal transduction	605	0.51	0.55	6.92	23.17
+GO:0010647	positive regulation of cell communication	602	0.42	0.50	5.88	43.28
+GO:0045893	positive regulation of transcription, DNA-templated	544	0.52	0.67	8.14	1208.12
+GO:0002684	positive regulation of immune system process	385	0.41	0.45	5.71	22.61
+GO:0044255	cellular lipid metabolic process	358	0.38	0.44	5.89	38.02
+GO:0008284	positive regulation of cell proliferation	297	0.56	0.57	7.27	43.45
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	167	0.58	0.64	7.56	28.11
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	23	1.00	0.92	9.63	350.56
+GO:0060644	mammary gland epithelial cell differentiation	7	0.83	0.70	9.12	24.20
+GO:2000737	negative regulation of stem cell differentiation	5	0.76	0.70	9.14	115.32
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	4	1.00	0.88	9.63	234.24
+GO:1904677	positive regulation of somatic stem cell division	1	1.00	0.85	9.63	59.81
+GO:1904674	positive regulation of somatic stem cell population maintenance	1	0.87	0.76	9.46	105.56

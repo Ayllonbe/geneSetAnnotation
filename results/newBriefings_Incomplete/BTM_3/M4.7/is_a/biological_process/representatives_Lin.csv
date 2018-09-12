@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	825	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	570	0.35	0.46	5.09	13.73
+GO:0019538	protein metabolic process	516	0.31	0.41	4.91	44.77
+GO:0051716	cellular response to stimulus	511	0.35	0.30	4.36	13.53
+GO:0009636	response to toxic substance	82	0.58	0.49	6.94	9.28
+GO:0070887	cellular response to chemical stimulus	358	0.40	0.40	5.31	25.21
+GO:0010033	response to organic substance	446	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	358	0.40	0.40	5.31	25.21
+GO:0071310	cellular response to organic substance	316	0.44	0.47	5.95	41.66
+GO:0010243	response to organonitrogen compound	181	0.45	0.48	6.23	25.43
+GO:0035556	intracellular signal transduction	322	0.51	0.55	6.92	23.17
+GO:0016070	RNA metabolic process	290	0.39	0.52	6.45	112.25
+GO:0008284	positive regulation of cell proliferation	258	0.56	0.57	7.27	43.45
+GO:0065003	protein-containing complex assembly	232	0.45	0.48	6.06	36.47
+GO:0043066	negative regulation of apoptotic process	215	0.56	0.63	7.79	81.07
+GO:0051726	regulation of cell cycle	196	0.41	0.45	5.89	12.04
+GO:0006468	protein phosphorylation	167	0.57	0.64	8.18	177.76
+GO:0035335	peptidyl-tyrosine dephosphorylation	16	0.89	0.82	9.53	179.25
+GO:1903047	mitotic cell cycle process	146	0.50	0.45	5.87	11.32
+GO:1903046	meiotic cell cycle process	35	0.49	0.44	6.09	19.36
+GO:0006259	DNA metabolic process	125	0.45	0.55	7.12	145.26
+GO:0003006	developmental process involved in reproduction	104	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	92	0.55	0.52	6.96	18.35
+GO:1903827	regulation of cellular protein localization	88	0.48	0.53	6.86	25.72
+GO:0051052	regulation of DNA metabolic process	84	0.47	0.56	7.17	70.58
+GO:0051098	regulation of binding	68	0.50	0.45	6.36	6.77
+GO:0033044	regulation of chromosome organization	61	0.44	0.54	6.49	19.19
+GO:0051640	organelle localization	60	0.49	0.45	6.08	7.87
+GO:0030855	epithelial cell differentiation	57	0.55	0.52	6.96	21.07
+GO:0000226	microtubule cytoskeleton organization	51	0.58	0.58	7.66	30.31
+GO:0031023	microtubule organizing center organization	16	0.73	0.56	8.47	24.42
+GO:0033365	protein localization to organelle	55	0.50	0.54	7.01	29.83
+GO:2000377	regulation of reactive oxygen species metabolic process	49	0.66	0.62	8.48	26.78
+GO:0046578	regulation of Ras protein signal transduction	41	0.70	0.72	8.71	46.46
+GO:0031099	regeneration	35	0.70	0.55	7.89	11.73
+GO:0050658	RNA transport	30	0.64	0.67	8.39	40.09
+GO:0045995	regulation of embryonic development	27	0.50	0.54	6.89	27.38
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:0007569	cell aging	19	0.80	0.60	8.94	24.75
+GO:0008543	fibroblast growth factor receptor signaling pathway	12	0.71	0.73	8.57	31.00
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	12	0.83	0.85	9.50	3778.55
+GO:0043029	T cell homeostasis	11	1.00	0.85	9.63	22.00
+GO:0048538	thymus development	9	1.00	0.79	9.63	35.89
+GO:0090344	negative regulation of cell aging	9	0.87	0.72	9.34	80.68
+GO:0055015	ventricular cardiac muscle cell development	4	1.00	0.85	9.63	69.56
+GO:0060718	chorionic trophoblast cell differentiation	4	1.00	0.75	9.63	21.07
+GO:0072708	response to sorbitol	3	0.93	0.76	9.47	29.40
+GO:0002455	humoral immune response mediated by circulating immunoglobulin	3	1.00	0.85	9.63	48.29
+GO:0031442	positive regulation of mRNA 3'-end processing	2	0.93	0.88	9.59	630.64
+GO:0090166	Golgi disassembly	2	1.00	0.79	9.63	58.91
+GO:1905448	positive regulation of mitochondrial ATP synthesis coupled electron transport	2	0.93	0.91	9.60	1375.56
+GO:0033566	gamma-tubulin complex localization	1	0.93	0.79	9.52	40.77
+GO:0007344	pronuclear fusion	1	1.00	0.82	9.63	29.38
+GO:0014038	regulation of Schwann cell differentiation	1	0.89	0.84	9.49	65.84
+GO:2001178	positive regulation of mediator complex assembly	1	1.00	0.85	9.63	140.38

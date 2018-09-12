@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1322	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1006	0.08	0.04	0.98	3.37
+GO:0007165	signal transduction	548	0.36	0.43	5.06	19.43
+GO:0051179	localization	469	0.26	0.13	2.57	3.37
+GO:0019538	protein metabolic process	283	0.31	0.41	4.91	44.77
+GO:0044255	cellular lipid metabolic process	80	0.38	0.44	5.89	38.02
+GO:0019538	protein metabolic process	283	0.31	0.41	4.91	44.77
+GO:0044255	cellular lipid metabolic process	80	0.38	0.44	5.89	38.02
+GO:0032879	regulation of localization	328	0.27	0.33	4.05	7.96
+GO:0065008	regulation of biological quality	310	0.28	0.26	3.48	4.47
+GO:2000026	regulation of multicellular organismal development	224	0.29	0.39	4.73	23.09
+GO:0050900	leukocyte migration	115	0.60	0.59	8.02	26.94
+GO:0010243	response to organonitrogen compound	115	0.45	0.48	6.23	25.43
+GO:0007346	regulation of mitotic cell cycle	58	0.49	0.53	6.68	14.24
+GO:0010564	regulation of cell cycle process	71	0.42	0.50	6.22	14.24
+GO:0000086	G2/M transition of mitotic cell cycle	11	1.00	0.79	9.63	43.45
+GO:0007354	zygotic determination of anterior/posterior axis, embryo	1	1.00	0.82	9.63	41.02

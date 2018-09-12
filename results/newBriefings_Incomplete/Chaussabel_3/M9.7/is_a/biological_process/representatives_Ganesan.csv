@@ -1,0 +1,98 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2663	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	1679	0.26	0.38	4.09	10.74
+GO:0009893	positive regulation of metabolic process	920	0.32	0.41	4.71	22.55
+GO:0048518	positive regulation of biological process	1536	0.21	0.30	3.05	7.96
+GO:1901360	organic cyclic compound metabolic process	1370	0.24	0.32	3.54	10.22
+GO:0048661	positive regulation of smooth muscle cell proliferation	27	0.93	0.79	9.52	63.46
+GO:0048523	negative regulation of cellular process	1262	0.24	0.37	3.90	23.93
+GO:0006810	transport	1148	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	1148	0.31	0.41	4.91	44.77
+GO:0006810	transport	1148	0.28	0.34	3.95	7.46
+GO:0006464	cellular protein modification process	889	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	813	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	725	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	663	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	626	0.32	0.29	4.12	6.14
+GO:0043933	protein-containing complex subunit organization	590	0.43	0.41	5.44	14.95
+GO:0016192	vesicle-mediated transport	517	0.52	0.51	6.57	10.99
+GO:0033554	cellular response to stress	497	0.44	0.42	6.05	25.47
+GO:2000026	regulation of multicellular organismal development	464	0.29	0.39	4.73	23.09
+GO:0015031	protein transport	446	0.48	0.59	6.99	54.46
+GO:0002790	peptide secretion	43	0.54	0.62	7.21	48.05
+GO:0010941	regulation of cell death	446	0.43	0.47	6.10	12.04
+GO:0080134	regulation of response to stress	408	0.35	0.42	5.03	11.65
+GO:0030154	cell differentiation	359	0.39	0.39	5.18	16.68
+GO:0050776	regulation of immune response	307	0.38	0.44	5.64	22.45
+GO:1903531	negative regulation of secretion by cell	53	0.55	0.62	7.58	107.96
+GO:0051050	positive regulation of transport	280	0.42	0.50	5.84	25.90
+GO:0034613	cellular protein localization	300	0.45	0.48	6.33	26.83
+GO:0006259	DNA metabolic process	249	0.45	0.55	7.12	145.26
+GO:0006396	RNA processing	248	0.49	0.60	7.48	115.08
+GO:0050801	ion homeostasis	183	0.50	0.54	6.88	13.14
+GO:0040008	regulation of growth	166	0.48	0.44	6.04	7.96
+GO:0030335	positive regulation of cell migration	145	0.58	0.64	8.22	157.26
+GO:0003006	developmental process involved in reproduction	140	0.43	0.34	5.07	14.49
+GO:0090066	regulation of anatomical structure size	114	0.53	0.46	6.45	8.64
+GO:0044057	regulation of system process	106	0.41	0.46	5.70	11.79
+GO:1903829	positive regulation of cellular protein localization	105	0.60	0.62	7.80	40.87
+GO:0030036	actin cytoskeleton organization	98	0.63	0.61	8.05	29.61
+GO:0000398	mRNA splicing, via spliceosome	88	0.83	0.85	9.49	356.67
+GO:0016055	Wnt signaling pathway	85	0.59	0.65	7.65	28.58
+GO:0051607	defense response to virus	69	0.87	0.76	9.49	78.89
+GO:0050878	regulation of body fluid levels	65	0.58	0.49	7.01	8.64
+GO:0007275	multicellular organism development	62	0.70	0.55	8.18	19.32
+GO:0060271	cilium assembly	52	0.87	0.76	9.41	137.68
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	52	1.00	0.79	9.63	42.20
+GO:0019722	calcium-mediated signaling	40	0.72	0.71	8.71	27.81
+GO:0032092	positive regulation of protein binding	35	0.71	0.64	8.53	32.71
+GO:0019218	regulation of steroid metabolic process	31	0.57	0.61	7.86	15.52
+GO:0000281	mitotic cytokinesis	28	0.93	0.76	9.47	28.62
+GO:0001649	osteoblast differentiation	26	1.00	0.75	9.63	21.07
+GO:0035264	multicellular organism growth	23	1.00	0.70	9.63	22.58
+GO:0048704	embryonic skeletal system morphogenesis	22	0.87	0.72	9.38	45.49
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	22	0.83	0.79	9.19	31.00
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	20	0.89	0.80	9.45	80.05
+GO:0008286	insulin receptor signaling pathway	18	0.87	0.81	9.34	31.00
+GO:0035459	cargo loading into vesicle	12	0.83	0.74	9.32	55.51
+GO:0001657	ureteric bud development	12	1.00	0.88	9.63	36.92
+GO:0001756	somitogenesis	12	1.00	0.79	9.63	43.80
+GO:0014032	neural crest cell development	12	0.89	0.74	9.51	65.00
+GO:0043967	histone H4 acetylation	11	0.83	0.86	9.46	659.45
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	10	1.00	0.82	9.63	26.98
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	10	0.79	0.77	9.12	28.36
+GO:0006656	phosphatidylcholine biosynthetic process	10	0.80	0.77	9.40	749.29
+GO:0000245	spliceosomal complex assembly	9	0.93	0.82	9.53	66.60
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	9	1.00	0.95	9.63	292.09
+GO:0000387	spliceosomal snRNP assembly	8	0.93	0.82	9.53	66.60
+GO:0014065	phosphatidylinositol 3-kinase signaling	8	1.00	0.88	9.63	26.43
+GO:0048016	inositol phosphate-mediated signaling	8	0.93	0.82	9.51	27.81
+GO:0034063	stress granule assembly	8	1.00	0.85	9.63	107.30
+GO:0001569	branching involved in blood vessel morphogenesis	7	1.00	0.85	9.63	53.50
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:0033344	cholesterol efflux	6	1.00	0.88	9.63	39.64
+GO:0060088	auditory receptor cell stereocilium organization	5	1.00	0.85	9.63	22.00
+GO:0043691	reverse cholesterol transport	5	1.00	0.88	9.63	39.64
+GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	5	1.00	0.88	9.63	145.47
+GO:0010887	negative regulation of cholesterol storage	5	1.00	0.85	9.63	69.53
+GO:0033700	phospholipid efflux	4	1.00	0.88	9.63	69.08
+GO:0000921	septin ring assembly	4	1.00	0.85	9.63	107.16
+GO:0034374	low-density lipoprotein particle remodeling	4	1.00	0.85	9.63	83.38
+GO:0034375	high-density lipoprotein particle remodeling	4	0.93	0.82	9.55	83.38
+GO:0035050	embryonic heart tube development	4	1.00	0.79	9.63	33.01
+GO:0060982	coronary artery morphogenesis	3	1.00	0.82	9.63	32.54
+GO:0034372	very-low-density lipoprotein particle remodeling	3	1.00	0.88	9.63	84.48
+GO:0014824	artery smooth muscle contraction	3	0.93	0.88	9.58	71.13
+GO:0001946	lymphangiogenesis	3	1.00	0.70	9.63	22.06
+GO:0070898	RNA polymerase III transcriptional preinitiation complex assembly	2	1.00	0.88	9.63	67.29
+GO:0000395	mRNA 5'-splice site recognition	2	0.93	0.84	9.54	67.29
+GO:0072011	glomerular endothelium development	2	0.93	0.84	9.52	41.72
+GO:0072144	glomerular mesangial cell development	2	0.89	0.74	9.41	66.50
+GO:0032367	intracellular cholesterol transport	2	0.87	0.81	9.49	129.99
+GO:0072112	glomerular visceral epithelial cell differentiation	2	0.89	0.80	9.45	72.77
+GO:0003100	regulation of systemic arterial blood pressure by endothelin	2	1.00	0.85	9.63	25.38
+GO:0043179	rhythmic excitation	1	1.00	0.88	9.63	31.31
+GO:0000481	maturation of 5S rRNA	1	0.89	0.86	9.53	358.78
+GO:0048343	paraxial mesodermal cell fate commitment	1	1.00	0.82	9.63	22.72
+GO:0014826	vein smooth muscle contraction	1	1.00	0.92	9.63	72.05
+GO:0031583	phospholipase D-activating G-protein coupled receptor signaling pathway	1	1.00	0.82	9.63	26.98

@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6164	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4406	0.08	0.04	0.98	3.37
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	40	0.93	0.91	9.59	279.62
+GO:0008355	olfactory learning	1	1.00	0.88	9.63	31.85
+GO:0010469	regulation of signaling receptor activity	163	0.59	0.62	7.95	48.62
+GO:0051091	positive regulation of DNA binding transcription factor activity	129	0.81	0.84	9.43	277.83
+GO:0008104	protein localization	838	0.40	0.40	5.07	7.46
+GO:0006810	transport	1673	0.28	0.34	3.95	7.46
+GO:0051704	multi-organism process	421	0.29	0.15	3.12	3.37

@@ -1,0 +1,88 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	79	0.40	0.60	6.84	245.35
+GO:0035556	intracellular signal transduction	44	0.51	0.55	6.92	23.17
+GO:0006259	DNA metabolic process	38	0.45	0.55	7.12	145.26
+GO:0010564	regulation of cell cycle process	31	0.42	0.50	6.22	14.24
+GO:0045892	negative regulation of transcription, DNA-templated	29	0.56	0.69	8.52	1581.26
+GO:0045786	negative regulation of cell cycle	28	0.51	0.54	7.10	42.35
+GO:0045786	negative regulation of cell cycle	28	0.51	0.54	7.10	42.35
+GO:0006281	DNA repair	25	0.63	0.66	8.78	180.34
+GO:0006468	protein phosphorylation	24	0.57	0.64	8.18	177.76
+GO:0042113	B cell activation	23	0.68	0.63	8.28	19.85
+GO:0006260	DNA replication	21	0.73	0.72	9.27	254.20
+GO:0045787	positive regulation of cell cycle	19	0.53	0.55	7.23	42.18
+GO:0000082	G1/S transition of mitotic cell cycle	18	1.00	0.79	9.63	42.75
+GO:0051054	positive regulation of DNA metabolic process	13	0.59	0.65	8.41	301.51
+GO:0065004	protein-DNA complex assembly	13	0.65	0.65	8.33	63.42
+GO:0006275	regulation of DNA replication	13	0.61	0.66	8.62	150.74
+GO:0032201	telomere maintenance via semi-conservative replication	13	0.89	0.82	9.56	216.33
+GO:0051056	regulation of small GTPase mediated signal transduction	12	0.68	0.69	8.65	45.07
+GO:0007088	regulation of mitotic nuclear division	12	0.59	0.64	8.17	54.97
+GO:0006283	transcription-coupled nucleotide-excision repair	12	1.00	0.90	9.63	184.44
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
+GO:0042769	DNA damage response, detection of DNA damage	10	0.79	0.68	9.14	39.84
+GO:0043547	positive regulation of GTPase activity	10	0.93	0.79	9.52	49.34
+GO:0071478	cellular response to radiation	10	0.67	0.63	8.53	36.92
+GO:0006297	nucleotide-excision repair, DNA gap filling	10	1.00	0.85	9.63	149.04
+GO:1903046	meiotic cell cycle process	10	0.49	0.44	6.09	19.36
+GO:0071103	DNA conformation change	10	0.67	0.63	8.24	21.24
+GO:0030855	epithelial cell differentiation	9	0.55	0.52	6.96	21.07
+GO:0006298	mismatch repair	8	0.83	0.79	9.50	183.05
+GO:0000018	regulation of DNA recombination	8	0.61	0.65	8.39	73.35
+GO:0006302	double-strand break repair	7	0.76	0.75	9.32	183.05
+GO:0006270	DNA replication initiation	7	0.80	0.75	9.41	149.04
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	7	1.00	0.79	9.63	42.20
+GO:0016567	protein ubiquitination	6	0.69	0.74	9.00	153.79
+GO:0036297	interstrand cross-link repair	6	0.89	0.82	9.54	183.05
+GO:0032467	positive regulation of cytokinesis	5	0.70	0.70	9.02	142.06
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	5	0.89	0.86	9.54	264.07
+GO:0032355	response to estradiol	5	0.93	0.76	9.52	74.25
+GO:0007050	cell cycle arrest	5	0.81	0.73	9.29	55.62
+GO:0098813	nuclear chromosome segregation	5	0.77	0.58	8.71	18.72
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	5	0.93	0.82	9.56	84.23
+GO:0008584	male gonad development	5	1.00	0.79	9.63	50.96
+GO:0006271	DNA strand elongation involved in DNA replication	4	0.78	0.76	9.42	149.74
+GO:0043524	negative regulation of neuron apoptotic process	4	0.79	0.77	9.25	179.63
+GO:0070317	negative regulation of G0 to G1 transition	4	1.00	0.85	9.63	83.03
+GO:0006338	chromatin remodeling	4	0.70	0.60	8.24	17.51
+GO:0030890	positive regulation of B cell proliferation	4	1.00	0.90	9.63	506.16
+GO:0006284	base-excision repair	4	0.93	0.84	9.58	183.05
+GO:0045995	regulation of embryonic development	3	0.50	0.54	6.89	27.38
+GO:0007281	germ cell development	3	0.87	0.68	9.34	71.68
+GO:0097421	liver regeneration	3	1.00	0.82	9.63	47.22
+GO:0007062	sister chromatid cohesion	3	0.75	0.67	8.80	32.57
+GO:0046034	ATP metabolic process	3	0.65	0.74	9.11	1262.34
+GO:0009749	response to glucose	3	0.89	0.80	9.41	32.96
+GO:0071548	response to dexamethasone	3	0.93	0.84	9.57	124.89
+GO:0071260	cellular response to mechanical stimulus	3	1.00	0.79	9.63	56.12
+GO:0001649	osteoblast differentiation	3	1.00	0.75	9.63	21.07
+GO:0000281	mitotic cytokinesis	3	0.93	0.76	9.47	28.62
+GO:0019724	B cell mediated immunity	3	0.73	0.66	8.88	29.49
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:0001701	in utero embryonic development	3	1.00	0.85	9.63	22.50
+GO:0051096	positive regulation of helicase activity	3	0.89	0.77	9.52	50.03
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:0043570	maintenance of DNA repeat elements	2	0.81	0.76	9.45	170.28
+GO:1901796	regulation of signal transduction by p53 class mediator	2	0.72	0.71	9.12	45.07
+GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	2	0.74	0.77	9.41	597.37
+GO:0035407	histone H3-T11 phosphorylation	2	1.00	0.93	9.63	710.18
+GO:0006312	mitotic recombination	2	0.84	0.80	9.47	151.53
+GO:1902065	response to L-glutamate	2	0.93	0.79	9.56	96.09
+GO:0031297	replication fork processing	2	0.89	0.82	9.52	150.65
+GO:0006269	DNA replication, synthesis of RNA primer	2	0.83	0.79	9.52	624.58
+GO:1900034	regulation of cellular response to heat	2	0.87	0.76	9.27	29.43
+GO:0090399	replicative senescence	2	1.00	0.75	9.63	26.14
+GO:0035264	multicellular organism growth	2	1.00	0.70	9.63	22.58
+GO:0051383	kinetochore organization	2	0.93	0.76	9.49	38.76
+GO:0006290	pyrimidine dimer repair	2	0.89	0.82	9.54	183.05
+GO:0031122	cytoplasmic microtubule organization	1	0.81	0.73	9.26	50.45
+GO:2000615	regulation of histone H3-K9 acetylation	1	0.89	0.88	9.53	182.99
+GO:0000915	actomyosin contractile ring assembly	1	0.93	0.84	9.57	135.17
+GO:0008272	sulfate transport	1	0.87	0.78	9.41	30.35
+GO:0072423	response to DNA damage checkpoint signaling	1	0.84	0.74	9.37	39.36
+GO:0090656	t-circle formation	1	1.00	0.88	9.63	168.69
+GO:0070584	mitochondrion morphogenesis	1	1.00	0.79	9.63	64.70
+GO:0051256	mitotic spindle midzone assembly	1	1.00	0.79	9.63	55.95
+GO:0006975	DNA damage induced protein phosphorylation	1	1.00	0.88	9.63	212.05
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	1	0.68	0.71	8.88	231.14
+GO:0035563	positive regulation of chromatin binding	1	0.93	0.76	9.49	31.32

@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	6951	0.09	0.05	0.84	3.37
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	11	1.00	0.95	9.63	2977.47
+GO:0061051	positive regulation of cell growth involved in cardiac muscle cell development	3	1.00	0.92	9.63	1867.06
+GO:0050789	regulation of biological process	5355	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1538	0.33	0.29	4.10	4.47
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	11	1.00	0.95	9.63	2977.47
+GO:0061051	positive regulation of cell growth involved in cardiac muscle cell development	3	1.00	0.92	9.63	1867.06
+GO:0050789	regulation of biological process	5355	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1538	0.33	0.29	4.10	4.47
+GO:0071704	organic substance metabolic process	4899	0.15	0.20	2.26	6.41
+GO:0051179	localization	2428	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	422	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	1230	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	1390	0.39	0.32	4.70	6.14
+GO:0043312	neutrophil degranulation	385	1.00	0.90	9.63	132.80
+GO:0045664	regulation of neuron differentiation	279	0.51	0.60	7.72	62.26
+GO:0000086	G2/M transition of mitotic cell cycle	83	1.00	0.79	9.63	43.45
+GO:0030182	neuron differentiation	82	0.58	0.54	7.21	21.07
+GO:0097711	ciliary basal body-plasma membrane docking	53	1.00	0.79	9.63	21.39
+GO:0000281	mitotic cytokinesis	42	0.93	0.76	9.47	28.62
+GO:0008543	fibroblast growth factor receptor signaling pathway	38	0.71	0.73	8.57	31.00
+GO:0000387	spliceosomal snRNP assembly	26	0.93	0.82	9.53	66.60
+GO:0038128	ERBB2 signaling pathway	16	0.87	0.83	9.37	32.39
+GO:0030318	melanocyte differentiation	9	0.89	0.74	9.34	22.86
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	8	0.89	0.80	9.45	48.00
+GO:0070682	proteasome regulatory particle assembly	2	1.00	0.85	9.63	45.62
+GO:0060741	prostate gland stromal morphogenesis	1	1.00	0.70	9.63	30.55
+GO:0071847	TNFSF11-mediated signaling pathway	1	0.93	0.84	9.52	30.19

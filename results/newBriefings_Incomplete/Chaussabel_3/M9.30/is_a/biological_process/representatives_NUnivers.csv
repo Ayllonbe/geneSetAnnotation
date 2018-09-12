@@ -1,0 +1,119 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	495	0.24	0.37	3.90	23.93
+GO:0006810	transport	474	0.28	0.34	3.95	7.46
+GO:0007165	signal transduction	405	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	360	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	293	0.33	0.45	5.35	37.59
+GO:0032774	RNA biosynthetic process	287	0.53	0.62	8.04	473.34
+GO:0048869	cellular developmental process	215	0.32	0.29	4.16	13.85
+GO:0065003	protein-containing complex assembly	201	0.45	0.48	6.06	36.47
+GO:0015031	protein transport	197	0.48	0.59	6.99	54.46
+GO:0070887	cellular response to chemical stimulus	182	0.40	0.40	5.31	25.21
+GO:0006508	proteolysis	159	0.55	0.57	7.34	47.86
+GO:0009967	positive regulation of signal transduction	153	0.44	0.54	6.71	140.23
+GO:0071310	cellular response to organic substance	140	0.44	0.47	5.95	41.66
+GO:0045892	negative regulation of transcription, DNA-templated	140	0.56	0.69	8.52	1581.26
+GO:0045944	positive regulation of transcription by RNA polymerase II	139	0.55	0.71	8.36	1463.86
+GO:0050776	regulation of immune response	133	0.38	0.44	5.64	22.45
+GO:0009968	negative regulation of signal transduction	125	0.44	0.54	6.68	140.65
+GO:0034613	cellular protein localization	123	0.45	0.48	6.33	26.83
+GO:0043549	regulation of kinase activity	113	0.53	0.64	7.76	45.51
+GO:0001934	positive regulation of protein phosphorylation	112	0.58	0.69	8.60	663.11
+GO:0030334	regulation of cell migration	83	0.48	0.56	7.11	36.74
+GO:0043065	positive regulation of apoptotic process	78	0.56	0.63	7.81	80.91
+GO:0044089	positive regulation of cellular component biogenesis	60	0.53	0.51	6.61	23.24
+GO:0002283	neutrophil activation involved in immune response	59	0.93	0.82	9.55	82.20
+GO:0000226	microtubule cytoskeleton organization	53	0.58	0.58	7.66	30.31
+GO:0043547	positive regulation of GTPase activity	50	0.93	0.79	9.52	49.34
+GO:0098542	defense response to other organism	48	0.66	0.62	8.42	39.21
+GO:0071214	cellular response to abiotic stimulus	46	0.59	0.54	7.66	24.78
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	42	0.68	0.66	8.81	76.40
+GO:0002429	immune response-activating cell surface receptor signaling pathway	38	0.74	0.75	9.28	217.35
+GO:1901652	response to peptide	37	0.62	0.60	8.14	43.80
+GO:0001666	response to hypoxia	37	0.81	0.70	9.12	21.16
+GO:0002237	response to molecule of bacterial origin	34	0.69	0.59	8.74	31.75
+GO:0051091	positive regulation of DNA binding transcription factor activity	34	0.81	0.84	9.43	277.83
+GO:0006874	cellular calcium ion homeostasis	30	0.63	0.71	8.83	287.08
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	30	1.00	0.79	9.63	42.20
+GO:0043409	negative regulation of MAPK cascade	29	0.72	0.78	9.37	1019.28
+GO:0050671	positive regulation of lymphocyte proliferation	26	0.74	0.75	9.27	262.65
+GO:0030336	negative regulation of cell migration	22	0.58	0.64	8.21	158.04
+GO:0071222	cellular response to lipopolysaccharide	21	1.00	0.82	9.63	238.00
+GO:0034329	cell junction assembly	20	0.71	0.61	8.53	35.01
+GO:0045766	positive regulation of angiogenesis	20	0.81	0.76	9.30	134.49
+GO:0010811	positive regulation of cell-substrate adhesion	17	0.80	0.69	9.01	35.31
+GO:0007565	female pregnancy	16	1.00	0.70	9.63	32.81
+GO:0034614	cellular response to reactive oxygen species	16	0.77	0.67	9.20	144.09
+GO:0030308	negative regulation of cell growth	16	0.69	0.67	8.67	80.89
+GO:0000281	mitotic cytokinesis	15	0.93	0.76	9.47	28.62
+GO:0007268	chemical synaptic transmission	15	0.74	0.72	8.66	23.17
+GO:0015893	drug transport	15	0.50	0.50	6.29	10.99
+GO:0050777	negative regulation of immune response	13	0.52	0.55	7.29	78.83
+GO:0071805	potassium ion transmembrane transport	13	0.83	0.81	9.46	120.62
+GO:0002673	regulation of acute inflammatory response	11	0.57	0.63	7.86	34.07
+GO:0009888	tissue development	11	0.47	0.44	5.74	11.73
+GO:0031295	T cell costimulation	10	0.93	0.86	9.59	354.90
+GO:0034260	negative regulation of GTPase activity	9	1.00	0.82	9.63	61.14
+GO:0008361	regulation of cell size	8	0.78	0.68	9.00	28.02
+GO:0043536	positive regulation of blood vessel endothelial cell migration	8	0.93	0.88	9.58	355.43
+GO:0007595	lactation	8	1.00	0.82	9.63	25.96
+GO:2000736	regulation of stem cell differentiation	6	0.66	0.62	8.48	27.05
+GO:0071549	cellular response to dexamethasone stimulus	6	1.00	0.90	9.63	704.27
+GO:0006309	apoptotic DNA fragmentation	6	1.00	0.90	9.63	682.12
+GO:0071300	cellular response to retinoic acid	6	1.00	0.82	9.63	200.60
+GO:0042307	positive regulation of protein import into nucleus	6	0.93	0.86	9.59	778.75
+GO:0032735	positive regulation of interleukin-12 production	5	0.89	0.77	9.43	65.24
+GO:0000132	establishment of mitotic spindle orientation	5	0.93	0.84	9.58	227.85
+GO:2001025	positive regulation of response to drug	5	0.65	0.62	7.96	42.54
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	5	0.93	0.90	9.60	732.69
+GO:0045577	regulation of B cell differentiation	5	0.74	0.74	9.22	130.38
+GO:0050982	detection of mechanical stimulus	5	0.74	0.62	8.71	57.71
+GO:0001942	hair follicle development	5	1.00	0.75	9.63	22.36
+GO:0033280	response to vitamin D	4	0.93	0.82	9.55	74.56
+GO:0006636	unsaturated fatty acid biosynthetic process	4	0.75	0.77	9.34	458.37
+GO:0051023	regulation of immunoglobulin secretion	4	0.89	0.82	9.52	116.25
+GO:0001890	placenta development	4	1.00	0.75	9.63	49.87
+GO:0030032	lamellipodium assembly	3	0.89	0.77	9.53	78.22
+GO:0071475	cellular hyperosmotic salinity response	3	0.93	0.82	9.57	243.84
+GO:0000915	actomyosin contractile ring assembly	3	0.93	0.84	9.57	135.17
+GO:0042744	hydrogen peroxide catabolic process	3	0.93	0.79	9.56	235.80
+GO:0003143	embryonic heart tube morphogenesis	3	0.89	0.77	9.41	47.29
+GO:0042100	B cell proliferation	3	0.87	0.76	9.39	50.60
+GO:0045332	phospholipid translocation	3	1.00	0.88	9.63	116.87
+GO:0032376	positive regulation of cholesterol transport	3	0.81	0.78	9.32	149.27
+GO:0071312	cellular response to alkaloid	3	0.79	0.72	9.25	164.37
+GO:0071392	cellular response to estradiol stimulus	3	1.00	0.82	9.63	338.17
+GO:0002455	humoral immune response mediated by circulating immunoglobulin	3	1.00	0.85	9.63	48.29
+GO:0032594	protein transport within lipid bilayer	3	0.70	0.75	9.24	121.86
+GO:1901741	positive regulation of myoblast fusion	3	1.00	0.90	9.63	353.20
+GO:0098911	regulation of ventricular cardiac muscle cell action potential	2	0.79	0.81	9.54	102.35
+GO:1902259	regulation of delayed rectifier potassium channel activity	2	0.89	0.86	9.53	241.33
+GO:0071681	cellular response to indole-3-methanol	2	1.00	0.82	9.63	467.41
+GO:0014072	response to isoquinoline alkaloid	2	0.83	0.74	9.41	49.90
+GO:0048304	positive regulation of isotype switching to IgG isotypes	2	1.00	0.93	9.63	1407.90
+GO:0033590	response to cobalamin	2	0.93	0.82	9.55	87.04
+GO:0032782	bile acid secretion	2	1.00	0.90	9.63	69.43
+GO:0097068	response to thyroxine	2	0.93	0.79	9.56	148.65
+GO:0086091	regulation of heart rate by cardiac conduction	2	1.00	0.88	9.63	61.17
+GO:0043215	daunorubicin transport	1	1.00	0.85	9.63	103.95
+GO:0070948	regulation of neutrophil mediated cytotoxicity	1	0.72	0.71	9.12	29.22
+GO:0001759	organ induction	1	0.84	0.77	9.38	112.34
+GO:0061092	positive regulation of phospholipid translocation	1	1.00	0.90	9.63	348.31
+GO:0032913	negative regulation of transforming growth factor beta3 production	1	0.93	0.82	9.54	85.64
+GO:1901557	response to fenofibrate	1	1.00	0.79	9.63	104.68
+GO:1905235	response to quercetin	1	0.93	0.76	9.54	83.82
+GO:1905232	cellular response to L-glutamate	1	1.00	0.85	9.63	543.06
+GO:0071217	cellular response to external biotic stimulus	1	1.00	0.75	9.63	54.04
+GO:1905184	positive regulation of protein serine/threonine phosphatase activity	1	1.00	0.93	9.63	1090.37
+GO:0043031	negative regulation of macrophage activation	1	0.93	0.82	9.55	126.92
+GO:0060449	bud elongation involved in lung branching	1	1.00	0.82	9.63	21.22
+GO:1904498	protein localization to mitotic actomyosin contractile ring	1	1.00	0.90	9.63	102.48
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0033189	response to vitamin A	1	0.93	0.82	9.53	42.40
+GO:0072311	glomerular epithelial cell differentiation	1	0.79	0.72	9.22	49.62
+GO:1904478	regulation of intestinal absorption	1	0.77	0.71	9.22	30.84
+GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
+GO:1903416	response to glycoside	1	0.79	0.64	8.84	27.32
+GO:1903413	cellular response to bile acid	1	1.00	0.82	9.63	286.35
+GO:0002638	negative regulation of immunoglobulin production	1	0.80	0.75	9.19	77.13
+GO:0007016	cytoskeletal anchoring at plasma membrane	1	1.00	0.82	9.63	66.89

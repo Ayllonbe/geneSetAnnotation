@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	4319	0.08	0.04	0.98	3.37
+GO:0008152	metabolic process	3858	0.15	0.07	1.52	3.37
+GO:0016043	cellular component organization	1872	0.28	0.26	3.74	11.45
+GO:0050896	response to stimulus	1679	0.25	0.12	2.65	3.37
+GO:0043923	positive regulation by host of viral transcription	8	1.00	0.93	9.63	272.30
+GO:0046718	viral entry into host cell	41	0.77	0.73	8.94	28.37
+GO:0050789	regulation of biological process	4172	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1182	0.33	0.29	4.10	4.47
+GO:0051179	localization	1857	0.26	0.13	2.57	3.37
+GO:0002376	immune system process	932	0.38	0.19	3.93	3.37
+GO:0003006	developmental process involved in reproduction	191	0.43	0.34	5.07	14.49
+GO:0048869	cellular developmental process	845	0.32	0.29	4.16	13.85
+GO:0065003	protein-containing complex assembly	714	0.45	0.48	6.06	36.47
+GO:0048856	anatomical structure development	485	0.33	0.29	3.70	6.46
+GO:0032501	multicellular organismal process	431	0.33	0.16	3.12	3.37
+GO:0051260	protein homooligomerization	135	0.89	0.77	9.41	42.03
+GO:0000902	cell morphogenesis	80	0.63	0.56	7.92	43.26
+GO:0007595	lactation	21	1.00	0.82	9.63	25.96
+GO:0048268	clathrin coat assembly	9	0.84	0.74	9.31	44.52
+GO:0010761	fibroblast migration	6	0.93	0.79	9.49	22.57
+GO:1990114	RNA polymerase II core complex assembly	1	1.00	0.82	9.63	44.52

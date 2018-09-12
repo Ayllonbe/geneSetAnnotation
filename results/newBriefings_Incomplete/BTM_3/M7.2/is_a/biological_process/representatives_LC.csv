@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1855	0.00	0.00	0.00	0.00
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	15	0.93	0.91	9.59	279.62
+GO:0090330	regulation of platelet aggregation	7	0.83	0.81	9.53	97.24
+GO:0050789	regulation of biological process	1377	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	36	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	518	0.33	0.29	4.10	4.47
+GO:0043170	macromolecule metabolic process	730	0.25	0.32	3.46	10.22
+GO:0009150	purine ribonucleotide metabolic process	47	0.55	0.67	8.37	538.25
+GO:0043170	macromolecule metabolic process	730	0.25	0.32	3.46	10.22
+GO:0009150	purine ribonucleotide metabolic process	47	0.55	0.67	8.37	538.25
+GO:0009607	response to biotic stimulus	229	0.40	0.32	5.00	6.14
+GO:0042221	response to chemical	446	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	432	0.39	0.32	4.70	6.14
+GO:0008104	protein localization	176	0.40	0.40	5.07	7.46
+GO:0006810	transport	593	0.28	0.34	3.95	7.46

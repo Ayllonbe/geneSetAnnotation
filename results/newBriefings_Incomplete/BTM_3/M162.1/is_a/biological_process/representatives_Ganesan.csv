@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	284	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	770	0.12	0.26	2.47	7.96
+GO:0042221	response to chemical	266	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	239	0.39	0.32	4.70	6.14
+GO:0016043	cellular component organization	353	0.28	0.26	3.74	11.45
+GO:0030154	cell differentiation	155	0.39	0.39	5.18	16.68
+GO:0006811	ion transport	131	0.38	0.44	5.19	10.99
+GO:0043312	neutrophil degranulation	119	1.00	0.90	9.63	132.80
+GO:0048856	anatomical structure development	112	0.33	0.29	3.70	6.46
+GO:0048878	chemical homeostasis	110	0.48	0.49	6.42	10.43
+GO:0050900	leukocyte migration	99	0.60	0.59	8.02	26.94
+GO:0051260	protein homooligomerization	31	0.89	0.77	9.41	42.03
+GO:0000902	cell morphogenesis	22	0.63	0.56	7.92	43.26
+GO:0008016	regulation of heart contraction	20	0.57	0.61	7.59	16.15
+GO:0043393	regulation of protein binding	18	0.59	0.55	7.49	9.33
+GO:0007043	cell-cell junction assembly	13	0.75	0.67	8.82	53.94
+GO:0072659	protein localization to plasma membrane	10	0.79	0.72	9.26	65.43
+GO:0051291	protein heterooligomerization	9	0.89	0.77	9.41	42.03
+GO:0003382	epithelial cell morphogenesis	6	0.87	0.76	9.37	47.45
+GO:0034142	toll-like receptor 4 signaling pathway	5	0.84	0.87	9.49	412.65
+GO:0001657	ureteric bud development	4	1.00	0.88	9.63	36.92
+GO:0007565	female pregnancy	4	1.00	0.70	9.63	32.81
+GO:0018149	peptide cross-linking	4	0.60	0.65	8.12	151.15
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	2	1.00	0.82	9.63	24.26
+GO:0007509	mesoderm migration involved in gastrulation	1	1.00	0.85	9.63	55.44
+GO:0001839	neural plate morphogenesis	1	1.00	0.82	9.63	34.31
+GO:0003383	apical constriction	1	0.89	0.74	9.47	20.96
+GO:0032525	somite rostral/caudal axis specification	1	1.00	0.79	9.63	40.32
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37

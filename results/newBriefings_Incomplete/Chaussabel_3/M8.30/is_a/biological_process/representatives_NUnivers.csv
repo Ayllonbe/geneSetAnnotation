@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2567	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	1711	0.28	0.39	4.44	30.44
+GO:0048523	negative regulation of cellular process	1221	0.24	0.37	3.90	23.93
+GO:0043933	protein-containing complex subunit organization	564	0.43	0.41	5.44	14.95
+GO:0006996	organelle organization	622	0.39	0.39	5.17	14.95
+GO:0010033	response to organic substance	521	0.35	0.37	4.75	9.28
+GO:0046907	intracellular transport	498	0.46	0.48	6.38	29.65
+GO:0046034	ATP metabolic process	38	0.65	0.74	9.11	1262.34
+GO:0007565	female pregnancy	30	1.00	0.70	9.63	32.81
+GO:0007517	muscle organ development	26	0.78	0.64	8.75	27.68
+GO:0035725	sodium ion transmembrane transport	20	0.89	0.82	9.49	113.92
+GO:0030326	embryonic limb morphogenesis	19	0.89	0.74	9.38	43.31
+GO:0061512	protein localization to cilium	8	0.80	0.72	9.22	32.77
+GO:0030049	muscle filament sliding	7	1.00	0.82	9.63	20.96
+GO:0044458	motile cilium assembly	6	1.00	0.85	9.63	138.78
+GO:0030238	male sex determination	4	0.89	0.70	9.29	21.56
+GO:0006032	chitin catabolic process	3	0.81	0.76	9.47	407.15
+GO:2001223	negative regulation of neuron migration	3	0.89	0.82	9.59	537.90
+GO:2000354	regulation of ovarian follicle development	3	0.80	0.75	9.43	41.80
+GO:0033087	negative regulation of immature T cell proliferation	1	0.93	0.88	9.60	667.37

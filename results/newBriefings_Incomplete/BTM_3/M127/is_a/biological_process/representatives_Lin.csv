@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	818	0.25	0.32	3.72	7.96
+GO:0050896	response to stimulus	808	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	609	0.38	0.19	3.93	3.37
+GO:0019538	protein metabolic process	503	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	450	0.40	0.60	6.84	245.35
+GO:0010033	response to organic substance	442	0.35	0.37	4.75	9.28
+GO:0042127	regulation of cell proliferation	362	0.45	0.48	6.03	12.04
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0006351	transcription, DNA-templated	214	0.57	0.68	8.45	581.39
+GO:0032880	regulation of protein localization	185	0.43	0.47	5.90	10.45
+GO:0015031	protein transport	145	0.48	0.59	6.99	54.46
+GO:0006974	cellular response to DNA damage stimulus	117	0.57	0.53	7.47	29.00
+GO:0071345	cellular response to cytokine stimulus	98	0.67	0.63	8.21	61.60
+GO:0002819	regulation of adaptive immune response	76	0.52	0.55	7.28	25.62
+GO:0045637	regulation of myeloid cell differentiation	74	0.62	0.63	8.47	67.17
+GO:0090407	organophosphate biosynthetic process	69	0.46	0.52	6.66	57.67
+GO:0051098	regulation of binding	66	0.50	0.45	6.36	6.77
+GO:0030336	negative regulation of cell migration	59	0.58	0.64	8.21	158.04
+GO:0050792	regulation of viral process	37	0.60	0.59	7.74	14.20
+GO:0050688	regulation of defense response to virus	16	0.75	0.70	9.19	71.29
+GO:0042542	response to hydrogen peroxide	38	0.93	0.76	9.54	79.29
+GO:0032479	regulation of type I interferon production	31	0.70	0.64	8.60	15.70
+GO:0016525	negative regulation of angiogenesis	29	0.81	0.78	9.32	151.11
+GO:0045669	positive regulation of osteoblast differentiation	14	0.93	0.79	9.56	169.86
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	14	0.79	0.64	8.82	10.56
+GO:0043124	negative regulation of I-kappaB kinase/NF-kappaB signaling	13	0.89	0.82	9.52	239.49
+GO:0033003	regulation of mast cell activation	13	0.74	0.69	9.18	27.11
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	10	0.78	0.76	9.31	117.17
+GO:0007259	JAK-STAT cascade	10	0.93	0.82	9.51	26.43
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	9	1.00	0.85	9.63	147.29
+GO:0061326	renal tubule development	6	0.67	0.62	8.33	33.01
+GO:2000110	negative regulation of macrophage apoptotic process	5	1.00	0.90	9.63	256.26
+GO:0009597	detection of virus	3	1.00	0.82	9.63	28.65
+GO:0051097	negative regulation of helicase activity	3	0.87	0.76	9.43	49.94
+GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway	3	0.84	0.74	9.45	67.48
+GO:0072162	metanephric mesenchymal cell differentiation	2	1.00	0.85	9.63	73.30
+GO:0010742	macrophage derived foam cell differentiation	2	1.00	0.79	9.63	21.76
+GO:0032020	ISG15-protein conjugation	2	1.00	0.85	9.63	151.15
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	2	1.00	0.85	9.63	112.16
+GO:2001034	positive regulation of double-strand break repair via nonhomologous end joining	1	1.00	0.92	9.63	720.42
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0006471	protein ADP-ribosylation	1	0.80	0.75	9.25	151.15
+GO:0017121	phospholipid scrambling	1	0.80	0.69	9.12	49.44
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:0072136	metanephric mesenchymal cell proliferation involved in metanephros development	1	1.00	0.75	9.63	28.01
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81
+GO:2000697	negative regulation of epithelial cell differentiation involved in kidney development	1	0.83	0.76	9.43	323.80

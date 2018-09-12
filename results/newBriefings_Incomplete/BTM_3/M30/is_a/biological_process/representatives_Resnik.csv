@@ -1,0 +1,60 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1604	0.08	0.04	0.98	3.37
+GO:0016043	cellular component organization	651	0.28	0.26	3.74	11.45
+GO:0002376	immune system process	606	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
+GO:0043207	response to external biotic stimulus	253	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0043207	response to external biotic stimulus	253	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0048584	positive regulation of response to stimulus	528	0.35	0.42	4.95	23.46
+GO:0050793	regulation of developmental process	483	0.26	0.33	3.95	7.96
+GO:0051128	regulation of cellular component organization	407	0.30	0.40	4.57	12.04
+GO:0051240	positive regulation of multicellular organismal process	373	0.35	0.42	4.98	23.60
+GO:0008285	negative regulation of cell proliferation	158	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	251	0.56	0.57	7.27	43.45
+GO:0010628	positive regulation of gene expression	312	0.47	0.56	6.67	58.80
+GO:0035556	intracellular signal transduction	312	0.51	0.55	6.92	23.17
+GO:0030154	cell differentiation	308	0.39	0.39	5.18	16.68
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:1903725	regulation of phospholipid metabolic process	19	0.60	0.65	8.24	46.80
+GO:0032940	secretion by cell	283	0.48	0.53	6.33	20.46
+GO:0043933	protein-containing complex subunit organization	266	0.43	0.41	5.44	14.95
+GO:0030162	regulation of proteolysis	146	0.51	0.58	7.47	43.98
+GO:0051248	negative regulation of protein metabolic process	195	0.45	0.55	6.75	129.53
+GO:0060548	negative regulation of cell death	223	0.54	0.56	7.27	41.94
+GO:0009968	negative regulation of signal transduction	220	0.44	0.54	6.68	140.65
+GO:0010629	negative regulation of gene expression	220	0.47	0.56	6.74	59.05
+GO:0051271	negative regulation of cellular component movement	74	0.55	0.56	7.36	52.39
+GO:0030334	regulation of cell migration	211	0.48	0.56	7.11	36.74
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0030155	regulation of cell adhesion	195	0.48	0.44	5.95	7.96
+GO:0009150	purine ribonucleotide metabolic process	48	0.55	0.67	8.37	538.25
+GO:0044255	cellular lipid metabolic process	138	0.38	0.44	5.89	38.02
+GO:0009150	purine ribonucleotide metabolic process	48	0.55	0.67	8.37	538.25
+GO:0044255	cellular lipid metabolic process	138	0.38	0.44	5.89	38.02
+GO:0006468	protein phosphorylation	161	0.57	0.64	8.18	177.76
+GO:0046907	intracellular transport	149	0.46	0.48	6.38	29.65
+GO:0010469	regulation of signaling receptor activity	124	0.59	0.62	7.95	48.62
+GO:0007010	cytoskeleton organization	111	0.52	0.51	6.76	18.35
+GO:0030049	muscle filament sliding	6	1.00	0.82	9.63	20.96
+GO:0048513	animal organ development	105	0.50	0.45	5.88	11.73
+GO:0006897	endocytosis	102	0.63	0.61	8.09	26.36
+GO:0034329	cell junction assembly	39	0.71	0.61	8.53	35.01
+GO:0006367	transcription initiation from RNA polymerase II promoter	34	1.00	0.90	9.63	477.15
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0051781	positive regulation of cell division	25	0.68	0.63	8.44	42.29
+GO:0071897	DNA biosynthetic process	25	0.71	0.71	9.25	573.30
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:0060401	cytosolic calcium ion transport	16	0.72	0.76	8.99	37.62
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:1905953	negative regulation of lipid localization	11	0.62	0.60	7.78	23.73
+GO:0032781	positive regulation of ATPase activity	9	0.75	0.70	8.78	51.42
+GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
+GO:0010507	negative regulation of autophagy	8	0.74	0.72	9.12	217.48
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0001942	hair follicle development	6	1.00	0.75	9.63	22.36
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
+GO:0070318	positive regulation of G0 to G1 transition	2	1.00	0.85	9.63	82.72
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0034059	response to anoxia	1	0.89	0.74	9.34	21.16

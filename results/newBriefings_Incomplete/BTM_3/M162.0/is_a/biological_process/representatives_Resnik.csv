@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	236	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	775	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	293	0.33	0.45	5.35	37.59
+GO:0032879	regulation of localization	285	0.27	0.33	4.05	7.96
+GO:0042221	response to chemical	266	0.32	0.29	4.12	6.14
+GO:0051252	regulation of RNA metabolic process	218	0.37	0.51	6.06	70.58
+GO:0022607	cellular component assembly	189	0.39	0.39	5.06	14.95
+GO:0042127	regulation of cell proliferation	179	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	157	0.39	0.39	5.18	16.68
+GO:0006887	exocytosis	147	0.67	0.66	8.38	37.08
+GO:0051704	multi-organism process	129	0.29	0.15	3.12	3.37
+GO:0051641	cellular localization	128	0.37	0.31	4.44	5.67
+GO:0051336	regulation of hydrolase activity	103	0.46	0.48	6.24	9.25
+GO:0050900	leukocyte migration	99	0.60	0.59	8.02	26.94
+GO:0043066	negative regulation of apoptotic process	96	0.56	0.63	7.79	81.07
+GO:0060674	placenta blood vessel development	3	0.93	0.72	9.47	32.96
+GO:0009653	anatomical structure morphogenesis	76	0.36	0.31	4.09	6.46
+GO:0006508	proteolysis	52	0.55	0.57	7.34	47.86
+GO:0007010	cytoskeleton organization	52	0.52	0.51	6.76	18.35
+GO:0051052	regulation of DNA metabolic process	46	0.47	0.56	7.17	70.58
+GO:0006366	transcription by RNA polymerase II	40	0.60	0.72	8.61	583.88
+GO:0007162	negative regulation of cell adhesion	37	0.57	0.57	7.40	38.27
+GO:0006396	RNA processing	29	0.49	0.60	7.48	115.08
+GO:0001666	response to hypoxia	26	0.81	0.70	9.12	21.16
+GO:1902476	chloride transmembrane transport	11	1.00	0.88	9.63	110.52
+GO:0060429	epithelium development	11	0.55	0.53	6.89	15.06
+GO:0008593	regulation of Notch signaling pathway	9	0.81	0.73	9.41	41.85
+GO:0008543	fibroblast growth factor receptor signaling pathway	9	0.71	0.73	8.57	31.00
+GO:0035264	multicellular organism growth	6	1.00	0.70	9.63	22.58
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0043484	regulation of RNA splicing	3	0.77	0.73	9.34	89.96
+GO:0023019	signal transduction involved in regulation of gene expression	2	1.00	0.79	9.63	23.17
+GO:0032463	negative regulation of protein homooligomerization	1	0.93	0.84	9.56	148.87

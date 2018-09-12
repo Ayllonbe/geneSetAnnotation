@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	703	0.00	0.00	0.00	0.00
+GO:0009987	cellular process	625	0.09	0.05	0.84	3.37
+GO:0030195	negative regulation of blood coagulation	2	0.78	0.76	9.39	250.95
+GO:0030277	maintenance of gastrointestinal epithelium	2	0.93	0.82	9.53	27.02
+GO:0050789	regulation of biological process	487	0.09	0.17	1.80	4.47
+GO:0043547	positive regulation of GTPase activity	25	0.93	0.79	9.52	49.34
+GO:0030195	negative regulation of blood coagulation	2	0.78	0.76	9.39	250.95
+GO:0030277	maintenance of gastrointestinal epithelium	2	0.93	0.82	9.53	27.02
+GO:0050789	regulation of biological process	487	0.09	0.17	1.80	4.47
+GO:0043547	positive regulation of GTPase activity	25	0.93	0.79	9.52	49.34
+GO:0071704	organic substance metabolic process	434	0.15	0.20	2.26	6.41
+GO:0030154	cell differentiation	62	0.39	0.39	5.18	16.68
+GO:0003006	developmental process involved in reproduction	29	0.43	0.34	5.07	14.49
+GO:0050900	leukocyte migration	16	0.60	0.59	8.02	26.94
+GO:0007565	female pregnancy	10	1.00	0.70	9.63	32.81
+GO:0035115	embryonic forelimb morphogenesis	4	1.00	0.82	9.63	58.81
+GO:0048701	embryonic cranial skeleton morphogenesis	3	1.00	0.82	9.63	46.18
+GO:0001657	ureteric bud development	2	1.00	0.88	9.63	36.92
+GO:0031069	hair follicle morphogenesis	2	1.00	0.75	9.63	21.57
+GO:0048754	branching morphogenesis of an epithelial tube	2	0.74	0.69	8.88	51.71
+GO:0072679	thymocyte migration	1	0.89	0.82	9.53	31.85
+GO:0090246	convergent extension involved in somitogenesis	1	1.00	0.85	9.63	51.85
+GO:1904956	regulation of midbrain dopaminergic neuron differentiation	1	0.83	0.81	9.49	65.92
+GO:0003404	optic vesicle morphogenesis	1	1.00	0.75	9.63	28.58
+GO:0044345	stromal-epithelial cell signaling involved in prostate gland development	1	1.00	0.75	9.63	38.69

@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1847	0.09	0.05	0.84	3.37
+GO:0048522	positive regulation of cellular process	901	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	849	0.36	0.43	5.06	19.43
+GO:0016043	cellular component organization	656	0.28	0.26	3.74	11.45
+GO:0051716	cellular response to stimulus	502	0.35	0.30	4.36	13.53
+GO:0050776	regulation of immune response	348	0.38	0.44	5.64	22.45
+GO:0009967	positive regulation of signal transduction	336	0.44	0.54	6.71	140.23
+GO:0031328	positive regulation of cellular biosynthetic process	335	0.41	0.53	6.32	170.14
+GO:0010628	positive regulation of gene expression	315	0.47	0.56	6.67	58.80
+GO:0050778	positive regulation of immune response	250	0.46	0.52	6.76	78.39
+GO:0042327	positive regulation of phosphorylation	217	0.56	0.66	8.02	180.93
+GO:0006955	immune response	215	0.54	0.40	6.57	12.45
+GO:1901701	cellular response to oxygen-containing compound	207	0.47	0.48	6.19	42.34
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0001819	positive regulation of cytokine production	148	0.51	0.54	6.97	44.26
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0051251	positive regulation of lymphocyte activation	127	0.58	0.64	8.19	127.58
+GO:0002237	response to molecule of bacterial origin	126	0.69	0.59	8.74	31.75
+GO:0000122	negative regulation of transcription by RNA polymerase II	123	0.61	0.74	8.79	1836.95
+GO:0002521	leukocyte differentiation	116	0.58	0.54	7.41	21.07
+GO:0006897	endocytosis	105	0.63	0.61	8.09	26.36
+GO:0009617	response to bacterium	86	0.75	0.67	8.94	27.27
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0002690	positive regulation of leukocyte chemotaxis	44	0.75	0.77	9.33	423.36
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	41	0.80	0.65	8.94	20.20
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	41	0.93	0.91	9.59	279.44
+GO:0006869	lipid transport	34	0.55	0.57	7.06	14.73
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	27	0.63	0.67	8.36	49.28
+GO:0070542	response to fatty acid	26	0.67	0.63	8.58	43.79
+GO:0030838	positive regulation of actin filament polymerization	15	0.79	0.83	9.46	459.93
+GO:0001954	positive regulation of cell-matrix adhesion	13	0.87	0.76	9.34	50.26
+GO:0050706	regulation of interleukin-1 beta secretion	12	0.89	0.86	9.53	155.13
+GO:0090630	activation of GTPase activity	12	1.00	0.85	9.63	49.34
+GO:0030194	positive regulation of blood coagulation	12	0.77	0.76	9.34	205.45
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:0071731	response to nitric oxide	6	0.93	0.76	9.54	66.43
+GO:2000669	negative regulation of dendritic cell apoptotic process	5	1.00	0.90	9.63	128.74
+GO:0060100	positive regulation of phagocytosis, engulfment	4	0.93	0.86	9.58	308.81
+GO:0002885	positive regulation of hypersensitivity	4	0.80	0.81	9.44	636.62
+GO:2000121	regulation of removal of superoxide radicals	3	0.83	0.76	9.49	93.21
+GO:0042308	negative regulation of protein import into nucleus	3	0.93	0.86	9.59	779.11
+GO:0010886	positive regulation of cholesterol storage	2	1.00	0.85	9.63	69.45

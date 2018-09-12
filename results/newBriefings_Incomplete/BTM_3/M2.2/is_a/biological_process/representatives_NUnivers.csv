@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1175	0.12	0.26	2.47	7.96
+GO:0016043	cellular component organization	555	0.28	0.26	3.74	11.45
+GO:0019538	protein metabolic process	385	0.31	0.41	4.91	44.77
+GO:0006518	peptide metabolic process	22	0.56	0.57	7.65	56.97
+GO:0048869	cellular developmental process	370	0.32	0.29	4.16	13.85
+GO:2000026	regulation of multicellular organismal development	326	0.29	0.39	4.73	23.09
+GO:0050776	regulation of immune response	268	0.38	0.44	5.64	22.45
+GO:0006357	regulation of transcription by RNA polymerase II	251	0.44	0.63	7.11	248.57
+GO:0048856	anatomical structure development	195	0.33	0.29	3.70	6.46
+GO:1902533	positive regulation of intracellular signal transduction	194	0.55	0.63	7.95	189.48
+GO:0009968	negative regulation of signal transduction	182	0.44	0.54	6.68	140.65
+GO:0051130	positive regulation of cellular component organization	174	0.42	0.50	5.95	43.84
+GO:0006351	transcription, DNA-templated	162	0.57	0.68	8.45	581.39
+GO:0050900	leukocyte migration	138	0.60	0.59	8.02	26.94
+GO:0032496	response to lipopolysaccharide	101	0.89	0.74	9.45	64.41
+GO:0071417	cellular response to organonitrogen compound	84	0.53	0.56	7.37	128.53
+GO:0007204	positive regulation of cytosolic calcium ion concentration	68	0.68	0.77	9.10	290.30
+GO:0001666	response to hypoxia	55	0.81	0.70	9.12	21.16
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0006469	negative regulation of protein kinase activity	44	0.68	0.76	9.22	1097.06
+GO:0071560	cellular response to transforming growth factor beta stimulus	14	1.00	0.82	9.63	97.49
+GO:1903510	mucopolysaccharide metabolic process	14	0.72	0.68	8.78	53.64
+GO:0001569	branching involved in blood vessel morphogenesis	8	1.00	0.85	9.63	53.50
+GO:0007202	activation of phospholipase C activity	7	1.00	0.90	9.63	83.74
+GO:0016239	positive regulation of macroautophagy	5	0.77	0.76	9.24	266.07
+GO:0048592	eye morphogenesis	5	0.80	0.69	8.94	16.18
+GO:1904659	glucose transmembrane transport	5	0.84	0.82	9.37	37.51
+GO:2001205	negative regulation of osteoclast development	3	1.00	0.92	9.63	1250.36
+GO:1903225	negative regulation of endodermal cell differentiation	2	0.93	0.84	9.58	302.81
+GO:0014824	artery smooth muscle contraction	2	0.93	0.88	9.58	71.13
+GO:0051901	positive regulation of mitochondrial depolarization	1	1.00	0.88	9.63	107.43
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16

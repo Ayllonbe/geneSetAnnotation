@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2679	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	2119	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	2011	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	1825	0.16	0.21	2.71	13.80
+GO:1901564	organonitrogen compound metabolic process	1082	0.23	0.31	3.63	19.40
+GO:0051247	positive regulation of protein metabolic process	360	0.44	0.54	6.72	129.04
+GO:0048523	negative regulation of cellular process	946	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	943	0.28	0.26	3.74	11.45
+GO:0051179	localization	943	0.26	0.13	2.57	3.37
+GO:0010468	regulation of gene expression	941	0.35	0.46	5.09	13.73
+GO:0006810	transport	836	0.28	0.34	3.95	7.46
+GO:0048583	regulation of response to stimulus	823	0.25	0.32	3.72	7.96
+GO:0065009	regulation of molecular function	613	0.33	0.29	4.10	4.47
+GO:0032774	RNA biosynthetic process	538	0.53	0.62	8.04	473.34
+GO:0022607	cellular component assembly	500	0.39	0.39	5.06	14.95
+GO:0042221	response to chemical	474	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	460	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	453	0.38	0.19	3.93	3.37
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	386	0.44	0.55	6.91	183.64
+GO:0035556	intracellular signal transduction	377	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	369	0.31	0.40	4.67	10.45
+GO:0010884	positive regulation of lipid storage	6	0.89	0.77	9.43	46.20
+GO:0033554	cellular response to stress	368	0.44	0.42	6.05	25.47
+GO:0022408	negative regulation of cell-cell adhesion	45	0.58	0.61	7.77	52.93
+GO:0002682	regulation of immune system process	349	0.32	0.36	4.60	7.96
+GO:0010647	positive regulation of cell communication	344	0.42	0.50	5.88	43.28
+GO:1900078	positive regulation of cellular response to insulin stimulus	4	0.84	0.71	9.34	80.48
+GO:0042127	regulation of cell proliferation	278	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	275	0.55	0.57	7.34	47.86
+GO:0006468	protein phosphorylation	214	0.57	0.64	8.18	177.76
+GO:0035335	peptidyl-tyrosine dephosphorylation	24	0.89	0.82	9.53	179.25
+GO:0006629	lipid metabolic process	229	0.37	0.38	5.19	18.42
+GO:0051704	multi-organism process	211	0.29	0.15	3.12	3.37
+GO:0043066	negative regulation of apoptotic process	200	0.56	0.63	7.79	81.07
+GO:0043525	positive regulation of neuron apoptotic process	17	0.84	0.80	9.39	179.36
+GO:0006259	DNA metabolic process	190	0.45	0.55	7.12	145.26
+GO:0031329	regulation of cellular catabolic process	166	0.43	0.51	6.41	39.60
+GO:0006812	cation transport	130	0.45	0.51	6.21	12.09
+GO:0006325	chromatin organization	119	0.49	0.44	6.23	14.95
+GO:0048468	cell development	105	0.51	0.45	6.51	28.42
+GO:0001666	response to hypoxia	63	0.81	0.70	9.12	21.16
+GO:0007610	behavior	48	0.48	0.24	4.72	3.37
+GO:0030522	intracellular receptor signaling pathway	43	0.65	0.62	7.99	23.17
+GO:2000377	regulation of reactive oxygen species metabolic process	33	0.66	0.62	8.48	26.78
+GO:0043401	steroid hormone mediated signaling pathway	32	0.75	0.70	8.80	25.74
+GO:0050877	nervous system process	31	0.55	0.47	6.42	9.78
+GO:0048469	cell maturation	24	0.70	0.55	8.24	25.22
+GO:0006487	protein N-linked glycosylation	21	0.80	0.77	9.34	176.56
+GO:0051085	chaperone cofactor-dependent protein refolding	13	1.00	0.79	9.63	21.14
+GO:0006576	cellular biogenic amine metabolic process	9	0.58	0.61	7.91	56.94
+GO:0016358	dendrite development	6	0.83	0.74	9.26	32.63
+GO:0045053	protein retention in Golgi apparatus	2	1.00	0.82	9.63	46.06
+GO:0042178	xenobiotic catabolic process	1	0.58	0.54	7.37	50.95
+GO:0070458	cellular detoxification of nitrogen compound	1	1.00	0.70	9.63	22.27
+GO:0097039	protein linear polyubiquitination	1	1.00	0.93	9.63	157.60
+GO:0018916	nitrobenzene metabolic process	1	0.89	0.74	9.43	49.34

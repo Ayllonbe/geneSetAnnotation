@@ -1,0 +1,62 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	881	0.25	0.32	3.46	10.22
+GO:0006355	regulation of transcription, DNA-templated	479	0.40	0.60	6.84	245.35
+GO:0031401	positive regulation of protein modification process	248	0.51	0.63	7.86	366.05
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0010564	regulation of cell cycle process	166	0.42	0.50	6.22	14.24
+GO:0045786	negative regulation of cell cycle	126	0.51	0.54	7.10	42.35
+GO:0051276	chromosome organization	104	0.55	0.52	6.96	18.35
+GO:0051052	regulation of DNA metabolic process	93	0.47	0.56	7.17	70.58
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0000226	microtubule cytoskeleton organization	64	0.58	0.58	7.66	30.31
+GO:0016567	protein ubiquitination	55	0.69	0.74	9.00	153.79
+GO:0051656	establishment of organelle localization	49	0.54	0.52	6.99	18.16
+GO:0000082	G1/S transition of mitotic cell cycle	45	1.00	0.79	9.63	42.75
+GO:0043393	regulation of protein binding	39	0.59	0.55	7.49	9.33
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	38	0.74	0.74	8.99	58.93
+GO:0006302	double-strand break repair	36	0.76	0.75	9.32	183.05
+GO:0034504	protein localization to nucleus	23	0.72	0.68	8.76	32.77
+GO:0034502	protein localization to chromosome	14	0.67	0.66	8.49	32.77
+GO:0071478	cellular response to radiation	32	0.67	0.63	8.53	36.92
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	32	1.00	0.79	9.63	42.20
+GO:0000086	G2/M transition of mitotic cell cycle	29	1.00	0.79	9.63	43.45
+GO:0007052	mitotic spindle organization	26	0.83	0.76	9.28	96.22
+GO:1900182	positive regulation of protein localization to nucleus	25	0.84	0.77	9.37	74.62
+GO:0006405	RNA export from nucleus	24	0.71	0.73	9.03	77.48
+GO:0006334	nucleosome assembly	23	0.87	0.78	9.47	104.52
+GO:1901796	regulation of signal transduction by p53 class mediator	18	0.72	0.71	9.12	45.07
+GO:0000281	mitotic cytokinesis	18	0.93	0.76	9.47	28.62
+GO:0000070	mitotic sister chromatid segregation	17	1.00	0.82	9.63	56.84
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	14	0.83	0.85	9.50	3778.55
+GO:0000060	protein import into nucleus, translocation	12	1.00	0.90	9.63	93.44
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0097711	ciliary basal body-plasma membrane docking	11	1.00	0.79	9.63	21.39
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	8	0.89	0.70	9.29	27.92
+GO:0007094	mitotic spindle assembly checkpoint	8	1.00	0.96	9.63	1801.80
+GO:0090398	cellular senescence	7	0.87	0.68	9.45	55.14
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:0046039	GTP metabolic process	5	0.89	0.86	9.57	1313.88
+GO:0040001	establishment of mitotic spindle localization	5	0.89	0.80	9.58	138.62
+GO:0000212	meiotic spindle organization	5	0.77	0.73	9.17	69.68
+GO:0045143	homologous chromosome segregation	4	1.00	0.79	9.63	44.56
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
+GO:0051754	meiotic sister chromatid cohesion, centromeric	3	1.00	0.85	9.63	117.00
+GO:0016321	female meiosis chromosome segregation	3	0.93	0.76	9.52	64.48
+GO:0007100	mitotic centrosome separation	3	1.00	0.75	9.63	26.82
+GO:0010458	exit from mitosis	3	1.00	0.79	9.63	29.82
+GO:0019054	modulation by virus of host process	3	0.55	0.62	7.70	74.20
+GO:0071539	protein localization to centrosome	3	0.93	0.86	9.54	37.38
+GO:0010586	miRNA metabolic process	2	0.87	0.81	9.46	117.72
+GO:0007057	spindle assembly involved in female meiosis I	2	1.00	0.92	9.63	179.90
+GO:0010994	free ubiquitin chain polymerization	2	1.00	0.85	9.63	46.13
+GO:0051307	meiotic chromosome separation	2	0.87	0.68	9.22	35.56
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:1900195	positive regulation of oocyte maturation	1	0.93	0.86	9.59	598.41
+GO:0006409	tRNA export from nucleus	1	0.93	0.88	9.58	123.85
+GO:0061015	snRNA import into nucleus	1	1.00	0.90	9.63	121.65
+GO:0036089	cleavage furrow formation	1	0.93	0.79	9.52	34.65

@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4754	0.00	0.00	0.00	0.00
+GO:0044093	positive regulation of molecular function	545	0.43	0.41	5.23	6.77
+GO:0042994	cytoplasmic sequestering of transcription factor	11	0.93	0.91	9.59	299.00
+GO:0050789	regulation of biological process	3240	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	53	0.93	0.91	9.59	279.44
+GO:0051179	localization	1448	0.26	0.13	2.57	3.37
+GO:0050896	response to stimulus	1304	0.25	0.12	2.65	3.37
+GO:0001701	in utero embryonic development	64	1.00	0.85	9.63	22.50
+GO:0001967	suckling behavior	7	1.00	0.70	9.63	23.34

@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0007165	signal transduction	830	0.36	0.43	5.06	19.43
+GO:0043207	response to external biotic stimulus	247	0.41	0.40	5.91	16.64
+GO:0051716	cellular response to stimulus	490	0.35	0.30	4.36	13.53
+GO:0002376	immune system process	590	0.38	0.19	3.93	3.37
+GO:0002682	regulation of immune system process	470	0.32	0.36	4.60	7.96
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	4	1.00	0.85	9.63	344.24
+GO:0051897	positive regulation of protein kinase B signaling	44	1.00	0.88	9.63	238.42
+GO:0006508	proteolysis	155	0.55	0.57	7.34	47.86
+GO:0046854	phosphatidylinositol phosphorylation	31	1.00	0.88	9.63	218.74
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07

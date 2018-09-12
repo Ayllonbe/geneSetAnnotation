@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	480	0.24	0.37	3.90	23.85
+GO:0007186	G-protein coupled receptor signaling pathway	146	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	319	0.43	0.51	5.91	23.17
+GO:0050804	modulation of chemical synaptic transmission	30	0.52	0.58	7.24	27.32
+GO:0009966	regulation of signal transduction	301	0.33	0.45	5.35	37.59
+GO:1901564	organonitrogen compound metabolic process	314	0.23	0.31	3.63	19.40
+GO:0051239	regulation of multicellular organismal process	278	0.23	0.32	3.68	7.96
+GO:2000026	regulation of multicellular organismal development	188	0.29	0.39	4.73	23.09
+GO:0071310	cellular response to organic substance	174	0.44	0.47	5.95	41.66
+GO:0031324	negative regulation of cellular metabolic process	170	0.34	0.46	5.46	80.35
+GO:0042592	homeostatic process	157	0.45	0.42	5.70	8.64
+GO:0006811	ion transport	139	0.38	0.44	5.19	10.99
+GO:0007595	lactation	4	1.00	0.82	9.63	25.96
+GO:0065003	protein-containing complex assembly	135	0.45	0.48	6.06	36.47
+GO:0001934	positive regulation of protein phosphorylation	118	0.58	0.69	8.60	663.11
+GO:0048856	anatomical structure development	114	0.33	0.29	3.70	6.46
+GO:0055067	monovalent inorganic cation homeostasis	17	0.67	0.69	8.82	34.21
+GO:0030003	cellular cation homeostasis	92	0.57	0.63	8.00	68.30
+GO:0043269	regulation of ion transport	81	0.41	0.50	6.00	14.08
+GO:0034613	cellular protein localization	60	0.45	0.48	6.33	26.83
+GO:0007268	chemical synaptic transmission	31	0.74	0.72	8.66	23.17
+GO:0001666	response to hypoxia	27	0.81	0.70	9.12	21.16
+GO:0032412	regulation of ion transmembrane transporter activity	22	0.54	0.62	7.76	60.98
+GO:0048812	neuron projection morphogenesis	22	0.65	0.68	8.50	63.00
+GO:0097746	regulation of blood vessel diameter	20	0.64	0.64	8.47	38.29
+GO:0002548	monocyte chemotaxis	19	1.00	0.85	9.63	125.46
+GO:0006865	amino acid transport	17	0.52	0.64	7.71	64.92
+GO:0042542	response to hydrogen peroxide	17	0.93	0.76	9.54	79.29
+GO:0043524	negative regulation of neuron apoptotic process	15	0.79	0.77	9.25	179.63
+GO:0009582	detection of abiotic stimulus	11	0.63	0.51	7.55	17.39
+GO:0050796	regulation of insulin secretion	9	0.83	0.81	9.53	205.48
+GO:0090630	activation of GTPase activity	6	1.00	0.85	9.63	49.34
+GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	3	0.93	0.86	9.58	354.41
+GO:0030049	muscle filament sliding	3	1.00	0.82	9.63	20.96
+GO:0050930	induction of positive chemotaxis	3	1.00	0.88	9.63	129.40
+GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	3	0.84	0.84	9.47	150.30
+GO:0002092	positive regulation of receptor internalization	3	0.93	0.86	9.59	393.55

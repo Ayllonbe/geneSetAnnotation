@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0000186	activation of MAPKK activity	4	0.83	0.88	9.54	3706.25
+GO:0030334	regulation of cell migration	189	0.48	0.56	7.11	36.74
+GO:0032091	negative regulation of protein binding	21	0.70	0.64	8.48	32.72
+GO:0050789	regulation of biological process	1293	0.09	0.17	1.80	4.47
+GO:0007166	cell surface receptor signaling pathway	483	0.43	0.51	5.91	23.17
+GO:0071704	organic substance metabolic process	862	0.15	0.20	2.26	6.41
+GO:0048869	cellular developmental process	389	0.32	0.29	4.16	13.85
+GO:0007166	cell surface receptor signaling pathway	483	0.43	0.51	5.91	23.17
+GO:0044238	primary metabolic process	809	0.19	0.22	2.60	6.41
+GO:0048869	cellular developmental process	389	0.32	0.29	4.16	13.85
+GO:0050896	response to stimulus	676	0.25	0.12	2.65	3.37
+GO:0006810	transport	569	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	93	0.45	0.48	6.33	26.83
+GO:0065003	protein-containing complex assembly	202	0.45	0.48	6.06	36.47
+GO:0030855	epithelial cell differentiation	50	0.55	0.52	6.96	21.07
+GO:0030099	myeloid cell differentiation	43	0.69	0.60	8.15	21.07
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0046697	decidualization	7	1.00	0.75	9.63	34.68
+GO:0045445	myoblast differentiation	4	0.89	0.70	9.29	21.07
+GO:0097187	dentinogenesis	3	1.00	0.82	9.63	26.74
+GO:0072070	loop of Henle development	2	0.93	0.84	9.53	58.05
+GO:0072017	distal tubule development	1	0.87	0.81	9.37	58.05
+GO:0060675	ureteric bud morphogenesis	1	1.00	0.90	9.63	52.20
+GO:0071895	odontoblast differentiation	1	1.00	0.85	9.63	26.97

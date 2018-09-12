@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1953	0.09	0.05	0.84	3.37
+GO:0065009	regulation of molecular function	605	0.33	0.29	4.10	4.47
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0051052	regulation of DNA metabolic process	93	0.47	0.56	7.17	70.58
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0051052	regulation of DNA metabolic process	93	0.47	0.56	7.17	70.58
+GO:0032270	positive regulation of cellular protein metabolic process	305	0.47	0.59	7.41	288.49
+GO:0051641	cellular localization	256	0.37	0.31	4.44	5.67
+GO:0051726	regulation of cell cycle	227	0.41	0.45	5.89	12.04
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:0046039	GTP metabolic process	5	0.89	0.86	9.57	1313.88
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0046039	GTP metabolic process	5	0.89	0.86	9.57	1313.88
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0045892	negative regulation of transcription, DNA-templated	175	0.56	0.69	8.52	1581.26
+GO:0006508	proteolysis	172	0.55	0.57	7.34	47.86
+GO:0006259	DNA metabolic process	148	0.45	0.55	7.12	145.26
+GO:0034622	cellular protein-containing complex assembly	122	0.48	0.53	6.52	40.42
+GO:0016567	protein ubiquitination	55	0.69	0.74	9.00	153.79
+GO:0071478	cellular response to radiation	32	0.67	0.63	8.53	36.92
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	32	1.00	0.79	9.63	42.20
+GO:1900182	positive regulation of protein localization to nucleus	25	0.84	0.77	9.37	74.62
+GO:1901796	regulation of signal transduction by p53 class mediator	18	0.72	0.71	9.12	45.07
+GO:0016032	viral process	13	0.46	0.48	5.83	10.11
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0090398	cellular senescence	7	0.87	0.68	9.45	55.14
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0010586	miRNA metabolic process	2	0.87	0.81	9.46	117.72
+GO:1900195	positive regulation of oocyte maturation	1	0.93	0.86	9.59	598.41
+GO:0070194	synaptonemal complex disassembly	1	1.00	0.82	9.63	39.83

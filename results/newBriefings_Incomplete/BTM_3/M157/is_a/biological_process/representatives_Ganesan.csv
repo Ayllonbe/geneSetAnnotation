@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009966	regulation of signal transduction	531	0.33	0.45	5.35	37.59
+GO:0006464	cellular protein modification process	327	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	292	0.44	0.47	5.95	41.66
+GO:0008284	positive regulation of cell proliferation	233	0.56	0.57	7.27	43.45
+GO:0043207	response to external biotic stimulus	228	0.41	0.40	5.91	16.64
+GO:0030334	regulation of cell migration	200	0.48	0.56	7.11	36.74
+GO:0006955	immune response	195	0.54	0.40	6.57	12.45
+GO:0007186	G-protein coupled receptor signaling pathway	187	0.55	0.57	7.20	23.17
+GO:0001818	negative regulation of cytokine production	77	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	134	0.51	0.54	6.97	44.26
+GO:0051249	regulation of lymphocyte activation	154	0.48	0.56	7.10	27.11
+GO:0043410	positive regulation of MAPK cascade	119	0.66	0.75	9.17	1017.24
+GO:0035304	regulation of protein dephosphorylation	16	0.70	0.72	9.08	108.84
+GO:0031349	positive regulation of defense response	113	0.48	0.56	6.79	44.30
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	102	0.58	0.64	7.56	28.11
+GO:0051259	protein complex oligomerization	77	0.78	0.68	9.09	40.42
+GO:0045765	regulation of angiogenesis	77	0.70	0.68	8.82	44.94
+GO:0043547	positive regulation of GTPase activity	74	0.93	0.79	9.52	49.34
+GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
+GO:0070098	chemokine-mediated signaling pathway	43	0.73	0.72	9.00	30.19
+GO:0030593	neutrophil chemotaxis	42	1.00	0.90	9.63	130.30
+GO:0019722	calcium-mediated signaling	42	0.72	0.71	8.71	27.81
+GO:0007265	Ras protein signal transduction	34	0.76	0.73	8.94	27.53
+GO:0051928	positive regulation of calcium ion transport	29	0.70	0.73	8.85	69.31
+GO:0048247	lymphocyte chemotaxis	24	0.77	0.73	9.30	94.38
+GO:0002548	monocyte chemotaxis	23	1.00	0.85	9.63	125.46
+GO:0048245	eosinophil chemotaxis	9	1.00	0.90	9.63	130.30
+GO:0038128	ERBB2 signaling pathway	8	0.87	0.83	9.37	32.39
+GO:0051489	regulation of filopodium assembly	8	0.89	0.82	9.45	51.76
+GO:0048246	macrophage chemotaxis	7	1.00	0.88	9.63	95.92
+GO:0043303	mast cell degranulation	5	1.00	0.90	9.63	196.34
+GO:0043922	negative regulation by host of viral transcription	3	1.00	0.93	9.63	272.38
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation	2	1.00	0.90	9.63	91.12
+GO:0061028	establishment of endothelial barrier	2	0.89	0.77	9.41	35.45
+GO:0047496	vesicle transport along microtubule	2	0.79	0.77	9.37	173.01
+GO:0021795	cerebral cortex cell migration	2	0.77	0.73	9.22	22.93
+GO:0002282	microglial cell activation involved in immune response	2	1.00	0.85	9.63	113.00
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation	1	1.00	0.90	9.63	210.75
+GO:1900272	negative regulation of long-term synaptic potentiation	1	1.00	0.90	9.63	54.24

@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1415	0.00	0.00	0.00	0.00
+GO:0045429	positive regulation of nitric oxide biosynthetic process	12	1.00	0.88	9.63	658.64
+GO:0043085	positive regulation of catalytic activity	202	0.48	0.49	6.15	18.32
+GO:0042592	homeostatic process	178	0.45	0.42	5.70	8.64
+GO:0045835	negative regulation of meiotic nuclear division	4	0.72	0.74	9.27	325.60
+GO:0050789	regulation of biological process	1035	0.09	0.17	1.80	4.47
+GO:0071704	organic substance metabolic process	665	0.15	0.20	2.26	6.41
+GO:0009605	response to external stimulus	216	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	338	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	305	0.39	0.32	4.70	6.14
+GO:0008104	protein localization	128	0.40	0.40	5.07	7.46
+GO:0006810	transport	466	0.28	0.34	3.95	7.46

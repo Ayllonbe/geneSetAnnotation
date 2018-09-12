@@ -1,0 +1,104 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	1480	0.25	0.32	3.46	10.22
+GO:0043170	macromolecule metabolic process	1480	0.25	0.32	3.46	10.22
+GO:0048522	positive regulation of cellular process	1011	0.24	0.37	3.90	23.85
+GO:0048522	positive regulation of cellular process	1011	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	906	0.24	0.37	3.90	23.93
+GO:0006810	transport	798	0.28	0.34	3.95	7.46
+GO:0006355	regulation of transcription, DNA-templated	720	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	650	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	585	0.33	0.45	5.35	37.59
+GO:0006996	organelle organization	454	0.39	0.39	5.17	14.95
+GO:0006796	phosphate-containing compound metabolic process	410	0.36	0.43	5.28	20.85
+GO:0044248	cellular catabolic process	372	0.31	0.36	4.57	26.23
+GO:0065003	protein-containing complex assembly	325	0.45	0.48	6.06	36.47
+GO:0015031	protein transport	319	0.48	0.59	6.99	54.46
+GO:0001932	regulation of protein phosphorylation	295	0.50	0.62	7.64	109.03
+GO:0030154	cell differentiation	267	0.39	0.39	5.18	16.68
+GO:0051960	regulation of nervous system development	133	0.45	0.52	6.58	27.38
+GO:0009725	response to hormone	124	0.53	0.51	7.03	21.86
+GO:0051707	response to other organism	119	0.42	0.46	6.41	24.63
+GO:0051186	cofactor metabolic process	115	0.41	0.40	5.49	17.52
+GO:0043312	neutrophil degranulation	109	1.00	0.90	9.63	132.80
+GO:0006281	DNA repair	106	0.63	0.66	8.78	180.34
+GO:0048468	cell development	100	0.51	0.45	6.51	28.42
+GO:0006897	endocytosis	96	0.63	0.61	8.09	26.36
+GO:0007264	small GTPase mediated signal transduction	88	0.74	0.69	8.74	26.43
+GO:0008380	RNA splicing	83	0.72	0.74	9.18	117.48
+GO:0045861	negative regulation of proteolysis	70	0.61	0.68	8.71	337.18
+GO:0032103	positive regulation of response to external stimulus	69	0.53	0.55	7.02	42.20
+GO:0000209	protein polyubiquitination	63	0.77	0.80	9.22	155.40
+GO:0019216	regulation of lipid metabolic process	61	0.45	0.52	6.42	13.04
+GO:0009150	purine ribonucleotide metabolic process	60	0.55	0.67	8.37	538.25
+GO:0050804	modulation of chemical synaptic transmission	58	0.52	0.58	7.24	27.32
+GO:0006888	ER to Golgi vesicle-mediated transport	57	1.00	0.82	9.63	49.13
+GO:1904062	regulation of cation transmembrane transport	55	0.49	0.59	7.03	34.83
+GO:0046578	regulation of Ras protein signal transduction	50	0.70	0.72	8.71	46.46
+GO:0071248	cellular response to metal ion	39	0.70	0.64	8.46	59.28
+GO:0000082	G1/S transition of mitotic cell cycle	34	1.00	0.79	9.63	42.75
+GO:0030595	leukocyte chemotaxis	33	0.69	0.67	8.77	62.06
+GO:0009267	cellular response to starvation	30	0.64	0.64	8.46	112.77
+GO:0006334	nucleosome assembly	29	0.87	0.78	9.47	104.52
+GO:0043401	steroid hormone mediated signaling pathway	28	0.75	0.70	8.80	25.74
+GO:0006906	vesicle fusion	26	0.68	0.66	8.56	63.10
+GO:0042147	retrograde transport, endosome to Golgi	24	0.87	0.76	9.37	84.49
+GO:0071356	cellular response to tumor necrosis factor	23	1.00	0.82	9.63	81.65
+GO:0007409	axonogenesis	23	0.69	0.72	8.67	64.61
+GO:0048640	negative regulation of developmental growth	21	0.64	0.61	8.21	76.66
+GO:0048278	vesicle docking	18	0.81	0.70	9.18	21.39
+GO:0007179	transforming growth factor beta receptor signaling pathway	16	0.76	0.75	9.05	29.90
+GO:0051402	neuron apoptotic process	13	0.83	0.70	9.02	23.44
+GO:0030218	erythrocyte differentiation	12	0.84	0.71	9.12	22.68
+GO:0006734	NADH metabolic process	11	0.81	0.84	9.49	294.96
+GO:0007254	JNK cascade	11	1.00	0.93	9.63	290.61
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	10	1.00	0.92	9.63	185.81
+GO:0008542	visual learning	10	1.00	0.88	9.63	51.66
+GO:0048675	axon extension	10	0.89	0.74	9.43	51.99
+GO:0010569	regulation of double-strand break repair via homologous recombination	10	0.84	0.82	9.52	184.48
+GO:0007416	synapse assembly	10	0.84	0.67	9.12	35.85
+GO:0035176	social behavior	9	1.00	0.70	9.63	22.58
+GO:0006099	tricarboxylic acid cycle	9	0.93	0.84	9.56	83.50
+GO:0022617	extracellular matrix disassembly	9	0.87	0.72	9.38	37.09
+GO:0006896	Golgi to vacuole transport	7	0.93	0.82	9.54	63.42
+GO:0060317	cardiac epithelial to mesenchymal transition	7	0.80	0.72	9.01	24.76
+GO:0045332	phospholipid translocation	7	1.00	0.88	9.63	116.87
+GO:0006623	protein targeting to vacuole	6	0.84	0.84	9.55	198.72
+GO:0060395	SMAD protein signal transduction	6	1.00	0.79	9.63	23.17
+GO:0006306	DNA methylation	6	0.74	0.77	9.25	389.47
+GO:0048194	Golgi vesicle budding	5	0.89	0.77	9.41	40.37
+GO:0042994	cytoplasmic sequestering of transcription factor	5	0.93	0.91	9.59	299.00
+GO:0019433	triglyceride catabolic process	5	1.00	0.88	9.63	492.49
+GO:0051292	nuclear pore complex assembly	5	0.93	0.79	9.55	123.37
+GO:0032438	melanosome organization	5	0.93	0.79	9.49	22.01
+GO:0042267	natural killer cell mediated cytotoxicity	5	0.93	0.79	9.55	47.36
+GO:0030224	monocyte differentiation	4	1.00	0.82	9.63	69.53
+GO:0007413	axonal fasciculation	4	0.89	0.80	9.45	31.51
+GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	4	1.00	0.90	9.63	663.42
+GO:0060509	Type I pneumocyte differentiation	3	1.00	0.82	9.63	47.35
+GO:0006104	succinyl-CoA metabolic process	3	0.83	0.74	9.25	79.29
+GO:0021860	pyramidal neuron development	3	1.00	0.85	9.63	36.72
+GO:0061002	negative regulation of dendritic spine morphogenesis	3	1.00	0.95	9.63	1979.51
+GO:0097105	presynaptic membrane assembly	3	1.00	0.79	9.63	57.45
+GO:0045143	homologous chromosome segregation	3	1.00	0.79	9.63	44.56
+GO:0002087	regulation of respiratory gaseous exchange by neurological system process	3	1.00	0.82	9.63	40.36
+GO:0045762	positive regulation of adenylate cyclase activity	3	0.89	0.89	9.59	6276.06
+GO:0001188	RNA polymerase I transcriptional preinitiation complex assembly	2	1.00	0.88	9.63	67.29
+GO:0002154	thyroid hormone mediated signaling pathway	2	1.00	0.82	9.63	51.30
+GO:0099054	presynapse assembly	2	1.00	0.75	9.63	34.60
+GO:0035860	glial cell-derived neurotrophic factor receptor signaling pathway	2	0.93	0.84	9.52	31.00
+GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	2	0.93	0.82	9.56	127.43
+GO:0080182	histone H3-K4 trimethylation	2	1.00	0.95	9.63	1138.74
+GO:0098532	histone H3-K27 trimethylation	2	1.00	0.95	9.63	767.59
+GO:0071787	endoplasmic reticulum tubular network formation	2	1.00	0.82	9.63	40.02
+GO:0000050	urea cycle	2	1.00	0.82	9.63	229.46
+GO:0021801	cerebral cortex radial glia guided migration	2	0.93	0.86	9.55	71.09
+GO:0008050	female courtship behavior	2	1.00	0.82	9.63	21.93
+GO:0097104	postsynaptic membrane assembly	2	1.00	0.79	9.63	57.45
+GO:2000809	positive regulation of synaptic vesicle clustering	2	1.00	0.85	9.63	59.69
+GO:0022028	tangential migration from the subventricular zone to the olfactory bulb	1	0.89	0.80	9.41	22.93
+GO:0016584	nucleosome positioning	1	1.00	0.82	9.63	77.16
+GO:0042450	arginine biosynthetic process via ornithine	1	1.00	0.93	9.63	648.32
+GO:0033364	mast cell secretory granule organization	1	1.00	0.82	9.63	22.86
+GO:1905552	positive regulation of protein localization to endoplasmic reticulum	1	1.00	0.85	9.63	73.71
+GO:1905943	negative regulation of formation of growth cone in injured axon	1	1.00	0.96	9.63	1487.49
+GO:0045925	positive regulation of female receptivity	1	0.93	0.82	9.53	31.67

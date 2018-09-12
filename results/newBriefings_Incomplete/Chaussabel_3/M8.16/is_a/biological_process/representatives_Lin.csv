@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	806	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	2276	0.21	0.30	3.39	7.96
+GO:0048518	positive regulation of biological process	1960	0.21	0.30	3.05	7.96
+GO:2000112	regulation of cellular macromolecule biosynthetic process	1436	0.36	0.50	5.87	74.82
+GO:0031324	negative regulation of cellular metabolic process	903	0.34	0.46	5.46	80.35
+GO:0050896	response to stimulus	1446	0.25	0.12	2.65	3.37
+GO:0090304	nucleic acid metabolic process	1418	0.35	0.46	5.97	111.15
+GO:0008104	protein localization	687	0.40	0.40	5.07	7.46
+GO:0010469	regulation of signaling receptor activity	144	0.59	0.62	7.95	48.62
+GO:0009967	positive regulation of signal transduction	546	0.44	0.54	6.71	140.23
+GO:0065003	protein-containing complex assembly	601	0.45	0.48	6.06	36.47
+GO:0035556	intracellular signal transduction	590	0.51	0.55	6.92	23.17
+GO:0002682	regulation of immune system process	574	0.32	0.36	4.60	7.96
+GO:0070647	protein modification by small protein conjugation or removal	390	0.61	0.66	8.44	151.15
+GO:0006511	ubiquitin-dependent protein catabolic process	223	0.74	0.74	9.19	156.45
+GO:0032502	developmental process	930	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	382	0.33	0.16	3.12	3.37
+GO:0044255	cellular lipid metabolic process	346	0.38	0.44	5.89	38.02
+GO:0006974	cellular response to DNA damage stimulus	302	0.57	0.53	7.47	29.00
+GO:0019221	cytokine-mediated signaling pathway	266	0.60	0.63	7.60	26.50
+GO:0001817	regulation of cytokine production	257	0.40	0.45	5.78	11.79
+GO:0032103	positive regulation of response to external stimulus	112	0.53	0.55	7.02	42.20
+GO:0043401	steroid hormone mediated signaling pathway	50	0.75	0.70	8.80	25.74
+GO:0030595	leukocyte chemotaxis	47	0.69	0.67	8.77	62.06
+GO:0070317	negative regulation of G0 to G1 transition	24	1.00	0.85	9.63	83.03
+GO:0045454	cell redox homeostasis	21	1.00	0.79	9.63	31.94
+GO:0016358	dendrite development	14	0.83	0.74	9.26	32.63
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	12	1.00	0.82	9.63	26.98
+GO:0071225	cellular response to muramyl dipeptide	3	1.00	0.85	9.63	334.58
+GO:0032485	regulation of Ral protein signal transduction	2	1.00	0.90	9.63	48.76
+GO:0042228	interleukin-8 biosynthetic process	1	1.00	0.85	9.63	142.64

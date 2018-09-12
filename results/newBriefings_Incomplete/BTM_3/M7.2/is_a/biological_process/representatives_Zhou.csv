@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051179	localization	652	0.26	0.13	2.57	3.37
+GO:0008152	metabolic process	965	0.15	0.07	1.52	3.37
+GO:0032502	developmental process	500	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	1647	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	730	0.25	0.12	2.65	3.37
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0097755	positive regulation of blood vessel diameter	12	0.75	0.73	9.07	39.68
+GO:0050789	regulation of biological process	1377	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	518	0.33	0.29	4.10	4.47
+GO:0051090	regulation of DNA binding transcription factor activity	81	0.72	0.77	9.22	255.34

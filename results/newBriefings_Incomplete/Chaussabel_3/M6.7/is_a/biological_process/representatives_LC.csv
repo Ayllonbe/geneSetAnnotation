@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7854	0.00	0.00	0.00	0.00
+GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity	10	1.00	0.90	9.63	129.69
+GO:1903595	positive regulation of histamine secretion by mast cell	3	1.00	0.95	9.63	1919.15
+GO:0050789	regulation of biological process	5389	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1550	0.33	0.29	4.10	4.47
+GO:0043004	cytoplasmic sequestering of CFTR protein	1	1.00	0.93	9.63	608.54
+GO:0033299	secretion of lysosomal enzymes	3	0.93	0.86	9.57	133.33
+GO:0006810	transport	2177	0.28	0.34	3.95	7.46

@@ -1,0 +1,60 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	2848	0.16	0.21	2.71	13.80
+GO:0032879	regulation of localization	777	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	1748	0.21	0.30	3.05	7.96
+GO:1901564	organonitrogen compound metabolic process	1656	0.23	0.31	3.63	19.40
+GO:0006355	regulation of transcription, DNA-templated	1170	0.40	0.60	6.84	245.35
+GO:0043900	regulation of multi-organism process	139	0.40	0.40	5.32	7.96
+GO:0065009	regulation of molecular function	911	0.33	0.29	4.10	4.47
+GO:0006351	transcription, DNA-templated	770	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	671	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	606	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	568	0.52	0.51	6.57	10.99
+GO:0042127	regulation of cell proliferation	434	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	410	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	363	0.44	0.54	6.68	140.65
+GO:0051241	negative regulation of multicellular organismal process	326	0.35	0.42	4.99	23.69
+GO:0006468	protein phosphorylation	311	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	286	0.45	0.55	7.12	145.26
+GO:0006952	defense response	253	0.56	0.48	6.67	9.54
+GO:0009653	anatomical structure morphogenesis	248	0.36	0.31	4.09	6.46
+GO:0010942	positive regulation of cell death	241	0.54	0.56	7.33	41.78
+GO:0019941	modification-dependent protein catabolic process	203	0.71	0.71	9.08	155.07
+GO:0061024	membrane organization	164	0.47	0.43	6.06	14.95
+GO:0001819	positive regulation of cytokine production	149	0.51	0.54	6.97	44.26
+GO:0030001	metal ion transport	144	0.54	0.59	7.29	15.42
+GO:0051052	regulation of DNA metabolic process	135	0.47	0.56	7.17	70.58
+GO:0030036	actin cytoskeleton organization	110	0.63	0.61	8.05	29.61
+GO:0006520	cellular amino acid metabolic process	106	0.41	0.53	6.53	77.81
+GO:0032535	regulation of cellular component size	96	0.60	0.55	7.84	25.54
+GO:0030336	negative regulation of cell migration	73	0.58	0.64	8.21	158.04
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	68	0.89	0.82	9.52	239.11
+GO:0001701	in utero embryonic development	63	1.00	0.85	9.63	22.50
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	61	0.63	0.64	8.31	41.85
+GO:0090501	RNA phosphodiester bond hydrolysis	54	0.64	0.67	8.66	229.53
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	51	0.93	0.91	9.59	279.44
+GO:0043401	steroid hormone mediated signaling pathway	47	0.75	0.70	8.80	25.74
+GO:0000281	mitotic cytokinesis	30	0.93	0.76	9.47	28.62
+GO:0016239	positive regulation of macroautophagy	25	0.77	0.76	9.24	266.07
+GO:0072525	pyridine-containing compound biosynthetic process	24	0.62	0.60	8.63	307.11
+GO:0051865	protein autoubiquitination	23	1.00	0.92	9.63	155.40
+GO:0001837	epithelial to mesenchymal transition	21	0.75	0.67	8.65	23.15
+GO:0001678	cellular glucose homeostasis	19	0.93	0.82	9.53	49.18
+GO:0071498	cellular response to fluid shear stress	10	0.80	0.65	9.27	39.93
+GO:0030490	maturation of SSU-rRNA	9	0.84	0.84	9.45	358.78
+GO:0071481	cellular response to X-ray	8	1.00	0.85	9.63	60.40
+GO:0090184	positive regulation of kidney development	8	0.65	0.65	8.53	85.86
+GO:0048477	oogenesis	7	1.00	0.79	9.63	84.68
+GO:0010529	negative regulation of transposition	7	0.87	0.72	9.27	41.76
+GO:0021533	cell differentiation in hindbrain	7	0.78	0.64	8.60	21.07
+GO:0016554	cytidine to uridine editing	5	1.00	0.90	9.63	133.94
+GO:0050862	positive regulation of T cell receptor signaling pathway	4	1.00	0.88	9.63	365.09
+GO:0046628	positive regulation of insulin receptor signaling pathway	4	0.89	0.80	9.52	293.60
+GO:0030035	microspike assembly	3	1.00	0.82	9.63	58.57
+GO:0072160	nephron tubule epithelial cell differentiation	2	0.87	0.76	9.31	49.62
+GO:0061312	BMP signaling pathway involved in heart development	2	0.89	0.89	9.56	568.10
+GO:2000313	regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	2	0.89	0.80	9.49	96.70
+GO:0060302	negative regulation of cytokine activity	2	0.93	0.84	9.58	129.50
+GO:1905006	negative regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	1	1.00	0.88	9.63	277.95
+GO:0046541	saliva secretion	1	1.00	0.82	9.63	60.49
+GO:0060825	fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation	1	0.93	0.86	9.53	33.84

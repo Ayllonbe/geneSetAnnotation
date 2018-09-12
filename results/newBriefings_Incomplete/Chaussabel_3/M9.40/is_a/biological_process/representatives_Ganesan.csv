@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	345	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	233	0.28	0.39	4.44	30.44
+GO:0048522	positive regulation of cellular process	185	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	167	0.28	0.26	3.74	11.45
+GO:0006355	regulation of transcription, DNA-templated	135	0.40	0.60	6.84	245.35
+GO:0006351	transcription, DNA-templated	96	0.57	0.68	8.45	581.39
+GO:0031324	negative regulation of cellular metabolic process	90	0.34	0.46	5.46	80.35
+GO:0033043	regulation of organelle organization	63	0.36	0.47	5.49	15.89
+GO:0043085	positive regulation of catalytic activity	45	0.48	0.49	6.15	18.32
+GO:0001932	regulation of protein phosphorylation	41	0.50	0.62	7.64	109.03
+GO:0022603	regulation of anatomical structure morphogenesis	38	0.36	0.43	5.15	11.29
+GO:0120035	regulation of plasma membrane bounded cell projection organization	22	0.51	0.58	7.05	17.28
+GO:0019221	cytokine-mediated signaling pathway	18	0.60	0.63	7.60	26.50
+GO:0072657	protein localization to membrane	17	0.58	0.58	7.59	29.83
+GO:0033157	regulation of intracellular protein transport	15	0.60	0.65	8.42	91.14
+GO:0043312	neutrophil degranulation	14	1.00	0.90	9.63	132.80
+GO:0016055	Wnt signaling pathway	12	0.59	0.65	7.65	28.58
+GO:0006732	coenzyme metabolic process	11	0.46	0.48	6.18	20.70
+GO:0002696	positive regulation of leukocyte activation	7	0.57	0.61	7.92	96.44
+GO:0045333	cellular respiration	7	0.68	0.63	8.24	30.86
+GO:0007281	germ cell development	5	0.87	0.68	9.34	71.68
+GO:0001649	osteoblast differentiation	5	1.00	0.75	9.63	21.07
+GO:0007229	integrin-mediated signaling pathway	5	1.00	0.82	9.63	26.50
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0042692	muscle cell differentiation	4	0.69	0.59	8.24	21.07
+GO:0031100	animal organ regeneration	3	0.89	0.70	9.29	28.09
+GO:0060964	regulation of gene silencing by miRNA	3	0.74	0.74	9.16	63.20
+GO:0002286	T cell activation involved in immune response	3	0.70	0.67	8.89	82.05
+GO:0008584	male gonad development	3	1.00	0.79	9.63	50.96
+GO:0051017	actin filament bundle assembly	2	0.79	0.72	9.14	39.79
+GO:0006336	DNA replication-independent nucleosome assembly	2	0.93	0.84	9.56	163.42
+GO:0030593	neutrophil chemotaxis	1	1.00	0.90	9.63	130.30
+GO:0045123	cellular extravasation	1	0.77	0.71	9.00	29.14
+GO:0001774	microglial cell activation	1	0.93	0.79	9.51	31.20
+GO:0001782	B cell homeostasis	1	0.93	0.82	9.51	22.00
+GO:0006557	S-adenosylmethioninamine biosynthetic process	1	1.00	0.92	9.63	3166.76
+GO:0006596	polyamine biosynthetic process	1	0.77	0.76	9.28	263.11
+GO:1900825	regulation of membrane depolarization during cardiac muscle cell action potential	1	0.83	0.79	9.49	86.40
+GO:1905150	regulation of voltage-gated sodium channel activity	1	0.89	0.86	9.52	229.06
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	1	1.00	0.82	9.63	56.75
+GO:0035987	endodermal cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0031508	pericentric heterochromatin assembly	1	1.00	0.85	9.63	98.72
+GO:0031509	telomeric heterochromatin assembly	1	1.00	0.85	9.63	78.57
+GO:0002523	leukocyte migration involved in inflammatory response	1	0.93	0.79	9.51	29.14
+GO:0034142	toll-like receptor 4 signaling pathway	1	0.84	0.87	9.49	412.65
+GO:0002315	marginal zone B cell differentiation	1	1.00	0.90	9.63	149.81
+GO:0043542	endothelial cell migration	1	0.80	0.75	9.14	24.97

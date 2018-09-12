@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	169	0.40	0.60	6.84	245.35
+GO:0030154	cell differentiation	136	0.39	0.39	5.18	16.68
+GO:0006464	cellular protein modification process	134	0.34	0.49	5.84	147.03
+GO:0008284	positive regulation of cell proliferation	114	0.56	0.57	7.27	43.45
+GO:0006351	transcription, DNA-templated	66	0.57	0.68	8.45	581.39
+GO:0045944	positive regulation of transcription by RNA polymerase II	65	0.55	0.71	8.36	1463.86
+GO:0045892	negative regulation of transcription, DNA-templated	58	0.56	0.69	8.52	1581.26
+GO:0001666	response to hypoxia	25	0.81	0.70	9.12	21.16
+GO:0000226	microtubule cytoskeleton organization	16	0.58	0.58	7.66	30.31
+GO:0045661	regulation of myoblast differentiation	8	0.83	0.70	9.34	27.05
+GO:0045987	positive regulation of smooth muscle contraction	8	0.77	0.76	9.08	66.30
+GO:0007179	transforming growth factor beta receptor signaling pathway	8	0.76	0.75	9.05	29.90
+GO:0006511	ubiquitin-dependent protein catabolic process	6	0.74	0.74	9.19	156.45
+GO:0043388	positive regulation of DNA binding	6	0.71	0.64	8.58	32.53
+GO:0045736	negative regulation of cyclin-dependent protein serine/threonine kinase activity	4	0.89	0.89	9.59	2927.12
+GO:1904706	negative regulation of vascular smooth muscle cell proliferation	4	1.00	0.85	9.63	80.88
+GO:0030511	positive regulation of transforming growth factor beta receptor signaling pathway	3	1.00	0.88	9.63	345.46
+GO:2000727	positive regulation of cardiac muscle cell differentiation	3	0.84	0.82	9.49	667.95
+GO:0035065	regulation of histone acetylation	3	0.70	0.77	9.17	181.05
+GO:1904753	negative regulation of vascular associated smooth muscle cell migration	3	1.00	0.90	9.63	245.41
+GO:2000587	negative regulation of platelet-derived growth factor receptor-beta signaling pathway	2	1.00	0.88	9.63	232.73
+GO:0010832	negative regulation of myotube differentiation	2	0.84	0.80	9.45	178.40
+GO:0070076	histone lysine demethylation	2	0.81	0.82	9.44	347.10
+GO:0048681	negative regulation of axon regeneration	2	0.79	0.83	9.46	878.91
+GO:2001015	negative regulation of skeletal muscle cell differentiation	1	0.87	0.83	9.54	376.95
+GO:0010667	negative regulation of cardiac muscle cell apoptotic process	1	1.00	0.92	9.63	149.61
+GO:0010501	RNA secondary structure unwinding	1	1.00	0.85	9.63	115.08
+GO:2000724	positive regulation of cardiac vascular smooth muscle cell differentiation	1	1.00	0.90	9.63	588.26
+GO:0001560	regulation of cell growth by extracellular stimulus	1	1.00	0.82	9.63	28.74
+GO:1900222	negative regulation of amyloid-beta clearance	1	1.00	0.79	9.63	41.14
+GO:0060765	regulation of androgen receptor signaling pathway	1	0.84	0.77	9.43	43.64
+GO:0060065	uterus development	1	1.00	0.75	9.63	49.87

@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2656	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	1993	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	1071	0.23	0.31	3.63	19.40
+GO:1903506	regulation of nucleic acid-templated transcription	757	0.40	0.58	6.66	149.90
+GO:0046889	positive regulation of lipid biosynthetic process	11	0.61	0.65	8.18	116.24
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	68	0.61	0.63	8.36	112.25
+GO:0016070	RNA metabolic process	710	0.39	0.52	6.45	112.25
+GO:0031325	positive regulation of cellular metabolic process	655	0.33	0.46	5.39	79.98
+GO:0031400	negative regulation of protein modification process	145	0.53	0.64	7.94	366.95
+GO:0006464	cellular protein modification process	670	0.34	0.49	5.84	147.03
+GO:0060292	long term synaptic depression	2	1.00	0.88	9.63	145.81
+GO:0009966	regulation of signal transduction	599	0.33	0.45	5.35	37.59
+GO:0051239	regulation of multicellular organismal process	520	0.23	0.32	3.68	7.96
+GO:0032879	regulation of localization	512	0.27	0.33	4.05	7.96
+GO:0022607	cellular component assembly	493	0.39	0.39	5.06	14.95
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0010035	response to inorganic substance	81	0.53	0.47	6.60	9.28
+GO:0002682	regulation of immune system process	343	0.32	0.36	4.60	7.96
+GO:0016310	phosphorylation	267	0.53	0.56	6.88	24.41
+GO:0046903	secretion	232	0.46	0.48	5.79	10.99
+GO:0034613	cellular protein localization	221	0.45	0.48	6.33	26.83
+GO:0042592	homeostatic process	213	0.45	0.42	5.70	8.64
+GO:0044255	cellular lipid metabolic process	191	0.38	0.44	5.89	38.02
+GO:0019221	cytokine-mediated signaling pathway	154	0.60	0.63	7.60	26.50
+GO:0007167	enzyme linked receptor protein signaling pathway	132	0.53	0.59	7.04	26.50
+GO:0040008	regulation of growth	113	0.48	0.44	6.04	7.96
+GO:0003006	developmental process involved in reproduction	101	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	86	0.55	0.52	6.96	18.35
+GO:1903046	meiotic cell cycle process	33	0.49	0.44	6.09	19.36
+GO:0051052	regulation of DNA metabolic process	91	0.47	0.56	7.17	70.58
+GO:0031331	positive regulation of cellular catabolic process	78	0.54	0.59	7.66	167.85
+GO:0097190	apoptotic signaling pathway	74	0.70	0.64	8.53	23.17
+GO:0022409	positive regulation of cell-cell adhesion	66	0.59	0.59	7.66	36.23
+GO:0016485	protein processing	34	0.65	0.65	8.32	99.81
+GO:0043401	steroid hormone mediated signaling pathway	31	0.75	0.70	8.80	25.74
+GO:0016051	carbohydrate biosynthetic process	30	0.52	0.51	6.98	43.72
+GO:0022904	respiratory electron transport chain	22	0.74	0.66	8.68	30.45
+GO:0015914	phospholipid transport	17	0.78	0.74	9.04	67.00
+GO:0072593	reactive oxygen species metabolic process	14	0.72	0.56	8.45	17.52
+GO:0007259	JAK-STAT cascade	9	0.93	0.82	9.51	26.43
+GO:0001657	ureteric bud development	7	1.00	0.88	9.63	36.92
+GO:0006521	regulation of cellular amino acid metabolic process	5	0.57	0.61	8.06	100.45
+GO:0007271	synaptic transmission, cholinergic	4	1.00	0.88	9.63	25.74
+GO:0072383	plus-end-directed vesicle transport along microtubule	3	0.93	0.86	9.58	265.62
+GO:0071468	cellular response to acidic pH	2	0.89	0.77	9.45	48.99
+GO:2000124	regulation of endocannabinoid signaling pathway	2	1.00	0.85	9.63	44.99
+GO:1901962	S-adenosyl-L-methionine transmembrane transport	1	0.93	0.82	9.55	92.48
+GO:1901642	nucleoside transmembrane transport	1	0.93	0.82	9.53	64.93

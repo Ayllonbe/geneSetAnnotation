@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1931	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	1265	0.28	0.39	4.44	30.44
+GO:0030203	glycosaminoglycan metabolic process	26	0.66	0.62	8.41	52.03
+GO:0048523	negative regulation of cellular process	908	0.24	0.37	3.90	23.93
+GO:0006355	regulation of transcription, DNA-templated	722	0.40	0.60	6.84	245.35
+GO:0065009	regulation of molecular function	595	0.33	0.29	4.10	4.47
+GO:0045595	regulation of cell differentiation	317	0.34	0.42	5.25	23.33
+GO:0006811	ion transport	199	0.38	0.44	5.19	10.99
+GO:0006887	exocytosis	179	0.67	0.66	8.38	37.08
+GO:0051960	regulation of nervous system development	137	0.45	0.52	6.58	27.38
+GO:0007186	G-protein coupled receptor signaling pathway	133	0.55	0.57	7.20	23.17
+GO:0120035	regulation of plasma membrane bounded cell projection organization	117	0.51	0.58	7.05	17.28
+GO:0034765	regulation of ion transmembrane transport	75	0.46	0.55	6.68	33.04
+GO:0050900	leukocyte migration	68	0.60	0.59	8.02	26.94
+GO:0051260	protein homooligomerization	60	0.89	0.77	9.41	42.03
+GO:0048812	neuron projection morphogenesis	47	0.65	0.68	8.50	63.00
+GO:0051384	response to glucocorticoid	30	0.77	0.73	9.22	62.74
+GO:0030182	neuron differentiation	29	0.58	0.54	7.21	21.07
+GO:0006906	vesicle fusion	27	0.68	0.66	8.56	63.10
+GO:0007565	female pregnancy	23	1.00	0.70	9.63	32.81
+GO:0001649	osteoblast differentiation	20	1.00	0.75	9.63	21.07
+GO:0048013	ephrin receptor signaling pathway	15	1.00	0.88	9.63	31.00
+GO:0034446	substrate adhesion-dependent cell spreading	13	1.00	0.82	9.63	56.23
+GO:0001523	retinoid metabolic process	12	0.77	0.76	9.19	47.55
+GO:0035115	embryonic forelimb morphogenesis	8	1.00	0.82	9.63	58.81
+GO:0043113	receptor clustering	7	0.77	0.71	8.99	42.89
+GO:0002063	chondrocyte development	6	0.89	0.70	9.47	32.15
+GO:0035493	SNARE complex assembly	4	1.00	0.82	9.63	44.52
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	4	1.00	0.79	9.63	23.39
+GO:0048557	embryonic digestive tract morphogenesis	4	1.00	0.79	9.63	31.26
+GO:0046847	filopodium assembly	2	0.93	0.79	9.52	58.57
+GO:0003363	lamellipodium assembly involved in ameboidal cell migration	1	0.93	0.82	9.54	78.22
+GO:0021816	extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	1	1.00	0.85	9.63	112.11
+GO:0060272	embryonic skeletal joint morphogenesis	1	0.93	0.79	9.51	46.18

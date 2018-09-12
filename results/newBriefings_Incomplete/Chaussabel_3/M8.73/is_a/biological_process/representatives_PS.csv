@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1805	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1409	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	1258	0.16	0.21	2.71	13.80
+GO:0006810	transport	597	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	312	0.32	0.29	4.12	6.14
+GO:0065003	protein-containing complex assembly	248	0.45	0.48	6.06	36.47
+GO:0035722	interleukin-12-mediated signaling pathway	9	1.00	0.85	9.63	30.19
+GO:0048538	thymus development	6	1.00	0.79	9.63	35.89
+GO:0035914	skeletal muscle cell differentiation	6	0.87	0.68	9.29	21.07
+GO:0001541	ovarian follicle development	5	1.00	0.75	9.63	34.61
+GO:0001890	placenta development	5	1.00	0.75	9.63	49.87
+GO:0008090	retrograde axonal transport	2	0.84	0.82	9.41	71.10
+GO:0019226	transmission of nerve impulse	2	1.00	0.75	9.63	26.02
+GO:0014908	myotube differentiation involved in skeletal muscle regeneration	1	1.00	0.85	9.63	23.15

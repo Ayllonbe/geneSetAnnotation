@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1130	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	895	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	657	0.33	0.45	5.35	37.59
+GO:0070887	cellular response to chemical stimulus	382	0.40	0.40	5.31	25.21
+GO:0006508	proteolysis	290	0.55	0.57	7.34	47.86
+GO:0050776	regulation of immune response	253	0.38	0.44	5.64	22.45
+GO:1902533	positive regulation of intracellular signal transduction	235	0.55	0.63	7.95	189.48
+GO:0001934	positive regulation of protein phosphorylation	221	0.58	0.69	8.60	663.11
+GO:0002366	leukocyte activation involved in immune response	156	0.61	0.55	7.89	38.36
+GO:0045087	innate immune response	122	0.68	0.59	8.16	26.47
+GO:0030335	positive regulation of cell migration	122	0.58	0.64	8.22	157.26
+GO:0003006	developmental process involved in reproduction	115	0.43	0.34	5.07	14.49
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	87	0.68	0.66	8.81	76.40
+GO:0030036	actin cytoskeleton organization	83	0.63	0.61	8.05	29.61
+GO:0032870	cellular response to hormone stimulus	74	0.60	0.59	7.93	80.94
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	62	0.69	0.74	9.07	111.97
+GO:0007204	positive regulation of cytosolic calcium ion concentration	54	0.68	0.77	9.10	290.30
+GO:0060326	cell chemotaxis	47	0.64	0.61	8.15	30.29
+GO:0034614	cellular response to reactive oxygen species	38	0.77	0.67	9.20	144.09
+GO:0009267	cellular response to starvation	36	0.64	0.64	8.46	112.77
+GO:0033559	unsaturated fatty acid metabolic process	20	0.66	0.71	8.83	93.73
+GO:2000379	positive regulation of reactive oxygen species metabolic process	19	0.78	0.71	9.25	112.72
+GO:0001523	retinoid metabolic process	14	0.77	0.76	9.19	47.55
+GO:0097755	positive regulation of blood vessel diameter	12	0.75	0.73	9.07	39.68
+GO:0030216	keratinocyte differentiation	11	0.89	0.77	9.38	25.59
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	10	1.00	0.92	9.63	990.06
+GO:0071230	cellular response to amino acid stimulus	9	0.71	0.68	8.96	283.90
+GO:0000060	protein import into nucleus, translocation	9	1.00	0.90	9.63	93.44
+GO:0071379	cellular response to prostaglandin stimulus	8	0.84	0.77	9.45	362.48
+GO:1901661	quinone metabolic process	8	0.62	0.56	8.04	61.62
+GO:0002717	positive regulation of natural killer cell mediated immunity	6	0.81	0.78	9.46	317.57
+GO:2000353	positive regulation of endothelial cell apoptotic process	5	1.00	0.90	9.63	129.82
+GO:0042448	progesterone metabolic process	4	0.89	0.80	9.52	143.00
+GO:0046085	adenosine metabolic process	4	0.87	0.83	9.55	443.47
+GO:0002074	extraocular skeletal muscle development	2	1.00	0.85	9.63	47.72
+GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
+GO:2000224	regulation of testosterone biosynthetic process	1	0.93	0.84	9.58	215.61
+GO:0072126	positive regulation of glomerular mesangial cell proliferation	1	0.89	0.82	9.54	500.59
+GO:0016488	farnesol catabolic process	1	1.00	0.90	9.63	931.11
+GO:0061370	testosterone biosynthetic process	1	1.00	0.82	9.63	321.83
+GO:1900053	negative regulation of retinoic acid biosynthetic process	1	1.00	0.88	9.63	790.64

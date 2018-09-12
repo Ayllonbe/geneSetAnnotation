@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	921	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	554	0.24	0.37	3.90	23.85
+GO:0006810	transport	441	0.28	0.34	3.95	7.46
+GO:0006464	cellular protein modification process	211	0.34	0.49	5.84	147.03
+GO:0006952	defense response	140	0.56	0.48	6.67	9.54
+GO:0002253	activation of immune response	116	0.59	0.62	8.04	87.88
+GO:0015031	protein transport	92	0.48	0.59	6.99	54.46
+GO:0000187	activation of MAPK activity	28	0.81	0.87	9.53	3706.25
+GO:0019369	arachidonic acid metabolic process	5	0.87	0.83	9.47	252.18
+GO:0090314	positive regulation of protein targeting to membrane	4	0.93	0.88	9.59	497.08
+GO:0033148	positive regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	233.77
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	2	1.00	0.92	9.63	350.56
+GO:0002029	desensitization of G-protein coupled receptor protein signaling pathway	2	0.93	0.84	9.57	381.95
+GO:0010360	negative regulation of anion channel activity	2	0.87	0.83	9.52	632.06
+GO:0051601	exocyst localization	1	0.93	0.79	9.52	40.77
+GO:0042738	exogenous drug catabolic process	1	0.93	0.76	9.51	56.33

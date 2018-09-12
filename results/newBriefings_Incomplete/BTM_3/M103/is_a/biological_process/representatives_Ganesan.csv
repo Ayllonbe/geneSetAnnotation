@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2213	0.00	0.00	0.00	0.00
+GO:0043392	negative regulation of DNA binding	11	0.76	0.67	8.87	32.53
+GO:0048255	mRNA stabilization	6	0.89	0.86	9.58	1968.72
+GO:0030890	positive regulation of B cell proliferation	17	1.00	0.90	9.63	506.16
+GO:0050789	regulation of biological process	1652	0.09	0.17	1.80	4.47
+GO:0043029	T cell homeostasis	11	1.00	0.85	9.63	22.00
+GO:0051234	establishment of localization	713	0.28	0.26	3.49	5.67
+GO:0033365	protein localization to organelle	65	0.50	0.54	7.01	29.83
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37

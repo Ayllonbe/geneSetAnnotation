@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002224	toll-like receptor signaling pathway	32	0.68	0.77	9.04	409.66
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	41	0.80	0.65	8.94	20.20
+GO:0009987	cellular process	1831	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	1603	0.08	0.04	0.98	3.37
+GO:0007628	adult walking behavior	3	1.00	0.75	9.63	34.94
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	21	0.93	0.91	9.59	279.62
+GO:0002032	desensitization of G-protein coupled receptor protein signaling pathway by arrestin	2	1.00	0.90	9.63	416.97
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	41	0.93	0.91	9.59	279.44
+GO:0051641	cellular localization	232	0.37	0.31	4.44	5.67
+GO:0006810	transport	658	0.28	0.34	3.95	7.46
+GO:0006955	immune response	215	0.54	0.40	6.57	12.45
+GO:0009605	response to external stimulus	319	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0043403	skeletal muscle tissue regeneration	1	0.93	0.76	9.51	44.68

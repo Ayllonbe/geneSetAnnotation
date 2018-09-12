@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	770	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	531	0.33	0.45	5.35	37.59
+GO:0006464	cellular protein modification process	327	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	292	0.44	0.47	5.95	41.66
+GO:0008284	positive regulation of cell proliferation	233	0.56	0.57	7.27	43.45
+GO:1902533	positive regulation of intracellular signal transduction	212	0.55	0.63	7.95	189.48
+GO:0006955	immune response	195	0.54	0.40	6.57	12.45
+GO:0001819	positive regulation of cytokine production	134	0.51	0.54	6.97	44.26
+GO:0043410	positive regulation of MAPK cascade	119	0.66	0.75	9.17	1017.24
+GO:0009615	response to virus	81	0.74	0.66	8.80	27.27
+GO:0051259	protein complex oligomerization	77	0.78	0.68	9.09	40.42
+GO:0001818	negative regulation of cytokine production	77	0.51	0.55	7.03	44.36
+GO:0043547	positive regulation of GTPase activity	74	0.93	0.79	9.52	49.34
+GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
+GO:0030595	leukocyte chemotaxis	68	0.69	0.67	8.77	62.06
+GO:0071222	cellular response to lipopolysaccharide	56	1.00	0.82	9.63	238.00
+GO:0030336	negative regulation of cell migration	55	0.58	0.64	8.21	158.04
+GO:0045766	positive regulation of angiogenesis	47	0.81	0.76	9.30	134.49
+GO:0030217	T cell differentiation	43	0.66	0.65	8.68	65.05
+GO:0050729	positive regulation of inflammatory response	43	0.66	0.68	8.59	125.85
+GO:0045621	positive regulation of lymphocyte differentiation	35	0.67	0.71	9.10	508.22
+GO:0050868	negative regulation of T cell activation	34	0.64	0.69	8.87	233.20
+GO:0051928	positive regulation of calcium ion transport	29	0.70	0.73	8.85	69.31
+GO:0016525	negative regulation of angiogenesis	27	0.81	0.78	9.32	151.11
+GO:0035304	regulation of protein dephosphorylation	16	0.70	0.72	9.08	108.84
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	14	1.00	0.92	9.63	570.20
+GO:0050860	negative regulation of T cell receptor signaling pathway	8	0.93	0.84	9.58	309.62
+GO:0051489	regulation of filopodium assembly	8	0.89	0.82	9.45	51.76
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	7	0.87	0.83	9.53	431.32
+GO:0043303	mast cell degranulation	5	1.00	0.90	9.63	196.34
+GO:2000503	positive regulation of natural killer cell chemotaxis	4	1.00	0.93	9.63	1000.53
+GO:1902715	positive regulation of interferon-gamma secretion	4	1.00	0.92	9.63	753.50
+GO:0043922	negative regulation by host of viral transcription	3	1.00	0.93	9.63	272.38
+GO:0061028	establishment of endothelial barrier	2	0.89	0.77	9.41	35.45
+GO:0047496	vesicle transport along microtubule	2	0.79	0.77	9.37	173.01
+GO:0002052	positive regulation of neuroblast proliferation	2	1.00	0.88	9.63	501.00
+GO:0021795	cerebral cortex cell migration	2	0.77	0.73	9.22	22.93
+GO:0002282	microglial cell activation involved in immune response	2	1.00	0.85	9.63	113.00
+GO:1900272	negative regulation of long-term synaptic potentiation	1	1.00	0.90	9.63	54.24
+GO:1902309	negative regulation of peptidyl-serine dephosphorylation	1	1.00	0.92	9.63	774.51

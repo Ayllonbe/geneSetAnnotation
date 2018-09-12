@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009966	regulation of signal transduction	293	0.33	0.45	5.35	37.59
+GO:0032879	regulation of localization	285	0.27	0.33	4.05	7.96
+GO:0010033	response to organic substance	245	0.35	0.37	4.75	9.28
+GO:0051252	regulation of RNA metabolic process	218	0.37	0.51	6.06	70.58
+GO:0042127	regulation of cell proliferation	179	0.45	0.48	6.03	12.04
+GO:0006887	exocytosis	147	0.67	0.66	8.38	37.08
+GO:0016070	RNA metabolic process	139	0.39	0.52	6.45	112.25
+GO:0051336	regulation of hydrolase activity	103	0.46	0.48	6.24	9.25
+GO:0050900	leukocyte migration	99	0.60	0.59	8.02	26.94
+GO:0043066	negative regulation of apoptotic process	96	0.56	0.63	7.79	81.07
+GO:0022414	reproductive process	76	0.35	0.17	3.17	3.37
+GO:0006508	proteolysis	52	0.55	0.57	7.34	47.86
+GO:0007010	cytoskeleton organization	52	0.52	0.51	6.76	18.35
+GO:0051052	regulation of DNA metabolic process	46	0.47	0.56	7.17	70.58
+GO:0032989	cellular component morphogenesis	45	0.56	0.48	7.27	42.57
+GO:0051259	protein complex oligomerization	41	0.78	0.68	9.09	40.42
+GO:0007162	negative regulation of cell adhesion	37	0.57	0.57	7.40	38.27
+GO:0048598	embryonic morphogenesis	28	0.54	0.47	6.15	10.94
+GO:0001666	response to hypoxia	26	0.81	0.70	9.12	21.16
+GO:0030855	epithelial cell differentiation	25	0.55	0.52	6.96	21.07
+GO:0008360	regulation of cell shape	19	0.68	0.66	8.69	41.78
+GO:0007043	cell-cell junction assembly	14	0.75	0.67	8.82	53.94
+GO:0007416	synapse assembly	11	0.84	0.67	9.12	35.85
+GO:1902476	chloride transmembrane transport	11	1.00	0.88	9.63	110.52
+GO:0060429	epithelium development	11	0.55	0.53	6.89	15.06
+GO:0048863	stem cell differentiation	10	0.70	0.60	8.24	21.07
+GO:0072659	protein localization to plasma membrane	10	0.79	0.72	9.26	65.43
+GO:0008543	fibroblast growth factor receptor signaling pathway	9	0.71	0.73	8.57	31.00
+GO:0035264	multicellular organism growth	6	1.00	0.70	9.63	22.58
+GO:0045687	positive regulation of glial cell differentiation	4	0.83	0.81	9.46	403.77
+GO:0001766	membrane raft polarization	3	0.93	0.79	9.54	30.90
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0043484	regulation of RNA splicing	3	0.77	0.73	9.34	89.96
+GO:0048699	generation of neurons	2	0.93	0.76	9.47	21.76
+GO:0045617	negative regulation of keratinocyte differentiation	2	0.93	0.84	9.58	361.10
+GO:0023019	signal transduction involved in regulation of gene expression	2	1.00	0.79	9.63	23.17
+GO:0032463	negative regulation of protein homooligomerization	1	0.93	0.84	9.56	148.87
+GO:0071285	cellular response to lithium ion	1	1.00	0.82	9.63	77.81
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37

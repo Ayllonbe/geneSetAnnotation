@@ -1,0 +1,83 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	822	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	780	0.36	0.43	5.06	19.43
+GO:0048583	regulation of response to stimulus	750	0.25	0.32	3.72	7.96
+GO:0031323	regulation of cellular metabolic process	741	0.22	0.36	4.01	22.77
+GO:0009966	regulation of signal transduction	536	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	462	0.35	0.30	4.36	13.53
+GO:0019538	protein metabolic process	461	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	406	0.40	0.60	6.84	245.35
+GO:0016192	vesicle-mediated transport	315	0.52	0.51	6.57	10.99
+GO:0009967	positive regulation of signal transduction	311	0.44	0.54	6.71	140.23
+GO:0010941	regulation of cell death	303	0.43	0.47	6.10	12.04
+GO:0010033	response to organic substance	412	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	302	0.39	0.39	5.14	9.28
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0030154	cell differentiation	287	0.39	0.39	5.18	16.68
+GO:0010628	positive regulation of gene expression	286	0.47	0.56	6.67	58.80
+GO:0065003	protein-containing complex assembly	215	0.45	0.48	6.06	36.47
+GO:0045055	regulated exocytosis	214	0.69	0.69	8.57	38.47
+GO:0033554	cellular response to stress	207	0.44	0.42	6.05	25.47
+GO:0030334	regulation of cell migration	202	0.48	0.56	7.11	36.74
+GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	196	0.56	0.63	7.79	81.07
+GO:0002274	myeloid leukocyte activation	195	0.68	0.59	8.67	18.06
+GO:0043408	regulation of MAPK cascade	152	0.60	0.70	8.65	157.04
+GO:0045087	innate immune response	149	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	148	0.60	0.59	8.02	26.94
+GO:0045780	positive regulation of bone resorption	8	1.00	0.85	9.63	82.90
+GO:0001819	positive regulation of cytokine production	134	0.51	0.54	6.97	44.26
+GO:0002758	innate immune response-activating signal transduction	56	0.63	0.71	8.79	406.89
+GO:0002429	immune response-activating cell surface receptor signaling pathway	102	0.74	0.75	9.28	217.35
+GO:0045785	positive regulation of cell adhesion	128	0.58	0.54	7.23	21.97
+GO:0015031	protein transport	125	0.48	0.59	6.99	54.46
+GO:0051251	positive regulation of lymphocyte activation	118	0.58	0.64	8.19	127.58
+GO:1903980	positive regulation of microglial cell activation	4	1.00	0.88	9.63	155.50
+GO:0043269	regulation of ion transport	119	0.41	0.50	6.00	14.08
+GO:0019752	carboxylic acid metabolic process	113	0.32	0.45	5.31	42.50
+GO:0098655	cation transmembrane transport	96	0.52	0.58	7.13	43.36
+GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
+GO:0042742	defense response to bacterium	71	0.79	0.72	9.19	69.65
+GO:0071216	cellular response to biotic stimulus	68	0.63	0.51	7.77	23.86
+GO:0045637	regulation of myeloid cell differentiation	65	0.62	0.63	8.47	67.17
+GO:0050707	regulation of cytokine secretion	63	0.59	0.67	8.36	114.42
+GO:0030100	regulation of endocytosis	55	0.59	0.62	8.15	44.91
+GO:0050769	positive regulation of neurogenesis	55	0.58	0.64	8.42	270.71
+GO:0010951	negative regulation of endopeptidase activity	52	0.77	0.80	9.45	500.32
+GO:0046942	carboxylic acid transport	52	0.45	0.58	6.78	47.71
+GO:0031668	cellular response to extracellular stimulus	37	0.55	0.52	7.38	45.16
+GO:0010950	positive regulation of endopeptidase activity	33	0.74	0.79	9.42	499.33
+GO:0030193	regulation of blood coagulation	33	0.67	0.69	8.94	65.68
+GO:2000379	positive regulation of reactive oxygen species metabolic process	30	0.78	0.71	9.25	112.72
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	30	0.80	0.65	8.94	20.20
+GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
+GO:0042108	positive regulation of cytokine biosynthetic process	27	0.63	0.67	8.76	609.34
+GO:0051279	regulation of release of sequestered calcium ion into cytosol	23	0.74	0.76	9.24	148.50
+GO:0015696	ammonium transport	19	0.59	0.62	7.81	30.14
+GO:0072659	protein localization to plasma membrane	18	0.79	0.72	9.26	65.43
+GO:0043300	regulation of leukocyte degranulation	17	0.68	0.74	8.94	77.23
+GO:0006665	sphingolipid metabolic process	16	0.61	0.63	8.44	65.68
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0043388	positive regulation of DNA binding	12	0.71	0.64	8.58	32.53
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0033238	regulation of cellular amine metabolic process	11	0.53	0.56	7.48	41.10
+GO:0030889	negative regulation of B cell proliferation	10	1.00	0.90	9.63	506.34
+GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
+GO:0002292	T cell differentiation involved in immune response	8	0.76	0.73	9.26	150.84
+GO:0044130	negative regulation of growth of symbiont in host	7	1.00	0.85	9.63	102.69
+GO:0033198	response to ATP	7	0.93	0.79	9.56	115.93
+GO:0030301	cholesterol transport	7	0.78	0.74	9.00	37.85
+GO:0090314	positive regulation of protein targeting to membrane	6	0.93	0.88	9.59	497.08
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	5	0.84	0.82	9.59	500.08
+GO:0061081	positive regulation of myeloid leukocyte cytokine production involved in immune response	5	0.87	0.81	9.49	250.67
+GO:0006957	complement activation, alternative pathway	5	1.00	0.88	9.63	200.06
+GO:0035249	synaptic transmission, glutamatergic	4	1.00	0.88	9.63	25.74
+GO:0002885	positive regulation of hypersensitivity	4	0.80	0.81	9.44	636.62
+GO:2000010	positive regulation of protein localization to cell surface	4	1.00	0.85	9.63	73.71
+GO:0042308	negative regulation of protein import into nucleus	3	0.93	0.86	9.59	779.11
+GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
+GO:0072011	glomerular endothelium development	2	0.93	0.84	9.52	41.72
+GO:0010886	positive regulation of cholesterol storage	2	1.00	0.85	9.63	69.45
+GO:0060736	prostate gland growth	1	0.87	0.68	9.41	43.81
+GO:0007320	insemination	1	1.00	0.70	9.63	44.01
+GO:0070666	regulation of mast cell proliferation	1	0.89	0.77	9.34	17.30

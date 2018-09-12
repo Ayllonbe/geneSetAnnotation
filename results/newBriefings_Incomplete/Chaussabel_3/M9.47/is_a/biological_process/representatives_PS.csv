@@ -1,0 +1,43 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	252	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	252	0.12	0.26	2.47	7.96
+GO:0090304	nucleic acid metabolic process	123	0.35	0.46	5.97	111.15
+GO:1901564	organonitrogen compound metabolic process	127	0.23	0.31	3.63	19.40
+GO:0048518	positive regulation of biological process	143	0.21	0.30	3.05	7.96
+GO:0048518	positive regulation of biological process	143	0.21	0.30	3.05	7.96
+GO:0048519	negative regulation of biological process	119	0.21	0.30	3.07	7.96
+GO:0006355	regulation of transcription, DNA-templated	99	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	87	0.34	0.49	5.84	147.03
+GO:0033554	cellular response to stress	47	0.44	0.42	6.05	25.47
+GO:0051130	positive regulation of cellular component organization	44	0.42	0.50	5.95	43.84
+GO:0016310	phosphorylation	34	0.53	0.56	6.88	24.41
+GO:0007186	G-protein coupled receptor signaling pathway	17	0.55	0.57	7.20	23.17
+GO:0045087	innate immune response	11	0.68	0.59	8.16	26.47
+GO:0016055	Wnt signaling pathway	10	0.59	0.65	7.65	28.58
+GO:0050792	regulation of viral process	8	0.60	0.59	7.74	14.20
+GO:0051480	regulation of cytosolic calcium ion concentration	7	0.66	0.75	9.02	288.69
+GO:0001701	in utero embryonic development	6	1.00	0.85	9.63	22.50
+GO:0046486	glycerolipid metabolic process	5	0.56	0.57	7.56	40.66
+GO:0035264	multicellular organism growth	4	1.00	0.70	9.63	22.58
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	3	0.71	0.71	8.71	27.67
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	3	1.00	0.90	9.63	33.21
+GO:0019722	calcium-mediated signaling	3	0.72	0.71	8.71	27.81
+GO:0070098	chemokine-mediated signaling pathway	2	0.73	0.72	9.00	30.19
+GO:0007229	integrin-mediated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0001570	vasculogenesis	2	0.89	0.70	9.29	21.07
+GO:0007259	JAK-STAT cascade	2	0.93	0.82	9.51	26.43
+GO:0014886	transition between slow and fast fiber	1	1.00	0.88	9.63	30.57
+GO:0048873	homeostasis of number of cells within a tissue	1	0.89	0.77	9.38	26.75
+GO:0002548	monocyte chemotaxis	1	1.00	0.85	9.63	125.46
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	1	1.00	0.82	9.63	25.00
+GO:0050908	detection of light stimulus involved in visual perception	1	1.00	0.85	9.63	116.24
+GO:0046641	positive regulation of alpha-beta T cell proliferation	1	0.87	0.85	9.55	937.85
+GO:0001885	endothelial cell development	1	0.83	0.70	9.18	34.35
+GO:0061154	endothelial tube morphogenesis	1	0.83	0.74	9.31	48.80
+GO:0000715	nucleotide-excision repair, DNA damage recognition	1	0.93	0.76	9.47	21.24
+GO:0007194	negative regulation of adenylate cyclase activity	1	0.89	0.89	9.59	6285.12
+GO:0002407	dendritic cell chemotaxis	1	0.87	0.78	9.49	93.28
+GO:0035705	T-helper 17 cell chemotaxis	1	1.00	0.92	9.63	128.71
+GO:0060837	blood vessel endothelial cell differentiation	1	0.87	0.76	9.27	25.30
+GO:0046549	retinal cone cell development	1	1.00	0.85	9.63	36.02
+GO:0006294	nucleotide-excision repair, preincision complex assembly	1	1.00	0.85	9.63	65.90

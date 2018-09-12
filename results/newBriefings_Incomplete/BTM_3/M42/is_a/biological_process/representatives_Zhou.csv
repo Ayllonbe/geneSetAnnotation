@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050851	antigen receptor-mediated signaling pathway	72	0.87	0.83	9.53	218.74
+GO:0002376	immune system process	590	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1804	0.09	0.05	0.84	3.37
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	22	1.00	0.93	9.63	628.11
+GO:0044093	positive regulation of molecular function	346	0.43	0.41	5.23	6.77
+GO:0065008	regulation of biological quality	496	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0032237	activation of store-operated calcium channel activity	1	1.00	0.95	9.63	1441.32
+GO:0065008	regulation of biological quality	496	0.28	0.26	3.48	4.47
+GO:0050790	regulation of catalytic activity	404	0.37	0.39	4.99	6.77
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0032237	activation of store-operated calcium channel activity	1	1.00	0.95	9.63	1441.32
+GO:0009605	response to external stimulus	313	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	477	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	470	0.39	0.32	4.70	6.14
+GO:0051641	cellular localization	227	0.37	0.31	4.44	5.67
+GO:0006810	transport	647	0.28	0.34	3.95	7.46

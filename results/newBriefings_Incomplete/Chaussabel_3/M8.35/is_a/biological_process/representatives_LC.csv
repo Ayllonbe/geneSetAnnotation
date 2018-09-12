@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2703	0.08	0.04	0.98	3.37
+GO:0008152	metabolic process	2374	0.15	0.07	1.52	3.37
+GO:0009987	cellular process	3354	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	1064	0.25	0.12	2.65	3.37
+GO:0009617	response to bacterium	62	0.75	0.67	8.94	27.27
+GO:0052362	catabolism by host of symbiont protein	1	1.00	0.90	9.63	761.45
+GO:0050789	regulation of biological process	2609	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	765	0.33	0.29	4.10	4.47
+GO:0008104	protein localization	510	0.40	0.40	5.07	7.46
+GO:0006810	transport	1045	0.28	0.34	3.95	7.46

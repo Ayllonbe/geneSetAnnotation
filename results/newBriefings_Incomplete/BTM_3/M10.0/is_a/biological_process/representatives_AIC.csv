@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0001556	oocyte maturation	1	1.00	0.75	9.63	79.09
+GO:0048856	anatomical structure development	5	0.33	0.29	3.70	6.46
+GO:0009987	cellular process	39	0.09	0.05	0.84	3.37
+GO:0019538	protein metabolic process	11	0.31	0.41	4.91	44.77
+GO:1901360	organic cyclic compound metabolic process	26	0.24	0.32	3.54	10.22
+GO:0045008	depyrimidination	1	1.00	0.95	9.63	4176.25
+GO:0019538	protein metabolic process	11	0.31	0.41	4.91	44.77
+GO:1901360	organic cyclic compound metabolic process	26	0.24	0.32	3.54	10.22
+GO:0045008	depyrimidination	1	1.00	0.95	9.63	4176.25
+GO:0044093	positive regulation of molecular function	8	0.43	0.41	5.23	6.77
+GO:0045835	negative regulation of meiotic nuclear division	1	0.72	0.74	9.27	325.60
+GO:0050789	regulation of biological process	29	0.09	0.17	1.80	4.47
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0050896	response to stimulus	19	0.25	0.12	2.65	3.37
+GO:0051179	localization	7	0.26	0.13	2.57	3.37

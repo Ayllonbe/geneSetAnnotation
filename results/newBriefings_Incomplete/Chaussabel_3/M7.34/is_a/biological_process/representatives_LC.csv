@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6052	0.00	0.00	0.00	0.00
+GO:0051098	regulation of binding	159	0.50	0.45	6.36	6.77
+GO:0007595	lactation	21	1.00	0.82	9.63	25.96
+GO:0001916	positive regulation of T cell mediated cytotoxicity	14	0.87	0.83	9.52	365.14
+GO:0050789	regulation of biological process	4172	0.09	0.17	1.80	4.47
+GO:0008104	protein localization	826	0.40	0.40	5.07	7.46
+GO:0006810	transport	1642	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	1094	0.22	0.11	1.89	3.37
+GO:0007610	behavior	86	0.48	0.24	4.72	3.37
+GO:0048002	antigen processing and presentation of peptide antigen	81	0.70	0.55	8.09	8.95
+GO:0046718	viral entry into host cell	41	0.77	0.73	8.94	28.37

@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	819	0.24	0.37	3.90	23.85
+GO:0061052	negative regulation of cell growth involved in cardiac muscle cell development	1	1.00	0.92	9.63	1870.60
+GO:0050896	response to stimulus	741	0.25	0.12	2.65	3.37
+GO:0006810	transport	605	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	534	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	528	0.43	0.51	5.91	23.17
+GO:0048255	mRNA stabilization	6	0.89	0.86	9.58	1968.72
+GO:0031325	positive regulation of cellular metabolic process	494	0.33	0.46	5.39	79.98
+GO:0048255	mRNA stabilization	6	0.89	0.86	9.58	1968.72
+GO:0031325	positive regulation of cellular metabolic process	494	0.33	0.46	5.39	79.98
+GO:0002682	regulation of immune system process	434	0.32	0.36	4.60	7.96
+GO:0042127	regulation of cell proliferation	335	0.45	0.48	6.03	12.04
+GO:0002252	immune effector process	299	0.52	0.39	5.95	6.31
+GO:0035556	intracellular signal transduction	284	0.51	0.55	6.92	23.17
+GO:0006996	organelle organization	242	0.39	0.39	5.17	14.95
+GO:0006811	ion transport	210	0.38	0.44	5.19	10.99
+GO:0051050	positive regulation of transport	197	0.42	0.50	5.84	25.90
+GO:0016477	cell migration	195	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	189	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	180	0.40	0.45	5.78	11.79
+GO:0019725	cellular homeostasis	168	0.53	0.52	6.93	17.82
+GO:0060586	multicellular organismal iron ion homeostasis	3	1.00	0.92	9.63	58.33
+GO:0009653	anatomical structure morphogenesis	158	0.36	0.31	4.09	6.46
+GO:0006468	protein phosphorylation	147	0.57	0.64	8.18	177.76
+GO:0030335	positive regulation of cell migration	138	0.58	0.64	8.22	157.26
+GO:0022900	electron transport chain	46	0.71	0.61	8.48	29.76
+GO:0032091	negative regulation of protein binding	23	0.70	0.64	8.48	32.72
+GO:0032869	cellular response to insulin stimulus	7	1.00	0.88	9.63	462.70
+GO:0045342	MHC class II biosynthetic process	1	1.00	0.79	9.63	39.16

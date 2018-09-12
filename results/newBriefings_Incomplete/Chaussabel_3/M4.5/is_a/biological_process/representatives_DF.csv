@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1874	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	1710	0.24	0.37	3.90	23.93
+GO:0051252	regulation of RNA metabolic process	1504	0.37	0.51	6.06	70.58
+GO:0032774	RNA biosynthetic process	986	0.53	0.62	8.04	473.34
+GO:0006259	DNA metabolic process	346	0.45	0.55	7.12	145.26
+GO:0006464	cellular protein modification process	1204	0.34	0.49	5.84	147.03
+GO:0034645	cellular macromolecule biosynthetic process	1158	0.47	0.53	6.91	102.76
+GO:0007166	cell surface receptor signaling pathway	814	0.43	0.51	5.91	23.17
+GO:0010629	negative regulation of gene expression	681	0.47	0.56	6.74	59.05
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	678	0.44	0.55	6.91	183.64
+GO:0046907	intracellular transport	653	0.46	0.48	6.38	29.65
+GO:0033554	cellular response to stress	646	0.44	0.42	6.05	25.47
+GO:0015031	protein transport	576	0.48	0.59	6.99	54.46
+GO:0034622	cellular protein-containing complex assembly	363	0.48	0.53	6.52	40.42
+GO:0051259	protein complex oligomerization	202	0.78	0.68	9.09	40.42
+GO:0006508	proteolysis	498	0.55	0.57	7.34	47.86
+GO:0034613	cellular protein localization	402	0.45	0.48	6.33	26.83
+GO:0042327	positive regulation of phosphorylation	365	0.56	0.66	8.02	180.93
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	29	0.68	0.71	8.88	231.14
+GO:0006396	RNA processing	335	0.49	0.60	7.48	115.08
+GO:0000122	negative regulation of transcription by RNA polymerase II	338	0.61	0.74	8.79	1836.95
+GO:0080135	regulation of cellular response to stress	259	0.46	0.52	6.64	26.18
+GO:0043312	neutrophil degranulation	236	1.00	0.90	9.63	132.80
+GO:0045787	positive regulation of cell cycle	178	0.53	0.55	7.23	42.18
+GO:0048513	animal organ development	163	0.50	0.45	5.88	11.73
+GO:0000226	microtubule cytoskeleton organization	156	0.58	0.58	7.66	30.31
+GO:0071417	cellular response to organonitrogen compound	155	0.53	0.56	7.37	128.53
+GO:0006091	generation of precursor metabolites and energy	144	0.53	0.46	6.54	17.52
+GO:0009259	ribonucleotide metabolic process	121	0.52	0.63	8.00	247.77
+GO:0032147	activation of protein kinase activity	115	0.68	0.77	9.16	1096.87
+GO:0071824	protein-DNA complex subunit organization	113	0.61	0.55	7.52	17.51
+GO:0006401	RNA catabolic process	106	0.59	0.65	8.78	532.61
+GO:0030855	epithelial cell differentiation	96	0.55	0.52	6.96	21.07
+GO:0060271	cilium assembly	81	0.87	0.76	9.41	137.68
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	81	0.74	0.74	8.99	58.93
+GO:0001701	in utero embryonic development	73	1.00	0.85	9.63	22.50
+GO:0000086	G2/M transition of mitotic cell cycle	67	1.00	0.79	9.63	43.45
+GO:0030178	negative regulation of Wnt signaling pathway	53	0.68	0.69	8.78	188.92
+GO:0030595	leukocyte chemotaxis	50	0.69	0.67	8.77	62.06
+GO:0045471	response to ethanol	47	0.93	0.76	9.52	69.73
+GO:0033559	unsaturated fatty acid metabolic process	39	0.66	0.71	8.83	93.73
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	39	0.83	0.85	9.50	3778.55
+GO:0097711	ciliary basal body-plasma membrane docking	38	1.00	0.79	9.63	21.39
+GO:0000281	mitotic cytokinesis	37	0.93	0.76	9.47	28.62
+GO:0060760	positive regulation of response to cytokine stimulus	27	0.70	0.64	8.44	40.71
+GO:0007286	spermatid development	23	1.00	0.79	9.63	72.78
+GO:0045540	regulation of cholesterol biosynthetic process	23	0.89	0.84	9.49	116.99
+GO:0045454	cell redox homeostasis	22	1.00	0.79	9.63	31.94
+GO:2000059	negative regulation of ubiquitin-dependent protein catabolic process	22	0.83	0.83	9.51	1664.75
+GO:0006986	response to unfolded protein	21	0.87	0.72	9.34	23.96
+GO:0051085	chaperone cofactor-dependent protein refolding	18	1.00	0.79	9.63	21.14
+GO:0000070	mitotic sister chromatid segregation	18	1.00	0.82	9.63	56.84
+GO:0007035	vacuolar acidification	12	0.93	0.91	9.58	182.54
+GO:0060628	regulation of ER to Golgi vesicle-mediated transport	8	0.81	0.73	9.26	59.76
+GO:1901798	positive regulation of signal transduction by p53 class mediator	8	0.83	0.79	9.47	239.11
+GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	8	1.00	0.93	9.63	2131.99
+GO:1904667	negative regulation of ubiquitin protein ligase activity	5	1.00	0.95	9.63	755.45
+GO:0016476	regulation of embryonic cell shape	2	0.93	0.82	9.55	74.13
+GO:1902857	positive regulation of non-motile cilium assembly	2	1.00	0.92	9.63	454.95
+GO:0033488	cholesterol biosynthetic process via 24,25-dihydrolanosterol	1	1.00	0.88	9.63	431.46

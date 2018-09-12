@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7805	0.00	0.00	0.00	0.00
+GO:0007175	negative regulation of epidermal growth factor-activated receptor activity	11	1.00	0.95	9.63	2977.47
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	8	0.89	0.80	9.45	48.00
+GO:0050789	regulation of biological process	5355	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1538	0.33	0.29	4.10	4.47
+GO:0051179	localization	2428	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	422	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	1230	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	1390	0.39	0.32	4.70	6.14

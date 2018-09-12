@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043318	negative regulation of cytotoxic T cell degranulation	1	1.00	0.93	9.63	1135.38
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	1	1.00	0.95	9.63	292.09
+GO:0050789	regulation of biological process	122	0.09	0.17	1.80	4.47
+GO:0090179	planar cell polarity pathway involved in neural tube closure	1	1.00	0.92	9.63	275.51
+GO:0050896	response to stimulus	63	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	31	0.38	0.19	3.93	3.37
+GO:0007266	Rho protein signal transduction	4	0.93	0.84	9.52	29.61
+GO:0006898	receptor-mediated endocytosis	3	0.68	0.66	8.48	28.44
+GO:0002224	toll-like receptor signaling pathway	2	0.68	0.77	9.04	409.66
+GO:0072540	T-helper 17 cell lineage commitment	1	1.00	0.88	9.63	46.26
+GO:0001942	hair follicle development	1	1.00	0.75	9.63	22.36
+GO:0090251	protein localization involved in establishment of planar polarity	1	1.00	0.79	9.63	29.83

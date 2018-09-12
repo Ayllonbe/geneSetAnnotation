@@ -1,0 +1,63 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	2200	0.35	0.46	5.97	111.15
+GO:0009225	nucleotide-sugar metabolic process	28	0.62	0.63	8.62	123.38
+GO:0007165	signal transduction	2001	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	1714	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1577	0.33	0.45	5.35	37.59
+GO:0006357	regulation of transcription by RNA polymerase II	1354	0.44	0.63	7.11	248.57
+GO:0010628	positive regulation of gene expression	1022	0.47	0.56	6.67	58.80
+GO:0033554	cellular response to stress	937	0.44	0.42	6.05	25.47
+GO:0070887	cellular response to chemical stimulus	881	0.40	0.40	5.31	25.21
+GO:0001932	regulation of protein phosphorylation	754	0.50	0.62	7.64	109.03
+GO:0071310	cellular response to organic substance	709	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	684	0.39	0.39	5.18	16.68
+GO:0031401	positive regulation of protein modification process	637	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	635	0.44	0.54	6.68	140.65
+GO:0051248	negative regulation of protein metabolic process	633	0.45	0.55	6.75	129.53
+GO:0034613	cellular protein localization	627	0.45	0.48	6.33	26.83
+GO:0043066	negative regulation of apoptotic process	516	0.56	0.63	7.79	81.07
+GO:0034622	cellular protein-containing complex assembly	508	0.48	0.53	6.52	40.42
+GO:2000145	regulation of cell motility	439	0.47	0.52	6.88	34.54
+GO:0008284	positive regulation of cell proliferation	437	0.56	0.57	7.27	43.45
+GO:0010564	regulation of cell cycle process	428	0.42	0.50	6.22	14.24
+GO:1903047	mitotic cell cycle process	391	0.50	0.45	5.87	11.32
+GO:0043312	neutrophil degranulation	385	1.00	0.90	9.63	132.80
+GO:0009725	response to hormone	344	0.53	0.51	7.03	21.86
+GO:0045664	regulation of neuron differentiation	279	0.51	0.60	7.72	62.26
+GO:0001933	negative regulation of protein phosphorylation	249	0.61	0.70	8.76	664.69
+GO:0010498	proteasomal protein catabolic process	245	0.73	0.72	9.08	189.71
+GO:0006605	protein targeting	239	0.72	0.76	9.18	93.44
+GO:0071417	cellular response to organonitrogen compound	220	0.53	0.56	7.37	128.53
+GO:0043547	positive regulation of GTPase activity	209	0.93	0.79	9.52	49.34
+GO:0006631	fatty acid metabolic process	191	0.54	0.62	7.85	91.02
+GO:0001666	response to hypoxia	155	0.81	0.70	9.12	21.16
+GO:0071478	cellular response to radiation	101	0.67	0.63	8.53	36.92
+GO:0051170	import into nucleus	78	0.74	0.72	8.94	33.90
+GO:0048167	regulation of synaptic plasticity	74	0.67	0.69	8.57	39.26
+GO:1900180	regulation of protein localization to nucleus	73	0.74	0.69	9.01	29.06
+GO:1902600	proton transmembrane transport	68	0.76	0.75	9.12	95.87
+GO:0032091	negative regulation of protein binding	65	0.70	0.64	8.48	32.72
+GO:0097711	ciliary basal body-plasma membrane docking	53	1.00	0.79	9.63	21.39
+GO:0090263	positive regulation of canonical Wnt signaling pathway	47	0.83	0.79	9.42	236.53
+GO:0043525	positive regulation of neuron apoptotic process	37	0.84	0.80	9.39	179.36
+GO:0034605	cellular response to heat	34	0.84	0.71	9.26	50.43
+GO:0060964	regulation of gene silencing by miRNA	33	0.74	0.74	9.16	63.20
+GO:0032480	negative regulation of type I interferon production	32	0.80	0.72	9.19	65.25
+GO:0051402	neuron apoptotic process	28	0.83	0.70	9.02	23.44
+GO:0051085	chaperone cofactor-dependent protein refolding	24	1.00	0.79	9.63	21.14
+GO:0042149	cellular response to glucose starvation	24	0.89	0.80	9.50	115.90
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	19	1.00	0.92	9.63	990.06
+GO:0045671	negative regulation of osteoclast differentiation	18	0.93	0.86	9.59	842.53
+GO:0042407	cristae formation	16	1.00	0.85	9.63	41.99
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	12	1.00	0.88	9.63	500.32
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	12	1.00	0.82	9.63	80.91
+GO:0042220	response to cocaine	11	0.93	0.79	9.55	106.25
+GO:0009312	oligosaccharide biosynthetic process	11	0.70	0.64	8.61	68.90
+GO:0042776	mitochondrial ATP synthesis coupled proton transport	10	1.00	0.96	9.63	10144.92
+GO:0007141	male meiosis I	9	1.00	0.88	9.63	140.07
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	8	0.89	0.80	9.45	48.00
+GO:0046323	glucose import	6	0.89	0.86	9.46	38.21
+GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	6	0.89	0.86	9.57	1245.28
+GO:0061051	positive regulation of cell growth involved in cardiac muscle cell development	3	1.00	0.92	9.63	1867.06
+GO:0060741	prostate gland stromal morphogenesis	1	1.00	0.70	9.63	30.55
+GO:0097501	stress response to metal ion	1	0.84	0.71	9.12	25.13

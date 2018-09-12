@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1630	0.00	0.00	0.00	0.00
+GO:0060298	positive regulation of sarcomere organization	1	1.00	0.92	9.63	726.92
+GO:0065008	regulation of biological quality	400	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0050789	regulation of biological process	1195	0.09	0.17	1.80	4.47
+GO:0060298	positive regulation of sarcomere organization	1	1.00	0.92	9.63	726.92
+GO:0065008	regulation of biological quality	400	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0050789	regulation of biological process	1195	0.09	0.17	1.80	4.47
+GO:0055114	oxidation-reduction process	63	0.50	0.38	5.51	6.41
+GO:0071704	organic substance metabolic process	786	0.15	0.20	2.26	6.41
+GO:0055114	oxidation-reduction process	63	0.50	0.38	5.51	6.41
+GO:0044238	primary metabolic process	737	0.19	0.22	2.60	6.41
+GO:0006810	transport	536	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	432	0.22	0.11	1.89	3.37
+GO:0001666	response to hypoxia	51	0.81	0.70	9.12	21.16
+GO:0042221	response to chemical	391	0.32	0.29	4.12	6.14
+GO:0010243	response to organonitrogen compound	147	0.45	0.48	6.23	25.43
+GO:0030593	neutrophil chemotaxis	41	1.00	0.90	9.63	130.30
+GO:0070098	chemokine-mediated signaling pathway	40	0.73	0.72	9.00	30.19
+GO:0019722	calcium-mediated signaling	38	0.72	0.71	8.71	27.81
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	21	0.79	0.77	9.12	28.36
+GO:0048008	platelet-derived growth factor receptor signaling pathway	7	0.78	0.76	9.19	31.00
+GO:0007274	neuromuscular synaptic transmission	4	0.93	0.84	9.52	25.74
+GO:0002042	cell migration involved in sprouting angiogenesis	4	1.00	0.90	9.63	27.17
+GO:0035767	endothelial cell chemotaxis	4	0.93	0.84	9.55	59.00
+GO:0016264	gap junction assembly	3	1.00	0.82	9.63	56.14
+GO:0014909	smooth muscle cell migration	3	0.89	0.77	9.38	22.01
+GO:0014065	phosphatidylinositol 3-kinase signaling	3	1.00	0.88	9.63	26.43
+GO:0014826	vein smooth muscle contraction	2	1.00	0.92	9.63	72.05
+GO:0048752	semicircular canal morphogenesis	1	1.00	0.75	9.63	28.50
+GO:0014824	artery smooth muscle contraction	1	0.93	0.88	9.58	71.13
+GO:0048016	inositol phosphate-mediated signaling	1	0.93	0.82	9.51	27.81
+GO:0003100	regulation of systemic arterial blood pressure by endothelin	1	1.00	0.85	9.63	25.38

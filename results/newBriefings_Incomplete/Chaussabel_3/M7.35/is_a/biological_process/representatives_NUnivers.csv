@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	2045	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	1856	0.28	0.26	3.74	11.45
+GO:0048523	negative regulation of cellular process	1848	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	1673	0.35	0.46	5.97	111.15
+GO:0006810	transport	1635	0.28	0.34	3.95	7.46
+GO:0006355	regulation of transcription, DNA-templated	1508	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1294	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1202	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	1061	0.39	0.32	4.70	6.14
+GO:0007186	G-protein coupled receptor signaling pathway	244	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	905	0.43	0.51	5.91	23.17
+GO:0051128	regulation of cellular component organization	1027	0.30	0.40	4.57	12.04
+GO:0006796	phosphate-containing compound metabolic process	853	0.36	0.43	5.28	20.85
+GO:0048869	cellular developmental process	836	0.32	0.29	4.16	13.85
+GO:0009967	positive regulation of signal transduction	661	0.44	0.54	6.71	140.23
+GO:0015031	protein transport	637	0.48	0.59	6.99	54.46
+GO:0045893	positive regulation of transcription, DNA-templated	621	0.52	0.67	8.14	1208.12
+GO:0010033	response to organic substance	812	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	561	0.39	0.39	5.14	9.28
+GO:0032940	secretion by cell	459	0.48	0.53	6.33	20.46
+GO:0019752	carboxylic acid metabolic process	397	0.32	0.45	5.31	42.50
+GO:0050778	positive regulation of immune response	326	0.46	0.52	6.76	78.39
+GO:0006366	transcription by RNA polymerase II	286	0.60	0.72	8.61	583.88
+GO:0009725	response to hormone	260	0.53	0.51	7.03	21.86
+GO:0001819	positive regulation of cytokine production	212	0.51	0.54	6.97	44.26
+GO:0071345	cellular response to cytokine stimulus	199	0.67	0.63	8.21	61.60
+GO:0098660	inorganic ion transmembrane transport	180	0.56	0.60	7.40	27.94
+GO:0050727	regulation of inflammatory response	157	0.53	0.59	7.40	31.59
+GO:0046394	carboxylic acid biosynthetic process	140	0.44	0.54	6.80	162.02
+GO:0022409	positive regulation of cell-cell adhesion	128	0.59	0.59	7.66	36.23
+GO:0001818	negative regulation of cytokine production	123	0.51	0.55	7.03	44.36
+GO:0050714	positive regulation of protein secretion	113	0.65	0.70	8.73	381.48
+GO:0010952	positive regulation of peptidase activity	95	0.71	0.75	9.38	435.08
+GO:0071219	cellular response to molecule of bacterial origin	81	0.80	0.69	9.25	59.35
+GO:0007268	chemical synaptic transmission	56	0.74	0.72	8.66	23.17
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	53	0.79	0.83	9.47	340.69
+GO:0046718	viral entry into host cell	40	0.77	0.73	8.94	28.37
+GO:0050830	defense response to Gram-positive bacterium	30	1.00	0.85	9.63	71.44
+GO:0031047	gene silencing by RNA	17	0.77	0.76	9.17	70.60
+GO:0006096	glycolytic process	16	0.74	0.82	9.54	14773.91
+GO:0006007	glucose catabolic process	15	0.76	0.73	9.16	174.24
+GO:0034394	protein localization to cell surface	10	1.00	0.79	9.63	29.83
+GO:0014047	glutamate secretion	9	0.93	0.88	9.57	161.52
+GO:0046209	nitric oxide metabolic process	8	0.89	0.74	9.47	82.70
+GO:0006000	fructose metabolic process	8	0.80	0.72	9.07	34.68
+GO:0032930	positive regulation of superoxide anion generation	8	1.00	0.88	9.63	144.58
+GO:0001774	microglial cell activation	8	0.93	0.79	9.51	31.20
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	8	1.00	0.85	9.63	147.29
+GO:0050765	negative regulation of phagocytosis	7	0.84	0.80	9.50	175.42
+GO:0089718	amino acid import across plasma membrane	7	0.68	0.76	8.96	298.00
+GO:0045821	positive regulation of glycolytic process	7	0.89	0.89	9.59	4823.69
+GO:0048715	negative regulation of oligodendrocyte differentiation	6	1.00	0.92	9.63	472.52
+GO:0007141	male meiosis I	6	1.00	0.88	9.63	140.07
+GO:0048714	positive regulation of oligodendrocyte differentiation	5	1.00	0.92	9.63	471.69
+GO:0072672	neutrophil extravasation	3	1.00	0.90	9.63	63.40
+GO:0043315	positive regulation of neutrophil degranulation	3	1.00	0.93	9.63	798.77
+GO:0033133	positive regulation of glucokinase activity	3	1.00	0.93	9.63	693.13
+GO:2000391	positive regulation of neutrophil extravasation	2	1.00	0.92	9.63	703.07
+GO:0070340	detection of bacterial lipopeptide	2	0.89	0.80	9.51	155.56
+GO:0051964	negative regulation of synapse assembly	1	0.83	0.76	9.44	219.30

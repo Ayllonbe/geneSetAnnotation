@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4709	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	911	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	3604	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1024	0.33	0.29	4.10	4.47
+GO:0008104	protein localization	696	0.40	0.40	5.07	7.46
+GO:0006810	transport	1415	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	1461	0.25	0.12	2.65	3.37
+GO:0050892	intestinal absorption	9	0.81	0.66	9.18	23.07
+GO:0032502	developmental process	943	0.22	0.11	1.89	3.37
+GO:0050900	leukocyte migration	124	0.60	0.59	8.02	26.94
+GO:0048869	cellular developmental process	722	0.32	0.29	4.16	13.85
+GO:0046718	viral entry into host cell	37	0.77	0.73	8.94	28.37

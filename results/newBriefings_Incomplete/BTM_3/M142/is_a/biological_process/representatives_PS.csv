@@ -1,0 +1,43 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1489	0.09	0.17	1.80	4.47
+GO:0048523	negative regulation of cellular process	699	0.24	0.37	3.90	23.93
+GO:0006810	transport	639	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	635	0.28	0.26	3.74	11.45
+GO:0006082	organic acid metabolic process	134	0.32	0.36	4.95	37.09
+GO:1901360	organic cyclic compound metabolic process	477	0.24	0.32	3.54	10.22
+GO:0006355	regulation of transcription, DNA-templated	434	0.40	0.60	6.84	245.35
+GO:0044089	positive regulation of cellular component biogenesis	80	0.53	0.51	6.61	23.24
+GO:0051240	positive regulation of multicellular organismal process	363	0.35	0.42	4.98	23.60
+GO:0070887	cellular response to chemical stimulus	347	0.40	0.40	5.31	25.21
+GO:0030154	cell differentiation	299	0.39	0.39	5.18	16.68
+GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	33	0.87	0.88	9.56	734.49
+GO:0090183	regulation of kidney development	17	0.54	0.56	7.57	27.38
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	33	0.87	0.88	9.56	734.49
+GO:0090183	regulation of kidney development	17	0.54	0.56	7.57	27.38
+GO:0072657	protein localization to membrane	41	0.58	0.58	7.59	29.83
+GO:0043491	protein kinase B signaling	11	1.00	0.82	9.63	26.43
+GO:0071526	semaphorin-plexin signaling pathway	9	0.81	0.73	9.09	26.50
+GO:0001755	neural crest cell migration	7	0.80	0.72	9.09	22.57
+GO:0048675	axon extension	7	0.89	0.74	9.43	51.99
+GO:0001658	branching involved in ureteric bud morphogenesis	5	1.00	0.85	9.63	53.50
+GO:0140058	neuron projection arborization	4	0.84	0.80	9.42	64.61
+GO:0048714	positive regulation of oligodendrocyte differentiation	4	1.00	0.92	9.63	471.69
+GO:0051290	protein heterotetramerization	4	1.00	0.85	9.63	85.45
+GO:0099054	presynapse assembly	3	1.00	0.75	9.63	34.60
+GO:0050908	detection of light stimulus involved in visual perception	3	1.00	0.85	9.63	116.24
+GO:0097114	NMDA glutamate receptor clustering	2	1.00	0.88	9.63	45.88
+GO:0097113	AMPA glutamate receptor clustering	2	1.00	0.90	9.63	45.88
+GO:0097105	presynaptic membrane assembly	2	1.00	0.79	9.63	57.45
+GO:0097104	postsynaptic membrane assembly	2	1.00	0.79	9.63	57.45
+GO:0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis	2	0.93	0.79	9.53	100.75
+GO:0022010	central nervous system myelination	2	1.00	0.79	9.63	21.18
+GO:0072289	metanephric nephron tubule formation	1	1.00	0.85	9.63	32.06
+GO:0072162	metanephric mesenchymal cell differentiation	1	1.00	0.85	9.63	73.30
+GO:0098942	retrograde trans-synaptic signaling by trans-synaptic protein complex	1	1.00	0.85	9.63	46.63
+GO:0002072	optic cup morphogenesis involved in camera-type eye development	1	1.00	0.82	9.63	34.31
+GO:1904861	excitatory synapse assembly	1	1.00	0.79	9.63	37.24
+GO:0072221	metanephric distal convoluted tubule development	1	1.00	0.90	9.63	197.79
+GO:0072189	ureter development	1	1.00	0.75	9.63	30.21
+GO:0002087	regulation of respiratory gaseous exchange by neurological system process	1	1.00	0.82	9.63	40.36
+GO:0039003	pronephric field specification	1	1.00	0.82	9.63	42.10

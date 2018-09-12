@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	871	0.09	0.05	0.84	3.37
+GO:0043085	positive regulation of catalytic activity	134	0.48	0.49	6.15	18.32
+GO:0050789	regulation of biological process	747	0.09	0.17	1.80	4.47
+GO:0071704	organic substance metabolic process	423	0.15	0.20	2.26	6.41
+GO:0050896	response to stimulus	394	0.25	0.12	2.65	3.37
+GO:0043312	neutrophil degranulation	114	1.00	0.90	9.63	132.80
+GO:0009615	response to virus	38	0.74	0.66	8.80	27.27
+GO:0042113	B cell activation	30	0.68	0.63	8.28	19.85
+GO:0031100	animal organ regeneration	10	0.89	0.70	9.29	28.09
+GO:0001649	osteoblast differentiation	10	1.00	0.75	9.63	21.07
+GO:0046931	pore complex assembly	4	0.89	0.74	9.49	40.42
+GO:0051131	chaperone-mediated protein complex assembly	2	1.00	0.82	9.63	44.52
+GO:0070584	mitochondrion morphogenesis	2	1.00	0.79	9.63	64.70
+GO:0045041	protein import into mitochondrial intermembrane space	1	1.00	0.92	9.63	478.65

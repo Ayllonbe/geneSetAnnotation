@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	834	0.25	0.32	3.72	7.96
+GO:0048518	positive regulation of biological process	1048	0.21	0.30	3.05	7.96
+GO:0048522	positive regulation of cellular process	926	0.24	0.37	3.90	23.85
+GO:0019222	regulation of metabolic process	890	0.21	0.30	3.39	7.96
+GO:0050896	response to stimulus	832	0.25	0.12	2.65	3.37
+GO:0044260	cellular macromolecule metabolic process	707	0.28	0.39	4.44	30.44
+GO:0065009	regulation of molecular function	592	0.33	0.29	4.10	4.47
+GO:0007166	cell surface receptor signaling pathway	584	0.43	0.51	5.91	23.17
+GO:0032879	regulation of localization	525	0.27	0.33	4.05	7.96
+GO:0050793	regulation of developmental process	498	0.26	0.33	3.95	7.96
+GO:0048869	cellular developmental process	467	0.32	0.29	4.16	13.85
+GO:0044267	cellular protein metabolic process	402	0.34	0.46	5.57	80.87
+GO:0002274	myeloid leukocyte activation	215	0.68	0.59	8.67	18.06
+GO:0016477	cell migration	211	0.47	0.48	6.31	17.13
+GO:0008285	negative regulation of cell proliferation	164	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	263	0.56	0.57	7.27	43.45
+GO:0035556	intracellular signal transduction	323	0.51	0.55	6.92	23.17
+GO:0043066	negative regulation of apoptotic process	215	0.56	0.63	7.79	81.07
+GO:0010942	positive regulation of cell death	157	0.54	0.56	7.33	41.78
+GO:0009890	negative regulation of biosynthetic process	230	0.41	0.49	5.73	39.03
+GO:0032501	multicellular organismal process	215	0.33	0.16	3.12	3.37
+GO:0051726	regulation of cell cycle	205	0.41	0.45	5.89	12.04
+GO:0001817	regulation of cytokine production	201	0.40	0.45	5.78	11.79
+GO:0045779	negative regulation of bone resorption	6	1.00	0.85	9.63	83.01
+GO:0006508	proteolysis	166	0.55	0.57	7.34	47.86
+GO:0022414	reproductive process	161	0.35	0.17	3.17	3.37
+GO:0006366	transcription by RNA polymerase II	90	0.60	0.72	8.61	583.88
+GO:0043900	regulation of multi-organism process	86	0.40	0.40	5.32	7.96
+GO:0010817	regulation of hormone levels	69	0.41	0.40	5.23	8.64
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	52	0.70	0.67	8.58	26.98
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0000060	protein import into nucleus, translocation	11	1.00	0.90	9.63	93.44
+GO:0001836	release of cytochrome c from mitochondria	8	1.00	0.82	9.63	22.13
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0006094	gluconeogenesis	4	1.00	0.85	9.63	174.61
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60

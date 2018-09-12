@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	303	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	212	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	184	0.25	0.32	3.46	10.22
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	3	0.93	0.82	9.56	84.23
+GO:0006810	transport	114	0.28	0.34	3.95	7.46
+GO:0002252	immune effector process	23	0.52	0.39	5.95	6.31
+GO:0045471	response to ethanol	2	0.93	0.76	9.52	69.73
+GO:0002467	germinal center formation	1	1.00	0.79	9.63	29.46
+GO:0071707	immunoglobulin heavy chain V-D-J recombination	1	1.00	0.95	9.63	336.76

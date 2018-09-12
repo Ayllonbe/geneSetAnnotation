@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1571	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	895	0.26	0.38	4.09	10.74
+GO:0048583	regulation of response to stimulus	870	0.25	0.32	3.72	7.96
+GO:0071260	cellular response to mechanical stimulus	21	1.00	0.79	9.63	56.12
+GO:0042221	response to chemical	510	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	529	0.39	0.32	4.70	6.14
+GO:0051179	localization	775	0.26	0.13	2.57	3.37
+GO:0007166	cell surface receptor signaling pathway	601	0.43	0.51	5.91	23.17
+GO:0019538	protein metabolic process	553	0.31	0.41	4.91	44.77
+GO:0050793	regulation of developmental process	513	0.26	0.33	3.95	7.96
+GO:2001202	negative regulation of transforming growth factor-beta secretion	2	1.00	0.92	9.63	670.94
+GO:0022607	cellular component assembly	371	0.39	0.39	5.06	14.95
+GO:0030198	extracellular matrix organization	43	0.68	0.59	8.24	16.90
+GO:0030154	cell differentiation	325	0.39	0.39	5.18	16.68
+GO:0048468	cell development	116	0.51	0.45	6.51	28.42
+GO:0008284	positive regulation of cell proliferation	274	0.56	0.57	7.27	43.45
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0009653	anatomical structure morphogenesis	171	0.36	0.31	4.09	6.46
+GO:0050900	leukocyte migration	162	0.60	0.59	8.02	26.94
+GO:0007266	Rho protein signal transduction	20	0.93	0.84	9.52	29.61
+GO:0060560	developmental growth involved in morphogenesis	16	0.60	0.50	7.06	15.00
+GO:0060739	mesenchymal-epithelial cell signaling involved in prostate gland development	1	0.93	0.76	9.49	28.89

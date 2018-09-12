@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	2268	0.09	0.17	1.80	4.47
+GO:0010564	regulation of cell cycle process	191	0.42	0.50	6.22	14.24
+GO:0051128	regulation of cellular component organization	588	0.30	0.40	4.57	12.04
+GO:0031324	negative regulation of cellular metabolic process	582	0.34	0.46	5.46	80.35
+GO:0006351	transcription, DNA-templated	538	0.57	0.68	8.45	581.39
+GO:0051641	cellular localization	537	0.37	0.31	4.44	5.67
+GO:0006996	organelle organization	507	0.39	0.39	5.17	14.95
+GO:0010628	positive regulation of gene expression	432	0.47	0.56	6.67	58.80
+GO:0035556	intracellular signal transduction	402	0.51	0.55	6.92	23.17
+GO:0033554	cellular response to stress	395	0.44	0.42	6.05	25.47
+GO:0070887	cellular response to chemical stimulus	379	0.40	0.40	5.31	25.21
+GO:0042981	regulation of apoptotic process	334	0.45	0.55	6.60	16.23
+GO:0051726	regulation of cell cycle	273	0.41	0.45	5.89	12.04
+GO:0006468	protein phosphorylation	232	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	202	0.45	0.55	7.12	145.26
+GO:0034622	cellular protein-containing complex assembly	193	0.48	0.53	6.52	40.42
+GO:0030334	regulation of cell migration	188	0.48	0.56	7.11	36.74
+GO:0008284	positive regulation of cell proliferation	187	0.56	0.57	7.27	43.45
+GO:0045087	innate immune response	118	0.68	0.59	8.16	26.47
+GO:0003006	developmental process involved in reproduction	113	0.43	0.34	5.07	14.49
+GO:0008380	RNA splicing	86	0.72	0.74	9.18	117.48
+GO:0120031	plasma membrane bounded cell projection assembly	54	0.69	0.64	8.45	55.86
+GO:0023052	signaling	50	0.53	0.26	5.25	3.37
+GO:0000086	G2/M transition of mitotic cell cycle	38	1.00	0.79	9.63	43.45
+GO:0035023	regulation of Rho protein signal transduction	34	0.84	0.82	9.32	48.76
+GO:0045069	regulation of viral genome replication	29	0.78	0.74	9.09	18.47
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	24	0.93	0.88	9.60	778.67
+GO:0048024	regulation of mRNA splicing, via spliceosome	20	0.81	0.80	9.45	184.42
+GO:0035264	multicellular organism growth	18	1.00	0.70	9.63	22.58
+GO:2001022	positive regulation of response to DNA damage stimulus	18	0.70	0.70	8.89	86.91
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0035128	post-embryonic forelimb morphogenesis	1	1.00	0.82	9.63	58.94
+GO:1901580	regulation of telomeric RNA transcription from RNA pol II promoter	1	0.89	0.88	9.53	252.65

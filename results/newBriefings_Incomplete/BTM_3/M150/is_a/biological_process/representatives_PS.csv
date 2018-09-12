@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	752	0.25	0.32	3.72	7.96
+GO:0048523	negative regulation of cellular process	668	0.24	0.37	3.90	23.93
+GO:0006417	regulation of translation	34	0.52	0.61	8.02	212.82
+GO:0006355	regulation of transcription, DNA-templated	409	0.40	0.60	6.84	245.35
+GO:0006139	nucleobase-containing compound metabolic process	404	0.29	0.40	5.40	96.28
+GO:2000026	regulation of multicellular organismal development	366	0.29	0.39	4.73	23.09
+GO:0070887	cellular response to chemical stimulus	332	0.40	0.40	5.31	25.21
+GO:0042981	regulation of apoptotic process	286	0.45	0.55	6.60	16.23
+GO:0034645	cellular macromolecule biosynthetic process	251	0.47	0.53	6.91	102.76
+GO:0051336	regulation of hydrolase activity	221	0.46	0.48	6.24	9.25
+GO:0033554	cellular response to stress	209	0.44	0.42	6.05	25.47
+GO:0045087	innate immune response	151	0.68	0.59	8.16	26.47
+GO:0006468	protein phosphorylation	149	0.57	0.64	8.18	177.76
+GO:0001819	positive regulation of cytokine production	135	0.51	0.54	6.97	44.26
+GO:0015031	protein transport	126	0.48	0.59	6.99	54.46
+GO:1903706	regulation of hemopoiesis	115	0.50	0.54	7.23	38.17
+GO:0009615	response to virus	84	0.74	0.66	8.80	27.27
+GO:0051224	negative regulation of protein transport	36	0.60	0.65	8.07	87.71
+GO:0051100	negative regulation of binding	32	0.62	0.56	7.57	18.50
+GO:0060333	interferon-gamma-mediated signaling pathway	27	1.00	0.85	9.63	30.19
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0060337	type I interferon signaling pathway	25	1.00	0.85	9.63	30.19
+GO:0001701	in utero embryonic development	24	1.00	0.85	9.63	22.50
+GO:0032526	response to retinoic acid	20	0.93	0.76	9.49	43.79
+GO:0045069	regulation of viral genome replication	17	0.78	0.74	9.09	18.47
+GO:0051289	protein homotetramerization	13	1.00	0.85	9.63	85.45
+GO:0033003	regulation of mast cell activation	13	0.74	0.69	9.18	27.11
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0006006	glucose metabolic process	11	0.71	0.68	8.57	34.68
+GO:0010596	negative regulation of endothelial cell migration	9	0.84	0.82	9.53	299.56
+GO:0015721	bile acid and bile salt transport	7	0.93	0.86	9.55	89.96
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	7	0.78	0.76	9.31	117.17
+GO:0008203	cholesterol metabolic process	7	0.80	0.72	9.22	82.65
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	7	0.79	0.64	8.82	10.56
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	6	0.93	0.93	9.59	413.35
+GO:1900225	regulation of NLRP3 inflammasome complex assembly	5	0.89	0.77	9.38	31.01
+GO:0019048	modulation by virus of host morphology or physiology	5	0.52	0.58	7.27	41.65
+GO:0048384	retinoic acid receptor signaling pathway	5	0.79	0.72	8.94	25.57
+GO:0006304	DNA modification	5	0.67	0.68	8.88	164.17
+GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	4	1.00	0.88	9.63	145.47
+GO:0055012	ventricular cardiac muscle cell differentiation	4	1.00	0.85	9.63	47.30
+GO:0035357	peroxisome proliferator activated receptor signaling pathway	3	1.00	0.82	9.63	25.57
+GO:0001893	maternal placenta development	3	1.00	0.75	9.63	43.25
+GO:0009972	cytidine deamination	2	1.00	0.93	9.63	2918.46
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0030683	evasion or tolerance by virus of host immune response	1	0.67	0.77	9.10	527.22
+GO:0017121	phospholipid scrambling	1	0.80	0.69	9.12	49.44
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81
+GO:0006659	phosphatidylserine biosynthetic process	1	1.00	0.88	9.63	760.20
+GO:0050689	negative regulation of defense response to virus by host	1	1.00	0.88	9.63	351.97
+GO:0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	1.00	0.85	9.63	72.45

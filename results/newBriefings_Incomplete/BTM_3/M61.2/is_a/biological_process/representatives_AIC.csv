@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0001558	regulation of cell growth	41	0.58	0.58	7.66	26.25
+GO:0007165	signal transduction	485	0.36	0.43	5.06	19.43
+GO:0031325	positive regulation of cellular metabolic process	295	0.33	0.46	5.39	79.98
+GO:0050776	regulation of immune response	177	0.38	0.44	5.64	22.45
+GO:0016477	cell migration	133	0.47	0.48	6.31	17.13
+GO:1902533	positive regulation of intracellular signal transduction	130	0.55	0.63	7.95	189.48
+GO:0001817	regulation of cytokine production	98	0.40	0.45	5.78	11.79
+GO:0045087	innate immune response	88	0.68	0.59	8.16	26.47
+GO:0006468	protein phosphorylation	78	0.57	0.64	8.18	177.76
+GO:0032496	response to lipopolysaccharide	74	0.89	0.74	9.45	64.41
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	70	0.68	0.66	8.81	76.40
+GO:1903706	regulation of hemopoiesis	63	0.50	0.54	7.23	38.17
+GO:0050870	positive regulation of T cell activation	56	0.63	0.69	8.78	216.07
+GO:0030890	positive regulation of B cell proliferation	11	1.00	0.90	9.63	506.16
+GO:0046649	lymphocyte activation	60	0.55	0.52	7.16	18.06
+GO:0051260	protein homooligomerization	34	0.89	0.77	9.41	42.03
+GO:0050715	positive regulation of cytokine secretion	26	0.69	0.74	9.07	549.48
+GO:0009150	purine ribonucleotide metabolic process	21	0.55	0.67	8.37	538.25
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	20	0.93	0.91	9.59	279.44
+GO:0050830	defense response to Gram-positive bacterium	17	1.00	0.85	9.63	71.44
+GO:0046627	negative regulation of insulin receptor signaling pathway	6	0.89	0.80	9.52	294.35
+GO:0006509	membrane protein ectodomain proteolysis	5	0.89	0.80	9.45	50.75
+GO:0007202	activation of phospholipase C activity	5	1.00	0.90	9.63	83.74
+GO:0090330	regulation of platelet aggregation	5	0.83	0.81	9.53	97.24
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	4	0.87	0.83	9.53	431.32
+GO:0070233	negative regulation of T cell apoptotic process	4	0.83	0.83	9.37	155.58
+GO:0060732	positive regulation of inositol phosphate biosynthetic process	3	0.93	0.84	9.59	800.12
+GO:2000010	positive regulation of protein localization to cell surface	3	1.00	0.85	9.63	73.71
+GO:0034260	negative regulation of GTPase activity	3	1.00	0.82	9.63	61.14
+GO:2000502	negative regulation of natural killer cell chemotaxis	2	1.00	0.93	9.63	1002.76
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0070970	interleukin-2 secretion	1	1.00	0.92	9.63	137.07
+GO:0002728	negative regulation of natural killer cell cytokine production	1	1.00	0.90	9.63	694.11

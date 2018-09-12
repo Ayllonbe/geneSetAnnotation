@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1847	0.12	0.26	2.47	7.96
+GO:0044281	small molecule metabolic process	335	0.25	0.25	3.26	6.41
+GO:0071704	organic substance metabolic process	1699	0.15	0.20	2.26	6.41
+GO:0062012	regulation of small molecule metabolic process	82	0.39	0.44	5.45	10.74
+GO:0009889	regulation of biosynthetic process	838	0.28	0.39	4.25	10.74
+GO:0080090	regulation of primary metabolic process	1158	0.24	0.37	3.95	10.74
+GO:0019637	organophosphate metabolic process	169	0.37	0.43	5.66	31.07
+GO:1901576	organic substance biosynthetic process	822	0.28	0.34	3.95	19.57
+GO:0016043	cellular component organization	862	0.28	0.26	3.74	11.45
+GO:0090304	nucleic acid metabolic process	759	0.35	0.46	5.97	111.15
+GO:0007165	signal transduction	756	0.36	0.43	5.06	19.43
+GO:0048026	positive regulation of mRNA splicing, via spliceosome	4	0.93	0.88	9.59	1178.70
+GO:0006355	regulation of transcription, DNA-templated	687	0.40	0.60	6.84	245.35
+GO:0048026	positive regulation of mRNA splicing, via spliceosome	4	0.93	0.88	9.59	1178.70
+GO:0006355	regulation of transcription, DNA-templated	687	0.40	0.60	6.84	245.35
+GO:0043933	protein-containing complex subunit organization	376	0.43	0.41	5.44	14.95
+GO:0006996	organelle organization	437	0.39	0.39	5.17	14.95
+GO:0022607	cellular component assembly	453	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	437	0.39	0.39	5.17	14.95
+GO:0044267	cellular protein metabolic process	681	0.34	0.46	5.57	80.87
+GO:0016070	RNA metabolic process	653	0.39	0.52	6.45	112.25
+GO:0009966	regulation of signal transduction	558	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	512	0.39	0.32	4.70	6.14
+GO:0032879	regulation of localization	476	0.27	0.33	4.05	7.96
+GO:0032270	positive regulation of cellular protein metabolic process	309	0.47	0.59	7.41	288.49
+GO:0032269	negative regulation of cellular protein metabolic process	225	0.47	0.59	7.45	289.39
+GO:0010033	response to organic substance	379	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	329	0.40	0.40	5.31	25.21
+GO:0007166	cell surface receptor signaling pathway	428	0.43	0.51	5.91	23.17
+GO:0008104	protein localization	392	0.40	0.40	5.07	7.46
+GO:0018400	peptidyl-proline hydroxylation to 3-hydroxy-L-proline	1	1.00	0.92	9.63	439.59
+GO:0044248	cellular catabolic process	359	0.31	0.36	4.57	26.23
+GO:0016192	vesicle-mediated transport	357	0.52	0.51	6.57	10.99
+GO:0045595	regulation of cell differentiation	301	0.34	0.42	5.25	23.33
+GO:0042127	regulation of cell proliferation	257	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	253	0.39	0.39	5.18	16.68
+GO:0042592	homeostatic process	192	0.45	0.42	5.70	8.64
+GO:0006812	cation transport	120	0.45	0.51	6.21	12.09
+GO:0006820	anion transport	80	0.42	0.50	5.80	12.09
+GO:0018193	peptidyl-amino acid modification	165	0.39	0.54	6.24	151.15
+GO:0051186	cofactor metabolic process	110	0.41	0.40	5.49	17.52
+GO:0030030	cell projection organization	105	0.53	0.46	6.62	14.95
+GO:0007154	cell communication	87	0.46	0.36	5.27	7.39
+GO:0051098	regulation of binding	71	0.50	0.45	6.36	6.77
+GO:0061025	membrane fusion	35	0.61	0.55	7.48	18.35
+GO:0048284	organelle fusion	31	0.62	0.56	7.57	18.35
+GO:0007005	mitochondrion organization	52	0.62	0.56	7.74	18.35
+GO:0048002	antigen processing and presentation of peptide antigen	50	0.70	0.55	8.09	8.95
+GO:0050658	RNA transport	48	0.64	0.67	8.39	40.09
+GO:0009755	hormone-mediated signaling pathway	33	0.65	0.62	7.99	23.17
+GO:0046718	viral entry into host cell	28	0.77	0.73	8.94	28.37
+GO:0045216	cell-cell junction organization	28	0.68	0.59	8.15	16.05
+GO:0097746	regulation of blood vessel diameter	20	0.64	0.64	8.47	38.29
+GO:0140029	exocytic process	17	0.70	0.47	7.33	7.39
+GO:0002711	positive regulation of T cell mediated immunity	16	0.74	0.75	9.27	266.28
+GO:0030326	embryonic limb morphogenesis	15	0.89	0.74	9.38	43.31
+GO:0031644	regulation of neurological system process	13	0.63	0.60	7.94	14.36
+GO:0048675	axon extension	9	0.89	0.74	9.43	51.99
+GO:0021915	neural tube development	5	1.00	0.79	9.63	33.01
+GO:0071514	genetic imprinting	4	0.84	0.71	9.51	111.95
+GO:0060509	Type I pneumocyte differentiation	3	1.00	0.82	9.63	47.35
+GO:0071283	cellular response to iron(III) ion	2	1.00	0.85	9.63	96.29
+GO:0060180	female mating behavior	2	0.80	0.69	9.22	21.24
+GO:0070895	negative regulation of transposon integration	1	1.00	0.88	9.63	435.43

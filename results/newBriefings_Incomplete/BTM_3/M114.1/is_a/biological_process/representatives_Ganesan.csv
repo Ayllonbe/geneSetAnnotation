@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1625	0.09	0.17	1.80	4.47
+GO:0071704	organic substance metabolic process	1113	0.15	0.20	2.26	6.41
+GO:0006810	transport	678	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	503	0.32	0.29	4.12	6.14
+GO:0009267	cellular response to starvation	23	0.64	0.64	8.46	112.77
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	32	1.00	0.79	9.63	42.20
+GO:0008584	male gonad development	24	1.00	0.79	9.63	50.96
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0015918	sterol transport	11	0.74	0.69	8.80	36.24
+GO:0030216	keratinocyte differentiation	11	0.89	0.77	9.38	25.59
+GO:0050482	arachidonic acid secretion	5	1.00	0.95	9.63	224.86

@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4203	0.09	0.05	0.84	3.37
+GO:0044093	positive regulation of molecular function	545	0.43	0.41	5.23	6.77
+GO:0042989	sequestering of actin monomers	5	1.00	0.95	9.63	480.51
+GO:0050789	regulation of biological process	3240	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	53	0.93	0.91	9.59	279.44
+GO:0044093	positive regulation of molecular function	545	0.43	0.41	5.23	6.77
+GO:0042989	sequestering of actin monomers	5	1.00	0.95	9.63	480.51
+GO:0050789	regulation of biological process	3240	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	53	0.93	0.91	9.59	279.44
+GO:0044249	cellular biosynthetic process	1399	0.29	0.34	4.29	26.87
+GO:0044237	cellular metabolic process	2877	0.16	0.21	2.71	13.80
+GO:0010498	proteasomal protein catabolic process	155	0.73	0.72	9.08	189.71
+GO:0050896	response to stimulus	1304	0.25	0.12	2.65	3.37
+GO:0008104	protein localization	624	0.40	0.40	5.07	7.46
+GO:0030099	myeloid cell differentiation	67	0.69	0.60	8.15	21.07
+GO:0001701	in utero embryonic development	64	1.00	0.85	9.63	22.50
+GO:0051028	mRNA transport	60	0.87	0.81	9.45	42.49
+GO:0000086	G2/M transition of mitotic cell cycle	55	1.00	0.79	9.63	43.45
+GO:0001649	osteoblast differentiation	29	1.00	0.75	9.63	21.07
+GO:0097352	autophagosome maturation	13	1.00	0.79	9.63	38.05
+GO:0001967	suckling behavior	7	1.00	0.70	9.63	23.34
+GO:0070922	small RNA loading onto RISC	4	0.87	0.78	9.37	66.60
+GO:0030423	targeting of mRNA for destruction involved in RNA interference	3	1.00	0.85	9.63	66.60
+GO:0035665	TIRAP-dependent toll-like receptor 4 signaling pathway	1	1.00	0.96	9.63	826.70

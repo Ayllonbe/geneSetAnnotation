@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051179	localization	566	0.26	0.13	2.57	3.37
+GO:0007166	cell surface receptor signaling pathway	439	0.43	0.51	5.91	23.17
+GO:0065009	regulation of molecular function	428	0.33	0.29	4.10	4.47
+GO:0001666	response to hypoxia	47	0.81	0.70	9.12	21.16
+GO:0042221	response to chemical	368	0.32	0.29	4.12	6.14
+GO:0001666	response to hypoxia	47	0.81	0.70	9.12	21.16
+GO:0042221	response to chemical	368	0.32	0.29	4.12	6.14
+GO:0045321	leukocyte activation	242	0.52	0.46	6.78	16.27
+GO:0016477	cell migration	176	0.47	0.48	6.31	17.13
+GO:0051246	regulation of protein metabolic process	349	0.34	0.46	5.46	41.09
+GO:0002682	regulation of immune system process	346	0.32	0.36	4.60	7.96
+GO:0048869	cellular developmental process	325	0.32	0.29	4.16	13.85
+GO:0051049	regulation of transport	254	0.31	0.40	4.67	10.45
+GO:0022603	regulation of anatomical structure morphogenesis	160	0.36	0.43	5.15	11.29
+GO:0001817	regulation of cytokine production	137	0.40	0.45	5.78	11.79
+GO:0010942	positive regulation of cell death	119	0.54	0.56	7.33	41.78
+GO:2000379	positive regulation of reactive oxygen species metabolic process	28	0.78	0.71	9.25	112.72
+GO:0046718	viral entry into host cell	21	0.77	0.73	8.94	28.37
+GO:0048167	regulation of synaptic plasticity	19	0.67	0.69	8.57	39.26
+GO:0035584	calcium-mediated signaling using intracellular calcium source	4	1.00	0.88	9.63	30.12
+GO:0009308	amine metabolic process	4	0.53	0.51	6.96	23.64
+GO:1905564	positive regulation of vascular endothelial cell proliferation	3	1.00	0.88	9.63	108.29
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0045963	negative regulation of dopamine metabolic process	2	0.93	0.84	9.57	288.50
+GO:1905875	negative regulation of postsynaptic density organization	1	1.00	0.88	9.63	179.14

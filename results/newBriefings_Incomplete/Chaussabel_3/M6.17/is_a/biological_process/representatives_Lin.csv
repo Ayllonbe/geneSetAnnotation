@@ -1,0 +1,98 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0062012	regulation of small molecule metabolic process	22	0.39	0.44	5.45	10.74
+GO:0080090	regulation of primary metabolic process	253	0.24	0.37	3.95	10.74
+GO:1901564	organonitrogen compound metabolic process	208	0.23	0.31	3.63	19.40
+GO:0010468	regulation of gene expression	194	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	163	0.39	0.52	6.45	112.25
+GO:0006355	regulation of transcription, DNA-templated	158	0.40	0.60	6.84	245.35
+GO:0051716	cellular response to stimulus	117	0.35	0.30	4.36	13.53
+GO:0022607	cellular component assembly	99	0.39	0.39	5.06	14.95
+GO:0046907	intracellular transport	92	0.46	0.48	6.38	29.65
+GO:0002376	immune system process	81	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	78	0.43	0.51	5.91	23.17
+GO:0045184	establishment of protein localization	72	0.46	0.48	6.14	17.87
+GO:2000026	regulation of multicellular organismal development	69	0.29	0.39	4.73	23.09
+GO:0009057	macromolecule catabolic process	65	0.48	0.49	6.53	35.57
+GO:0044093	positive regulation of molecular function	65	0.43	0.41	5.23	6.77
+GO:1902531	regulation of intracellular signal transduction	63	0.45	0.55	6.77	41.85
+GO:0010941	regulation of cell death	56	0.43	0.47	6.10	12.04
+GO:0042127	regulation of cell proliferation	55	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	50	0.53	0.56	6.88	24.41
+GO:0070647	protein modification by small protein conjugation or removal	49	0.61	0.66	8.44	151.15
+GO:0019752	carboxylic acid metabolic process	41	0.32	0.45	5.31	42.50
+GO:0006259	DNA metabolic process	40	0.45	0.55	7.12	145.26
+GO:0006259	DNA metabolic process	40	0.45	0.55	7.12	145.26
+GO:0009894	regulation of catabolic process	35	0.42	0.46	5.75	10.74
+GO:0051223	regulation of protein transport	32	0.49	0.57	7.04	29.14
+GO:0045647	negative regulation of erythrocyte differentiation	1	0.93	0.84	9.58	359.68
+GO:0002684	positive regulation of immune system process	29	0.41	0.45	5.71	22.61
+GO:0030334	regulation of cell migration	29	0.48	0.56	7.11	36.74
+GO:0030162	regulation of proteolysis	29	0.51	0.58	7.47	43.98
+GO:0044255	cellular lipid metabolic process	26	0.38	0.44	5.89	38.02
+GO:0001817	regulation of cytokine production	23	0.40	0.45	5.78	11.79
+GO:1901615	organic hydroxy compound metabolic process	21	0.38	0.39	4.93	10.22
+GO:0098662	inorganic cation transmembrane transport	20	0.58	0.64	7.91	76.35
+GO:0071345	cellular response to cytokine stimulus	18	0.67	0.63	8.21	61.60
+GO:0051052	regulation of DNA metabolic process	18	0.47	0.56	7.17	70.58
+GO:0032989	cellular component morphogenesis	17	0.56	0.48	7.27	42.57
+GO:0051098	regulation of binding	16	0.50	0.45	6.36	6.77
+GO:1901293	nucleoside phosphate biosynthetic process	16	0.51	0.60	8.21	550.34
+GO:0006790	sulfur compound metabolic process	16	0.44	0.42	5.69	17.52
+GO:0022900	electron transport chain	16	0.71	0.61	8.48	29.76
+GO:0043687	post-translational protein modification	16	0.65	0.67	8.51	151.15
+GO:0090066	regulation of anatomical structure size	15	0.53	0.46	6.45	8.64
+GO:0006367	transcription initiation from RNA polymerase II promoter	13	1.00	0.90	9.63	477.15
+GO:0002521	leukocyte differentiation	12	0.58	0.54	7.41	21.07
+GO:0030522	intracellular receptor signaling pathway	10	0.65	0.62	7.99	23.17
+GO:0030855	epithelial cell differentiation	10	0.55	0.52	6.96	21.07
+GO:0031396	regulation of protein ubiquitination	10	0.64	0.72	8.86	78.03
+GO:0007265	Ras protein signal transduction	10	0.76	0.73	8.94	27.53
+GO:0001505	regulation of neurotransmitter levels	10	0.49	0.44	5.98	8.64
+GO:0009100	glycoprotein metabolic process	9	0.62	0.60	8.38	94.72
+GO:0010469	regulation of signaling receptor activity	9	0.59	0.62	7.95	48.62
+GO:0071407	cellular response to organic cyclic compound	9	0.53	0.56	7.03	63.03
+GO:0050684	regulation of mRNA processing	9	0.71	0.73	9.20	91.75
+GO:0030307	positive regulation of cell growth	8	0.70	0.67	8.71	80.65
+GO:0030968	endoplasmic reticulum unfolded protein response	8	0.87	0.72	9.39	54.37
+GO:0016236	macroautophagy	7	0.77	0.67	8.94	39.83
+GO:1901136	carbohydrate derivative catabolic process	7	0.50	0.50	6.56	36.50
+GO:0008333	endosome to lysosome transport	7	0.84	0.74	9.37	62.68
+GO:0042752	regulation of circadian rhythm	6	0.70	0.55	8.16	7.96
+GO:0035542	regulation of SNARE complex assembly	5	0.89	0.80	9.47	81.00
+GO:0030866	cortical actin cytoskeleton organization	5	0.77	0.71	9.12	53.95
+GO:0016051	carbohydrate biosynthetic process	5	0.52	0.51	6.98	43.72
+GO:0007080	mitotic metaphase plate congression	4	1.00	0.85	9.63	61.63
+GO:0097352	autophagosome maturation	4	1.00	0.79	9.63	38.05
+GO:0071774	response to fibroblast growth factor	4	0.93	0.76	9.47	24.05
+GO:0022008	neurogenesis	3	0.87	0.68	9.29	21.07
+GO:0070932	histone H3 deacetylation	3	0.87	0.85	9.51	358.70
+GO:0045747	positive regulation of Notch signaling pathway	3	0.93	0.82	9.56	187.64
+GO:0002230	positive regulation of defense response to virus by host	3	1.00	0.88	9.63	73.08
+GO:0048821	erythrocyte development	3	0.89	0.74	9.38	33.54
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	3	0.83	0.79	9.19	31.00
+GO:0032933	SREBP signaling pathway	2	1.00	0.95	9.63	1530.99
+GO:0002260	lymphocyte homeostasis	2	0.84	0.74	9.27	20.90
+GO:0072488	ammonium transmembrane transport	2	0.78	0.74	9.19	79.76
+GO:0036258	multivesicular body assembly	2	1.00	0.85	9.63	62.72
+GO:0060100	positive regulation of phagocytosis, engulfment	2	0.93	0.86	9.58	308.81
+GO:0030593	neutrophil chemotaxis	2	1.00	0.90	9.63	130.30
+GO:0033630	positive regulation of cell adhesion mediated by integrin	2	0.93	0.76	9.49	34.62
+GO:0042149	cellular response to glucose starvation	2	0.89	0.80	9.50	115.90
+GO:0006853	carnitine shuttle	2	1.00	0.93	9.63	360.11
+GO:0031113	regulation of microtubule polymerization	2	0.80	0.80	9.43	87.93
+GO:0045903	positive regulation of translational fidelity	1	1.00	0.90	9.63	1045.02
+GO:0007216	G-protein coupled glutamate receptor signaling pathway	1	0.89	0.80	9.43	54.17
+GO:0008611	ether lipid biosynthetic process	1	1.00	0.82	9.63	256.35
+GO:1904902	ESCRT III complex assembly	1	1.00	0.82	9.63	40.42
+GO:0097250	mitochondrial respiratory chain supercomplex assembly	1	1.00	0.82	9.63	65.27
+GO:0098921	retrograde trans-synaptic signaling by endocannabinoid	1	1.00	0.88	9.63	70.50
+GO:0042128	nitrate assimilation	1	1.00	0.82	9.63	63.65
+GO:0001967	suckling behavior	1	1.00	0.70	9.63	23.34
+GO:0033567	DNA replication, Okazaki fragment processing	1	0.93	0.82	9.57	149.04
+GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	1	1.00	0.93	9.63	1252.16
+GO:0050872	white fat cell differentiation	1	0.93	0.76	9.47	21.76
+GO:0006879	cellular iron ion homeostasis	1	0.84	0.84	9.47	186.74
+GO:0000710	meiotic mismatch repair	1	0.89	0.84	9.56	210.00
+GO:0071926	endocannabinoid signaling pathway	1	0.89	0.80	9.51	26.98
+GO:0051096	positive regulation of helicase activity	1	0.89	0.77	9.52	50.03
+GO:0000735	removal of nonhomologous ends	1	0.93	0.82	9.57	149.04

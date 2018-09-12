@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	334	0.09	0.05	0.84	3.37
+GO:0044238	primary metabolic process	225	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	234	0.15	0.20	2.26	6.41
+GO:0006810	transport	126	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	95	0.25	0.12	2.65	3.37
+GO:0051130	positive regulation of cellular component organization	40	0.42	0.50	5.95	43.84
+GO:0009968	negative regulation of signal transduction	20	0.44	0.54	6.68	140.65
+GO:0001942	hair follicle development	2	1.00	0.75	9.63	22.36

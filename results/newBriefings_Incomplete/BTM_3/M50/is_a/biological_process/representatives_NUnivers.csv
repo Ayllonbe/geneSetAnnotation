@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	687	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	621	0.28	0.26	3.74	11.45
+GO:0048015	phosphatidylinositol-mediated signaling	12	0.93	0.82	9.51	26.43
+GO:0007166	cell surface receptor signaling pathway	551	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	429	0.32	0.29	4.16	13.85
+GO:0051128	regulation of cellular component organization	381	0.30	0.40	4.57	12.04
+GO:0008284	positive regulation of cell proliferation	239	0.56	0.57	7.27	43.45
+GO:0045055	regulated exocytosis	222	0.69	0.69	8.57	38.47
+GO:0009968	negative regulation of signal transduction	209	0.44	0.54	6.68	140.65
+GO:0001934	positive regulation of protein phosphorylation	206	0.58	0.69	8.60	663.11
+GO:0045087	innate immune response	160	0.68	0.59	8.16	26.47
+GO:0006468	protein phosphorylation	150	0.57	0.64	8.18	177.76
+GO:0006508	proteolysis	149	0.55	0.57	7.34	47.86
+GO:0030335	positive regulation of cell migration	140	0.58	0.64	8.22	157.26
+GO:0050727	regulation of inflammatory response	108	0.53	0.59	7.40	31.59
+GO:0046488	phosphatidylinositol metabolic process	36	0.68	0.69	8.80	147.20
+GO:0046718	viral entry into host cell	23	0.77	0.73	8.94	28.37
+GO:0031623	receptor internalization	23	0.72	0.71	9.20	64.85
+GO:0002286	T cell activation involved in immune response	23	0.70	0.67	8.89	82.05
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:0010955	negative regulation of protein processing	14	0.72	0.76	9.28	707.20
+GO:0001916	positive regulation of T cell mediated cytotoxicity	8	0.87	0.83	9.52	365.14
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0043171	peptide catabolic process	5	0.72	0.68	8.97	139.84
+GO:0009414	response to water deprivation	4	0.84	0.71	9.43	59.74
+GO:0090197	positive regulation of chemokine secretion	4	0.89	0.86	9.57	759.10
+GO:0090331	negative regulation of platelet aggregation	4	0.93	0.88	9.60	548.67
+GO:0030913	paranodal junction assembly	2	1.00	0.82	9.63	88.99
+GO:1900016	negative regulation of cytokine production involved in inflammatory response	2	1.00	0.88	9.63	227.00
+GO:2000661	positive regulation of interleukin-1-mediated signaling pathway	1	1.00	0.88	9.63	305.69
+GO:0050712	negative regulation of interleukin-1 alpha secretion	1	1.00	0.93	9.63	999.30
+GO:0036006	cellular response to macrophage colony-stimulating factor stimulus	1	1.00	0.82	9.63	81.65
+GO:0060603	mammary gland duct morphogenesis	1	1.00	0.82	9.63	32.21

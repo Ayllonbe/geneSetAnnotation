@@ -1,0 +1,74 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	395	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	375	0.35	0.46	5.97	111.15
+GO:0051252	regulation of RNA metabolic process	338	0.37	0.51	6.06	70.58
+GO:0006464	cellular protein modification process	292	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	235	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	218	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	176	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	173	0.32	0.29	4.16	13.85
+GO:0045893	positive regulation of transcription, DNA-templated	147	0.52	0.67	8.14	1208.12
+GO:0070887	cellular response to chemical stimulus	145	0.40	0.40	5.31	25.21
+GO:0031401	positive regulation of protein modification process	107	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	99	0.44	0.54	6.68	140.65
+GO:0006811	ion transport	87	0.38	0.44	5.19	10.99
+GO:0000122	negative regulation of transcription by RNA polymerase II	74	0.61	0.74	8.79	1836.95
+GO:0008284	positive regulation of cell proliferation	73	0.56	0.57	7.27	43.45
+GO:0080135	regulation of cellular response to stress	71	0.46	0.52	6.64	26.18
+GO:0006928	movement of cell or subcellular component	67	0.42	0.33	4.88	7.39
+GO:0045597	positive regulation of cell differentiation	66	0.45	0.51	6.57	82.53
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	56	0.76	0.78	9.31	348.36
+GO:0045087	innate immune response	50	0.68	0.59	8.16	26.47
+GO:0051707	response to other organism	46	0.42	0.46	6.41	24.63
+GO:0010948	negative regulation of cell cycle process	41	0.53	0.59	7.47	61.75
+GO:0098655	cation transmembrane transport	39	0.52	0.58	7.13	43.36
+GO:0048513	animal organ development	34	0.50	0.45	5.88	11.73
+GO:0071214	cellular response to abiotic stimulus	31	0.59	0.54	7.66	24.78
+GO:0006875	cellular metal ion homeostasis	28	0.59	0.67	8.36	105.84
+GO:0071363	cellular response to growth factor stimulus	25	0.77	0.67	8.94	60.39
+GO:0045732	positive regulation of protein catabolic process	18	0.70	0.70	9.03	231.05
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	17	1.00	0.93	9.63	888.12
+GO:0006906	vesicle fusion	16	0.68	0.66	8.56	63.10
+GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
+GO:0045766	positive regulation of angiogenesis	15	0.81	0.76	9.30	134.49
+GO:0016458	gene silencing	13	0.68	0.69	8.66	69.21
+GO:0071456	cellular response to hypoxia	12	1.00	0.82	9.63	103.25
+GO:0034614	cellular response to reactive oxygen species	10	0.77	0.67	9.20	144.09
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	9	0.87	0.88	9.56	734.49
+GO:0051438	regulation of ubiquitin-protein transferase activity	8	0.81	0.82	9.47	92.41
+GO:0017158	regulation of calcium ion-dependent exocytosis	8	0.68	0.74	8.73	63.44
+GO:0007589	body fluid secretion	7	0.80	0.69	9.00	24.01
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	7	1.00	0.92	9.63	990.06
+GO:1904064	positive regulation of cation transmembrane transport	7	0.60	0.68	8.21	171.07
+GO:0051085	chaperone cofactor-dependent protein refolding	6	1.00	0.79	9.63	21.14
+GO:0045071	negative regulation of viral genome replication	6	0.89	0.82	9.47	85.24
+GO:0071470	cellular response to osmotic stress	5	0.70	0.64	8.99	76.31
+GO:0032781	positive regulation of ATPase activity	5	0.75	0.70	8.78	51.42
+GO:0035435	phosphate ion transmembrane transport	5	0.89	0.82	9.49	110.11
+GO:0071320	cellular response to cAMP	4	1.00	0.85	9.63	327.37
+GO:0071549	cellular response to dexamethasone stimulus	4	1.00	0.90	9.63	704.27
+GO:0040020	regulation of meiotic nuclear division	4	0.61	0.66	8.53	66.11
+GO:0009972	cytidine deamination	3	1.00	0.93	9.63	2918.46
+GO:0003091	renal water homeostasis	3	1.00	0.85	9.63	57.14
+GO:0010762	regulation of fibroblast migration	3	0.83	0.76	9.43	40.04
+GO:0071300	cellular response to retinoic acid	3	1.00	0.82	9.63	200.60
+GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	3	0.89	0.86	9.55	176.63
+GO:0070207	protein homotrimerization	3	1.00	0.85	9.63	85.45
+GO:0002026	regulation of the force of heart contraction	2	0.72	0.71	8.76	26.87
+GO:0046326	positive regulation of glucose import	2	0.93	0.84	9.55	84.68
+GO:0006182	cGMP biosynthetic process	2	1.00	0.93	9.63	6128.11
+GO:0030500	regulation of bone mineralization	2	0.83	0.74	9.41	42.16
+GO:0006884	cell volume homeostasis	2	0.87	0.76	9.39	49.53
+GO:0060442	branching involved in prostate gland morphogenesis	2	0.93	0.79	9.54	76.11
+GO:0030950	establishment or maintenance of actin cytoskeleton polarity	1	1.00	0.82	9.63	64.11
+GO:0060743	epithelial cell maturation involved in prostate gland development	1	1.00	0.79	9.63	60.28
+GO:2000726	negative regulation of cardiac muscle cell differentiation	1	0.84	0.82	9.49	669.65
+GO:0030185	nitric oxide transport	1	1.00	0.79	9.63	43.44
+GO:0085018	maintenance of symbiont-containing vacuole by host	1	1.00	0.82	9.63	26.84
+GO:0006833	water transport	1	0.81	0.70	9.04	11.68
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	1	0.83	0.66	8.94	22.01
+GO:0035378	carbon dioxide transmembrane transport	1	1.00	0.85	9.63	75.45
+GO:0046878	positive regulation of saliva secretion	1	1.00	0.85	9.63	141.11
+GO:0060074	synapse maturation	1	1.00	0.75	9.63	25.43
+GO:0034628	'de novo' NAD biosynthetic process from aspartate	1	1.00	0.96	9.63	3848.61
+GO:0015793	glycerol transport	1	1.00	0.85	9.63	38.32

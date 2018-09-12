@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6733	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4800	0.08	0.04	0.98	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	17	1.00	0.82	9.63	33.25
+GO:0043312	neutrophil degranulation	306	1.00	0.90	9.63	132.80
+GO:0043379	memory T cell differentiation	1	1.00	0.88	9.63	160.04
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	32	1.00	0.93	9.63	628.11
+GO:0051179	localization	2091	0.26	0.13	2.57	3.37
+GO:0032501	multicellular organismal process	470	0.33	0.16	3.12	3.37
+GO:0051704	multi-organism process	458	0.29	0.15	3.12	3.37
+GO:0051259	protein complex oligomerization	240	0.78	0.68	9.09	40.42
+GO:0048608	reproductive structure development	101	0.61	0.50	7.37	31.35
+GO:0051289	protein homotetramerization	43	1.00	0.85	9.63	85.45
+GO:0007517	muscle organ development	42	0.78	0.64	8.75	27.68
+GO:0001649	osteoblast differentiation	41	1.00	0.75	9.63	21.07
+GO:0030218	erythrocyte differentiation	36	0.84	0.71	9.12	22.68
+GO:0022008	neurogenesis	25	0.87	0.68	9.29	21.07
+GO:0035914	skeletal muscle cell differentiation	20	0.87	0.68	9.29	21.07
+GO:0002062	chondrocyte differentiation	19	0.89	0.70	9.45	21.07
+GO:0030032	lamellipodium assembly	18	0.89	0.77	9.53	78.22
+GO:0055007	cardiac muscle cell differentiation	12	0.79	0.72	9.07	45.92
+GO:0021915	neural tube development	11	1.00	0.79	9.63	33.01
+GO:0034380	high-density lipoprotein particle assembly	4	1.00	0.85	9.63	106.00
+GO:0060603	mammary gland duct morphogenesis	3	1.00	0.82	9.63	32.21
+GO:0048539	bone marrow development	3	1.00	0.79	9.63	32.52
+GO:0061304	retinal blood vessel morphogenesis	2	1.00	0.79	9.63	25.97
+GO:0048339	paraxial mesoderm development	2	1.00	0.79	9.63	34.04

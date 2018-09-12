@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051973	positive regulation of telomerase activity	3	0.93	0.86	9.60	952.43
+GO:0050789	regulation of biological process	823	0.09	0.17	1.80	4.47
+GO:0051336	regulation of hydrolase activity	103	0.46	0.48	6.24	9.25
+GO:0043170	macromolecule metabolic process	387	0.25	0.32	3.46	10.22
+GO:0006810	transport	382	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	266	0.32	0.29	4.12	6.14
+GO:0030154	cell differentiation	157	0.39	0.39	5.18	16.68
+GO:0051641	cellular localization	128	0.37	0.31	4.44	5.67
+GO:0032501	multicellular organismal process	108	0.33	0.16	3.12	3.37
+GO:0050900	leukocyte migration	99	0.60	0.59	8.02	26.94
+GO:0003006	developmental process involved in reproduction	47	0.43	0.34	5.07	14.49
+GO:0030036	actin cytoskeleton organization	33	0.63	0.61	8.05	29.61
+GO:0051260	protein homooligomerization	31	0.89	0.77	9.41	42.03
+GO:0001666	response to hypoxia	26	0.81	0.70	9.12	21.16
+GO:0000902	cell morphogenesis	23	0.63	0.56	7.92	43.26
+GO:0007043	cell-cell junction assembly	14	0.75	0.67	8.82	53.94
+GO:0007416	synapse assembly	11	0.84	0.67	9.12	35.85
+GO:0051291	protein heterooligomerization	9	0.89	0.77	9.41	42.03
+GO:0008543	fibroblast growth factor receptor signaling pathway	9	0.71	0.73	8.57	31.00
+GO:0003382	epithelial cell morphogenesis	7	0.87	0.76	9.37	47.45
+GO:0001657	ureteric bud development	4	1.00	0.88	9.63	36.92
+GO:0007565	female pregnancy	4	1.00	0.70	9.63	32.81
+GO:0045687	positive regulation of glial cell differentiation	4	0.83	0.81	9.46	403.77
+GO:0048701	embryonic cranial skeleton morphogenesis	3	1.00	0.82	9.63	46.18
+GO:0070584	mitochondrion morphogenesis	3	1.00	0.79	9.63	64.70
+GO:0021915	neural tube development	3	1.00	0.79	9.63	33.01
+GO:0048699	generation of neurons	2	0.93	0.76	9.47	21.76
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37

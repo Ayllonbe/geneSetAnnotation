@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008152	metabolic process	213	0.15	0.07	1.52	3.37
+GO:0051246	regulation of protein metabolic process	51	0.34	0.46	5.46	41.09
+GO:0010468	regulation of gene expression	97	0.35	0.46	5.09	13.73
+GO:0051641	cellular localization	72	0.37	0.31	4.44	5.67
+GO:0006810	transport	104	0.28	0.34	3.95	7.46
+GO:0048519	negative regulation of biological process	92	0.21	0.30	3.07	7.96
+GO:0051239	regulation of multicellular organismal process	39	0.23	0.32	3.68	7.96
+GO:0016070	RNA metabolic process	95	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	23	0.45	0.55	7.12	145.26
+GO:0016043	cellular component organization	97	0.28	0.26	3.74	11.45
+GO:0019538	protein metabolic process	79	0.31	0.41	4.91	44.77
+GO:0042221	response to chemical	38	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	49	0.39	0.32	4.70	6.14
+GO:0033043	regulation of organelle organization	43	0.36	0.47	5.49	15.89
+GO:0031346	positive regulation of cell projection organization	8	0.62	0.63	8.02	65.03
+GO:0032879	regulation of localization	49	0.27	0.33	4.05	7.96
+GO:0032502	developmental process	48	0.22	0.11	1.89	3.37
+GO:0080134	regulation of response to stress	16	0.35	0.42	5.03	11.65
+GO:0009966	regulation of signal transduction	42	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	24	0.43	0.51	5.91	23.17
+GO:0042981	regulation of apoptotic process	22	0.45	0.55	6.60	16.23
+GO:0045787	positive regulation of cell cycle	19	0.53	0.55	7.23	42.18
+GO:0051704	multi-organism process	17	0.29	0.15	3.12	3.37
+GO:0008284	positive regulation of cell proliferation	14	0.56	0.57	7.27	43.45
+GO:0048878	chemical homeostasis	10	0.48	0.49	6.42	10.43
+GO:0016477	cell migration	8	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	7	0.55	0.57	7.20	23.17
+GO:0007268	chemical synaptic transmission	6	0.74	0.72	8.66	23.17
+GO:0030522	intracellular receptor signaling pathway	4	0.65	0.62	7.99	23.17
+GO:0032482	Rab protein signal transduction	3	1.00	0.88	9.63	29.61
+GO:0000281	mitotic cytokinesis	3	0.93	0.76	9.47	28.62
+GO:0001523	retinoid metabolic process	2	0.77	0.76	9.19	47.55
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	1	1.00	0.79	9.63	23.39
+GO:0061004	pattern specification involved in kidney development	1	0.64	0.52	7.64	10.36

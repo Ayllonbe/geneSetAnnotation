@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	487	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1510	0.09	0.05	0.84	3.37
+GO:0007165	signal transduction	697	0.36	0.43	5.06	19.43
+GO:0048583	regulation of response to stimulus	665	0.25	0.32	3.72	7.96
+GO:0016043	cellular component organization	558	0.28	0.26	3.74	11.45
+GO:0042127	regulation of cell proliferation	308	0.45	0.48	6.03	12.04
+GO:0043433	negative regulation of DNA binding transcription factor activity	26	0.81	0.84	9.47	278.01
+GO:0006357	regulation of transcription by RNA polymerase II	256	0.44	0.63	7.11	248.57
+GO:0030154	cell differentiation	254	0.39	0.39	5.18	16.68
+GO:0006796	phosphate-containing compound metabolic process	247	0.36	0.43	5.28	20.85
+GO:0032774	RNA biosynthetic process	191	0.53	0.62	8.04	473.34
+GO:0043066	negative regulation of apoptotic process	169	0.56	0.63	7.79	81.07
+GO:0048878	chemical homeostasis	166	0.48	0.49	6.42	10.43
+GO:0009653	anatomical structure morphogenesis	142	0.36	0.31	4.09	6.46
+GO:0015833	peptide transport	121	0.45	0.55	6.34	32.50
+GO:0045596	negative regulation of cell differentiation	113	0.44	0.51	6.50	82.79
+GO:0040008	regulation of growth	92	0.48	0.44	6.04	7.96
+GO:0009749	response to glucose	19	0.89	0.80	9.41	32.96
+GO:0050796	regulation of insulin secretion	18	0.83	0.81	9.53	205.48
+GO:0009267	cellular response to starvation	15	0.64	0.64	8.46	112.77
+GO:0072073	kidney epithelium development	12	0.61	0.59	7.74	18.06
+GO:0010470	regulation of gastrulation	10	0.59	0.62	7.99	45.91
+GO:0008344	adult locomotory behavior	10	0.84	0.62	9.16	24.58
+GO:0032922	circadian regulation of gene expression	6	1.00	0.82	9.63	31.18
+GO:0006591	ornithine metabolic process	3	0.77	0.76	9.13	84.28
+GO:0006182	cGMP biosynthetic process	3	1.00	0.93	9.63	6128.11
+GO:2000047	regulation of cell-cell adhesion mediated by cadherin	2	0.89	0.74	9.29	12.87
+GO:2000971	negative regulation of detection of glucose	1	1.00	0.79	9.63	39.92
+GO:0033132	negative regulation of glucokinase activity	1	1.00	0.93	9.63	694.68

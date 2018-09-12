@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1785	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	437	0.28	0.26	3.48	4.47
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	12	0.89	0.91	9.59	905.07
+GO:0050789	regulation of biological process	1315	0.09	0.17	1.80	4.47
+GO:0007165	signal transduction	724	0.36	0.43	5.06	19.43
+GO:0006958	complement activation, classical pathway	15	1.00	0.88	9.63	171.03
+GO:0050896	response to stimulus	690	0.25	0.12	2.65	3.37
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	505	0.38	0.19	3.93	3.37
+GO:0030595	leukocyte chemotaxis	65	0.69	0.67	8.77	62.06
+GO:0051260	protein homooligomerization	50	0.89	0.77	9.41	42.03
+GO:0070098	chemokine-mediated signaling pathway	41	0.73	0.72	9.00	30.19
+GO:0050853	B cell receptor signaling pathway	25	0.93	0.88	9.58	219.43
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0035590	purinergic nucleotide receptor signaling pathway	9	0.93	0.82	9.51	27.20
+GO:0001890	placenta development	8	1.00	0.75	9.63	49.87
+GO:0048041	focal adhesion assembly	6	1.00	0.88	9.63	92.53
+GO:0060856	establishment of blood-brain barrier	3	0.89	0.70	9.34	32.15

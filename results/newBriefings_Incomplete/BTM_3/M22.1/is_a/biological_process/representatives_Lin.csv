@@ -1,0 +1,58 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0042113	B cell activation	23	0.68	0.63	8.28	19.85
+GO:0000082	G1/S transition of mitotic cell cycle	17	1.00	0.79	9.63	42.75
+GO:0006260	DNA replication	17	0.73	0.72	9.27	254.20
+GO:0050871	positive regulation of B cell activation	15	0.74	0.75	9.12	160.33
+GO:0000723	telomere maintenance	14	0.73	0.72	9.29	183.02
+GO:0045930	negative regulation of mitotic cell cycle	14	0.58	0.61	7.84	61.24
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	13	0.61	0.63	8.36	112.25
+GO:0051054	positive regulation of DNA metabolic process	13	0.59	0.65	8.41	301.51
+GO:0006301	postreplication repair	12	0.83	0.79	9.50	183.05
+GO:0006283	transcription-coupled nucleotide-excision repair	12	1.00	0.90	9.63	184.44
+GO:0042769	DNA damage response, detection of DNA damage	10	0.79	0.68	9.14	39.84
+GO:0006297	nucleotide-excision repair, DNA gap filling	10	1.00	0.85	9.63	149.04
+GO:0030855	epithelial cell differentiation	9	0.55	0.52	6.96	21.07
+GO:0090329	regulation of DNA-dependent DNA replication	9	0.62	0.69	8.66	151.84
+GO:0006298	mismatch repair	8	0.83	0.79	9.50	183.05
+GO:0006268	DNA unwinding involved in DNA replication	6	0.83	0.79	9.34	24.42
+GO:0006302	double-strand break repair	6	0.76	0.75	9.32	183.05
+GO:0016567	protein ubiquitination	6	0.69	0.74	9.00	153.79
+GO:0036297	interstrand cross-link repair	6	0.89	0.82	9.54	183.05
+GO:0032355	response to estradiol	5	0.93	0.76	9.52	74.25
+GO:0045005	DNA-dependent DNA replication maintenance of fidelity	5	0.75	0.73	9.22	149.04
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	5	0.93	0.82	9.56	84.23
+GO:0008584	male gonad development	5	1.00	0.79	9.63	50.96
+GO:0007050	cell cycle arrest	5	0.81	0.73	9.29	55.62
+GO:0034644	cellular response to UV	4	0.80	0.75	9.22	66.19
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	4	0.89	0.86	9.54	264.07
+GO:0043524	negative regulation of neuron apoptotic process	4	0.79	0.77	9.25	179.63
+GO:0061982	meiosis I cell cycle process	4	0.65	0.58	7.84	23.54
+GO:0006294	nucleotide-excision repair, preincision complex assembly	4	1.00	0.85	9.63	65.90
+GO:0006284	base-excision repair	4	0.93	0.84	9.58	183.05
+GO:0071548	response to dexamethasone	3	0.93	0.84	9.57	124.89
+GO:0006271	DNA strand elongation involved in DNA replication	3	0.78	0.76	9.42	149.74
+GO:0007281	germ cell development	3	0.87	0.68	9.34	71.68
+GO:0097421	liver regeneration	3	1.00	0.82	9.63	47.22
+GO:0070192	chromosome organization involved in meiotic cell cycle	3	0.70	0.64	8.57	44.79
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:0019724	B cell mediated immunity	3	0.73	0.66	8.88	29.49
+GO:0001701	in utero embryonic development	3	1.00	0.85	9.63	22.50
+GO:0045910	negative regulation of DNA recombination	3	0.71	0.73	9.13	380.63
+GO:0006312	mitotic recombination	2	0.84	0.80	9.47	151.53
+GO:0000289	nuclear-transcribed mRNA poly(A) tail shortening	2	0.93	0.88	9.60	717.25
+GO:1902065	response to L-glutamate	2	0.93	0.79	9.56	96.09
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:0043570	maintenance of DNA repeat elements	2	0.81	0.76	9.45	170.28
+GO:1900034	regulation of cellular response to heat	2	0.87	0.76	9.27	29.43
+GO:0032077	positive regulation of deoxyribonuclease activity	2	0.89	0.82	9.56	813.64
+GO:0006290	pyrimidine dimer repair	2	0.89	0.82	9.54	183.05
+GO:0034502	protein localization to chromosome	2	0.67	0.66	8.49	32.77
+GO:0051096	positive regulation of helicase activity	2	0.89	0.77	9.52	50.03
+GO:0043060	meiotic metaphase I plate congression	1	1.00	0.88	9.63	70.37
+GO:0055089	fatty acid homeostasis	1	1.00	0.85	9.63	32.35
+GO:0051257	meiotic spindle midzone assembly	1	1.00	0.79	9.63	63.99
+GO:0000706	meiotic DNA double-strand break processing	1	0.89	0.82	9.53	173.97
+GO:0045132	meiotic chromosome segregation	1	0.80	0.65	9.09	42.96
+GO:0006119	oxidative phosphorylation	1	0.93	0.90	9.60	1310.55
+GO:0006287	base-excision repair, gap-filling	1	1.00	0.85	9.63	149.04
+GO:0090656	t-circle formation	1	1.00	0.88	9.63	168.69

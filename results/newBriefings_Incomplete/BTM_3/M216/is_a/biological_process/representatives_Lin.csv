@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006091	generation of precursor metabolites and energy	54	0.53	0.46	6.54	17.52
+GO:0006631	fatty acid metabolic process	27	0.54	0.62	7.85	91.02
+GO:0033108	mitochondrial respiratory chain complex assembly	24	0.84	0.74	9.22	44.52
+GO:1902600	proton transmembrane transport	20	0.76	0.75	9.12	95.87
+GO:0007005	mitochondrion organization	18	0.62	0.56	7.74	18.35
+GO:0006119	oxidative phosphorylation	13	0.93	0.90	9.60	1310.55
+GO:0035264	multicellular organism growth	7	1.00	0.70	9.63	22.58
+GO:0032543	mitochondrial translation	1	1.00	0.88	9.63	403.66
+GO:0010259	multicellular organism aging	1	0.93	0.72	9.47	29.18

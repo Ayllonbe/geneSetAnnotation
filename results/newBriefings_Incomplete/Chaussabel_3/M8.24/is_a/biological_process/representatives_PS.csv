@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	2379	0.25	0.32	3.46	10.22
+GO:0006464	cellular protein modification process	1005	0.34	0.49	5.84	147.03
+GO:0016043	cellular component organization	1457	0.28	0.26	3.74	11.45
+GO:0019222	regulation of metabolic process	2073	0.21	0.30	3.39	7.96
+GO:1901564	organonitrogen compound metabolic process	1662	0.23	0.31	3.63	19.40
+GO:0016043	cellular component organization	1457	0.28	0.26	3.74	11.45
+GO:0048523	negative regulation of cellular process	1439	0.24	0.37	3.90	23.93
+GO:0010468	regulation of gene expression	1431	0.35	0.46	5.09	13.73
+GO:0006810	transport	1278	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	929	0.33	0.45	5.35	37.59
+GO:0006996	organelle organization	713	0.39	0.39	5.17	14.95
+GO:0007166	cell surface receptor signaling pathway	674	0.43	0.51	5.91	23.17
+GO:0008104	protein localization	619	0.40	0.40	5.07	7.46
+GO:0051049	regulation of transport	551	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	541	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	463	0.45	0.55	6.60	16.23
+GO:0050776	regulation of immune response	336	0.38	0.44	5.64	22.45
+GO:0019752	carboxylic acid metabolic process	303	0.32	0.45	5.31	42.50
+GO:0010564	regulation of cell cycle process	268	0.42	0.50	6.22	14.24
+GO:0007186	G-protein coupled receptor signaling pathway	203	0.55	0.57	7.20	23.17
+GO:0043312	neutrophil degranulation	181	1.00	0.90	9.63	132.80
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	149	0.58	0.64	7.56	28.11
+GO:0050900	leukocyte migration	107	0.60	0.59	8.02	26.94
+GO:0006643	membrane lipid metabolic process	68	0.56	0.57	7.82	40.66
+GO:0000302	response to reactive oxygen species	67	0.71	0.60	8.78	25.34
+GO:0060326	cell chemotaxis	55	0.64	0.61	8.15	30.29
+GO:0000086	G2/M transition of mitotic cell cycle	54	1.00	0.79	9.63	43.45
+GO:0050852	T cell receptor signaling pathway	49	1.00	0.92	9.63	219.43
+GO:0000082	G1/S transition of mitotic cell cycle	47	1.00	0.79	9.63	42.75
+GO:0032092	positive regulation of protein binding	40	0.71	0.64	8.53	32.71
+GO:1990830	cellular response to leukemia inhibitory factor	35	1.00	0.82	9.63	81.65
+GO:0032482	Rab protein signal transduction	29	1.00	0.88	9.63	29.61
+GO:0048489	synaptic vesicle transport	26	0.77	0.73	9.29	108.01
+GO:0043491	protein kinase B signaling	15	1.00	0.82	9.63	26.43
+GO:0030520	intracellular estrogen receptor signaling pathway	11	1.00	0.88	9.63	54.01
+GO:0032402	melanosome transport	9	1.00	0.88	9.63	154.04
+GO:0030318	melanocyte differentiation	6	0.89	0.74	9.34	22.86
+GO:1990182	exosomal secretion	4	1.00	0.85	9.63	38.47
+GO:0043320	natural killer cell degranulation	3	1.00	0.90	9.63	133.05
+GO:0007183	SMAD protein complex assembly	3	1.00	0.82	9.63	44.52
+GO:0010848	regulation of chromatin disassembly	2	1.00	0.90	9.63	25.33
+GO:2000777	positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia	2	1.00	0.95	9.63	3780.16
+GO:0043316	cytotoxic T cell degranulation	1	1.00	0.90	9.63	134.44
+GO:0061762	CAMKK-AMPK signaling cascade	1	1.00	0.88	9.63	53.29
+GO:0035655	interleukin-18-mediated signaling pathway	1	1.00	0.85	9.63	30.19

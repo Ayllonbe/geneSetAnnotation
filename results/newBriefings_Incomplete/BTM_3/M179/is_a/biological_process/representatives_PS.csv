@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1425	0.09	0.05	0.84	3.37
+GO:0044260	cellular macromolecule metabolic process	490	0.28	0.39	4.44	30.44
+GO:0019219	regulation of nucleobase-containing compound metabolic process	390	0.33	0.45	5.50	54.14
+GO:0017148	negative regulation of translation	9	0.65	0.70	9.08	1114.67
+GO:0019219	regulation of nucleobase-containing compound metabolic process	390	0.33	0.45	5.50	54.14
+GO:0017148	negative regulation of translation	9	0.65	0.70	9.08	1114.67
+GO:0042981	regulation of apoptotic process	228	0.45	0.55	6.60	16.23
+GO:0043933	protein-containing complex subunit organization	218	0.43	0.41	5.44	14.95
+GO:0008284	positive regulation of cell proliferation	204	0.56	0.57	7.27	43.45
+GO:0034504	protein localization to nucleus	20	0.72	0.68	8.76	32.77
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0006406	mRNA export from nucleus	18	0.89	0.84	9.52	121.36
+GO:0042306	regulation of protein import into nucleus	17	0.83	0.79	9.51	189.48
+GO:0070317	negative regulation of G0 to G1 transition	11	1.00	0.85	9.63	83.03
+GO:0006605	protein targeting	11	0.72	0.76	9.18	93.44
+GO:0000060	protein import into nucleus, translocation	10	1.00	0.90	9.63	93.44
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	6	0.93	0.82	9.52	52.45
+GO:0070208	protein heterotrimerization	4	1.00	0.85	9.63	85.45
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	4	0.93	0.90	9.60	659.85
+GO:0051290	protein heterotetramerization	3	1.00	0.85	9.63	85.45
+GO:0036337	Fas signaling pathway	1	1.00	0.82	9.63	26.50
+GO:0035520	monoubiquitinated protein deubiquitination	1	0.89	0.86	9.58	204.99
+GO:0036353	histone H2A-K119 monoubiquitination	1	1.00	0.96	9.63	843.90

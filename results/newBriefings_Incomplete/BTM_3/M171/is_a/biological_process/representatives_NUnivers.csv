@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	706	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	539	0.28	0.26	3.74	11.45
+GO:0010033	response to organic substance	360	0.35	0.37	4.75	9.28
+GO:0006950	response to stress	351	0.39	0.32	4.70	6.14
+GO:0070887	cellular response to chemical stimulus	285	0.40	0.40	5.31	25.21
+GO:0030154	cell differentiation	240	0.39	0.39	5.18	16.68
+GO:0048468	cell development	78	0.51	0.45	6.51	28.42
+GO:0045595	regulation of cell differentiation	250	0.34	0.42	5.25	23.33
+GO:0035556	intracellular signal transduction	246	0.51	0.55	6.92	23.17
+GO:0032774	RNA biosynthetic process	176	0.53	0.62	8.04	473.34
+GO:0033993	response to lipid	168	0.53	0.51	6.86	13.32
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0045944	positive regulation of transcription by RNA polymerase II	142	0.55	0.71	8.36	1463.86
+GO:0008285	negative regulation of cell proliferation	128	0.56	0.57	7.31	43.61
+GO:0000122	negative regulation of transcription by RNA polymerase II	89	0.61	0.74	8.79	1836.95
+GO:0048513	animal organ development	86	0.50	0.45	5.88	11.73
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	36	0.79	0.81	9.45	779.36
+GO:0045471	response to ethanol	21	0.93	0.76	9.52	69.73
+GO:0001701	in utero embryonic development	21	1.00	0.85	9.63	22.50
+GO:0006879	cellular iron ion homeostasis	12	0.84	0.84	9.47	186.74
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	10	1.00	0.92	9.63	570.20
+GO:0010559	regulation of glycoprotein biosynthetic process	9	0.66	0.68	8.90	149.76
+GO:0008344	adult locomotory behavior	9	0.84	0.62	9.16	24.58
+GO:0006779	porphyrin-containing compound biosynthetic process	8	0.70	0.68	9.20	516.36
+GO:0046501	protoporphyrinogen IX metabolic process	7	0.87	0.76	9.49	106.31
+GO:0071549	cellular response to dexamethasone stimulus	6	1.00	0.90	9.63	704.27
+GO:0030049	muscle filament sliding	6	1.00	0.82	9.63	20.96
+GO:0045648	positive regulation of erythrocyte differentiation	6	0.93	0.84	9.58	358.80
+GO:0048873	homeostasis of number of cells within a tissue	5	0.89	0.77	9.38	26.75
+GO:0030502	negative regulation of bone mineralization	4	0.93	0.82	9.56	172.16
+GO:1903671	negative regulation of sprouting angiogenesis	3	0.87	0.83	9.46	200.37
+GO:0020027	hemoglobin metabolic process	3	0.89	0.74	9.46	80.87
+GO:0051694	pointed-end actin filament capping	2	1.00	0.96	9.63	827.59
+GO:1901799	negative regulation of proteasomal protein catabolic process	2	0.80	0.81	9.48	1665.26
+GO:2000678	negative regulation of transcription regulatory region DNA binding	2	0.87	0.76	9.34	47.57
+GO:0018160	peptidyl-pyrromethane cofactor linkage	1	1.00	0.90	9.63	311.77

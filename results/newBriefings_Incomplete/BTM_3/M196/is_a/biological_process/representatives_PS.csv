@@ -1,0 +1,94 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	314	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	974	0.09	0.17	1.80	4.47
+GO:0048522	positive regulation of cellular process	553	0.24	0.37	3.90	23.85
+GO:0030308	negative regulation of cell growth	21	0.69	0.67	8.67	80.89
+GO:0048522	positive regulation of cellular process	553	0.24	0.37	3.90	23.85
+GO:0060255	regulation of macromolecule metabolic process	498	0.26	0.38	4.09	10.74
+GO:0048523	negative regulation of cellular process	429	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	361	0.33	0.45	5.35	37.59
+GO:0010469	regulation of signaling receptor activity	79	0.59	0.62	7.95	48.62
+GO:0009967	positive regulation of signal transduction	213	0.44	0.54	6.71	140.23
+GO:0002684	positive regulation of immune system process	234	0.41	0.45	5.71	22.61
+GO:0051240	positive regulation of multicellular organismal process	221	0.35	0.42	4.98	23.60
+GO:0006464	cellular protein modification process	211	0.34	0.49	5.84	147.03
+GO:0031324	negative regulation of cellular metabolic process	209	0.34	0.46	5.46	80.35
+GO:0071310	cellular response to organic substance	200	0.44	0.47	5.95	41.66
+GO:0006357	regulation of transcription by RNA polymerase II	176	0.44	0.63	7.11	248.57
+GO:0042981	regulation of apoptotic process	171	0.45	0.55	6.60	16.23
+GO:0001934	positive regulation of protein phosphorylation	140	0.58	0.69	8.60	663.11
+GO:0033554	cellular response to stress	130	0.44	0.42	6.05	25.47
+GO:0050900	leukocyte migration	117	0.60	0.59	8.02	26.94
+GO:0006351	transcription, DNA-templated	115	0.57	0.68	8.45	581.39
+GO:0051345	positive regulation of hydrolase activity	100	0.57	0.57	7.42	32.99
+GO:0030335	positive regulation of cell migration	97	0.58	0.64	8.22	157.26
+GO:0009725	response to hormone	97	0.53	0.51	7.03	21.86
+GO:0045785	positive regulation of cell adhesion	93	0.58	0.54	7.23	21.97
+GO:0008285	negative regulation of cell proliferation	89	0.56	0.57	7.31	43.61
+GO:0050670	regulation of lymphocyte proliferation	66	0.64	0.67	8.66	47.59
+GO:0051222	positive regulation of protein transport	51	0.60	0.65	8.02	87.55
+GO:0001818	negative regulation of cytokine production	49	0.51	0.55	7.03	44.36
+GO:0045765	regulation of angiogenesis	44	0.70	0.68	8.82	44.94
+GO:0045637	regulation of myeloid cell differentiation	43	0.62	0.63	8.47	67.17
+GO:0030036	actin cytoskeleton organization	39	0.63	0.61	8.05	29.61
+GO:0030593	neutrophil chemotaxis	37	1.00	0.90	9.63	130.30
+GO:0030336	negative regulation of cell migration	36	0.58	0.64	8.21	158.04
+GO:0001666	response to hypoxia	33	0.81	0.70	9.12	21.16
+GO:0000902	cell morphogenesis	32	0.63	0.56	7.92	43.26
+GO:0002576	platelet degranulation	29	1.00	0.88	9.63	39.86
+GO:0006631	fatty acid metabolic process	28	0.54	0.62	7.85	91.02
+GO:0008016	regulation of heart contraction	25	0.57	0.61	7.59	16.15
+GO:0007229	integrin-mediated signaling pathway	22	1.00	0.82	9.63	26.50
+GO:0034614	cellular response to reactive oxygen species	19	0.77	0.67	9.20	144.09
+GO:0046718	viral entry into host cell	17	0.77	0.73	8.94	28.37
+GO:0007266	Rho protein signal transduction	16	0.93	0.84	9.52	29.61
+GO:0030193	regulation of blood coagulation	15	0.67	0.69	8.94	65.68
+GO:0097191	extrinsic apoptotic signaling pathway	15	0.83	0.74	9.22	51.06
+GO:0008584	male gonad development	15	1.00	0.79	9.63	50.96
+GO:0001649	osteoblast differentiation	14	1.00	0.75	9.63	21.07
+GO:0006888	ER to Golgi vesicle-mediated transport	12	1.00	0.82	9.63	49.13
+GO:0009749	response to glucose	12	0.89	0.80	9.41	32.96
+GO:0007179	transforming growth factor beta receptor signaling pathway	12	0.76	0.75	9.05	29.90
+GO:0051492	regulation of stress fiber assembly	12	0.89	0.86	9.49	106.76
+GO:0035987	endodermal cell differentiation	11	1.00	0.75	9.63	21.07
+GO:0009792	embryo development ending in birth or egg hatching	11	0.87	0.72	9.34	21.80
+GO:1905953	negative regulation of lipid localization	10	0.62	0.60	7.78	23.73
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	10	0.83	0.79	9.19	31.00
+GO:0048666	neuron development	8	0.67	0.58	8.09	32.15
+GO:0030032	lamellipodium assembly	7	0.89	0.77	9.53	78.22
+GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
+GO:0030326	embryonic limb morphogenesis	5	0.89	0.74	9.38	43.31
+GO:0060395	SMAD protein signal transduction	5	1.00	0.79	9.63	23.17
+GO:0030199	collagen fibril organization	5	1.00	0.79	9.63	53.96
+GO:0002578	negative regulation of antigen processing and presentation	5	0.69	0.64	8.48	38.83
+GO:0001776	leukocyte homeostasis	18	0.75	0.67	8.65	18.82
+GO:0002262	myeloid cell homeostasis	5	0.80	0.69	8.86	18.82
+GO:0001942	hair follicle development	5	1.00	0.75	9.63	22.36
+GO:0030049	muscle filament sliding	4	1.00	0.82	9.63	20.96
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	4	1.00	0.88	9.63	500.32
+GO:0060065	uterus development	4	1.00	0.75	9.63	49.87
+GO:0060317	cardiac epithelial to mesenchymal transition	4	0.80	0.72	9.01	24.76
+GO:0043277	apoptotic cell clearance	4	1.00	0.85	9.63	28.44
+GO:0060271	cilium assembly	4	0.87	0.76	9.41	137.68
+GO:0048041	focal adhesion assembly	4	1.00	0.88	9.63	92.53
+GO:0034446	substrate adhesion-dependent cell spreading	4	1.00	0.82	9.63	56.23
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	4	1.00	0.82	9.63	33.25
+GO:0042416	dopamine biosynthetic process	4	0.93	0.84	9.59	507.85
+GO:0030041	actin filament polymerization	3	0.93	0.82	9.55	66.56
+GO:0006986	response to unfolded protein	3	0.87	0.72	9.34	23.96
+GO:0048699	generation of neurons	3	0.93	0.76	9.47	21.76
+GO:0048333	mesodermal cell differentiation	3	0.83	0.66	8.94	21.07
+GO:0030823	regulation of cGMP metabolic process	3	0.76	0.78	9.39	212.56
+GO:2000826	regulation of heart morphogenesis	2	0.59	0.62	8.02	46.39
+GO:0045214	sarcomere organization	2	1.00	0.85	9.63	33.96
+GO:0048566	embryonic digestive tract development	2	0.93	0.76	9.49	33.61
+GO:0014909	smooth muscle cell migration	2	0.89	0.77	9.38	22.01
+GO:0051895	negative regulation of focal adhesion assembly	2	1.00	0.88	9.63	270.76
+GO:0003222	ventricular trabecula myocardium morphogenesis	2	0.89	0.80	9.43	28.31
+GO:0038027	apolipoprotein A-I-mediated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0038163	thrombopoietin-mediated signaling pathway	1	1.00	0.88	9.63	32.49
+GO:0032914	positive regulation of transforming growth factor beta1 production	1	0.93	0.82	9.54	85.62
+GO:0010002	cardioblast differentiation	1	0.89	0.74	9.38	46.83
+GO:0051795	positive regulation of timing of catagen	1	1.00	0.88	9.63	253.10
+GO:0031069	hair follicle morphogenesis	1	1.00	0.75	9.63	21.57
+GO:0046069	cGMP catabolic process	1	1.00	0.93	9.63	5918.16

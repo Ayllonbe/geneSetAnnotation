@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1460	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	1022	0.21	0.30	3.05	7.96
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0048522	positive regulation of cellular process	901	0.24	0.37	3.90	23.85
+GO:0002682	regulation of immune system process	488	0.32	0.36	4.60	7.96
+GO:0009966	regulation of signal transduction	583	0.33	0.45	5.35	37.59
+GO:0002682	regulation of immune system process	488	0.32	0.36	4.60	7.96
+GO:0009966	regulation of signal transduction	583	0.33	0.45	5.35	37.59
+GO:0009893	positive regulation of metabolic process	569	0.32	0.41	4.71	22.55
+GO:0042221	response to chemical	486	0.32	0.29	4.12	6.14
+GO:0006355	regulation of transcription, DNA-templated	454	0.40	0.60	6.84	245.35
+GO:0051240	positive regulation of multicellular organismal process	380	0.35	0.42	4.98	23.60
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0065003	protein-containing complex assembly	231	0.45	0.48	6.06	36.47
+GO:0045055	regulated exocytosis	231	0.69	0.69	8.57	38.47
+GO:0006955	immune response	215	0.54	0.40	6.57	12.45
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0051223	regulation of protein transport	145	0.49	0.57	7.04	29.14
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	114	0.58	0.64	7.56	28.11
+GO:0006897	endocytosis	105	0.63	0.61	8.09	26.36
+GO:0009617	response to bacterium	86	0.75	0.67	8.94	27.27
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0050852	T cell receptor signaling pathway	53	1.00	0.92	9.63	219.43
+GO:0019722	calcium-mediated signaling	44	0.72	0.71	8.71	27.81
+GO:0002690	positive regulation of leukocyte chemotaxis	44	0.75	0.77	9.33	423.36
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	41	0.80	0.65	8.94	20.20
+GO:0002286	T cell activation involved in immune response	27	0.70	0.67	8.89	82.05
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	27	0.63	0.67	8.36	49.28
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	15	0.89	0.89	9.55	412.65
+GO:0090630	activation of GTPase activity	12	1.00	0.85	9.63	49.34
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0050702	interleukin-1 beta secretion	6	1.00	0.93	9.63	137.76
+GO:2000669	negative regulation of dendritic cell apoptotic process	5	1.00	0.90	9.63	128.74
+GO:0097029	mature conventional dendritic cell differentiation	4	1.00	0.82	9.63	70.63
+GO:0019934	cGMP-mediated signaling	4	0.93	0.84	9.52	28.51
+GO:0044539	long-chain fatty acid import	4	1.00	0.93	9.63	75.03
+GO:0071726	cellular response to diacyl bacterial lipopeptide	4	1.00	0.88	9.63	168.80
+GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway	4	1.00	0.95	9.63	412.65
+GO:1990000	amyloid fibril formation	2	1.00	0.79	9.63	65.11
+GO:0010886	positive regulation of cholesterol storage	2	1.00	0.85	9.63	69.45
+GO:0002408	myeloid dendritic cell chemotaxis	2	0.93	0.84	9.56	125.06
+GO:0007263	nitric oxide mediated signal transduction	2	0.93	0.82	9.51	27.81
+GO:0097022	lymphocyte migration into lymph node	1	1.00	0.88	9.63	30.24
+GO:0030299	intestinal cholesterol absorption	1	1.00	0.88	9.63	82.41
+GO:0045065	cytotoxic T cell differentiation	1	0.93	0.82	9.55	66.99
+GO:0038115	chemokine (C-C motif) ligand 19 signaling pathway	1	0.93	0.84	9.52	32.49
+GO:0038116	chemokine (C-C motif) ligand 21 signaling pathway	1	0.93	0.84	9.52	32.49
+GO:0070508	cholesterol import	1	1.00	0.88	9.63	77.49

@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	87	0.24	0.37	3.90	23.85
+GO:0051128	regulation of cellular component organization	39	0.30	0.40	4.57	12.04
+GO:0048583	regulation of response to stimulus	64	0.25	0.32	3.72	7.96
+GO:0042127	regulation of cell proliferation	31	0.45	0.48	6.03	12.04
+GO:0044093	positive regulation of molecular function	31	0.43	0.41	5.23	6.77
+GO:0010628	positive regulation of gene expression	29	0.47	0.56	6.67	58.80
+GO:0035556	intracellular signal transduction	29	0.51	0.55	6.92	23.17
+GO:0010557	positive regulation of macromolecule biosynthetic process	28	0.45	0.55	6.62	113.59
+GO:0070887	cellular response to chemical stimulus	27	0.40	0.40	5.31	25.21
+GO:0002682	regulation of immune system process	26	0.32	0.36	4.60	7.96
+GO:0006351	transcription, DNA-templated	24	0.57	0.68	8.45	581.39
+GO:0009890	negative regulation of biosynthetic process	24	0.41	0.49	5.73	39.03
+GO:0043207	response to external biotic stimulus	23	0.41	0.40	5.91	16.64
+GO:0043067	regulation of programmed cell death	22	0.44	0.51	6.32	13.83
+GO:0006955	immune response	21	0.54	0.40	6.57	12.45
+GO:0016310	phosphorylation	21	0.53	0.56	6.88	24.41
+GO:0042113	B cell activation	13	0.68	0.63	8.28	19.85
+GO:0019221	cytokine-mediated signaling pathway	13	0.60	0.63	7.60	26.50
+GO:0009653	anatomical structure morphogenesis	13	0.36	0.31	4.09	6.46
+GO:0032956	regulation of actin cytoskeleton organization	12	0.56	0.63	7.72	34.12
+GO:0006508	proteolysis	9	0.55	0.57	7.34	47.86
+GO:0007186	G-protein coupled receptor signaling pathway	9	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	9	0.40	0.45	5.78	11.79
+GO:0000086	G2/M transition of mitotic cell cycle	8	1.00	0.79	9.63	43.45
+GO:0006366	transcription by RNA polymerase II	8	0.60	0.72	8.61	583.88
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	7	0.58	0.64	7.56	28.11
+GO:0016055	Wnt signaling pathway	7	0.59	0.65	7.65	28.58
+GO:0050900	leukocyte migration	5	0.60	0.59	8.02	26.94
+GO:0060828	regulation of canonical Wnt signaling pathway	5	0.70	0.70	8.83	44.05
+GO:0097190	apoptotic signaling pathway	5	0.70	0.64	8.53	23.17
+GO:0006898	receptor-mediated endocytosis	4	0.68	0.66	8.48	28.44
+GO:0030099	myeloid cell differentiation	4	0.69	0.60	8.15	21.07
+GO:0030336	negative regulation of cell migration	4	0.58	0.64	8.21	158.04
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	4	1.00	0.79	9.63	42.20
+GO:0050804	modulation of chemical synaptic transmission	3	0.52	0.58	7.24	27.32
+GO:0051017	actin filament bundle assembly	3	0.79	0.72	9.14	39.79
+GO:0048469	cell maturation	2	0.70	0.55	8.24	25.22
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0001782	B cell homeostasis	2	0.93	0.82	9.51	22.00
+GO:0001649	osteoblast differentiation	2	1.00	0.75	9.63	21.07
+GO:0030278	regulation of ossification	2	0.74	0.62	8.94	11.79
+GO:0002062	chondrocyte differentiation	2	0.89	0.70	9.45	21.07
+GO:0042692	muscle cell differentiation	2	0.69	0.59	8.24	21.07
+GO:0042094	interleukin-2 biosynthetic process	1	1.00	0.85	9.63	142.64
+GO:0030318	melanocyte differentiation	1	0.89	0.74	9.34	22.86
+GO:0002553	histamine secretion by mast cell	1	1.00	0.92	9.63	188.83
+GO:0072160	nephron tubule epithelial cell differentiation	1	0.87	0.76	9.31	49.62
+GO:0018298	protein-chromophore linkage	1	0.74	0.72	9.04	151.15
+GO:0030182	neuron differentiation	1	0.58	0.54	7.21	21.07
+GO:0014033	neural crest cell differentiation	1	0.87	0.72	9.27	46.51
+GO:2001257	regulation of cation channel activity	1	0.60	0.68	8.36	101.44
+GO:0035914	skeletal muscle cell differentiation	1	0.87	0.68	9.29	21.07
+GO:0090251	protein localization involved in establishment of planar polarity	1	1.00	0.79	9.63	29.83
+GO:0007517	muscle organ development	1	0.78	0.64	8.75	27.68
+GO:0048666	neuron development	1	0.67	0.58	8.09	32.15
+GO:0060267	positive regulation of respiratory burst	1	0.93	0.76	9.49	37.09
+GO:0071498	cellular response to fluid shear stress	1	0.80	0.65	9.27	39.93
+GO:0001942	hair follicle development	1	1.00	0.75	9.63	22.36

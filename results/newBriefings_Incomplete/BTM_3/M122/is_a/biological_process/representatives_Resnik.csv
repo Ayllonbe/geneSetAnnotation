@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1545	0.09	0.17	1.80	4.47
+GO:0031323	regulation of cellular metabolic process	816	0.22	0.36	4.01	22.77
+GO:0065009	regulation of molecular function	581	0.33	0.29	4.10	4.47
+GO:0051128	regulation of cellular component organization	411	0.30	0.40	4.57	12.04
+GO:1902531	regulation of intracellular signal transduction	377	0.45	0.55	6.77	41.85
+GO:0045747	positive regulation of Notch signaling pathway	8	0.93	0.82	9.56	187.64
+GO:0071310	cellular response to organic substance	313	0.44	0.47	5.95	41.66
+GO:0009725	response to hormone	155	0.53	0.51	7.03	21.86
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	254	0.56	0.57	7.27	43.45
+GO:0050776	regulation of immune response	348	0.38	0.44	5.64	22.45
+GO:0010557	positive regulation of macromolecule biosynthetic process	316	0.45	0.55	6.62	113.59
+GO:0035556	intracellular signal transduction	315	0.51	0.55	6.92	23.17
+GO:0030154	cell differentiation	310	0.39	0.39	5.18	16.68
+GO:0043066	negative regulation of apoptotic process	211	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	138	0.56	0.63	7.81	80.91
+GO:0045936	negative regulation of phosphate metabolic process	112	0.52	0.61	7.65	146.47
+GO:0001934	positive regulation of protein phosphorylation	215	0.58	0.69	8.60	663.11
+GO:0043933	protein-containing complex subunit organization	268	0.43	0.41	5.44	14.95
+GO:0051050	positive regulation of transport	218	0.42	0.50	5.84	25.90
+GO:0060627	regulation of vesicle-mediated transport	97	0.48	0.53	6.81	26.12
+GO:0051704	multi-organism process	244	0.29	0.15	3.12	3.37
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0010629	negative regulation of gene expression	223	0.47	0.56	6.74	59.05
+GO:0030334	regulation of cell migration	214	0.48	0.56	7.11	36.74
+GO:0050920	regulation of chemotaxis	73	0.54	0.56	7.31	25.01
+GO:0006351	transcription, DNA-templated	215	0.57	0.68	8.45	581.39
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0051726	regulation of cell cycle	184	0.41	0.45	5.89	12.04
+GO:0009653	anatomical structure morphogenesis	164	0.36	0.31	4.09	6.46
+GO:0006468	protein phosphorylation	163	0.57	0.64	8.18	177.76
+GO:0009628	response to abiotic stimulus	142	0.46	0.35	5.43	6.14
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	114	0.58	0.64	7.56	28.11
+GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	32	0.64	0.67	8.12	28.11
+GO:0045785	positive regulation of cell adhesion	141	0.58	0.54	7.23	21.97
+GO:0040008	regulation of growth	112	0.48	0.44	6.04	7.96
+GO:0048468	cell development	110	0.51	0.45	6.51	28.42
+GO:0006874	cellular calcium ion homeostasis	107	0.63	0.71	8.83	287.08
+GO:0048513	animal organ development	107	0.50	0.45	5.88	11.73
+GO:0003006	developmental process involved in reproduction	100	0.43	0.34	5.07	14.49
+GO:0017144	drug metabolic process	89	0.37	0.38	5.07	17.52
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0043687	post-translational protein modification	49	0.65	0.67	8.51	151.15
+GO:0002576	platelet degranulation	47	1.00	0.88	9.63	39.86
+GO:0120036	plasma membrane bounded cell projection organization	42	0.58	0.54	7.33	16.56
+GO:0030522	intracellular receptor signaling pathway	35	0.65	0.62	7.99	23.17
+GO:0007229	integrin-mediated signaling pathway	34	1.00	0.82	9.63	26.50
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	30	0.63	0.64	8.31	41.85
+GO:0009792	embryo development ending in birth or egg hatching	27	0.87	0.72	9.34	21.80
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0051781	positive regulation of cell division	25	0.68	0.63	8.44	42.29
+GO:0097191	extrinsic apoptotic signaling pathway	23	0.83	0.74	9.22	51.06
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0090303	positive regulation of wound healing	16	0.70	0.70	8.75	62.35
+GO:0031532	actin cytoskeleton reorganization	12	1.00	0.82	9.63	32.01
+GO:0006006	glucose metabolic process	12	0.71	0.68	8.57	34.68
+GO:0008344	adult locomotory behavior	11	0.84	0.62	9.16	24.58
+GO:1990138	neuron projection extension	9	0.81	0.66	9.22	50.60
+GO:0022405	hair cycle process	8	0.87	0.63	8.94	9.53
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0043567	regulation of insulin-like growth factor receptor signaling pathway	7	0.89	0.77	9.41	41.85
+GO:0030166	proteoglycan biosynthetic process	4	0.87	0.78	9.50	394.05
+GO:1902287	semaphorin-plexin signaling pathway involved in axon guidance	3	1.00	0.88	9.63	28.58
+GO:0036499	PERK-mediated unfolded protein response	3	1.00	0.82	9.63	80.02
+GO:1902946	protein localization to early endosome	1	0.93	0.82	9.52	33.47
+GO:0060849	regulation of transcription involved in lymphatic endothelial cell fate commitment	1	1.00	0.95	9.63	254.95

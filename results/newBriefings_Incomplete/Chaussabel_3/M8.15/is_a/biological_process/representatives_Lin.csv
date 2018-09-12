@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	1581	0.35	0.46	5.09	13.73
+GO:0019438	aromatic compound biosynthetic process	1107	0.36	0.43	5.44	52.04
+GO:0006351	transcription, DNA-templated	851	0.57	0.68	8.45	581.39
+GO:0044248	cellular catabolic process	657	0.31	0.36	4.57	26.23
+GO:0065003	protein-containing complex assembly	604	0.45	0.48	6.06	36.47
+GO:0006468	protein phosphorylation	342	0.57	0.64	8.18	177.76
+GO:0045859	regulation of protein kinase activity	300	0.56	0.68	8.33	159.56
+GO:0045786	negative regulation of cell cycle	246	0.51	0.54	7.10	42.35
+GO:0055082	cellular chemical homeostasis	206	0.54	0.56	7.37	33.04
+GO:2001233	regulation of apoptotic signaling pathway	169	0.59	0.64	8.44	61.17
+GO:0071345	cellular response to cytokine stimulus	163	0.67	0.63	8.21	61.60
+GO:0010975	regulation of neuron projection development	139	0.57	0.66	8.40	84.29
+GO:0046394	carboxylic acid biosynthetic process	123	0.44	0.54	6.80	162.02
+GO:0032496	response to lipopolysaccharide	121	0.89	0.74	9.45	64.41
+GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	93	0.74	0.79	9.35	83.05
+GO:1902115	regulation of organelle assembly	77	0.60	0.62	7.91	30.61
+GO:0060271	cilium assembly	73	0.87	0.76	9.41	137.68
+GO:0006898	receptor-mediated endocytosis	67	0.68	0.66	8.48	28.44
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	63	0.93	0.91	9.59	279.44
+GO:0070588	calcium ion transmembrane transport	49	0.71	0.75	9.08	116.68
+GO:0034644	cellular response to UV	48	0.80	0.75	9.22	66.19
+GO:0008033	tRNA processing	47	0.60	0.70	8.50	356.95
+GO:0030307	positive regulation of cell growth	47	0.70	0.67	8.71	80.65
+GO:0090263	positive regulation of canonical Wnt signaling pathway	30	0.83	0.79	9.42	236.53
+GO:0010803	regulation of tumor necrosis factor-mediated signaling pathway	23	0.89	0.80	9.45	58.00
+GO:0042073	intraciliary transport	20	0.87	0.78	9.45	76.71
+GO:0042304	regulation of fatty acid biosynthetic process	20	0.70	0.70	9.01	138.58
+GO:1903779	regulation of cardiac conduction	19	0.69	0.70	8.76	28.83
+GO:0006284	base-excision repair	17	0.93	0.84	9.58	183.05
+GO:0097421	liver regeneration	16	1.00	0.82	9.63	47.22
+GO:0048675	axon extension	15	0.89	0.74	9.43	51.99
+GO:0097756	negative regulation of blood vessel diameter	14	0.74	0.72	9.07	39.68
+GO:0015800	acidic amino acid transport	14	0.74	0.77	9.17	67.63
+GO:0061512	protein localization to cilium	13	0.80	0.72	9.22	32.77
+GO:0045746	negative regulation of Notch signaling pathway	12	0.93	0.82	9.56	188.11
+GO:0045019	negative regulation of nitric oxide biosynthetic process	7	1.00	0.88	9.63	660.58
+GO:0045586	regulation of gamma-delta T cell differentiation	3	0.89	0.84	9.52	166.67
+GO:0035520	monoubiquitinated protein deubiquitination	3	0.89	0.86	9.58	204.99
+GO:0060575	intestinal epithelial cell differentiation	2	0.89	0.77	9.38	25.59
+GO:1905705	cellular response to paclitaxel	1	1.00	0.82	9.63	145.63

@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1995	0.00	0.00	0.00	0.00
+GO:0031323	regulation of cellular metabolic process	782	0.22	0.36	4.01	22.77
+GO:0009605	response to external stimulus	308	0.37	0.31	4.62	6.14
+GO:0006950	response to stress	464	0.39	0.32	4.70	6.14
+GO:0006355	regulation of transcription, DNA-templated	432	0.40	0.60	6.84	245.35
+GO:0016071	mRNA metabolic process	39	0.59	0.65	8.39	115.08
+GO:0032774	RNA biosynthetic process	236	0.53	0.62	8.04	473.34
+GO:0048856	anatomical structure development	227	0.33	0.29	3.70	6.46
+GO:0022402	cell cycle process	169	0.40	0.32	4.60	7.39
+GO:0046907	intracellular transport	141	0.46	0.48	6.38	29.65
+GO:0034504	protein localization to nucleus	22	0.72	0.68	8.76	32.77
+GO:0051259	protein complex oligomerization	79	0.78	0.68	9.09	40.42
+GO:0046822	regulation of nucleocytoplasmic transport	29	0.65	0.65	8.53	30.75
+GO:0022008	neurogenesis	12	0.87	0.68	9.29	21.07
+GO:0008543	fibroblast growth factor receptor signaling pathway	11	0.71	0.73	8.57	31.00
+GO:0031047	gene silencing by RNA	3	0.77	0.76	9.17	70.60
+GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	3	0.93	0.76	9.47	21.24
+GO:1904263	positive regulation of TORC1 signaling	2	1.00	0.90	9.63	286.95
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07

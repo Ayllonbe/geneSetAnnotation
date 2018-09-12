@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0098712	L-glutamate import across plasma membrane	2	0.93	0.91	9.60	1074.09
+GO:0006810	transport	395	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	60	0.45	0.48	6.33	26.83
+GO:0098712	L-glutamate import across plasma membrane	2	0.93	0.91	9.60	1074.09
+GO:0006810	transport	395	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	60	0.45	0.48	6.33	26.83
+GO:0007186	G-protein coupled receptor signaling pathway	146	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	319	0.43	0.51	5.91	23.17
+GO:0048523	negative regulation of cellular process	358	0.24	0.37	3.90	23.93
+GO:0010646	regulation of cell communication	324	0.30	0.40	4.51	12.04
+GO:1901564	organonitrogen compound metabolic process	314	0.23	0.31	3.63	19.40
+GO:0065009	regulation of molecular function	291	0.33	0.29	4.10	4.47
+GO:0032502	developmental process	283	0.22	0.11	1.89	3.37
+GO:0051239	regulation of multicellular organismal process	278	0.23	0.32	3.68	7.96
+GO:0042221	response to chemical	272	0.32	0.29	4.12	6.14
+GO:0042592	homeostatic process	157	0.45	0.42	5.70	8.64
+GO:0001934	positive regulation of protein phosphorylation	118	0.58	0.69	8.60	663.11
+GO:0031400	negative regulation of protein modification process	42	0.53	0.64	7.94	366.95
+GO:0006928	movement of cell or subcellular component	136	0.42	0.33	4.88	7.39
+GO:0065003	protein-containing complex assembly	135	0.45	0.48	6.06	36.47
+GO:0008284	positive regulation of cell proliferation	129	0.56	0.57	7.27	43.45
+GO:0051130	positive regulation of cellular component organization	106	0.42	0.50	5.95	43.84
+GO:0040017	positive regulation of locomotion	89	0.55	0.52	6.96	22.08
+GO:0050796	regulation of insulin secretion	9	0.83	0.81	9.53	205.48
+GO:0043269	regulation of ion transport	81	0.41	0.50	6.00	14.08
+GO:0050796	regulation of insulin secretion	9	0.83	0.81	9.53	205.48
+GO:0043269	regulation of ion transport	81	0.41	0.50	6.00	14.08
+GO:0009628	response to abiotic stimulus	74	0.46	0.35	5.43	6.14
+GO:0007268	chemical synaptic transmission	31	0.74	0.72	8.66	23.17
+GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	3	0.93	0.86	9.58	354.41
+GO:0001984	artery vasodilation involved in baroreceptor response to increased systemic arterial blood pressure	1	1.00	0.90	9.63	42.45

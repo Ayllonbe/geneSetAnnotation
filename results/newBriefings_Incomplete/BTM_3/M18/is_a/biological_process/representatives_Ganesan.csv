@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	622	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1944	0.09	0.05	0.84	3.37
+GO:0009987	cellular process	1944	0.09	0.05	0.84	3.37
+GO:0042592	homeostatic process	249	0.45	0.42	5.70	8.64
+GO:0050790	regulation of catalytic activity	432	0.37	0.39	4.99	6.77
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	7	1.00	0.92	9.63	990.06
+GO:0050789	regulation of biological process	1621	0.09	0.17	1.80	4.47
+GO:0044093	positive regulation of molecular function	368	0.43	0.41	5.23	6.77
+GO:0042592	homeostatic process	249	0.45	0.42	5.70	8.64
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	7	1.00	0.92	9.63	990.06
+GO:0050789	regulation of biological process	1621	0.09	0.17	1.80	4.47
+GO:0043170	macromolecule metabolic process	880	0.25	0.32	3.46	10.22
+GO:0006582	melanin metabolic process	2	0.81	0.70	9.32	72.73
+GO:0042221	response to chemical	500	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	515	0.39	0.32	4.70	6.14
+GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0032502	developmental process	574	0.22	0.11	1.89	3.37
+GO:0032502	developmental process	574	0.22	0.11	1.89	3.37
+GO:0030032	lamellipodium assembly	9	0.89	0.77	9.53	78.22
+GO:0048041	focal adhesion assembly	7	1.00	0.88	9.63	92.53
+GO:0001865	NK T cell differentiation	2	1.00	0.88	9.63	92.19

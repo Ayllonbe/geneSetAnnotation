@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	291	0.43	0.51	5.91	23.17
+GO:0048584	positive regulation of response to stimulus	254	0.35	0.42	4.95	23.46
+GO:0051128	regulation of cellular component organization	167	0.30	0.40	4.57	12.04
+GO:1901700	response to oxygen-containing compound	165	0.39	0.39	5.14	9.28
+GO:0042127	regulation of cell proliferation	159	0.45	0.48	6.03	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	138	0.55	0.57	7.20	23.17
+GO:0051704	multi-organism process	120	0.29	0.15	3.12	3.37
+GO:0040012	regulation of locomotion	117	0.43	0.41	5.73	7.96
+GO:0010628	positive regulation of gene expression	103	0.47	0.56	6.67	58.80
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0045785	positive regulation of cell adhesion	66	0.58	0.54	7.23	21.97
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0010564	regulation of cell cycle process	57	0.42	0.50	6.22	14.24
+GO:0051480	regulation of cytosolic calcium ion concentration	53	0.66	0.75	9.02	288.69
+GO:0048468	cell development	43	0.51	0.45	6.51	28.42
+GO:0051259	protein complex oligomerization	35	0.78	0.68	9.09	40.42
+GO:0051924	regulation of calcium ion transport	33	0.59	0.65	7.94	18.44
+GO:0030029	actin filament-based process	29	0.59	0.42	6.58	7.39
+GO:0061024	membrane organization	25	0.47	0.43	6.06	14.95
+GO:0006816	calcium ion transport	24	0.67	0.71	8.69	35.67
+GO:0007265	Ras protein signal transduction	19	0.76	0.73	8.94	27.53
+GO:0030855	epithelial cell differentiation	18	0.55	0.52	6.96	21.07
+GO:0008360	regulation of cell shape	17	0.68	0.66	8.69	41.78
+GO:0008016	regulation of heart contraction	16	0.57	0.61	7.59	16.15
+GO:0035023	regulation of Rho protein signal transduction	14	0.84	0.82	9.32	48.76
+GO:0036336	dendritic cell migration	11	0.84	0.74	9.41	29.14
+GO:0007517	muscle organ development	7	0.78	0.64	8.75	27.68
+GO:0001701	in utero embryonic development	7	1.00	0.85	9.63	22.50
+GO:0051017	actin filament bundle assembly	6	0.79	0.72	9.14	39.79
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	5	0.89	0.82	9.54	374.75
+GO:0003382	epithelial cell morphogenesis	5	0.87	0.76	9.37	47.45
+GO:0048278	vesicle docking	3	0.81	0.70	9.18	21.39
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0032060	bleb assembly	2	1.00	0.82	9.63	58.57
+GO:0071476	cellular hypotonic response	1	0.89	0.77	9.47	99.28
+GO:0048251	elastic fiber assembly	1	1.00	0.82	9.63	39.54
+GO:1901877	negative regulation of calcium ion binding	1	1.00	0.79	9.63	30.92
+GO:0010458	exit from mitosis	1	1.00	0.79	9.63	29.82

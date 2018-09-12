@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1673	0.00	0.00	0.00	0.00
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1230	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	30	0.93	0.91	9.59	279.44
+GO:0090073	positive regulation of protein homodimerization activity	1	1.00	0.82	9.63	47.42
+GO:0051179	localization	601	0.26	0.13	2.57	3.37
+GO:0050982	detection of mechanical stimulus	7	0.74	0.62	8.71	57.71
+GO:0042221	response to chemical	406	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	375	0.39	0.32	4.70	6.14
+GO:0002376	immune system process	483	0.38	0.19	3.93	3.37
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	2	1.00	0.82	9.63	24.26

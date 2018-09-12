@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2564	0.12	0.26	2.47	7.96
+GO:0048523	negative regulation of cellular process	1218	0.24	0.37	3.90	23.93
+GO:0019538	protein metabolic process	1109	0.31	0.41	4.91	44.77
+GO:0016070	RNA metabolic process	916	0.39	0.52	6.45	112.25
+GO:0031324	negative regulation of cellular metabolic process	702	0.34	0.46	5.46	80.35
+GO:0006796	phosphate-containing compound metabolic process	563	0.36	0.43	5.28	20.85
+GO:0010628	positive regulation of gene expression	510	0.47	0.56	6.67	58.80
+GO:0016192	vesicle-mediated transport	494	0.52	0.51	6.57	10.99
+GO:0009967	positive regulation of signal transduction	424	0.44	0.54	6.71	140.23
+GO:0045944	positive regulation of transcription by RNA polymerase II	309	0.55	0.71	8.36	1463.86
+GO:0009968	negative regulation of signal transduction	306	0.44	0.54	6.68	140.65
+GO:0006886	intracellular protein transport	271	0.55	0.65	8.12	90.55
+GO:1901566	organonitrogen compound biosynthetic process	260	0.37	0.43	5.45	46.74
+GO:0001934	positive regulation of protein phosphorylation	255	0.58	0.69	8.60	663.11
+GO:0045597	positive regulation of cell differentiation	227	0.45	0.51	6.57	82.53
+GO:0043065	positive regulation of apoptotic process	202	0.56	0.63	7.81	80.91
+GO:0043312	neutrophil degranulation	161	1.00	0.90	9.63	132.80
+GO:0060627	regulation of vesicle-mediated transport	156	0.48	0.53	6.81	26.12
+GO:0045596	negative regulation of cell differentiation	153	0.44	0.51	6.50	82.79
+GO:0030335	positive regulation of cell migration	140	0.58	0.64	8.22	157.26
+GO:0001933	negative regulation of protein phosphorylation	137	0.61	0.70	8.76	664.69
+GO:0051346	negative regulation of hydrolase activity	134	0.57	0.58	7.50	33.09
+GO:0034655	nucleobase-containing compound catabolic process	121	0.48	0.53	7.63	314.02
+GO:0048589	developmental growth	64	0.55	0.40	6.36	12.22
+GO:0030099	myeloid cell differentiation	62	0.69	0.60	8.15	21.07
+GO:0046474	glycerophospholipid biosynthetic process	55	0.66	0.68	8.82	510.21
+GO:0034504	protein localization to nucleus	44	0.72	0.68	8.76	32.77
+GO:1990830	cellular response to leukemia inhibitory factor	29	1.00	0.82	9.63	81.65
+GO:0032091	negative regulation of protein binding	29	0.70	0.64	8.48	32.72
+GO:0048208	COPII vesicle coating	27	1.00	0.82	9.63	62.44
+GO:0016525	negative regulation of angiogenesis	25	0.81	0.78	9.32	151.11
+GO:0090630	activation of GTPase activity	24	1.00	0.85	9.63	49.34
+GO:0045778	positive regulation of ossification	21	0.84	0.71	9.38	41.73
+GO:0008543	fibroblast growth factor receptor signaling pathway	15	0.71	0.73	8.57	31.00
+GO:0006195	purine nucleotide catabolic process	13	0.68	0.74	9.23	1844.49
+GO:0000132	establishment of mitotic spindle orientation	10	0.93	0.84	9.58	227.85
+GO:0035116	embryonic hindlimb morphogenesis	6	1.00	0.82	9.63	58.81
+GO:0060441	epithelial tube branching involved in lung morphogenesis	6	0.93	0.82	9.53	53.50
+GO:2000781	positive regulation of double-strand break repair	4	0.89	0.84	9.56	610.30
+GO:0002003	angiotensin maturation	4	1.00	0.88	9.63	184.72
+GO:0019695	choline metabolic process	2	0.81	0.70	9.25	54.91
+GO:0048133	male germ-line stem cell asymmetric division	2	1.00	0.82	9.63	57.40
+GO:1904681	response to 3-methylcholanthrene	1	0.93	0.79	9.49	32.41
+GO:0010637	negative regulation of mitochondrial fusion	1	1.00	0.88	9.63	158.54
+GO:0006580	ethanolamine metabolic process	1	0.89	0.82	9.52	154.05
+GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	1	1.00	0.85	9.63	461.11
+GO:0051138	positive regulation of NK T cell differentiation	1	1.00	0.93	9.63	1455.77

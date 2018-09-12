@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1425	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	1105	0.12	0.26	2.47	7.96
+GO:0019219	regulation of nucleobase-containing compound metabolic process	390	0.33	0.45	5.50	54.14
+GO:0017148	negative regulation of translation	9	0.65	0.70	9.08	1114.67
+GO:0019219	regulation of nucleobase-containing compound metabolic process	390	0.33	0.45	5.50	54.14
+GO:0017148	negative regulation of translation	9	0.65	0.70	9.08	1114.67
+GO:0019538	protein metabolic process	357	0.31	0.41	4.91	44.77
+GO:0043933	protein-containing complex subunit organization	218	0.43	0.41	5.44	14.95
+GO:0008284	positive regulation of cell proliferation	204	0.56	0.57	7.27	43.45
+GO:0016070	RNA metabolic process	195	0.39	0.52	6.45	112.25
+GO:0051641	cellular localization	185	0.37	0.31	4.44	5.67
+GO:0042306	regulation of protein import into nucleus	17	0.83	0.79	9.51	189.48
+GO:0070317	negative regulation of G0 to G1 transition	11	1.00	0.85	9.63	83.03
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	6	0.93	0.82	9.52	52.45
+GO:0036337	Fas signaling pathway	1	1.00	0.82	9.63	26.50

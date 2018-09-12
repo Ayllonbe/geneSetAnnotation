@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	2848	0.16	0.21	2.71	13.80
+GO:0048518	positive regulation of biological process	1748	0.21	0.30	3.05	7.96
+GO:1901564	organonitrogen compound metabolic process	1656	0.23	0.31	3.63	19.40
+GO:0006810	transport	1270	0.28	0.34	3.95	7.46
+GO:0006464	cellular protein modification process	1000	0.34	0.49	5.84	147.03
+GO:0043900	regulation of multi-organism process	139	0.40	0.40	5.32	7.96
+GO:0065009	regulation of molecular function	911	0.33	0.29	4.10	4.47
+GO:0009966	regulation of signal transduction	923	0.33	0.45	5.35	37.59
+GO:0009966	regulation of signal transduction	923	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	906	0.35	0.30	4.36	13.53
+GO:0065008	regulation of biological quality	806	0.28	0.26	3.48	4.47
+GO:0006351	transcription, DNA-templated	770	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	671	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	606	0.35	0.37	4.75	9.28
+GO:0045668	negative regulation of osteoblast differentiation	11	0.93	0.79	9.56	170.33
+GO:2000026	regulation of multicellular organismal development	541	0.29	0.39	4.73	23.09
+GO:0048477	oogenesis	7	1.00	0.79	9.63	84.68
+GO:0030154	cell differentiation	410	0.39	0.39	5.18	16.68
+GO:0045892	negative regulation of transcription, DNA-templated	396	0.56	0.69	8.52	1581.26
+GO:0045944	positive regulation of transcription by RNA polymerase II	365	0.55	0.71	8.36	1463.86
+GO:0006259	DNA metabolic process	286	0.45	0.55	7.12	145.26
+GO:0006952	defense response	253	0.56	0.48	6.67	9.54
+GO:0009653	anatomical structure morphogenesis	248	0.36	0.31	4.09	6.46
+GO:0010942	positive regulation of cell death	241	0.54	0.56	7.33	41.78
+GO:0061024	membrane organization	164	0.47	0.43	6.06	14.95
+GO:0030001	metal ion transport	144	0.54	0.59	7.29	15.42
+GO:0051052	regulation of DNA metabolic process	135	0.47	0.56	7.17	70.58
+GO:0030036	actin cytoskeleton organization	110	0.63	0.61	8.05	29.61
+GO:0050678	regulation of epithelial cell proliferation	83	0.61	0.60	7.63	15.51
+GO:0001505	regulation of neurotransmitter levels	74	0.49	0.44	5.98	8.64
+GO:0030336	negative regulation of cell migration	73	0.58	0.64	8.21	158.04
+GO:0001701	in utero embryonic development	63	1.00	0.85	9.63	22.50
+GO:0090501	RNA phosphodiester bond hydrolysis	54	0.64	0.67	8.66	229.53
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	51	0.93	0.91	9.59	279.44
+GO:0043401	steroid hormone mediated signaling pathway	47	0.75	0.70	8.80	25.74
+GO:0000281	mitotic cytokinesis	30	0.93	0.76	9.47	28.62
+GO:0016239	positive regulation of macroautophagy	25	0.77	0.76	9.24	266.07
+GO:0030490	maturation of SSU-rRNA	9	0.84	0.84	9.45	358.78
+GO:0010529	negative regulation of transposition	7	0.87	0.72	9.27	41.76
+GO:0016554	cytidine to uridine editing	5	1.00	0.90	9.63	133.94
+GO:0030035	microspike assembly	3	1.00	0.82	9.63	58.57

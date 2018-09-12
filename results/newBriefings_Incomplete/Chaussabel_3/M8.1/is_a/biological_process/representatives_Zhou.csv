@@ -1,0 +1,8 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	3149	0.00	0.00	0.00	0.00
+GO:0035583	sequestering of TGFbeta in extracellular matrix	1	1.00	0.90	9.63	582.46
+GO:0065007	biological regulation	2270	0.08	0.04	0.98	3.37
+GO:0050796	regulation of insulin secretion	30	0.83	0.81	9.53	205.48
+GO:0060326	cell chemotaxis	45	0.64	0.61	8.15	30.29
+GO:0051179	localization	977	0.26	0.13	2.57	3.37
+GO:0035176	social behavior	11	1.00	0.70	9.63	22.58

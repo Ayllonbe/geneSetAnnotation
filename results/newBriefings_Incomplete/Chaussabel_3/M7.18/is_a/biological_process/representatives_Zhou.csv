@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6664	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4753	0.08	0.04	0.98	3.37
+GO:2000969	positive regulation of AMPA receptor activity	2	1.00	0.92	9.63	1126.33
+GO:0001756	somitogenesis	21	1.00	0.79	9.63	43.80
+GO:0043433	negative regulation of DNA binding transcription factor activity	79	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	137	0.81	0.84	9.43	277.83
+GO:0051179	localization	2071	0.26	0.13	2.57	3.37
+GO:0045475	locomotor rhythm	6	1.00	0.75	9.63	28.71

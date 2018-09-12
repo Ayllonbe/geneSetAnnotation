@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1851	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1548	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	1463	0.12	0.26	2.47	7.96
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	3	1.00	0.92	9.63	350.56
+GO:0006974	cellular response to DNA damage stimulus	119	0.57	0.53	7.47	29.00
+GO:0044237	cellular metabolic process	1007	0.16	0.21	2.71	13.80
+GO:0050896	response to stimulus	811	0.25	0.12	2.65	3.37
+GO:0009966	regulation of signal transduction	584	0.33	0.45	5.35	37.59
+GO:0048856	anatomical structure development	241	0.33	0.29	3.70	6.46
+GO:0048869	cellular developmental process	458	0.32	0.29	4.16	13.85
+GO:0050793	regulation of developmental process	491	0.26	0.33	3.95	7.96
+GO:0044093	positive regulation of molecular function	358	0.43	0.41	5.23	6.77
+GO:0044092	negative regulation of molecular function	205	0.43	0.41	5.21	6.77
+GO:0042127	regulation of cell proliferation	365	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	316	0.51	0.55	6.92	23.17
+GO:0051641	cellular localization	236	0.37	0.31	4.44	5.67
+GO:0008104	protein localization	206	0.40	0.40	5.07	7.46
+GO:0030334	regulation of cell migration	215	0.48	0.56	7.11	36.74
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20

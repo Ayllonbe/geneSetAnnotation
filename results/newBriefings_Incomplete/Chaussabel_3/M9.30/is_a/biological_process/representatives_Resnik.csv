@@ -1,0 +1,70 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	474	0.28	0.34	3.95	7.46
+GO:0006351	transcription, DNA-templated	268	0.57	0.68	8.45	581.39
+GO:0008104	protein localization	246	0.40	0.40	5.07	7.46
+GO:0002376	immune system process	243	0.38	0.19	3.93	3.37
+GO:0042221	response to chemical	242	0.32	0.29	4.12	6.14
+GO:0044248	cellular catabolic process	220	0.31	0.36	4.57	26.23
+GO:0065003	protein-containing complex assembly	201	0.45	0.48	6.06	36.47
+GO:0051049	regulation of transport	201	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	199	0.51	0.55	6.92	23.17
+GO:0002682	regulation of immune system process	186	0.32	0.36	4.60	7.96
+GO:0010941	regulation of cell death	180	0.43	0.47	6.10	12.04
+GO:0042325	regulation of phosphorylation	175	0.47	0.59	6.88	31.28
+GO:0006508	proteolysis	159	0.55	0.57	7.34	47.86
+GO:0009967	positive regulation of signal transduction	153	0.44	0.54	6.71	140.23
+GO:0051336	regulation of hydrolase activity	142	0.46	0.48	6.24	9.25
+GO:0045892	negative regulation of transcription, DNA-templated	140	0.56	0.69	8.52	1581.26
+GO:0045944	positive regulation of transcription by RNA polymerase II	139	0.55	0.71	8.36	1463.86
+GO:0030154	cell differentiation	137	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	125	0.44	0.54	6.68	140.65
+GO:0046903	secretion	122	0.46	0.48	5.79	10.99
+GO:0051094	positive regulation of developmental process	115	0.38	0.44	5.27	23.11
+GO:0009628	response to abiotic stimulus	102	0.46	0.35	5.43	6.14
+GO:0007010	cytoskeleton organization	90	0.52	0.51	6.76	18.35
+GO:0031347	regulation of defense response	87	0.40	0.49	5.73	14.14
+GO:0022414	reproductive process	84	0.35	0.17	3.17	3.37
+GO:0043207	response to external biotic stimulus	84	0.41	0.40	5.91	16.64
+GO:0030334	regulation of cell migration	83	0.48	0.56	7.11	36.74
+GO:0045786	negative regulation of cell cycle	83	0.51	0.54	7.10	42.35
+GO:0001817	regulation of cytokine production	81	0.40	0.45	5.78	11.79
+GO:0008285	negative regulation of cell proliferation	70	0.56	0.57	7.31	43.61
+GO:0007167	enzyme linked receptor protein signaling pathway	65	0.53	0.59	7.04	26.50
+GO:0019221	cytokine-mediated signaling pathway	64	0.60	0.63	7.60	26.50
+GO:0044089	positive regulation of cellular component biogenesis	60	0.53	0.51	6.61	23.24
+GO:0061024	membrane organization	59	0.47	0.43	6.06	14.95
+GO:0007186	G-protein coupled receptor signaling pathway	57	0.55	0.57	7.20	23.17
+GO:0048468	cell development	55	0.51	0.45	6.51	28.42
+GO:0044057	regulation of system process	43	0.41	0.46	5.70	11.79
+GO:0097190	apoptotic signaling pathway	42	0.70	0.64	8.53	23.17
+GO:0051091	positive regulation of DNA binding transcription factor activity	34	0.81	0.84	9.43	277.83
+GO:0006874	cellular calcium ion homeostasis	30	0.63	0.71	8.83	287.08
+GO:0010469	regulation of signaling receptor activity	30	0.59	0.62	7.95	48.62
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	30	1.00	0.79	9.63	42.20
+GO:0016055	Wnt signaling pathway	26	0.59	0.65	7.65	28.58
+GO:0046578	regulation of Ras protein signal transduction	25	0.70	0.72	8.71	46.46
+GO:0006367	transcription initiation from RNA polymerase II promoter	22	1.00	0.90	9.63	477.15
+GO:0034329	cell junction assembly	20	0.71	0.61	8.53	35.01
+GO:0010811	positive regulation of cell-substrate adhesion	17	0.80	0.69	9.01	35.31
+GO:0001959	regulation of cytokine-mediated signaling pathway	16	0.61	0.63	8.11	55.11
+GO:0030308	negative regulation of cell growth	16	0.69	0.67	8.67	80.89
+GO:0000281	mitotic cytokinesis	15	0.93	0.76	9.47	28.62
+GO:0007268	chemical synaptic transmission	15	0.74	0.72	8.66	23.17
+GO:0035335	peptidyl-tyrosine dephosphorylation	12	0.89	0.82	9.53	179.25
+GO:0009888	tissue development	11	0.47	0.44	5.74	11.73
+GO:0008361	regulation of cell size	8	0.78	0.68	9.00	28.02
+GO:0001570	vasculogenesis	7	0.89	0.70	9.29	21.07
+GO:0009914	hormone transport	7	0.58	0.54	7.48	21.71
+GO:0016925	protein sumoylation	7	0.93	0.86	9.58	311.85
+GO:2000736	regulation of stem cell differentiation	6	0.66	0.62	8.48	27.05
+GO:2001025	positive regulation of response to drug	5	0.65	0.62	7.96	42.54
+GO:0050892	intestinal absorption	5	0.81	0.66	9.18	23.07
+GO:0001942	hair follicle development	5	1.00	0.75	9.63	22.36
+GO:0006636	unsaturated fatty acid biosynthetic process	4	0.75	0.77	9.34	458.37
+GO:0030032	lamellipodium assembly	3	0.89	0.77	9.53	78.22
+GO:0010623	programmed cell death involved in cell development	3	0.79	0.64	8.86	27.77
+GO:0003143	embryonic heart tube morphogenesis	3	0.89	0.77	9.41	47.29
+GO:0060449	bud elongation involved in lung branching	1	1.00	0.82	9.63	21.22
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0072311	glomerular epithelial cell differentiation	1	0.79	0.72	9.22	49.62
+GO:0043249	erythrocyte maturation	1	0.89	0.70	9.38	39.56

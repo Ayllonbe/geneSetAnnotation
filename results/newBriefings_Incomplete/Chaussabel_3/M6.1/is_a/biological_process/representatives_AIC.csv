@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	117	0.22	0.36	4.01	22.77
+GO:0090304	nucleic acid metabolic process	102	0.35	0.46	5.97	111.15
+GO:0034656	nucleobase-containing small molecule catabolic process	1	0.63	0.64	8.76	445.57
+GO:0090304	nucleic acid metabolic process	102	0.35	0.46	5.97	111.15
+GO:0034656	nucleobase-containing small molecule catabolic process	1	0.63	0.64	8.76	445.57
+GO:0048522	positive regulation of cellular process	96	0.24	0.37	3.90	23.85
+GO:0032879	regulation of localization	49	0.27	0.33	4.05	7.96
+GO:0048519	negative regulation of biological process	92	0.21	0.30	3.07	7.96
+GO:0019538	protein metabolic process	79	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	77	0.40	0.60	6.84	245.35
+GO:0007165	signal transduction	57	0.36	0.43	5.06	19.43
+GO:0006996	organelle organization	53	0.39	0.39	5.17	14.95
+GO:0009966	regulation of signal transduction	42	0.33	0.45	5.35	37.59
+GO:0015031	protein transport	40	0.48	0.59	6.99	54.46
+GO:0065003	protein-containing complex assembly	39	0.45	0.48	6.06	36.47
+GO:0051239	regulation of multicellular organismal process	39	0.23	0.32	3.68	7.96
+GO:0030154	cell differentiation	27	0.39	0.39	5.18	16.68
+GO:0048468	cell development	12	0.51	0.45	6.51	28.42
+GO:0070887	cellular response to chemical stimulus	27	0.40	0.40	5.31	25.21
+GO:0006811	ion transport	27	0.38	0.44	5.19	10.99
+GO:0048856	anatomical structure development	26	0.33	0.29	3.70	6.46
+GO:0051248	negative regulation of protein metabolic process	24	0.45	0.55	6.75	129.53
+GO:0032270	positive regulation of cellular protein metabolic process	23	0.47	0.59	7.41	288.49
+GO:0043066	negative regulation of apoptotic process	18	0.56	0.63	7.79	81.07
+GO:0009968	negative regulation of signal transduction	16	0.44	0.54	6.68	140.65
+GO:0045055	regulated exocytosis	15	0.69	0.69	8.57	38.47
+GO:1903827	regulation of cellular protein localization	15	0.48	0.53	6.86	25.72
+GO:0009653	anatomical structure morphogenesis	12	0.36	0.31	4.09	6.46
+GO:0016569	covalent chromatin modification	11	0.54	0.56	7.38	32.64
+GO:0048878	chemical homeostasis	10	0.48	0.49	6.42	10.43
+GO:0050769	positive regulation of neurogenesis	10	0.58	0.64	8.42	270.71
+GO:0030335	positive regulation of cell migration	9	0.58	0.64	8.22	157.26
+GO:0045596	negative regulation of cell differentiation	8	0.44	0.51	6.50	82.79
+GO:0016477	cell migration	8	0.47	0.48	6.31	17.13
+GO:0014070	response to organic cyclic compound	7	0.45	0.47	5.96	13.32
+GO:0017157	regulation of exocytosis	6	0.59	0.65	8.02	60.10
+GO:0007268	chemical synaptic transmission	6	0.74	0.72	8.66	23.17
+GO:0006904	vesicle docking involved in exocytosis	4	0.89	0.77	9.43	32.65
+GO:0072659	protein localization to plasma membrane	4	0.79	0.72	9.26	65.43
+GO:2001235	positive regulation of apoptotic signaling pathway	4	0.70	0.72	9.18	291.46
+GO:0046718	viral entry into host cell	3	0.77	0.73	8.94	28.37
+GO:0006869	lipid transport	3	0.55	0.57	7.06	14.73
+GO:0035065	regulation of histone acetylation	3	0.70	0.77	9.17	181.05
+GO:0060271	cilium assembly	3	0.87	0.76	9.41	137.68
+GO:0000281	mitotic cytokinesis	3	0.93	0.76	9.47	28.62
+GO:0042542	response to hydrogen peroxide	3	0.93	0.76	9.54	79.29
+GO:0045815	positive regulation of gene expression, epigenetic	3	0.78	0.74	9.08	79.85
+GO:0042417	dopamine metabolic process	3	0.87	0.78	9.50	117.21
+GO:0016973	poly(A)+ mRNA export from nucleus	2	1.00	0.92	9.63	122.05
+GO:0071456	cellular response to hypoxia	2	1.00	0.82	9.63	103.25
+GO:0001523	retinoid metabolic process	2	0.77	0.76	9.19	47.55
+GO:0030203	glycosaminoglycan metabolic process	2	0.66	0.62	8.41	52.03
+GO:0050727	regulation of inflammatory response	2	0.53	0.59	7.40	31.59
+GO:0000902	cell morphogenesis	2	0.63	0.56	7.92	43.26
+GO:0061337	cardiac conduction	2	0.89	0.80	9.45	31.82
+GO:2001037	positive regulation of tongue muscle cell differentiation	1	1.00	0.93	9.63	768.62
+GO:0051481	negative regulation of cytosolic calcium ion concentration	1	0.93	0.90	9.58	290.30
+GO:0035176	social behavior	1	1.00	0.70	9.63	22.58
+GO:0010793	regulation of mRNA export from nucleus	1	0.93	0.86	9.58	209.93
+GO:0051461	positive regulation of corticotropin secretion	1	1.00	0.92	9.63	599.39
+GO:0032869	cellular response to insulin stimulus	1	1.00	0.88	9.63	462.70
+GO:0043277	apoptotic cell clearance	1	1.00	0.85	9.63	28.44
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	1	1.00	0.79	9.63	23.39
+GO:0046784	viral mRNA export from host cell nucleus	1	1.00	0.85	9.63	39.05
+GO:0042738	exogenous drug catabolic process	1	0.93	0.76	9.51	56.33
+GO:0001657	ureteric bud development	1	1.00	0.88	9.63	36.92
+GO:0010875	positive regulation of cholesterol efflux	1	1.00	0.90	9.63	184.01
+GO:0061004	pattern specification involved in kidney development	1	0.64	0.52	7.64	10.36
+GO:0035544	negative regulation of SNARE complex assembly	1	1.00	0.88	9.63	315.07
+GO:0032717	negative regulation of interleukin-8 production	1	0.89	0.77	9.43	65.25
+GO:0006203	dGTP catabolic process	1	1.00	0.95	9.63	7925.69

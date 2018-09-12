@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5637	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	3997	0.08	0.04	0.98	3.37
+GO:0001701	in utero embryonic development	74	1.00	0.85	9.63	22.50
+GO:1904783	positive regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1126.33
+GO:0060445	branching involved in salivary gland morphogenesis	3	0.93	0.79	9.51	38.29
+GO:0051090	regulation of DNA binding transcription factor activity	167	0.72	0.77	9.22	255.34
+GO:0051234	establishment of localization	1552	0.28	0.26	3.49	5.67
+GO:0008104	protein localization	751	0.40	0.40	5.07	7.46
+GO:0072656	maintenance of protein location in mitochondrion	2	1.00	0.85	9.63	48.00
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	61	1.00	0.79	9.63	42.20

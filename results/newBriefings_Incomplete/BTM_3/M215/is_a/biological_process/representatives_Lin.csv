@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	241	0.40	0.60	6.84	245.35
+GO:0045321	leukocyte activation	212	0.52	0.46	6.78	16.27
+GO:0009967	positive regulation of signal transduction	205	0.44	0.54	6.71	140.23
+GO:0035556	intracellular signal transduction	195	0.51	0.55	6.92	23.17
+GO:0042325	regulation of phosphorylation	183	0.47	0.59	6.88	31.28
+GO:0042981	regulation of apoptotic process	165	0.45	0.55	6.60	16.23
+GO:0007186	G-protein coupled receptor signaling pathway	152	0.55	0.57	7.20	23.17
+GO:0008284	positive regulation of cell proliferation	147	0.56	0.57	7.27	43.45
+GO:0051270	regulation of cellular component movement	146	0.43	0.47	6.20	22.49
+GO:0019221	cytokine-mediated signaling pathway	137	0.60	0.63	7.60	26.50
+GO:0050863	regulation of T cell activation	89	0.52	0.61	7.60	29.19
+GO:0060326	cell chemotaxis	79	0.64	0.61	8.15	30.29
+GO:0043087	regulation of GTPase activity	54	0.87	0.72	9.29	12.47
+GO:0022604	regulation of cell morphogenesis	50	0.53	0.56	7.35	31.06
+GO:0002699	positive regulation of immune effector process	49	0.53	0.56	7.19	39.11
+GO:0032956	regulation of actin cytoskeleton organization	47	0.56	0.63	7.72	34.12
+GO:0030030	cell projection organization	47	0.53	0.46	6.62	14.95
+GO:0007162	negative regulation of cell adhesion	45	0.57	0.57	7.40	38.27
+GO:0051056	regulation of small GTPase mediated signal transduction	40	0.68	0.69	8.65	45.07
+GO:0038093	Fc receptor signaling pathway	38	0.84	0.77	9.47	77.78
+GO:0030036	actin cytoskeleton organization	37	0.63	0.61	8.05	29.61
+GO:1903829	positive regulation of cellular protein localization	36	0.60	0.62	7.80	40.87
+GO:0030336	negative regulation of cell migration	29	0.58	0.64	8.21	158.04
+GO:0007229	integrin-mediated signaling pathway	18	1.00	0.82	9.63	26.50
+GO:0046854	phosphatidylinositol phosphorylation	18	1.00	0.88	9.63	218.74
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	18	0.63	0.67	8.36	49.28
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	9	0.83	0.79	9.19	31.00
+GO:0045742	positive regulation of epidermal growth factor receptor signaling pathway	7	0.83	0.79	9.42	233.18
+GO:0071526	semaphorin-plexin signaling pathway	7	0.81	0.73	9.09	26.50
+GO:0043124	negative regulation of I-kappaB kinase/NF-kappaB signaling	5	0.89	0.82	9.52	239.49
+GO:0008361	regulation of cell size	4	0.78	0.68	9.00	28.02
+GO:0010310	regulation of hydrogen peroxide metabolic process	2	0.79	0.72	9.22	58.13
+GO:0030037	actin filament reorganization involved in cell cycle	1	1.00	0.82	9.63	31.06
+GO:0001921	positive regulation of receptor recycling	1	1.00	0.82	9.63	202.60

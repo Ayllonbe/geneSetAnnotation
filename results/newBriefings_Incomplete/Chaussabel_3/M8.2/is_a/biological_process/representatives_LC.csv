@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008152	metabolic process	1961	0.15	0.07	1.52	3.37
+GO:0032502	developmental process	570	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	2739	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	872	0.25	0.12	2.65	3.37
+GO:0032501	multicellular organismal process	228	0.33	0.16	3.12	3.37
+GO:0044093	positive regulation of molecular function	376	0.43	0.41	5.23	6.77
+GO:0055065	metal ion homeostasis	103	0.57	0.64	7.90	34.21
+GO:0032212	positive regulation of telomere maintenance via telomerase	4	1.00	0.92	9.63	1624.18
+GO:0001916	positive regulation of T cell mediated cytotoxicity	11	0.87	0.83	9.52	365.14
+GO:0050789	regulation of biological process	2163	0.09	0.17	1.80	4.47
+GO:0051641	cellular localization	518	0.37	0.31	4.44	5.67
+GO:0048250	iron import into the mitochondrion	1	1.00	0.92	9.63	155.42
+GO:0006810	transport	861	0.28	0.34	3.95	7.46
+GO:0051704	multi-organism process	218	0.29	0.15	3.12	3.37

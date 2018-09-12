@@ -1,0 +1,84 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	3182	0.25	0.32	3.46	10.22
+GO:0016043	cellular component organization	1917	0.28	0.26	3.74	11.45
+GO:0010628	positive regulation of gene expression	817	0.47	0.56	6.67	58.80
+GO:0006355	regulation of transcription, DNA-templated	1560	0.40	0.60	6.84	245.35
+GO:0051252	regulation of RNA metabolic process	1667	0.37	0.51	6.06	70.58
+GO:0044267	cellular protein metabolic process	1507	0.34	0.46	5.57	80.87
+GO:0009893	positive regulation of metabolic process	1440	0.32	0.41	4.71	22.55
+GO:0008285	negative regulation of cell proliferation	306	0.56	0.57	7.31	43.61
+GO:0051128	regulation of cellular component organization	1068	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	943	0.43	0.51	5.91	23.17
+GO:0031399	regulation of protein modification process	792	0.41	0.56	6.69	72.96
+GO:0045820	negative regulation of glycolytic process	4	0.89	0.89	9.59	4965.34
+GO:0031399	regulation of protein modification process	792	0.41	0.56	6.69	72.96
+GO:0045820	negative regulation of glycolytic process	4	0.89	0.89	9.59	4965.34
+GO:0031399	regulation of protein modification process	792	0.41	0.56	6.69	72.96
+GO:0045820	negative regulation of glycolytic process	4	0.89	0.89	9.59	4965.34
+GO:0031399	regulation of protein modification process	792	0.41	0.56	6.69	72.96
+GO:0045820	negative regulation of glycolytic process	4	0.89	0.89	9.59	4965.34
+GO:0031399	regulation of protein modification process	792	0.41	0.56	6.69	72.96
+GO:0045820	negative regulation of glycolytic process	4	0.89	0.89	9.59	4965.34
+GO:0065003	protein-containing complex assembly	731	0.45	0.48	6.06	36.47
+GO:0033554	cellular response to stress	731	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	724	0.51	0.55	6.92	23.17
+GO:0009967	positive regulation of signal transduction	695	0.44	0.54	6.71	140.23
+GO:0045595	regulation of cell differentiation	661	0.34	0.42	5.25	23.33
+GO:0043085	positive regulation of catalytic activity	596	0.48	0.49	6.15	18.32
+GO:0071310	cellular response to organic substance	570	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	505	0.44	0.54	6.68	140.65
+GO:0060548	negative regulation of cell death	460	0.54	0.56	7.27	41.94
+GO:0043525	positive regulation of neuron apoptotic process	32	0.84	0.80	9.39	179.36
+GO:0034613	cellular protein localization	469	0.45	0.48	6.33	26.83
+GO:0006952	defense response	371	0.56	0.48	6.67	9.54
+GO:0016071	mRNA metabolic process	312	0.59	0.65	8.39	115.08
+GO:0043312	neutrophil degranulation	284	1.00	0.90	9.63	132.80
+GO:0001819	positive regulation of cytokine production	221	0.51	0.54	6.97	44.26
+GO:0006897	endocytosis	190	0.63	0.61	8.09	26.36
+GO:0006875	cellular metal ion homeostasis	186	0.59	0.67	8.36	105.84
+GO:0015711	organic anion transport	165	0.43	0.54	6.27	28.20
+GO:0008654	phospholipid biosynthetic process	109	0.61	0.63	8.32	240.37
+GO:0006650	glycerophospholipid metabolic process	146	0.59	0.62	8.12	144.72
+GO:0051260	protein homooligomerization	139	0.89	0.77	9.41	42.03
+GO:0016055	Wnt signaling pathway	133	0.59	0.65	7.65	28.58
+GO:0006913	nucleocytoplasmic transport	131	0.63	0.64	8.15	33.20
+GO:0045637	regulation of myeloid cell differentiation	113	0.62	0.63	8.47	67.17
+GO:0032388	positive regulation of intracellular transport	105	0.61	0.63	8.04	60.38
+GO:1902115	regulation of organelle assembly	89	0.60	0.62	7.91	30.61
+GO:0035303	regulation of dephosphorylation	89	0.62	0.66	8.24	31.28
+GO:0008203	cholesterol metabolic process	57	0.80	0.72	9.22	82.65
+GO:0016236	macroautophagy	55	0.77	0.67	8.94	39.83
+GO:0045444	fat cell differentiation	53	0.87	0.68	9.29	21.07
+GO:0046034	ATP metabolic process	52	0.65	0.74	9.11	1262.34
+GO:0032091	negative regulation of protein binding	52	0.70	0.64	8.48	32.72
+GO:0051291	protein heterooligomerization	51	0.89	0.77	9.41	42.03
+GO:0046718	viral entry into host cell	46	0.77	0.73	8.94	28.37
+GO:0071260	cellular response to mechanical stimulus	45	1.00	0.79	9.63	56.12
+GO:0030183	B cell differentiation	44	0.73	0.69	9.02	64.36
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	44	0.83	0.85	9.50	3778.55
+GO:0048661	positive regulation of smooth muscle cell proliferation	37	0.93	0.79	9.52	63.46
+GO:0007173	epidermal growth factor receptor signaling pathway	26	0.78	0.78	9.04	32.39
+GO:0014910	regulation of smooth muscle cell migration	25	0.79	0.74	9.26	40.04
+GO:0006821	chloride transport	23	0.87	0.78	9.27	16.47
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	23	0.89	0.89	9.55	412.65
+GO:1900034	regulation of cellular response to heat	22	0.87	0.76	9.27	29.43
+GO:0045577	regulation of B cell differentiation	20	0.74	0.74	9.22	130.38
+GO:0051085	chaperone cofactor-dependent protein refolding	19	1.00	0.79	9.63	21.14
+GO:0007602	phototransduction	12	0.81	0.73	9.34	75.43
+GO:0010592	positive regulation of lamellipodium assembly	11	1.00	0.90	9.63	310.05
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	10	0.93	0.86	9.57	68.47
+GO:0048268	clathrin coat assembly	10	0.84	0.74	9.31	44.52
+GO:0051131	chaperone-mediated protein complex assembly	8	1.00	0.82	9.63	44.52
+GO:1902992	negative regulation of amyloid precursor protein catabolic process	7	0.87	0.78	9.43	177.76
+GO:0014898	cardiac muscle hypertrophy in response to stress	5	1.00	0.85	9.63	75.67
+GO:0002076	osteoblast development	5	1.00	0.75	9.63	32.15
+GO:0050908	detection of light stimulus involved in visual perception	5	1.00	0.85	9.63	116.24
+GO:0035434	copper ion transmembrane transport	5	0.83	0.81	9.43	100.43
+GO:0045053	protein retention in Golgi apparatus	4	1.00	0.82	9.63	46.06
+GO:1902966	positive regulation of protein localization to early endosome	4	1.00	0.88	9.63	104.27
+GO:0071787	endoplasmic reticulum tubular network formation	3	1.00	0.82	9.63	40.02
+GO:0090063	positive regulation of microtubule nucleation	3	0.93	0.90	9.59	521.74
+GO:0038123	toll-like receptor TLR1:TLR2 signaling pathway	2	1.00	0.95	9.63	412.65
+GO:0071725	response to triacyl bacterial lipopeptide	2	0.89	0.80	9.45	36.02
+GO:0034130	toll-like receptor 1 signaling pathway	1	1.00	0.95	9.63	412.65
+GO:1902311	regulation of copper ion transmembrane transport	1	0.89	0.82	9.45	56.27

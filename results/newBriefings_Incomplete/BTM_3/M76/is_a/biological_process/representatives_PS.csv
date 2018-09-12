@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1149	0.12	0.26	2.47	7.96
+GO:0050896	response to stimulus	636	0.25	0.12	2.65	3.37
+GO:0050789	regulation of biological process	1215	0.09	0.17	1.80	4.47
+GO:0048856	anatomical structure development	192	0.33	0.29	3.70	6.46
+GO:0048869	cellular developmental process	363	0.32	0.29	4.16	13.85
+GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0070647	protein modification by small protein conjugation or removal	55	0.61	0.66	8.44	151.15
+GO:0006139	nucleobase-containing compound metabolic process	340	0.29	0.40	5.40	96.28
+GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0070647	protein modification by small protein conjugation or removal	55	0.61	0.66	8.44	151.15
+GO:0006139	nucleobase-containing compound metabolic process	340	0.29	0.40	5.40	96.28
+GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0070647	protein modification by small protein conjugation or removal	55	0.61	0.66	8.44	151.15
+GO:0006139	nucleobase-containing compound metabolic process	340	0.29	0.40	5.40	96.28
+GO:0051276	chromosome organization	82	0.55	0.52	6.96	18.35
+GO:0051260	protein homooligomerization	47	0.89	0.77	9.41	42.03
+GO:0030855	epithelial cell differentiation	43	0.55	0.52	6.96	21.07
+GO:0000082	G1/S transition of mitotic cell cycle	31	1.00	0.79	9.63	42.75
+GO:0006334	nucleosome assembly	19	0.87	0.78	9.47	104.52
+GO:0034502	protein localization to chromosome	11	0.67	0.66	8.49	32.77
+GO:0000281	mitotic cytokinesis	10	0.93	0.76	9.47	28.62
+GO:0035264	multicellular organism growth	9	1.00	0.70	9.63	22.58
+GO:0007098	centrosome cycle	9	1.00	0.75	9.63	37.69
+GO:0030521	androgen receptor signaling pathway	5	0.89	0.82	9.45	54.01
+GO:0006294	nucleotide-excision repair, preincision complex assembly	4	1.00	0.85	9.63	65.90
+GO:0055089	fatty acid homeostasis	3	1.00	0.85	9.63	32.35
+GO:0000707	meiotic DNA recombinase assembly	2	0.83	0.79	9.41	133.96
+GO:0007141	male meiosis I	2	1.00	0.88	9.63	140.07
+GO:0031619	homologous chromosome orientation involved in meiotic metaphase I plate congression	1	1.00	0.82	9.63	36.66

@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	754	0.12	0.26	2.47	7.96
+GO:0051247	positive regulation of protein metabolic process	152	0.44	0.54	6.72	129.04
+GO:0010468	regulation of gene expression	248	0.35	0.46	5.09	13.73
+GO:0044260	cellular macromolecule metabolic process	312	0.28	0.39	4.44	30.44
+GO:1902531	regulation of intracellular signal transduction	186	0.45	0.55	6.77	41.85
+GO:0051240	positive regulation of multicellular organismal process	174	0.35	0.42	4.98	23.60
+GO:0006464	cellular protein modification process	153	0.34	0.49	5.84	147.03
+GO:0042981	regulation of apoptotic process	131	0.45	0.55	6.60	16.23
+GO:1901214	regulation of neuron death	27	0.67	0.63	8.47	13.83
+GO:0050778	positive regulation of immune response	114	0.46	0.52	6.76	78.39
+GO:0008104	protein localization	107	0.40	0.40	5.07	7.46
+GO:0045786	negative regulation of cell cycle	51	0.51	0.54	7.10	42.35
+GO:0010564	regulation of cell cycle process	66	0.42	0.50	6.22	14.24
+GO:0050863	regulation of T cell activation	67	0.52	0.61	7.60	29.19
+GO:0043547	positive regulation of GTPase activity	35	0.93	0.79	9.52	49.34
+GO:0000082	G1/S transition of mitotic cell cycle	27	1.00	0.79	9.63	42.75
+GO:0051028	mRNA transport	20	0.87	0.81	9.45	42.49
+GO:0000226	microtubule cytoskeleton organization	18	0.58	0.58	7.66	30.31
+GO:0046854	phosphatidylinositol phosphorylation	13	1.00	0.88	9.63	218.74
+GO:0007062	sister chromatid cohesion	7	0.75	0.67	8.80	32.57
+GO:0000070	mitotic sister chromatid segregation	6	1.00	0.82	9.63	56.84
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	6	0.89	0.80	9.45	80.05
+GO:1903902	positive regulation of viral life cycle	5	0.76	0.73	9.04	63.51
+GO:0016601	Rac protein signal transduction	5	1.00	0.88	9.63	29.61
+GO:0007098	centrosome cycle	4	1.00	0.75	9.63	37.69
+GO:0042089	cytokine biosynthetic process	3	0.63	0.64	8.18	87.71
+GO:0033314	mitotic DNA replication checkpoint	3	1.00	0.93	9.63	738.10
+GO:0051292	nuclear pore complex assembly	3	0.93	0.79	9.55	123.37
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	2	0.89	0.70	9.29	27.92
+GO:0045066	regulatory T cell differentiation	2	0.87	0.78	9.49	66.99
+GO:0051382	kinetochore assembly	2	1.00	0.82	9.63	123.98
+GO:0051402	neuron apoptotic process	2	0.83	0.70	9.02	23.44
+GO:0034551	mitochondrial respiratory chain complex III assembly	2	1.00	0.88	9.63	92.37
+GO:0034314	Arp2/3 complex-mediated actin nucleation	1	1.00	0.96	9.63	481.97
+GO:0070060	'de novo' actin filament nucleation	1	1.00	0.96	9.63	481.97

@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1253	0.08	0.04	0.98	3.37
+GO:0002682	regulation of immune system process	357	0.32	0.36	4.60	7.96
+GO:0048518	positive regulation of biological process	791	0.21	0.30	3.05	7.96
+GO:0019222	regulation of metabolic process	661	0.21	0.30	3.39	7.96
+GO:0048518	positive regulation of biological process	791	0.21	0.30	3.05	7.96
+GO:0044237	cellular metabolic process	766	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	625	0.22	0.36	4.01	22.77
+GO:0006810	transport	536	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	456	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	454	0.43	0.51	5.91	23.17
+GO:0031325	positive regulation of cellular metabolic process	422	0.33	0.46	5.39	79.98
+GO:0001666	response to hypoxia	51	0.81	0.70	9.12	21.16
+GO:0042221	response to chemical	391	0.32	0.29	4.12	6.14
+GO:0010243	response to organonitrogen compound	147	0.45	0.48	6.23	25.43
+GO:0065008	regulation of biological quality	400	0.28	0.26	3.48	4.47
+GO:0048869	cellular developmental process	349	0.32	0.29	4.16	13.85
+GO:0042127	regulation of cell proliferation	297	0.45	0.48	6.03	12.04
+GO:0010605	negative regulation of macromolecule metabolic process	280	0.37	0.48	5.54	39.19
+GO:0010941	regulation of cell death	255	0.43	0.47	6.10	12.04
+GO:0035556	intracellular signal transduction	245	0.51	0.55	6.92	23.17
+GO:0016477	cell migration	181	0.47	0.48	6.31	17.13
+GO:0051704	multi-organism process	179	0.29	0.15	3.12	3.37
+GO:0032774	RNA biosynthetic process	176	0.53	0.62	8.04	473.34
+GO:0030334	regulation of cell migration	176	0.48	0.56	7.11	36.74
+GO:0007186	G-protein coupled receptor signaling pathway	172	0.55	0.57	7.20	23.17
+GO:0098771	inorganic ion homeostasis	132	0.53	0.59	7.39	14.93
+GO:0055080	cation homeostasis	131	0.54	0.59	7.36	14.93
+GO:0006508	proteolysis	103	0.55	0.57	7.34	47.86
+GO:0048513	animal organ development	86	0.50	0.45	5.88	11.73
+GO:0045787	positive regulation of cell cycle	64	0.53	0.55	7.23	42.18
+GO:0035239	tube morphogenesis	33	0.56	0.48	6.58	10.94
+GO:0007275	multicellular organism development	25	0.70	0.55	8.18	19.32
+GO:0030522	intracellular receptor signaling pathway	21	0.65	0.62	7.99	23.17
+GO:0043401	steroid hormone mediated signaling pathway	16	0.75	0.70	8.80	25.74
+GO:0007274	neuromuscular synaptic transmission	4	0.93	0.84	9.52	25.74
+GO:0042045	epithelial fluid transport	4	0.89	0.74	9.34	24.06
+GO:0016264	gap junction assembly	3	1.00	0.82	9.63	56.14
+GO:2000253	positive regulation of feeding behavior	2	0.89	0.74	9.49	36.80
+GO:0043179	rhythmic excitation	1	1.00	0.88	9.63	31.31
+GO:1900625	positive regulation of monocyte aggregation	1	1.00	0.85	9.63	70.46

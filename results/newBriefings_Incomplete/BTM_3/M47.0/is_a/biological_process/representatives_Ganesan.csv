@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	211	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	42	0.28	0.26	3.48	4.47
+GO:0032024	positive regulation of insulin secretion	1	0.93	0.88	9.60	1037.38
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	1	0.89	0.91	9.59	905.07
+GO:0050789	regulation of biological process	174	0.09	0.17	1.80	4.47
+GO:0065008	regulation of biological quality	42	0.28	0.26	3.48	4.47
+GO:0032024	positive regulation of insulin secretion	1	0.93	0.88	9.60	1037.38
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	1	0.89	0.91	9.59	905.07
+GO:0050789	regulation of biological process	174	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	84	0.25	0.12	2.65	3.37
+GO:0065003	protein-containing complex assembly	29	0.45	0.48	6.06	36.47
+GO:0030154	cell differentiation	40	0.39	0.39	5.18	16.68
+GO:0008104	protein localization	37	0.40	0.40	5.07	7.46
+GO:0006810	transport	60	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	57	0.38	0.19	3.93	3.37
+GO:0022414	reproductive process	19	0.35	0.17	3.17	3.37
+GO:0048598	embryonic morphogenesis	6	0.54	0.47	6.15	10.94
+GO:0046718	viral entry into host cell	2	0.77	0.73	8.94	28.37
+GO:0048041	focal adhesion assembly	2	1.00	0.88	9.63	92.53

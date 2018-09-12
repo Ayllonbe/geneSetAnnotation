@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1610	0.09	0.05	0.84	3.37
+GO:0051716	cellular response to stimulus	448	0.35	0.30	4.36	13.53
+GO:0045626	negative regulation of T-helper 1 cell differentiation	1	1.00	0.96	9.63	2656.55
+GO:0002684	positive regulation of immune system process	300	0.41	0.45	5.71	22.61
+GO:0050776	regulation of immune response	287	0.38	0.44	5.64	22.45
+GO:1902531	regulation of intracellular signal transduction	329	0.45	0.55	6.77	41.85
+GO:0042127	regulation of cell proliferation	324	0.45	0.48	6.03	12.04
+GO:0031324	negative regulation of cellular metabolic process	320	0.34	0.46	5.46	80.35
+GO:0019221	cytokine-mediated signaling pathway	204	0.60	0.63	7.60	26.50
+GO:0007167	enzyme linked receptor protein signaling pathway	123	0.53	0.59	7.04	26.50
+GO:0051049	regulation of transport	296	0.31	0.40	4.67	10.45
+GO:0045595	regulation of cell differentiation	288	0.34	0.42	5.25	23.33
+GO:0030154	cell differentiation	274	0.39	0.39	5.18	16.68
+GO:0035556	intracellular signal transduction	274	0.51	0.55	6.92	23.17
+GO:0010628	positive regulation of gene expression	271	0.47	0.56	6.67	58.80
+GO:0042493	response to drug	125	0.47	0.43	5.84	9.28
+GO:0033993	response to lipid	186	0.53	0.51	6.86	13.32
+GO:0006996	organelle organization	235	0.39	0.39	5.17	14.95
+GO:0043066	negative regulation of apoptotic process	187	0.56	0.63	7.79	81.07
+GO:2001235	positive regulation of apoptotic signaling pathway	34	0.70	0.72	9.18	291.46
+GO:0006952	defense response	194	0.56	0.48	6.67	9.54
+GO:0030334	regulation of cell migration	192	0.48	0.56	7.11	36.74
+GO:0006470	protein dephosphorylation	18	0.76	0.73	9.22	177.17
+GO:0016310	phosphorylation	178	0.53	0.56	6.88	24.41
+GO:0042327	positive regulation of phosphorylation	190	0.56	0.66	8.02	180.93
+GO:0001817	regulation of cytokine production	166	0.40	0.45	5.78	11.79
+GO:0030279	negative regulation of ossification	16	0.84	0.71	9.38	41.83
+GO:0007186	G-protein coupled receptor signaling pathway	178	0.55	0.57	7.20	23.17
+GO:0048872	homeostasis of number of cells	25	0.67	0.58	7.80	10.43
+GO:0050801	ion homeostasis	153	0.50	0.54	6.88	13.14
+GO:0009653	anatomical structure morphogenesis	154	0.36	0.31	4.09	6.46
+GO:0051345	positive regulation of hydrolase activity	141	0.57	0.57	7.42	32.99
+GO:0050900	leukocyte migration	141	0.60	0.59	8.02	26.94
+GO:0022414	reproductive process	137	0.35	0.17	3.17	3.37
+GO:0010469	regulation of signaling receptor activity	113	0.59	0.62	7.95	48.62
+GO:0040008	regulation of growth	100	0.48	0.44	6.04	7.96
+GO:0097190	apoptotic signaling pathway	61	0.70	0.64	8.53	23.17
+GO:0032535	regulation of cellular component size	39	0.60	0.55	7.84	25.54
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	23	0.63	0.67	8.36	49.28
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	19	0.80	0.80	9.39	355.88
+GO:0007569	cell aging	18	0.80	0.60	8.94	24.75
+GO:0000018	regulation of DNA recombination	17	0.61	0.65	8.39	73.35
+GO:0000209	protein polyubiquitination	14	0.77	0.80	9.22	155.40
+GO:0010559	regulation of glycoprotein biosynthetic process	11	0.66	0.68	8.90	149.76
+GO:0001954	positive regulation of cell-matrix adhesion	10	0.87	0.76	9.34	50.26
+GO:0048041	focal adhesion assembly	7	1.00	0.88	9.63	92.53
+GO:0048538	thymus development	7	1.00	0.79	9.63	35.89
+GO:0014031	mesenchymal cell development	5	0.87	0.68	9.47	32.15
+GO:0035265	organ growth	4	0.77	0.58	8.75	22.58
+GO:0051402	neuron apoptotic process	4	0.83	0.70	9.02	23.44
+GO:0006582	melanin metabolic process	2	0.81	0.70	9.32	72.73
+GO:0072610	interleukin-12 secretion	2	1.00	0.92	9.63	137.07
+GO:0043375	CD8-positive, alpha-beta T cell lineage commitment	1	1.00	0.82	9.63	44.47

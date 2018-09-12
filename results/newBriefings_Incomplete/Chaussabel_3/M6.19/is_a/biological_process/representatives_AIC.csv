@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	360	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	194	0.24	0.37	3.90	23.85
+GO:0006355	regulation of transcription, DNA-templated	144	0.40	0.60	6.84	245.35
+GO:0007166	cell surface receptor signaling pathway	74	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	76	0.51	0.55	6.92	23.17
+GO:0006464	cellular protein modification process	113	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	102	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	96	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	71	0.32	0.29	4.16	13.85
+GO:0051240	positive regulation of multicellular organismal process	60	0.35	0.42	4.98	23.60
+GO:0032270	positive regulation of cellular protein metabolic process	52	0.47	0.59	7.41	288.49
+GO:0009967	positive regulation of signal transduction	49	0.44	0.54	6.71	140.23
+GO:0043066	negative regulation of apoptotic process	32	0.56	0.63	7.79	81.07
+GO:0045597	positive regulation of cell differentiation	31	0.45	0.51	6.57	82.53
+GO:0031347	regulation of defense response	23	0.40	0.49	5.73	14.14
+GO:0033674	positive regulation of kinase activity	21	0.61	0.70	8.62	265.90
+GO:0030335	positive regulation of cell migration	19	0.58	0.64	8.22	157.26
+GO:0016477	cell migration	19	0.47	0.48	6.31	17.13
+GO:0048468	cell development	19	0.51	0.45	6.51	28.42
+GO:0034105	positive regulation of tissue remodeling	1	0.78	0.68	9.09	42.29
+GO:0001819	positive regulation of cytokine production	17	0.51	0.54	6.97	44.26
+GO:0001933	negative regulation of protein phosphorylation	17	0.61	0.70	8.76	664.69
+GO:0098542	defense response to other organism	16	0.66	0.62	8.42	39.21
+GO:0045087	innate immune response	14	0.68	0.59	8.16	26.47
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	10	0.80	0.80	9.39	355.88
+GO:0002521	leukocyte differentiation	10	0.58	0.54	7.41	21.07
+GO:0001701	in utero embryonic development	10	1.00	0.85	9.63	22.50
+GO:0060271	cilium assembly	9	0.87	0.76	9.41	137.68
+GO:0030336	negative regulation of cell migration	7	0.58	0.64	8.21	158.04
+GO:0050766	positive regulation of phagocytosis	7	0.77	0.76	9.34	175.33
+GO:0043393	regulation of protein binding	7	0.59	0.55	7.49	9.33
+GO:0051251	positive regulation of lymphocyte activation	7	0.58	0.64	8.19	127.58
+GO:1902105	regulation of leukocyte differentiation	7	0.53	0.59	7.80	67.17
+GO:0043666	regulation of phosphoprotein phosphatase activity	6	0.74	0.77	9.33	158.30
+GO:0090630	activation of GTPase activity	5	1.00	0.85	9.63	49.34
+GO:0001894	tissue homeostasis	4	0.72	0.65	8.40	12.04
+GO:0000904	cell morphogenesis involved in differentiation	4	0.65	0.62	8.19	44.36
+GO:0008584	male gonad development	4	1.00	0.79	9.63	50.96
+GO:0042098	T cell proliferation	3	0.72	0.69	9.08	51.29
+GO:0035735	intraciliary transport involved in cilium assembly	3	1.00	0.88	9.63	77.81
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	3	0.62	0.66	8.48	139.22
+GO:0045621	positive regulation of lymphocyte differentiation	3	0.67	0.71	9.10	508.22
+GO:0007602	phototransduction	2	0.81	0.73	9.34	75.43
+GO:0009083	branched-chain amino acid catabolic process	2	0.79	0.77	9.39	378.50
+GO:0006596	polyamine biosynthetic process	2	0.77	0.76	9.28	263.11
+GO:0051496	positive regulation of stress fiber assembly	2	1.00	0.93	9.63	365.07
+GO:0001954	positive regulation of cell-matrix adhesion	2	0.87	0.76	9.34	50.26
+GO:1901741	positive regulation of myoblast fusion	2	1.00	0.90	9.63	353.20
+GO:0072289	metanephric nephron tubule formation	1	1.00	0.85	9.63	32.06
+GO:0097055	agmatine biosynthetic process	1	1.00	0.82	9.63	79.23
+GO:0007616	long-term memory	1	1.00	0.85	9.63	22.23
+GO:0061138	morphogenesis of a branching epithelium	1	0.70	0.64	8.48	36.50
+GO:0046533	negative regulation of photoreceptor cell differentiation	1	0.80	0.80	9.46	407.22
+GO:0021915	neural tube development	1	1.00	0.79	9.63	33.01
+GO:0072197	ureter morphogenesis	1	1.00	0.75	9.63	27.65
+GO:0030885	regulation of myeloid dendritic cell activation	1	0.89	0.77	9.38	27.11
+GO:1904864	negative regulation of beta-catenin-TCF complex assembly	1	1.00	0.85	9.63	113.99
+GO:2000095	regulation of Wnt signaling pathway, planar cell polarity pathway	1	0.72	0.73	9.24	111.49
+GO:0032693	negative regulation of interleukin-10 production	1	0.89	0.77	9.43	65.25
+GO:0035162	embryonic hemopoiesis	1	0.93	0.79	9.49	36.11

@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	1487	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	3661	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	2368	0.22	0.36	4.01	22.77
+GO:0006355	regulation of transcription, DNA-templated	1431	0.40	0.60	6.84	245.35
+GO:0051716	cellular response to stimulus	1106	0.35	0.30	4.36	13.53
+GO:0032774	RNA biosynthetic process	1002	0.53	0.62	8.04	473.34
+GO:2001272	positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	1	0.93	0.93	9.61	946.38
+GO:0031324	negative regulation of cellular metabolic process	996	0.34	0.46	5.46	80.35
+GO:0006357	regulation of transcription by RNA polymerase II	993	0.44	0.63	7.11	248.57
+GO:0051641	cellular localization	911	0.37	0.31	4.44	5.67
+GO:0007166	cell surface receptor signaling pathway	824	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	751	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	31	1.00	0.82	9.63	361.03
+GO:0044248	cellular catabolic process	744	0.31	0.36	4.57	26.23
+GO:0010628	positive regulation of gene expression	737	0.47	0.56	6.67	58.80
+GO:0065003	protein-containing complex assembly	668	0.45	0.48	6.06	36.47
+GO:0070126	mitochondrial translational termination	62	1.00	0.85	9.63	40.69
+GO:0044093	positive regulation of molecular function	658	0.43	0.41	5.23	6.77
+GO:0035556	intracellular signal transduction	648	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	565	0.45	0.55	6.60	16.23
+GO:0051130	positive regulation of cellular component organization	481	0.42	0.50	5.95	43.84
+GO:0090068	positive regulation of cell cycle process	131	0.54	0.59	7.58	61.43
+GO:0051253	negative regulation of RNA metabolic process	529	0.52	0.61	7.81	302.25
+GO:0022402	cell cycle process	432	0.40	0.32	4.60	7.39
+GO:0070647	protein modification by small protein conjugation or removal	430	0.61	0.66	8.44	151.15
+GO:0045321	leukocyte activation	379	0.52	0.46	6.78	16.27
+GO:0006259	DNA metabolic process	352	0.45	0.55	7.12	145.26
+GO:0008284	positive regulation of cell proliferation	318	0.56	0.57	7.27	43.45
+GO:0000375	RNA splicing, via transesterification reactions	114	0.76	0.78	9.33	118.58
+GO:0034470	ncRNA processing	156	0.52	0.64	7.80	235.20
+GO:0043603	cellular amide metabolic process	230	0.47	0.48	6.49	29.84
+GO:0043101	purine-containing compound salvage	7	0.72	0.69	9.24	725.34
+GO:0043603	cellular amide metabolic process	230	0.47	0.48	6.49	29.84
+GO:0043101	purine-containing compound salvage	7	0.72	0.69	9.24	725.34
+GO:0051276	chromosome organization	167	0.55	0.52	6.96	18.35
+GO:0006414	translational elongation	70	0.77	0.71	9.12	105.16
+GO:0030218	erythrocyte differentiation	29	0.84	0.71	9.12	22.68
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	26	0.89	0.82	9.54	374.75
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	24	1.00	0.88	9.63	115.14
+GO:0007595	lactation	20	1.00	0.82	9.63	25.96
+GO:0032743	positive regulation of interleukin-2 production	19	0.89	0.77	9.43	65.24
+GO:0010501	RNA secondary structure unwinding	17	1.00	0.85	9.63	115.08
+GO:0002026	regulation of the force of heart contraction	9	0.72	0.71	8.76	26.87
+GO:0048240	sperm capacitation	8	1.00	0.75	9.63	67.15
+GO:0075733	intracellular transport of virus	6	0.73	0.69	8.98	41.41
+GO:0060409	positive regulation of acetylcholine metabolic process	1	0.93	0.82	9.58	316.65

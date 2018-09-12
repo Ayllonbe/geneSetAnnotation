@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	818	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	565	0.35	0.46	5.09	13.73
+GO:0042127	regulation of cell proliferation	365	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	316	0.51	0.55	6.92	23.17
+GO:0032355	response to estradiol	30	0.93	0.76	9.52	74.25
+GO:1901701	cellular response to oxygen-containing compound	207	0.47	0.48	6.19	42.34
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0051347	positive regulation of transferase activity	153	0.57	0.58	7.37	32.95
+GO:0030334	regulation of cell migration	215	0.48	0.56	7.11	36.74
+GO:0006351	transcription, DNA-templated	215	0.57	0.68	8.45	581.39
+GO:0008104	protein localization	206	0.40	0.40	5.07	7.46
+GO:0051726	regulation of cell cycle	186	0.41	0.45	5.89	12.04
+GO:0006468	protein phosphorylation	165	0.57	0.64	8.18	177.76
+GO:0045596	negative regulation of cell differentiation	138	0.44	0.51	6.50	82.79
+GO:1903047	mitotic cell cycle process	136	0.50	0.45	5.87	11.32
+GO:0051960	regulation of nervous system development	135	0.45	0.52	6.58	27.38
+GO:0006259	DNA metabolic process	120	0.45	0.55	7.12	145.26
+GO:0006974	cellular response to DNA damage stimulus	119	0.57	0.53	7.47	29.00
+GO:0048513	animal organ development	107	0.50	0.45	5.88	11.73
+GO:0003006	developmental process involved in reproduction	101	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	90	0.55	0.52	6.96	18.35
+GO:0055086	nucleobase-containing small molecule metabolic process	86	0.38	0.48	6.63	107.58
+GO:0051259	protein complex oligomerization	81	0.78	0.68	9.09	40.42
+GO:0051052	regulation of DNA metabolic process	79	0.47	0.56	7.17	70.58
+GO:0001558	regulation of cell growth	77	0.58	0.58	7.66	26.25
+GO:0051640	organelle localization	55	0.49	0.45	6.08	7.87
+GO:1903046	meiotic cell cycle process	35	0.49	0.44	6.09	19.36
+GO:0043524	negative regulation of neuron apoptotic process	30	0.79	0.77	9.25	179.63
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	25	0.61	0.63	8.36	112.25
+GO:0016202	regulation of striated muscle tissue development	22	0.61	0.63	8.27	41.67
+GO:0051983	regulation of chromosome segregation	20	0.53	0.51	7.14	12.04
+GO:0010718	positive regulation of epithelial to mesenchymal transition	16	0.81	0.73	9.38	170.70
+GO:0043414	macromolecule methylation	16	0.54	0.56	7.39	54.55
+GO:0071479	cellular response to ionizing radiation	15	0.89	0.77	9.45	48.66
+GO:0034446	substrate adhesion-dependent cell spreading	11	1.00	0.82	9.63	56.23
+GO:1903429	regulation of cell maturation	5	0.67	0.66	8.53	30.45
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	3	1.00	0.92	9.63	350.56
+GO:0071163	DNA replication preinitiation complex assembly	3	0.87	0.78	9.39	77.23
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	3	1.00	0.85	9.63	112.16
+GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0032487	regulation of Rap protein signal transduction	2	1.00	0.90	9.63	48.76
+GO:0042148	strand invasion	2	0.84	0.77	9.46	149.04
+GO:0098534	centriole assembly	2	0.84	0.71	9.34	67.08
+GO:0099607	lateral attachment of mitotic spindle microtubules to kinetochore	1	1.00	0.79	9.63	28.62
+GO:0033624	negative regulation of integrin activation	1	1.00	0.85	9.63	113.99
+GO:0048387	negative regulation of retinoic acid receptor signaling pathway	1	1.00	0.85	9.63	187.41
+GO:0010792	DNA double-strand break processing involved in repair via single-strand annealing	1	1.00	0.88	9.63	150.43

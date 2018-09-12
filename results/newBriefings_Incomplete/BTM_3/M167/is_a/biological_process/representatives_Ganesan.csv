@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1762	0.00	0.00	0.00	0.00
+GO:0009817	defense response to fungus, incompatible interaction	1	1.00	0.85	9.63	143.15
+GO:0065007	biological regulation	1361	0.08	0.04	0.98	3.37
+GO:0031098	stress-activated protein kinase signaling cascade	8	0.80	0.72	9.19	55.43
+GO:0043433	negative regulation of DNA binding transcription factor activity	26	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	46	0.81	0.84	9.43	277.83
+GO:1903408	positive regulation of sodium:potassium-exchanging ATPase activity	1	1.00	0.93	9.63	1737.61
+GO:0051179	localization	631	0.26	0.13	2.57	3.37

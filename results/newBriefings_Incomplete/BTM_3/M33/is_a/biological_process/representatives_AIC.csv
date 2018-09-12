@@ -1,0 +1,67 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1448	0.12	0.26	2.47	7.96
+GO:0050776	regulation of immune response	344	0.38	0.44	5.64	22.45
+GO:0050794	regulation of cellular process	1448	0.12	0.26	2.47	7.96
+GO:0050776	regulation of immune response	344	0.38	0.44	5.64	22.45
+GO:0032879	regulation of localization	516	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	1012	0.21	0.30	3.05	7.96
+GO:0019222	regulation of metabolic process	860	0.21	0.30	3.39	7.96
+GO:0010646	regulation of cell communication	615	0.30	0.40	4.51	12.04
+GO:1903974	positive regulation of cellular response to macrophage colony-stimulating factor stimulus	2	0.93	0.82	9.55	111.62
+GO:0031326	regulation of cellular biosynthetic process	554	0.29	0.44	4.86	40.35
+GO:0019538	protein metabolic process	501	0.31	0.41	4.91	44.77
+GO:0051716	cellular response to stimulus	497	0.35	0.30	4.36	13.53
+GO:0048869	cellular developmental process	451	0.32	0.29	4.16	13.85
+GO:0051128	regulation of cellular component organization	407	0.30	0.40	4.57	12.04
+GO:0042127	regulation of cell proliferation	360	0.45	0.48	6.03	12.04
+GO:0022607	cellular component assembly	335	0.39	0.39	5.06	14.95
+GO:0071310	cellular response to organic substance	311	0.44	0.47	5.95	41.66
+GO:0071402	cellular response to lipoprotein particle stimulus	9	0.84	0.62	8.94	15.93
+GO:0034654	nucleobase-containing compound biosynthetic process	314	0.40	0.49	6.85	317.02
+GO:0042981	regulation of apoptotic process	302	0.45	0.55	6.60	16.23
+GO:0001934	positive regulation of protein phosphorylation	213	0.58	0.69	8.60	663.11
+GO:0031398	positive regulation of protein ubiquitination	19	0.75	0.79	9.37	528.45
+GO:0009968	negative regulation of signal transduction	220	0.44	0.54	6.68	140.65
+GO:0006955	immune response	215	0.54	0.40	6.57	12.45
+GO:0002274	myeloid leukocyte activation	214	0.68	0.59	8.67	18.06
+GO:0030334	regulation of cell migration	211	0.48	0.56	7.11	36.74
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0010033	response to organic substance	439	0.35	0.37	4.75	9.28
+GO:1901698	response to nitrogen compound	191	0.44	0.42	5.62	9.28
+GO:0051707	response to other organism	178	0.42	0.46	6.41	24.63
+GO:0032269	negative regulation of cellular protein metabolic process	177	0.47	0.59	7.45	289.39
+GO:0002757	immune response-activating signal transduction	149	0.61	0.66	8.47	138.88
+GO:0014739	positive regulation of muscle hyperplasia	1	1.00	0.88	9.63	117.66
+GO:0001819	positive regulation of cytokine production	147	0.51	0.54	6.97	44.26
+GO:0015031	protein transport	144	0.48	0.59	6.99	54.46
+GO:0002696	positive regulation of leukocyte activation	143	0.57	0.61	7.92	96.44
+GO:0044255	cellular lipid metabolic process	138	0.38	0.44	5.89	38.02
+GO:0032496	response to lipopolysaccharide	117	0.89	0.74	9.45	64.41
+GO:0016525	negative regulation of angiogenesis	28	0.81	0.78	9.32	151.11
+GO:0001818	negative regulation of cytokine production	81	0.51	0.55	7.03	44.36
+GO:0043087	regulation of GTPase activity	84	0.87	0.72	9.29	12.47
+GO:0031329	regulation of cellular catabolic process	79	0.43	0.51	6.41	39.60
+GO:0006979	response to oxidative stress	66	0.65	0.53	8.02	9.54
+GO:0006898	receptor-mediated endocytosis	60	0.68	0.66	8.48	28.44
+GO:0050777	negative regulation of immune response	47	0.52	0.55	7.29	78.83
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	41	0.80	0.65	8.94	20.20
+GO:0051384	response to glucocorticoid	38	0.77	0.73	9.22	62.74
+GO:0072659	protein localization to plasma membrane	22	0.79	0.72	9.26	65.43
+GO:0045670	regulation of osteoclast differentiation	22	0.83	0.79	9.49	139.68
+GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
+GO:0002292	T cell differentiation involved in immune response	11	0.76	0.73	9.26	150.84
+GO:0050718	positive regulation of interleukin-1 beta secretion	10	1.00	0.93	9.63	998.82
+GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	6	0.93	0.86	9.58	354.41
+GO:2000727	positive regulation of cardiac muscle cell differentiation	6	0.84	0.82	9.49	667.95
+GO:0042311	vasodilation	6	0.79	0.77	9.15	40.37
+GO:0006749	glutathione metabolic process	4	0.84	0.74	9.36	147.29
+GO:0048298	positive regulation of isotype switching to IgA isotypes	4	1.00	0.93	9.63	1407.90
+GO:0042744	hydrogen peroxide catabolic process	4	0.93	0.79	9.56	235.80
+GO:0043306	positive regulation of mast cell degranulation	4	0.89	0.88	9.58	1034.30
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	4	1.00	0.82	9.63	60.18
+GO:0002885	positive regulation of hypersensitivity	4	0.80	0.81	9.44	636.62
+GO:0002554	serotonin secretion by platelet	3	1.00	0.92	9.63	131.65
+GO:0007628	adult walking behavior	3	1.00	0.75	9.63	34.94
+GO:1903223	positive regulation of oxidative stress-induced neuron death	2	0.93	0.86	9.58	363.38
+GO:0060729	intestinal epithelial structure maintenance	1	1.00	0.88	9.63	27.02
+GO:0043403	skeletal muscle tissue regeneration	1	0.93	0.76	9.51	44.68

@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	355	0.25	0.32	3.46	10.22
+GO:0070887	cellular response to chemical stimulus	60	0.40	0.40	5.31	25.21
+GO:0098660	inorganic ion transmembrane transport	24	0.56	0.60	7.40	27.94
+GO:0019725	cellular homeostasis	23	0.53	0.52	6.93	17.82
+GO:0051251	positive regulation of lymphocyte activation	10	0.58	0.64	8.19	127.58
+GO:0046718	viral entry into host cell	8	0.77	0.73	8.94	28.37
+GO:0043304	regulation of mast cell degranulation	4	0.80	0.81	9.52	224.79
+GO:0006446	regulation of translational initiation	4	0.62	0.69	8.74	215.82
+GO:0006826	iron ion transport	2	0.70	0.72	8.76	19.76
+GO:0048388	endosomal lumen acidification	1	1.00	0.95	9.63	182.54
+GO:0045780	positive regulation of bone resorption	1	1.00	0.85	9.63	82.90
+GO:0030316	osteoclast differentiation	1	0.93	0.79	9.51	47.07
+GO:0038114	interleukin-21-mediated signaling pathway	1	1.00	0.85	9.63	30.19

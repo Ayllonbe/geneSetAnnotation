@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1325	0.12	0.26	2.47	7.96
+GO:0050896	response to stimulus	741	0.25	0.12	2.65	3.37
+GO:0009966	regulation of signal transduction	534	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	528	0.43	0.51	5.91	23.17
+GO:0051252	regulation of RNA metabolic process	425	0.37	0.51	6.06	70.58
+GO:0042127	regulation of cell proliferation	335	0.45	0.48	6.03	12.04
+GO:0002684	positive regulation of immune system process	322	0.41	0.45	5.71	22.61
+GO:0016192	vesicle-mediated transport	313	0.52	0.51	6.57	10.99
+GO:0050776	regulation of immune response	308	0.38	0.44	5.64	22.45
+GO:0006811	ion transport	210	0.38	0.44	5.19	10.99
+GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
+GO:1901985	positive regulation of protein acetylation	8	0.76	0.78	9.32	446.39
+GO:0051130	positive regulation of cellular component organization	189	0.42	0.50	5.95	43.84
+GO:0051149	positive regulation of muscle cell differentiation	18	0.71	0.68	8.85	114.55
+GO:0001817	regulation of cytokine production	180	0.40	0.45	5.78	11.79
+GO:0098771	inorganic ion homeostasis	148	0.53	0.59	7.39	14.93
+GO:0055080	cation homeostasis	147	0.54	0.59	7.36	14.93
+GO:0006468	protein phosphorylation	147	0.57	0.64	8.18	177.76
+GO:0050900	leukocyte migration	146	0.60	0.59	8.02	26.94
+GO:0030335	positive regulation of cell migration	138	0.58	0.64	8.22	157.26
+GO:0060284	regulation of cell development	132	0.42	0.50	6.27	27.05
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	104	0.58	0.64	7.56	28.11
+GO:0060326	cell chemotaxis	96	0.64	0.61	8.15	30.29
+GO:0001666	response to hypoxia	63	0.81	0.70	9.12	21.16
+GO:0050852	T cell receptor signaling pathway	48	1.00	0.92	9.63	219.43
+GO:0022900	electron transport chain	46	0.71	0.61	8.48	29.76
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	46	0.71	0.71	8.71	27.67
+GO:0006913	nucleocytoplasmic transport	39	0.63	0.64	8.15	33.20
+GO:0048812	neuron projection morphogenesis	36	0.65	0.68	8.50	63.00
+GO:0048754	branching morphogenesis of an epithelial tube	27	0.74	0.69	8.88	51.71
+GO:0090316	positive regulation of intracellular protein transport	25	0.71	0.73	9.11	289.79
+GO:0032091	negative regulation of protein binding	23	0.70	0.64	8.48	32.72
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	22	0.78	0.71	8.87	26.98
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	22	1.00	0.92	9.63	384.64
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	19	1.00	0.93	9.63	628.11
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0031532	actin cytoskeleton reorganization	9	1.00	0.82	9.63	32.01
+GO:0002430	complement receptor mediated signaling pathway	7	0.93	0.86	9.58	218.74
+GO:0032869	cellular response to insulin stimulus	7	1.00	0.88	9.63	462.70
+GO:0002369	T cell cytokine production	4	0.87	0.76	9.49	52.63
+GO:0060999	positive regulation of dendritic spine development	4	0.93	0.90	9.60	671.85
+GO:2001275	positive regulation of glucose import in response to insulin stimulus	3	1.00	0.90	9.63	210.72
+GO:0002309	T cell proliferation involved in immune response	2	0.87	0.78	9.52	137.08
+GO:0071800	podosome assembly	2	1.00	0.79	9.63	81.13
+GO:0007263	nitric oxide mediated signal transduction	2	0.93	0.82	9.51	27.81
+GO:0045342	MHC class II biosynthetic process	1	1.00	0.79	9.63	39.16

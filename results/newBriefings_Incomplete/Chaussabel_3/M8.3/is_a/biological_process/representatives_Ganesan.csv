@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	3063	0.00	0.00	0.00	0.00
+GO:0097755	positive regulation of blood vessel diameter	11	0.75	0.73	9.07	39.68
+GO:0060316	positive regulation of ryanodine-sensitive calcium-release channel activity	4	1.00	0.98	9.63	2786.52
+GO:2000320	negative regulation of T-helper 17 cell differentiation	3	0.93	0.93	9.61	2655.68
+GO:0050789	regulation of biological process	2141	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	623	0.33	0.29	4.10	4.47
+GO:0006810	transport	844	0.28	0.34	3.95	7.46
+GO:0051656	establishment of organelle localization	76	0.54	0.52	6.99	18.16
+GO:0043207	response to external biotic stimulus	176	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	482	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	544	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	563	0.22	0.11	1.89	3.37

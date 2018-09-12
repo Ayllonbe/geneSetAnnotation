@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	966	0.12	0.26	2.47	7.96
+GO:0010033	response to organic substance	308	0.35	0.37	4.75	9.28
+GO:0042127	regulation of cell proliferation	245	0.45	0.48	6.03	12.04
+GO:0051049	regulation of transport	229	0.31	0.40	4.67	10.45
+GO:0046903	secretion	223	0.46	0.48	5.79	10.99
+GO:0006357	regulation of transcription by RNA polymerase II	193	0.44	0.63	7.11	248.57
+GO:0007186	G-protein coupled receptor signaling pathway	161	0.55	0.57	7.20	23.17
+GO:0006629	lipid metabolic process	104	0.37	0.38	5.19	18.42
+GO:0022414	reproductive process	95	0.35	0.17	3.17	3.37
+GO:0006875	cellular metal ion homeostasis	94	0.59	0.67	8.36	105.84
+GO:0001819	positive regulation of cytokine production	91	0.51	0.54	6.97	44.26
+GO:0050767	regulation of neurogenesis	73	0.47	0.56	7.34	60.46
+GO:0045786	negative regulation of cell cycle	65	0.51	0.54	7.10	42.35
+GO:0043087	regulation of GTPase activity	59	0.87	0.72	9.29	12.47
+GO:0006366	transcription by RNA polymerase II	53	0.60	0.72	8.61	583.88
+GO:0030036	actin cytoskeleton organization	43	0.63	0.61	8.05	29.61
+GO:0010817	regulation of hormone levels	43	0.41	0.40	5.23	8.64
+GO:0032102	negative regulation of response to external stimulus	40	0.51	0.55	6.94	42.31
+GO:0009150	purine ribonucleotide metabolic process	37	0.55	0.67	8.37	538.25
+GO:0030111	regulation of Wnt signaling pathway	37	0.59	0.62	7.99	41.85
+GO:0016055	Wnt signaling pathway	29	0.59	0.65	7.65	28.58
+GO:0008277	regulation of G-protein coupled receptor protein signaling pathway	13	0.54	0.59	7.53	41.85
+GO:0022008	neurogenesis	11	0.87	0.68	9.29	21.07
+GO:0097755	positive regulation of blood vessel diameter	8	0.75	0.73	9.07	39.68
+GO:0030326	embryonic limb morphogenesis	8	0.89	0.74	9.38	43.31
+GO:0043950	positive regulation of cAMP-mediated signaling	5	0.84	0.80	9.52	239.52
+GO:0051968	positive regulation of synaptic transmission, glutamatergic	5	0.89	0.82	9.56	135.83
+GO:0001662	behavioral fear response	4	1.00	0.79	9.63	37.89
+GO:0010656	negative regulation of muscle cell apoptotic process	3	0.84	0.80	9.49	104.61
+GO:0051205	protein insertion into membrane	2	0.74	0.72	9.08	54.50
+GO:0006825	copper ion transport	2	0.77	0.76	9.07	19.76
+GO:0021520	spinal cord motor neuron cell fate specification	1	1.00	0.79	9.63	21.52

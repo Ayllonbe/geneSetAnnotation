@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006464	cellular protein modification process	819	0.34	0.49	5.84	147.03
+GO:0032774	RNA biosynthetic process	639	0.53	0.62	8.04	473.34
+GO:0006996	organelle organization	581	0.39	0.39	5.17	14.95
+GO:0046907	intracellular transport	458	0.46	0.48	6.38	29.65
+GO:0045184	establishment of protein localization	410	0.46	0.48	6.14	17.87
+GO:0045893	positive regulation of transcription, DNA-templated	386	0.52	0.67	8.14	1208.12
+GO:1902533	positive regulation of intracellular signal transduction	266	0.55	0.63	7.95	189.48
+GO:0043066	negative regulation of apoptotic process	241	0.56	0.63	7.79	81.07
+GO:0034622	cellular protein-containing complex assembly	221	0.48	0.53	6.52	40.42
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0006091	generation of precursor metabolites and energy	106	0.53	0.46	6.54	17.52
+GO:0050714	positive regulation of protein secretion	73	0.65	0.70	8.73	381.48
+GO:0045666	positive regulation of neuron differentiation	70	0.62	0.68	8.71	337.32
+GO:0070838	divalent metal ion transport	60	0.62	0.66	8.27	33.88
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	49	1.00	0.79	9.63	42.20
+GO:0046034	ATP metabolic process	35	0.65	0.74	9.11	1262.34
+GO:0048278	vesicle docking	22	0.81	0.70	9.18	21.39
+GO:0007632	visual behavior	16	0.84	0.71	9.27	26.72
+GO:0005977	glycogen metabolic process	14	0.87	0.78	9.52	182.58
+GO:0045661	regulation of myoblast differentiation	14	0.83	0.70	9.34	27.05
+GO:0030032	lamellipodium assembly	10	0.89	0.77	9.53	78.22
+GO:0030520	intracellular estrogen receptor signaling pathway	10	1.00	0.88	9.63	54.01
+GO:0090307	mitotic spindle assembly	10	1.00	0.88	9.63	186.05
+GO:0009101	glycoprotein biosynthetic process	8	0.74	0.69	9.22	293.39
+GO:0033344	cholesterol efflux	5	1.00	0.88	9.63	39.64
+GO:0032790	ribosome disassembly	3	1.00	0.82	9.63	97.00
+GO:0009155	purine deoxyribonucleotide catabolic process	3	0.80	0.83	9.51	3977.59
+GO:0045053	protein retention in Golgi apparatus	3	1.00	0.82	9.63	46.06
+GO:0015782	CMP-N-acetylneuraminate transmembrane transport	1	1.00	0.88	9.63	142.06
+GO:0032468	Golgi calcium ion homeostasis	1	1.00	0.92	9.63	288.69
+GO:0046712	GDP catabolic process	1	1.00	0.93	9.63	11272.81
+GO:0006256	UDP catabolic process	1	1.00	0.93	9.63	10560.58

@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	3430	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	3060	0.16	0.21	2.71	13.80
+GO:0010468	regulation of gene expression	1516	0.35	0.46	5.09	13.73
+GO:0008104	protein localization	660	0.40	0.40	5.07	7.46
+GO:0006810	transport	1329	0.28	0.34	3.95	7.46
+GO:0065009	regulation of molecular function	980	0.33	0.29	4.10	4.47
+GO:0032502	developmental process	902	0.22	0.11	1.89	3.37
+GO:0006950	response to stress	890	0.39	0.32	4.70	6.14
+GO:0065008	regulation of biological quality	866	0.28	0.26	3.48	4.47
+GO:0022607	cellular component assembly	854	0.39	0.39	5.06	14.95
+GO:0051239	regulation of multicellular organismal process	853	0.23	0.32	3.68	7.96
+GO:0032879	regulation of localization	832	0.27	0.33	4.05	7.96
+GO:0010033	response to organic substance	658	0.35	0.37	4.75	9.28
+GO:0080134	regulation of response to stress	478	0.35	0.42	5.03	11.65
+GO:0051726	regulation of cell cycle	426	0.41	0.45	5.89	12.04
+GO:0006486	protein glycosylation	79	0.62	0.66	8.59	174.08
+GO:0032482	Rab protein signal transduction	30	1.00	0.88	9.63	29.61
+GO:1903426	regulation of reactive oxygen species biosynthetic process	26	0.79	0.72	9.22	42.43
+GO:0035176	social behavior	16	1.00	0.70	9.63	22.58
+GO:0070233	negative regulation of T cell apoptotic process	12	0.83	0.83	9.37	155.58
+GO:0001881	receptor recycling	5	0.84	0.74	9.22	34.80
+GO:0032227	negative regulation of synaptic transmission, dopaminergic	3	0.89	0.82	9.56	135.87
+GO:0072086	specification of loop of Henle identity	2	0.93	0.76	9.47	26.26

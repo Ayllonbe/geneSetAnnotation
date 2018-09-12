@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	174	0.35	0.46	5.97	111.15
+GO:0006357	regulation of transcription by RNA polymerase II	104	0.44	0.63	7.11	248.57
+GO:0042981	regulation of apoptotic process	52	0.45	0.55	6.60	16.23
+GO:0002682	regulation of immune system process	45	0.32	0.36	4.60	7.96
+GO:0019752	carboxylic acid metabolic process	35	0.32	0.45	5.31	42.50
+GO:0019752	carboxylic acid metabolic process	35	0.32	0.45	5.31	42.50
+GO:0043207	response to external biotic stimulus	28	0.41	0.40	5.91	16.64
+GO:0055086	nucleobase-containing small molecule metabolic process	25	0.38	0.48	6.63	107.58
+GO:0043900	regulation of multi-organism process	17	0.40	0.40	5.32	7.96
+GO:0045087	innate immune response	16	0.68	0.59	8.16	26.47
+GO:0050768	negative regulation of neurogenesis	10	0.58	0.64	8.39	271.38
+GO:1901605	alpha-amino acid metabolic process	8	0.44	0.57	6.86	80.64
+GO:0008584	male gonad development	5	1.00	0.79	9.63	50.96
+GO:0006333	chromatin assembly or disassembly	4	0.70	0.60	8.29	17.51
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	4	0.93	0.91	9.59	279.62
+GO:0048704	embryonic skeletal system morphogenesis	3	0.87	0.72	9.38	45.49
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	3	0.89	0.86	9.54	264.07
+GO:0010529	negative regulation of transposition	2	0.87	0.72	9.27	41.76
+GO:0051290	protein heterotetramerization	2	1.00	0.85	9.63	85.45
+GO:0001780	neutrophil homeostasis	1	1.00	0.82	9.63	41.67
+GO:0060218	hematopoietic stem cell differentiation	1	1.00	0.79	9.63	45.53
+GO:0016554	cytidine to uridine editing	1	1.00	0.90	9.63	133.94
+GO:0070105	positive regulation of interleukin-6-mediated signaling pathway	1	1.00	0.88	9.63	305.69
+GO:0010956	negative regulation of calcidiol 1-monooxygenase activity	1	1.00	0.92	9.63	1348.07
+GO:2000738	positive regulation of stem cell differentiation	1	0.78	0.71	9.19	114.96
+GO:0048539	bone marrow development	1	1.00	0.79	9.63	32.52
+GO:0002644	negative regulation of tolerance induction	1	0.70	0.68	9.07	122.40
+GO:1904465	negative regulation of matrix metallopeptidase secretion	1	1.00	0.90	9.63	483.87
+GO:0006097	glyoxylate cycle	1	1.00	0.88	9.63	122.33
+GO:0051569	regulation of histone H3-K4 methylation	1	0.83	0.83	9.52	104.18

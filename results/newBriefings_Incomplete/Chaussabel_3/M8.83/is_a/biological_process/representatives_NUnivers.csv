@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	244	0.28	0.34	3.95	7.46
+GO:2001141	regulation of RNA biosynthetic process	223	0.40	0.55	6.54	148.11
+GO:0007165	signal transduction	223	0.36	0.43	5.06	19.43
+GO:0048583	regulation of response to stimulus	214	0.25	0.32	3.72	7.96
+GO:0006351	transcription, DNA-templated	155	0.57	0.68	8.45	581.39
+GO:0065003	protein-containing complex assembly	108	0.45	0.48	6.06	36.47
+GO:0032270	positive regulation of cellular protein metabolic process	82	0.47	0.59	7.41	288.49
+GO:0071310	cellular response to organic substance	69	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	63	0.44	0.54	6.68	140.65
+GO:0051345	positive regulation of hydrolase activity	50	0.57	0.57	7.42	32.99
+GO:0008284	positive regulation of cell proliferation	49	0.56	0.57	7.27	43.45
+GO:0050778	positive regulation of immune response	40	0.46	0.52	6.76	78.39
+GO:0042119	neutrophil activation	33	0.89	0.77	9.49	20.95
+GO:0009615	response to virus	19	0.74	0.66	8.80	27.27
+GO:0022409	positive regulation of cell-cell adhesion	17	0.59	0.59	7.66	36.23
+GO:0000165	MAPK cascade	16	0.74	0.77	9.24	231.45
+GO:0050870	positive regulation of T cell activation	15	0.63	0.69	8.78	216.07
+GO:0006874	cellular calcium ion homeostasis	13	0.63	0.71	8.83	287.08
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	13	1.00	0.79	9.63	42.20
+GO:0030595	leukocyte chemotaxis	9	0.69	0.67	8.77	62.06
+GO:0002690	positive regulation of leukocyte chemotaxis	8	0.75	0.77	9.33	423.36
+GO:0045069	regulation of viral genome replication	6	0.78	0.74	9.09	18.47
+GO:0032729	positive regulation of interferon-gamma production	6	0.89	0.77	9.43	65.24
+GO:0050796	regulation of insulin secretion	5	0.83	0.81	9.53	205.48
+GO:0051928	positive regulation of calcium ion transport	5	0.70	0.73	8.85	69.31
+GO:0014911	positive regulation of smooth muscle cell migration	4	0.89	0.82	9.51	201.78
+GO:2000107	negative regulation of leukocyte apoptotic process	4	0.72	0.73	8.94	105.17
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	3	1.00	0.88	9.63	238.42
+GO:0070234	positive regulation of T cell apoptotic process	2	0.83	0.83	9.37	155.48
+GO:0043553	negative regulation of phosphatidylinositol 3-kinase activity	1	0.93	0.90	9.60	734.53

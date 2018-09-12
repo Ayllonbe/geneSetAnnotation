@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	1038	0.21	0.30	3.05	7.96
+GO:0044237	cellular metabolic process	1023	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	745	0.24	0.37	3.90	23.93
+GO:0050727	regulation of inflammatory response	113	0.53	0.59	7.40	31.59
+GO:0009966	regulation of signal transduction	587	0.33	0.45	5.35	37.59
+GO:0050727	regulation of inflammatory response	113	0.53	0.59	7.40	31.59
+GO:0009966	regulation of signal transduction	587	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	571	0.35	0.46	5.09	13.73
+GO:0051052	regulation of DNA metabolic process	85	0.47	0.56	7.17	70.58
+GO:0048869	cellular developmental process	464	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	448	0.35	0.37	4.75	9.28
+GO:0006464	cellular protein modification process	379	0.34	0.49	5.84	147.03
+GO:0035556	intracellular signal transduction	322	0.51	0.55	6.92	23.17
+GO:0031057	negative regulation of histone modification	7	0.66	0.73	9.14	591.66
+GO:0031401	positive regulation of protein modification process	241	0.51	0.63	7.86	366.05
+GO:0033554	cellular response to stress	240	0.44	0.42	6.05	25.47
+GO:0051726	regulation of cell cycle	199	0.41	0.45	5.89	12.04
+GO:0006259	DNA metabolic process	128	0.45	0.55	7.12	145.26
+GO:0051276	chromosome organization	92	0.55	0.52	6.96	18.35
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0000082	G1/S transition of mitotic cell cycle	38	1.00	0.79	9.63	42.75
+GO:0043009	chordate embryonic development	26	0.93	0.79	9.49	22.50
+GO:0002244	hematopoietic progenitor cell differentiation	23	0.81	0.66	8.94	21.07
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	21	0.93	0.82	9.56	84.23
+GO:0000281	mitotic cytokinesis	14	0.93	0.76	9.47	28.62
+GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0045589	regulation of regulatory T cell differentiation	11	0.79	0.79	9.52	133.47
+GO:0034080	CENP-A containing nucleosome assembly	10	1.00	0.90	9.63	242.74
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:0007141	male meiosis I	4	1.00	0.88	9.63	140.07
+GO:0000915	actomyosin contractile ring assembly	2	0.93	0.84	9.57	135.17
+GO:0008585	female gonad development	2	1.00	0.79	9.63	50.96
+GO:0000921	septin ring assembly	1	1.00	0.85	9.63	107.16
+GO:0034088	maintenance of mitotic sister chromatid cohesion	1	0.87	0.68	9.16	27.52
+GO:0090521	glomerular visceral epithelial cell migration	1	1.00	0.85	9.63	24.97
+GO:1904498	protein localization to mitotic actomyosin contractile ring	1	1.00	0.90	9.63	102.48
+GO:0031619	homologous chromosome orientation involved in meiotic metaphase I plate congression	1	1.00	0.82	9.63	36.66
+GO:0070200	establishment of protein localization to telomere	1	1.00	0.88	9.63	126.05

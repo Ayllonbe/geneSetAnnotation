@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006464	cellular protein modification process	819	0.34	0.49	5.84	147.03
+GO:0034645	cellular macromolecule biosynthetic process	726	0.47	0.53	6.91	102.76
+GO:0043933	protein-containing complex subunit organization	498	0.43	0.41	5.44	14.95
+GO:0045595	regulation of cell differentiation	398	0.34	0.42	5.25	23.33
+GO:0015031	protein transport	395	0.48	0.59	6.99	54.46
+GO:0045893	positive regulation of transcription, DNA-templated	386	0.52	0.67	8.14	1208.12
+GO:1902533	positive regulation of intracellular signal transduction	266	0.55	0.63	7.95	189.48
+GO:0006811	ion transport	262	0.38	0.44	5.19	10.99
+GO:0043066	negative regulation of apoptotic process	241	0.56	0.63	7.79	81.07
+GO:0007010	cytoskeleton organization	218	0.52	0.51	6.76	18.35
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0009117	nucleotide metabolic process	122	0.44	0.57	7.31	170.44
+GO:0006091	generation of precursor metabolites and energy	106	0.53	0.46	6.54	17.52
+GO:0006888	ER to Golgi vesicle-mediated transport	73	1.00	0.82	9.63	49.13
+GO:0050714	positive regulation of protein secretion	73	0.65	0.70	8.73	381.48
+GO:0006367	transcription initiation from RNA polymerase II promoter	54	1.00	0.90	9.63	477.15
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	49	1.00	0.79	9.63	42.20
+GO:0006612	protein targeting to membrane	38	0.81	0.82	9.41	149.73
+GO:0006906	vesicle fusion	33	0.68	0.66	8.56	63.10
+GO:0048278	vesicle docking	22	0.81	0.70	9.18	21.39
+GO:0032981	mitochondrial respiratory chain complex I assembly	18	1.00	0.85	9.63	91.11
+GO:0000045	autophagosome assembly	17	1.00	0.82	9.63	62.10
+GO:0007632	visual behavior	16	0.84	0.71	9.27	26.72
+GO:0030032	lamellipodium assembly	10	0.89	0.77	9.53	78.22
+GO:0030520	intracellular estrogen receptor signaling pathway	10	1.00	0.88	9.63	54.01
+GO:0090307	mitotic spindle assembly	10	1.00	0.88	9.63	186.05
+GO:0048194	Golgi vesicle budding	9	0.89	0.77	9.41	40.37
+GO:0035735	intraciliary transport involved in cilium assembly	9	1.00	0.88	9.63	77.81
+GO:0018230	peptidyl-L-cysteine S-palmitoylation	7	1.00	0.92	9.63	467.20
+GO:0033344	cholesterol efflux	5	1.00	0.88	9.63	39.64
+GO:0045053	protein retention in Golgi apparatus	3	1.00	0.82	9.63	46.06
+GO:0071816	tail-anchored membrane protein insertion into ER membrane	3	1.00	0.90	9.63	57.72
+GO:0032468	Golgi calcium ion homeostasis	1	1.00	0.92	9.63	288.69

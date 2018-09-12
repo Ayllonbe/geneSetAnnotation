@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1717	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	910	0.24	0.37	3.90	23.85
+GO:0035556	intracellular signal transduction	328	0.51	0.55	6.92	23.17
+GO:0048523	negative regulation of cellular process	799	0.24	0.37	3.90	23.93
+GO:0019538	protein metabolic process	732	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	638	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	581	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	522	0.33	0.45	5.35	37.59
+GO:0051239	regulation of multicellular organismal process	448	0.23	0.32	3.68	7.96
+GO:0031399	regulation of protein modification process	344	0.41	0.56	6.69	72.96
+GO:0017148	negative regulation of translation	30	0.65	0.70	9.08	1114.67
+GO:0051049	regulation of transport	319	0.31	0.40	4.67	10.45
+GO:0070887	cellular response to chemical stimulus	306	0.40	0.40	5.31	25.21
+GO:0015031	protein transport	292	0.48	0.59	6.99	54.46
+GO:0080134	regulation of response to stress	280	0.35	0.42	5.03	11.65
+GO:0042981	regulation of apoptotic process	272	0.45	0.55	6.60	16.23
+GO:0051336	regulation of hydrolase activity	247	0.46	0.48	6.24	9.25
+GO:0006629	lipid metabolic process	196	0.37	0.38	5.19	18.42
+GO:0030334	regulation of cell migration	149	0.48	0.56	7.11	36.74
+GO:0006366	transcription by RNA polymerase II	130	0.60	0.72	8.61	583.88
+GO:0006897	endocytosis	86	0.63	0.61	8.09	26.36
+GO:0051222	positive regulation of protein transport	80	0.60	0.65	8.02	87.55
+GO:0098662	inorganic cation transmembrane transport	79	0.58	0.64	7.91	76.35
+GO:0010975	regulation of neuron projection development	68	0.57	0.66	8.40	84.29
+GO:0030855	epithelial cell differentiation	38	0.55	0.52	6.96	21.07
+GO:0007268	chemical synaptic transmission	27	0.74	0.72	8.66	23.17
+GO:0030182	neuron differentiation	26	0.58	0.54	7.21	21.07
+GO:0032092	positive regulation of protein binding	24	0.71	0.64	8.53	32.71
+GO:0071456	cellular response to hypoxia	22	1.00	0.82	9.63	103.25
+GO:1903078	positive regulation of protein localization to plasma membrane	11	0.84	0.80	9.43	218.50
+GO:0008543	fibroblast growth factor receptor signaling pathway	11	0.71	0.73	8.57	31.00
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	10	0.93	0.82	9.52	52.45
+GO:0097755	positive regulation of blood vessel diameter	8	0.75	0.73	9.07	39.68
+GO:0007602	phototransduction	5	0.81	0.73	9.34	75.43
+GO:1904886	beta-catenin destruction complex disassembly	5	1.00	0.79	9.63	38.05
+GO:0060716	labyrinthine layer blood vessel development	4	1.00	0.79	9.63	85.13
+GO:0005513	detection of calcium ion	4	1.00	0.82	9.63	27.95
+GO:0090179	planar cell polarity pathway involved in neural tube closure	4	1.00	0.92	9.63	275.51
+GO:0002265	astrocyte activation involved in immune response	2	1.00	0.79	9.63	30.95
+GO:1904953	Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation	2	0.87	0.81	9.43	31.42
+GO:0034374	low-density lipoprotein particle remodeling	2	1.00	0.85	9.63	83.38
+GO:0043149	stress fiber assembly	2	1.00	0.88	9.63	75.14
+GO:0050908	detection of light stimulus involved in visual perception	2	1.00	0.85	9.63	116.24
+GO:0046469	platelet activating factor metabolic process	2	0.93	0.82	9.57	206.08
+GO:0060979	vasculogenesis involved in coronary vascular morphogenesis	1	1.00	0.79	9.63	21.76
+GO:0099054	presynapse assembly	1	1.00	0.75	9.63	34.60
+GO:0034441	plasma lipoprotein particle oxidation	1	1.00	0.85	9.63	83.38
+GO:0044338	canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation	1	1.00	0.90	9.63	34.31
+GO:0044339	canonical Wnt signaling pathway involved in osteoblast differentiation	1	1.00	0.90	9.63	34.31

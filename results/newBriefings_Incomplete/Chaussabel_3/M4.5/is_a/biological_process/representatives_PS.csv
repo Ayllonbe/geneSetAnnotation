@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4973	0.09	0.05	0.84	3.37
+GO:0008152	metabolic process	3567	0.15	0.07	1.52	3.37
+GO:0050896	response to stimulus	1542	0.25	0.12	2.65	3.37
+GO:0006401	RNA catabolic process	106	0.59	0.65	8.78	532.61
+GO:0050789	regulation of biological process	3822	0.09	0.17	1.80	4.47
+GO:0051179	localization	1699	0.26	0.13	2.57	3.37
+GO:0048856	anatomical structure development	451	0.33	0.29	3.70	6.46
+GO:0043312	neutrophil degranulation	236	1.00	0.90	9.63	132.80
+GO:0051260	protein homooligomerization	122	0.89	0.77	9.41	42.03
+GO:0030855	epithelial cell differentiation	96	0.55	0.52	6.96	21.07
+GO:0060271	cilium assembly	81	0.87	0.76	9.41	137.68
+GO:0000086	G2/M transition of mitotic cell cycle	67	1.00	0.79	9.63	43.45
+GO:0030595	leukocyte chemotaxis	50	0.69	0.67	8.77	62.06
+GO:0051291	protein heterooligomerization	48	0.89	0.77	9.41	42.03
+GO:0097711	ciliary basal body-plasma membrane docking	38	1.00	0.79	9.63	21.39
+GO:0000281	mitotic cytokinesis	37	0.93	0.76	9.47	28.62
+GO:0007179	transforming growth factor beta receptor signaling pathway	34	0.76	0.75	9.05	29.90
+GO:0008543	fibroblast growth factor receptor signaling pathway	28	0.71	0.73	8.57	31.00
+GO:0007286	spermatid development	23	1.00	0.79	9.63	72.78
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	19	1.00	0.90	9.63	33.21
+GO:0000921	septin ring assembly	7	1.00	0.85	9.63	107.16
+GO:0051131	chaperone-mediated protein complex assembly	7	1.00	0.82	9.63	44.52
+GO:0000492	box C/D snoRNP assembly	4	1.00	0.88	9.63	67.29
+GO:0070072	vacuolar proton-transporting V-type ATPase complex assembly	4	1.00	0.88	9.63	45.21
+GO:0042256	mature ribosome assembly	3	1.00	0.88	9.63	108.00
+GO:1905323	telomerase holoenzyme complex assembly	2	0.93	0.82	9.53	66.60

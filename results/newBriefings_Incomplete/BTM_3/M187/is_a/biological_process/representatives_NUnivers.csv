@@ -1,0 +1,25 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006139	nucleobase-containing compound metabolic process	286	0.29	0.40	5.40	96.28
+GO:0071702	organic substance transport	176	0.33	0.41	4.62	10.99
+GO:0019752	carboxylic acid metabolic process	84	0.32	0.45	5.31	42.50
+GO:0015711	organic anion transport	58	0.43	0.54	6.27	28.20
+GO:0051259	protein complex oligomerization	52	0.78	0.68	9.09	40.42
+GO:0046394	carboxylic acid biosynthetic process	31	0.44	0.54	6.80	162.02
+GO:0006814	sodium ion transport	27	0.81	0.76	9.31	34.17
+GO:0050796	regulation of insulin secretion	13	0.83	0.81	9.53	205.48
+GO:0045429	positive regulation of nitric oxide biosynthetic process	12	1.00	0.88	9.63	658.64
+GO:1901606	alpha-amino acid catabolic process	11	0.52	0.64	7.92	380.53
+GO:0072329	monocarboxylic acid catabolic process	11	0.54	0.62	7.69	213.62
+GO:0055078	sodium ion homeostasis	9	0.93	0.84	9.53	71.75
+GO:0006475	internal protein amino acid acetylation	8	0.68	0.73	8.85	155.59
+GO:0019369	arachidonic acid metabolic process	8	0.87	0.83	9.47	252.18
+GO:0003091	renal water homeostasis	8	1.00	0.85	9.63	57.14
+GO:0032305	positive regulation of icosanoid secretion	7	0.84	0.82	9.50	399.74
+GO:0002933	lipid hydroxylation	4	1.00	0.82	9.63	42.74
+GO:0006625	protein targeting to peroxisome	3	0.89	0.86	9.56	237.37
+GO:0006569	tryptophan catabolic process	2	0.84	0.82	9.54	1971.90
+GO:0015851	nucleobase transport	2	0.72	0.65	8.78	29.45
+GO:1904985	negative regulation of quinolinate biosynthetic process	1	1.00	0.85	9.63	336.19
+GO:1905012	regulation of 'de novo' NAD biosynthetic process from tryptophan	1	0.89	0.84	9.55	392.97
+GO:1901787	benzoyl-CoA metabolic process	1	0.89	0.77	9.46	79.29
+GO:1901642	nucleoside transmembrane transport	1	0.93	0.82	9.53	64.93

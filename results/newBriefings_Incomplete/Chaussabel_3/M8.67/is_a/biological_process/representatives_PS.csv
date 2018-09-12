@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2418	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	1680	0.09	0.17	1.80	4.47
+GO:0051179	localization	774	0.26	0.13	2.57	3.37
+GO:0050896	response to stimulus	689	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	381	0.38	0.19	3.93	3.37
+GO:0051259	protein complex oligomerization	94	0.78	0.68	9.09	40.42
+GO:0007043	cell-cell junction assembly	17	0.75	0.67	8.82	53.94
+GO:0044458	motile cilium assembly	3	1.00	0.85	9.63	138.78
+GO:0002523	leukocyte migration involved in inflammatory response	3	0.93	0.79	9.51	29.14
+GO:0030035	microspike assembly	2	1.00	0.82	9.63	58.57
+GO:0034372	very-low-density lipoprotein particle remodeling	2	1.00	0.88	9.63	84.48
+GO:0034371	chylomicron remodeling	1	1.00	0.88	9.63	84.48

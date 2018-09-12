@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	303	0.36	0.43	5.06	19.43
+GO:0006508	proteolysis	128	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	266	0.34	0.49	5.84	147.03
+GO:0006508	proteolysis	128	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	266	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	213	0.33	0.45	5.35	37.59
+GO:0032270	positive regulation of cellular protein metabolic process	129	0.47	0.59	7.41	288.49
+GO:0043066	negative regulation of apoptotic process	79	0.56	0.63	7.79	81.07
+GO:0000122	negative regulation of transcription by RNA polymerase II	67	0.61	0.74	8.79	1836.95
+GO:0044255	cellular lipid metabolic process	63	0.38	0.44	5.89	38.02
+GO:0051260	protein homooligomerization	31	0.89	0.77	9.41	42.03
+GO:0090257	regulation of muscle system process	17	0.52	0.55	7.00	14.36
+GO:0050868	negative regulation of T cell activation	11	0.64	0.69	8.87	233.20
+GO:0034644	cellular response to UV	10	0.80	0.75	9.22	66.19
+GO:0042147	retrograde transport, endosome to Golgi	9	0.87	0.76	9.37	84.49
+GO:0010595	positive regulation of endothelial cell migration	7	0.83	0.81	9.49	298.63
+GO:0070588	calcium ion transmembrane transport	7	0.71	0.75	9.08	116.68
+GO:0010524	positive regulation of calcium ion transport into cytosol	6	0.81	0.85	9.49	446.86
+GO:0000188	inactivation of MAPK activity	3	0.84	0.88	9.56	2610.87
+GO:0045429	positive regulation of nitric oxide biosynthetic process	3	1.00	0.88	9.63	658.64
+GO:0001561	fatty acid alpha-oxidation	2	1.00	0.90	9.63	579.93
+GO:0034620	cellular response to unfolded protein	2	0.93	0.79	9.55	123.18
+GO:0071318	cellular response to ATP	1	1.00	0.85	9.63	523.25
+GO:0002710	negative regulation of T cell mediated immunity	1	0.76	0.75	9.34	266.77
+GO:0032308	positive regulation of prostaglandin secretion	1	0.89	0.86	9.55	484.67
+GO:0046458	hexadecanal metabolic process	1	0.93	0.72	9.47	30.57
+GO:0048515	spermatid differentiation	1	1.00	0.75	9.63	60.60

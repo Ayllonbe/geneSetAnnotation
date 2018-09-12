@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	724	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	678	0.12	0.26	2.47	7.96
+GO:0048523	negative regulation of cellular process	306	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	263	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	237	0.22	0.11	1.89	3.37
+GO:0019538	protein metabolic process	187	0.31	0.41	4.91	44.77
+GO:0042127	regulation of cell proliferation	162	0.45	0.48	6.03	12.04
+GO:0044093	positive regulation of molecular function	153	0.43	0.41	5.23	6.77
+GO:0045892	negative regulation of transcription, DNA-templated	58	0.56	0.69	8.52	1581.26
+GO:0006357	regulation of transcription by RNA polymerase II	117	0.44	0.63	7.11	248.57
+GO:0016070	RNA metabolic process	104	0.39	0.52	6.45	112.25
+GO:0001666	response to hypoxia	25	0.81	0.70	9.12	21.16
+GO:0000226	microtubule cytoskeleton organization	16	0.58	0.58	7.66	30.31
+GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	14	0.64	0.67	8.12	28.11

@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	724	0.36	0.43	5.06	19.43
+GO:0019538	protein metabolic process	417	0.31	0.41	4.91	44.77
+GO:0050776	regulation of immune response	277	0.38	0.44	5.64	22.45
+GO:0006357	regulation of transcription by RNA polymerase II	267	0.44	0.63	7.11	248.57
+GO:0030154	cell differentiation	266	0.39	0.39	5.18	16.68
+GO:0045055	regulated exocytosis	207	0.69	0.69	8.57	38.47
+GO:0043066	negative regulation of apoptotic process	177	0.56	0.63	7.79	81.07
+GO:0045087	innate immune response	128	0.68	0.59	8.16	26.47
+GO:0006820	anion transport	82	0.42	0.50	5.80	12.09
+GO:0043547	positive regulation of GTPase activity	69	0.93	0.79	9.52	49.34
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0050852	T cell receptor signaling pathway	47	1.00	0.92	9.63	219.43
+GO:0006644	phospholipid metabolic process	46	0.53	0.56	7.60	99.63
+GO:0008360	regulation of cell shape	38	0.68	0.66	8.69	41.78
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0021782	glial cell development	13	0.76	0.63	8.78	32.15
+GO:0034605	cellular response to heat	9	0.84	0.71	9.26	50.43
+GO:0046580	negative regulation of Ras protein signal transduction	9	0.83	0.81	9.39	288.25
+GO:0002281	macrophage activation involved in immune response	6	0.93	0.79	9.54	81.80
+GO:1904886	beta-catenin destruction complex disassembly	5	1.00	0.79	9.63	38.05
+GO:0008333	endosome to lysosome transport	5	0.84	0.74	9.37	62.68
+GO:2001204	regulation of osteoclast development	5	0.89	0.84	9.51	200.39
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0050908	detection of light stimulus involved in visual perception	3	1.00	0.85	9.63	116.24
+GO:0034620	cellular response to unfolded protein	1	0.93	0.79	9.55	123.18
+GO:0019262	N-acetylneuraminate catabolic process	1	1.00	0.85	9.63	426.13
+GO:0006957	complement activation, alternative pathway	1	1.00	0.88	9.63	200.06
+GO:0046855	inositol phosphate dephosphorylation	1	0.93	0.84	9.59	336.66
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31
+GO:0006021	inositol biosynthetic process	1	1.00	0.85	9.63	310.25

@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	355	0.28	0.34	3.95	7.46
+GO:0006464	cellular protein modification process	141	0.34	0.49	5.84	147.03
+GO:0008284	positive regulation of cell proliferation	118	0.56	0.57	7.27	43.45
+GO:0098662	inorganic cation transmembrane transport	52	0.58	0.64	7.91	76.35
+GO:0006082	organic acid metabolic process	50	0.32	0.36	4.95	37.09
+GO:0034765	regulation of ion transmembrane transport	47	0.46	0.55	6.68	33.04
+GO:0015711	organic anion transport	44	0.43	0.54	6.27	28.20
+GO:0032989	cellular component morphogenesis	39	0.56	0.48	7.27	42.57
+GO:0051259	protein complex oligomerization	36	0.78	0.68	9.09	40.42
+GO:0001558	regulation of cell growth	35	0.58	0.58	7.66	26.25
+GO:0006865	amino acid transport	16	0.52	0.64	7.71	64.92
+GO:0006518	peptide metabolic process	15	0.56	0.57	7.65	56.97
+GO:0048704	embryonic skeletal system morphogenesis	14	0.87	0.72	9.38	45.49
+GO:0008202	steroid metabolic process	6	0.57	0.53	7.51	35.32
+GO:0042953	lipoprotein transport	4	1.00	0.88	9.63	68.45
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	3	0.78	0.74	9.16	25.38
+GO:0015889	cobalamin transport	3	1.00	0.79	9.63	71.58
+GO:0009235	cobalamin metabolic process	3	0.84	0.71	9.46	140.17
+GO:0006569	tryptophan catabolic process	2	0.84	0.82	9.54	1971.90
+GO:1904985	negative regulation of quinolinate biosynthetic process	1	1.00	0.85	9.63	336.19
+GO:1902204	positive regulation of hepatocyte growth factor receptor signaling pathway	1	1.00	0.85	9.63	186.95
+GO:1905012	regulation of 'de novo' NAD biosynthetic process from tryptophan	1	0.89	0.84	9.55	392.97
+GO:0006682	galactosylceramide biosynthetic process	1	1.00	0.92	9.63	1990.90
+GO:0009313	oligosaccharide catabolic process	1	0.68	0.63	8.46	68.60
+GO:1905004	picolinic acid biosynthetic process	1	1.00	0.88	9.63	749.58

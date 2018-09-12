@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1317	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	1317	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	926	0.21	0.30	3.05	7.96
+GO:0031325	positive regulation of cellular metabolic process	492	0.33	0.46	5.39	79.98
+GO:0031324	negative regulation of cellular metabolic process	339	0.34	0.46	5.46	80.35
+GO:0042221	response to chemical	450	0.32	0.29	4.12	6.14
+GO:0030154	cell differentiation	285	0.39	0.39	5.18	16.68
+GO:0006796	phosphate-containing compound metabolic process	268	0.36	0.43	5.28	20.85
+GO:0051345	positive regulation of hydrolase activity	152	0.57	0.57	7.42	32.99
+GO:0006629	lipid metabolic process	144	0.37	0.38	5.19	18.42
+GO:0010564	regulation of cell cycle process	118	0.42	0.50	6.22	14.24
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	45	0.71	0.71	8.71	27.67
+GO:0008016	regulation of heart contraction	34	0.57	0.61	7.59	16.15
+GO:0009152	purine ribonucleotide biosynthetic process	26	0.63	0.73	9.03	3100.80
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	23	0.79	0.77	9.12	28.36
+GO:0051279	regulation of release of sequestered calcium ion into cytosol	23	0.74	0.76	9.24	148.50
+GO:0000086	G2/M transition of mitotic cell cycle	18	1.00	0.79	9.63	43.45
+GO:0070498	interleukin-1-mediated signaling pathway	13	1.00	0.85	9.63	30.19
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	10	1.00	0.95	9.63	292.09
+GO:0035722	interleukin-12-mediated signaling pathway	9	1.00	0.85	9.63	30.19
+GO:0003091	renal water homeostasis	9	1.00	0.85	9.63	57.14
+GO:0007215	glutamate receptor signaling pathway	7	0.80	0.72	9.09	26.50
+GO:0007213	G-protein coupled acetylcholine receptor signaling pathway	7	0.80	0.75	9.26	50.15
+GO:0035723	interleukin-15-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0097711	ciliary basal body-plasma membrane docking	5	1.00	0.79	9.63	21.39
+GO:0048009	insulin-like growth factor receptor signaling pathway	5	1.00	0.88	9.63	31.00
+GO:0019934	cGMP-mediated signaling	4	0.93	0.84	9.52	28.51
+GO:0021884	forebrain neuron development	3	0.84	0.74	9.22	35.33
+GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	3	0.83	0.83	9.45	86.62
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	3	1.00	0.90	9.63	33.21
+GO:0060158	phospholipase C-activating dopamine receptor signaling pathway	2	1.00	0.85	9.63	57.13
+GO:0016322	neuron remodeling	1	1.00	0.79	9.63	39.56
+GO:2000438	negative regulation of monocyte extravasation	1	1.00	0.92	9.63	705.80
+GO:0007603	phototransduction, visible light	1	1.00	0.85	9.63	130.00

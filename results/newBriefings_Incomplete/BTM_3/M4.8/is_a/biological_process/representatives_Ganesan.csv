@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	827	0.26	0.38	4.09	10.74
+GO:0006355	regulation of transcription, DNA-templated	457	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	372	0.34	0.49	5.84	147.03
+GO:0042127	regulation of cell proliferation	367	0.45	0.48	6.03	12.04
+GO:0071310	cellular response to organic substance	316	0.44	0.47	5.95	41.66
+GO:0009725	response to hormone	156	0.53	0.51	7.03	21.86
+GO:0031399	regulation of protein modification process	326	0.41	0.56	6.69	72.96
+GO:0042981	regulation of apoptotic process	310	0.45	0.55	6.60	16.23
+GO:0048585	negative regulation of response to stimulus	295	0.36	0.43	5.03	23.55
+GO:0033554	cellular response to stress	235	0.44	0.42	6.05	25.47
+GO:0006351	transcription, DNA-templated	217	0.57	0.68	8.45	581.39
+GO:0045087	innate immune response	166	0.68	0.59	8.16	26.47
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	26	0.61	0.63	8.36	112.25
+GO:0006259	DNA metabolic process	124	0.45	0.55	7.12	145.26
+GO:0019985	translesion synthesis	14	0.89	0.84	9.57	760.22
+GO:0045786	negative regulation of cell cycle	108	0.51	0.54	7.10	42.35
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0035690	cellular response to drug	71	0.56	0.53	7.02	41.91
+GO:0015949	nucleobase-containing small molecule interconversion	3	0.77	0.71	9.27	109.53
+GO:0009117	nucleotide metabolic process	71	0.44	0.57	7.31	170.44
+GO:0002218	activation of innate immune response	70	0.62	0.69	8.53	265.71
+GO:0051054	positive regulation of DNA metabolic process	52	0.59	0.65	8.41	301.51
+GO:2000104	negative regulation of DNA-dependent DNA replication	12	0.71	0.75	9.25	982.58
+GO:0033044	regulation of chromosome organization	60	0.44	0.54	6.49	19.19
+GO:0030855	epithelial cell differentiation	56	0.55	0.52	6.96	21.07
+GO:0071214	cellular response to abiotic stimulus	54	0.59	0.54	7.66	24.78
+GO:0006511	ubiquitin-dependent protein catabolic process	49	0.74	0.74	9.19	156.45
+GO:0007265	Ras protein signal transduction	41	0.76	0.73	8.94	27.53
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0043200	response to amino acid	31	0.64	0.61	8.41	56.71
+GO:0048639	positive regulation of developmental growth	30	0.64	0.61	8.27	76.49
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0048754	branching morphogenesis of an epithelial tube	28	0.74	0.69	8.88	51.71
+GO:0006405	RNA export from nucleus	24	0.71	0.73	9.03	77.48
+GO:0007051	spindle organization	24	0.69	0.67	8.69	44.52
+GO:0008584	male gonad development	23	1.00	0.79	9.63	50.96
+GO:0032481	positive regulation of type I interferon production	22	0.81	0.73	9.26	65.24
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	21	0.93	0.82	9.56	84.23
+GO:0006334	nucleosome assembly	19	0.87	0.78	9.47	104.52
+GO:0072431	signal transduction involved in mitotic G1 DNA damage checkpoint	15	0.93	0.88	9.60	717.66
+GO:0071548	response to dexamethasone	13	0.93	0.84	9.57	124.89
+GO:0000281	mitotic cytokinesis	13	0.93	0.76	9.47	28.62
+GO:0000070	mitotic sister chromatid segregation	11	1.00	0.82	9.63	56.84
+GO:0034080	CENP-A containing nucleosome assembly	10	1.00	0.90	9.63	242.74
+GO:0097421	liver regeneration	10	1.00	0.82	9.63	47.22
+GO:0048538	thymus development	9	1.00	0.79	9.63	35.89
+GO:0001890	placenta development	9	1.00	0.75	9.63	49.87
+GO:0044818	mitotic G2/M transition checkpoint	9	0.89	0.86	9.55	492.82
+GO:0031145	anaphase-promoting complex-dependent catabolic process	8	1.00	0.92	9.63	350.56
+GO:0033077	T cell differentiation in thymus	8	0.87	0.78	9.42	66.99
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	7	1.00	0.85	9.63	76.31
+GO:0002638	negative regulation of immunoglobulin production	6	0.80	0.75	9.19	77.13
+GO:0033151	V(D)J recombination	5	0.84	0.84	9.49	161.93
+GO:0035234	ectopic germ cell programmed cell death	5	1.00	0.79	9.63	49.33
+GO:0045445	myoblast differentiation	5	0.89	0.70	9.29	21.07
+GO:0001756	somitogenesis	4	1.00	0.79	9.63	43.80
+GO:0060707	trophoblast giant cell differentiation	4	1.00	0.79	9.63	42.29
+GO:0006306	DNA methylation	4	0.74	0.77	9.25	389.47
+GO:0008089	anterograde axonal transport	3	0.83	0.81	9.41	71.10
+GO:0060718	chorionic trophoblast cell differentiation	3	1.00	0.75	9.63	21.07
+GO:0051256	mitotic spindle midzone assembly	3	1.00	0.79	9.63	55.95
+GO:0046604	positive regulation of mitotic centrosome separation	2	1.00	0.92	9.63	603.27
+GO:0002328	pro-B cell differentiation	2	1.00	0.82	9.63	23.26
+GO:1905931	negative regulation of vascular smooth muscle cell differentiation involved in phenotypic switching	1	1.00	0.90	9.63	572.87

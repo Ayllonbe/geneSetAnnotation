@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	78	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	66	0.09	0.17	1.80	4.47
+GO:0051179	localization	29	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	5	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	24	0.32	0.29	4.12	6.14
+GO:0030154	cell differentiation	20	0.39	0.39	5.18	16.68
+GO:0031581	hemidesmosome assembly	4	1.00	0.82	9.63	36.80
+GO:0000902	cell morphogenesis	4	0.63	0.56	7.92	43.26
+GO:0007043	cell-cell junction assembly	4	0.75	0.67	8.82	53.94
+GO:0051291	protein heterooligomerization	4	0.89	0.77	9.41	42.03
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0051260	protein homooligomerization	3	0.89	0.77	9.41	42.03
+GO:0007565	female pregnancy	2	1.00	0.70	9.63	32.81
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0038044	transforming growth factor-beta secretion	1	1.00	0.92	9.63	137.07
+GO:0046718	viral entry into host cell	1	0.77	0.73	8.94	28.37
+GO:0070831	basement membrane assembly	1	0.93	0.79	9.51	38.85
+GO:0007416	synapse assembly	1	0.84	0.67	9.12	35.85
+GO:0097186	amelogenesis	1	1.00	0.82	9.63	26.74
+GO:0043312	neutrophil degranulation	1	1.00	0.90	9.63	132.80
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37

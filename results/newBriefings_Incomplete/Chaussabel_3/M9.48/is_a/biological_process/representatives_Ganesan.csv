@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	235	0.12	0.26	2.47	7.96
+GO:0044238	primary metabolic process	225	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	234	0.15	0.20	2.26	6.41
+GO:0006810	transport	126	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	95	0.25	0.12	2.65	3.37
+GO:0016055	Wnt signaling pathway	8	0.59	0.65	7.65	28.58
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	3	1.00	0.92	9.63	384.64
+GO:0001942	hair follicle development	2	1.00	0.75	9.63	22.36
+GO:0007173	epidermal growth factor receptor signaling pathway	2	0.78	0.78	9.04	32.39
+GO:0048013	ephrin receptor signaling pathway	1	1.00	0.88	9.63	31.00
+GO:0030041	actin filament polymerization	1	0.93	0.82	9.55	66.56
+GO:0043615	astrocyte cell migration	1	0.89	0.77	9.38	22.24
+GO:0035754	B cell chemotaxis	1	0.93	0.84	9.56	95.76
+GO:0070207	protein homotrimerization	1	1.00	0.85	9.63	85.45

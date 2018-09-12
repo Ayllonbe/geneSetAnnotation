@@ -1,0 +1,43 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0030838	positive regulation of actin filament polymerization	12	0.79	0.83	9.46	459.93
+GO:0050790	regulation of catalytic activity	334	0.37	0.39	4.99	6.77
+GO:0050801	ion homeostasis	139	0.50	0.54	6.88	13.14
+GO:0050789	regulation of biological process	1176	0.09	0.17	1.80	4.47
+GO:0044093	positive regulation of molecular function	294	0.43	0.41	5.23	6.77
+GO:0030838	positive regulation of actin filament polymerization	12	0.79	0.83	9.46	459.93
+GO:0050801	ion homeostasis	139	0.50	0.54	6.88	13.14
+GO:0050789	regulation of biological process	1176	0.09	0.17	1.80	4.47
+GO:0035855	megakaryocyte development	3	1.00	0.79	9.63	66.39
+GO:0044237	cellular metabolic process	750	0.16	0.21	2.71	13.80
+GO:0042221	response to chemical	385	0.32	0.29	4.12	6.14
+GO:0030154	cell differentiation	231	0.39	0.39	5.18	16.68
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	90	0.58	0.64	7.56	28.11
+GO:0003006	developmental process involved in reproduction	72	0.43	0.34	5.07	14.49
+GO:0051259	protein complex oligomerization	64	0.78	0.68	9.09	40.42
+GO:0030029	actin filament-based process	55	0.59	0.42	6.58	7.39
+GO:0038093	Fc receptor signaling pathway	41	0.84	0.77	9.47	77.78
+GO:0007268	chemical synaptic transmission	33	0.74	0.72	8.66	23.17
+GO:0030217	T cell differentiation	32	0.66	0.65	8.68	65.05
+GO:0030183	B cell differentiation	29	0.73	0.69	9.02	64.36
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	20	0.79	0.77	9.12	28.36
+GO:0060333	interferon-gamma-mediated signaling pathway	19	1.00	0.85	9.63	30.19
+GO:0007266	Rho protein signal transduction	18	0.93	0.84	9.52	29.61
+GO:0050877	nervous system process	17	0.55	0.47	6.42	9.78
+GO:0051310	metaphase plate congression	13	0.84	0.74	9.34	45.44
+GO:0006605	protein targeting	12	0.72	0.76	9.18	93.44
+GO:0007565	female pregnancy	10	1.00	0.70	9.63	32.81
+GO:0007595	lactation	8	1.00	0.82	9.63	25.96
+GO:0007259	JAK-STAT cascade	8	0.93	0.82	9.51	26.43
+GO:0030032	lamellipodium assembly	7	0.89	0.77	9.53	78.22
+GO:0002281	macrophage activation involved in immune response	5	0.93	0.79	9.54	81.80
+GO:0043303	mast cell degranulation	4	1.00	0.90	9.63	196.34
+GO:0035162	embryonic hemopoiesis	4	0.93	0.79	9.49	36.11
+GO:0008354	germ cell migration	3	0.93	0.76	9.51	40.54
+GO:0038111	interleukin-7-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0060374	mast cell differentiation	2	1.00	0.82	9.63	47.07
+GO:0002551	mast cell chemotaxis	1	1.00	0.88	9.63	95.23
+GO:0038162	erythropoietin-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0032762	mast cell cytokine production	1	1.00	0.79	9.63	22.64
+GO:0097324	melanocyte migration	1	1.00	0.85	9.63	24.97
+GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway	1	1.00	0.98	9.63	827.39
+GO:0002371	dendritic cell cytokine production	1	0.89	0.70	9.41	31.59

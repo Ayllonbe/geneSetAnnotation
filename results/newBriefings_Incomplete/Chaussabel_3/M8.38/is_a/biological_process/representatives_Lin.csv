@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	1473	0.22	0.36	4.01	22.77
+GO:0051128	regulation of cellular component organization	643	0.30	0.40	4.57	12.04
+GO:0032774	RNA biosynthetic process	613	0.53	0.62	8.04	473.34
+GO:0031328	positive regulation of cellular biosynthetic process	452	0.41	0.53	6.32	170.14
+GO:0035556	intracellular signal transduction	443	0.51	0.55	6.92	23.17
+GO:0010629	negative regulation of gene expression	437	0.47	0.56	6.74	59.05
+GO:0015031	protein transport	369	0.48	0.59	6.99	54.46
+GO:0006508	proteolysis	321	0.55	0.57	7.34	47.86
+GO:0022402	cell cycle process	275	0.40	0.32	4.60	7.39
+GO:0033993	response to lipid	191	0.53	0.51	6.86	13.32
+GO:0031347	regulation of defense response	190	0.40	0.49	5.73	14.14
+GO:0032446	protein modification by small protein conjugation	189	0.66	0.70	8.79	151.85
+GO:0040008	regulation of growth	141	0.48	0.44	6.04	7.96
+GO:0048468	cell development	136	0.51	0.45	6.51	28.42
+GO:0006281	DNA repair	126	0.63	0.66	8.78	180.34
+GO:0051259	protein complex oligomerization	125	0.78	0.68	9.09	40.42
+GO:0043087	regulation of GTPase activity	124	0.87	0.72	9.29	12.47
+GO:0120036	plasma membrane bounded cell projection organization	96	0.58	0.54	7.33	16.56
+GO:0043687	post-translational protein modification	95	0.65	0.67	8.51	151.15
+GO:0016569	covalent chromatin modification	88	0.54	0.56	7.38	32.64
+GO:0010506	regulation of autophagy	82	0.63	0.64	8.27	43.36
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	75	0.61	0.63	8.36	112.25
+GO:0071478	cellular response to radiation	57	0.67	0.63	8.53	36.92
+GO:0051048	negative regulation of secretion	53	0.53	0.59	7.10	46.37
+GO:0030522	intracellular receptor signaling pathway	51	0.65	0.62	7.99	23.17
+GO:0051604	protein maturation	47	0.59	0.59	7.61	47.86
+GO:0031056	regulation of histone modification	47	0.56	0.65	8.38	99.90
+GO:1905952	regulation of lipid localization	44	0.51	0.51	6.78	10.45
+GO:0043401	steroid hormone mediated signaling pathway	38	0.75	0.70	8.80	25.74
+GO:0032465	regulation of cytokinesis	31	0.59	0.62	8.14	31.80
+GO:0045444	fat cell differentiation	31	0.87	0.68	9.29	21.07
+GO:1990830	cellular response to leukemia inhibitory factor	24	1.00	0.82	9.63	81.65
+GO:0031570	DNA integrity checkpoint	20	0.75	0.73	9.22	53.07
+GO:1901606	alpha-amino acid catabolic process	18	0.52	0.64	7.92	380.53
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	16	0.89	0.82	9.54	374.75
+GO:1902017	regulation of cilium assembly	14	0.79	0.77	9.34	85.21
+GO:0035176	social behavior	13	1.00	0.70	9.63	22.58
+GO:0001947	heart looping	12	1.00	0.85	9.63	47.98
+GO:0034198	cellular response to amino acid starvation	12	0.87	0.78	9.45	115.90
+GO:0006730	one-carbon metabolic process	9	0.89	0.64	9.29	26.87
+GO:0006294	nucleotide-excision repair, preincision complex assembly	9	1.00	0.85	9.63	65.90
+GO:0000715	nucleotide-excision repair, DNA damage recognition	8	0.93	0.76	9.47	21.24
+GO:1902686	mitochondrial outer membrane permeabilization involved in programmed cell death	8	0.89	0.82	9.56	63.25
+GO:0043277	apoptotic cell clearance	7	1.00	0.85	9.63	28.44
+GO:0032402	melanosome transport	7	1.00	0.88	9.63	154.04
+GO:0071539	protein localization to centrosome	7	0.93	0.86	9.54	37.38
+GO:0051457	maintenance of protein location in nucleus	6	0.81	0.76	9.29	48.00
+GO:0010745	negative regulation of macrophage derived foam cell differentiation	6	1.00	0.82	9.63	114.22
+GO:0043031	negative regulation of macrophage activation	5	0.93	0.82	9.55	126.92
+GO:0010870	positive regulation of receptor biosynthetic process	5	0.84	0.77	9.47	258.62
+GO:0034454	microtubule anchoring at centrosome	4	1.00	0.88	9.63	34.58
+GO:0006851	mitochondrial calcium ion transmembrane transport	4	0.84	0.84	9.51	118.63
+GO:0060296	regulation of cilium beat frequency involved in ciliary motility	3	0.93	0.84	9.56	126.86
+GO:0038108	negative regulation of appetite by leptin-mediated signaling pathway	3	1.00	0.92	9.63	142.47
+GO:0048550	negative regulation of pinocytosis	3	0.93	0.84	9.56	174.57
+GO:1903546	protein localization to photoreceptor outer segment	3	1.00	0.88	9.63	35.26
+GO:1904262	negative regulation of TORC1 signaling	2	1.00	0.90	9.63	287.33
+GO:1902231	positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	2	0.93	0.88	9.60	829.87
+GO:0051006	positive regulation of lipoprotein lipase activity	2	1.00	0.88	9.63	65.28
+GO:0006556	S-adenosylmethionine biosynthetic process	1	1.00	0.82	9.63	239.06

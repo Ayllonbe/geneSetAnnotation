@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	1265	0.28	0.39	4.44	30.44
+GO:0006355	regulation of transcription, DNA-templated	722	0.40	0.60	6.84	245.35
+GO:0065009	regulation of molecular function	595	0.33	0.29	4.10	4.47
+GO:0009966	regulation of signal transduction	586	0.33	0.45	5.35	37.59
+GO:0044089	positive regulation of cellular component biogenesis	100	0.53	0.51	6.61	23.24
+GO:2000026	regulation of multicellular organismal development	347	0.29	0.39	4.73	23.09
+GO:0044089	positive regulation of cellular component biogenesis	100	0.53	0.51	6.61	23.24
+GO:2000026	regulation of multicellular organismal development	347	0.29	0.39	4.73	23.09
+GO:0065003	protein-containing complex assembly	327	0.45	0.48	6.06	36.47
+GO:0030154	cell differentiation	268	0.39	0.39	5.18	16.68
+GO:0006811	ion transport	199	0.38	0.44	5.19	10.99
+GO:0006887	exocytosis	179	0.67	0.66	8.38	37.08
+GO:0007186	G-protein coupled receptor signaling pathway	133	0.55	0.57	7.20	23.17
+GO:0032989	cellular component morphogenesis	90	0.56	0.48	7.27	42.57
+GO:0048598	embryonic morphogenesis	40	0.54	0.47	6.15	10.94
+GO:0034765	regulation of ion transmembrane transport	75	0.46	0.55	6.68	33.04
+GO:0050900	leukocyte migration	68	0.60	0.59	8.02	26.94
+GO:0120031	plasma membrane bounded cell projection assembly	48	0.69	0.64	8.45	55.86
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	35	0.80	0.80	9.39	355.88
+GO:0051384	response to glucocorticoid	30	0.77	0.73	9.22	62.74
+GO:0006906	vesicle fusion	27	0.68	0.66	8.56	63.10
+GO:0030203	glycosaminoglycan metabolic process	26	0.66	0.62	8.41	52.03
+GO:0007565	female pregnancy	23	1.00	0.70	9.63	32.81
+GO:0048013	ephrin receptor signaling pathway	15	1.00	0.88	9.63	31.00
+GO:0001523	retinoid metabolic process	12	0.77	0.76	9.19	47.55
+GO:0005977	glycogen metabolic process	11	0.87	0.78	9.52	182.58
+GO:0043113	receptor clustering	7	0.77	0.71	8.99	42.89
+GO:0002063	chondrocyte development	6	0.89	0.70	9.47	32.15
+GO:0002053	positive regulation of mesenchymal cell proliferation	4	0.87	0.76	9.34	64.15
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	4	1.00	0.79	9.63	23.39

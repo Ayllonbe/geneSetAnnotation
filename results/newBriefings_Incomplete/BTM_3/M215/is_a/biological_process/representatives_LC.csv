@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1125	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	871	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	530	0.24	0.37	3.90	23.85
+GO:0006355	regulation of transcription, DNA-templated	241	0.40	0.60	6.84	245.35
+GO:1902531	regulation of intracellular signal transduction	231	0.45	0.55	6.77	41.85
+GO:0042325	regulation of phosphorylation	183	0.47	0.59	6.88	31.28
+GO:0042981	regulation of apoptotic process	165	0.45	0.55	6.60	16.23
+GO:0050863	regulation of T cell activation	89	0.52	0.61	7.60	29.19
+GO:0043087	regulation of GTPase activity	54	0.87	0.72	9.29	12.47
+GO:0032956	regulation of actin cytoskeleton organization	47	0.56	0.63	7.72	34.12
+GO:0002688	regulation of leukocyte chemotaxis	44	0.65	0.70	8.83	80.81
+GO:0032386	regulation of intracellular transport	36	0.49	0.53	6.90	27.75
+GO:0030336	negative regulation of cell migration	29	0.58	0.64	8.21	158.04
+GO:0046854	phosphatidylinositol phosphorylation	18	1.00	0.88	9.63	218.74
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	18	0.63	0.67	8.36	49.28
+GO:1903078	positive regulation of protein localization to plasma membrane	7	0.84	0.80	9.43	218.50
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	5	0.87	0.83	9.53	431.32
+GO:0010310	regulation of hydrogen peroxide metabolic process	2	0.79	0.72	9.22	58.13

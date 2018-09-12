@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032270	positive regulation of cellular protein metabolic process	266	0.47	0.59	7.41	288.49
+GO:0031326	regulation of cellular biosynthetic process	501	0.29	0.44	4.86	40.35
+GO:0007166	cell surface receptor signaling pathway	525	0.43	0.51	5.91	23.17
+GO:0051240	positive regulation of multicellular organismal process	341	0.35	0.42	4.98	23.60
+GO:0002687	positive regulation of leukocyte migration	58	0.66	0.71	8.96	238.70
+GO:0050776	regulation of immune response	307	0.38	0.44	5.64	22.45
+GO:0010033	response to organic substance	411	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	301	0.39	0.39	5.14	9.28
+GO:0035556	intracellular signal transduction	282	0.51	0.55	6.92	23.17
+GO:0008284	positive regulation of cell proliferation	233	0.56	0.57	7.27	43.45
+GO:0051050	positive regulation of transport	197	0.42	0.50	5.84	25.90
+GO:0016477	cell migration	195	0.47	0.48	6.31	17.13
+GO:0002274	myeloid leukocyte activation	194	0.68	0.59	8.67	18.06
+GO:0007186	G-protein coupled receptor signaling pathway	188	0.55	0.57	7.20	23.17
+GO:0022414	reproductive process	142	0.35	0.17	3.17	3.37
+GO:0006873	cellular ion homeostasis	133	0.55	0.60	7.73	50.28
+GO:0006898	receptor-mediated endocytosis	55	0.68	0.66	8.48	28.44
+GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
+GO:0010863	positive regulation of phospholipase C activity	14	0.93	0.84	9.55	83.74
+GO:0032930	positive regulation of superoxide anion generation	7	1.00	0.88	9.63	144.58
+GO:0046085	adenosine metabolic process	3	0.87	0.83	9.55	443.47
+GO:0009609	response to symbiotic bacterium	1	0.93	0.79	9.52	57.43
+GO:1903141	negative regulation of establishment of endothelial barrier	1	1.00	0.90	9.63	507.76
+GO:0032959	inositol trisphosphate biosynthetic process	1	1.00	0.88	9.63	361.00
+GO:1904303	positive regulation of maternal process involved in parturition	1	1.00	0.79	9.63	118.07
+GO:1904300	positive regulation of transcytosis	1	1.00	0.85	9.63	59.34
+GO:0071258	cellular response to gravity	1	1.00	0.79	9.63	37.21

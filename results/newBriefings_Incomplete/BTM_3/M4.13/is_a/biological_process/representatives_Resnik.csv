@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	593	0.22	0.36	4.01	22.77
+GO:0002376	immune system process	462	0.38	0.19	3.93	3.37
+GO:0051716	cellular response to stimulus	377	0.35	0.30	4.36	13.53
+GO:0050794	regulation of cellular process	1089	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	351	0.32	0.36	4.60	7.96
+GO:0051128	regulation of cellular component organization	313	0.30	0.40	4.57	12.04
+GO:0042127	regulation of cell proliferation	283	0.45	0.48	6.03	12.04
+GO:0051049	regulation of transport	263	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	262	0.44	0.54	6.71	140.23
+GO:0035556	intracellular signal transduction	235	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	224	0.45	0.55	6.60	16.23
+GO:0001933	negative regulation of protein phosphorylation	61	0.61	0.70	8.76	664.69
+GO:0031401	positive regulation of protein modification process	184	0.51	0.63	7.86	366.05
+GO:0080134	regulation of response to stress	219	0.35	0.42	5.03	11.65
+GO:0006887	exocytosis	205	0.67	0.66	8.38	37.08
+GO:2000145	regulation of cell motility	183	0.47	0.52	6.88	34.54
+GO:0016477	cell migration	180	0.47	0.48	6.31	17.13
+GO:0019221	cytokine-mediated signaling pathway	174	0.60	0.63	7.60	26.50
+GO:0009968	negative regulation of signal transduction	170	0.44	0.54	6.68	140.65
+GO:0006952	defense response	160	0.56	0.48	6.67	9.54
+GO:0008104	protein localization	157	0.40	0.40	5.07	7.46
+GO:0009653	anatomical structure morphogenesis	126	0.36	0.31	4.09	6.46
+GO:0006468	protein phosphorylation	121	0.57	0.64	8.18	177.76
+GO:0010469	regulation of signaling receptor activity	97	0.59	0.62	7.95	48.62
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	89	0.58	0.64	7.56	28.11
+GO:0007010	cytoskeleton organization	84	0.52	0.51	6.76	18.35
+GO:0007098	centrosome cycle	8	1.00	0.75	9.63	37.69
+GO:0051090	regulation of DNA binding transcription factor activity	67	0.72	0.77	9.22	255.34
+GO:0051259	protein complex oligomerization	62	0.78	0.68	9.09	40.42
+GO:0001666	response to hypoxia	47	0.81	0.70	9.12	21.16
+GO:0048608	reproductive structure development	38	0.61	0.50	7.37	31.35
+GO:0007229	integrin-mediated signaling pathway	28	1.00	0.82	9.63	26.50
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	28	0.80	0.65	8.94	20.20
+GO:0031099	regeneration	23	0.70	0.55	7.89	11.73
+GO:0051147	regulation of muscle cell differentiation	20	0.60	0.59	7.95	27.05
+GO:0007043	cell-cell junction assembly	18	0.75	0.67	8.82	53.94
+GO:0031663	lipopolysaccharide-mediated signaling pathway	17	1.00	0.82	9.63	26.50
+GO:0032091	negative regulation of protein binding	17	0.70	0.64	8.48	32.72
+GO:0022617	extracellular matrix disassembly	13	0.87	0.72	9.38	37.09
+GO:1900076	regulation of cellular response to insulin stimulus	11	0.74	0.62	8.84	23.69
+GO:0051017	actin filament bundle assembly	9	0.79	0.72	9.14	39.79
+GO:0032930	positive regulation of superoxide anion generation	7	1.00	0.88	9.63	144.58
+GO:0032703	negative regulation of interleukin-2 production	7	0.89	0.77	9.43	65.25
+GO:0007216	G-protein coupled glutamate receptor signaling pathway	3	0.89	0.80	9.43	54.17
+GO:0032079	positive regulation of endodeoxyribonuclease activity	2	1.00	0.90	9.63	975.11

@@ -1,0 +1,86 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	984	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	633	0.22	0.36	4.01	22.77
+GO:0006355	regulation of transcription, DNA-templated	371	0.40	0.60	6.84	245.35
+GO:0031325	positive regulation of cellular metabolic process	339	0.33	0.46	5.39	79.98
+GO:0042326	negative regulation of phosphorylation	52	0.58	0.66	8.18	181.49
+GO:0065009	regulation of molecular function	290	0.33	0.29	4.10	4.47
+GO:0051128	regulation of cellular component organization	285	0.30	0.40	4.57	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	259	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	256	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	226	0.32	0.29	4.12	6.14
+GO:0050793	regulation of developmental process	220	0.26	0.33	3.95	7.96
+GO:0046907	intracellular transport	219	0.46	0.48	6.38	29.65
+GO:0010628	positive regulation of gene expression	207	0.47	0.56	6.67	58.80
+GO:0007166	cell surface receptor signaling pathway	199	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	189	0.35	0.37	4.75	9.28
+GO:0051049	regulation of transport	185	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	185	0.51	0.55	6.92	23.17
+GO:0045893	positive regulation of transcription, DNA-templated	170	0.52	0.67	8.14	1208.12
+GO:0048585	negative regulation of response to stimulus	149	0.36	0.43	5.03	23.55
+GO:0009967	positive regulation of signal transduction	140	0.44	0.54	6.71	140.23
+GO:0045892	negative regulation of transcription, DNA-templated	131	0.56	0.69	8.52	1581.26
+GO:0030154	cell differentiation	126	0.39	0.39	5.18	16.68
+GO:0043066	negative regulation of apoptotic process	109	0.56	0.63	7.79	81.07
+GO:2001235	positive regulation of apoptotic signaling pathway	24	0.70	0.72	9.18	291.46
+GO:0050776	regulation of immune response	119	0.38	0.44	5.64	22.45
+GO:0034613	cellular protein localization	109	0.45	0.48	6.33	26.83
+GO:0006468	protein phosphorylation	103	0.57	0.64	8.18	177.76
+GO:0009628	response to abiotic stimulus	95	0.46	0.35	5.43	6.14
+GO:0018193	peptidyl-amino acid modification	94	0.39	0.54	6.24	151.15
+GO:0008284	positive regulation of cell proliferation	87	0.56	0.57	7.27	43.45
+GO:0044255	cellular lipid metabolic process	86	0.38	0.44	5.89	38.02
+GO:0007010	cytoskeleton organization	80	0.52	0.51	6.76	18.35
+GO:0022414	reproductive process	78	0.35	0.17	3.17	3.37
+GO:0001817	regulation of cytokine production	75	0.40	0.45	5.78	11.79
+GO:0051640	organelle localization	71	0.49	0.45	6.08	7.87
+GO:0071222	cellular response to lipopolysaccharide	19	1.00	0.82	9.63	238.00
+GO:0051707	response to other organism	58	0.42	0.46	6.41	24.63
+GO:0006325	chromatin organization	68	0.49	0.44	6.23	14.95
+GO:0016567	protein ubiquitination	68	0.69	0.74	9.00	153.79
+GO:0030155	regulation of cell adhesion	64	0.48	0.44	5.95	7.96
+GO:0019221	cytokine-mediated signaling pathway	61	0.60	0.63	7.60	26.50
+GO:0051259	protein complex oligomerization	57	0.78	0.68	9.09	40.42
+GO:0040017	positive regulation of locomotion	56	0.55	0.52	6.96	22.08
+GO:0045087	innate immune response	56	0.68	0.59	8.16	26.47
+GO:0042119	neutrophil activation	55	0.89	0.77	9.49	20.95
+GO:0048468	cell development	54	0.51	0.45	6.51	28.42
+GO:0007186	G-protein coupled receptor signaling pathway	53	0.55	0.57	7.20	23.17
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	52	0.58	0.64	7.56	28.11
+GO:0016477	cell migration	49	0.47	0.48	6.31	17.13
+GO:0006820	anion transport	47	0.42	0.50	5.80	12.09
+GO:0006790	sulfur compound metabolic process	36	0.44	0.42	5.69	17.52
+GO:0051091	positive regulation of DNA binding transcription factor activity	31	0.81	0.84	9.43	277.83
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	28	0.74	0.74	8.99	58.93
+GO:0010817	regulation of hormone levels	28	0.41	0.40	5.23	8.64
+GO:0010469	regulation of signaling receptor activity	26	0.59	0.62	7.95	48.62
+GO:0043122	regulation of I-kappaB kinase/NF-kappaB signaling	25	0.79	0.74	9.26	45.07
+GO:0050804	modulation of chemical synaptic transmission	24	0.52	0.58	7.24	27.32
+GO:0006898	receptor-mediated endocytosis	23	0.68	0.66	8.48	28.44
+GO:0000086	G2/M transition of mitotic cell cycle	20	1.00	0.79	9.63	43.45
+GO:0001701	in utero embryonic development	19	1.00	0.85	9.63	22.50
+GO:0030307	positive regulation of cell growth	16	0.70	0.67	8.71	80.65
+GO:0046718	viral entry into host cell	12	0.77	0.73	8.94	28.37
+GO:0046902	regulation of mitochondrial membrane permeability	12	0.74	0.69	9.25	50.92
+GO:0009308	amine metabolic process	9	0.53	0.51	6.96	23.64
+GO:0048863	stem cell differentiation	8	0.70	0.60	8.24	21.07
+GO:0002244	hematopoietic progenitor cell differentiation	8	0.81	0.66	8.94	21.07
+GO:0051085	chaperone cofactor-dependent protein refolding	8	1.00	0.79	9.63	21.14
+GO:0006986	response to unfolded protein	8	0.87	0.72	9.34	23.96
+GO:0010863	positive regulation of phospholipase C activity	7	0.93	0.84	9.55	83.74
+GO:0006584	catecholamine metabolic process	6	0.74	0.69	9.22	80.36
+GO:0034446	substrate adhesion-dependent cell spreading	5	1.00	0.82	9.63	56.23
+GO:0043114	regulation of vascular permeability	4	0.84	0.71	9.18	21.20
+GO:0009756	carbohydrate mediated signaling	3	0.81	0.70	9.12	23.17
+GO:0017001	antibiotic catabolic process	3	0.60	0.59	7.61	55.81
+GO:0071243	cellular response to arsenic-containing substance	3	0.87	0.68	9.38	38.72
+GO:0035162	embryonic hemopoiesis	3	0.93	0.79	9.49	36.11
+GO:1990502	dense core granule maturation	2	1.00	0.85	9.63	31.40
+GO:0072012	glomerulus vasculature development	2	0.89	0.80	9.41	29.79
+GO:1903033	positive regulation of microtubule plus-end binding	2	1.00	0.85	9.63	62.70
+GO:0006564	L-serine biosynthetic process	2	1.00	0.92	9.63	563.10
+GO:0030032	lamellipodium assembly	2	0.89	0.77	9.53	78.22
+GO:0002367	cytokine production involved in immune response	2	0.75	0.57	8.67	19.93
+GO:0030318	melanocyte differentiation	1	0.89	0.74	9.34	22.86
+GO:2000446	regulation of macrophage migration inhibitory factor signaling pathway	1	0.89	0.80	9.45	58.00
+GO:1904306	positive regulation of gastro-intestinal system smooth muscle contraction	1	0.84	0.82	9.36	89.00

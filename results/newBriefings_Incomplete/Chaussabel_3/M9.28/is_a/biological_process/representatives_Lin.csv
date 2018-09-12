@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	503	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	490	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	141	0.45	0.55	7.12	145.26
+GO:1901565	organonitrogen compound catabolic process	118	0.39	0.45	5.67	46.28
+GO:0016071	mRNA metabolic process	112	0.59	0.65	8.39	115.08
+GO:0033993	response to lipid	99	0.53	0.51	6.86	13.32
+GO:0007186	G-protein coupled receptor signaling pathway	77	0.55	0.57	7.20	23.17
+GO:0006897	endocytosis	71	0.63	0.61	8.09	26.36
+GO:0072594	establishment of protein localization to organelle	64	0.62	0.63	8.24	52.25
+GO:0006518	peptide metabolic process	53	0.56	0.57	7.65	56.97
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	49	0.61	0.63	8.36	112.25
+GO:0006914	autophagy	45	0.67	0.59	8.40	37.75
+GO:0007005	mitochondrion organization	41	0.62	0.56	7.74	18.35
+GO:0000209	protein polyubiquitination	38	0.77	0.80	9.22	155.40
+GO:0016055	Wnt signaling pathway	36	0.59	0.65	7.65	28.58
+GO:0032508	DNA duplex unwinding	15	0.80	0.75	9.22	23.73
+GO:0032200	telomere organization	25	0.71	0.65	8.59	21.24
+GO:0040029	regulation of gene expression, epigenetic	34	0.63	0.64	7.86	16.68
+GO:0006352	DNA-templated transcription, initiation	33	0.83	0.79	9.45	475.54
+GO:0000082	G1/S transition of mitotic cell cycle	30	1.00	0.79	9.63	42.75
+GO:2001252	positive regulation of chromosome organization	30	0.56	0.63	7.84	91.73
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	27	0.93	0.90	9.60	1178.86
+GO:0043433	negative regulation of DNA binding transcription factor activity	20	0.81	0.84	9.47	278.01
+GO:0046718	viral entry into host cell	19	0.77	0.73	8.94	28.37
+GO:0042795	snRNA transcription by RNA polymerase II	18	1.00	0.95	9.63	1410.65
+GO:0090090	negative regulation of canonical Wnt signaling pathway	16	0.79	0.77	9.28	236.99
+GO:1990830	cellular response to leukemia inhibitory factor	15	1.00	0.82	9.63	81.65
+GO:2000278	regulation of DNA biosynthetic process	15	0.69	0.70	9.04	150.74
+GO:0051984	positive regulation of chromosome segregation	13	0.66	0.62	8.40	42.07
+GO:0006368	transcription elongation from RNA polymerase II promoter	13	1.00	0.90	9.63	477.15
+GO:0060964	regulation of gene silencing by miRNA	11	0.74	0.74	9.16	63.20
+GO:0000045	autophagosome assembly	10	1.00	0.82	9.63	62.10
+GO:0070317	negative regulation of G0 to G1 transition	10	1.00	0.85	9.63	83.03
+GO:0006383	transcription by RNA polymerase III	9	0.84	0.84	9.50	583.88
+GO:0006363	termination of RNA polymerase I transcription	8	1.00	0.90	9.63	477.15
+GO:0008543	fibroblast growth factor receptor signaling pathway	8	0.71	0.73	8.57	31.00
+GO:0071364	cellular response to epidermal growth factor stimulus	7	1.00	0.82	9.63	97.49
+GO:0001942	hair follicle development	7	1.00	0.75	9.63	22.36
+GO:0006356	regulation of transcription by RNA polymerase I	6	0.75	0.79	9.31	248.57
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	6	0.84	0.82	9.59	500.08
+GO:0090398	cellular senescence	5	0.87	0.68	9.45	55.14
+GO:0070734	histone H3-K27 methylation	2	0.93	0.90	9.59	767.59
+GO:0090084	negative regulation of inclusion body assembly	2	0.89	0.77	9.45	76.46
+GO:0000028	ribosomal small subunit assembly	2	1.00	0.85	9.63	66.60
+GO:0061178	regulation of insulin secretion involved in cellular response to glucose stimulus	2	0.89	0.86	9.55	231.90
+GO:2000344	positive regulation of acrosome reaction	1	0.93	0.79	9.54	105.55
+GO:2000011	regulation of adaxial/abaxial pattern formation	1	1.00	0.79	9.63	27.38
+GO:0006269	DNA replication, synthesis of RNA primer	1	0.83	0.79	9.52	624.58
+GO:0060383	positive regulation of DNA strand elongation	1	1.00	0.88	9.63	377.50
+GO:0006407	rRNA export from nucleus	1	1.00	0.92	9.63	123.85

@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1395	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	779	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	632	0.28	0.26	3.74	11.45
+GO:0051239	regulation of multicellular organismal process	547	0.23	0.32	3.68	7.96
+GO:0042221	response to chemical	468	0.32	0.29	4.12	6.14
+GO:0006355	regulation of transcription, DNA-templated	430	0.40	0.60	6.84	245.35
+GO:0042127	regulation of cell proliferation	350	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	347	0.34	0.49	5.84	147.03
+GO:0016192	vesicle-mediated transport	332	0.52	0.51	6.57	10.99
+GO:0009891	positive regulation of biosynthetic process	327	0.40	0.49	5.65	38.82
+GO:0035556	intracellular signal transduction	299	0.51	0.55	6.92	23.17
+GO:0080134	regulation of response to stress	298	0.35	0.42	5.03	11.65
+GO:0043933	protein-containing complex subunit organization	262	0.43	0.41	5.44	14.95
+GO:0033554	cellular response to stress	220	0.44	0.42	6.05	25.47
+GO:0060548	negative regulation of cell death	218	0.54	0.56	7.27	41.94
+GO:0006351	transcription, DNA-templated	204	0.57	0.68	8.45	581.39
+GO:0010558	negative regulation of macromolecule biosynthetic process	198	0.47	0.56	6.79	114.12
+GO:0008104	protein localization	193	0.40	0.40	5.07	7.46
+GO:0051726	regulation of cell cycle	172	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	169	0.40	0.32	4.60	7.39
+GO:0006508	proteolysis	152	0.55	0.57	7.34	47.86
+GO:0050794	regulation of cellular process	1395	0.12	0.26	2.47	7.96
+GO:0044087	regulation of cellular component biogenesis	131	0.41	0.40	5.33	7.96
+GO:0030001	metal ion transport	99	0.54	0.59	7.29	15.42
+GO:0051090	regulation of DNA binding transcription factor activity	93	0.72	0.77	9.22	255.34
+GO:0006366	transcription by RNA polymerase II	86	0.60	0.72	8.61	583.88
+GO:0051276	chromosome organization	85	0.55	0.52	6.96	18.35
+GO:0070647	protein modification by small protein conjugation or removal	76	0.61	0.66	8.44	151.15
+GO:0045862	positive regulation of proteolysis	68	0.61	0.68	8.73	336.28
+GO:0043687	post-translational protein modification	49	0.65	0.67	8.51	151.15
+GO:0006367	transcription initiation from RNA polymerase II promoter	34	1.00	0.90	9.63	477.15
+GO:0046822	regulation of nucleocytoplasmic transport	28	0.65	0.65	8.53	30.75
+GO:0009913	epidermal cell differentiation	14	0.74	0.66	8.71	24.20
+GO:0006914	autophagy	13	0.67	0.59	8.40	37.75
+GO:0043392	negative regulation of DNA binding	10	0.76	0.67	8.87	32.53
+GO:0032922	circadian regulation of gene expression	8	1.00	0.82	9.63	31.18
+GO:0038128	ERBB2 signaling pathway	8	0.87	0.83	9.37	32.39
+GO:0030301	cholesterol transport	8	0.78	0.74	9.00	37.85
+GO:0006412	translation	6	0.87	0.78	9.51	402.56
+GO:0016575	histone deacetylation	5	0.79	0.79	9.40	357.61
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	4	1.00	0.92	9.63	185.81
+GO:1902188	positive regulation of viral release from host cell	3	0.93	0.84	9.56	120.05
+GO:0019076	viral release from host cell	1	0.84	0.77	9.39	33.81

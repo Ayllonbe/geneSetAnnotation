@@ -1,0 +1,87 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	612	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	583	0.43	0.51	5.91	23.17
+GO:0031325	positive regulation of cellular metabolic process	551	0.33	0.46	5.39	79.98
+GO:0051716	cellular response to stimulus	515	0.35	0.30	4.36	13.53
+GO:0042221	response to chemical	491	0.32	0.29	4.12	6.14
+GO:1903706	regulation of hemopoiesis	129	0.50	0.54	7.23	38.17
+GO:0050776	regulation of immune response	350	0.38	0.44	5.64	22.45
+GO:0006464	cellular protein modification process	379	0.34	0.49	5.84	147.03
+GO:0042127	regulation of cell proliferation	370	0.45	0.48	6.03	12.04
+GO:0044271	cellular nitrogen compound biosynthetic process	347	0.36	0.43	5.55	60.43
+GO:0045892	negative regulation of transcription, DNA-templated	169	0.56	0.69	8.52	1581.26
+GO:0045893	positive regulation of transcription, DNA-templated	260	0.52	0.67	8.14	1208.12
+GO:0060548	negative regulation of cell death	228	0.54	0.56	7.27	41.94
+GO:0010942	positive regulation of cell death	156	0.54	0.56	7.33	41.78
+GO:0030154	cell differentiation	317	0.39	0.39	5.18	16.68
+GO:0051704	multi-organism process	244	0.29	0.15	3.12	3.37
+GO:0009968	negative regulation of signal transduction	224	0.44	0.54	6.68	140.65
+GO:0001934	positive regulation of protein phosphorylation	217	0.58	0.69	8.60	663.11
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	12	0.83	0.85	9.50	3778.55
+GO:0001934	positive regulation of protein phosphorylation	217	0.58	0.69	8.60	663.11
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	12	0.83	0.85	9.50	3778.55
+GO:0022603	regulation of anatomical structure morphogenesis	215	0.36	0.43	5.15	11.29
+GO:0031641	regulation of myelination	5	0.89	0.77	9.41	42.06
+GO:0045597	positive regulation of cell differentiation	199	0.45	0.51	6.57	82.53
+GO:0031641	regulation of myelination	5	0.89	0.77	9.41	42.06
+GO:0045597	positive regulation of cell differentiation	199	0.45	0.51	6.57	82.53
+GO:0007186	G-protein coupled receptor signaling pathway	199	0.55	0.57	7.20	23.17
+GO:0051726	regulation of cell cycle	199	0.41	0.45	5.89	12.04
+GO:0001818	negative regulation of cytokine production	81	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	150	0.51	0.54	6.97	44.26
+GO:0008203	cholesterol metabolic process	9	0.80	0.72	9.22	82.65
+GO:0044255	cellular lipid metabolic process	142	0.38	0.44	5.89	38.02
+GO:0030335	positive regulation of cell migration	146	0.58	0.64	8.22	157.26
+GO:0048468	cell development	111	0.51	0.45	6.51	28.42
+GO:0003006	developmental process involved in reproduction	104	0.43	0.34	5.07	14.49
+GO:0071345	cellular response to cytokine stimulus	99	0.67	0.63	8.21	61.60
+GO:0051090	regulation of DNA binding transcription factor activity	98	0.72	0.77	9.22	255.34
+GO:0051222	positive regulation of protein transport	94	0.60	0.65	8.02	87.55
+GO:0006366	transcription by RNA polymerase II	88	0.60	0.72	8.61	583.88
+GO:0030855	epithelial cell differentiation	58	0.55	0.52	6.96	21.07
+GO:0050804	modulation of chemical synaptic transmission	48	0.52	0.58	7.24	27.32
+GO:0009888	tissue development	44	0.47	0.44	5.74	11.73
+GO:0016055	Wnt signaling pathway	42	0.59	0.65	7.65	28.58
+GO:0071248	cellular response to metal ion	35	0.70	0.64	8.46	59.28
+GO:0030522	intracellular receptor signaling pathway	35	0.65	0.62	7.99	23.17
+GO:0006367	transcription initiation from RNA polymerase II promoter	34	1.00	0.90	9.63	477.15
+GO:0097746	regulation of blood vessel diameter	33	0.64	0.64	8.47	38.29
+GO:0048469	cell maturation	29	0.70	0.55	8.24	25.22
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0030182	neuron differentiation	25	0.58	0.54	7.21	21.07
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:0045444	fat cell differentiation	22	0.87	0.68	9.29	21.07
+GO:0045429	positive regulation of nitric oxide biosynthetic process	18	1.00	0.88	9.63	658.64
+GO:0048568	embryonic organ development	17	0.75	0.63	8.38	15.26
+GO:0048015	phosphatidylinositol-mediated signaling	17	0.93	0.82	9.51	26.43
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:0006446	regulation of translational initiation	16	0.62	0.69	8.74	215.82
+GO:0006940	regulation of smooth muscle contraction	16	0.65	0.68	8.36	17.35
+GO:2000249	regulation of actin cytoskeleton reorganization	14	0.89	0.82	9.43	36.20
+GO:0051926	negative regulation of calcium ion transport	13	0.71	0.73	8.89	69.46
+GO:0051289	protein homotetramerization	13	1.00	0.85	9.63	85.45
+GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
+GO:0035914	skeletal muscle cell differentiation	10	0.87	0.68	9.29	21.07
+GO:0045814	negative regulation of gene expression, epigenetic	8	0.77	0.73	9.08	80.10
+GO:0015721	bile acid and bile salt transport	7	0.93	0.86	9.55	89.96
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0061037	negative regulation of cartilage development	6	0.83	0.74	9.37	85.27
+GO:0043277	apoptotic cell clearance	6	1.00	0.85	9.63	28.44
+GO:0002320	lymphoid progenitor cell differentiation	6	0.87	0.72	9.22	22.16
+GO:0031622	positive regulation of fever generation	6	0.84	0.82	9.45	276.00
+GO:1904886	beta-catenin destruction complex disassembly	6	1.00	0.79	9.63	38.05
+GO:0045217	cell-cell junction maintenance	5	0.87	0.72	9.31	51.61
+GO:0045347	negative regulation of MHC class II biosynthetic process	4	1.00	0.85	9.63	147.30
+GO:0055012	ventricular cardiac muscle cell differentiation	4	1.00	0.85	9.63	47.30
+GO:0006306	DNA methylation	4	0.74	0.77	9.25	389.47
+GO:0097186	amelogenesis	4	1.00	0.82	9.63	26.74
+GO:0071498	cellular response to fluid shear stress	4	0.80	0.65	9.27	39.93
+GO:0099054	presynapse assembly	3	1.00	0.75	9.63	34.60
+GO:0090241	negative regulation of histone H4 acetylation	2	0.93	0.91	9.60	1490.32
+GO:0071391	cellular response to estrogen stimulus	2	1.00	0.75	9.63	34.48
+GO:0060591	chondroblast differentiation	2	1.00	0.75	9.63	21.07
+GO:0044027	hypermethylation of CpG island	1	1.00	0.90	9.63	74.96
+GO:0060603	mammary gland duct morphogenesis	1	1.00	0.82	9.63	32.21
+GO:0009750	response to fructose	1	0.93	0.82	9.51	32.96
+GO:0001661	conditioned taste aversion	1	1.00	0.88	9.63	32.41
+GO:0045945	positive regulation of transcription by RNA polymerase III	1	1.00	0.93	9.63	1460.88

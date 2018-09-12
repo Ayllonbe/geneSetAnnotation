@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043312	neutrophil degranulation	1	1.00	0.90	9.63	132.80
+GO:0009987	cellular process	78	0.09	0.05	0.84	3.37
+GO:0097186	amelogenesis	1	1.00	0.82	9.63	26.74
+GO:0065007	biological regulation	70	0.08	0.04	0.98	3.37
+GO:0044093	positive regulation of molecular function	13	0.43	0.41	5.23	6.77
+GO:0007565	female pregnancy	2	1.00	0.70	9.63	32.81
+GO:0051179	localization	29	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	5	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	24	0.32	0.29	4.12	6.14
+GO:0030260	entry into host cell	2	0.74	0.69	8.68	26.99
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26

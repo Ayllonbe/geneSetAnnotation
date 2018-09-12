@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1406	0.09	0.17	1.80	4.47
+GO:0090304	nucleic acid metabolic process	577	0.35	0.46	5.97	111.15
+GO:1901564	organonitrogen compound metabolic process	729	0.23	0.31	3.63	19.40
+GO:0006198	cAMP catabolic process	1	1.00	0.93	9.63	5918.16
+GO:0090304	nucleic acid metabolic process	577	0.35	0.46	5.97	111.15
+GO:1901564	organonitrogen compound metabolic process	729	0.23	0.31	3.63	19.40
+GO:0006198	cAMP catabolic process	1	1.00	0.93	9.63	5918.16
+GO:0006914	autophagy	45	0.67	0.59	8.40	37.75
+GO:0016043	cellular component organization	644	0.28	0.26	3.74	11.45
+GO:0006914	autophagy	45	0.67	0.59	8.40	37.75
+GO:0016043	cellular component organization	644	0.28	0.26	3.74	11.45
+GO:0006810	transport	595	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	558	0.25	0.12	2.65	3.37
+GO:0006464	cellular protein modification process	465	0.34	0.49	5.84	147.03
+GO:2000026	regulation of multicellular organismal development	225	0.29	0.39	4.73	23.09
+GO:0072594	establishment of protein localization to organelle	64	0.62	0.63	8.24	52.25
+GO:0000082	G1/S transition of mitotic cell cycle	30	1.00	0.79	9.63	42.75
+GO:0046718	viral entry into host cell	19	0.77	0.73	8.94	28.37
+GO:0060070	canonical Wnt signaling pathway	11	0.67	0.71	8.39	31.42
+GO:0008543	fibroblast growth factor receptor signaling pathway	8	0.71	0.73	8.57	31.00
+GO:0001942	hair follicle development	7	1.00	0.75	9.63	22.36
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	5	1.00	0.90	9.63	33.21

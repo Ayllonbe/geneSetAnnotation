@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7263	0.00	0.00	0.00	0.00
+GO:0003091	renal water homeostasis	13	1.00	0.85	9.63	57.14
+GO:0006882	cellular zinc ion homeostasis	16	1.00	0.92	9.63	329.34
+GO:0001915	negative regulation of T cell mediated cytotoxicity	6	0.89	0.84	9.56	365.56
+GO:0050789	regulation of biological process	4975	0.09	0.17	1.80	4.47
+GO:0070934	CRD-mediated mRNA stabilization	2	1.00	0.93	9.63	1969.41
+GO:0065009	regulation of molecular function	1419	0.33	0.29	4.10	4.47
+GO:1901962	S-adenosyl-L-methionine transmembrane transport	1	0.93	0.82	9.55	92.48
+GO:0006810	transport	2002	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	584	0.45	0.48	6.33	26.83
+GO:1901962	S-adenosyl-L-methionine transmembrane transport	1	0.93	0.82	9.55	92.48
+GO:0006810	transport	2002	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	584	0.45	0.48	6.33	26.83
+GO:1901962	S-adenosyl-L-methionine transmembrane transport	1	0.93	0.82	9.55	92.48
+GO:0006810	transport	2002	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	584	0.45	0.48	6.33	26.83
+GO:0043207	response to external biotic stimulus	428	0.41	0.40	5.91	16.64
+GO:0009628	response to abiotic stimulus	396	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	1137	0.32	0.29	4.12	6.14
+GO:0002376	immune system process	1109	0.38	0.19	3.93	3.37
+GO:0048856	anatomical structure development	587	0.33	0.29	3.70	6.46
+GO:0051259	protein complex oligomerization	264	0.78	0.68	9.09	40.42
+GO:0060271	cilium assembly	99	0.87	0.76	9.41	137.68
+GO:0046718	viral entry into host cell	55	0.77	0.73	8.94	28.37
+GO:0002244	hematopoietic progenitor cell differentiation	51	0.81	0.66	8.94	21.07
+GO:0001649	osteoblast differentiation	49	1.00	0.75	9.63	21.07
+GO:0030032	lamellipodium assembly	21	0.89	0.77	9.53	78.22
+GO:0019054	modulation by virus of host process	19	0.55	0.62	7.70	74.20
+GO:0055007	cardiac muscle cell differentiation	12	0.79	0.72	9.07	45.92
+GO:0035987	endodermal cell differentiation	12	1.00	0.75	9.63	21.07
+GO:0072643	interferon-gamma secretion	6	1.00	0.92	9.63	137.07
+GO:0007021	tubulin complex assembly	6	1.00	0.82	9.63	44.52
+GO:0048333	mesodermal cell differentiation	6	0.83	0.66	8.94	21.07
+GO:0034380	high-density lipoprotein particle assembly	5	1.00	0.85	9.63	106.00
+GO:0008354	germ cell migration	5	0.93	0.76	9.51	40.54
+GO:0042256	mature ribosome assembly	4	1.00	0.88	9.63	108.00
+GO:0002042	cell migration involved in sprouting angiogenesis	3	1.00	0.90	9.63	27.17
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	2	1.00	0.82	9.63	71.51
+GO:0044053	translocation of peptides or proteins into host cell cytoplasm	1	1.00	0.92	9.63	124.67

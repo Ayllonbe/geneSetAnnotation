@@ -1,0 +1,8 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	609	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	450	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	355	0.25	0.32	3.46	10.22
+GO:0065008	regulation of biological quality	87	0.28	0.26	3.48	4.47
+GO:0070887	cellular response to chemical stimulus	60	0.40	0.40	5.31	25.21
+GO:0006811	ion transport	47	0.38	0.44	5.19	10.99
+GO:0046718	viral entry into host cell	8	0.77	0.73	8.94	28.37

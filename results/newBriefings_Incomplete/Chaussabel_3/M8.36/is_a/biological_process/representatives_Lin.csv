@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	1331	0.23	0.31	3.63	19.40
+GO:0051641	cellular localization	610	0.37	0.31	4.44	5.67
+GO:0051234	establishment of localization	1071	0.28	0.26	3.49	5.67
+GO:0006464	cellular protein modification process	819	0.34	0.49	5.84	147.03
+GO:0032774	RNA biosynthetic process	639	0.53	0.62	8.04	473.34
+GO:0045595	regulation of cell differentiation	398	0.34	0.42	5.25	23.33
+GO:0045893	positive regulation of transcription, DNA-templated	386	0.52	0.67	8.14	1208.12
+GO:0032940	secretion by cell	280	0.48	0.53	6.33	20.46
+GO:1902533	positive regulation of intracellular signal transduction	266	0.55	0.63	7.95	189.48
+GO:0043066	negative regulation of apoptotic process	241	0.56	0.63	7.79	81.07
+GO:0034622	cellular protein-containing complex assembly	221	0.48	0.53	6.52	40.42
+GO:0007017	microtubule-based process	168	0.49	0.37	5.66	7.39
+GO:0016050	vesicle organization	106	0.58	0.54	7.25	18.35
+GO:0006091	generation of precursor metabolites and energy	106	0.53	0.46	6.54	17.52
+GO:0050714	positive regulation of protein secretion	73	0.65	0.70	8.73	381.48
+GO:0070838	divalent metal ion transport	60	0.62	0.66	8.27	33.88
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	49	1.00	0.79	9.63	42.20
+GO:0009166	nucleotide catabolic process	29	0.57	0.66	8.68	1171.05
+GO:0048278	vesicle docking	22	0.81	0.70	9.18	21.39
+GO:0000045	autophagosome assembly	17	1.00	0.82	9.63	62.10
+GO:0007632	visual behavior	16	0.84	0.71	9.27	26.72
+GO:0031532	actin cytoskeleton reorganization	13	1.00	0.82	9.63	32.01
+GO:0030032	lamellipodium assembly	10	0.89	0.77	9.53	78.22
+GO:0030520	intracellular estrogen receptor signaling pathway	10	1.00	0.88	9.63	54.01
+GO:0018230	peptidyl-L-cysteine S-palmitoylation	7	1.00	0.92	9.63	467.20
+GO:0033344	cholesterol efflux	5	1.00	0.88	9.63	39.64
+GO:0032790	ribosome disassembly	3	1.00	0.82	9.63	97.00
+GO:0045053	protein retention in Golgi apparatus	3	1.00	0.82	9.63	46.06
+GO:0015782	CMP-N-acetylneuraminate transmembrane transport	1	1.00	0.88	9.63	142.06
+GO:0032468	Golgi calcium ion homeostasis	1	1.00	0.92	9.63	288.69

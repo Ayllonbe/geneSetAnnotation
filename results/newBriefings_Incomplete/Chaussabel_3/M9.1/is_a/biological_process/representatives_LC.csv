@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4631	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	3265	0.08	0.04	0.98	3.37
+GO:0032922	circadian regulation of gene expression	17	1.00	0.82	9.63	31.18
+GO:0097167	circadian regulation of translation	3	1.00	0.88	9.63	230.33
+GO:0045475	locomotor rhythm	3	1.00	0.75	9.63	28.71
+GO:0007632	visual behavior	17	0.84	0.71	9.27	26.72
+GO:0032501	multicellular organismal process	346	0.33	0.16	3.12	3.37
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	55	1.00	0.79	9.63	42.20

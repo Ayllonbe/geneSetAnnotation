@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	3255	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	3081	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	2884	0.16	0.21	2.71	13.80
+GO:0044260	cellular macromolecule metabolic process	2050	0.28	0.39	4.44	30.44
+GO:0062012	regulation of small molecule metabolic process	127	0.39	0.44	5.45	10.74
+GO:0080090	regulation of primary metabolic process	1932	0.24	0.37	3.95	10.74
+GO:0051247	positive regulation of protein metabolic process	539	0.44	0.54	6.72	129.04
+GO:0010468	regulation of gene expression	1450	0.35	0.46	5.09	13.73
+GO:0065009	regulation of molecular function	923	0.33	0.29	4.10	4.47
+GO:0006996	organelle organization	720	0.39	0.39	5.17	14.95
+GO:0010033	response to organic substance	615	0.35	0.37	4.75	9.28
+GO:1901575	organic substance catabolic process	582	0.30	0.35	4.26	18.93
+GO:0051049	regulation of transport	556	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	547	0.51	0.55	6.92	23.17
+GO:0015031	protein transport	488	0.48	0.59	6.99	54.46
+GO:0001934	positive regulation of protein phosphorylation	298	0.58	0.69	8.60	663.11
+GO:0031400	negative regulation of protein modification process	214	0.53	0.64	7.94	366.95
+GO:0030154	cell differentiation	416	0.39	0.39	5.18	16.68
+GO:0034613	cellular protein localization	335	0.45	0.48	6.33	26.83
+GO:0030334	regulation of cell migration	266	0.48	0.56	7.11	36.74
+GO:0045087	innate immune response	168	0.68	0.59	8.16	26.47
+GO:1901990	regulation of mitotic cell cycle phase transition	150	0.61	0.66	8.15	36.35
+GO:0050900	leukocyte migration	108	0.60	0.59	8.02	26.94
+GO:0016055	Wnt signaling pathway	104	0.59	0.65	7.65	28.58
+GO:0009165	nucleotide biosynthetic process	81	0.53	0.64	8.30	725.10
+GO:0001701	in utero embryonic development	65	1.00	0.85	9.63	22.50
+GO:0000902	cell morphogenesis	62	0.63	0.56	7.92	43.26
+GO:0051028	mRNA transport	61	0.87	0.81	9.45	42.49
+GO:0000086	G2/M transition of mitotic cell cycle	56	1.00	0.79	9.63	43.45
+GO:0070588	calcium ion transmembrane transport	45	0.71	0.75	9.08	116.68
+GO:0019933	cAMP-mediated signaling	27	0.77	0.76	9.12	28.51
+GO:0035722	interleukin-12-mediated signaling pathway	25	1.00	0.85	9.63	30.19
+GO:2000243	positive regulation of reproductive process	22	0.53	0.51	6.78	23.46
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	17	1.00	0.90	9.63	33.21
+GO:0070498	interleukin-1-mediated signaling pathway	15	1.00	0.85	9.63	30.19
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	14	0.79	0.77	9.12	28.36
+GO:0048747	muscle fiber development	12	0.89	0.77	9.41	33.94
+GO:0007215	glutamate receptor signaling pathway	12	0.80	0.72	9.09	26.50
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	11	1.00	0.82	9.63	26.98
+GO:0003091	renal water homeostasis	9	1.00	0.85	9.63	57.14
+GO:0001658	branching involved in ureteric bud morphogenesis	8	1.00	0.85	9.63	53.50
+GO:0035723	interleukin-15-mediated signaling pathway	7	1.00	0.85	9.63	30.19
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	6	1.00	0.88	9.63	82.06
+GO:0043534	blood vessel endothelial cell migration	6	0.87	0.81	9.34	26.07
+GO:0070493	thrombin-activated receptor signaling pathway	5	1.00	0.82	9.63	26.98
+GO:0042074	cell migration involved in gastrulation	5	0.83	0.74	9.09	22.57
+GO:0007213	G-protein coupled acetylcholine receptor signaling pathway	5	0.80	0.75	9.26	50.15
+GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	5	0.83	0.83	9.45	86.62
+GO:0048009	insulin-like growth factor receptor signaling pathway	5	1.00	0.88	9.63	31.00
+GO:0003376	sphingosine-1-phosphate signaling pathway	4	0.89	0.77	9.41	50.15
+GO:0002528	regulation of vascular permeability involved in acute inflammatory response	1	1.00	0.82	9.63	22.58

@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	1960	0.21	0.30	3.05	7.96
+GO:0016043	cellular component organization	1615	0.28	0.26	3.74	11.45
+GO:0019538	protein metabolic process	1450	0.31	0.41	4.91	44.77
+GO:0016070	RNA metabolic process	1215	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	325	0.45	0.55	7.12	145.26
+GO:0006355	regulation of transcription, DNA-templated	1292	0.40	0.60	6.84	245.35
+GO:0006275	regulation of DNA replication	56	0.61	0.66	8.62	150.74
+GO:0009966	regulation of signal transduction	1018	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	921	0.39	0.32	4.70	6.14
+GO:0008104	protein localization	687	0.40	0.40	5.07	7.46
+GO:0032270	positive regulation of cellular protein metabolic process	547	0.47	0.59	7.41	288.49
+GO:0032502	developmental process	930	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	382	0.33	0.16	3.12	3.37
+GO:0044255	cellular lipid metabolic process	346	0.38	0.44	5.89	38.02
+GO:0045597	positive regulation of cell differentiation	297	0.45	0.51	6.57	82.53
+GO:0002757	immune response-activating signal transduction	150	0.61	0.66	8.47	138.88
+GO:0009617	response to bacterium	83	0.75	0.67	8.94	27.27
+GO:0030595	leukocyte chemotaxis	47	0.69	0.67	8.77	62.06
+GO:0050710	negative regulation of cytokine secretion	25	0.70	0.74	9.09	549.99
+GO:0046007	negative regulation of activated T cell proliferation	7	1.00	0.92	9.63	666.97
+GO:0051000	positive regulation of nitric-oxide synthase activity	7	1.00	0.85	9.63	123.23
+GO:0050930	induction of positive chemotaxis	4	1.00	0.88	9.63	129.40
+GO:0071225	cellular response to muramyl dipeptide	3	1.00	0.85	9.63	334.58
+GO:1904417	positive regulation of xenophagy	3	1.00	0.90	9.63	536.76

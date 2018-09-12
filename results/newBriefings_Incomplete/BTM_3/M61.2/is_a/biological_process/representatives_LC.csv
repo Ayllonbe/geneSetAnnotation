@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1053	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	865	0.09	0.17	1.80	4.47
+GO:0032689	negative regulation of interferon-gamma production	8	0.89	0.77	9.43	65.25
+GO:0048518	positive regulation of biological process	554	0.21	0.30	3.05	7.96
+GO:0031325	positive regulation of cellular metabolic process	295	0.33	0.46	5.39	79.98
+GO:0032496	response to lipopolysaccharide	74	0.89	0.74	9.45	64.41
+GO:0006952	defense response	124	0.56	0.48	6.67	9.54
+GO:1902533	positive regulation of intracellular signal transduction	130	0.55	0.63	7.95	189.48
+GO:0045619	regulation of lymphocyte differentiation	28	0.57	0.63	8.36	97.97
+GO:0051251	positive regulation of lymphocyte activation	74	0.58	0.64	8.19	127.58
+GO:0006468	protein phosphorylation	78	0.57	0.64	8.18	177.76
+GO:0009150	purine ribonucleotide metabolic process	21	0.55	0.67	8.37	538.25
+GO:0006509	membrane protein ectodomain proteolysis	5	0.89	0.80	9.45	50.75
+GO:0007202	activation of phospholipase C activity	5	1.00	0.90	9.63	83.74
+GO:0070233	negative regulation of T cell apoptotic process	4	0.83	0.83	9.37	155.58
+GO:2000502	negative regulation of natural killer cell chemotaxis	2	1.00	0.93	9.63	1002.76
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:2000318	positive regulation of T-helper 17 type immune response	2	0.89	0.82	9.56	171.58

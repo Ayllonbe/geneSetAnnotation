@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0030154	cell differentiation	20	0.39	0.39	5.18	16.68
+GO:0007166	cell surface receptor signaling pathway	17	0.43	0.51	5.91	23.17
+GO:0010628	positive regulation of gene expression	17	0.47	0.56	6.67	58.80
+GO:0045893	positive regulation of transcription, DNA-templated	16	0.52	0.67	8.14	1208.12
+GO:0009967	positive regulation of signal transduction	14	0.44	0.54	6.71	140.23
+GO:0008284	positive regulation of cell proliferation	9	0.56	0.57	7.27	43.45
+GO:0034329	cell junction assembly	9	0.71	0.61	8.53	35.01
+GO:0043066	negative regulation of apoptotic process	5	0.56	0.63	7.79	81.07
+GO:0051259	protein complex oligomerization	5	0.78	0.68	9.09	40.42
+GO:0007162	negative regulation of cell adhesion	5	0.57	0.57	7.40	38.27
+GO:2000145	regulation of cell motility	4	0.47	0.52	6.88	34.54
+GO:0000902	cell morphogenesis	4	0.63	0.56	7.92	43.26
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0007565	female pregnancy	2	1.00	0.70	9.63	32.81
+GO:0045471	response to ethanol	2	0.93	0.76	9.52	69.73
+GO:0072659	protein localization to plasma membrane	2	0.79	0.72	9.26	65.43
+GO:0071681	cellular response to indole-3-methanol	2	1.00	0.82	9.63	467.41
+GO:0042307	positive regulation of protein import into nucleus	2	0.93	0.86	9.59	778.75
+GO:0030260	entry into host cell	2	0.74	0.69	8.68	26.99
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
+GO:0032773	positive regulation of monophenol monooxygenase activity	1	1.00	0.85	9.63	123.23
+GO:0050982	detection of mechanical stimulus	1	0.74	0.62	8.71	57.71
+GO:0051796	negative regulation of timing of catagen	1	1.00	0.88	9.63	253.30
+GO:0045995	regulation of embryonic development	1	0.50	0.54	6.89	27.38
+GO:0038044	transforming growth factor-beta secretion	1	1.00	0.92	9.63	137.07
+GO:0043537	negative regulation of blood vessel endothelial cell migration	1	0.93	0.88	9.58	356.35
+GO:0032463	negative regulation of protein homooligomerization	1	0.93	0.84	9.56	148.87
+GO:0098911	regulation of ventricular cardiac muscle cell action potential	1	0.79	0.81	9.54	102.35
+GO:0048023	positive regulation of melanin biosynthetic process	1	1.00	0.85	9.63	326.12
+GO:0086091	regulation of heart rate by cardiac conduction	1	1.00	0.88	9.63	61.17
+GO:0070831	basement membrane assembly	1	0.93	0.79	9.51	38.85
+GO:0001954	positive regulation of cell-matrix adhesion	1	0.87	0.76	9.34	50.26
+GO:0032912	negative regulation of transforming growth factor beta2 production	1	0.93	0.82	9.54	85.64
+GO:0007416	synapse assembly	1	0.84	0.67	9.12	35.85
+GO:0071285	cellular response to lithium ion	1	1.00	0.82	9.63	77.81
+GO:0097186	amelogenesis	1	1.00	0.82	9.63	26.74
+GO:0043312	neutrophil degranulation	1	1.00	0.90	9.63	132.80
+GO:0006914	autophagy	1	0.67	0.59	8.40	37.75
+GO:0001666	response to hypoxia	1	0.81	0.70	9.12	21.16
+GO:0045766	positive regulation of angiogenesis	1	0.81	0.76	9.30	134.49
+GO:0007016	cytoskeletal anchoring at plasma membrane	1	1.00	0.82	9.63	66.89
+GO:1902910	positive regulation of melanosome transport	1	1.00	0.85	9.63	134.58
+GO:0051091	positive regulation of DNA binding transcription factor activity	1	0.81	0.84	9.43	277.83
+GO:0032570	response to progesterone	1	0.93	0.79	9.55	105.99
+GO:1902476	chloride transmembrane transport	1	1.00	0.88	9.63	110.52

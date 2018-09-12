@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	226	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	195	0.25	0.32	3.46	10.22
+GO:0006351	transcription, DNA-templated	70	0.57	0.68	8.45	581.39
+GO:0006357	regulation of transcription by RNA polymerase II	66	0.44	0.63	7.11	248.57
+GO:0051246	regulation of protein metabolic process	57	0.34	0.46	5.46	41.09
+GO:0048584	positive regulation of response to stimulus	37	0.35	0.42	4.95	23.46
+GO:0051707	response to other organism	10	0.42	0.46	6.41	24.63
+GO:0045087	innate immune response	8	0.68	0.59	8.16	26.47
+GO:0032787	monocarboxylic acid metabolic process	7	0.40	0.53	6.17	45.97
+GO:0006369	termination of RNA polymerase II transcription	6	0.89	0.84	9.55	477.15
+GO:0006625	protein targeting to peroxisome	5	0.89	0.86	9.56	237.37
+GO:0006378	mRNA polyadenylation	4	0.93	0.88	9.58	472.44
+GO:0019933	cAMP-mediated signaling	3	0.77	0.76	9.12	28.51
+GO:0097191	extrinsic apoptotic signaling pathway	3	0.83	0.74	9.22	51.06
+GO:0043392	negative regulation of DNA binding	2	0.76	0.67	8.87	32.53
+GO:0060474	positive regulation of flagellated sperm motility involved in capacitation	1	1.00	0.88	9.63	162.69
+GO:0002762	negative regulation of myeloid leukocyte differentiation	1	0.77	0.76	9.35	700.15
+GO:0035584	calcium-mediated signaling using intracellular calcium source	1	1.00	0.88	9.63	30.12

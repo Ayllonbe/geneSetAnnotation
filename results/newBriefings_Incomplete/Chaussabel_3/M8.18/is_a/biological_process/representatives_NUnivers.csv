@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3242	0.12	0.26	2.47	7.96
+GO:0006355	regulation of transcription, DNA-templated	1244	0.40	0.60	6.84	245.35
+GO:0006950	response to stress	890	0.39	0.32	4.70	6.14
+GO:0006351	transcription, DNA-templated	816	0.57	0.68	8.45	581.39
+GO:0010628	positive regulation of gene expression	645	0.47	0.56	6.67	58.80
+GO:0046907	intracellular transport	587	0.46	0.48	6.38	29.65
+GO:0065003	protein-containing complex assembly	582	0.45	0.48	6.06	36.47
+GO:0015031	protein transport	510	0.48	0.59	6.99	54.46
+GO:0071310	cellular response to organic substance	443	0.44	0.47	5.95	41.66
+GO:0051726	regulation of cell cycle	426	0.41	0.45	5.89	12.04
+GO:0045944	positive regulation of transcription by RNA polymerase II	383	0.55	0.71	8.36	1463.86
+GO:0055085	transmembrane transport	281	0.41	0.46	5.44	10.99
+GO:0048468	cell development	176	0.51	0.45	6.51	28.42
+GO:0043547	positive regulation of GTPase activity	134	0.93	0.79	9.52	49.34
+GO:0051962	positive regulation of nervous system development	126	0.56	0.60	7.74	86.11
+GO:0120031	plasma membrane bounded cell projection assembly	96	0.69	0.64	8.45	55.86
+GO:0010951	negative regulation of endopeptidase activity	79	0.77	0.80	9.45	500.32
+GO:0051961	negative regulation of nervous system development	79	0.55	0.60	7.67	86.30
+GO:0006486	protein glycosylation	79	0.62	0.66	8.59	174.08
+GO:0072659	protein localization to plasma membrane	63	0.79	0.72	9.26	65.43
+GO:0008360	regulation of cell shape	62	0.68	0.66	8.69	41.78
+GO:0009267	cellular response to starvation	58	0.64	0.64	8.46	112.77
+GO:0002576	platelet degranulation	58	1.00	0.88	9.63	39.86
+GO:0019371	cyclooxygenase pathway	6	1.00	0.92	9.63	253.27
+GO:0006633	fatty acid biosynthetic process	45	0.65	0.70	8.91	359.85
+GO:0008016	regulation of heart contraction	42	0.57	0.61	7.59	16.15
+GO:0032355	response to estradiol	41	0.93	0.76	9.52	74.25
+GO:0010811	positive regulation of cell-substrate adhesion	38	0.80	0.69	9.01	35.31
+GO:0030148	sphingolipid biosynthetic process	34	0.69	0.70	8.99	238.83
+GO:0007517	muscle organ development	31	0.78	0.64	8.75	27.68
+GO:1903426	regulation of reactive oxygen species biosynthetic process	26	0.79	0.72	9.22	42.43
+GO:0035725	sodium ion transmembrane transport	23	0.89	0.82	9.49	113.92
+GO:0050710	negative regulation of cytokine secretion	23	0.70	0.74	9.09	549.99
+GO:0050706	regulation of interleukin-1 beta secretion	18	0.89	0.86	9.53	155.13
+GO:0035176	social behavior	16	1.00	0.70	9.63	22.58
+GO:0001657	ureteric bud development	13	1.00	0.88	9.63	36.92
+GO:0070233	negative regulation of T cell apoptotic process	12	0.83	0.83	9.37	155.58
+GO:0042136	neurotransmitter biosynthetic process	12	0.70	0.64	8.67	62.16
+GO:0042310	vasoconstriction	11	0.75	0.75	9.10	39.68
+GO:0046621	negative regulation of organ growth	11	0.81	0.73	9.36	146.93
+GO:0090481	pyrimidine nucleotide-sugar transmembrane transport	9	0.78	0.74	9.10	63.68
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	9	1.00	0.88	9.63	500.32
+GO:0018146	keratan sulfate biosynthetic process	8	1.00	0.88	9.63	415.41
+GO:0002829	negative regulation of type 2 immune response	6	0.89	0.77	9.46	108.79
+GO:0070863	positive regulation of protein exit from endoplasmic reticulum	6	0.93	0.86	9.58	386.42
+GO:0032682	negative regulation of chemokine production	6	0.71	0.68	8.73	66.70
+GO:0001881	receptor recycling	5	0.84	0.74	9.22	34.80
+GO:1900425	negative regulation of defense response to bacterium	5	0.77	0.73	9.27	222.83
+GO:0000050	urea cycle	4	1.00	0.82	9.63	229.46
+GO:2000774	positive regulation of cellular senescence	4	1.00	0.85	9.63	164.05
+GO:0003429	growth plate cartilage chondrocyte morphogenesis	4	1.00	0.88	9.63	76.28
+GO:0098810	neurotransmitter reuptake	4	0.81	0.73	9.32	50.00
+GO:0032227	negative regulation of synaptic transmission, dopaminergic	3	0.89	0.82	9.56	135.87
+GO:2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation	3	1.00	0.93	9.63	1433.73
+GO:1901387	positive regulation of voltage-gated calcium channel activity	3	0.93	0.90	9.60	1442.02
+GO:0032264	IMP salvage	2	1.00	0.95	9.63	9031.36
+GO:0019547	arginine catabolic process to ornithine	2	1.00	0.93	9.63	647.31
+GO:0072086	specification of loop of Henle identity	2	0.93	0.76	9.47	26.26
+GO:0032263	GMP salvage	1	1.00	0.95	9.63	16650.48
+GO:0032310	prostaglandin secretion	1	0.87	0.87	9.53	223.94
+GO:0071321	cellular response to cGMP	1	1.00	0.85	9.63	326.68
+GO:0046100	hypoxanthine metabolic process	1	0.84	0.80	9.52	250.45
+GO:0043096	purine nucleobase salvage	1	0.87	0.83	9.54	1662.52
+GO:0014064	positive regulation of serotonin secretion	1	1.00	0.88	9.63	271.63

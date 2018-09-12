@@ -1,0 +1,78 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	163	0.16	0.21	2.71	13.80
+GO:0062012	regulation of small molecule metabolic process	15	0.39	0.44	5.45	10.74
+GO:0080090	regulation of primary metabolic process	158	0.24	0.37	3.95	10.74
+GO:2000112	regulation of cellular macromolecule biosynthetic process	105	0.36	0.50	5.87	74.82
+GO:0007166	cell surface receptor signaling pathway	86	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	72	0.35	0.37	4.75	9.28
+GO:0031328	positive regulation of cellular biosynthetic process	63	0.41	0.53	6.32	170.14
+GO:0006811	ion transport	14	0.38	0.44	5.19	10.99
+GO:0071705	nitrogen compound transport	44	0.36	0.43	4.99	10.99
+GO:0006811	ion transport	14	0.38	0.44	5.19	10.99
+GO:0071702	organic substance transport	48	0.33	0.41	4.62	10.99
+GO:0045637	regulation of myeloid cell differentiation	9	0.62	0.63	8.47	67.17
+GO:0050776	regulation of immune response	48	0.38	0.44	5.64	22.45
+GO:0035556	intracellular signal transduction	54	0.51	0.55	6.92	23.17
+GO:2000026	regulation of multicellular organismal development	52	0.29	0.39	4.73	23.09
+GO:0001933	negative regulation of protein phosphorylation	15	0.61	0.70	8.76	664.69
+GO:0001934	positive regulation of protein phosphorylation	36	0.58	0.69	8.60	663.11
+GO:0043933	protein-containing complex subunit organization	46	0.43	0.41	5.44	14.95
+GO:0006351	transcription, DNA-templated	44	0.57	0.68	8.45	581.39
+GO:0016192	vesicle-mediated transport	44	0.52	0.51	6.57	10.99
+GO:1902532	negative regulation of intracellular signal transduction	17	0.57	0.64	8.15	189.94
+GO:1902533	positive regulation of intracellular signal transduction	34	0.55	0.63	7.95	189.48
+GO:0051240	positive regulation of multicellular organismal process	43	0.35	0.42	4.98	23.60
+GO:0042981	regulation of apoptotic process	42	0.45	0.55	6.60	16.23
+GO:0032940	secretion by cell	33	0.48	0.53	6.33	20.46
+GO:0007589	body fluid secretion	3	0.80	0.69	9.00	24.01
+GO:0008284	positive regulation of cell proliferation	35	0.56	0.57	7.27	43.45
+GO:0006952	defense response	32	0.56	0.48	6.67	9.54
+GO:0016477	cell migration	27	0.47	0.48	6.31	17.13
+GO:1903238	positive regulation of leukocyte tethering or rolling	1	1.00	0.92	9.63	440.95
+GO:0032101	regulation of response to external stimulus	22	0.40	0.45	5.60	11.65
+GO:0001817	regulation of cytokine production	23	0.40	0.45	5.78	11.79
+GO:0048878	chemical homeostasis	22	0.48	0.49	6.42	10.43
+GO:0007186	G-protein coupled receptor signaling pathway	21	0.55	0.57	7.20	23.17
+GO:0048513	animal organ development	20	0.50	0.45	5.88	11.73
+GO:0010469	regulation of signaling receptor activity	19	0.59	0.62	7.95	48.62
+GO:1903530	regulation of secretion by cell	19	0.44	0.54	6.38	28.69
+GO:0040008	regulation of growth	18	0.48	0.44	6.04	7.96
+GO:0071214	cellular response to abiotic stimulus	18	0.59	0.54	7.66	24.78
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	15	0.58	0.64	7.56	28.11
+GO:0097190	apoptotic signaling pathway	14	0.70	0.64	8.53	23.17
+GO:0034765	regulation of ion transmembrane transport	13	0.46	0.55	6.68	33.04
+GO:1901565	organonitrogen compound catabolic process	10	0.39	0.45	5.67	46.28
+GO:0030855	epithelial cell differentiation	10	0.55	0.52	6.96	21.07
+GO:0072657	protein localization to membrane	9	0.58	0.58	7.59	29.83
+GO:0055086	nucleobase-containing small molecule metabolic process	8	0.38	0.48	6.63	107.58
+GO:0016311	dephosphorylation	7	0.68	0.63	8.33	24.41
+GO:0045444	fat cell differentiation	7	0.87	0.68	9.29	21.07
+GO:0043603	cellular amide metabolic process	7	0.47	0.48	6.49	29.84
+GO:0090407	organophosphate biosynthetic process	6	0.46	0.52	6.66	57.67
+GO:0044262	cellular carbohydrate metabolic process	6	0.46	0.48	6.72	38.14
+GO:0006000	fructose metabolic process	1	0.80	0.72	9.07	34.68
+GO:0001649	osteoblast differentiation	4	1.00	0.75	9.63	21.07
+GO:0006639	acylglycerol metabolic process	4	0.73	0.69	8.99	83.80
+GO:0031663	lipopolysaccharide-mediated signaling pathway	3	1.00	0.82	9.63	26.50
+GO:0032930	positive regulation of superoxide anion generation	3	1.00	0.88	9.63	144.58
+GO:0001774	microglial cell activation	3	0.93	0.79	9.51	31.20
+GO:0000209	protein polyubiquitination	3	0.77	0.80	9.22	155.40
+GO:0090399	replicative senescence	3	1.00	0.75	9.63	26.14
+GO:0007567	parturition	2	1.00	0.70	9.63	32.81
+GO:0045345	positive regulation of MHC class I biosynthetic process	2	1.00	0.85	9.63	147.29
+GO:0010863	positive regulation of phospholipase C activity	2	0.93	0.84	9.55	83.74
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	2	0.93	0.91	9.59	279.62
+GO:0097186	amelogenesis	2	1.00	0.82	9.63	26.74
+GO:0097746	regulation of blood vessel diameter	2	0.64	0.64	8.47	38.29
+GO:0042445	hormone metabolic process	2	0.52	0.51	6.84	17.13
+GO:0009437	carnitine metabolic process	2	0.87	0.72	9.37	68.67
+GO:0009609	response to symbiotic bacterium	1	0.93	0.79	9.52	57.43
+GO:1990743	protein sialylation	1	1.00	0.85	9.63	166.28
+GO:1904303	positive regulation of maternal process involved in parturition	1	1.00	0.79	9.63	118.07
+GO:1904300	positive regulation of transcytosis	1	1.00	0.85	9.63	59.34
+GO:0006003	fructose 2,6-bisphosphate metabolic process	1	1.00	0.79	9.63	72.83
+GO:0030511	positive regulation of transforming growth factor beta receptor signaling pathway	1	1.00	0.88	9.63	345.46
+GO:0050746	regulation of lipoprotein metabolic process	1	0.74	0.69	9.29	70.76
+GO:0045751	negative regulation of Toll signaling pathway	1	1.00	0.85	9.63	187.41
+GO:0045199	maintenance of epithelial cell apical/basal polarity	1	1.00	0.82	9.63	34.60
+GO:0006486	protein glycosylation	1	0.62	0.66	8.59	174.08

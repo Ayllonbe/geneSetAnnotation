@@ -1,0 +1,92 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	814	0.22	0.36	4.01	22.77
+GO:0006810	transport	664	0.28	0.34	3.95	7.46
+GO:0007166	cell surface receptor signaling pathway	579	0.43	0.51	5.91	23.17
+GO:0050793	regulation of developmental process	488	0.26	0.33	3.95	7.96
+GO:0051239	regulation of multicellular organismal process	576	0.23	0.32	3.68	7.96
+GO:0019538	protein metabolic process	508	0.31	0.41	4.91	44.77
+GO:2000026	regulation of multicellular organismal development	398	0.29	0.39	4.73	23.09
+GO:0042542	response to hydrogen peroxide	38	0.93	0.76	9.54	79.29
+GO:0070887	cellular response to chemical stimulus	354	0.40	0.40	5.31	25.21
+GO:0042542	response to hydrogen peroxide	38	0.93	0.76	9.54	79.29
+GO:0070887	cellular response to chemical stimulus	354	0.40	0.40	5.31	25.21
+GO:0043030	regulation of macrophage activation	18	0.83	0.74	9.38	27.11
+GO:0050776	regulation of immune response	348	0.38	0.44	5.64	22.45
+GO:0051049	regulation of transport	341	0.31	0.40	4.67	10.45
+GO:0019220	regulation of phosphate metabolic process	329	0.41	0.53	6.26	28.98
+GO:0010941	regulation of cell death	327	0.43	0.47	6.10	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	321	0.44	0.63	7.11	248.57
+GO:0035067	negative regulation of histone acetylation	5	0.81	0.84	9.50	1304.33
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:0035067	negative regulation of histone acetylation	5	0.81	0.84	9.50	1304.33
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:0002237	response to molecule of bacterial origin	126	0.69	0.59	8.74	31.75
+GO:0051707	response to other organism	180	0.42	0.46	6.41	24.63
+GO:0008284	positive regulation of cell proliferation	253	0.56	0.57	7.27	43.45
+GO:0042592	homeostatic process	245	0.45	0.42	5.70	8.64
+GO:0051336	regulation of hydrolase activity	236	0.46	0.48	6.24	9.25
+GO:1903238	positive regulation of leukocyte tethering or rolling	4	1.00	0.92	9.63	440.95
+GO:0032101	regulation of response to external stimulus	220	0.40	0.45	5.60	11.65
+GO:0006811	ion transport	218	0.38	0.44	5.19	10.99
+GO:0006351	transcription, DNA-templated	215	0.57	0.68	8.45	581.39
+GO:0002274	myeloid leukocyte activation	214	0.68	0.59	8.67	18.06
+GO:0016477	cell migration	210	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0001818	negative regulation of cytokine production	81	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	148	0.51	0.54	6.97	44.26
+GO:0060341	regulation of cellular localization	145	0.40	0.45	5.64	10.45
+GO:0044255	cellular lipid metabolic process	141	0.38	0.44	5.89	38.02
+GO:0045785	positive regulation of cell adhesion	140	0.58	0.54	7.23	21.97
+GO:0001666	response to hypoxia	65	0.81	0.70	9.12	21.16
+GO:0071214	cellular response to abiotic stimulus	53	0.59	0.54	7.66	24.78
+GO:0099003	vesicle-mediated transport in synapse	8	0.70	0.64	8.40	13.98
+GO:0006897	endocytosis	105	0.63	0.61	8.09	26.36
+GO:0060627	regulation of vesicle-mediated transport	97	0.48	0.53	6.81	26.12
+GO:0044057	regulation of system process	84	0.41	0.46	5.70	11.79
+GO:0050878	regulation of body fluid levels	68	0.58	0.49	7.01	8.64
+GO:0072521	purine-containing compound metabolic process	62	0.47	0.48	7.16	111.71
+GO:0061024	membrane organization	62	0.47	0.43	6.06	14.95
+GO:0051260	protein homooligomerization	54	0.89	0.77	9.41	42.03
+GO:0042176	regulation of protein catabolic process	53	0.59	0.62	8.21	56.79
+GO:0016567	protein ubiquitination	49	0.69	0.74	9.00	153.79
+GO:0050804	modulation of chemical synaptic transmission	48	0.52	0.58	7.24	27.32
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	46	0.89	0.82	9.52	239.11
+GO:0001959	regulation of cytokine-mediated signaling pathway	41	0.61	0.63	8.11	55.11
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	41	0.93	0.91	9.59	279.44
+GO:0043901	negative regulation of multi-organism process	40	0.52	0.51	6.65	23.38
+GO:0097193	intrinsic apoptotic signaling pathway	34	0.74	0.69	9.07	50.98
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0042391	regulation of membrane potential	28	0.52	0.46	6.44	8.64
+GO:0015850	organic hydroxy compound transport	24	0.54	0.56	6.98	14.73
+GO:0031100	animal organ regeneration	23	0.89	0.70	9.29	28.09
+GO:0051341	regulation of oxidoreductase activity	22	0.58	0.54	7.59	19.99
+GO:0030218	erythrocyte differentiation	16	0.84	0.71	9.12	22.68
+GO:0051851	modification by host of symbiont morphology or physiology	16	0.54	0.56	7.41	24.28
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0008344	adult locomotory behavior	11	0.84	0.62	9.16	24.58
+GO:0006779	porphyrin-containing compound biosynthetic process	8	0.70	0.68	9.20	516.36
+GO:0048821	erythrocyte development	7	0.89	0.74	9.38	33.54
+GO:0002227	innate immune response in mucosa	6	1.00	0.79	9.63	46.05
+GO:0002438	acute inflammatory response to antigenic stimulus	5	0.77	0.71	9.12	43.67
+GO:0042416	dopamine biosynthetic process	5	0.93	0.84	9.59	507.85
+GO:0010642	negative regulation of platelet-derived growth factor receptor signaling pathway	5	0.89	0.80	9.50	188.11
+GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
+GO:0034395	regulation of transcription from RNA polymerase II promoter in response to iron	2	0.89	0.88	9.53	252.65
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0042541	hemoglobin biosynthetic process	2	1.00	0.82	9.63	238.03
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	2	1.00	0.85	9.63	33.34
+GO:0070495	negative regulation of thrombin-activated receptor signaling pathway	2	1.00	0.88	9.63	238.43
+GO:0072311	glomerular epithelial cell differentiation	2	0.79	0.72	9.22	49.62
+GO:0006833	water transport	2	0.81	0.70	9.04	11.68
+GO:0015886	heme transport	2	0.84	0.71	9.31	55.36
+GO:0000160	phosphorelay signal transduction system	2	0.84	0.74	9.27	26.43
+GO:0001921	positive regulation of receptor recycling	2	1.00	0.82	9.63	202.60
+GO:1905606	regulation of presynapse assembly	2	0.83	0.76	9.49	80.99
+GO:0031115	negative regulation of microtubule polymerization	2	0.93	0.88	9.59	405.45
+GO:1904307	response to desipramine	1	0.93	0.76	9.52	62.21
+GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
+GO:0030950	establishment or maintenance of actin cytoskeleton polarity	1	1.00	0.82	9.63	64.11
+GO:0051622	negative regulation of norepinephrine uptake	1	0.93	0.79	9.51	44.49
+GO:0002812	biosynthetic process of antibacterial peptides active against Gram-negative bacteria	1	1.00	0.90	9.63	215.43
+GO:0060445	branching involved in salivary gland morphogenesis	1	0.93	0.79	9.51	38.29
+GO:0018153	isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine	1	1.00	0.90	9.63	470.89

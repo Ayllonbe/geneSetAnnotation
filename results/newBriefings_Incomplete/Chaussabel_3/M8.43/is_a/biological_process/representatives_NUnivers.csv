@@ -1,0 +1,55 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1971	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	1028	0.24	0.37	3.90	23.93
+GO:0006139	nucleobase-containing compound metabolic process	1000	0.29	0.40	5.40	96.28
+GO:0007165	signal transduction	900	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	823	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	728	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	543	0.57	0.68	8.45	581.39
+GO:0045893	positive regulation of transcription, DNA-templated	357	0.52	0.67	8.14	1208.12
+GO:0015031	protein transport	351	0.48	0.59	6.99	54.46
+GO:0045892	negative regulation of transcription, DNA-templated	285	0.56	0.69	8.52	1581.26
+GO:0034622	cellular protein-containing complex assembly	198	0.48	0.53	6.52	40.42
+GO:0043065	positive regulation of apoptotic process	171	0.56	0.63	7.81	80.91
+GO:0008202	steroid metabolic process	60	0.57	0.53	7.51	35.32
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	49	0.74	0.74	8.99	58.93
+GO:0016197	endosomal transport	48	0.71	0.64	8.82	47.19
+GO:0001701	in utero embryonic development	42	1.00	0.85	9.63	22.50
+GO:0000086	G2/M transition of mitotic cell cycle	39	1.00	0.79	9.63	43.45
+GO:0034504	protein localization to nucleus	38	0.72	0.68	8.76	32.77
+GO:1901796	regulation of signal transduction by p53 class mediator	32	0.72	0.71	9.12	45.07
+GO:0051053	negative regulation of DNA metabolic process	30	0.57	0.64	8.26	302.32
+GO:0042177	negative regulation of protein catabolic process	28	0.71	0.71	9.11	231.82
+GO:0097711	ciliary basal body-plasma membrane docking	25	1.00	0.79	9.63	21.39
+GO:0051492	regulation of stress fiber assembly	25	0.89	0.86	9.49	106.76
+GO:0009749	response to glucose	23	0.89	0.80	9.41	32.96
+GO:0006446	regulation of translational initiation	23	0.62	0.69	8.74	215.82
+GO:0090630	activation of GTPase activity	20	1.00	0.85	9.63	49.34
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	14	0.89	0.82	9.54	374.75
+GO:0045652	regulation of megakaryocyte differentiation	14	0.89	0.80	9.46	68.96
+GO:0006641	triglyceride metabolic process	14	0.84	0.77	9.32	85.59
+GO:0006695	cholesterol biosynthetic process	12	0.87	0.78	9.51	430.36
+GO:0045599	negative regulation of fat cell differentiation	11	0.93	0.79	9.54	114.62
+GO:0045839	negative regulation of mitotic nuclear division	10	0.70	0.72	9.08	276.54
+GO:0001657	ureteric bud development	9	1.00	0.88	9.63	36.92
+GO:0010718	positive regulation of epithelial to mesenchymal transition	9	0.81	0.73	9.38	170.70
+GO:0048701	embryonic cranial skeleton morphogenesis	8	1.00	0.82	9.63	46.18
+GO:0035194	posttranscriptional gene silencing by RNA	8	0.81	0.80	9.41	180.54
+GO:0010894	negative regulation of steroid biosynthetic process	8	0.71	0.73	9.00	234.22
+GO:0006309	apoptotic DNA fragmentation	7	1.00	0.90	9.63	682.12
+GO:0045717	negative regulation of fatty acid biosynthetic process	7	0.84	0.80	9.48	670.14
+GO:0070723	response to cholesterol	7	0.93	0.79	9.52	80.92
+GO:0009220	pyrimidine ribonucleotide biosynthetic process	7	0.73	0.78	9.40	2978.82
+GO:0060213	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening	6	1.00	0.93	9.63	968.14
+GO:1903351	cellular response to dopamine	6	1.00	0.88	9.63	545.63
+GO:0035265	organ growth	6	0.77	0.58	8.75	22.58
+GO:0050427	3'-phosphoadenosine 5'-phosphosulfate metabolic process	5	0.93	0.88	9.60	1067.60
+GO:0036315	cellular response to sterol	5	0.84	0.74	9.39	230.17
+GO:0070862	negative regulation of protein exit from endoplasmic reticulum	4	0.93	0.86	9.58	386.74
+GO:0006183	GTP biosynthetic process	4	1.00	0.93	9.63	9648.75
+GO:0006068	ethanol catabolic process	3	1.00	0.85	9.63	292.84
+GO:0042420	dopamine catabolic process	3	1.00	0.88	9.63	561.10
+GO:0035278	miRNA mediated inhibition of translation	3	1.00	0.92	9.63	1334.28
+GO:0048340	paraxial mesoderm morphogenesis	1	1.00	0.79	9.63	29.77
+GO:0007352	zygotic specification of dorsal/ventral axis	1	1.00	0.79	9.63	40.32
+GO:1901303	negative regulation of cargo loading into COPII-coated vesicle	1	1.00	0.88	9.63	326.98

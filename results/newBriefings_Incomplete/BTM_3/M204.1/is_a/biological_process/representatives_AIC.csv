@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	260	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	474	0.21	0.30	3.05	7.96
+GO:2000112	regulation of cellular macromolecule biosynthetic process	215	0.36	0.50	5.87	74.82
+GO:0043312	neutrophil degranulation	114	1.00	0.90	9.63	132.80
+GO:0065003	protein-containing complex assembly	98	0.45	0.48	6.06	36.47
+GO:0009615	response to virus	38	0.74	0.66	8.80	27.27
+GO:0090090	negative regulation of canonical Wnt signaling pathway	7	0.79	0.77	9.28	236.99
+GO:0051086	chaperone mediated protein folding independent of cofactor	1	1.00	0.79	9.63	21.14

@@ -1,0 +1,58 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	3194	0.09	0.17	1.80	4.47
+GO:0031323	regulation of cellular metabolic process	1937	0.22	0.36	4.01	22.77
+GO:0051716	cellular response to stimulus	901	0.35	0.30	4.36	13.53
+GO:0051246	regulation of protein metabolic process	884	0.34	0.46	5.46	41.09
+GO:0065008	regulation of biological quality	802	0.28	0.26	3.48	4.47
+GO:0006351	transcription, DNA-templated	768	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	710	0.39	0.39	5.17	14.95
+GO:0006796	phosphate-containing compound metabolic process	660	0.36	0.43	5.28	20.85
+GO:0043933	protein-containing complex subunit organization	643	0.43	0.41	5.44	14.95
+GO:0046907	intracellular transport	563	0.46	0.48	6.38	29.65
+GO:0033554	cellular response to stress	551	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	537	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	489	0.34	0.42	5.25	23.33
+GO:0080134	regulation of response to stress	446	0.35	0.42	5.03	11.65
+GO:0051130	positive regulation of cellular component organization	399	0.42	0.50	5.95	43.84
+GO:0051054	positive regulation of DNA metabolic process	67	0.59	0.65	8.41	301.51
+GO:0042127	regulation of cell proliferation	432	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	407	0.39	0.39	5.18	16.68
+GO:0051336	regulation of hydrolase activity	397	0.46	0.48	6.24	9.25
+GO:0009968	negative regulation of signal transduction	362	0.44	0.54	6.68	140.65
+GO:0022402	cell cycle process	351	0.40	0.32	4.60	7.39
+GO:0006811	ion transport	313	0.38	0.44	5.19	10.99
+GO:0045321	leukocyte activation	301	0.52	0.46	6.78	16.27
+GO:1901565	organonitrogen compound catabolic process	297	0.39	0.45	5.67	46.28
+GO:0000122	negative regulation of transcription by RNA polymerase II	279	0.61	0.74	8.79	1836.95
+GO:0045859	regulation of protein kinase activity	268	0.56	0.68	8.33	159.56
+GO:0010564	regulation of cell cycle process	267	0.42	0.50	6.22	14.24
+GO:0043207	response to external biotic stimulus	267	0.41	0.40	5.91	16.64
+GO:0032446	protein modification by small protein conjugation	248	0.66	0.70	8.79	151.85
+GO:0045087	innate immune response	161	0.68	0.59	8.16	26.47
+GO:0006897	endocytosis	144	0.63	0.61	8.09	26.36
+GO:0071345	cellular response to cytokine stimulus	133	0.67	0.63	8.21	61.60
+GO:0034248	regulation of cellular amide metabolic process	130	0.47	0.53	6.77	41.10
+GO:0043687	post-translational protein modification	129	0.65	0.67	8.51	151.15
+GO:1903829	positive regulation of cellular protein localization	119	0.60	0.62	7.80	40.87
+GO:0016055	Wnt signaling pathway	102	0.59	0.65	7.65	28.58
+GO:0001818	negative regulation of cytokine production	89	0.51	0.55	7.03	44.36
+GO:1901215	negative regulation of neuron death	62	0.76	0.70	9.05	58.54
+GO:0001701	in utero embryonic development	62	1.00	0.85	9.63	22.50
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	57	1.00	0.79	9.63	42.20
+GO:0032868	response to insulin	41	0.93	0.82	9.54	74.03
+GO:0043112	receptor metabolic process	37	0.65	0.62	8.28	33.01
+GO:0007219	Notch signaling pathway	33	0.78	0.71	8.87	26.50
+GO:0097711	ciliary basal body-plasma membrane docking	32	1.00	0.79	9.63	21.39
+GO:0006672	ceramide metabolic process	25	0.71	0.71	9.18	101.21
+GO:0048013	ephrin receptor signaling pathway	23	1.00	0.88	9.63	31.00
+GO:2000378	negative regulation of reactive oxygen species metabolic process	19	0.78	0.71	9.25	113.13
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	19	1.00	0.88	9.63	115.14
+GO:0008344	adult locomotory behavior	19	0.84	0.62	9.16	24.58
+GO:0000715	nucleotide-excision repair, DNA damage recognition	15	0.93	0.76	9.47	21.24
+GO:0070498	interleukin-1-mediated signaling pathway	14	1.00	0.85	9.63	30.19
+GO:0051353	positive regulation of oxidoreductase activity	14	0.69	0.63	8.56	68.71
+GO:0001756	somitogenesis	14	1.00	0.79	9.63	43.80
+GO:0019430	removal of superoxide radicals	7	1.00	0.79	9.63	35.17
+GO:0046323	glucose import	3	0.89	0.86	9.46	38.21
+GO:0006771	riboflavin metabolic process	2	0.89	0.74	9.50	127.52
+GO:0007341	penetration of zona pellucida	1	1.00	0.70	9.63	44.01

@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	3321	0.08	0.04	0.98	3.37
+GO:0030036	actin cytoskeleton organization	110	0.63	0.61	8.05	29.61
+GO:0009987	cellular process	4160	0.09	0.05	0.84	3.37
+GO:0060261	positive regulation of transcription initiation from RNA polymerase II promoter	9	0.93	0.91	9.61	3603.97
+GO:0051098	regulation of binding	110	0.50	0.45	6.36	6.77
+GO:0050789	regulation of biological process	3204	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	1289	0.25	0.12	2.65	3.37
+GO:0032502	developmental process	849	0.22	0.11	1.89	3.37
+GO:0016192	vesicle-mediated transport	568	0.52	0.51	6.57	10.99
+GO:0030001	metal ion transport	144	0.54	0.59	7.29	15.42

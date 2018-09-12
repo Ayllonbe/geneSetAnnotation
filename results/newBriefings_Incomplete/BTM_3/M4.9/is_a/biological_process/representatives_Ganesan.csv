@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1463	0.12	0.26	2.47	7.96
+GO:2000026	regulation of multicellular organismal development	401	0.29	0.39	4.73	23.09
+GO:0010468	regulation of gene expression	565	0.35	0.46	5.09	13.73
+GO:0051052	regulation of DNA metabolic process	79	0.47	0.56	7.17	70.58
+GO:0033554	cellular response to stress	231	0.44	0.42	6.05	25.47
+GO:1901700	response to oxygen-containing compound	328	0.39	0.39	5.14	9.28
+GO:0006464	cellular protein modification process	371	0.34	0.49	5.84	147.03
+GO:0044093	positive regulation of molecular function	358	0.43	0.41	5.23	6.77
+GO:0032515	negative regulation of phosphoprotein phosphatase activity	6	0.87	0.85	9.55	1090.45
+GO:0006351	transcription, DNA-templated	215	0.57	0.68	8.45	581.39
+GO:0008104	protein localization	206	0.40	0.40	5.07	7.46
+GO:0051726	regulation of cell cycle	186	0.41	0.45	5.89	12.04
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	25	0.61	0.63	8.36	112.25
+GO:0006259	DNA metabolic process	120	0.45	0.55	7.12	145.26
+GO:0003006	developmental process involved in reproduction	101	0.43	0.34	5.07	14.49
+GO:0055086	nucleobase-containing small molecule metabolic process	86	0.38	0.48	6.63	107.58
+GO:0051260	protein homooligomerization	54	0.89	0.77	9.41	42.03
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0000086	G2/M transition of mitotic cell cycle	20	1.00	0.79	9.63	43.45
+GO:0007517	muscle organ development	19	0.78	0.64	8.75	27.68
+GO:0007052	mitotic spindle organization	18	0.83	0.76	9.28	96.22
+GO:0070192	chromosome organization involved in meiotic cell cycle	16	0.70	0.64	8.57	44.79
+GO:0071479	cellular response to ionizing radiation	15	0.89	0.77	9.45	48.66
+GO:0051310	metaphase plate congression	15	0.84	0.74	9.34	45.44
+GO:0007281	germ cell development	14	0.87	0.68	9.34	71.68
+GO:0034446	substrate adhesion-dependent cell spreading	11	1.00	0.82	9.63	56.23
+GO:0097421	liver regeneration	10	1.00	0.82	9.63	47.22
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:1900006	positive regulation of dendrite development	7	0.87	0.85	9.59	582.43
+GO:0051382	kinetochore assembly	7	1.00	0.82	9.63	123.98
+GO:0097711	ciliary basal body-plasma membrane docking	6	1.00	0.79	9.63	21.39
+GO:0007076	mitotic chromosome condensation	6	0.89	0.82	9.46	40.55
+GO:0045132	meiotic chromosome segregation	6	0.80	0.65	9.09	42.96
+GO:0051290	protein heterotetramerization	4	1.00	0.85	9.63	85.45
+GO:0007141	male meiosis I	4	1.00	0.88	9.63	140.07
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	3	1.00	0.92	9.63	350.56
+GO:0071163	DNA replication preinitiation complex assembly	3	0.87	0.78	9.39	77.23
+GO:0000707	meiotic DNA recombinase assembly	2	0.83	0.79	9.41	133.96
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0099607	lateral attachment of mitotic spindle microtubules to kinetochore	1	1.00	0.79	9.63	28.62
+GO:0099606	microtubule plus-end directed mitotic chromosome migration	1	1.00	0.82	9.63	45.44
+GO:0098535	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	1	1.00	0.85	9.63	68.46
+GO:0007079	mitotic chromosome movement towards spindle pole	1	1.00	0.85	9.63	93.22
+GO:0007144	female meiosis I	1	1.00	0.88	9.63	140.07
+GO:0007147	female meiosis II	1	1.00	0.88	9.63	138.05
+GO:0007099	centriole replication	1	1.00	0.82	9.63	79.09

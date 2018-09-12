@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032713	negative regulation of interleukin-4 production	2	0.93	0.79	9.52	64.97
+GO:0048518	positive regulation of biological process	1069	0.21	0.30	3.05	7.96
+GO:0048519	negative regulation of biological process	835	0.21	0.30	3.07	7.96
+GO:0042981	regulation of apoptotic process	313	0.45	0.55	6.60	16.23
+GO:0009966	regulation of signal transduction	595	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	513	0.39	0.32	4.70	6.14
+GO:0051252	regulation of RNA metabolic process	501	0.37	0.51	6.06	70.58
+GO:0042221	response to chemical	498	0.32	0.29	4.12	6.14
+GO:0016192	vesicle-mediated transport	350	0.52	0.51	6.57	10.99
+GO:0031399	regulation of protein modification process	339	0.41	0.56	6.69	72.96
+GO:2000755	positive regulation of sphingomyelin catabolic process	1	1.00	0.92	9.63	1040.65
+GO:0019221	cytokine-mediated signaling pathway	244	0.60	0.63	7.60	26.50
+GO:0016310	phosphorylation	219	0.53	0.56	6.88	24.41
+GO:0030334	regulation of cell migration	216	0.48	0.56	7.11	36.74
+GO:0007186	G-protein coupled receptor signaling pathway	200	0.55	0.57	7.20	23.17
+GO:0051707	response to other organism	182	0.42	0.46	6.41	24.63
+GO:0051345	positive regulation of hydrolase activity	163	0.57	0.57	7.42	32.99
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0034220	ion transmembrane transport	151	0.45	0.51	6.18	26.33
+GO:0050863	regulation of T cell activation	132	0.52	0.61	7.60	29.19
+GO:0019752	carboxylic acid metabolic process	130	0.32	0.45	5.31	42.50
+GO:0051129	negative regulation of cellular component organization	126	0.42	0.50	5.99	44.00
+GO:0006875	cellular metal ion homeostasis	125	0.59	0.67	8.36	105.84
+GO:0060326	cell chemotaxis	101	0.64	0.61	8.15	30.29
+GO:0042307	positive regulation of protein import into nucleus	13	0.93	0.86	9.59	778.75
+GO:0043270	positive regulation of ion transport	63	0.53	0.59	7.18	46.28
+GO:0042307	positive regulation of protein import into nucleus	13	0.93	0.86	9.59	778.75
+GO:0043270	positive regulation of ion transport	63	0.53	0.59	7.18	46.28
+GO:0007264	small GTPase mediated signal transduction	55	0.74	0.69	8.74	26.43
+GO:0030593	neutrophil chemotaxis	45	1.00	0.90	9.63	130.30
+GO:0070098	chemokine-mediated signaling pathway	44	0.73	0.72	9.00	30.19
+GO:1990778	protein localization to cell periphery	25	0.63	0.60	8.08	29.83
+GO:0072657	protein localization to membrane	43	0.58	0.58	7.59	29.83
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:0042100	B cell proliferation	24	0.87	0.76	9.39	50.60
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	24	1.00	0.93	9.63	628.11
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	24	1.00	0.92	9.63	384.64
+GO:0046034	ATP metabolic process	21	0.65	0.74	9.11	1262.34
+GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0070498	interleukin-1-mediated signaling pathway	15	1.00	0.85	9.63	30.19
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0006954	inflammatory response	12	0.68	0.59	8.12	11.94
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	7	0.93	0.86	9.57	68.47
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	6	0.87	0.78	9.52	52.93
+GO:0030073	insulin secretion	5	0.93	0.86	9.59	236.68
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	5	0.83	0.66	8.94	22.01
+GO:0014050	negative regulation of glutamate secretion	2	0.93	0.86	9.59	415.45

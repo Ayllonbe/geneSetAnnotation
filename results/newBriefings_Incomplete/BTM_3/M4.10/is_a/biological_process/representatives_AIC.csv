@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1419	0.09	0.05	0.84	3.37
+GO:0042769	DNA damage response, detection of DNA damage	12	0.79	0.68	9.14	39.84
+GO:0042592	homeostatic process	203	0.45	0.42	5.70	8.64
+GO:0010767	regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	1	0.93	0.91	9.60	631.98
+GO:0050789	regulation of biological process	1166	0.09	0.17	1.80	4.47
+GO:0019538	protein metabolic process	355	0.31	0.41	4.91	44.77
+GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
+GO:0006139	nucleobase-containing compound metabolic process	314	0.29	0.40	5.40	96.28
+GO:0019538	protein metabolic process	355	0.31	0.41	4.91	44.77
+GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
+GO:0006139	nucleobase-containing compound metabolic process	314	0.29	0.40	5.40	96.28
+GO:0051179	localization	585	0.26	0.13	2.57	3.37
+GO:0032502	developmental process	417	0.22	0.11	1.89	3.37
+GO:0009628	response to abiotic stimulus	109	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	382	0.32	0.29	4.12	6.14
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37

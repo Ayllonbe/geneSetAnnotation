@@ -1,0 +1,140 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	613	0.24	0.37	3.90	23.85
+GO:0007186	G-protein coupled receptor signaling pathway	164	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	416	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	214	0.51	0.55	6.92	23.17
+GO:0060255	regulation of macromolecule metabolic process	551	0.26	0.38	4.09	10.74
+GO:0048523	negative regulation of cellular process	480	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	463	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	401	0.33	0.45	5.35	37.59
+GO:0019538	protein metabolic process	320	0.31	0.41	4.91	44.77
+GO:0010033	response to organic substance	319	0.35	0.37	4.75	9.28
+GO:0048869	cellular developmental process	311	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	292	0.40	0.60	6.84	245.35
+GO:0051128	regulation of cellular component organization	272	0.30	0.40	4.57	12.04
+GO:0051128	regulation of cellular component organization	272	0.30	0.40	4.57	12.04
+GO:0016192	vesicle-mediated transport	253	0.52	0.51	6.57	10.99
+GO:0044267	cellular protein metabolic process	251	0.34	0.46	5.57	80.87
+GO:0050806	positive regulation of synaptic transmission	14	0.67	0.69	8.68	101.55
+GO:0009967	positive regulation of signal transduction	239	0.44	0.54	6.71	140.23
+GO:0050776	regulation of immune response	238	0.38	0.44	5.64	22.45
+GO:0071310	cellular response to organic substance	227	0.44	0.47	5.95	41.66
+GO:0032940	secretion by cell	213	0.48	0.53	6.33	20.46
+GO:0043085	positive regulation of catalytic activity	209	0.48	0.49	6.15	18.32
+GO:0006811	ion transport	177	0.38	0.44	5.19	10.99
+GO:0055085	transmembrane transport	138	0.41	0.46	5.44	10.99
+GO:0002366	leukocyte activation involved in immune response	180	0.61	0.55	7.89	38.36
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	5	1.00	0.90	9.63	964.01
+GO:0031401	positive regulation of protein modification process	170	0.51	0.63	7.86	366.05
+GO:2000145	regulation of cell motility	164	0.47	0.52	6.88	34.54
+GO:0016477	cell migration	163	0.47	0.48	6.31	17.13
+GO:0009968	negative regulation of signal transduction	153	0.44	0.54	6.68	140.65
+GO:0043312	neutrophil degranulation	145	1.00	0.90	9.63	132.80
+GO:0032101	regulation of response to external stimulus	144	0.40	0.45	5.60	11.65
+GO:0010243	response to organonitrogen compound	127	0.45	0.48	6.23	25.43
+GO:0045597	positive regulation of cell differentiation	127	0.45	0.51	6.57	82.53
+GO:0051707	response to other organism	122	0.42	0.46	6.41	24.63
+GO:0055065	metal ion homeostasis	109	0.57	0.64	7.90	34.21
+GO:0030004	cellular monovalent inorganic cation homeostasis	14	0.70	0.72	9.09	105.28
+GO:0032269	negative regulation of cellular protein metabolic process	110	0.47	0.59	7.45	289.39
+GO:0030335	positive regulation of cell migration	109	0.58	0.64	8.22	157.26
+GO:0045087	innate immune response	107	0.68	0.59	8.16	26.47
+GO:0044255	cellular lipid metabolic process	106	0.38	0.44	5.89	38.02
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	103	0.68	0.66	8.81	76.40
+GO:0015031	protein transport	95	0.48	0.59	6.99	54.46
+GO:0002237	response to molecule of bacterial origin	94	0.69	0.59	8.74	31.75
+GO:0045596	negative regulation of cell differentiation	92	0.44	0.51	6.50	82.79
+GO:0019752	carboxylic acid metabolic process	87	0.32	0.45	5.31	42.50
+GO:0098662	inorganic cation transmembrane transport	79	0.58	0.64	7.91	76.35
+GO:0050870	positive regulation of T cell activation	73	0.63	0.69	8.78	216.07
+GO:0034613	cellular protein localization	73	0.45	0.48	6.33	26.83
+GO:0060627	regulation of vesicle-mediated transport	70	0.48	0.53	6.81	26.12
+GO:0048468	cell development	65	0.51	0.45	6.51	28.42
+GO:0015711	organic anion transport	60	0.43	0.54	6.27	28.20
+GO:0045765	regulation of angiogenesis	58	0.70	0.68	8.82	44.94
+GO:0032956	regulation of actin cytoskeleton organization	52	0.56	0.63	7.72	34.12
+GO:0000904	cell morphogenesis involved in differentiation	24	0.65	0.62	8.19	44.36
+GO:0048812	neuron projection morphogenesis	27	0.65	0.68	8.50	63.00
+GO:0042493	response to drug	95	0.47	0.43	5.84	9.28
+GO:0009636	response to toxic substance	48	0.58	0.49	6.94	9.28
+GO:0042110	T cell activation	47	0.59	0.59	7.76	19.85
+GO:0050714	positive regulation of protein secretion	44	0.65	0.70	8.73	381.48
+GO:0001666	response to hypoxia	41	0.81	0.70	9.12	21.16
+GO:0008654	phospholipid biosynthetic process	14	0.61	0.63	8.32	240.37
+GO:0006650	glycerophospholipid metabolic process	37	0.59	0.62	8.12	144.72
+GO:0007268	chemical synaptic transmission	33	0.74	0.72	8.66	23.17
+GO:0046394	carboxylic acid biosynthetic process	33	0.44	0.54	6.80	162.02
+GO:0002009	morphogenesis of an epithelium	30	0.51	0.51	6.34	13.50
+GO:0120036	plasma membrane bounded cell projection organization	29	0.58	0.54	7.33	16.56
+GO:0016042	lipid catabolic process	24	0.51	0.51	6.88	43.15
+GO:0032729	positive regulation of interferon-gamma production	24	0.89	0.77	9.43	65.24
+GO:0042108	positive regulation of cytokine biosynthetic process	23	0.63	0.67	8.76	609.34
+GO:0045216	cell-cell junction organization	23	0.68	0.59	8.15	16.05
+GO:0015698	inorganic anion transport	21	0.64	0.64	7.92	13.47
+GO:1904064	positive regulation of cation transmembrane transport	21	0.60	0.68	8.21	171.07
+GO:0010976	positive regulation of neuron projection development	21	0.68	0.73	9.14	493.19
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	21	0.63	0.67	8.36	49.28
+GO:0006518	peptide metabolic process	21	0.56	0.57	7.65	56.97
+GO:0046718	viral entry into host cell	20	0.77	0.73	8.94	28.37
+GO:0044242	cellular lipid catabolic process	19	0.53	0.56	7.51	115.08
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	19	1.00	0.79	9.63	42.20
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	19	0.62	0.56	7.74	16.14
+GO:0046034	ATP metabolic process	18	0.65	0.74	9.11	1262.34
+GO:0071260	cellular response to mechanical stimulus	17	1.00	0.79	9.63	56.12
+GO:0042130	negative regulation of T cell proliferation	16	0.78	0.78	9.42	581.93
+GO:0003333	amino acid transmembrane transport	16	0.58	0.68	8.30	195.85
+GO:0031623	receptor internalization	15	0.72	0.71	9.20	64.85
+GO:0032092	positive regulation of protein binding	13	0.71	0.64	8.53	32.71
+GO:0002711	positive regulation of T cell mediated immunity	13	0.74	0.75	9.27	266.28
+GO:0032720	negative regulation of tumor necrosis factor production	13	0.89	0.80	9.46	85.93
+GO:0045124	regulation of bone resorption	12	0.89	0.77	9.38	23.48
+GO:0019229	regulation of vasoconstriction	12	0.74	0.72	9.31	55.83
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	12	0.80	0.80	9.39	355.88
+GO:1900024	regulation of substrate adhesion-dependent cell spreading	10	0.89	0.80	9.49	77.84
+GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
+GO:1903078	positive regulation of protein localization to plasma membrane	8	0.84	0.80	9.43	218.50
+GO:0031532	actin cytoskeleton reorganization	8	1.00	0.82	9.63	32.01
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway	8	0.74	0.77	9.09	99.04
+GO:0006694	steroid biosynthetic process	8	0.67	0.63	8.59	127.07
+GO:1990138	neuron projection extension	7	0.81	0.66	9.22	50.60
+GO:0032967	positive regulation of collagen biosynthetic process	6	1.00	0.82	9.63	105.22
+GO:0008203	cholesterol metabolic process	5	0.80	0.72	9.22	82.65
+GO:1903955	positive regulation of protein targeting to mitochondrion	4	0.93	0.88	9.60	662.57
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	4	0.93	0.86	9.57	68.47
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	4	0.83	0.66	8.94	22.01
+GO:0009414	response to water deprivation	4	0.84	0.71	9.43	59.74
+GO:0071380	cellular response to prostaglandin E stimulus	4	1.00	0.88	9.63	704.36
+GO:0060716	labyrinthine layer blood vessel development	3	1.00	0.79	9.63	85.13
+GO:0048843	negative regulation of axon extension involved in axon guidance	3	1.00	0.95	9.63	2931.02
+GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
+GO:0009435	NAD biosynthetic process	3	0.80	0.83	9.50	2002.03
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
+GO:0072080	nephron tubule development	3	0.68	0.69	8.69	55.57
+GO:0051894	positive regulation of focal adhesion assembly	3	1.00	0.88	9.63	280.50
+GO:0060982	coronary artery morphogenesis	2	1.00	0.82	9.63	32.54
+GO:0031077	post-embryonic camera-type eye development	2	1.00	0.85	9.63	36.78
+GO:0045630	positive regulation of T-helper 2 cell differentiation	2	1.00	0.96	9.63	2538.19
+GO:0008595	anterior/posterior axis specification, embryo	2	0.89	0.74	9.38	40.32
+GO:0090331	negative regulation of platelet aggregation	2	0.93	0.88	9.60	548.67
+GO:1903204	negative regulation of oxidative stress-induced neuron death	2	0.87	0.83	9.58	363.98
+GO:0007628	adult walking behavior	2	1.00	0.75	9.63	34.94
+GO:1903146	regulation of autophagy of mitochondrion	2	0.74	0.72	9.28	66.79
+GO:0006569	tryptophan catabolic process	2	0.84	0.82	9.54	1971.90
+GO:0061548	ganglion development	2	0.79	0.64	8.84	30.32
+GO:0002588	positive regulation of antigen processing and presentation of peptide antigen via MHC class II	2	1.00	0.85	9.63	143.85
+GO:0003222	ventricular trabecula myocardium morphogenesis	2	0.89	0.80	9.43	28.31
+GO:0060301	positive regulation of cytokine activity	1	1.00	0.88	9.63	129.15
+GO:0050712	negative regulation of interleukin-1 alpha secretion	1	1.00	0.93	9.63	999.30
+GO:0042491	inner ear auditory receptor cell differentiation	1	1.00	0.85	9.63	103.54
+GO:1903296	positive regulation of glutamate secretion, neurotransmission	1	0.93	0.88	9.60	1142.90
+GO:0019408	dolichol biosynthetic process	1	1.00	0.88	9.63	352.42
+GO:1905516	positive regulation of fertilization	1	0.87	0.72	9.43	78.83
+GO:0042447	hormone catabolic process	1	0.66	0.62	8.05	28.89
+GO:0044861	protein transport into plasma membrane raft	1	1.00	0.93	9.63	279.98
+GO:0021828	gonadotrophin-releasing hormone neuronal migration to the hypothalamus	1	1.00	0.93	9.63	88.97
+GO:1902033	regulation of hematopoietic stem cell proliferation	1	0.89	0.77	9.46	57.23
+GO:0048596	embryonic camera-type eye morphogenesis	1	1.00	0.85	9.63	49.04
+GO:0002019	regulation of renal output by angiotensin	1	0.87	0.83	9.47	27.46
+GO:1904835	dorsal root ganglion morphogenesis	1	1.00	0.79	9.63	28.43
+GO:0090191	negative regulation of branching involved in ureteric bud morphogenesis	1	0.89	0.82	9.58	298.27
+GO:1900016	negative regulation of cytokine production involved in inflammatory response	1	1.00	0.88	9.63	227.00

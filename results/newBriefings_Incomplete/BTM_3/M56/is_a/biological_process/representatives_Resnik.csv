@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1514	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1444	0.09	0.17	1.80	4.47
+GO:0019222	regulation of metabolic process	811	0.21	0.30	3.39	7.96
+GO:0009605	response to external stimulus	301	0.37	0.31	4.62	6.14
+GO:0006950	response to stress	453	0.39	0.32	4.70	6.14
+GO:0009966	regulation of signal transduction	549	0.33	0.45	5.35	37.59
+GO:0010033	response to organic substance	420	0.35	0.37	4.75	9.28
+GO:0046677	response to antibiotic	67	0.56	0.48	6.78	9.28
+GO:0070887	cellular response to chemical stimulus	339	0.40	0.40	5.31	25.21
+GO:0010033	response to organic substance	420	0.35	0.37	4.75	9.28
+GO:0010035	response to inorganic substance	80	0.53	0.47	6.60	9.28
+GO:0070887	cellular response to chemical stimulus	339	0.40	0.40	5.31	25.21
+GO:0010033	response to organic substance	420	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	131	0.47	0.43	5.84	9.28
+GO:0070887	cellular response to chemical stimulus	339	0.40	0.40	5.31	25.21
+GO:0032101	regulation of response to external stimulus	210	0.40	0.45	5.60	11.65
+GO:0050776	regulation of immune response	321	0.38	0.44	5.64	22.45
+GO:2000026	regulation of multicellular organismal development	373	0.29	0.39	4.73	23.09
+GO:0032270	positive regulation of cellular protein metabolic process	277	0.47	0.59	7.41	288.49
+GO:0032269	negative regulation of cellular protein metabolic process	168	0.47	0.59	7.45	289.39
+GO:0042127	regulation of cell proliferation	344	0.45	0.48	6.03	12.04
+GO:0016192	vesicle-mediated transport	326	0.52	0.51	6.57	10.99
+GO:0009891	positive regulation of biosynthetic process	321	0.40	0.49	5.65	38.82
+GO:0051049	regulation of transport	321	0.31	0.40	4.67	10.45
+GO:0010628	positive regulation of gene expression	297	0.47	0.56	6.67	58.80
+GO:0043066	negative regulation of apoptotic process	200	0.56	0.63	7.79	81.07
+GO:0010942	positive regulation of cell death	148	0.54	0.56	7.33	41.78
+GO:0030154	cell differentiation	293	0.39	0.39	5.18	16.68
+GO:0035556	intracellular signal transduction	290	0.51	0.55	6.92	23.17
+GO:0006952	defense response	226	0.56	0.48	6.67	9.54
+GO:0051336	regulation of hydrolase activity	225	0.46	0.48	6.24	9.25
+GO:1902533	positive regulation of intracellular signal transduction	222	0.55	0.63	7.95	189.48
+GO:0051898	negative regulation of protein kinase B signaling	8	1.00	0.88	9.63	238.79
+GO:0019221	cytokine-mediated signaling pathway	224	0.60	0.63	7.60	26.50
+GO:0009968	negative regulation of signal transduction	208	0.44	0.54	6.68	140.65
+GO:0007186	G-protein coupled receptor signaling pathway	192	0.55	0.57	7.20	23.17
+GO:0001818	negative regulation of cytokine production	79	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	138	0.51	0.54	6.97	44.26
+GO:0051726	regulation of cell cycle	168	0.41	0.45	5.89	12.04
+GO:0022414	reproductive process	146	0.35	0.17	3.17	3.37
+GO:0007167	enzyme linked receptor protein signaling pathway	138	0.53	0.59	7.04	26.50
+GO:0015031	protein transport	130	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	122	0.59	0.62	7.95	48.62
+GO:0000122	negative regulation of transcription by RNA polymerase II	111	0.61	0.74	8.79	1836.95
+GO:0060326	cell chemotaxis	99	0.64	0.61	8.15	30.29
+GO:0051090	regulation of DNA binding transcription factor activity	89	0.72	0.77	9.22	255.34
+GO:0006366	transcription by RNA polymerase II	85	0.60	0.72	8.61	583.88
+GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
+GO:0070647	protein modification by small protein conjugation or removal	73	0.61	0.66	8.44	151.15
+GO:0097190	apoptotic signaling pathway	66	0.70	0.64	8.53	23.17
+GO:0033044	regulation of chromosome organization	50	0.44	0.54	6.49	19.19
+GO:0050804	modulation of chemical synaptic transmission	47	0.52	0.58	7.24	27.32
+GO:0007610	behavior	38	0.48	0.24	4.72	3.37
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	28	0.76	0.78	9.31	348.36
+GO:0070588	calcium ion transmembrane transport	28	0.71	0.75	9.08	116.68
+GO:0001701	in utero embryonic development	25	1.00	0.85	9.63	22.50
+GO:2000278	regulation of DNA biosynthetic process	24	0.69	0.70	9.04	150.74
+GO:0051781	positive regulation of cell division	24	0.68	0.63	8.44	42.29
+GO:0006470	protein dephosphorylation	22	0.76	0.73	9.22	177.17
+GO:0031663	lipopolysaccharide-mediated signaling pathway	19	1.00	0.82	9.63	26.50
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0043149	stress fiber assembly	4	1.00	0.88	9.63	75.14
+GO:0060765	regulation of androgen receptor signaling pathway	4	0.84	0.77	9.43	43.64
+GO:0006306	DNA methylation	3	0.74	0.77	9.25	389.47
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0060355	positive regulation of cell adhesion molecule production	3	1.00	0.79	9.63	40.68
+GO:0030213	hyaluronan biosynthetic process	1	1.00	0.88	9.63	506.70

@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044281	small molecule metabolic process	221	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	896	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	953	0.15	0.20	2.26	6.41
+GO:0050896	response to stimulus	748	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	556	0.38	0.19	3.93	3.37
+GO:0065009	regulation of molecular function	538	0.33	0.29	4.10	4.47
+GO:0042221	response to chemical	454	0.32	0.29	4.12	6.14
+GO:0002682	regulation of immune system process	437	0.32	0.36	4.60	7.96
+GO:0006139	nucleobase-containing compound metabolic process	404	0.29	0.40	5.40	96.28
+GO:2000026	regulation of multicellular organismal development	366	0.29	0.39	4.73	23.09
+GO:0030154	cell differentiation	288	0.39	0.39	5.18	16.68
+GO:0042981	regulation of apoptotic process	286	0.45	0.55	6.60	16.23
+GO:0071702	organic substance transport	239	0.33	0.41	4.62	10.99
+GO:0045893	positive regulation of transcription, DNA-templated	231	0.52	0.67	8.14	1208.12
+GO:0051336	regulation of hydrolase activity	221	0.46	0.48	6.24	9.25
+GO:0019221	cytokine-mediated signaling pathway	219	0.60	0.63	7.60	26.50
+GO:1902533	positive regulation of intracellular signal transduction	216	0.55	0.63	7.95	189.48
+GO:0033554	cellular response to stress	209	0.44	0.42	6.05	25.47
+GO:0006351	transcription, DNA-templated	192	0.57	0.68	8.45	581.39
+GO:0006468	protein phosphorylation	149	0.57	0.64	8.18	177.76
+GO:0001819	positive regulation of cytokine production	135	0.51	0.54	6.97	44.26
+GO:0006259	DNA metabolic process	111	0.45	0.55	7.12	145.26
+GO:0000122	negative regulation of transcription by RNA polymerase II	110	0.61	0.74	8.79	1836.95
+GO:1901566	organonitrogen compound biosynthetic process	107	0.37	0.43	5.45	46.74
+GO:0003006	developmental process involved in reproduction	93	0.43	0.34	5.07	14.49
+GO:0006366	transcription by RNA polymerase II	79	0.60	0.72	8.61	583.88
+GO:0043900	regulation of multi-organism process	74	0.40	0.40	5.32	7.96
+GO:0061024	membrane organization	59	0.47	0.43	6.06	14.95
+GO:0051224	negative regulation of protein transport	36	0.60	0.65	8.07	87.71
+GO:0051701	interaction with host	35	0.38	0.39	5.05	8.50
+GO:0006417	regulation of translation	34	0.52	0.61	8.02	212.82
+GO:0030522	intracellular receptor signaling pathway	34	0.65	0.62	7.99	23.17
+GO:0006367	transcription initiation from RNA polymerase II promoter	33	1.00	0.90	9.63	477.15
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0001701	in utero embryonic development	24	1.00	0.85	9.63	22.50
+GO:0051289	protein homotetramerization	13	1.00	0.85	9.63	85.45
+GO:0010596	negative regulation of endothelial cell migration	9	0.84	0.82	9.53	299.56
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	7	0.79	0.64	8.82	10.56
+GO:1900225	regulation of NLRP3 inflammasome complex assembly	5	0.89	0.77	9.38	31.01
+GO:0033689	negative regulation of osteoblast proliferation	3	1.00	0.82	9.63	63.18
+GO:0016554	cytidine to uridine editing	2	1.00	0.90	9.63	133.94
+GO:0010529	negative regulation of transposition	2	0.87	0.72	9.27	41.76
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:1902044	regulation of Fas signaling pathway	1	0.89	0.77	9.41	41.85

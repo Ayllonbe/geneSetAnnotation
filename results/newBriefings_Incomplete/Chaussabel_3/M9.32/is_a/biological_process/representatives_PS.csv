@@ -1,0 +1,87 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	631	0.28	0.39	4.44	30.44
+GO:0010468	regulation of gene expression	422	0.35	0.46	5.09	13.73
+GO:0009059	macromolecule biosynthetic process	313	0.43	0.46	5.85	36.03
+GO:0018130	heterocycle biosynthetic process	308	0.36	0.43	5.43	52.56
+GO:0031324	negative regulation of cellular metabolic process	239	0.34	0.46	5.46	80.35
+GO:0044248	cellular catabolic process	201	0.31	0.36	4.57	26.23
+GO:0033554	cellular response to stress	197	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	175	0.51	0.55	6.92	23.17
+GO:0051130	positive regulation of cellular component organization	129	0.42	0.50	5.95	43.84
+GO:0009967	positive regulation of signal transduction	127	0.44	0.54	6.71	140.23
+GO:0016310	phosphorylation	125	0.53	0.56	6.88	24.41
+GO:0042327	positive regulation of phosphorylation	92	0.56	0.66	8.02	180.93
+GO:0001933	negative regulation of protein phosphorylation	44	0.61	0.70	8.76	664.69
+GO:0071310	cellular response to organic substance	118	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	104	0.44	0.54	6.68	140.65
+GO:0060548	negative regulation of cell death	103	0.54	0.56	7.27	41.94
+GO:0051345	positive regulation of hydrolase activity	82	0.57	0.57	7.42	32.99
+GO:0080134	regulation of response to stress	155	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	65	0.40	0.45	5.60	11.65
+GO:0051129	negative regulation of cellular component organization	64	0.42	0.50	5.99	44.00
+GO:0045087	innate immune response	51	0.68	0.59	8.16	26.47
+GO:0007186	G-protein coupled receptor signaling pathway	51	0.55	0.57	7.20	23.17
+GO:1901137	carbohydrate derivative biosynthetic process	49	0.44	0.47	6.01	36.96
+GO:0045596	negative regulation of cell differentiation	49	0.44	0.51	6.50	82.79
+GO:0072657	protein localization to membrane	44	0.58	0.58	7.59	29.83
+GO:0006897	endocytosis	42	0.63	0.61	8.09	26.36
+GO:0030001	metal ion transport	39	0.54	0.59	7.29	15.42
+GO:0051260	protein homooligomerization	36	0.89	0.77	9.41	42.03
+GO:0097190	apoptotic signaling pathway	34	0.70	0.64	8.53	23.17
+GO:1903320	regulation of protein modification by small protein conjugation or removal	31	0.59	0.67	8.45	75.95
+GO:0045861	negative regulation of proteolysis	30	0.61	0.68	8.71	337.18
+GO:0001666	response to hypoxia	30	0.81	0.70	9.12	21.16
+GO:0030036	actin cytoskeleton organization	29	0.63	0.61	8.05	29.61
+GO:0034765	regulation of ion transmembrane transport	29	0.46	0.55	6.68	33.04
+GO:0050900	leukocyte migration	27	0.60	0.59	8.02	26.94
+GO:0016055	Wnt signaling pathway	23	0.59	0.65	7.65	28.58
+GO:0046942	carboxylic acid transport	23	0.45	0.58	6.78	47.71
+GO:0009617	response to bacterium	22	0.75	0.67	8.94	27.27
+GO:0060326	cell chemotaxis	17	0.64	0.61	8.15	30.29
+GO:0043393	regulation of protein binding	16	0.59	0.55	7.49	9.33
+GO:0007204	positive regulation of cytosolic calcium ion concentration	15	0.68	0.77	9.10	290.30
+GO:0019722	calcium-mediated signaling	14	0.72	0.71	8.71	27.81
+GO:0060828	regulation of canonical Wnt signaling pathway	13	0.70	0.70	8.83	44.05
+GO:0008016	regulation of heart contraction	12	0.57	0.61	7.59	16.15
+GO:0031295	T cell costimulation	9	0.93	0.86	9.59	354.90
+GO:0019217	regulation of fatty acid metabolic process	7	0.62	0.63	8.38	59.64
+GO:0007595	lactation	7	1.00	0.82	9.63	25.96
+GO:0006749	glutathione metabolic process	6	0.84	0.74	9.36	147.29
+GO:0070098	chemokine-mediated signaling pathway	6	0.73	0.72	9.00	30.19
+GO:0006730	one-carbon metabolic process	6	0.89	0.64	9.29	26.87
+GO:0002244	hematopoietic progenitor cell differentiation	6	0.81	0.66	8.94	21.07
+GO:0032507	maintenance of protein location in cell	5	0.68	0.63	8.41	43.86
+GO:0001570	vasculogenesis	5	0.89	0.70	9.29	21.07
+GO:0045907	positive regulation of vasoconstriction	5	0.89	0.82	9.58	103.52
+GO:0008543	fibroblast growth factor receptor signaling pathway	5	0.71	0.73	8.57	31.00
+GO:0006760	folic acid-containing compound metabolic process	5	0.73	0.69	9.33	232.08
+GO:0048754	branching morphogenesis of an epithelial tube	5	0.74	0.69	8.88	51.71
+GO:0032570	response to progesterone	5	0.93	0.79	9.55	105.99
+GO:0006641	triglyceride metabolic process	4	0.84	0.77	9.32	85.59
+GO:0050706	regulation of interleukin-1 beta secretion	4	0.89	0.86	9.53	155.13
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0001937	negative regulation of endothelial cell proliferation	3	0.89	0.80	9.46	87.36
+GO:0071360	cellular response to exogenous dsRNA	3	1.00	0.85	9.63	172.53
+GO:1900027	regulation of ruffle assembly	3	0.89	0.82	9.45	51.76
+GO:0098901	regulation of cardiac muscle cell action potential	3	0.65	0.62	8.53	21.90
+GO:1903071	positive regulation of ER-associated ubiquitin-dependent protein catabolic process	2	1.00	0.95	9.63	6504.67
+GO:2001028	positive regulation of endothelial cell chemotaxis	2	0.89	0.86	9.56	483.04
+GO:0035987	endodermal cell differentiation	2	1.00	0.75	9.63	21.07
+GO:0042074	cell migration involved in gastrulation	2	0.83	0.74	9.09	22.57
+GO:1904816	positive regulation of protein localization to chromosome, telomeric region	2	0.93	0.82	9.53	74.11
+GO:1904886	beta-catenin destruction complex disassembly	2	1.00	0.79	9.63	38.05
+GO:0001886	endothelial cell morphogenesis	2	1.00	0.85	9.63	48.55
+GO:0042310	vasoconstriction	2	0.75	0.75	9.10	39.68
+GO:0035024	negative regulation of Rho protein signal transduction	2	1.00	0.92	9.63	340.00
+GO:0071526	semaphorin-plexin signaling pathway	2	0.81	0.73	9.09	26.50
+GO:0048012	hepatocyte growth factor receptor signaling pathway	2	1.00	0.88	9.63	31.00
+GO:0060355	positive regulation of cell adhesion molecule production	2	1.00	0.79	9.63	40.68
+GO:0030301	cholesterol transport	2	0.78	0.74	9.00	37.85
+GO:2000286	receptor internalization involved in canonical Wnt signaling pathway	1	1.00	0.88	9.63	66.79
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37
+GO:2000382	positive regulation of mesoderm development	1	0.74	0.66	8.74	40.44
+GO:0086098	angiotensin-activated signaling pathway involved in heart process	1	0.93	0.82	9.52	56.26
+GO:0032836	glomerular basement membrane development	1	0.89	0.74	9.41	30.93
+GO:0070836	caveola assembly	1	1.00	0.85	9.63	78.00
+GO:0051001	negative regulation of nitric-oxide synthase activity	1	1.00	0.85	9.63	123.18
+GO:0003057	regulation of the force of heart contraction by chemical signal	1	0.74	0.75	8.99	28.25

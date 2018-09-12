@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051919	positive regulation of fibrinolysis	1	1.00	0.90	9.63	333.17
+GO:0042592	homeostatic process	142	0.45	0.42	5.70	8.64
+GO:0050789	regulation of biological process	760	0.09	0.17	1.80	4.47
+GO:0051919	positive regulation of fibrinolysis	1	1.00	0.90	9.63	333.17
+GO:0042592	homeostatic process	142	0.45	0.42	5.70	8.64
+GO:0050789	regulation of biological process	760	0.09	0.17	1.80	4.47
+GO:0019538	protein metabolic process	194	0.31	0.41	4.91	44.77
+GO:0043043	peptide biosynthetic process	3	0.65	0.65	8.66	211.48
+GO:0019538	protein metabolic process	194	0.31	0.41	4.91	44.77
+GO:0043043	peptide biosynthetic process	3	0.65	0.65	8.66	211.48
+GO:0009605	response to external stimulus	169	0.37	0.31	4.62	6.14
+GO:0032501	multicellular organismal process	101	0.33	0.16	3.12	3.37
+GO:0034220	ion transmembrane transport	76	0.45	0.51	6.18	26.33
+GO:0060326	cell chemotaxis	69	0.64	0.61	8.15	30.29
+GO:0034622	cellular protein-containing complex assembly	53	0.48	0.53	6.52	40.42
+GO:0034613	cellular protein localization	49	0.45	0.48	6.33	26.83
+GO:0007416	synapse assembly	11	0.84	0.67	9.12	35.85
+GO:0007409	axonogenesis	11	0.69	0.72	8.67	64.61
+GO:0007517	muscle organ development	9	0.78	0.64	8.75	27.68
+GO:0022008	neurogenesis	9	0.87	0.68	9.29	21.07
+GO:0048013	ephrin receptor signaling pathway	8	1.00	0.88	9.63	31.00
+GO:0048747	muscle fiber development	4	0.89	0.77	9.41	33.94
+GO:0030239	myofibril assembly	3	0.84	0.77	9.45	124.77
+GO:0030049	muscle filament sliding	3	1.00	0.82	9.63	20.96
+GO:0021952	central nervous system projection neuron axonogenesis	3	0.73	0.78	8.94	67.09
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	2	1.00	0.82	9.63	60.18
+GO:0060997	dendritic spine morphogenesis	1	1.00	0.88	9.63	122.19
+GO:0002093	auditory receptor cell morphogenesis	1	1.00	0.85	9.63	63.92
+GO:0035235	ionotropic glutamate receptor signaling pathway	1	0.87	0.78	9.31	27.20

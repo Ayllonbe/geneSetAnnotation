@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2100	0.00	0.00	0.00	0.00
+GO:0048522	positive regulation of cellular process	917	0.24	0.37	3.90	23.85
+GO:0031057	negative regulation of histone modification	7	0.66	0.73	9.14	591.66
+GO:0048523	negative regulation of cellular process	745	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	666	0.28	0.26	3.74	11.45
+GO:0050727	regulation of inflammatory response	113	0.53	0.59	7.40	31.59
+GO:0009966	regulation of signal transduction	587	0.33	0.45	5.35	37.59
+GO:0050727	regulation of inflammatory response	113	0.53	0.59	7.40	31.59
+GO:0009966	regulation of signal transduction	587	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	589	0.33	0.29	4.10	4.47
+GO:0051239	regulation of multicellular organismal process	582	0.23	0.32	3.68	7.96
+GO:0032502	developmental process	561	0.22	0.11	1.89	3.37
+GO:0006355	regulation of transcription, DNA-templated	460	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	85	0.47	0.56	7.17	70.58
+GO:0006355	regulation of transcription, DNA-templated	460	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	85	0.47	0.56	7.17	70.58
+GO:0006464	cellular protein modification process	379	0.34	0.49	5.84	147.03
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0006351	transcription, DNA-templated	220	0.57	0.68	8.45	581.39
+GO:0006259	DNA metabolic process	128	0.45	0.55	7.12	145.26
+GO:0051726	regulation of cell cycle	199	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	198	0.40	0.32	4.60	7.39
+GO:0019752	carboxylic acid metabolic process	127	0.32	0.45	5.31	42.50
+GO:0033365	protein localization to organelle	56	0.50	0.54	7.01	29.83
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:0090521	glomerular visceral epithelial cell migration	1	1.00	0.85	9.63	24.97

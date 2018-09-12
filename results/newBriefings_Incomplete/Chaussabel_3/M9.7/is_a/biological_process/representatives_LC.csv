@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4163	0.00	0.00	0.00	0.00
+GO:0065008	regulation of biological quality	719	0.28	0.26	3.48	4.47
+GO:0032092	positive regulation of protein binding	35	0.71	0.64	8.53	32.71
+GO:0045429	positive regulation of nitric oxide biosynthetic process	10	1.00	0.88	9.63	658.64
+GO:0050789	regulation of biological process	2817	0.09	0.17	1.80	4.47
+GO:1902600	proton transmembrane transport	40	0.76	0.75	9.12	95.87
+GO:0006810	transport	1148	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	300	0.45	0.48	6.33	26.83
+GO:0042221	response to chemical	626	0.32	0.29	4.12	6.14
+GO:0071456	cellular response to hypoxia	37	1.00	0.82	9.63	103.25
+GO:0006950	response to stress	731	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	752	0.22	0.11	1.89	3.37
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	52	1.00	0.79	9.63	42.20

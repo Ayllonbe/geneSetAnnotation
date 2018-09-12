@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	831	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	667	0.12	0.26	2.47	7.96
+GO:0051240	positive regulation of multicellular organismal process	162	0.35	0.42	4.98	23.60
+GO:0048869	cellular developmental process	194	0.32	0.29	4.16	13.85
+GO:0016070	RNA metabolic process	96	0.39	0.52	6.45	112.25
+GO:0007268	chemical synaptic transmission	29	0.74	0.72	8.66	23.17
+GO:0050832	defense response to fungus	7	0.87	0.76	9.39	69.94
+GO:0007197	adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway	3	0.93	0.86	9.55	81.69
+GO:0097400	interleukin-17-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0045686	negative regulation of glial cell differentiation	1	0.83	0.81	9.46	404.60

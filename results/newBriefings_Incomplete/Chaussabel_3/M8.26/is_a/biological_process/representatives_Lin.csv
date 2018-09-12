@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031326	regulation of cellular biosynthetic process	1367	0.29	0.44	4.86	40.35
+GO:0051246	regulation of protein metabolic process	884	0.34	0.46	5.46	41.09
+GO:0051128	regulation of cellular component organization	810	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	768	0.57	0.68	8.45	581.39
+GO:0051641	cellular localization	743	0.37	0.31	4.44	5.67
+GO:0006996	organelle organization	710	0.39	0.39	5.17	14.95
+GO:0042221	response to chemical	698	0.32	0.29	4.12	6.14
+GO:0006796	phosphate-containing compound metabolic process	660	0.36	0.43	5.28	20.85
+GO:0002376	immune system process	660	0.38	0.19	3.93	3.37
+GO:0043933	protein-containing complex subunit organization	643	0.43	0.41	5.44	14.95
+GO:0035556	intracellular signal transduction	537	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	489	0.34	0.42	5.25	23.33
+GO:0048585	negative regulation of response to stimulus	480	0.36	0.43	5.03	23.55
+GO:0042127	regulation of cell proliferation	432	0.45	0.48	6.03	12.04
+GO:0051336	regulation of hydrolase activity	397	0.46	0.48	6.24	9.25
+GO:0022402	cell cycle process	351	0.40	0.32	4.60	7.39
+GO:0006811	ion transport	313	0.38	0.44	5.19	10.99
+GO:1901565	organonitrogen compound catabolic process	297	0.39	0.45	5.67	46.28
+GO:0006974	cellular response to DNA damage stimulus	272	0.57	0.53	7.47	29.00
+GO:0010564	regulation of cell cycle process	267	0.42	0.50	6.22	14.24
+GO:0043207	response to external biotic stimulus	267	0.41	0.40	5.91	16.64
+GO:0032446	protein modification by small protein conjugation	248	0.66	0.70	8.79	151.85
+GO:0006897	endocytosis	144	0.63	0.61	8.09	26.36
+GO:0043687	post-translational protein modification	129	0.65	0.67	8.51	151.15
+GO:1903829	positive regulation of cellular protein localization	119	0.60	0.62	7.80	40.87
+GO:0016055	Wnt signaling pathway	102	0.59	0.65	7.65	28.58
+GO:0001818	negative regulation of cytokine production	89	0.51	0.55	7.03	44.36
+GO:0030098	lymphocyte differentiation	72	0.61	0.60	8.24	42.31
+GO:2001020	regulation of response to DNA damage stimulus	69	0.59	0.62	8.02	29.43
+GO:0051054	positive regulation of DNA metabolic process	67	0.59	0.65	8.41	301.51
+GO:1901215	negative regulation of neuron death	62	0.76	0.70	9.05	58.54
+GO:0001701	in utero embryonic development	62	1.00	0.85	9.63	22.50
+GO:0016241	regulation of macroautophagy	58	0.67	0.69	8.61	45.30
+GO:2000241	regulation of reproductive process	45	0.42	0.41	5.52	7.96
+GO:0043112	receptor metabolic process	37	0.65	0.62	8.28	33.01
+GO:0007219	Notch signaling pathway	33	0.78	0.71	8.87	26.50
+GO:0006672	ceramide metabolic process	25	0.71	0.71	9.18	101.21
+GO:0048013	ephrin receptor signaling pathway	23	1.00	0.88	9.63	31.00
+GO:0008361	regulation of cell size	22	0.78	0.68	9.00	28.02
+GO:0030218	erythrocyte differentiation	21	0.84	0.71	9.12	22.68
+GO:2000378	negative regulation of reactive oxygen species metabolic process	19	0.78	0.71	9.25	113.13
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	19	1.00	0.88	9.63	115.14
+GO:0008344	adult locomotory behavior	19	0.84	0.62	9.16	24.58
+GO:0000715	nucleotide-excision repair, DNA damage recognition	15	0.93	0.76	9.47	21.24
+GO:0070498	interleukin-1-mediated signaling pathway	14	1.00	0.85	9.63	30.19
+GO:0051353	positive regulation of oxidoreductase activity	14	0.69	0.63	8.56	68.71
+GO:0001756	somitogenesis	14	1.00	0.79	9.63	43.80
+GO:0055007	cardiac muscle cell differentiation	12	0.79	0.72	9.07	45.92
+GO:0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia	11	0.89	0.89	9.56	532.70
+GO:0046597	negative regulation of viral entry into host cell	8	0.93	0.84	9.55	84.95
+GO:0019430	removal of superoxide radicals	7	1.00	0.79	9.63	35.17
+GO:0071493	cellular response to UV-B	6	1.00	0.88	9.63	82.44
+GO:0090650	cellular response to oxygen-glucose deprivation	4	1.00	0.82	9.63	135.20
+GO:0046323	glucose import	3	0.89	0.86	9.46	38.21
+GO:0006407	rRNA export from nucleus	2	1.00	0.92	9.63	123.85
+GO:0006771	riboflavin metabolic process	2	0.89	0.74	9.50	127.52
+GO:0010265	SCF complex assembly	2	1.00	0.79	9.63	40.42
+GO:0015680	intracellular copper ion transport	2	1.00	0.90	9.63	54.58
+GO:0007341	penetration of zona pellucida	1	1.00	0.70	9.63	44.01
+GO:0090156	cellular sphingolipid homeostasis	1	1.00	0.82	9.63	50.57

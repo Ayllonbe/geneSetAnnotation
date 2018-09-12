@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	432	0.12	0.26	2.47	7.96
+GO:0009894	regulation of catabolic process	38	0.42	0.46	5.75	10.74
+GO:0031323	regulation of cellular metabolic process	276	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	196	0.24	0.37	3.90	23.93
+GO:0006810	transport	181	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	85	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	123	0.39	0.32	4.70	6.14
+GO:0032774	RNA biosynthetic process	136	0.53	0.62	8.04	473.34
+GO:0006396	RNA processing	43	0.49	0.60	7.48	115.08
+GO:0044267	cellular protein metabolic process	149	0.34	0.46	5.57	80.87
+GO:0044248	cellular catabolic process	100	0.31	0.36	4.57	26.23
+GO:0045595	regulation of cell differentiation	70	0.34	0.42	5.25	23.33
+GO:2000026	regulation of multicellular organismal development	73	0.29	0.39	4.73	23.09
+GO:0035556	intracellular signal transduction	85	0.51	0.55	6.92	23.17
+GO:0007166	cell surface receptor signaling pathway	84	0.43	0.51	5.91	23.17
+GO:0030154	cell differentiation	57	0.39	0.39	5.18	16.68
+GO:0048468	cell development	26	0.51	0.45	6.51	28.42
+GO:0042127	regulation of cell proliferation	60	0.45	0.48	6.03	12.04
+GO:0080134	regulation of response to stress	57	0.35	0.42	5.03	11.65
+GO:0042981	regulation of apoptotic process	56	0.45	0.55	6.60	16.23
+GO:0006325	chromatin organization	29	0.49	0.44	6.23	14.95
+GO:0007032	endosome organization	7	0.84	0.71	9.22	20.92
+GO:0051781	positive regulation of cell division	6	0.68	0.63	8.44	42.29
+GO:0006476	protein deacetylation	6	0.75	0.75	9.20	169.17
+GO:2000378	negative regulation of reactive oxygen species metabolic process	4	0.78	0.71	9.25	113.13
+GO:0045747	positive regulation of Notch signaling pathway	4	0.93	0.82	9.56	187.64
+GO:0001881	receptor recycling	3	0.84	0.74	9.22	34.80
+GO:0043388	positive regulation of DNA binding	3	0.71	0.64	8.58	32.53
+GO:0010793	regulation of mRNA export from nucleus	2	0.93	0.86	9.58	209.93
+GO:0008306	associative learning	2	0.84	0.77	9.22	22.45
+GO:0022011	myelination in peripheral nervous system	1	1.00	0.79	9.63	21.18

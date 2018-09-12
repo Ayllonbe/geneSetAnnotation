@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2959	0.00	0.00	0.00	0.00
+GO:0060154	cellular process regulating host cell cycle in response to virus	1	1.00	0.85	9.63	44.50
+GO:0065007	biological regulation	2141	0.08	0.04	0.98	3.37
+GO:0051701	interaction with host	51	0.38	0.39	5.05	8.50
+GO:0008104	protein localization	411	0.40	0.40	5.07	7.46
+GO:0006810	transport	813	0.28	0.34	3.95	7.46
+GO:0071260	cellular response to mechanical stimulus	22	1.00	0.79	9.63	56.12
+GO:0042221	response to chemical	464	0.32	0.29	4.12	6.14
+GO:0071260	cellular response to mechanical stimulus	22	1.00	0.79	9.63	56.12
+GO:0042221	response to chemical	464	0.32	0.29	4.12	6.14

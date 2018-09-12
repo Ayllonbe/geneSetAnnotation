@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	144	0.16	0.21	2.71	13.80
+GO:0044237	cellular metabolic process	144	0.16	0.21	2.71	13.80
+GO:0006355	regulation of transcription, DNA-templated	87	0.40	0.60	6.84	245.35
+GO:0006950	response to stress	85	0.39	0.32	4.70	6.14
+GO:0007166	cell surface receptor signaling pathway	72	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	70	0.38	0.19	3.93	3.37
+GO:0006810	transport	69	0.28	0.34	3.95	7.46
+GO:0010033	response to organic substance	62	0.35	0.37	4.75	9.28
+GO:0051049	regulation of transport	45	0.31	0.40	4.67	10.45
+GO:0030334	regulation of cell migration	18	0.48	0.56	7.11	36.74
+GO:0009605	response to external stimulus	52	0.37	0.31	4.62	6.14
+GO:0006464	cellular protein modification process	52	0.34	0.49	5.84	147.03
+GO:0001932	regulation of protein phosphorylation	47	0.50	0.62	7.64	109.03
+GO:0031398	positive regulation of protein ubiquitination	2	0.75	0.79	9.37	528.45
+GO:0035556	intracellular signal transduction	48	0.51	0.55	6.92	23.17
+GO:0042127	regulation of cell proliferation	47	0.45	0.48	6.03	12.04
+GO:0016192	vesicle-mediated transport	27	0.52	0.51	6.57	10.99
+GO:0006886	intracellular protein transport	25	0.55	0.65	8.12	90.55
+GO:0016192	vesicle-mediated transport	27	0.52	0.51	6.57	10.99
+GO:0006886	intracellular protein transport	25	0.55	0.65	8.12	90.55
+GO:0042981	regulation of apoptotic process	38	0.45	0.55	6.60	16.23
+GO:0009968	negative regulation of signal transduction	30	0.44	0.54	6.68	140.65
+GO:1902533	positive regulation of intracellular signal transduction	28	0.55	0.63	7.95	189.48
+GO:0006468	protein phosphorylation	28	0.57	0.64	8.18	177.76
+GO:0002757	immune response-activating signal transduction	23	0.61	0.66	8.47	138.88
+GO:0050729	positive regulation of inflammatory response	3	0.66	0.68	8.59	125.85
+GO:0019221	cytokine-mediated signaling pathway	22	0.60	0.63	7.60	26.50
+GO:0006695	cholesterol biosynthetic process	1	0.87	0.78	9.51	430.36
+GO:0044255	cellular lipid metabolic process	19	0.38	0.44	5.89	38.02
+GO:0003006	developmental process involved in reproduction	19	0.43	0.34	5.07	14.49
+GO:0040008	regulation of growth	16	0.48	0.44	6.04	7.96
+GO:0055065	metal ion homeostasis	11	0.57	0.64	7.90	34.21
+GO:2001183	negative regulation of interleukin-12 secretion	1	1.00	0.92	9.63	753.97
+GO:0001819	positive regulation of cytokine production	9	0.51	0.54	6.97	44.26
+GO:2001183	negative regulation of interleukin-12 secretion	1	1.00	0.92	9.63	753.97
+GO:0001819	positive regulation of cytokine production	9	0.51	0.54	6.97	44.26
+GO:0007050	cell cycle arrest	6	0.81	0.73	9.29	55.62
+GO:0048812	neuron projection morphogenesis	5	0.65	0.68	8.50	63.00
+GO:0051701	interaction with host	5	0.38	0.39	5.05	8.50
+GO:0032507	maintenance of protein location in cell	4	0.68	0.63	8.41	43.86
+GO:0003014	renal system process	4	0.64	0.52	7.39	9.78
+GO:0045540	regulation of cholesterol biosynthetic process	3	0.89	0.84	9.49	116.99
+GO:0045599	negative regulation of fat cell differentiation	2	0.93	0.79	9.54	114.62
+GO:0007218	neuropeptide signaling pathway	2	0.93	0.79	9.49	26.98
+GO:0014902	myotube differentiation	2	0.87	0.76	9.38	22.45
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus	2	1.00	0.82	9.63	81.65
+GO:0045657	positive regulation of monocyte differentiation	2	1.00	0.90	9.63	840.38
+GO:0070207	protein homotrimerization	2	1.00	0.85	9.63	85.45
+GO:0051604	protein maturation	2	0.59	0.59	7.61	47.86
+GO:0071449	cellular response to lipid hydroperoxide	1	1.00	0.82	9.63	183.56
+GO:0007616	long-term memory	1	1.00	0.85	9.63	22.23
+GO:0042987	amyloid precursor protein catabolic process	1	0.93	0.79	9.52	48.55
+GO:0042178	xenobiotic catabolic process	1	0.58	0.54	7.37	50.95
+GO:0019064	fusion of virus membrane with host plasma membrane	1	0.93	0.82	9.54	56.73
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0035397	helper T cell enhancement of adaptive immune response	1	0.89	0.82	9.49	141.16
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	1	0.93	0.82	9.52	52.45

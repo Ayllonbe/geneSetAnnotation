@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	573	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	390	0.09	0.17	1.80	4.47
+GO:0002644	negative regulation of tolerance induction	1	0.70	0.68	9.07	122.40
+GO:0050794	regulation of cellular process	372	0.12	0.26	2.47	7.96
+GO:0009972	cytidine deamination	1	1.00	0.93	9.63	2918.46
+GO:0019752	carboxylic acid metabolic process	35	0.32	0.45	5.31	42.50
+GO:0006139	nucleobase-containing compound metabolic process	193	0.29	0.40	5.40	96.28
+GO:0051569	regulation of histone H3-K4 methylation	1	0.83	0.83	9.52	104.18
+GO:0031326	regulation of cellular biosynthetic process	171	0.29	0.44	4.86	40.35
+GO:0032502	developmental process	96	0.22	0.11	1.89	3.37
+GO:0022607	cellular component assembly	95	0.39	0.39	5.06	14.95
+GO:0042981	regulation of apoptotic process	52	0.45	0.55	6.60	16.23

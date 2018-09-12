@@ -1,0 +1,89 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3232	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	3053	0.16	0.21	2.71	13.80
+GO:0000122	negative regulation of transcription by RNA polymerase II	296	0.61	0.74	8.79	1836.95
+GO:0051246	regulation of protein metabolic process	951	0.34	0.46	5.46	41.09
+GO:0019219	regulation of nucleobase-containing compound metabolic process	1436	0.33	0.45	5.50	54.14
+GO:1901564	organonitrogen compound metabolic process	1779	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	1670	0.24	0.37	3.90	23.85
+GO:0090304	nucleic acid metabolic process	1379	0.35	0.46	5.97	111.15
+GO:0015949	nucleobase-containing small molecule interconversion	12	0.77	0.71	9.27	109.53
+GO:0009966	regulation of signal transduction	986	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	815	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	719	0.38	0.19	3.93	3.37
+GO:0043933	protein-containing complex subunit organization	702	0.43	0.41	5.44	14.95
+GO:0048869	cellular developmental process	688	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	656	0.35	0.37	4.75	9.28
+GO:0071732	cellular response to nitric oxide	5	1.00	0.82	9.63	346.50
+GO:0031399	regulation of protein modification process	619	0.41	0.56	6.69	72.96
+GO:0034644	cellular response to UV	47	0.80	0.75	9.22	66.19
+GO:0033554	cellular response to stress	593	0.44	0.42	6.05	25.47
+GO:0042981	regulation of apoptotic process	491	0.45	0.55	6.60	16.23
+GO:0032501	multicellular organismal process	369	0.33	0.16	3.12	3.37
+GO:0060341	regulation of cellular localization	318	0.40	0.45	5.64	10.45
+GO:0033365	protein localization to organelle	227	0.50	0.54	7.01	29.83
+GO:0120035	regulation of plasma membrane bounded cell projection organization	188	0.51	0.58	7.05	17.28
+GO:0006213	pyrimidine nucleoside metabolic process	22	0.61	0.65	8.74	243.37
+GO:0006753	nucleoside phosphate metabolic process	165	0.42	0.53	7.26	168.50
+GO:0003006	developmental process involved in reproduction	160	0.43	0.34	5.07	14.49
+GO:0000226	microtubule cytoskeleton organization	149	0.58	0.58	7.66	30.31
+GO:0051098	regulation of binding	128	0.50	0.45	6.36	6.77
+GO:0044772	mitotic cell cycle phase transition	117	0.84	0.67	9.04	28.43
+GO:0007265	Ras protein signal transduction	95	0.76	0.73	8.94	27.53
+GO:0001701	in utero embryonic development	67	1.00	0.85	9.63	22.50
+GO:0000086	G2/M transition of mitotic cell cycle	63	1.00	0.79	9.63	43.45
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	58	1.00	0.79	9.63	42.20
+GO:0045665	negative regulation of neuron differentiation	57	0.62	0.68	8.73	338.15
+GO:0000082	G1/S transition of mitotic cell cycle	53	1.00	0.79	9.63	42.75
+GO:0000281	mitotic cytokinesis	36	0.93	0.76	9.47	28.62
+GO:0097711	ciliary basal body-plasma membrane docking	35	1.00	0.79	9.63	21.39
+GO:0002244	hematopoietic progenitor cell differentiation	35	0.81	0.66	8.94	21.07
+GO:0071260	cellular response to mechanical stimulus	33	1.00	0.79	9.63	56.12
+GO:0032508	DNA duplex unwinding	30	0.80	0.75	9.22	23.73
+GO:0051289	protein homotetramerization	29	1.00	0.85	9.63	85.45
+GO:1990138	neuron projection extension	24	0.81	0.66	9.22	50.60
+GO:0031100	animal organ regeneration	24	0.89	0.70	9.29	28.09
+GO:0051653	spindle localization	23	0.79	0.64	9.22	22.02
+GO:0007224	smoothened signaling pathway	20	0.78	0.71	8.87	26.50
+GO:0007080	mitotic metaphase plate congression	19	1.00	0.85	9.63	61.63
+GO:0001947	heart looping	19	1.00	0.85	9.63	47.98
+GO:0000819	sister chromatid segregation	18	0.89	0.74	9.43	40.65
+GO:0090307	mitotic spindle assembly	16	1.00	0.88	9.63	186.05
+GO:0043029	T cell homeostasis	15	1.00	0.85	9.63	22.00
+GO:0051294	establishment of spindle orientation	15	0.87	0.78	9.52	88.54
+GO:0048538	thymus development	13	1.00	0.79	9.63	35.89
+GO:0008643	carbohydrate transport	12	0.55	0.57	6.95	14.73
+GO:0007131	reciprocal meiotic recombination	11	1.00	0.90	9.63	175.07
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	10	0.87	0.78	9.52	52.93
+GO:0007076	mitotic chromosome condensation	9	0.89	0.82	9.46	40.55
+GO:0048477	oogenesis	9	1.00	0.79	9.63	84.68
+GO:0021915	neural tube development	9	1.00	0.79	9.63	33.01
+GO:0007099	centriole replication	8	1.00	0.82	9.63	79.09
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	7	0.89	0.70	9.29	27.92
+GO:0007127	meiosis I	7	0.87	0.78	9.41	72.31
+GO:0000921	septin ring assembly	6	1.00	0.85	9.63	107.16
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:0007130	synaptonemal complex assembly	6	1.00	0.82	9.63	88.08
+GO:0000712	resolution of meiotic recombination intermediates	5	1.00	0.79	9.63	26.25
+GO:0000915	actomyosin contractile ring assembly	4	0.93	0.84	9.57	135.17
+GO:0007100	mitotic centrosome separation	4	1.00	0.75	9.63	26.82
+GO:0045143	homologous chromosome segregation	4	1.00	0.79	9.63	44.56
+GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
+GO:0090306	spindle assembly involved in meiosis	4	0.79	0.77	9.31	158.60
+GO:0007064	mitotic sister chromatid cohesion	4	0.87	0.76	9.34	49.16
+GO:0051661	maintenance of centrosome location	4	1.00	0.82	9.63	46.02
+GO:0031915	positive regulation of synaptic plasticity	4	0.87	0.81	9.45	41.66
+GO:0016321	female meiosis chromosome segregation	3	0.93	0.76	9.52	64.48
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	3	1.00	0.85	9.63	112.16
+GO:0071163	DNA replication preinitiation complex assembly	2	0.87	0.78	9.39	77.23
+GO:0098535	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	2	1.00	0.85	9.63	68.46
+GO:0000022	mitotic spindle elongation	2	1.00	0.75	9.63	36.99
+GO:0051754	meiotic sister chromatid cohesion, centromeric	2	1.00	0.85	9.63	117.00
+GO:0090521	glomerular visceral epithelial cell migration	2	1.00	0.85	9.63	24.97
+GO:0007057	spindle assembly involved in female meiosis I	2	1.00	0.92	9.63	179.90
+GO:0010994	free ubiquitin chain polymerization	2	1.00	0.85	9.63	46.13
+GO:0007144	female meiosis I	2	1.00	0.88	9.63	140.07
+GO:0030263	apoptotic chromosome condensation	2	1.00	0.88	9.63	25.05
+GO:0036089	cleavage furrow formation	1	0.93	0.79	9.52	34.65
+GO:0019088	immortalization of host cell by virus	1	1.00	0.88	9.63	54.80
+GO:0045870	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	1.00	0.90	9.63	106.56

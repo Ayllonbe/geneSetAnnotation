@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	789	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	740	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	632	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	590	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	510	0.33	0.45	5.35	37.59
+GO:0048584	positive regulation of response to stimulus	464	0.35	0.42	4.95	23.46
+GO:0019538	protein metabolic process	436	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	387	0.40	0.60	6.84	245.35
+GO:0051128	regulation of cellular component organization	357	0.30	0.40	4.57	12.04
+GO:0016192	vesicle-mediated transport	303	0.52	0.51	6.57	10.99
+GO:0010628	positive regulation of gene expression	273	0.47	0.56	6.67	58.80
+GO:0051247	positive regulation of protein metabolic process	272	0.44	0.54	6.72	129.04
+GO:0045055	regulated exocytosis	209	0.69	0.69	8.57	38.47
+GO:0001817	regulation of cytokine production	168	0.40	0.45	5.78	11.79
+GO:0045766	positive regulation of angiogenesis	45	0.81	0.76	9.30	134.49
+GO:0051050	positive regulation of transport	188	0.42	0.50	5.84	25.90
+GO:0006351	transcription, DNA-templated	180	0.57	0.68	8.45	581.39
+GO:0051248	negative regulation of protein metabolic process	165	0.45	0.55	6.75	129.53
+GO:0051707	response to other organism	157	0.42	0.46	6.41	24.63
+GO:0050900	leukocyte migration	141	0.60	0.59	8.02	26.94
+GO:0045087	innate immune response	140	0.68	0.59	8.16	26.47
+GO:0015031	protein transport	120	0.48	0.59	6.99	54.46
+GO:0050708	regulation of protein secretion	93	0.54	0.62	7.86	96.15
+GO:2001234	negative regulation of apoptotic signaling pathway	45	0.69	0.72	9.15	292.03
+GO:0006631	fatty acid metabolic process	44	0.54	0.62	7.85	91.02
+GO:0006956	complement activation	25	0.84	0.77	9.47	169.64
+GO:0030449	regulation of complement activation	23	0.69	0.72	9.30	245.77
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0002686	negative regulation of leukocyte migration	14	0.67	0.71	8.99	239.84
+GO:0001774	microglial cell activation	13	0.93	0.79	9.51	31.20
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0010884	positive regulation of lipid storage	5	0.89	0.77	9.43	46.20
+GO:0002826	negative regulation of T-helper 1 type immune response	4	0.89	0.82	9.50	172.20
+GO:0010866	regulation of triglyceride biosynthetic process	4	0.89	0.80	9.47	120.43
+GO:0006883	cellular sodium ion homeostasis	4	1.00	0.90	9.63	285.76
+GO:0043691	reverse cholesterol transport	2	1.00	0.88	9.63	39.64
+GO:0001798	positive regulation of type IIa hypersensitivity	2	0.93	0.91	9.61	1378.03
+GO:0051788	response to misfolded protein	1	0.89	0.74	9.34	23.96

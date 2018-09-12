@@ -1,0 +1,89 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	686	0.31	0.41	4.91	44.77
+GO:0006464	cellular protein modification process	547	0.34	0.49	5.84	147.03
+GO:0006357	regulation of transcription by RNA polymerase II	418	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	393	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	392	0.32	0.29	4.12	6.14
+GO:0045184	establishment of protein localization	290	0.46	0.48	6.14	17.87
+GO:0034613	cellular protein localization	178	0.45	0.48	6.33	26.83
+GO:0060341	regulation of cellular localization	168	0.40	0.45	5.64	10.45
+GO:0051049	regulation of transport	306	0.31	0.40	4.67	10.45
+GO:0046907	intracellular transport	330	0.46	0.48	6.38	29.65
+GO:0044093	positive regulation of molecular function	310	0.43	0.41	5.23	6.77
+GO:0035556	intracellular signal transduction	307	0.51	0.55	6.92	23.17
+GO:0065003	protein-containing complex assembly	284	0.45	0.48	6.06	36.47
+GO:0051254	positive regulation of RNA metabolic process	278	0.49	0.60	7.48	301.45
+GO:0051240	positive regulation of multicellular organismal process	261	0.35	0.42	4.98	23.60
+GO:0042981	regulation of apoptotic process	259	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	246	0.50	0.62	7.64	109.03
+GO:0033043	regulation of organelle organization	244	0.36	0.47	5.49	15.89
+GO:0009605	response to external stimulus	227	0.37	0.31	4.62	6.14
+GO:0042127	regulation of cell proliferation	227	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	223	0.55	0.57	7.34	47.86
+GO:0045892	negative regulation of transcription, DNA-templated	204	0.56	0.69	8.52	1581.26
+GO:0009968	negative regulation of signal transduction	200	0.44	0.54	6.68	140.65
+GO:0006629	lipid metabolic process	184	0.37	0.38	5.19	18.42
+GO:1902533	positive regulation of intracellular signal transduction	182	0.55	0.63	7.95	189.48
+GO:0051704	multi-organism process	180	0.29	0.15	3.12	3.37
+GO:0006811	ion transport	167	0.38	0.44	5.19	10.99
+GO:0050794	regulation of cellular process	1631	0.12	0.26	2.47	7.96
+GO:0044087	regulation of cellular component biogenesis	158	0.41	0.40	5.33	7.96
+GO:0009894	regulation of catabolic process	151	0.42	0.46	5.75	10.74
+GO:0006396	RNA processing	148	0.49	0.60	7.48	115.08
+GO:0009653	anatomical structure morphogenesis	126	0.36	0.31	4.09	6.46
+GO:0022414	reproductive process	126	0.35	0.17	3.17	3.37
+GO:0006366	transcription by RNA polymerase II	123	0.60	0.72	8.61	583.88
+GO:0016567	protein ubiquitination	120	0.69	0.74	9.00	153.79
+GO:0007167	enzyme linked receptor protein signaling pathway	109	0.53	0.59	7.04	26.50
+GO:0007186	G-protein coupled receptor signaling pathway	105	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	100	0.47	0.48	6.31	17.13
+GO:0030335	positive regulation of cell migration	97	0.58	0.64	8.22	157.26
+GO:0045087	innate immune response	95	0.68	0.59	8.16	26.47
+GO:0045596	negative regulation of cell differentiation	94	0.44	0.51	6.50	82.79
+GO:0006897	endocytosis	83	0.63	0.61	8.09	26.36
+GO:0090066	regulation of anatomical structure size	72	0.53	0.46	6.45	8.64
+GO:0010469	regulation of signaling receptor activity	71	0.59	0.62	7.95	48.62
+GO:0016050	vesicle organization	71	0.58	0.54	7.25	18.35
+GO:0048513	animal organ development	70	0.50	0.45	5.88	11.73
+GO:0001558	regulation of cell growth	70	0.58	0.58	7.66	26.25
+GO:0045930	negative regulation of mitotic cell cycle	62	0.58	0.61	7.84	61.24
+GO:0006518	peptide metabolic process	61	0.56	0.57	7.65	56.97
+GO:0055065	metal ion homeostasis	80	0.57	0.64	7.90	34.21
+GO:0072507	divalent inorganic cation homeostasis	60	0.61	0.66	8.18	34.21
+GO:0034976	response to endoplasmic reticulum stress	56	0.68	0.59	8.28	29.00
+GO:0016055	Wnt signaling pathway	54	0.59	0.65	7.65	28.58
+GO:0032984	protein-containing complex disassembly	47	0.61	0.55	7.66	35.41
+GO:0050792	regulation of viral process	45	0.60	0.59	7.74	14.20
+GO:0050804	modulation of chemical synaptic transmission	45	0.52	0.58	7.24	27.32
+GO:0051054	positive regulation of DNA metabolic process	38	0.59	0.65	8.41	301.51
+GO:0030855	epithelial cell differentiation	37	0.55	0.52	6.96	21.07
+GO:0060828	regulation of canonical Wnt signaling pathway	35	0.70	0.70	8.83	44.05
+GO:0001701	in utero embryonic development	30	1.00	0.85	9.63	22.50
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	28	0.63	0.64	8.31	41.85
+GO:0050729	positive regulation of inflammatory response	27	0.66	0.68	8.59	125.85
+GO:0030182	neuron differentiation	25	0.58	0.54	7.21	21.07
+GO:0007268	chemical synaptic transmission	25	0.74	0.72	8.66	23.17
+GO:0043484	regulation of RNA splicing	22	0.77	0.73	9.34	89.96
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	20	1.00	0.92	9.63	384.64
+GO:0048469	cell maturation	19	0.70	0.55	8.24	25.22
+GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	18	0.89	0.80	9.43	45.07
+GO:0031122	cytoplasmic microtubule organization	16	0.81	0.73	9.26	50.45
+GO:0022008	neurogenesis	12	0.87	0.68	9.29	21.07
+GO:0030521	androgen receptor signaling pathway	11	0.89	0.82	9.45	54.01
+GO:0048863	stem cell differentiation	9	0.70	0.60	8.24	21.07
+GO:0001942	hair follicle development	9	1.00	0.75	9.63	22.36
+GO:0042743	hydrogen peroxide metabolic process	8	0.83	0.70	9.31	65.97
+GO:0050999	regulation of nitric-oxide synthase activity	8	0.89	0.77	9.41	24.72
+GO:0007416	synapse assembly	7	0.84	0.67	9.12	35.85
+GO:0018149	peptide cross-linking	7	0.60	0.65	8.12	151.15
+GO:0060395	SMAD protein signal transduction	5	1.00	0.79	9.63	23.17
+GO:2000678	negative regulation of transcription regulatory region DNA binding	5	0.87	0.76	9.34	47.57
+GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	5	1.00	0.82	9.63	33.25
+GO:0032930	positive regulation of superoxide anion generation	4	1.00	0.88	9.63	144.58
+GO:0042481	regulation of odontogenesis	4	0.75	0.70	9.31	46.39
+GO:0060718	chorionic trophoblast cell differentiation	3	1.00	0.75	9.63	21.07
+GO:0023019	signal transduction involved in regulation of gene expression	2	1.00	0.79	9.63	23.17
+GO:0033077	T cell differentiation in thymus	2	0.87	0.78	9.42	66.99
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	1	1.00	0.85	9.63	26.14
+GO:0045218	zonula adherens maintenance	1	1.00	0.85	9.63	105.01
+GO:0008595	anterior/posterior axis specification, embryo	1	0.89	0.74	9.38	40.32

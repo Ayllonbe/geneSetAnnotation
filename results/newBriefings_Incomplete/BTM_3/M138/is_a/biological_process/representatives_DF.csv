@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	884	0.24	0.37	3.90	23.85
+GO:0009966	regulation of signal transduction	570	0.33	0.45	5.35	37.59
+GO:0045948	positive regulation of translational initiation	5	0.76	0.78	9.39	1253.37
+GO:0019219	regulation of nucleobase-containing compound metabolic process	529	0.33	0.45	5.50	54.14
+GO:0045948	positive regulation of translational initiation	5	0.76	0.78	9.39	1253.37
+GO:0019219	regulation of nucleobase-containing compound metabolic process	529	0.33	0.45	5.50	54.14
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:0035556	intracellular signal transduction	306	0.51	0.55	6.92	23.17
+GO:0090304	nucleic acid metabolic process	360	0.35	0.46	5.97	111.15
+GO:0016192	vesicle-mediated transport	342	0.52	0.51	6.57	10.99
+GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	322	0.39	0.39	5.14	9.28
+GO:0071310	cellular response to organic substance	310	0.44	0.47	5.95	41.66
+GO:0006468	protein phosphorylation	159	0.57	0.64	8.18	177.76
+GO:0070647	protein modification by small protein conjugation or removal	82	0.61	0.66	8.44	151.15
+GO:0043312	neutrophil degranulation	182	1.00	0.90	9.63	132.80
+GO:0030335	positive regulation of cell migration	144	0.58	0.64	8.22	157.26
+GO:0071417	cellular response to organonitrogen compound	98	0.53	0.56	7.37	128.53
+GO:0006886	intracellular protein transport	75	0.55	0.65	8.12	90.55
+GO:0006511	ubiquitin-dependent protein catabolic process	46	0.74	0.74	9.19	156.45
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	24	1.00	0.93	9.63	628.11
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0007281	germ cell development	13	0.87	0.68	9.34	71.68
+GO:0071549	cellular response to dexamethasone stimulus	8	1.00	0.90	9.63	704.27
+GO:0030517	negative regulation of axon extension	8	0.89	0.88	9.58	1259.61
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0001662	behavioral fear response	6	1.00	0.79	9.63	37.89
+GO:0044539	long-chain fatty acid import	4	1.00	0.93	9.63	75.03
+GO:0007616	long-term memory	4	1.00	0.85	9.63	22.23
+GO:0048268	clathrin coat assembly	2	0.84	0.74	9.31	44.52
+GO:0048633	positive regulation of skeletal muscle tissue growth	2	1.00	0.90	9.63	367.15
+GO:0045900	negative regulation of translational elongation	1	0.83	0.81	9.52	1334.68
+GO:0014732	skeletal muscle atrophy	1	1.00	0.85	9.63	61.04

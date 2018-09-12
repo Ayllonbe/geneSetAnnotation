@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051171	regulation of nitrogen compound metabolic process	784	0.25	0.38	4.03	10.74
+GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
+GO:0080090	regulation of primary metabolic process	792	0.24	0.37	3.95	10.74
+GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0050896	response to stimulus	786	0.25	0.12	2.65	3.37
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0050896	response to stimulus	786	0.25	0.12	2.65	3.37
+GO:0051179	localization	706	0.26	0.13	2.57	3.37
+GO:0032879	regulation of localization	506	0.27	0.33	4.05	7.96
+GO:2000026	regulation of multicellular organismal development	385	0.29	0.39	4.73	23.09
+GO:0007166	cell surface receptor signaling pathway	568	0.43	0.51	5.91	23.17
+GO:0032224	positive regulation of synaptic transmission, cholinergic	1	0.93	0.84	9.56	136.12
+GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	562	0.33	0.29	4.10	4.47
+GO:0019538	protein metabolic process	485	0.31	0.41	4.91	44.77
+GO:0010033	response to organic substance	432	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	347	0.40	0.40	5.31	25.21
+GO:0042127	regulation of cell proliferation	352	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	302	0.39	0.39	5.18	16.68
+GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
+GO:0001558	regulation of cell growth	72	0.58	0.58	7.66	26.25
+GO:0045930	negative regulation of mitotic cell cycle	53	0.58	0.61	7.84	61.24
+GO:1903901	negative regulation of viral life cycle	20	0.76	0.73	9.04	63.59
+GO:0007517	muscle organ development	18	0.78	0.64	8.75	27.68
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0050810	regulation of steroid biosynthetic process	16	0.61	0.65	8.27	49.64
+GO:0045217	cell-cell junction maintenance	4	0.87	0.72	9.31	51.61

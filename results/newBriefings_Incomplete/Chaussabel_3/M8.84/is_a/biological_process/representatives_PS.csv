@@ -1,0 +1,8 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	195	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	529	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	333	0.22	0.36	4.01	22.77
+GO:0006351	transcription, DNA-templated	141	0.57	0.68	8.45	581.39
+GO:0006406	mRNA export from nucleus	16	0.89	0.84	9.52	121.36
+GO:2000010	positive regulation of protein localization to cell surface	4	1.00	0.85	9.63	73.71
+GO:2001222	regulation of neuron migration	2	0.79	0.74	9.51	102.29

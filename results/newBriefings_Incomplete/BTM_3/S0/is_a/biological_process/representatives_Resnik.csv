@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	341	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	617	0.12	0.26	2.47	7.96
+GO:2000026	regulation of multicellular organismal development	151	0.29	0.39	4.73	23.09
+GO:0048522	positive regulation of cellular process	364	0.24	0.37	3.90	23.85
+GO:0007186	G-protein coupled receptor signaling pathway	112	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	259	0.43	0.51	5.91	23.17
+GO:0006810	transport	313	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	284	0.38	0.19	3.93	3.37
+GO:0009966	regulation of signal transduction	227	0.33	0.45	5.35	37.59
+GO:0032270	positive regulation of cellular protein metabolic process	116	0.47	0.59	7.41	288.49
+GO:0010628	positive regulation of gene expression	95	0.47	0.56	6.67	58.80
+GO:0042127	regulation of cell proliferation	142	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	136	0.51	0.55	6.92	23.17
+GO:0010605	negative regulation of macromolecule metabolic process	129	0.37	0.48	5.54	39.19
+GO:0042592	homeostatic process	121	0.45	0.42	5.70	8.64
+GO:0042981	regulation of apoptotic process	109	0.45	0.55	6.60	16.23
+GO:0016477	cell migration	94	0.47	0.48	6.31	17.13
+GO:0001817	regulation of cytokine production	77	0.40	0.45	5.78	11.79
+GO:0030500	regulation of bone mineralization	7	0.83	0.74	9.41	42.16
+GO:0001817	regulation of cytokine production	77	0.40	0.45	5.78	11.79
+GO:0030500	regulation of bone mineralization	7	0.83	0.74	9.41	42.16
+GO:0048856	anatomical structure development	82	0.33	0.29	3.70	6.46
+GO:0065003	protein-containing complex assembly	78	0.45	0.48	6.06	36.47
+GO:0098657	import into cell	63	0.53	0.52	6.56	10.99
+GO:0032496	response to lipopolysaccharide	53	0.89	0.74	9.45	64.41
+GO:0051051	negative regulation of transport	45	0.42	0.50	5.86	25.98
+GO:0097190	apoptotic signaling pathway	29	0.70	0.64	8.53	23.17
+GO:0046854	phosphatidylinositol phosphorylation	13	1.00	0.88	9.63	218.74
+GO:0042089	cytokine biosynthetic process	3	0.63	0.64	8.18	87.71
+GO:0009235	cobalamin metabolic process	2	0.84	0.71	9.46	140.17
+GO:0001766	membrane raft polarization	2	0.93	0.79	9.54	30.90
+GO:0045070	positive regulation of viral genome replication	1	0.89	0.82	9.47	85.31

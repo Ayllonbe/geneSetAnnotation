@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	1977	0.21	0.30	3.05	7.96
+GO:0010468	regulation of gene expression	1592	0.35	0.46	5.09	13.73
+GO:0009966	regulation of signal transduction	1031	0.33	0.45	5.35	37.59
+GO:0046907	intracellular transport	612	0.46	0.48	6.38	29.65
+GO:0002252	immune effector process	412	0.52	0.39	5.95	6.31
+GO:0006468	protein phosphorylation	345	0.57	0.64	8.18	177.76
+GO:0046488	phosphatidylinositol metabolic process	65	0.68	0.69	8.80	147.20
+GO:0010595	positive regulation of endothelial cell migration	40	0.83	0.81	9.49	298.63
+GO:0008543	fibroblast growth factor receptor signaling pathway	24	0.71	0.73	8.57	31.00
+GO:0002063	chondrocyte development	9	0.89	0.70	9.47	32.15
+GO:0061723	glycophagy	1	1.00	0.90	9.63	739.60

@@ -1,0 +1,3 @@
+"Category"	"Term"	"Count"	"X."	"PValue"	"Genes"	"List.Total"	"Pop.Hits"	"Pop.Total"	"Fold.Enrichment"	"Bonferroni"	"Benjamini"	"FDR"
+"GOTERM_BP_DIRECT"	"GO:0000122~negative regulation of transcription from RNA polymerase II promoter"	4	20	0.0289625041301758	"4799, 54880, 60468, 4094"	17	720	16792	5.48758169934641	0.801399649809651	0.801399649809651	25.1045509825478
+"GOTERM_BP_DIRECT"	"GO:0006366~transcription from RNA polymerase II promoter"	3	15	0.0843088948712588	"4799, 60468, 4094"	17	513	16792	5.77640178878569	0.992126011886357	0.911264504770394	57.9496605036992

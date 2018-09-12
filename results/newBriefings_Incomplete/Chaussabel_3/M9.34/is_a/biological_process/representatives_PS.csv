@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1196	0.00	0.00	0.00	0.00
+GO:0045087	innate immune response	49	0.68	0.59	8.16	26.47
+GO:0009987	cellular process	1065	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	790	0.12	0.26	2.47	7.96
+GO:0002230	positive regulation of defense response to virus by host	5	1.00	0.88	9.63	73.08
+GO:0051239	regulation of multicellular organismal process	201	0.23	0.32	3.68	7.96
+GO:0050794	regulation of cellular process	790	0.12	0.26	2.47	7.96
+GO:0002230	positive regulation of defense response to virus by host	5	1.00	0.88	9.63	73.08
+GO:0048519	negative regulation of biological process	409	0.21	0.30	3.07	7.96
+GO:0006810	transport	366	0.28	0.34	3.95	7.46
+GO:0009617	response to bacterium	20	0.75	0.67	8.94	27.27
+GO:0006906	vesicle fusion	15	0.68	0.66	8.56	63.10
+GO:0051262	protein tetramerization	13	0.89	0.77	9.41	42.03
+GO:0051291	protein heterooligomerization	9	0.89	0.77	9.41	42.03
+GO:0002062	chondrocyte differentiation	4	0.89	0.70	9.45	21.07
+GO:0048333	mesodermal cell differentiation	3	0.83	0.66	8.94	21.07
+GO:0031581	hemidesmosome assembly	2	1.00	0.82	9.63	36.80
+GO:0097186	amelogenesis	1	1.00	0.82	9.63	26.74
+GO:0048563	post-embryonic animal organ morphogenesis	1	0.72	0.61	8.35	28.88

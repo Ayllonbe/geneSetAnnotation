@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	366	0.22	0.36	4.01	22.77
+GO:0042130	negative regulation of T cell proliferation	5	0.78	0.78	9.42	581.93
+GO:0048518	positive regulation of biological process	331	0.21	0.30	3.05	7.96
+GO:0009966	regulation of signal transduction	157	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	156	0.57	0.68	8.45	581.39
+GO:0002702	positive regulation of production of molecular mediator of immune response	7	0.64	0.65	8.30	57.84
+GO:0051239	regulation of multicellular organismal process	153	0.23	0.32	3.68	7.96
+GO:0035556	intracellular signal transduction	110	0.51	0.55	6.92	23.17
+GO:0009890	negative regulation of biosynthetic process	104	0.41	0.49	5.73	39.03
+GO:0045893	positive regulation of transcription, DNA-templated	103	0.52	0.67	8.14	1208.12
+GO:0032270	positive regulation of cellular protein metabolic process	89	0.47	0.59	7.41	288.49
+GO:0010951	negative regulation of endopeptidase activity	16	0.77	0.80	9.45	500.32
+GO:0044093	positive regulation of molecular function	100	0.43	0.41	5.23	6.77
+GO:0045595	regulation of cell differentiation	94	0.34	0.42	5.25	23.33
+GO:0042981	regulation of apoptotic process	89	0.45	0.55	6.60	16.23
+GO:0006508	proteolysis	88	0.55	0.57	7.34	47.86
+GO:0042127	regulation of cell proliferation	87	0.45	0.48	6.03	12.04
+GO:0070647	protein modification by small protein conjugation or removal	68	0.61	0.66	8.44	151.15
+GO:0009968	negative regulation of signal transduction	67	0.44	0.54	6.68	140.65
+GO:0051050	positive regulation of transport	67	0.42	0.50	5.84	25.90
+GO:0032940	secretion by cell	61	0.48	0.53	6.33	20.46
+GO:0006974	cellular response to DNA damage stimulus	54	0.57	0.53	7.47	29.00
+GO:0006468	protein phosphorylation	48	0.57	0.64	8.18	177.76
+GO:0002237	response to molecule of bacterial origin	15	0.69	0.59	8.74	31.75
+GO:0051707	response to other organism	35	0.42	0.46	6.41	24.63
+GO:0006629	lipid metabolic process	47	0.37	0.38	5.19	18.42
+GO:0045087	innate immune response	38	0.68	0.59	8.16	26.47
+GO:0007186	G-protein coupled receptor signaling pathway	36	0.55	0.57	7.20	23.17
+GO:1901990	regulation of mitotic cell cycle phase transition	36	0.61	0.66	8.15	36.35
+GO:0007167	enzyme linked receptor protein signaling pathway	35	0.53	0.59	7.04	26.50
+GO:0019221	cytokine-mediated signaling pathway	35	0.60	0.63	7.60	26.50
+GO:0009725	response to hormone	34	0.53	0.51	7.03	21.86
+GO:0071345	cellular response to cytokine stimulus	32	0.67	0.63	8.21	61.60
+GO:0098660	inorganic ion transmembrane transport	28	0.56	0.60	7.40	27.94
+GO:0043687	post-translational protein modification	27	0.65	0.67	8.51	151.15
+GO:0051260	protein homooligomerization	22	0.89	0.77	9.41	42.03
+GO:0016311	dephosphorylation	18	0.68	0.63	8.33	24.41
+GO:0010469	regulation of signaling receptor activity	17	0.59	0.62	7.95	48.62
+GO:0006898	receptor-mediated endocytosis	15	0.68	0.66	8.48	28.44
+GO:0045765	regulation of angiogenesis	15	0.70	0.68	8.82	44.94
+GO:0060326	cell chemotaxis	12	0.64	0.61	8.15	30.29
+GO:0030307	positive regulation of cell growth	12	0.70	0.67	8.71	80.65
+GO:0000302	response to reactive oxygen species	10	0.71	0.60	8.78	25.34
+GO:0046718	viral entry into host cell	9	0.77	0.73	8.94	28.37
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	9	0.63	0.64	8.31	41.85
+GO:0048469	cell maturation	8	0.70	0.55	8.24	25.22
+GO:0071479	cellular response to ionizing radiation	7	0.89	0.77	9.45	48.66
+GO:0002573	myeloid leukocyte differentiation	6	0.74	0.66	8.74	45.13
+GO:0010883	regulation of lipid storage	5	0.79	0.68	9.12	20.47
+GO:0007517	muscle organ development	4	0.78	0.64	8.75	27.68
+GO:0006607	NLS-bearing protein import into nucleus	4	1.00	0.92	9.63	278.23
+GO:0090303	positive regulation of wound healing	3	0.70	0.70	8.75	62.35
+GO:0010559	regulation of glycoprotein biosynthetic process	3	0.66	0.68	8.90	149.76
+GO:0072540	T-helper 17 cell lineage commitment	1	1.00	0.88	9.63	46.26
+GO:2000549	positive regulation of dendritic cell dendrite assembly	1	1.00	0.90	9.63	200.31
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
+GO:0042157	lipoprotein metabolic process	1	0.76	0.67	9.00	47.86
+GO:0045779	negative regulation of bone resorption	1	1.00	0.85	9.63	83.01

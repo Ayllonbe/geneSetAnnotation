@@ -1,0 +1,43 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	884	0.24	0.37	3.90	23.85
+GO:0019219	regulation of nucleobase-containing compound metabolic process	529	0.33	0.45	5.50	54.14
+GO:0006355	regulation of transcription, DNA-templated	446	0.40	0.60	6.84	245.35
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
+GO:0035556	intracellular signal transduction	306	0.51	0.55	6.92	23.17
+GO:0090304	nucleic acid metabolic process	360	0.35	0.46	5.97	111.15
+GO:0016192	vesicle-mediated transport	342	0.52	0.51	6.57	10.99
+GO:0071310	cellular response to organic substance	310	0.44	0.47	5.95	41.66
+GO:0045893	positive regulation of transcription, DNA-templated	251	0.52	0.67	8.14	1208.12
+GO:0006468	protein phosphorylation	159	0.57	0.64	8.18	177.76
+GO:0070647	protein modification by small protein conjugation or removal	82	0.61	0.66	8.44	151.15
+GO:0009968	negative regulation of signal transduction	215	0.44	0.54	6.68	140.65
+GO:0006351	transcription, DNA-templated	212	0.57	0.68	8.45	581.39
+GO:0043312	neutrophil degranulation	182	1.00	0.90	9.63	132.80
+GO:0010243	response to organonitrogen compound	174	0.45	0.48	6.23	25.43
+GO:0032496	response to lipopolysaccharide	116	0.89	0.74	9.45	64.41
+GO:0071417	cellular response to organonitrogen compound	98	0.53	0.56	7.37	128.53
+GO:0006886	intracellular protein transport	75	0.55	0.65	8.12	90.55
+GO:0006511	ubiquitin-dependent protein catabolic process	46	0.74	0.74	9.19	156.45
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0046854	phosphatidylinositol phosphorylation	31	1.00	0.88	9.63	218.74
+GO:0045471	response to ethanol	30	0.93	0.76	9.52	69.73
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	24	1.00	0.93	9.63	628.11
+GO:0009749	response to glucose	21	0.89	0.80	9.41	32.96
+GO:0014911	positive regulation of smooth muscle cell migration	15	0.89	0.82	9.51	201.78
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0007281	germ cell development	13	0.87	0.68	9.34	71.68
+GO:0033574	response to testosterone	9	0.93	0.76	9.53	91.04
+GO:0071549	cellular response to dexamethasone stimulus	8	1.00	0.90	9.63	704.27
+GO:0030517	negative regulation of axon extension	8	0.89	0.88	9.58	1259.61
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0001662	behavioral fear response	6	1.00	0.79	9.63	37.89
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	6	1.00	0.93	9.63	645.24
+GO:0036092	phosphatidylinositol-3-phosphate biosynthetic process	6	1.00	0.90	9.63	663.42
+GO:0045948	positive regulation of translational initiation	5	0.76	0.78	9.39	1253.37
+GO:0060765	regulation of androgen receptor signaling pathway	5	0.84	0.77	9.43	43.64
+GO:0044539	long-chain fatty acid import	4	1.00	0.93	9.63	75.03
+GO:0007616	long-term memory	4	1.00	0.85	9.63	22.23
+GO:0048268	clathrin coat assembly	2	0.84	0.74	9.31	44.52
+GO:0048633	positive regulation of skeletal muscle tissue growth	2	1.00	0.90	9.63	367.15
+GO:0045900	negative regulation of translational elongation	1	0.83	0.81	9.52	1334.68
+GO:0014732	skeletal muscle atrophy	1	1.00	0.85	9.63	61.04

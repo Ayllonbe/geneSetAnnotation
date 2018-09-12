@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2812	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	2223	0.09	0.17	1.80	4.47
+GO:0006950	response to stress	562	0.39	0.32	4.70	6.14
+GO:0006351	transcription, DNA-templated	528	0.57	0.68	8.45	581.39
+GO:0044248	cellular catabolic process	406	0.31	0.36	4.57	26.23
+GO:0034622	cellular protein-containing complex assembly	186	0.48	0.53	6.52	40.42
+GO:0050900	leukocyte migration	72	0.60	0.59	8.02	26.94
+GO:0000398	mRNA splicing, via spliceosome	63	0.83	0.85	9.49	356.67
+GO:1902476	chloride transmembrane transport	10	1.00	0.88	9.63	110.52
+GO:0000245	spliceosomal complex assembly	7	0.93	0.82	9.53	66.60
+GO:0033327	Leydig cell differentiation	2	1.00	0.75	9.63	40.69
+GO:0030238	male sex determination	1	0.89	0.70	9.29	21.56
+GO:0002296	T-helper 1 cell lineage commitment	1	1.00	0.88	9.63	46.26

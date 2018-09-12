@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1994	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1552	0.08	0.04	0.98	3.37
+GO:0065007	biological regulation	1552	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1482	0.09	0.17	1.80	4.47
+GO:0019222	regulation of metabolic process	832	0.21	0.30	3.39	7.96
+GO:0007165	signal transduction	821	0.36	0.43	5.06	19.43
+GO:0071222	cellular response to lipopolysaccharide	59	1.00	0.82	9.63	238.00
+GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
+GO:0050896	response to stimulus	780	0.25	0.12	2.65	3.37
+GO:0051179	localization	697	0.26	0.13	2.57	3.37
+GO:0032502	developmental process	528	0.22	0.11	1.89	3.37
+GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
+GO:0010941	regulation of cell death	320	0.43	0.47	6.10	12.04
+GO:0022607	cellular component assembly	327	0.39	0.39	5.06	14.95
+GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
+GO:0042127	regulation of cell proliferation	350	0.45	0.48	6.03	12.04
+GO:0006796	phosphate-containing compound metabolic process	288	0.36	0.43	5.28	20.85
+GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
+GO:0046718	viral entry into host cell	24	0.77	0.73	8.94	28.37
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16

@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	1606	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	1248	0.39	0.52	6.45	112.25
+GO:0051246	regulation of protein metabolic process	1000	0.34	0.46	5.46	41.09
+GO:0010033	response to organic substance	694	0.35	0.37	4.75	9.28
+GO:0042542	response to hydrogen peroxide	49	0.93	0.76	9.54	79.29
+GO:0008104	protein localization	696	0.40	0.40	5.07	7.46
+GO:0044248	cellular catabolic process	663	0.31	0.36	4.57	26.23
+GO:0046907	intracellular transport	617	0.46	0.48	6.38	29.65
+GO:0022402	cell cycle process	406	0.40	0.32	4.60	7.39
+GO:0070647	protein modification by small protein conjugation or removal	399	0.61	0.66	8.44	151.15
+GO:0006468	protein phosphorylation	348	0.57	0.64	8.18	177.76
+GO:0009894	regulation of catabolic process	346	0.42	0.46	5.75	10.74
+GO:0045055	regulated exocytosis	292	0.69	0.69	8.57	38.47
+GO:0008285	negative regulation of cell proliferation	260	0.56	0.57	7.31	43.61
+GO:0043065	positive regulation of apoptotic process	254	0.56	0.63	7.81	80.91
+GO:0007186	G-protein coupled receptor signaling pathway	223	0.55	0.57	7.20	23.17
+GO:0007167	enzyme linked receptor protein signaling pathway	203	0.53	0.59	7.04	26.50
+GO:0060627	regulation of vesicle-mediated transport	192	0.48	0.53	6.81	26.12
+GO:0043087	regulation of GTPase activity	153	0.87	0.72	9.29	12.47
+GO:0043687	post-translational protein modification	151	0.65	0.67	8.51	151.15
+GO:0016569	covalent chromatin modification	138	0.54	0.56	7.38	32.64
+GO:0015711	organic anion transport	138	0.43	0.54	6.27	28.20
+GO:0006417	regulation of translation	134	0.52	0.61	8.02	212.82
+GO:0007264	small GTPase mediated signal transduction	125	0.74	0.69	8.74	26.43
+GO:0050900	leukocyte migration	124	0.60	0.59	8.02	26.94
+GO:0030036	actin cytoskeleton organization	120	0.63	0.61	8.05	29.61
+GO:0001818	negative regulation of cytokine production	107	0.51	0.55	7.03	44.36
+GO:0030855	epithelial cell differentiation	94	0.55	0.52	6.96	21.07
+GO:0048589	developmental growth	82	0.55	0.40	6.36	12.22
+GO:0016197	endosomal transport	75	0.71	0.64	8.82	47.19
+GO:0001701	in utero embryonic development	70	1.00	0.85	9.63	22.50
+GO:0000902	cell morphogenesis	65	0.63	0.56	7.92	43.26
+GO:0035023	regulation of Rho protein signal transduction	52	0.84	0.82	9.32	48.76
+GO:0030217	T cell differentiation	45	0.66	0.65	8.68	65.05
+GO:0032092	positive regulation of protein binding	45	0.71	0.64	8.53	32.71
+GO:0050728	negative regulation of inflammatory response	43	0.67	0.69	8.71	126.18
+GO:0016525	negative regulation of angiogenesis	41	0.81	0.78	9.32	151.11
+GO:0046718	viral entry into host cell	37	0.77	0.73	8.94	28.37
+GO:0035335	peptidyl-tyrosine dephosphorylation	35	0.89	0.82	9.53	179.25
+GO:0007032	endosome organization	34	0.84	0.71	9.22	20.92
+GO:0006687	glycosphingolipid metabolic process	26	0.68	0.69	9.04	147.46
+GO:0030218	erythrocyte differentiation	25	0.84	0.71	9.12	22.68
+GO:0046825	regulation of protein export from nucleus	22	0.71	0.73	9.09	125.87
+GO:0042059	negative regulation of epidermal growth factor receptor signaling pathway	18	0.84	0.80	9.42	234.05
+GO:0045429	positive regulation of nitric oxide biosynthetic process	17	1.00	0.88	9.63	658.64
+GO:1900271	regulation of long-term synaptic potentiation	15	0.89	0.82	9.45	41.66
+GO:0046426	negative regulation of JAK-STAT cascade	14	0.93	0.86	9.58	286.98
+GO:2000249	regulation of actin cytoskeleton reorganization	14	0.89	0.82	9.43	36.20
+GO:0006656	phosphatidylcholine biosynthetic process	13	0.80	0.77	9.40	749.29
+GO:0006730	one-carbon metabolic process	12	0.89	0.64	9.29	26.87
+GO:0070830	bicellular tight junction assembly	11	1.00	0.82	9.63	56.14
+GO:0046627	negative regulation of insulin receptor signaling pathway	11	0.89	0.80	9.52	294.35
+GO:0051782	negative regulation of cell division	10	0.68	0.63	8.40	42.45
+GO:0050892	intestinal absorption	9	0.81	0.66	9.18	23.07
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	9	0.84	0.82	9.59	500.08
+GO:0043114	regulation of vascular permeability	9	0.84	0.71	9.18	21.20
+GO:0045022	early endosome to late endosome transport	8	1.00	0.82	9.63	50.18
+GO:0043249	erythrocyte maturation	6	0.89	0.70	9.38	39.56
+GO:0002692	negative regulation of cellular extravasation	5	0.79	0.79	9.37	296.76
+GO:0010642	negative regulation of platelet-derived growth factor receptor signaling pathway	5	0.89	0.80	9.50	188.11
+GO:0071499	cellular response to laminar fluid shear stress	4	0.93	0.76	9.52	52.24
+GO:0030948	negative regulation of vascular endothelial growth factor receptor signaling pathway	4	1.00	0.85	9.63	297.57
+GO:0060313	negative regulation of blood vessel remodeling	2	0.93	0.79	9.55	101.63
+GO:0006556	S-adenosylmethionine biosynthetic process	2	1.00	0.82	9.63	239.06
+GO:0090557	establishment of endothelial intestinal barrier	2	1.00	0.85	9.63	36.14
+GO:0071228	cellular response to tumor cell	1	1.00	0.75	9.63	35.13
+GO:0097533	cellular stress response to acid chemical	1	1.00	0.79	9.63	22.45

@@ -1,0 +1,112 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	66	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	303	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	185	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	150	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	135	0.39	0.52	6.45	112.25
+GO:0032774	RNA biosynthetic process	99	0.53	0.62	8.04	473.34
+GO:0071702	organic substance transport	87	0.33	0.41	4.62	10.99
+GO:0071705	nitrogen compound transport	80	0.36	0.43	4.99	10.99
+GO:0071702	organic substance transport	87	0.33	0.41	4.62	10.99
+GO:0035556	intracellular signal transduction	59	0.51	0.55	6.92	23.17
+GO:0051240	positive regulation of multicellular organismal process	43	0.35	0.42	4.98	23.60
+GO:0044265	cellular macromolecule catabolic process	42	0.55	0.56	7.70	100.33
+GO:0019220	regulation of phosphate metabolic process	40	0.41	0.53	6.26	28.98
+GO:0051726	regulation of cell cycle	40	0.41	0.45	5.89	12.04
+GO:0042981	regulation of apoptotic process	36	0.45	0.55	6.60	16.23
+GO:0009628	response to abiotic stimulus	32	0.46	0.35	5.43	6.14
+GO:0006468	protein phosphorylation	30	0.57	0.64	8.18	177.76
+GO:0006259	DNA metabolic process	30	0.45	0.55	7.12	145.26
+GO:0009894	regulation of catabolic process	26	0.42	0.46	5.75	10.74
+GO:0051093	negative regulation of developmental process	25	0.37	0.44	5.25	23.19
+GO:0006629	lipid metabolic process	22	0.37	0.38	5.19	18.42
+GO:0016567	protein ubiquitination	21	0.69	0.74	9.00	153.79
+GO:0051345	positive regulation of hydrolase activity	20	0.57	0.57	7.42	32.99
+GO:0043207	response to external biotic stimulus	20	0.41	0.40	5.91	16.64
+GO:0080135	regulation of cellular response to stress	20	0.46	0.52	6.64	26.18
+GO:0016050	vesicle organization	19	0.58	0.54	7.25	18.35
+GO:0008285	negative regulation of cell proliferation	19	0.56	0.57	7.31	43.61
+GO:0030030	cell projection organization	19	0.53	0.46	6.62	14.95
+GO:0000226	microtubule cytoskeleton organization	18	0.58	0.58	7.66	30.31
+GO:1902533	positive regulation of intracellular signal transduction	18	0.55	0.63	7.95	189.48
+GO:1902532	negative regulation of intracellular signal transduction	17	0.57	0.64	8.15	189.94
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	16	0.58	0.64	7.56	28.11
+GO:1901701	cellular response to oxygen-containing compound	16	0.47	0.48	6.19	42.34
+GO:0006417	regulation of translation	15	0.52	0.61	8.02	212.82
+GO:0007154	cell communication	14	0.46	0.36	5.27	7.39
+GO:0051276	chromosome organization	13	0.55	0.52	6.96	18.35
+GO:0016570	histone modification	12	0.54	0.62	8.03	184.49
+GO:0006470	protein dephosphorylation	10	0.76	0.73	9.22	177.17
+GO:0006914	autophagy	10	0.67	0.59	8.40	37.75
+GO:0009301	snRNA transcription	9	0.89	0.88	9.57	822.32
+GO:1901796	regulation of signal transduction by p53 class mediator	9	0.72	0.71	9.12	45.07
+GO:0051817	modification of morphology or physiology of other organism involved in symbiotic interaction	9	0.37	0.43	5.42	11.21
+GO:0001701	in utero embryonic development	9	1.00	0.85	9.63	22.50
+GO:0030522	intracellular receptor signaling pathway	8	0.65	0.62	7.99	23.17
+GO:0110053	regulation of actin filament organization	7	0.63	0.69	8.47	54.28
+GO:0051785	positive regulation of nuclear division	7	0.65	0.68	8.53	90.55
+GO:0050708	regulation of protein secretion	7	0.54	0.62	7.86	96.15
+GO:0000045	autophagosome assembly	6	1.00	0.82	9.63	62.10
+GO:0030336	negative regulation of cell migration	5	0.58	0.64	8.21	158.04
+GO:0043401	steroid hormone mediated signaling pathway	5	0.75	0.70	8.80	25.74
+GO:0000902	cell morphogenesis	5	0.63	0.56	7.92	43.26
+GO:0032481	positive regulation of type I interferon production	5	0.81	0.73	9.26	65.24
+GO:0032922	circadian regulation of gene expression	5	1.00	0.82	9.63	31.18
+GO:0032526	response to retinoic acid	4	0.93	0.76	9.49	43.79
+GO:0006368	transcription elongation from RNA polymerase II promoter	4	1.00	0.90	9.63	477.15
+GO:1903828	negative regulation of cellular protein localization	4	0.60	0.62	7.90	40.95
+GO:1904837	beta-catenin-TCF complex assembly	4	1.00	0.79	9.63	40.42
+GO:0018394	peptidyl-lysine acetylation	4	0.67	0.73	8.88	313.64
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0036498	IRE1-mediated unfolded protein response	4	1.00	0.82	9.63	55.46
+GO:0000245	spliceosomal complex assembly	3	0.93	0.82	9.53	66.60
+GO:0042769	DNA damage response, detection of DNA damage	3	0.79	0.68	9.14	39.84
+GO:0060070	canonical Wnt signaling pathway	3	0.67	0.71	8.39	31.42
+GO:0007219	Notch signaling pathway	3	0.78	0.71	8.87	26.50
+GO:0097352	autophagosome maturation	3	1.00	0.79	9.63	38.05
+GO:0001649	osteoblast differentiation	3	1.00	0.75	9.63	21.07
+GO:1901985	positive regulation of protein acetylation	3	0.76	0.78	9.32	446.39
+GO:0071347	cellular response to interleukin-1	3	1.00	0.82	9.63	81.65
+GO:0010591	regulation of lamellipodium assembly	3	0.89	0.82	9.46	72.62
+GO:0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia	3	0.89	0.89	9.56	532.70
+GO:0030595	leukocyte chemotaxis	3	0.69	0.67	8.77	62.06
+GO:0007229	integrin-mediated signaling pathway	3	1.00	0.82	9.63	26.50
+GO:0008589	regulation of smoothened signaling pathway	3	0.77	0.71	9.07	41.85
+GO:0031532	actin cytoskeleton reorganization	2	1.00	0.82	9.63	32.01
+GO:0042753	positive regulation of circadian rhythm	2	0.83	0.66	9.04	21.57
+GO:0007221	positive regulation of transcription of Notch receptor target	2	1.00	0.95	9.63	1467.90
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	2	1.00	0.92	9.63	185.81
+GO:0001893	maternal placenta development	2	1.00	0.75	9.63	43.25
+GO:1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	2	0.71	0.81	9.26	1467.90
+GO:1903046	meiotic cell cycle process	2	0.49	0.44	6.09	19.36
+GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter	2	1.00	0.95	9.63	3433.05
+GO:0045747	positive regulation of Notch signaling pathway	2	0.93	0.82	9.56	187.64
+GO:2001016	positive regulation of skeletal muscle cell differentiation	2	0.87	0.83	9.54	376.30
+GO:0051289	protein homotetramerization	2	1.00	0.85	9.63	85.45
+GO:0051292	nuclear pore complex assembly	2	0.93	0.79	9.55	123.37
+GO:0033194	response to hydroperoxide	2	0.80	0.65	9.34	25.34
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	2	1.00	0.93	9.63	628.11
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	2	1.00	0.85	9.63	76.31
+GO:0071243	cellular response to arsenic-containing substance	2	0.87	0.68	9.38	38.72
+GO:0042267	natural killer cell mediated cytotoxicity	2	0.93	0.79	9.55	47.36
+GO:0034115	negative regulation of heterotypic cell-cell adhesion	1	1.00	0.88	9.63	130.13
+GO:0071864	positive regulation of cell proliferation in bone marrow	1	1.00	0.82	9.63	63.05
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	1	1.00	0.88	9.63	234.24
+GO:0030213	hyaluronan biosynthetic process	1	1.00	0.88	9.63	506.70
+GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	1	0.93	0.82	9.56	127.43
+GO:0090263	positive regulation of canonical Wnt signaling pathway	1	0.83	0.79	9.42	236.53
+GO:0072703	cellular response to methyl methanesulfonate	1	1.00	0.79	9.63	119.11
+GO:0055012	ventricular cardiac muscle cell differentiation	1	1.00	0.85	9.63	47.30
+GO:0035360	positive regulation of peroxisome proliferator activated receptor signaling pathway	1	1.00	0.85	9.63	186.95
+GO:0008298	intracellular mRNA localization	1	0.75	0.63	8.78	25.83
+GO:0045945	positive regulation of transcription by RNA polymerase III	1	1.00	0.93	9.63	1460.88
+GO:1905564	positive regulation of vascular endothelial cell proliferation	1	1.00	0.88	9.63	108.29
+GO:0051017	actin filament bundle assembly	1	0.79	0.72	9.14	39.79
+GO:0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development	1	1.00	0.85	9.63	72.45
+GO:0070498	interleukin-1-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:2000074	regulation of type B pancreatic cell development	1	0.89	0.77	9.45	87.87
+GO:0090403	oxidative stress-induced premature senescence	1	1.00	0.82	9.63	55.83
+GO:0100057	regulation of phenotypic switching by transcription from RNA polymerase II promoter	1	0.89	0.88	9.57	601.47
+GO:1904828	positive regulation of hydrogen sulfide biosynthetic process	1	1.00	0.85	9.63	472.61
+GO:0060687	regulation of branching involved in prostate gland morphogenesis	1	1.00	0.82	9.63	105.65
+GO:1904761	negative regulation of myofibroblast differentiation	1	1.00	0.82	9.63	114.22

@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5324	0.00	0.00	0.00	0.00
+GO:0002376	immune system process	771	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	4730	0.09	0.05	0.84	3.37
+GO:0043170	macromolecule metabolic process	2709	0.25	0.32	3.46	10.22
+GO:0007165	signal transduction	1363	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	1040	0.33	0.45	5.35	37.59
+GO:0022607	cellular component assembly	900	0.39	0.39	5.06	14.95
+GO:0008104	protein localization	699	0.40	0.40	5.07	7.46
+GO:2000026	regulation of multicellular organismal development	623	0.29	0.39	4.73	23.09
+GO:0044093	positive regulation of molecular function	613	0.43	0.41	5.23	6.77
+GO:0042981	regulation of apoptotic process	520	0.45	0.55	6.60	16.23
+GO:0008284	positive regulation of cell proliferation	296	0.56	0.57	7.27	43.45
+GO:0050708	regulation of protein secretion	163	0.54	0.62	7.86	96.15
+GO:1990138	neuron projection extension	26	0.81	0.66	9.22	50.60
+GO:0045070	positive regulation of viral genome replication	19	0.89	0.82	9.47	85.31
+GO:0042220	response to cocaine	10	0.93	0.79	9.55	106.25
+GO:0106064	regulation of cobalamin metabolic process	1	0.89	0.77	9.46	88.66

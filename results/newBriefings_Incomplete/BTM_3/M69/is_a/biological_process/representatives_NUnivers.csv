@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	724	0.36	0.43	5.06	19.43
+GO:0048583	regulation of response to stimulus	693	0.25	0.32	3.72	7.96
+GO:0048523	negative regulation of cellular process	615	0.24	0.37	3.90	23.93
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0051716	cellular response to stimulus	440	0.35	0.30	4.36	13.53
+GO:0019538	protein metabolic process	417	0.31	0.41	4.91	44.77
+GO:0006950	response to stress	400	0.39	0.32	4.70	6.14
+GO:0010033	response to organic substance	394	0.35	0.37	4.75	9.28
+GO:0051049	regulation of transport	290	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	289	0.44	0.54	6.71	140.23
+GO:0043207	response to external biotic stimulus	214	0.41	0.40	5.91	16.64
+GO:0010243	response to organonitrogen compound	158	0.45	0.48	6.23	25.43
+GO:0002253	activation of immune response	137	0.59	0.62	8.04	87.88
+GO:0045892	negative regulation of transcription, DNA-templated	134	0.56	0.69	8.52	1581.26
+GO:0048468	cell development	90	0.51	0.45	6.51	28.42
+GO:0071417	cellular response to organonitrogen compound	89	0.53	0.56	7.37	128.53
+GO:0071407	cellular response to organic cyclic compound	71	0.53	0.56	7.03	63.03
+GO:0007204	positive regulation of cytosolic calcium ion concentration	69	0.68	0.77	9.10	290.30
+GO:0015711	organic anion transport	69	0.43	0.54	6.27	28.20
+GO:0030595	leukocyte chemotaxis	65	0.69	0.67	8.77	62.06
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0051260	protein homooligomerization	50	0.89	0.77	9.41	42.03
+GO:0042113	B cell activation	44	0.68	0.63	8.28	19.85
+GO:0034614	cellular response to reactive oxygen species	32	0.77	0.67	9.20	144.09
+GO:0031295	T cell costimulation	31	0.93	0.86	9.59	354.90
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0046854	phosphatidylinositol phosphorylation	25	1.00	0.88	9.63	218.74
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0032370	positive regulation of lipid transport	19	0.63	0.64	8.27	82.73
+GO:0030449	regulation of complement activation	14	0.69	0.72	9.30	245.77
+GO:0032467	positive regulation of cytokinesis	10	0.70	0.70	9.02	142.06
+GO:0001890	placenta development	8	1.00	0.75	9.63	49.87
+GO:0071549	cellular response to dexamethasone stimulus	6	1.00	0.90	9.63	704.27
+GO:0048041	focal adhesion assembly	6	1.00	0.88	9.63	92.53
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	2	0.93	0.82	9.55	144.70
+GO:0043215	daunorubicin transport	1	1.00	0.85	9.63	103.95
+GO:0071475	cellular hyperosmotic salinity response	1	0.93	0.82	9.57	243.84
+GO:1901557	response to fenofibrate	1	1.00	0.79	9.63	104.68
+GO:1905235	response to quercetin	1	0.93	0.76	9.54	83.82

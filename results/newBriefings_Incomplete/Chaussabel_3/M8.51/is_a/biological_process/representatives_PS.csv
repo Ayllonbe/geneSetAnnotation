@@ -1,0 +1,74 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1900182	positive regulation of protein localization to nucleus	19	0.84	0.77	9.37	74.62
+GO:0050794	regulation of cellular process	2132	0.12	0.26	2.47	7.96
+GO:1900134	negative regulation of renin secretion into blood stream	1	1.00	0.90	9.63	591.23
+GO:0048518	positive regulation of biological process	1242	0.21	0.30	3.05	7.96
+GO:0048519	negative regulation of biological process	1110	0.21	0.30	3.07	7.96
+GO:0048523	negative regulation of cellular process	1005	0.24	0.37	3.90	23.93
+GO:0009893	positive regulation of metabolic process	747	0.32	0.41	4.71	22.55
+GO:0051172	negative regulation of nitrogen compound metabolic process	542	0.37	0.47	5.49	39.78
+GO:0006464	cellular protein modification process	717	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	648	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	569	0.39	0.32	4.70	6.14
+GO:0065008	regulation of biological quality	550	0.28	0.26	3.48	4.47
+GO:0042221	response to chemical	504	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	486	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	397	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	394	0.31	0.40	4.67	10.45
+GO:0045595	regulation of cell differentiation	355	0.34	0.42	5.25	23.33
+GO:0043066	negative regulation of apoptotic process	211	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	168	0.56	0.63	7.81	80.91
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	7	0.93	0.90	9.60	732.69
+GO:0031401	positive regulation of protein modification process	279	0.51	0.63	7.86	366.05
+GO:0019752	carboxylic acid metabolic process	202	0.32	0.45	5.31	42.50
+GO:0030334	regulation of cell migration	186	0.48	0.56	7.11	36.74
+GO:0007346	regulation of mitotic cell cycle	160	0.49	0.53	6.68	14.24
+GO:0034220	ion transmembrane transport	150	0.45	0.51	6.18	26.33
+GO:0045087	innate immune response	115	0.68	0.59	8.16	26.47
+GO:0043547	positive regulation of GTPase activity	100	0.93	0.79	9.52	49.34
+GO:0097435	supramolecular fiber organization	84	0.60	0.50	7.35	14.95
+GO:0009615	response to virus	75	0.74	0.66	8.80	27.27
+GO:0050900	leukocyte migration	73	0.60	0.59	8.02	26.94
+GO:0006650	glycerophospholipid metabolic process	70	0.59	0.62	8.12	144.72
+GO:0050804	modulation of chemical synaptic transmission	69	0.52	0.58	7.24	27.32
+GO:0007204	positive regulation of cytosolic calcium ion concentration	52	0.68	0.77	9.10	290.30
+GO:0060271	cilium assembly	33	0.87	0.76	9.41	137.68
+GO:0006334	nucleosome assembly	32	0.87	0.78	9.47	104.52
+GO:0016236	macroautophagy	29	0.77	0.67	8.94	39.83
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	25	1.00	0.92	9.63	384.64
+GO:0030193	regulation of blood coagulation	22	0.67	0.69	8.94	65.68
+GO:0007179	transforming growth factor beta receptor signaling pathway	19	0.76	0.75	9.05	29.90
+GO:0007173	epidermal growth factor receptor signaling pathway	18	0.78	0.78	9.04	32.39
+GO:0031295	T cell costimulation	17	0.93	0.86	9.59	354.90
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	17	0.83	0.79	9.19	31.00
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	16	1.00	0.93	9.63	628.11
+GO:0048013	ephrin receptor signaling pathway	16	1.00	0.88	9.63	31.00
+GO:0034446	substrate adhesion-dependent cell spreading	14	1.00	0.82	9.63	56.23
+GO:0033363	secretory granule organization	10	0.78	0.68	8.86	20.92
+GO:0048873	homeostasis of number of cells within a tissue	9	0.89	0.77	9.38	26.75
+GO:0030520	intracellular estrogen receptor signaling pathway	9	1.00	0.88	9.63	54.01
+GO:0048008	platelet-derived growth factor receptor signaling pathway	9	0.78	0.76	9.19	31.00
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	6	1.00	0.82	9.63	26.98
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	6	0.78	0.71	8.87	26.98
+GO:0043149	stress fiber assembly	6	1.00	0.88	9.63	75.14
+GO:0048477	oogenesis	5	1.00	0.79	9.63	84.68
+GO:0048711	positive regulation of astrocyte differentiation	5	0.93	0.88	9.59	472.10
+GO:0050974	detection of mechanical stimulus involved in sensory perception	5	0.79	0.68	9.04	69.43
+GO:0050847	progesterone receptor signaling pathway	5	1.00	0.88	9.63	54.01
+GO:0048011	neurotrophin TRK receptor signaling pathway	5	1.00	0.88	9.63	58.20
+GO:0045217	cell-cell junction maintenance	4	0.87	0.72	9.31	51.61
+GO:0045214	sarcomere organization	4	1.00	0.85	9.63	33.96
+GO:0035635	entry of bacterium into host cell	4	1.00	0.85	9.63	28.37
+GO:0007567	parturition	3	1.00	0.70	9.63	32.81
+GO:0036035	osteoclast development	3	1.00	0.79	9.63	66.39
+GO:0051256	mitotic spindle midzone assembly	3	1.00	0.79	9.63	55.95
+GO:0070493	thrombin-activated receptor signaling pathway	2	1.00	0.82	9.63	26.98
+GO:0060065	uterus development	2	1.00	0.75	9.63	49.87
+GO:0086098	angiotensin-activated signaling pathway involved in heart process	2	0.93	0.82	9.52	56.26
+GO:0048739	cardiac muscle fiber development	1	1.00	0.85	9.63	104.20
+GO:0042628	mating plug formation	1	1.00	0.79	9.63	41.37
+GO:0060444	branching involved in mammary gland duct morphogenesis	1	0.87	0.78	9.37	53.50
+GO:0002074	extraocular skeletal muscle development	1	1.00	0.85	9.63	47.72
+GO:0061108	seminal vesicle epithelium development	1	1.00	0.79	9.63	67.62
+GO:0030241	skeletal muscle myosin thick filament assembly	1	1.00	0.90	9.63	129.67
+GO:0001545	primary ovarian follicle growth	1	0.89	0.64	9.29	21.72

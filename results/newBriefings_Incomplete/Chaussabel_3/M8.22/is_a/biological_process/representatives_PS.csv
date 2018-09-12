@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4191	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	3229	0.09	0.17	1.80	4.47
+GO:0009059	macromolecule biosynthetic process	1038	0.43	0.46	5.85	36.03
+GO:0044237	cellular metabolic process	2867	0.16	0.21	2.71	13.80
+GO:0050896	response to stimulus	1298	0.25	0.12	2.65	3.37
+GO:0051649	establishment of localization in cell	624	0.42	0.41	5.33	7.46
+GO:0048856	anatomical structure development	381	0.33	0.29	3.70	6.46
+GO:0034622	cellular protein-containing complex assembly	305	0.48	0.53	6.52	40.42
+GO:0060271	cilium assembly	65	0.87	0.76	9.41	137.68
+GO:0097711	ciliary basal body-plasma membrane docking	33	1.00	0.79	9.63	21.39
+GO:0090630	activation of GTPase activity	27	1.00	0.85	9.63	49.34
+GO:0035722	interleukin-12-mediated signaling pathway	24	1.00	0.85	9.63	30.19
+GO:0035176	social behavior	15	1.00	0.70	9.63	22.58
+GO:0051131	chaperone-mediated protein complex assembly	3	1.00	0.82	9.63	44.52

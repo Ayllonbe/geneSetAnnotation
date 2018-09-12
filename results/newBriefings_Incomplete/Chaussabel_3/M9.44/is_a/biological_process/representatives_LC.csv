@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006807	nitrogen compound metabolic process	273	0.20	0.22	2.64	6.41
+GO:0009987	cellular process	427	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	128	0.25	0.12	2.65	3.37
+GO:0071704	organic substance metabolic process	295	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	427	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	128	0.25	0.12	2.65	3.37
+GO:0065008	regulation of biological quality	63	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	327	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	73	0.33	0.29	4.10	4.47
+GO:0051683	establishment of Golgi localization	1	1.00	0.79	9.63	43.32
+GO:0006810	transport	150	0.28	0.34	3.95	7.46
+GO:0007565	female pregnancy	7	1.00	0.70	9.63	32.81

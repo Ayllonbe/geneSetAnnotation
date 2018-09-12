@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	855	0.36	0.43	5.06	19.43
+GO:0090304	nucleic acid metabolic process	854	0.35	0.46	5.97	111.15
+GO:0006464	cellular protein modification process	708	0.34	0.49	5.84	147.03
+GO:0030201	heparan sulfate proteoglycan metabolic process	4	0.84	0.77	9.38	98.46
+GO:0032774	RNA biosynthetic process	554	0.53	0.62	8.04	473.34
+GO:0006357	regulation of transcription by RNA polymerase II	550	0.44	0.63	7.11	248.57
+GO:0065003	protein-containing complex assembly	356	0.45	0.48	6.06	36.47
+GO:0051240	positive regulation of multicellular organismal process	330	0.35	0.42	4.98	23.60
+GO:0009968	negative regulation of signal transduction	256	0.44	0.54	6.68	140.65
+GO:0006511	ubiquitin-dependent protein catabolic process	138	0.74	0.74	9.19	156.45
+GO:0045087	innate immune response	113	0.68	0.59	8.16	26.47
+GO:0048468	cell development	112	0.51	0.45	6.51	28.42
+GO:0043547	positive regulation of GTPase activity	99	0.93	0.79	9.52	49.34
+GO:0034765	regulation of ion transmembrane transport	83	0.46	0.55	6.68	33.04
+GO:0030336	negative regulation of cell migration	49	0.58	0.64	8.21	158.04
+GO:0006412	translation	40	0.87	0.78	9.51	402.56
+GO:0001701	in utero embryonic development	38	1.00	0.85	9.63	22.50
+GO:0007051	spindle organization	37	0.69	0.67	8.69	44.52
+GO:0000082	G1/S transition of mitotic cell cycle	36	1.00	0.79	9.63	42.75
+GO:0042542	response to hydrogen peroxide	35	0.93	0.76	9.54	79.29
+GO:0006406	mRNA export from nucleus	33	0.89	0.84	9.52	121.36
+GO:0006289	nucleotide-excision repair	32	0.84	0.80	9.46	183.05
+GO:0045667	regulation of osteoblast differentiation	21	0.83	0.70	9.41	40.23
+GO:0048754	branching morphogenesis of an epithelial tube	21	0.74	0.69	8.88	51.71
+GO:0090263	positive regulation of canonical Wnt signaling pathway	20	0.83	0.79	9.42	236.53
+GO:0071277	cellular response to calcium ion	18	1.00	0.82	9.63	78.50
+GO:0035264	multicellular organism growth	16	1.00	0.70	9.63	22.58
+GO:0030216	keratinocyte differentiation	10	0.89	0.77	9.38	25.59
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0006607	NLS-bearing protein import into nucleus	9	1.00	0.92	9.63	278.23
+GO:0032516	positive regulation of phosphoprotein phosphatase activity	9	0.87	0.85	9.55	1089.27
+GO:1902476	chloride transmembrane transport	9	1.00	0.88	9.63	110.52
+GO:0010575	positive regulation of vascular endothelial growth factor production	7	1.00	0.82	9.63	64.54
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	6	1.00	0.85	9.63	108.68
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	5	0.89	0.80	9.45	48.00
+GO:2000345	regulation of hepatocyte proliferation	4	0.89	0.77	9.46	64.61
+GO:0002031	G-protein coupled receptor internalization	4	0.93	0.84	9.57	66.79
+GO:0006983	ER overload response	4	0.87	0.76	9.43	81.56
+GO:0007035	vacuolar acidification	4	0.93	0.91	9.58	182.54
+GO:0046604	positive regulation of mitotic centrosome separation	3	1.00	0.92	9.63	603.27
+GO:0001886	endothelial cell morphogenesis	3	1.00	0.85	9.63	48.55
+GO:0045724	positive regulation of cilium assembly	3	0.89	0.84	9.54	366.97
+GO:0032836	glomerular basement membrane development	2	0.89	0.74	9.41	30.93
+GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	1	1.00	0.92	9.63	974.09

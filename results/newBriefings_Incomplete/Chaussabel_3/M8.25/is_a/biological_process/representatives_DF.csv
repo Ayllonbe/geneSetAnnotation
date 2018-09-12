@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1556	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	1436	0.24	0.37	3.90	23.93
+GO:0016070	RNA metabolic process	1098	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	286	0.45	0.55	7.12	145.26
+GO:0006355	regulation of transcription, DNA-templated	1170	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1000	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	923	0.33	0.45	5.35	37.59
+GO:0022607	cellular component assembly	791	0.39	0.39	5.06	14.95
+GO:0006351	transcription, DNA-templated	770	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	671	0.43	0.51	5.91	23.17
+GO:0043401	steroid hormone mediated signaling pathway	47	0.75	0.70	8.80	25.74
+GO:0009967	positive regulation of signal transduction	495	0.44	0.54	6.71	140.23
+GO:0030154	cell differentiation	410	0.39	0.39	5.18	16.68
+GO:0045892	negative regulation of transcription, DNA-templated	396	0.56	0.69	8.52	1581.26
+GO:0045944	positive regulation of transcription by RNA polymerase II	365	0.55	0.71	8.36	1463.86
+GO:0009968	negative regulation of signal transduction	363	0.44	0.54	6.68	140.65
+GO:0051241	negative regulation of multicellular organismal process	326	0.35	0.42	4.99	23.69
+GO:0019752	carboxylic acid metabolic process	301	0.32	0.45	5.31	42.50
+GO:0019941	modification-dependent protein catabolic process	203	0.71	0.71	9.08	155.07
+GO:0045087	innate immune response	162	0.68	0.59	8.16	26.47
+GO:0001819	positive regulation of cytokine production	149	0.51	0.54	6.97	44.26
+GO:0098542	defense response to other organism	141	0.66	0.62	8.42	39.21
+GO:0071345	cellular response to cytokine stimulus	135	0.67	0.63	8.21	61.60
+GO:0051052	regulation of DNA metabolic process	135	0.47	0.56	7.17	70.58
+GO:0030036	actin cytoskeleton organization	110	0.63	0.61	8.05	29.61
+GO:0032496	response to lipopolysaccharide	109	0.89	0.74	9.45	64.41
+GO:0006888	ER to Golgi vesicle-mediated transport	89	1.00	0.82	9.63	49.13
+GO:0050714	positive regulation of protein secretion	86	0.65	0.70	8.73	381.48
+GO:0072330	monocarboxylic acid biosynthetic process	77	0.52	0.61	7.58	215.71
+GO:0030336	negative regulation of cell migration	73	0.58	0.64	8.21	158.04
+GO:0048545	response to steroid hormone	68	0.69	0.64	8.94	60.25
+GO:0002009	morphogenesis of an epithelium	68	0.51	0.51	6.34	13.50
+GO:0001701	in utero embryonic development	63	1.00	0.85	9.63	22.50
+GO:0006816	calcium ion transport	57	0.67	0.71	8.69	35.67
+GO:0002576	platelet degranulation	55	1.00	0.88	9.63	39.86
+GO:0048525	negative regulation of viral process	46	0.71	0.68	8.66	43.32
+GO:0048562	embryonic organ morphogenesis	36	0.76	0.63	8.67	29.31
+GO:0071805	potassium ion transmembrane transport	32	0.83	0.81	9.46	120.62
+GO:0000281	mitotic cytokinesis	30	0.93	0.76	9.47	28.62
+GO:0006909	phagocytosis	26	0.93	0.79	9.49	28.44
+GO:0016239	positive regulation of macroautophagy	25	0.77	0.76	9.24	266.07
+GO:0001678	cellular glucose homeostasis	19	0.93	0.82	9.53	49.18
+GO:0009435	NAD biosynthetic process	18	0.80	0.83	9.50	2002.03
+GO:1903078	positive regulation of protein localization to plasma membrane	16	0.84	0.80	9.43	218.50
+GO:0051693	actin filament capping	15	0.89	0.89	9.58	826.90
+GO:0043001	Golgi to plasma membrane protein transport	14	0.93	0.84	9.59	211.18
+GO:0002230	positive regulation of defense response to virus by host	12	1.00	0.88	9.63	73.08
+GO:0043921	modulation by host of viral transcription	11	0.87	0.85	9.52	208.80
+GO:0045332	phospholipid translocation	10	1.00	0.88	9.63	116.87
+GO:0071498	cellular response to fluid shear stress	10	0.80	0.65	9.27	39.93
+GO:0006884	cell volume homeostasis	9	0.87	0.76	9.39	49.53
+GO:0071481	cellular response to X-ray	8	1.00	0.85	9.63	60.40
+GO:0090184	positive regulation of kidney development	8	0.65	0.65	8.53	85.86
+GO:0048477	oogenesis	7	1.00	0.79	9.63	84.68
+GO:0009972	cytidine deamination	6	1.00	0.93	9.63	2918.46
+GO:0060044	negative regulation of cardiac muscle cell proliferation	5	1.00	0.92	9.63	721.62
+GO:0044130	negative regulation of growth of symbiont in host	4	1.00	0.85	9.63	102.69
+GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	4	1.00	0.92	9.63	1014.84
+GO:0044829	positive regulation by host of viral genome replication	3	1.00	0.90	9.63	209.96
+GO:0019427	acetyl-CoA biosynthetic process from acetate	2	1.00	0.88	9.63	435.73
+GO:0030328	prenylcysteine catabolic process	2	1.00	0.90	9.63	660.32
+GO:0006069	ethanol oxidation	2	1.00	0.85	9.63	86.80
+GO:1903296	positive regulation of glutamate secretion, neurotransmission	2	0.93	0.88	9.60	1142.90
+GO:0048712	negative regulation of astrocyte differentiation	2	0.93	0.88	9.59	472.93
+GO:0060302	negative regulation of cytokine activity	2	0.93	0.84	9.58	129.50
+GO:0019805	quinolinate biosynthetic process	1	1.00	0.88	9.63	691.65
+GO:1990968	modulation by host of RNA binding by virus	1	1.00	0.88	9.63	40.45
+GO:0046541	saliva secretion	1	1.00	0.82	9.63	60.49
+GO:0006569	tryptophan catabolic process	1	0.84	0.82	9.54	1971.90
+GO:0060513	prostatic bud formation	1	1.00	0.85	9.63	123.46

@@ -1,0 +1,43 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	679	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	649	0.36	0.43	5.06	19.43
+GO:0090304	nucleic acid metabolic process	250	0.35	0.46	5.97	111.15
+GO:0046104	thymidine metabolic process	2	0.89	0.84	9.54	399.25
+GO:0071310	cellular response to organic substance	249	0.44	0.47	5.95	41.66
+GO:0034654	nucleobase-containing compound biosynthetic process	219	0.40	0.49	6.85	317.02
+GO:0065003	protein-containing complex assembly	188	0.45	0.48	6.06	36.47
+GO:0045893	positive regulation of transcription, DNA-templated	174	0.52	0.67	8.14	1208.12
+GO:0009968	negative regulation of signal transduction	170	0.44	0.54	6.68	140.65
+GO:0006468	protein phosphorylation	122	0.57	0.64	8.18	177.76
+GO:0070647	protein modification by small protein conjugation or removal	50	0.61	0.66	8.44	151.15
+GO:0033554	cellular response to stress	160	0.44	0.42	6.05	25.47
+GO:0016310	phosphorylation	156	0.53	0.56	6.88	24.41
+GO:0022402	cell cycle process	142	0.40	0.32	4.60	7.39
+GO:0045892	negative regulation of transcription, DNA-templated	111	0.56	0.69	8.52	1581.26
+GO:0045786	negative regulation of cell cycle	84	0.51	0.54	7.10	42.35
+GO:0071417	cellular response to organonitrogen compound	79	0.53	0.56	7.37	128.53
+GO:0009615	response to virus	53	0.74	0.66	8.80	27.27
+GO:0051054	positive regulation of DNA metabolic process	39	0.59	0.65	8.41	301.51
+GO:0007088	regulation of mitotic nuclear division	37	0.59	0.64	8.17	54.97
+GO:0000226	microtubule cytoskeleton organization	36	0.58	0.58	7.66	30.31
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	22	0.79	0.83	9.47	340.69
+GO:0051494	negative regulation of cytoskeleton organization	18	0.63	0.67	8.36	90.97
+GO:0032091	negative regulation of protein binding	17	0.70	0.64	8.48	32.72
+GO:0031100	animal organ regeneration	16	0.89	0.70	9.29	28.09
+GO:0034644	cellular response to UV	15	0.80	0.75	9.22	66.19
+GO:0007409	axonogenesis	14	0.69	0.72	8.67	64.61
+GO:1901796	regulation of signal transduction by p53 class mediator	12	0.72	0.71	9.12	45.07
+GO:0033762	response to glucagon	9	0.93	0.82	9.54	74.03
+GO:0031145	anaphase-promoting complex-dependent catabolic process	7	1.00	0.92	9.63	350.56
+GO:0043097	pyrimidine nucleoside salvage	4	0.81	0.80	9.51	2649.26
+GO:0071392	cellular response to estradiol stimulus	4	1.00	0.82	9.63	338.17
+GO:0051567	histone H3-K9 methylation	4	0.89	0.88	9.56	955.34
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	4	0.89	0.84	9.53	355.96
+GO:0071732	cellular response to nitric oxide	4	1.00	0.82	9.63	346.50
+GO:0002903	negative regulation of B cell apoptotic process	3	0.84	0.84	9.47	155.02
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0034501	protein localization to kinetochore	3	0.84	0.80	9.29	35.82
+GO:0007141	male meiosis I	2	1.00	0.88	9.63	140.07
+GO:0042754	negative regulation of circadian rhythm	1	0.83	0.66	9.04	21.65
+GO:0007066	female meiosis sister chromatid cohesion	1	1.00	0.85	9.63	102.55
+GO:0044878	mitotic cytokinesis checkpoint	1	1.00	0.92	9.63	492.82

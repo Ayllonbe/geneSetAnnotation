@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2376	0.09	0.05	0.84	3.37
+GO:0032879	regulation of localization	463	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	1786	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	1209	0.21	0.30	3.39	7.96
+GO:0044237	cellular metabolic process	1618	0.16	0.21	2.71	13.80
+GO:0050896	response to stimulus	769	0.25	0.12	2.65	3.37
+GO:0006810	transport	753	0.28	0.34	3.95	7.46
+GO:0006351	transcription, DNA-templated	436	0.57	0.68	8.45	581.39
+GO:0048812	neuron projection morphogenesis	39	0.65	0.68	8.50	63.00
+GO:0060271	cilium assembly	29	0.87	0.76	9.41	137.68
+GO:0050852	T cell receptor signaling pathway	27	1.00	0.92	9.63	219.43
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	23	1.00	0.92	9.63	384.64
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0038095	Fc-epsilon receptor signaling pathway	18	0.93	0.84	9.55	78.48
+GO:0048754	branching morphogenesis of an epithelial tube	18	0.74	0.69	8.88	51.71
+GO:0007286	spermatid development	14	1.00	0.79	9.63	72.78
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	13	1.00	0.93	9.63	628.11
+GO:0048013	ephrin receptor signaling pathway	13	1.00	0.88	9.63	31.00
+GO:0035735	intraciliary transport involved in cilium assembly	7	1.00	0.88	9.63	77.81
+GO:0070584	mitochondrion morphogenesis	7	1.00	0.79	9.63	64.70
+GO:0042246	tissue regeneration	6	0.76	0.63	8.94	42.89
+GO:0038128	ERBB2 signaling pathway	6	0.87	0.83	9.37	32.39
+GO:0048012	hepatocyte growth factor receptor signaling pathway	3	1.00	0.88	9.63	31.00

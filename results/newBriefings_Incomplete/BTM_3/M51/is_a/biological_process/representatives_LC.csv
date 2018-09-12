@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008152	metabolic process	1029	0.15	0.07	1.52	3.37
+GO:0023052	signaling	54	0.53	0.26	5.25	3.37
+GO:0032502	developmental process	521	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	1744	0.09	0.05	0.84	3.37
+GO:0008152	metabolic process	1029	0.15	0.07	1.52	3.37
+GO:0032502	developmental process	521	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	1744	0.09	0.05	0.84	3.37
+GO:0032501	multicellular organismal process	199	0.33	0.16	3.12	3.37
+GO:0051345	positive regulation of hydrolase activity	155	0.57	0.57	7.42	32.99
+GO:0045860	positive regulation of protein kinase activity	119	0.63	0.73	9.00	1094.92
+GO:0042592	homeostatic process	236	0.45	0.42	5.70	8.64
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	3	1.00	0.92	9.63	1344.96
+GO:0048842	positive regulation of axon extension involved in axon guidance	2	1.00	0.95	9.63	2927.41
+GO:0050789	regulation of biological process	1454	0.09	0.17	1.80	4.47
+GO:0009628	response to abiotic stimulus	139	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	466	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	456	0.39	0.32	4.70	6.14
+GO:0031103	axon regeneration	6	0.84	0.77	9.43	96.51
+GO:0051179	localization	682	0.26	0.13	2.57	3.37
+GO:0051704	multi-organism process	230	0.29	0.15	3.12	3.37
+GO:0032501	multicellular organismal process	199	0.33	0.16	3.12	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	6	1.00	0.82	9.63	33.25

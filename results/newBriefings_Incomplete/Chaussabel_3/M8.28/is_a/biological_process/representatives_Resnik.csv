@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	2819	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	1918	0.22	0.36	4.01	22.77
+GO:0048522	positive regulation of cellular process	1537	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	1440	0.28	0.26	3.74	11.45
+GO:0050896	response to stimulus	1271	0.25	0.12	2.65	3.37
+GO:0006810	transport	1257	0.28	0.34	3.95	7.46
+GO:0006464	cellular protein modification process	990	0.34	0.49	5.84	147.03
+GO:0044255	cellular lipid metabolic process	311	0.38	0.44	5.89	38.02
+GO:0006464	cellular protein modification process	990	0.34	0.49	5.84	147.03
+GO:0044255	cellular lipid metabolic process	311	0.38	0.44	5.89	38.02
+GO:0007165	signal transduction	1189	0.36	0.43	5.06	19.43
+GO:0016070	RNA metabolic process	1091	0.39	0.52	6.45	112.25
+GO:0051128	regulation of cellular component organization	801	0.30	0.40	4.57	12.04
+GO:0065008	regulation of biological quality	795	0.28	0.26	3.48	4.47
+GO:0009968	negative regulation of signal transduction	358	0.44	0.54	6.68	140.65
+GO:0009967	positive regulation of signal transduction	491	0.44	0.54	6.71	140.23
+GO:0007154	cell communication	143	0.46	0.36	5.27	7.39
+GO:0010810	regulation of cell-substrate adhesion	54	0.69	0.60	8.24	10.16
+GO:0030182	neuron differentiation	51	0.58	0.54	7.21	21.07

@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1061	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	862	0.22	0.36	4.01	22.77
+GO:0048583	regulation of response to stimulus	844	0.25	0.32	3.72	7.96
+GO:0006810	transport	672	0.28	0.34	3.95	7.46
+GO:0033554	cellular response to stress	260	0.44	0.42	6.05	25.47
+GO:0042221	response to chemical	498	0.32	0.29	4.12	6.14
+GO:0002376	immune system process	618	0.38	0.19	3.93	3.37
+GO:0009967	positive regulation of signal transduction	340	0.44	0.54	6.71	140.23
+GO:0031399	regulation of protein modification process	339	0.41	0.56	6.69	72.96
+GO:0035556	intracellular signal transduction	325	0.51	0.55	6.92	23.17
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0051704	multi-organism process	246	0.29	0.15	3.12	3.37
+GO:0019221	cytokine-mediated signaling pathway	244	0.60	0.63	7.60	26.50
+GO:0016310	phosphorylation	219	0.53	0.56	6.88	24.41
+GO:0030334	regulation of cell migration	216	0.48	0.56	7.11	36.74
+GO:0043066	negative regulation of apoptotic process	216	0.56	0.63	7.79	81.07
+GO:0008104	protein localization	214	0.40	0.40	5.07	7.46
+GO:0016477	cell migration	211	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	200	0.55	0.57	7.20	23.17
+GO:0051345	positive regulation of hydrolase activity	163	0.57	0.57	7.42	32.99
+GO:0032713	negative regulation of interleukin-4 production	2	0.93	0.79	9.52	64.97
+GO:0001819	positive regulation of cytokine production	151	0.51	0.54	6.97	44.26
+GO:0042307	positive regulation of protein import into nucleus	13	0.93	0.86	9.59	778.75
+GO:0043269	regulation of ion transport	126	0.41	0.50	6.00	14.08
+GO:0042307	positive regulation of protein import into nucleus	13	0.93	0.86	9.59	778.75
+GO:0043269	regulation of ion transport	126	0.41	0.50	6.00	14.08
+GO:0050870	positive regulation of T cell activation	101	0.63	0.69	8.78	216.07
+GO:0022408	negative regulation of cell-cell adhesion	54	0.58	0.61	7.77	52.93
+GO:0010469	regulation of signaling receptor activity	127	0.59	0.62	7.95	48.62
+GO:0051129	negative regulation of cellular component organization	126	0.42	0.50	5.99	44.00
+GO:0006875	cellular metal ion homeostasis	125	0.59	0.67	8.36	105.84
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:0006954	inflammatory response	12	0.68	0.59	8.12	11.94
+GO:0032930	positive regulation of superoxide anion generation	8	1.00	0.88	9.63	144.58
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	5	0.83	0.66	8.94	22.01

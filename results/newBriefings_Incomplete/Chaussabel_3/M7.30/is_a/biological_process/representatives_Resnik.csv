@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	4385	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	4234	0.09	0.17	1.80	4.47
+GO:0050789	regulation of biological process	4234	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	3996	0.12	0.26	2.47	7.96
+GO:0009056	catabolic process	880	0.30	0.27	3.52	6.41
+GO:0055114	oxidation-reduction process	199	0.50	0.38	5.51	6.41
+GO:0071704	organic substance metabolic process	3785	0.15	0.20	2.26	6.41
+GO:0048518	positive regulation of biological process	2362	0.21	0.30	3.05	7.96
+GO:0051179	localization	1881	0.26	0.13	2.57	3.37
+GO:0019538	protein metabolic process	1727	0.31	0.41	4.91	44.77
+GO:0006914	autophagy	116	0.67	0.59	8.40	37.75
+GO:0030163	protein catabolic process	237	0.63	0.61	8.35	135.67
+GO:0032502	developmental process	1114	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	947	0.38	0.19	3.93	3.37
+GO:0010033	response to organic substance	826	0.35	0.37	4.75	9.28
+GO:0071300	cellular response to retinoic acid	19	1.00	0.82	9.63	200.60
+GO:0006950	response to stress	1083	0.39	0.32	4.70	6.14
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	138	0.61	0.63	8.36	112.25
+GO:0016070	RNA metabolic process	1473	0.39	0.52	6.45	112.25
+GO:0043933	protein-containing complex subunit organization	863	0.43	0.41	5.44	14.95
+GO:0006996	organelle organization	902	0.39	0.39	5.17	14.95
+GO:0007186	G-protein coupled receptor signaling pathway	252	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	934	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	713	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	710	0.31	0.40	4.67	10.45
+GO:2000147	positive regulation of cell motility	212	0.58	0.61	8.05	115.84
+GO:0051726	regulation of cell cycle	498	0.41	0.45	5.89	12.04
+GO:0032501	multicellular organismal process	438	0.33	0.16	3.12	3.37
+GO:0044772	mitotic cell cycle phase transition	131	0.84	0.67	9.04	28.43
+GO:2000377	regulation of reactive oxygen species metabolic process	83	0.66	0.62	8.48	26.78
+GO:0051402	neuron apoptotic process	23	0.83	0.70	9.02	23.44

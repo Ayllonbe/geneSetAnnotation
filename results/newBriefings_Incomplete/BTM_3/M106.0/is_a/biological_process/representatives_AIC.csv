@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	58	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	43	0.26	0.38	4.09	10.74
+GO:0051171	regulation of nitrogen compound metabolic process	44	0.25	0.38	4.03	10.74
+GO:0080090	regulation of primary metabolic process	44	0.24	0.37	3.95	10.74
+GO:0044237	cellular metabolic process	42	0.16	0.21	2.71	13.80
+GO:0016043	cellular component organization	41	0.28	0.26	3.74	11.45
+GO:0032502	developmental process	28	0.22	0.11	1.89	3.37
+GO:1903047	mitotic cell cycle process	26	0.50	0.45	5.87	11.32
+GO:0009966	regulation of signal transduction	22	0.33	0.45	5.35	37.59
+GO:0050658	RNA transport	18	0.64	0.67	8.39	40.09
+GO:0006886	intracellular protein transport	14	0.55	0.65	8.12	90.55
+GO:0010564	regulation of cell cycle process	14	0.42	0.50	6.22	14.24
+GO:0034613	cellular protein localization	14	0.45	0.48	6.33	26.83
+GO:0044093	positive regulation of molecular function	11	0.43	0.41	5.23	6.77
+GO:1903827	regulation of cellular protein localization	4	0.48	0.53	6.86	25.72
+GO:0050830	defense response to Gram-positive bacterium	2	1.00	0.85	9.63	71.44
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07
+GO:0043407	negative regulation of MAP kinase activity	1	0.81	0.85	9.54	2610.18
+GO:0045540	regulation of cholesterol biosynthetic process	1	0.89	0.84	9.49	116.99
+GO:0048246	macrophage chemotaxis	1	1.00	0.88	9.63	95.92
+GO:0034198	cellular response to amino acid starvation	1	0.87	0.78	9.45	115.90

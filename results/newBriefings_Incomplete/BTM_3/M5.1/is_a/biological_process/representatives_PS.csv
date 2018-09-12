@@ -1,0 +1,84 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	496	0.24	0.37	3.90	23.85
+GO:0060255	regulation of macromolecule metabolic process	435	0.26	0.38	4.09	10.74
+GO:0048519	negative regulation of biological process	407	0.21	0.30	3.07	7.96
+GO:0007166	cell surface receptor signaling pathway	335	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	311	0.33	0.45	5.35	37.59
+GO:0009967	positive regulation of signal transduction	187	0.44	0.54	6.71	140.23
+GO:0050778	positive regulation of immune response	134	0.46	0.52	6.76	78.39
+GO:0002684	positive regulation of immune system process	197	0.41	0.45	5.71	22.61
+GO:0097338	response to clozapine	2	1.00	0.79	9.63	76.05
+GO:1901700	response to oxygen-containing compound	191	0.39	0.39	5.14	9.28
+GO:0071310	cellular response to organic substance	180	0.44	0.47	5.95	41.66
+GO:0035556	intracellular signal transduction	173	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	149	0.45	0.55	6.60	16.23
+GO:0007186	G-protein coupled receptor signaling pathway	148	0.55	0.57	7.20	23.17
+GO:0065003	protein-containing complex assembly	142	0.45	0.48	6.06	36.47
+GO:0042327	positive regulation of phosphorylation	124	0.56	0.66	8.02	180.93
+GO:0006469	negative regulation of protein kinase activity	29	0.68	0.76	9.22	1097.06
+GO:0006952	defense response	127	0.56	0.48	6.67	9.54
+GO:0043312	neutrophil degranulation	126	1.00	0.90	9.63	132.80
+GO:0006470	protein dephosphorylation	11	0.76	0.73	9.22	177.17
+GO:0016310	phosphorylation	104	0.53	0.56	6.88	24.41
+GO:0050900	leukocyte migration	104	0.60	0.59	8.02	26.94
+GO:0030887	positive regulation of myeloid dendritic cell activation	1	1.00	0.85	9.63	126.19
+GO:0051249	regulation of lymphocyte activation	103	0.48	0.56	7.10	27.11
+GO:0006875	cellular metal ion homeostasis	89	0.59	0.67	8.36	105.84
+GO:0015031	protein transport	88	0.48	0.59	6.99	54.46
+GO:0030335	positive regulation of cell migration	85	0.58	0.64	8.22	157.26
+GO:0051345	positive regulation of hydrolase activity	80	0.57	0.57	7.42	32.99
+GO:0060326	cell chemotaxis	75	0.64	0.61	8.15	30.29
+GO:0050706	regulation of interleukin-1 beta secretion	9	0.89	0.86	9.53	155.13
+GO:0001819	positive regulation of cytokine production	74	0.51	0.54	6.97	44.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	65	0.58	0.64	7.56	28.11
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	42	0.52	0.58	7.50	27.23
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	36	0.71	0.71	8.71	27.67
+GO:0097190	apoptotic signaling pathway	35	0.70	0.64	8.53	23.17
+GO:0051260	protein homooligomerization	35	0.89	0.77	9.41	42.03
+GO:0019722	calcium-mediated signaling	32	0.72	0.71	8.71	27.81
+GO:0050852	T cell receptor signaling pathway	31	1.00	0.92	9.63	219.43
+GO:0030217	T cell differentiation	25	0.66	0.65	8.68	65.05
+GO:0042100	B cell proliferation	18	0.87	0.76	9.39	50.60
+GO:0050853	B cell receptor signaling pathway	18	0.93	0.88	9.58	219.43
+GO:0030260	entry into host cell	18	0.74	0.69	8.68	26.99
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	17	1.00	0.79	9.63	42.20
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	16	0.63	0.67	8.36	49.28
+GO:0038095	Fc-epsilon receptor signaling pathway	14	0.93	0.84	9.55	78.48
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	13	1.00	0.92	9.63	384.64
+GO:0060333	interferon-gamma-mediated signaling pathway	12	1.00	0.85	9.63	30.19
+GO:0072678	T cell migration	11	0.71	0.71	8.88	30.24
+GO:0002244	hematopoietic progenitor cell differentiation	11	0.81	0.66	8.94	21.07
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	10	1.00	0.93	9.63	628.11
+GO:0032507	maintenance of protein location in cell	7	0.68	0.63	8.41	43.86
+GO:0051289	protein homotetramerization	7	1.00	0.85	9.63	85.45
+GO:0001954	positive regulation of cell-matrix adhesion	7	0.87	0.76	9.34	50.26
+GO:0003091	renal water homeostasis	6	1.00	0.85	9.63	57.14
+GO:0035722	interleukin-12-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0019934	cGMP-mediated signaling	4	0.93	0.84	9.52	28.51
+GO:0035723	interleukin-15-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0097029	mature conventional dendritic cell differentiation	3	1.00	0.82	9.63	70.63
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0001766	membrane raft polarization	3	0.93	0.79	9.54	30.90
+GO:2000010	positive regulation of protein localization to cell surface	3	1.00	0.85	9.63	73.71
+GO:0048864	stem cell development	2	0.84	0.67	9.34	32.15
+GO:0034380	high-density lipoprotein particle assembly	2	1.00	0.85	9.63	106.00
+GO:0001865	NK T cell differentiation	2	1.00	0.88	9.63	92.19
+GO:0038110	interleukin-2-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0038114	interleukin-21-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0002230	positive regulation of defense response to virus by host	2	1.00	0.88	9.63	73.08
+GO:0016358	dendrite development	2	0.83	0.74	9.26	32.63
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
+GO:0002408	myeloid dendritic cell chemotaxis	2	0.93	0.84	9.56	125.06
+GO:0002885	positive regulation of hypersensitivity	2	0.80	0.81	9.44	636.62
+GO:0045657	positive regulation of monocyte differentiation	2	1.00	0.90	9.63	840.38
+GO:0038155	interleukin-23-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0097022	lymphocyte migration into lymph node	1	1.00	0.88	9.63	30.24
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0038111	interleukin-7-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0038115	chemokine (C-C motif) ligand 19 signaling pathway	1	0.93	0.84	9.52	32.49
+GO:0038116	chemokine (C-C motif) ligand 21 signaling pathway	1	0.93	0.84	9.52	32.49
+GO:0038113	interleukin-9-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
+GO:0035771	interleukin-4-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0071800	podosome assembly	1	1.00	0.79	9.63	81.13

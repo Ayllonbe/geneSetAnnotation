@@ -1,0 +1,95 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	560	0.36	0.43	5.06	19.43
+GO:0016043	cellular component organization	432	0.28	0.26	3.74	11.45
+GO:0051716	cellular response to stimulus	319	0.35	0.30	4.36	13.53
+GO:0048869	cellular developmental process	282	0.32	0.29	4.16	13.85
+GO:2000026	regulation of multicellular organismal development	234	0.29	0.39	4.73	23.09
+GO:0006464	cellular protein modification process	217	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	204	0.44	0.47	5.95	41.66
+GO:0065003	protein-containing complex assembly	162	0.45	0.48	6.06	36.47
+GO:0008284	positive regulation of cell proliferation	158	0.56	0.57	7.27	43.45
+GO:0001934	positive regulation of protein phosphorylation	143	0.58	0.69	8.60	663.11
+GO:0006955	immune response	141	0.54	0.40	6.57	12.45
+GO:0051241	negative regulation of multicellular organismal process	138	0.35	0.42	4.99	23.69
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80
+GO:0032774	RNA biosynthetic process	136	0.53	0.62	8.04	473.34
+GO:0050900	leukocyte migration	119	0.60	0.59	8.02	26.94
+GO:0043066	negative regulation of apoptotic process	118	0.56	0.63	7.79	81.07
+GO:0045597	positive regulation of cell differentiation	114	0.45	0.51	6.57	82.53
+GO:0045944	positive regulation of transcription by RNA polymerase II	109	0.55	0.71	8.36	1463.86
+GO:0008285	negative regulation of cell proliferation	93	0.56	0.57	7.31	43.61
+GO:0045892	negative regulation of transcription, DNA-templated	81	0.56	0.69	8.52	1581.26
+GO:1903706	regulation of hemopoiesis	80	0.50	0.54	7.23	38.17
+GO:0002521	leukocyte differentiation	74	0.58	0.54	7.41	21.07
+GO:0048513	animal organ development	66	0.50	0.45	5.88	11.73
+GO:0050851	antigen receptor-mediated signaling pathway	63	0.87	0.83	9.53	218.74
+GO:0045786	negative regulation of cell cycle	61	0.51	0.54	7.10	42.35
+GO:0009615	response to virus	48	0.74	0.66	8.80	27.27
+GO:0071222	cellular response to lipopolysaccharide	47	1.00	0.82	9.63	238.00
+GO:0022900	electron transport chain	40	0.71	0.61	8.48	29.76
+GO:2000146	negative regulation of cell motility	39	0.58	0.61	8.02	116.39
+GO:0010975	regulation of neuron projection development	37	0.57	0.66	8.40	84.29
+GO:0050715	positive regulation of cytokine secretion	32	0.69	0.74	9.07	549.48
+GO:0042035	regulation of cytokine biosynthetic process	32	0.53	0.59	7.80	134.50
+GO:0050804	modulation of chemical synaptic transmission	31	0.52	0.58	7.24	27.32
+GO:0048608	reproductive structure development	30	0.61	0.50	7.37	31.35
+GO:0051897	positive regulation of protein kinase B signaling	29	1.00	0.88	9.63	238.42
+GO:0051099	positive regulation of binding	24	0.61	0.55	7.48	18.40
+GO:0043523	regulation of neuron apoptotic process	24	0.70	0.70	8.76	34.54
+GO:0045666	positive regulation of neuron differentiation	22	0.62	0.68	8.71	337.32
+GO:0000904	cell morphogenesis involved in differentiation	21	0.65	0.62	8.19	44.36
+GO:0045582	positive regulation of T cell differentiation	20	0.70	0.75	9.32	861.16
+GO:0006518	peptide metabolic process	20	0.56	0.57	7.65	56.97
+GO:0042100	B cell proliferation	18	0.87	0.76	9.39	50.60
+GO:0050663	cytokine secretion	16	0.61	0.70	8.23	133.33
+GO:0050728	negative regulation of inflammatory response	16	0.67	0.69	8.71	126.18
+GO:2001257	regulation of cation channel activity	14	0.60	0.68	8.36	101.44
+GO:0010595	positive regulation of endothelial cell migration	14	0.83	0.81	9.49	298.63
+GO:0045471	response to ethanol	13	0.93	0.76	9.52	69.73
+GO:0030890	positive regulation of B cell proliferation	13	1.00	0.90	9.63	506.16
+GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation	12	0.69	0.76	9.29	204.09
+GO:0034644	cellular response to UV	12	0.80	0.75	9.22	66.19
+GO:0001701	in utero embryonic development	11	1.00	0.85	9.63	22.50
+GO:0071277	cellular response to calcium ion	10	1.00	0.82	9.63	78.50
+GO:0032753	positive regulation of interleukin-4 production	9	0.93	0.79	9.52	64.95
+GO:0030509	BMP signaling pathway	9	0.71	0.79	9.13	282.55
+GO:0045599	negative regulation of fat cell differentiation	8	0.93	0.79	9.54	114.62
+GO:0060562	epithelial tube morphogenesis	8	0.63	0.61	7.92	30.01
+GO:0001782	B cell homeostasis	7	0.93	0.82	9.51	22.00
+GO:0046928	regulation of neurotransmitter secretion	7	0.65	0.68	8.82	103.11
+GO:0030501	positive regulation of bone mineralization	5	0.93	0.82	9.56	171.86
+GO:0040036	regulation of fibroblast growth factor receptor signaling pathway	5	0.79	0.72	9.26	67.94
+GO:0060536	cartilage morphogenesis	5	0.84	0.67	9.16	27.73
+GO:0002634	regulation of germinal center formation	5	0.89	0.80	9.45	44.48
+GO:0035066	positive regulation of histone acetylation	4	0.81	0.84	9.50	1302.92
+GO:0031060	regulation of histone methylation	4	0.64	0.72	9.03	102.10
+GO:0045879	negative regulation of smoothened signaling pathway	3	0.87	0.78	9.45	188.11
+GO:2000727	positive regulation of cardiac muscle cell differentiation	3	0.84	0.82	9.49	667.95
+GO:2000553	positive regulation of T-helper 2 cell cytokine production	3	1.00	0.92	9.63	874.88
+GO:0060045	positive regulation of cardiac muscle cell proliferation	3	1.00	0.92	9.63	720.41
+GO:0048701	embryonic cranial skeleton morphogenesis	3	1.00	0.82	9.63	46.18
+GO:0072182	regulation of nephron tubule epithelial cell differentiation	3	0.81	0.76	9.39	88.99
+GO:0046449	creatinine metabolic process	2	0.89	0.77	9.55	104.72
+GO:0032461	positive regulation of protein oligomerization	2	0.87	0.78	9.55	141.07
+GO:0035984	cellular response to trichostatin A	2	1.00	0.82	9.63	367.26
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0010918	positive regulation of mitochondrial membrane potential	2	1.00	0.79	9.63	24.66
+GO:0061290	canonical Wnt signaling pathway involved in metanephric kidney development	2	0.93	0.86	9.57	106.74
+GO:2000111	positive regulation of macrophage apoptotic process	2	1.00	0.90	9.63	256.05
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0060297	regulation of sarcomere organization	1	0.89	0.84	9.53	165.47
+GO:0071599	otic vesicle development	1	1.00	0.79	9.63	62.40
+GO:2000611	positive regulation of thyroid hormone generation	1	1.00	0.82	9.63	244.57
+GO:2000734	negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation	1	1.00	0.90	9.63	682.76
+GO:2000683	regulation of cellular response to X-ray	1	0.89	0.70	9.29	23.69
+GO:2001016	positive regulation of skeletal muscle cell differentiation	1	0.87	0.83	9.54	376.30
+GO:2000607	negative regulation of cell proliferation involved in mesonephros development	1	0.93	0.84	9.58	385.18
+GO:0045064	T-helper 2 cell differentiation	1	1.00	0.93	9.63	473.70
+GO:0010694	positive regulation of alkaline phosphatase activity	1	1.00	0.92	9.63	315.72
+GO:2000703	negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation	1	1.00	0.90	9.63	864.33
+GO:1901536	negative regulation of DNA demethylation	1	1.00	0.88	9.63	378.93
+GO:0035898	parathyroid hormone secretion	1	1.00	0.90	9.63	52.62
+GO:0001806	type IV hypersensitivity	1	1.00	0.88	9.63	76.15
+GO:0042421	norepinephrine biosynthetic process	1	1.00	0.88	9.63	472.61
+GO:0072107	positive regulation of ureteric bud formation	1	0.89	0.82	9.54	494.47

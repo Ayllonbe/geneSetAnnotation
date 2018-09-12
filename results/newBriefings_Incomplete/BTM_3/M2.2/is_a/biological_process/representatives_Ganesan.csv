@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1175	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	517	0.23	0.31	3.63	19.40
+GO:0009059	macromolecule biosynthetic process	256	0.43	0.46	5.85	36.03
+GO:0009966	regulation of signal transduction	476	0.33	0.45	5.35	37.59
+GO:0050776	regulation of immune response	268	0.38	0.44	5.64	22.45
+GO:0016043	cellular component organization	555	0.28	0.26	3.74	11.45
+GO:0050793	regulation of developmental process	400	0.26	0.33	3.95	7.96
+GO:0030334	regulation of cell migration	185	0.48	0.56	7.11	36.74
+GO:0050793	regulation of developmental process	400	0.26	0.33	3.95	7.96
+GO:0030334	regulation of cell migration	185	0.48	0.56	7.11	36.74
+GO:0010033	response to organic substance	375	0.35	0.37	4.75	9.28
+GO:0006357	regulation of transcription by RNA polymerase II	251	0.44	0.63	7.11	248.57
+GO:0048856	anatomical structure development	195	0.33	0.29	3.70	6.46
+GO:0019221	cytokine-mediated signaling pathway	185	0.60	0.63	7.60	26.50
+GO:0050801	ion homeostasis	146	0.50	0.54	6.88	13.14
+GO:0050900	leukocyte migration	138	0.60	0.59	8.02	26.94
+GO:0001666	response to hypoxia	55	0.81	0.70	9.12	21.16
+GO:0007229	integrin-mediated signaling pathway	30	1.00	0.82	9.63	26.50
+GO:0001649	osteoblast differentiation	25	1.00	0.75	9.63	21.07
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	22	0.79	0.77	9.12	28.36
+GO:0007043	cell-cell junction assembly	19	0.75	0.67	8.82	53.94
+GO:0007266	Rho protein signal transduction	18	0.93	0.84	9.52	29.61
+GO:0007179	transforming growth factor beta receptor signaling pathway	18	0.76	0.75	9.05	29.90
+GO:0007517	muscle organ development	16	0.78	0.64	8.75	27.68
+GO:0001569	branching involved in blood vessel morphogenesis	8	1.00	0.85	9.63	53.50
+GO:0007202	activation of phospholipase C activity	7	1.00	0.90	9.63	83.74
+GO:0070208	protein heterotrimerization	5	1.00	0.85	9.63	85.45
+GO:0048048	embryonic eye morphogenesis	5	0.93	0.79	9.51	49.04
+GO:1904659	glucose transmembrane transport	5	0.84	0.82	9.37	37.51
+GO:0014032	neural crest cell development	4	0.89	0.74	9.51	65.00
+GO:0048050	post-embryonic eye morphogenesis	3	0.93	0.79	9.51	48.05
+GO:0086100	endothelin receptor signaling pathway	2	0.93	0.79	9.49	26.98
+GO:0014824	artery smooth muscle contraction	2	0.93	0.88	9.58	71.13
+GO:0021957	corticospinal tract morphogenesis	1	1.00	0.93	9.63	69.80

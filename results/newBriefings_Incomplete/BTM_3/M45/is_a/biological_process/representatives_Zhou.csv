@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2025	0.00	0.00	0.00	0.00
+GO:2000406	positive regulation of T cell migration	14	0.80	0.81	9.46	351.78
+GO:1903238	positive regulation of leukocyte tethering or rolling	4	1.00	0.92	9.63	440.95
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	793	0.25	0.12	2.65	3.37
+GO:0051641	cellular localization	227	0.37	0.31	4.44	5.67
+GO:0006810	transport	647	0.28	0.34	3.95	7.46
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37

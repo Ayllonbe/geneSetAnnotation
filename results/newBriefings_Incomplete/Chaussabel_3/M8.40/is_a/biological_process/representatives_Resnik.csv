@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008104	protein localization	456	0.40	0.40	5.07	7.46
+GO:0006810	transport	915	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	942	0.25	0.12	2.65	3.37
+GO:0019538	protein metabolic process	927	0.31	0.41	4.91	44.77
+GO:0007165	signal transduction	906	0.36	0.43	5.06	19.43
+GO:0045948	positive regulation of translational initiation	9	0.76	0.78	9.39	1253.37
+GO:0051252	regulation of RNA metabolic process	891	0.37	0.51	6.06	70.58
+GO:0045948	positive regulation of translational initiation	9	0.76	0.78	9.39	1253.37
+GO:0051252	regulation of RNA metabolic process	891	0.37	0.51	6.06	70.58
+GO:0016070	RNA metabolic process	768	0.39	0.52	6.45	112.25
+GO:0044092	negative regulation of molecular function	269	0.43	0.41	5.21	6.77
+GO:0051186	cofactor metabolic process	128	0.41	0.40	5.49	17.52
+GO:0016311	dephosphorylation	72	0.68	0.63	8.33	24.41
+GO:0048666	neuron development	25	0.67	0.58	8.09	32.15
+GO:0048814	regulation of dendrite morphogenesis	19	0.83	0.83	9.53	153.51
+GO:0010961	cellular magnesium ion homeostasis	2	1.00	0.90	9.63	287.08
+GO:0034128	negative regulation of MyD88-independent toll-like receptor signaling pathway	1	1.00	0.90	9.63	354.71

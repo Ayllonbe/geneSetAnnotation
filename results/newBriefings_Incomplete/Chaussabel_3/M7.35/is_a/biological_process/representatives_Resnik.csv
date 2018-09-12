@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032502	developmental process	1081	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	5335	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	4132	0.09	0.17	1.80	4.47
+GO:0050789	regulation of biological process	4132	0.09	0.17	1.80	4.47
+GO:0019222	regulation of metabolic process	2676	0.21	0.30	3.39	7.96
+GO:0048519	negative regulation of biological process	2073	0.21	0.30	3.07	7.96
+GO:0016043	cellular component organization	1856	0.28	0.26	3.74	11.45
+GO:0051179	localization	1849	0.26	0.13	2.57	3.37
+GO:0046209	nitric oxide metabolic process	8	0.89	0.74	9.47	82.70
+GO:0010033	response to organic substance	812	0.35	0.37	4.75	9.28
+GO:0006950	response to stress	1061	0.39	0.32	4.70	6.14
+GO:0016070	RNA metabolic process	1446	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	1294	0.34	0.49	5.84	147.03
+GO:0007186	G-protein coupled receptor signaling pathway	244	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	905	0.43	0.51	5.91	23.17
+GO:0051128	regulation of cellular component organization	1027	0.30	0.40	4.57	12.04
+GO:0002376	immune system process	918	0.38	0.19	3.93	3.37
+GO:0006796	phosphate-containing compound metabolic process	853	0.36	0.43	5.28	20.85
+GO:0042127	regulation of cell proliferation	585	0.45	0.48	6.03	12.04
+GO:0005975	carbohydrate metabolic process	146	0.38	0.39	5.46	18.42
+GO:0019752	carboxylic acid metabolic process	397	0.32	0.45	5.31	42.50
+GO:0051726	regulation of cell cycle	485	0.41	0.45	5.89	12.04
+GO:0022409	positive regulation of cell-cell adhesion	128	0.59	0.59	7.66	36.23
+GO:0022412	cellular process involved in reproduction in multicellular organism	99	0.53	0.39	6.04	15.42
+GO:0007268	chemical synaptic transmission	56	0.74	0.72	8.66	23.17
+GO:0046718	viral entry into host cell	40	0.77	0.73	8.94	28.37

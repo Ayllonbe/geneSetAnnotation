@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	350	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	230	0.22	0.36	4.01	22.77
+GO:0032879	regulation of localization	106	0.27	0.33	4.05	7.96
+GO:0048519	negative regulation of biological process	184	0.21	0.30	3.07	7.96
+GO:0090304	nucleic acid metabolic process	169	0.35	0.46	5.97	111.15
+GO:0019538	protein metabolic process	147	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	146	0.40	0.60	6.84	245.35
+GO:0051128	regulation of cellular component organization	110	0.30	0.40	4.57	12.04
+GO:0050793	regulation of developmental process	87	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	367	0.12	0.26	2.47	7.96
+GO:0051239	regulation of multicellular organismal process	96	0.23	0.32	3.68	7.96
+GO:0022607	cellular component assembly	93	0.39	0.39	5.06	14.95
+GO:0035556	intracellular signal transduction	79	0.51	0.55	6.92	23.17
+GO:0007166	cell surface receptor signaling pathway	75	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	70	0.38	0.19	3.93	3.37
+GO:1902531	regulation of intracellular signal transduction	61	0.45	0.55	6.77	41.85
+GO:0030511	positive regulation of transforming growth factor beta receptor signaling pathway	2	1.00	0.88	9.63	345.46
+GO:0051726	regulation of cell cycle	52	0.41	0.45	5.89	12.04
+GO:0048856	anatomical structure development	50	0.33	0.29	3.70	6.46
+GO:0019752	carboxylic acid metabolic process	32	0.32	0.45	5.31	42.50
+GO:0005996	monosaccharide metabolic process	7	0.51	0.51	7.00	29.98
+GO:0006812	cation transport	27	0.45	0.51	6.21	12.09
+GO:0043065	positive regulation of apoptotic process	21	0.56	0.63	7.81	80.91
+GO:0006888	ER to Golgi vesicle-mediated transport	16	1.00	0.82	9.63	49.13
+GO:0045785	positive regulation of cell adhesion	12	0.58	0.54	7.23	21.97
+GO:0022904	respiratory electron transport chain	11	0.74	0.66	8.68	30.45
+GO:0046718	viral entry into host cell	7	0.77	0.73	8.94	28.37
+GO:0045070	positive regulation of viral genome replication	2	0.89	0.82	9.47	85.31

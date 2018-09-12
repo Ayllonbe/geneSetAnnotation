@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4005	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	2715	0.09	0.17	1.80	4.47
+GO:0051138	positive regulation of NK T cell differentiation	1	1.00	0.93	9.63	1455.77
+GO:0065009	regulation of molecular function	792	0.33	0.29	4.10	4.47
+GO:0048133	male germ-line stem cell asymmetric division	2	1.00	0.82	9.63	57.40
+GO:0008152	metabolic process	2527	0.15	0.07	1.52	3.37
+GO:0048208	COPII vesicle coating	27	1.00	0.82	9.63	62.44
+GO:0051234	establishment of localization	1138	0.28	0.26	3.49	5.67
+GO:0008104	protein localization	544	0.40	0.40	5.07	7.46
+GO:0030099	myeloid cell differentiation	62	0.69	0.60	8.15	21.07
+GO:0035116	embryonic hindlimb morphogenesis	6	1.00	0.82	9.63	58.81
+GO:0060441	epithelial tube branching involved in lung morphogenesis	6	0.93	0.82	9.53	53.50
+GO:0060437	lung growth	2	1.00	0.75	9.63	24.19
+GO:0060449	bud elongation involved in lung branching	2	1.00	0.82	9.63	21.22

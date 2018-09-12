@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0071704	organic substance metabolic process	714	0.15	0.20	2.26	6.41
+GO:0051716	cellular response to stimulus	358	0.35	0.30	4.36	13.53
+GO:0010033	response to organic substance	326	0.35	0.37	4.75	9.28
+GO:0006355	regulation of transcription, DNA-templated	307	0.40	0.60	6.84	245.35
+GO:0051128	regulation of cellular component organization	290	0.30	0.40	4.57	12.04
+GO:0044093	positive regulation of molecular function	269	0.43	0.41	5.23	6.77
+GO:0042127	regulation of cell proliferation	266	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	221	0.51	0.55	6.92	23.17
+GO:0016070	RNA metabolic process	186	0.39	0.52	6.45	112.25
+GO:0051704	multi-organism process	169	0.29	0.15	3.12	3.37
+GO:0045893	positive regulation of transcription, DNA-templated	169	0.52	0.67	8.14	1208.12
+GO:0009968	negative regulation of signal transduction	159	0.44	0.54	6.68	140.65
+GO:0008104	protein localization	144	0.40	0.40	5.07	7.46
+GO:0043066	negative regulation of apoptotic process	142	0.56	0.63	7.79	81.07
+GO:0006351	transcription, DNA-templated	137	0.57	0.68	8.45	581.39
+GO:0051726	regulation of cell cycle	131	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	130	0.40	0.32	4.60	7.39
+GO:0009653	anatomical structure morphogenesis	117	0.36	0.31	4.09	6.46
+GO:0051272	positive regulation of cellular component movement	115	0.55	0.56	7.38	52.23
+GO:0006259	DNA metabolic process	83	0.45	0.55	7.12	145.26
+GO:0000122	negative regulation of transcription by RNA polymerase II	77	0.61	0.74	8.79	1836.95
+GO:0051276	chromosome organization	74	0.55	0.52	6.96	18.35
+GO:0051052	regulation of DNA metabolic process	62	0.47	0.56	7.17	70.58
+GO:0055086	nucleobase-containing small molecule metabolic process	61	0.38	0.48	6.63	107.58
+GO:0051259	protein complex oligomerization	56	0.78	0.68	9.09	40.42
+GO:0006325	chromatin organization	47	0.49	0.44	6.23	14.95
+GO:0000226	microtubule cytoskeleton organization	32	0.58	0.58	7.66	30.31
+GO:0006732	coenzyme metabolic process	26	0.46	0.48	6.18	20.70
+GO:0006367	transcription initiation from RNA polymerase II promoter	23	1.00	0.90	9.63	477.15
+GO:0048167	regulation of synaptic plasticity	19	0.67	0.69	8.57	39.26
+GO:0008584	male gonad development	18	1.00	0.79	9.63	50.96
+GO:0060429	epithelium development	15	0.55	0.53	6.89	15.06
+GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
+GO:1901796	regulation of signal transduction by p53 class mediator	11	0.72	0.71	9.12	45.07
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
+GO:0046632	alpha-beta T cell differentiation	9	0.71	0.71	9.05	90.59
+GO:0035264	multicellular organism growth	8	1.00	0.70	9.63	22.58
+GO:2000649	regulation of sodium ion transmembrane transporter activity	7	0.71	0.75	9.11	122.59
+GO:0000578	embryonic axis specification	4	0.79	0.64	8.75	24.59
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0051782	negative regulation of cell division	3	0.68	0.63	8.40	42.45
+GO:0048012	hepatocyte growth factor receptor signaling pathway	3	1.00	0.88	9.63	31.00
+GO:0042921	glucocorticoid receptor signaling pathway	1	1.00	0.90	9.63	54.70
+GO:0042754	negative regulation of circadian rhythm	1	0.83	0.66	9.04	21.65
+GO:0007224	smoothened signaling pathway	1	0.78	0.71	8.87	26.50

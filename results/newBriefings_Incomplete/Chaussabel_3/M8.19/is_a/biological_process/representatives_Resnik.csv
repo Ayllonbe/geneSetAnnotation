@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4976	0.00	0.00	0.00	0.00
+GO:1901564	organonitrogen compound metabolic process	1761	0.23	0.31	3.63	19.40
+GO:0010468	regulation of gene expression	1502	0.35	0.46	5.09	13.73
+GO:0051179	localization	1493	0.26	0.13	2.57	3.37
+GO:0065008	regulation of biological quality	859	0.28	0.26	3.48	4.47
+GO:0032879	regulation of localization	824	0.27	0.33	4.05	7.96
+GO:0051247	positive regulation of protein metabolic process	562	0.44	0.54	6.72	129.04
+GO:0009892	negative regulation of metabolic process	968	0.32	0.41	4.73	22.63
+GO:0016070	RNA metabolic process	1174	0.39	0.52	6.45	112.25
+GO:0065003	protein-containing complex assembly	572	0.45	0.48	6.06	36.47
+GO:0006996	organelle organization	737	0.39	0.39	5.17	14.95
+GO:0006464	cellular protein modification process	1065	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	979	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	963	0.33	0.29	4.10	4.47
+GO:0065008	regulation of biological quality	859	0.28	0.26	3.48	4.47
+GO:0051239	regulation of multicellular organismal process	845	0.23	0.32	3.68	7.96
+GO:0002376	immune system process	714	0.38	0.19	3.93	3.37
+GO:0033554	cellular response to stress	583	0.44	0.42	6.05	25.47
+GO:0032870	cellular response to hormone stimulus	99	0.60	0.59	7.93	80.94
+GO:0035556	intracellular signal transduction	562	0.51	0.55	6.92	23.17
+GO:0042127	regulation of cell proliferation	461	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	407	0.53	0.56	6.88	24.41
+GO:0032501	multicellular organismal process	366	0.33	0.16	3.12	3.37
+GO:0050794	regulation of cellular process	3198	0.12	0.26	2.47	7.96
+GO:0044087	regulation of cellular component biogenesis	325	0.41	0.40	5.33	7.96
+GO:0001558	regulation of cell growth	140	0.58	0.58	7.66	26.25
+GO:0005975	carbohydrate metabolic process	121	0.38	0.39	5.46	18.42
+GO:0006914	autophagy	92	0.67	0.59	8.40	37.75
+GO:0022904	respiratory electron transport chain	46	0.74	0.66	8.68	30.45
+GO:0002064	epithelial cell development	34	0.63	0.57	7.95	32.15
+GO:0007224	smoothened signaling pathway	19	0.78	0.71	8.87	26.50
+GO:1900034	regulation of cellular response to heat	15	0.87	0.76	9.27	29.43
+GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
+GO:2000048	negative regulation of cell-cell adhesion mediated by cadherin	1	1.00	0.85	9.63	69.05

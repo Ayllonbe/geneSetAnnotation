@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6379	0.00	0.00	0.00	0.00
+GO:0051345	positive regulation of hydrolase activity	343	0.57	0.57	7.42	32.99
+GO:0048878	chemical homeostasis	321	0.48	0.49	6.42	10.43
+GO:2000601	positive regulation of Arp2/3 complex-mediated actin nucleation	5	1.00	0.96	9.63	774.26
+GO:0050789	regulation of biological process	4400	0.09	0.17	1.80	4.47
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	13	0.87	0.83	9.53	431.32
+GO:0008104	protein localization	867	0.40	0.40	5.07	7.46
+GO:0006810	transport	1725	0.28	0.34	3.95	7.46
+GO:0007610	behavior	94	0.48	0.24	4.72	3.37

@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1219	0.09	0.05	0.84	3.37
+GO:0043433	negative regulation of DNA binding transcription factor activity	19	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	36	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	996	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	369	0.33	0.29	4.10	4.47
+GO:0051447	negative regulation of meiotic cell cycle	5	0.67	0.66	8.66	99.48
+GO:0050896	response to stimulus	525	0.25	0.12	2.65	3.37
+GO:0051641	cellular localization	150	0.37	0.31	4.44	5.67
+GO:0032501	multicellular organismal process	131	0.33	0.16	3.12	3.37
+GO:0060326	cell chemotaxis	82	0.64	0.61	8.15	30.29
+GO:0007265	Ras protein signal transduction	29	0.76	0.73	8.94	27.53
+GO:0000082	G1/S transition of mitotic cell cycle	28	1.00	0.79	9.63	42.75
+GO:0002548	monocyte chemotaxis	20	1.00	0.85	9.63	125.46
+GO:0046718	viral entry into host cell	19	0.77	0.73	8.94	28.37
+GO:0007179	transforming growth factor beta receptor signaling pathway	14	0.76	0.75	9.05	29.90
+GO:0007517	muscle organ development	12	0.78	0.64	8.75	27.68
+GO:0031100	animal organ regeneration	12	0.89	0.70	9.29	28.09
+GO:0060070	canonical Wnt signaling pathway	11	0.67	0.71	8.39	31.42
+GO:0000086	G2/M transition of mitotic cell cycle	11	1.00	0.79	9.63	43.45
+GO:0030316	osteoclast differentiation	10	0.93	0.79	9.51	47.07
+GO:0030216	keratinocyte differentiation	6	0.89	0.77	9.38	25.59
+GO:0007274	neuromuscular synaptic transmission	4	0.93	0.84	9.52	25.74
+GO:0043534	blood vessel endothelial cell migration	4	0.87	0.81	9.34	26.07
+GO:0060716	labyrinthine layer blood vessel development	3	1.00	0.79	9.63	85.13
+GO:0048752	semicircular canal morphogenesis	1	1.00	0.75	9.63	28.50
+GO:0070091	glucagon secretion	1	1.00	0.90	9.63	103.34
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60

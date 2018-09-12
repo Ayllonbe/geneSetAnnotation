@@ -1,0 +1,80 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3011	0.12	0.26	2.47	7.96
+GO:0050777	negative regulation of immune response	50	0.52	0.55	7.29	78.83
+GO:0050794	regulation of cellular process	3011	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	2052	0.21	0.30	3.39	7.96
+GO:0019538	protein metabolic process	1287	0.31	0.41	4.91	44.77
+GO:0006351	transcription, DNA-templated	767	0.57	0.68	8.45	581.39
+GO:0048522	positive regulation of cellular process	1542	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	1417	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	1094	0.39	0.52	6.45	112.25
+GO:0006796	phosphate-containing compound metabolic process	657	0.36	0.43	5.28	20.85
+GO:0010033	response to organic substance	599	0.35	0.37	4.75	9.28
+GO:0033554	cellular response to stress	547	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	533	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	485	0.34	0.42	5.25	23.33
+GO:0015031	protein transport	481	0.48	0.59	6.99	54.46
+GO:0042981	regulation of apoptotic process	458	0.45	0.55	6.60	16.23
+GO:0033043	regulation of organelle organization	452	0.36	0.47	5.49	15.89
+GO:0030154	cell differentiation	405	0.39	0.39	5.18	16.68
+GO:0051726	regulation of cell cycle	379	0.41	0.45	5.89	12.04
+GO:0002252	immune effector process	344	0.52	0.39	5.95	6.31
+GO:0070647	protein modification by small protein conjugation or removal	343	0.61	0.66	8.44	151.15
+GO:0034622	cellular protein-containing complex assembly	296	0.48	0.53	6.52	40.42
+GO:0007010	cytoskeleton organization	251	0.52	0.51	6.76	18.35
+GO:0019221	cytokine-mediated signaling pathway	228	0.60	0.63	7.60	26.50
+GO:1903827	regulation of cellular protein localization	187	0.48	0.53	6.86	25.72
+GO:0034660	ncRNA metabolic process	169	0.46	0.58	7.25	115.08
+GO:0051249	regulation of lymphocyte activation	161	0.48	0.56	7.10	27.11
+GO:0050900	leukocyte migration	106	0.60	0.59	8.02	26.94
+GO:0007265	Ras protein signal transduction	92	0.76	0.73	8.94	27.53
+GO:0001666	response to hypoxia	92	0.81	0.70	9.12	21.16
+GO:0051260	protein homooligomerization	91	0.89	0.77	9.41	42.03
+GO:0008202	steroid metabolic process	83	0.57	0.53	7.51	35.32
+GO:0016197	endosomal transport	68	0.71	0.64	8.82	47.19
+GO:0017157	regulation of exocytosis	61	0.59	0.65	8.02	60.10
+GO:0046488	phosphatidylinositol metabolic process	60	0.68	0.69	8.80	147.20
+GO:0072659	protein localization to plasma membrane	59	0.79	0.72	9.26	65.43
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	56	1.00	0.79	9.63	42.20
+GO:0034728	nucleosome organization	51	0.71	0.65	8.68	36.42
+GO:0071236	cellular response to antibiotic	50	0.64	0.57	7.70	41.40
+GO:0050852	T cell receptor signaling pathway	49	1.00	0.92	9.63	219.43
+GO:0000082	G1/S transition of mitotic cell cycle	45	1.00	0.79	9.63	42.75
+GO:0046034	ATP metabolic process	42	0.65	0.74	9.11	1262.34
+GO:0016236	macroautophagy	38	0.77	0.67	8.94	39.83
+GO:0006813	potassium ion transport	36	0.80	0.75	9.31	34.17
+GO:0009749	response to glucose	34	0.89	0.80	9.41	32.96
+GO:0007219	Notch signaling pathway	32	0.78	0.71	8.87	26.50
+GO:0032482	Rab protein signal transduction	28	1.00	0.88	9.63	29.61
+GO:0035264	multicellular organism growth	28	1.00	0.70	9.63	22.58
+GO:1903902	positive regulation of viral life cycle	27	0.76	0.73	9.04	63.51
+GO:0018022	peptidyl-lysine methylation	26	0.69	0.74	9.15	367.05
+GO:0038095	Fc-epsilon receptor signaling pathway	25	0.93	0.84	9.55	78.48
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	24	0.83	0.79	9.19	31.00
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	22	1.00	0.93	9.63	628.11
+GO:0015918	sterol transport	21	0.74	0.69	8.80	36.24
+GO:0001837	epithelial to mesenchymal transition	20	0.75	0.67	8.65	23.15
+GO:2000401	regulation of lymphocyte migration	19	0.65	0.70	8.94	53.03
+GO:0002762	negative regulation of myeloid leukocyte differentiation	19	0.77	0.76	9.35	700.15
+GO:0008333	endosome to lysosome transport	18	0.84	0.74	9.37	62.68
+GO:0006904	vesicle docking involved in exocytosis	17	0.89	0.77	9.43	32.65
+GO:0051085	chaperone cofactor-dependent protein refolding	16	1.00	0.79	9.63	21.14
+GO:0030521	androgen receptor signaling pathway	16	0.89	0.82	9.45	54.01
+GO:0010569	regulation of double-strand break repair via homologous recombination	15	0.84	0.82	9.52	184.48
+GO:0048864	stem cell development	15	0.84	0.67	9.34	32.15
+GO:0043966	histone H3 acetylation	15	0.77	0.83	9.35	659.45
+GO:0030216	keratinocyte differentiation	15	0.89	0.77	9.38	25.59
+GO:0048701	embryonic cranial skeleton morphogenesis	14	1.00	0.82	9.63	46.18
+GO:0036258	multivesicular body assembly	13	1.00	0.85	9.63	62.72
+GO:0071480	cellular response to gamma radiation	13	1.00	0.85	9.63	60.40
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0097352	autophagosome maturation	12	1.00	0.79	9.63	38.05
+GO:0035987	endodermal cell differentiation	10	1.00	0.75	9.63	21.07
+GO:0030520	intracellular estrogen receptor signaling pathway	10	1.00	0.88	9.63	54.01
+GO:0001890	placenta development	9	1.00	0.75	9.63	49.87
+GO:0032727	positive regulation of interferon-alpha production	7	0.89	0.80	9.46	84.41
+GO:0070365	hepatocyte differentiation	6	1.00	0.79	9.63	24.20
+GO:0045779	negative regulation of bone resorption	5	1.00	0.85	9.63	83.01
+GO:0071285	cellular response to lithium ion	4	1.00	0.82	9.63	77.81
+GO:1990182	exosomal secretion	3	1.00	0.85	9.63	38.47
+GO:0060669	embryonic placenta morphogenesis	1	1.00	0.75	9.63	34.70

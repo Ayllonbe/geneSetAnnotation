@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007409	axonogenesis	14	0.69	0.72	8.67	64.61
+GO:0009987	cellular process	1412	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	603	0.25	0.12	2.65	3.37
+GO:0065008	regulation of biological quality	390	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	1161	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	444	0.33	0.29	4.10	4.47
+GO:0031100	animal organ regeneration	16	0.89	0.70	9.29	28.09
+GO:0034501	protein localization to kinetochore	3	0.84	0.80	9.29	35.82

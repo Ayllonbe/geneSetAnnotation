@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	123	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	99	0.40	0.60	6.84	245.35
+GO:0007165	signal transduction	95	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	87	0.34	0.49	5.84	147.03
+GO:0032774	RNA biosynthetic process	81	0.53	0.62	8.04	473.34
+GO:0033554	cellular response to stress	47	0.44	0.42	6.05	25.47
+GO:0048869	cellular developmental process	45	0.32	0.29	4.16	13.85
+GO:0006508	proteolysis	38	0.55	0.57	7.34	47.86
+GO:0043066	negative regulation of apoptotic process	21	0.56	0.63	7.79	81.07
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	18	0.76	0.78	9.31	348.36
+GO:1901990	regulation of mitotic cell cycle phase transition	15	0.61	0.66	8.15	36.35
+GO:0044255	cellular lipid metabolic process	14	0.38	0.44	5.89	38.02
+GO:0045087	innate immune response	11	0.68	0.59	8.16	26.47
+GO:0001819	positive regulation of cytokine production	10	0.51	0.54	6.97	44.26
+GO:0030335	positive regulation of cell migration	10	0.58	0.64	8.22	157.26
+GO:0051480	regulation of cytosolic calcium ion concentration	7	0.66	0.75	9.02	288.69
+GO:0045732	positive regulation of protein catabolic process	6	0.70	0.70	9.03	231.05
+GO:0001701	in utero embryonic development	6	1.00	0.85	9.63	22.50
+GO:0048524	positive regulation of viral process	5	0.71	0.68	8.71	43.24
+GO:0035264	multicellular organism growth	4	1.00	0.70	9.63	22.58
+GO:0050729	positive regulation of inflammatory response	4	0.66	0.68	8.59	125.85
+GO:0043171	peptide catabolic process	3	0.72	0.68	8.97	139.84
+GO:0032897	negative regulation of viral transcription	2	0.93	0.82	9.53	62.49
+GO:1903955	positive regulation of protein targeting to mitochondrion	2	0.93	0.88	9.60	662.57
+GO:0030595	leukocyte chemotaxis	2	0.69	0.67	8.77	62.06
+GO:0002690	positive regulation of leukocyte chemotaxis	2	0.75	0.77	9.33	423.36
+GO:0016525	negative regulation of angiogenesis	2	0.81	0.78	9.32	151.11
+GO:0014886	transition between slow and fast fiber	1	1.00	0.88	9.63	30.57
+GO:2001199	negative regulation of dendritic cell differentiation	1	1.00	0.88	9.63	349.47
+GO:0002829	negative regulation of type 2 immune response	1	0.89	0.77	9.46	108.79
+GO:2000464	positive regulation of astrocyte chemotaxis	1	1.00	0.92	9.63	839.08
+GO:0002827	positive regulation of T-helper 1 type immune response	1	0.89	0.82	9.50	171.87
+GO:0048873	homeostasis of number of cells within a tissue	1	0.89	0.77	9.38	26.75
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	1	1.00	0.82	9.63	25.00
+GO:0009583	detection of light stimulus	1	0.75	0.67	9.05	50.88
+GO:0046641	positive regulation of alpha-beta T cell proliferation	1	0.87	0.85	9.55	937.85
+GO:0061154	endothelial tube morphogenesis	1	0.83	0.74	9.31	48.80
+GO:0000715	nucleotide-excision repair, DNA damage recognition	1	0.93	0.76	9.47	21.24
+GO:0007194	negative regulation of adenylate cyclase activity	1	0.89	0.89	9.59	6285.12
+GO:0006654	phosphatidic acid biosynthetic process	1	1.00	0.88	9.63	659.61
+GO:0043310	negative regulation of eosinophil degranulation	1	1.00	0.93	9.63	799.86
+GO:0006294	nucleotide-excision repair, preincision complex assembly	1	1.00	0.85	9.63	65.90
+GO:0090265	positive regulation of immune complex clearance by monocytes and macrophages	1	1.00	0.82	9.63	55.89
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	1	1.00	0.85	9.63	108.68
+GO:0035518	histone H2A monoubiquitination	1	0.93	0.91	9.59	843.90
+GO:0042535	positive regulation of tumor necrosis factor biosynthetic process	1	1.00	0.88	9.63	857.34

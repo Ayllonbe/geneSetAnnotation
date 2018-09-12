@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	419	0.09	0.17	1.80	4.47
+GO:0008152	metabolic process	401	0.15	0.07	1.52	3.37
+GO:0071704	organic substance metabolic process	380	0.15	0.20	2.26	6.41
+GO:0080090	regulation of primary metabolic process	253	0.24	0.37	3.95	10.74
+GO:0010468	regulation of gene expression	194	0.35	0.46	5.09	13.73
+GO:0016043	cellular component organization	186	0.28	0.26	3.74	11.45
+GO:0051234	establishment of localization	181	0.28	0.26	3.49	5.67
+GO:0034654	nucleobase-containing compound biosynthetic process	148	0.40	0.49	6.85	317.02
+GO:1901135	carbohydrate derivative metabolic process	37	0.35	0.37	4.70	10.22
+GO:0034654	nucleobase-containing compound biosynthetic process	148	0.40	0.49	6.85	317.02
+GO:1901135	carbohydrate derivative metabolic process	37	0.35	0.37	4.70	10.22
+GO:0016070	RNA metabolic process	163	0.39	0.52	6.45	112.25
+GO:0006355	regulation of transcription, DNA-templated	158	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	126	0.34	0.49	5.84	147.03
+GO:0031399	regulation of protein modification process	72	0.41	0.56	6.69	72.96
+GO:0009966	regulation of signal transduction	104	0.33	0.45	5.35	37.59
+GO:0009719	response to endogenous stimulus	33	0.44	0.35	5.03	6.14
+GO:0051716	cellular response to stimulus	117	0.35	0.30	4.36	13.53
+GO:0051128	regulation of cellular component organization	116	0.30	0.40	4.57	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	111	0.44	0.63	7.11	248.57
+GO:0065009	regulation of molecular function	106	0.33	0.29	4.10	4.47
+GO:0051239	regulation of multicellular organismal process	105	0.23	0.32	3.68	7.96
+GO:0006996	organelle organization	104	0.39	0.39	5.17	14.95
+GO:0009966	regulation of signal transduction	104	0.33	0.45	5.35	37.59
+GO:0051049	regulation of transport	84	0.31	0.40	4.67	10.45
+GO:0030334	regulation of cell migration	29	0.48	0.56	7.11	36.74
+GO:0009056	catabolic process	101	0.30	0.27	3.52	6.41
+GO:0002376	immune system process	81	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	78	0.43	0.51	5.91	23.17
+GO:0043933	protein-containing complex subunit organization	78	0.43	0.41	5.44	14.95
+GO:0010941	regulation of cell death	56	0.43	0.47	6.10	12.04
+GO:0030154	cell differentiation	53	0.39	0.39	5.18	16.68
+GO:0048821	erythrocyte development	3	0.89	0.74	9.38	33.54
+GO:0042127	regulation of cell proliferation	55	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	50	0.53	0.56	6.88	24.41
+GO:0070647	protein modification by small protein conjugation or removal	49	0.61	0.66	8.44	151.15
+GO:0006259	DNA metabolic process	40	0.45	0.55	7.12	145.26
+GO:0009894	regulation of catabolic process	35	0.42	0.46	5.75	10.74
+GO:0042592	homeostatic process	32	0.45	0.42	5.70	8.64
+GO:0030162	regulation of proteolysis	29	0.51	0.58	7.47	43.98
+GO:0001817	regulation of cytokine production	23	0.40	0.45	5.78	11.79
+GO:0030522	intracellular receptor signaling pathway	10	0.65	0.62	7.99	23.17
+GO:0007186	G-protein coupled receptor signaling pathway	27	0.55	0.57	7.20	23.17
+GO:0006790	sulfur compound metabolic process	16	0.44	0.42	5.69	17.52
+GO:0006412	translation	8	0.87	0.78	9.51	402.56
+GO:0007154	cell communication	19	0.46	0.36	5.27	7.39
+GO:0051052	regulation of DNA metabolic process	18	0.47	0.56	7.17	70.58
+GO:0007265	Ras protein signal transduction	10	0.76	0.73	8.94	27.53
+GO:0001505	regulation of neurotransmitter levels	10	0.49	0.44	5.98	8.64
+GO:0050684	regulation of mRNA processing	9	0.71	0.73	9.20	91.75
+GO:0042752	regulation of circadian rhythm	6	0.70	0.55	8.16	7.96
+GO:0001967	suckling behavior	1	1.00	0.70	9.63	23.34

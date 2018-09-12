@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	429	0.00	0.00	0.00	0.00
+GO:0032502	developmental process	66	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	383	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	288	0.09	0.17	1.80	4.47
+GO:0044260	cellular macromolecule metabolic process	190	0.28	0.39	4.44	30.44
+GO:0034641	cellular nitrogen compound metabolic process	157	0.26	0.33	4.23	26.70
+GO:0006950	response to stress	78	0.39	0.32	4.70	6.14
+GO:0007565	female pregnancy	6	1.00	0.70	9.63	32.81
+GO:0000086	G2/M transition of mitotic cell cycle	4	1.00	0.79	9.63	43.45
+GO:0097711	ciliary basal body-plasma membrane docking	3	1.00	0.79	9.63	21.39
+GO:0021702	cerebellar Purkinje cell differentiation	3	1.00	0.82	9.63	49.99
+GO:1902476	chloride transmembrane transport	2	1.00	0.88	9.63	110.52
+GO:0008343	adult feeding behavior	1	1.00	0.70	9.63	24.58

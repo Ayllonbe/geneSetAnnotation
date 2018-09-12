@@ -1,0 +1,83 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031325	positive regulation of cellular metabolic process	217	0.33	0.46	5.39	79.98
+GO:0045321	leukocyte activation	170	0.52	0.46	6.78	16.27
+GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	9	0.63	0.67	8.58	139.71
+GO:0002684	positive regulation of immune system process	155	0.41	0.45	5.71	22.61
+GO:1901700	response to oxygen-containing compound	154	0.39	0.39	5.14	9.28
+GO:0006887	exocytosis	132	0.67	0.66	8.38	37.08
+GO:0007186	G-protein coupled receptor signaling pathway	126	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	108	0.47	0.48	6.31	17.13
+GO:0008284	positive regulation of cell proliferation	104	0.56	0.57	7.27	43.45
+GO:0019221	cytokine-mediated signaling pathway	101	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	93	0.48	0.56	7.11	36.74
+GO:0031347	regulation of defense response	85	0.40	0.49	5.73	14.14
+GO:0051707	response to other organism	84	0.42	0.46	6.41	24.63
+GO:0010629	negative regulation of gene expression	79	0.47	0.56	6.74	59.05
+GO:0045087	innate immune response	78	0.68	0.59	8.16	26.47
+GO:0051130	positive regulation of cellular component organization	78	0.42	0.50	5.95	43.84
+GO:0043066	negative regulation of apoptotic process	78	0.56	0.63	7.79	81.07
+GO:0045859	regulation of protein kinase activity	77	0.56	0.68	8.33	159.56
+GO:0001818	negative regulation of cytokine production	36	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	56	0.51	0.54	6.97	44.26
+GO:0014070	response to organic cyclic compound	75	0.45	0.47	5.96	13.32
+GO:0009725	response to hormone	69	0.53	0.51	7.03	21.86
+GO:0006874	cellular calcium ion homeostasis	62	0.63	0.71	8.83	287.08
+GO:0045944	positive regulation of transcription by RNA polymerase II	60	0.55	0.71	8.36	1463.86
+GO:0010469	regulation of signaling receptor activity	54	0.59	0.62	7.95	48.62
+GO:0045892	negative regulation of transcription, DNA-templated	53	0.56	0.69	8.52	1581.26
+GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	3	0.77	0.80	9.41	305.77
+GO:0022409	positive regulation of cell-cell adhesion	47	0.59	0.59	7.66	36.23
+GO:0071345	cellular response to cytokine stimulus	38	0.67	0.63	8.21	61.60
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	35	0.70	0.67	8.58	26.98
+GO:0045765	regulation of angiogenesis	33	0.70	0.68	8.82	44.94
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	32	0.93	0.90	9.60	1178.86
+GO:0019722	calcium-mediated signaling	29	0.72	0.71	8.71	27.81
+GO:0050678	regulation of epithelial cell proliferation	29	0.61	0.60	7.63	15.51
+GO:0000165	MAPK cascade	26	0.74	0.77	9.24	231.45
+GO:0043547	positive regulation of GTPase activity	25	0.93	0.79	9.52	49.34
+GO:0010817	regulation of hormone levels	24	0.41	0.40	5.23	8.64
+GO:0071363	cellular response to growth factor stimulus	22	0.77	0.67	8.94	60.39
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	22	0.79	0.81	9.45	779.36
+GO:0006816	calcium ion transport	21	0.67	0.71	8.69	35.67
+GO:0051928	positive regulation of calcium ion transport	20	0.70	0.73	8.85	69.31
+GO:1903531	negative regulation of secretion by cell	19	0.55	0.62	7.58	107.96
+GO:0030855	epithelial cell differentiation	17	0.55	0.52	6.96	21.07
+GO:0006909	phagocytosis	16	0.93	0.79	9.49	28.44
+GO:0030260	entry into host cell	15	0.74	0.69	8.68	26.99
+GO:2000106	regulation of leukocyte apoptotic process	15	0.61	0.66	8.08	19.32
+GO:0008360	regulation of cell shape	14	0.68	0.66	8.69	41.78
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	14	0.74	0.75	9.04	58.64
+GO:0002920	regulation of humoral immune response	12	0.59	0.59	8.20	25.62
+GO:0032508	DNA duplex unwinding	11	0.80	0.75	9.22	23.73
+GO:0031663	lipopolysaccharide-mediated signaling pathway	10	1.00	0.82	9.63	26.50
+GO:0043433	negative regulation of DNA binding transcription factor activity	10	0.81	0.84	9.47	278.01
+GO:0010517	regulation of phospholipase activity	10	0.73	0.69	8.86	13.86
+GO:0051262	protein tetramerization	9	0.89	0.77	9.41	42.03
+GO:0050792	regulation of viral process	9	0.60	0.59	7.74	14.20
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	9	1.00	0.88	9.63	238.42
+GO:0045661	regulation of myoblast differentiation	7	0.83	0.70	9.34	27.05
+GO:0031532	actin cytoskeleton reorganization	6	1.00	0.82	9.63	32.01
+GO:0090303	positive regulation of wound healing	6	0.70	0.70	8.75	62.35
+GO:0007517	muscle organ development	6	0.78	0.64	8.75	27.68
+GO:0043491	protein kinase B signaling	6	1.00	0.82	9.63	26.43
+GO:0050850	positive regulation of calcium-mediated signaling	6	0.78	0.76	9.28	239.92
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	6	1.00	0.85	9.63	147.29
+GO:0007259	JAK-STAT cascade	6	0.93	0.82	9.51	26.43
+GO:0045744	negative regulation of G-protein coupled receptor protein signaling pathway	5	0.65	0.67	8.62	189.86
+GO:0034605	cellular response to heat	4	0.84	0.71	9.26	50.43
+GO:1901739	regulation of myoblast fusion	4	0.89	0.82	9.47	64.32
+GO:0050482	arachidonic acid secretion	3	1.00	0.95	9.63	224.86
+GO:0043950	positive regulation of cAMP-mediated signaling	3	0.84	0.80	9.52	239.52
+GO:0002467	germinal center formation	3	1.00	0.79	9.63	29.46
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0001780	neutrophil homeostasis	2	1.00	0.82	9.63	41.67
+GO:0070100	negative regulation of chemokine-mediated signaling pathway	2	0.93	0.84	9.58	306.68
+GO:0018149	peptide cross-linking	2	0.60	0.65	8.12	151.15
+GO:2000353	positive regulation of endothelial cell apoptotic process	2	1.00	0.90	9.63	129.82
+GO:0036499	PERK-mediated unfolded protein response	2	1.00	0.82	9.63	80.02
+GO:0030850	prostate gland development	1	1.00	0.79	9.63	53.04
+GO:0042063	gliogenesis	1	1.00	0.79	9.63	21.76
+GO:0030502	negative regulation of bone mineralization	1	0.93	0.82	9.56	172.16
+GO:0033625	positive regulation of integrin activation	1	0.93	0.82	9.55	140.38
+GO:0045948	positive regulation of translational initiation	1	0.76	0.78	9.39	1253.37
+GO:1901509	regulation of endothelial tube morphogenesis	1	0.89	0.77	9.41	45.72

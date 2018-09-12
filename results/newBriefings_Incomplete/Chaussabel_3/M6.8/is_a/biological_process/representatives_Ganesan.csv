@@ -1,0 +1,73 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	5048	0.12	0.26	2.47	7.96
+GO:1901576	organic substance biosynthetic process	2426	0.28	0.34	3.95	19.57
+GO:0010468	regulation of gene expression	2422	0.35	0.46	5.09	13.73
+GO:0090304	nucleic acid metabolic process	2200	0.35	0.46	5.97	111.15
+GO:0006464	cellular protein modification process	1714	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1577	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	1275	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	1159	0.43	0.51	5.91	23.17
+GO:0031399	regulation of protein modification process	996	0.41	0.56	6.69	72.96
+GO:0042177	negative regulation of protein catabolic process	80	0.71	0.71	9.11	231.82
+GO:0033554	cellular response to stress	937	0.44	0.42	6.05	25.47
+GO:0042220	response to cocaine	11	0.93	0.79	9.55	106.25
+GO:0070887	cellular response to chemical stimulus	881	0.40	0.40	5.31	25.21
+GO:0042981	regulation of apoptotic process	807	0.45	0.55	6.60	16.23
+GO:0034613	cellular protein localization	627	0.45	0.48	6.33	26.83
+GO:0051241	negative regulation of multicellular organismal process	535	0.35	0.42	4.99	23.69
+GO:0010564	regulation of cell cycle process	428	0.42	0.50	6.22	14.24
+GO:0016071	mRNA metabolic process	418	0.59	0.65	8.39	115.08
+GO:0043312	neutrophil degranulation	385	1.00	0.90	9.63	132.80
+GO:0009725	response to hormone	344	0.53	0.51	7.03	21.86
+GO:0045664	regulation of neuron differentiation	279	0.51	0.60	7.72	62.26
+GO:0006605	protein targeting	239	0.72	0.76	9.18	93.44
+GO:0010720	positive regulation of cell development	230	0.53	0.59	7.53	116.57
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	229	0.76	0.78	9.31	348.36
+GO:0043547	positive regulation of GTPase activity	209	0.93	0.79	9.52	49.34
+GO:0006631	fatty acid metabolic process	191	0.54	0.62	7.85	91.02
+GO:0000398	mRNA splicing, via spliceosome	166	0.83	0.85	9.49	356.67
+GO:0001666	response to hypoxia	155	0.81	0.70	9.12	21.16
+GO:0010038	response to metal ion	105	0.62	0.56	7.65	12.64
+GO:0071478	cellular response to radiation	101	0.67	0.63	8.53	36.92
+GO:0006367	transcription initiation from RNA polymerase II promoter	99	1.00	0.90	9.63	477.15
+GO:0000086	G2/M transition of mitotic cell cycle	83	1.00	0.79	9.63	43.45
+GO:0030182	neuron differentiation	82	0.58	0.54	7.21	21.07
+GO:0051170	import into nucleus	78	0.74	0.72	8.94	33.90
+GO:0048167	regulation of synaptic plasticity	74	0.67	0.69	8.57	39.26
+GO:1900180	regulation of protein localization to nucleus	73	0.74	0.69	9.01	29.06
+GO:0043401	steroid hormone mediated signaling pathway	73	0.75	0.70	8.80	25.74
+GO:1902600	proton transmembrane transport	68	0.76	0.75	9.12	95.87
+GO:0032091	negative regulation of protein binding	65	0.70	0.64	8.48	32.72
+GO:0006334	nucleosome assembly	65	0.87	0.78	9.47	104.52
+GO:0006368	transcription elongation from RNA polymerase II promoter	57	1.00	0.90	9.63	477.15
+GO:0008286	insulin receptor signaling pathway	57	0.87	0.81	9.34	31.00
+GO:0097711	ciliary basal body-plasma membrane docking	53	1.00	0.79	9.63	21.39
+GO:0042795	snRNA transcription by RNA polymerase II	53	1.00	0.95	9.63	1410.65
+GO:0000281	mitotic cytokinesis	42	0.93	0.76	9.47	28.62
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	41	0.93	0.82	9.56	84.23
+GO:0008543	fibroblast growth factor receptor signaling pathway	38	0.71	0.73	8.57	31.00
+GO:0009225	nucleotide-sugar metabolic process	28	0.62	0.63	8.62	123.38
+GO:0006369	termination of RNA polymerase II transcription	28	0.89	0.84	9.55	477.15
+GO:0051402	neuron apoptotic process	28	0.83	0.70	9.02	23.44
+GO:0000387	spliceosomal snRNP assembly	26	0.93	0.82	9.53	66.60
+GO:0006363	termination of RNA polymerase I transcription	26	1.00	0.90	9.63	477.15
+GO:0051085	chaperone cofactor-dependent protein refolding	24	1.00	0.79	9.63	21.14
+GO:0042149	cellular response to glucose starvation	24	0.89	0.80	9.50	115.90
+GO:0007259	JAK-STAT cascade	23	0.93	0.82	9.51	26.43
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	22	1.00	0.88	9.63	190.81
+GO:0042407	cristae formation	16	1.00	0.85	9.63	41.99
+GO:0038128	ERBB2 signaling pathway	16	0.87	0.83	9.37	32.39
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	12	1.00	0.88	9.63	500.32
+GO:0006983	ER overload response	10	0.87	0.76	9.43	81.56
+GO:0030318	melanocyte differentiation	9	0.89	0.74	9.34	22.86
+GO:0007141	male meiosis I	9	1.00	0.88	9.63	140.07
+GO:0036499	PERK-mediated unfolded protein response	9	1.00	0.82	9.63	80.02
+GO:0035437	maintenance of protein localization in endoplasmic reticulum	8	0.89	0.80	9.45	48.00
+GO:0016558	protein import into peroxisome matrix	7	1.00	0.93	9.63	631.85
+GO:0036500	ATF6-mediated unfolded protein response	7	1.00	0.82	9.63	80.02
+GO:0048384	retinoic acid receptor signaling pathway	7	0.79	0.72	8.94	25.57
+GO:0046323	glucose import	6	0.89	0.86	9.46	38.21
+GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	6	0.89	0.86	9.57	1245.28
+GO:0070682	proteasome regulatory particle assembly	2	1.00	0.85	9.63	45.62
+GO:0060741	prostate gland stromal morphogenesis	1	1.00	0.70	9.63	30.55
+GO:0071847	TNFSF11-mediated signaling pathway	1	0.93	0.84	9.52	30.19

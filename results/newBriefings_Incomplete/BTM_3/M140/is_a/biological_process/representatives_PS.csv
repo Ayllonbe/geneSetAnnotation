@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1416	0.12	0.26	2.47	7.96
+GO:0050896	response to stimulus	786	0.25	0.12	2.65	3.37
+GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
+GO:0019538	protein metabolic process	485	0.31	0.41	4.91	44.77
+GO:0010033	response to organic substance	432	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	347	0.40	0.40	5.31	25.21
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0032268	regulation of cellular protein metabolic process	417	0.37	0.51	6.13	70.76
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0032268	regulation of cellular protein metabolic process	417	0.37	0.51	6.13	70.76
+GO:0051128	regulation of cellular component organization	399	0.30	0.40	4.57	12.04
+GO:2000026	regulation of multicellular organismal development	385	0.29	0.39	4.73	23.09
+GO:0010647	positive regulation of cell communication	348	0.42	0.50	5.88	43.28
+GO:0016192	vesicle-mediated transport	337	0.52	0.51	6.57	10.99
+GO:0043085	positive regulation of catalytic activity	282	0.48	0.49	6.15	18.32
+GO:0019221	cytokine-mediated signaling pathway	235	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	208	0.48	0.56	7.11	36.74
+GO:0008104	protein localization	197	0.40	0.40	5.07	7.46
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0051098	regulation of binding	65	0.50	0.45	6.36	6.77
+GO:0007179	transforming growth factor beta receptor signaling pathway	21	0.76	0.75	9.05	29.90
+GO:1903901	negative regulation of viral life cycle	20	0.76	0.73	9.04	63.59
+GO:0007517	muscle organ development	18	0.78	0.64	8.75	27.68
+GO:0035987	endodermal cell differentiation	17	1.00	0.75	9.63	21.07
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0050810	regulation of steroid biosynthetic process	16	0.61	0.65	8.27	49.64
+GO:0048013	ephrin receptor signaling pathway	12	1.00	0.88	9.63	31.00
+GO:0008543	fibroblast growth factor receptor signaling pathway	11	0.71	0.73	8.57	31.00
+GO:2000484	positive regulation of interleukin-8 secretion	10	1.00	0.92	9.63	753.50
+GO:2001258	negative regulation of cation channel activity	10	0.71	0.75	9.10	527.32
+GO:0071276	cellular response to cadmium ion	9	1.00	0.82	9.63	78.50
+GO:0030225	macrophage differentiation	8	0.93	0.79	9.51	47.07
+GO:0072672	neutrophil extravasation	4	1.00	0.90	9.63	63.40
+GO:0045217	cell-cell junction maintenance	4	0.87	0.72	9.31	51.61
+GO:0097029	mature conventional dendritic cell differentiation	3	1.00	0.82	9.63	70.63
+GO:0014037	Schwann cell differentiation	2	1.00	0.79	9.63	23.15
+GO:0002752	cell surface pattern recognition receptor signaling pathway	2	1.00	0.93	9.63	1037.77

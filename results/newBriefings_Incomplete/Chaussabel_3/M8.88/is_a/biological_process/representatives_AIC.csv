@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	82	0.28	0.26	3.48	4.47
+GO:0050794	regulation of cellular process	406	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	394	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	255	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	188	0.28	0.26	3.74	11.45
+GO:0006810	transport	177	0.28	0.34	3.95	7.46
+GO:0048869	cellular developmental process	81	0.32	0.29	4.16	13.85
+GO:0051345	positive regulation of hydrolase activity	32	0.57	0.57	7.42	32.99
+GO:0019318	hexose metabolic process	7	0.58	0.58	7.68	32.37
+GO:0061621	canonical glycolysis	3	1.00	0.99	9.63	17318.20
+GO:0071346	cellular response to interferon-gamma	2	1.00	0.82	9.63	81.65
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	2	0.79	0.64	8.82	10.56

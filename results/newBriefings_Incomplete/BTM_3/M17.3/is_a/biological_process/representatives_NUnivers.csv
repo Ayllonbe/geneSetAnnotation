@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048869	cellular developmental process	200	0.32	0.29	4.16	13.85
+GO:0006357	regulation of transcription by RNA polymerase II	126	0.44	0.63	7.11	248.57
+GO:0045893	positive regulation of transcription, DNA-templated	95	0.52	0.67	8.14	1208.12
+GO:0045597	positive regulation of cell differentiation	79	0.45	0.51	6.57	82.53
+GO:0006351	transcription, DNA-templated	75	0.57	0.68	8.45	581.39
+GO:0060326	cell chemotaxis	68	0.64	0.61	8.15	30.29
+GO:0043065	positive regulation of apoptotic process	55	0.56	0.63	7.81	80.91
+GO:0000122	negative regulation of transcription by RNA polymerase II	46	0.61	0.74	8.79	1836.95
+GO:0048513	animal organ development	44	0.50	0.45	5.88	11.73
+GO:0048608	reproductive structure development	21	0.61	0.50	7.37	31.35
+GO:0045638	negative regulation of myeloid cell differentiation	13	0.73	0.72	9.19	279.08
+GO:0016525	negative regulation of angiogenesis	12	0.81	0.78	9.32	151.11
+GO:0048754	branching morphogenesis of an epithelial tube	11	0.74	0.69	8.88	51.71
+GO:0048704	embryonic skeletal system morphogenesis	10	0.87	0.72	9.38	45.49
+GO:0060070	canonical Wnt signaling pathway	9	0.67	0.71	8.39	31.42
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0033599	regulation of mammary gland epithelial cell proliferation	4	0.87	0.76	9.34	45.59
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	3	1.00	0.88	9.63	298.04
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0001759	organ induction	1	0.84	0.77	9.38	112.34
+GO:0060535	trachea cartilage morphogenesis	1	1.00	0.79	9.63	28.83
+GO:0010870	positive regulation of receptor biosynthetic process	1	0.84	0.77	9.47	258.62
+GO:0060480	lung goblet cell differentiation	1	1.00	0.85	9.63	75.98

@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051093	negative regulation of developmental process	155	0.37	0.44	5.25	23.19
+GO:0048518	positive regulation of biological process	855	0.21	0.30	3.05	7.96
+GO:0048583	regulation of response to stimulus	682	0.25	0.32	3.72	7.96
+GO:0002376	immune system process	495	0.38	0.19	3.93	3.37
+GO:0032230	positive regulation of synaptic transmission, GABAergic	3	1.00	0.88	9.63	135.42
+GO:0009966	regulation of signal transduction	491	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	483	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	387	0.35	0.37	4.75	9.28
+GO:0042542	response to hydrogen peroxide	33	0.93	0.76	9.54	79.29
+GO:0010033	response to organic substance	387	0.35	0.37	4.75	9.28
+GO:0042542	response to hydrogen peroxide	33	0.93	0.76	9.54	79.29
+GO:0010033	response to organic substance	387	0.35	0.37	4.75	9.28
+GO:0042542	response to hydrogen peroxide	33	0.93	0.76	9.54	79.29
+GO:0051174	regulation of phosphorus metabolic process	284	0.40	0.49	6.05	26.78
+GO:0030154	cell differentiation	264	0.39	0.39	5.18	16.68
+GO:0060341	regulation of cellular localization	122	0.40	0.45	5.64	10.45
+GO:0051050	positive regulation of transport	180	0.42	0.50	5.84	25.90
+GO:0071702	organic substance transport	220	0.33	0.41	4.62	10.99
+GO:0045893	positive regulation of transcription, DNA-templated	207	0.52	0.67	8.14	1208.12
+GO:0065003	protein-containing complex assembly	202	0.45	0.48	6.06	36.47
+GO:0030334	regulation of cell migration	189	0.48	0.56	7.11	36.74
+GO:0033554	cellular response to stress	189	0.44	0.42	6.05	25.47
+GO:0009968	negative regulation of signal transduction	186	0.44	0.54	6.68	140.65
+GO:0043066	negative regulation of apoptotic process	173	0.56	0.63	7.79	81.07
+GO:0008104	protein localization	170	0.40	0.40	5.07	7.46
+GO:0030155	regulation of cell adhesion	167	0.48	0.44	5.95	7.96
+GO:0009653	anatomical structure morphogenesis	147	0.36	0.31	4.09	6.46
+GO:0006468	protein phosphorylation	135	0.57	0.64	8.18	177.76
+GO:0045892	negative regulation of transcription, DNA-templated	132	0.56	0.69	8.52	1581.26
+GO:0005975	carbohydrate metabolic process	36	0.38	0.39	5.46	18.42
+GO:1901135	carbohydrate derivative metabolic process	106	0.35	0.37	4.70	10.22
+GO:0006508	proteolysis	116	0.55	0.57	7.34	47.86
+GO:0010469	regulation of signaling receptor activity	109	0.59	0.62	7.95	48.62
+GO:0051129	negative regulation of cellular component organization	101	0.42	0.50	5.99	44.00
+GO:0048468	cell development	89	0.51	0.45	6.51	28.42
+GO:0006897	endocytosis	87	0.63	0.61	8.09	26.36
+GO:0031329	regulation of cellular catabolic process	64	0.43	0.51	6.41	39.60
+GO:0043687	post-translational protein modification	45	0.65	0.67	8.51	151.15
+GO:0009888	tissue development	38	0.47	0.44	5.74	11.73
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0032091	negative regulation of protein binding	21	0.70	0.64	8.48	32.72
+GO:0007050	cell cycle arrest	20	0.81	0.73	9.29	55.62
+GO:0016266	O-glycan processing	10	0.79	0.79	9.28	178.64
+GO:0038166	angiotensin-activated signaling pathway	4	0.87	0.76	9.49	26.98
+GO:0032849	positive regulation of cellular pH reduction	2	0.93	0.91	9.59	185.54
+GO:0036179	osteoclast maturation	1	1.00	0.75	9.63	39.56

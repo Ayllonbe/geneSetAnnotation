@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	577	0.35	0.46	5.97	111.15
+GO:0006349	regulation of gene expression by genetic imprinting	3	0.89	0.80	9.58	130.93
+GO:0007165	signal transduction	529	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	503	0.40	0.60	6.84	245.35
+GO:0032774	RNA biosynthetic process	359	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	411	0.47	0.53	6.91	102.76
+GO:0006996	organelle organization	337	0.39	0.39	5.17	14.95
+GO:0071310	cellular response to organic substance	182	0.44	0.47	5.95	41.66
+GO:0031401	positive regulation of protein modification process	176	0.51	0.63	7.86	366.05
+GO:0045892	negative regulation of transcription, DNA-templated	169	0.56	0.69	8.52	1581.26
+GO:0045944	positive regulation of transcription by RNA polymerase II	168	0.55	0.71	8.36	1463.86
+GO:0006397	mRNA processing	74	0.71	0.73	9.17	234.35
+GO:0006897	endocytosis	71	0.63	0.61	8.09	26.36
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	62	0.76	0.78	9.31	348.36
+GO:0006914	autophagy	45	0.67	0.59	8.40	37.75
+GO:0000209	protein polyubiquitination	38	0.77	0.80	9.22	155.40
+GO:0000082	G1/S transition of mitotic cell cycle	30	1.00	0.79	9.63	42.75
+GO:0006412	translation	28	0.87	0.78	9.51	402.56
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	23	0.89	0.86	9.58	717.25
+GO:0046718	viral entry into host cell	19	0.77	0.73	8.94	28.37
+GO:0000724	double-strand break repair via homologous recombination	18	0.87	0.83	9.52	520.62
+GO:0090090	negative regulation of canonical Wnt signaling pathway	16	0.79	0.77	9.28	236.99
+GO:0032526	response to retinoic acid	15	0.93	0.76	9.49	43.79
+GO:0051984	positive regulation of chromosome segregation	13	0.66	0.62	8.40	42.07
+GO:0045815	positive regulation of gene expression, epigenetic	12	0.78	0.74	9.08	79.85
+GO:0060964	regulation of gene silencing by miRNA	11	0.74	0.74	9.16	63.20
+GO:0006749	glutathione metabolic process	10	0.84	0.74	9.36	147.29
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	10	1.00	0.95	9.63	336.65
+GO:0000045	autophagosome assembly	10	1.00	0.82	9.63	62.10
+GO:0070317	negative regulation of G0 to G1 transition	10	1.00	0.85	9.63	83.03
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway	8	0.74	0.77	9.09	99.04
+GO:2000573	positive regulation of DNA biosynthetic process	8	0.80	0.77	9.43	748.29
+GO:0006626	protein targeting to mitochondrion	7	1.00	0.92	9.63	196.81
+GO:0001942	hair follicle development	7	1.00	0.75	9.63	22.36
+GO:2000279	negative regulation of DNA biosynthetic process	6	0.80	0.77	9.43	829.32
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	6	0.84	0.82	9.59	500.08
+GO:0090398	cellular senescence	5	0.87	0.68	9.45	55.14
+GO:0008053	mitochondrial fusion	3	0.93	0.76	9.52	60.85
+GO:0070734	histone H3-K27 methylation	2	0.93	0.90	9.59	767.59
+GO:0071305	cellular response to vitamin D	2	1.00	0.88	9.63	396.20
+GO:0090084	negative regulation of inclusion body assembly	2	0.89	0.77	9.45	76.46
+GO:0000028	ribosomal small subunit assembly	2	1.00	0.85	9.63	66.60
+GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	0.80	0.81	9.33	466.08
+GO:0061178	regulation of insulin secretion involved in cellular response to glucose stimulus	2	0.89	0.86	9.55	231.90
+GO:2000344	positive regulation of acrosome reaction	1	0.93	0.79	9.54	105.55
+GO:0006198	cAMP catabolic process	1	1.00	0.93	9.63	5918.16
+GO:1905776	positive regulation of DNA helicase activity	1	0.93	0.86	9.59	204.72
+GO:2000011	regulation of adaxial/abaxial pattern formation	1	1.00	0.79	9.63	27.38
+GO:0060383	positive regulation of DNA strand elongation	1	1.00	0.88	9.63	377.50
+GO:0006407	rRNA export from nucleus	1	1.00	0.92	9.63	123.85
+GO:0070200	establishment of protein localization to telomere	1	1.00	0.88	9.63	126.05

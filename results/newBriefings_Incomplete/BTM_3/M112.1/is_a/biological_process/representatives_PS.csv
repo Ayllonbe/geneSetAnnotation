@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	789	0.24	0.37	3.90	23.85
+GO:0048583	regulation of response to stimulus	714	0.25	0.32	3.72	7.96
+GO:0043170	macromolecule metabolic process	710	0.25	0.32	3.46	10.22
+GO:0048523	negative regulation of cellular process	632	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	510	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	487	0.35	0.46	5.09	13.73
+GO:0031326	regulation of cellular biosynthetic process	482	0.29	0.44	4.86	40.35
+GO:0051246	regulation of protein metabolic process	421	0.34	0.46	5.46	41.09
+GO:0016192	vesicle-mediated transport	303	0.52	0.51	6.57	10.99
+GO:0032270	positive regulation of cellular protein metabolic process	257	0.47	0.59	7.41	288.49
+GO:0045055	regulated exocytosis	209	0.69	0.69	8.57	38.47
+GO:0001817	regulation of cytokine production	168	0.40	0.45	5.78	11.79
+GO:0045766	positive regulation of angiogenesis	45	0.81	0.76	9.30	134.49
+GO:0051130	positive regulation of cellular component organization	185	0.42	0.50	5.95	43.84
+GO:0006955	immune response	183	0.54	0.40	6.57	12.45
+GO:0007186	G-protein coupled receptor signaling pathway	179	0.55	0.57	7.20	23.17
+GO:0050900	leukocyte migration	141	0.60	0.59	8.02	26.94
+GO:0015031	protein transport	120	0.48	0.59	6.99	54.46
+GO:0009615	response to virus	77	0.74	0.66	8.80	27.27
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	60	0.52	0.58	7.50	27.23
+GO:0000902	cell morphogenesis	54	0.63	0.56	7.92	43.26
+GO:0043687	post-translational protein modification	47	0.65	0.67	8.51	151.15
+GO:0006631	fatty acid metabolic process	44	0.54	0.62	7.85	91.02
+GO:0097191	extrinsic apoptotic signaling pathway	22	0.83	0.74	9.22	51.06
+GO:0002686	negative regulation of leukocyte migration	14	0.67	0.71	8.99	239.84
+GO:0001774	microglial cell activation	13	0.93	0.79	9.51	31.20
+GO:0010828	positive regulation of glucose transmembrane transport	8	0.89	0.80	9.53	65.59
+GO:0001836	release of cytochrome c from mitochondria	7	1.00	0.82	9.63	22.13
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0010884	positive regulation of lipid storage	5	0.89	0.77	9.43	46.20
+GO:0051023	regulation of immunoglobulin secretion	5	0.89	0.82	9.52	116.25
+GO:0051131	chaperone-mediated protein complex assembly	4	1.00	0.82	9.63	44.52
+GO:0006883	cellular sodium ion homeostasis	4	1.00	0.90	9.63	285.76
+GO:0032462	regulation of protein homooligomerization	3	0.83	0.76	9.41	32.39
+GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	2	1.00	0.95	9.63	450.20
+GO:0043691	reverse cholesterol transport	2	1.00	0.88	9.63	39.64
+GO:0032286	central nervous system myelin maintenance	2	1.00	0.82	9.63	21.35
+GO:0051788	response to misfolded protein	1	0.89	0.74	9.34	23.96
+GO:0038172	interleukin-33-mediated signaling pathway	1	1.00	0.85	9.63	30.19

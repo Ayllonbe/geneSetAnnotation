@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	1372	0.26	0.38	4.09	10.74
+GO:0051171	regulation of nitrogen compound metabolic process	1337	0.25	0.38	4.03	10.74
+GO:0009894	regulation of catabolic process	207	0.42	0.46	5.75	10.74
+GO:0080090	regulation of primary metabolic process	1369	0.24	0.37	3.95	10.74
+GO:0051179	localization	1019	0.26	0.13	2.57	3.37
+GO:0006355	regulation of transcription, DNA-templated	823	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	761	0.39	0.52	6.45	112.25
+GO:0051128	regulation of cellular component organization	597	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	505	0.43	0.51	5.91	23.17
+GO:0044248	cellular catabolic process	419	0.31	0.36	4.57	26.23
+GO:0035556	intracellular signal transduction	407	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	363	0.34	0.42	5.25	23.33
+GO:0010941	regulation of cell death	362	0.43	0.47	6.10	12.04
+GO:0010033	response to organic substance	445	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	313	0.39	0.39	5.14	9.28
+GO:0051336	regulation of hydrolase activity	300	0.46	0.48	6.24	9.25
+GO:0006629	lipid metabolic process	257	0.37	0.38	5.19	18.42
+GO:0070647	protein modification by small protein conjugation or removal	242	0.61	0.66	8.44	151.15
+GO:0034622	cellular protein-containing complex assembly	198	0.48	0.53	6.52	40.42
+GO:0007346	regulation of mitotic cell cycle	166	0.49	0.53	6.68	14.24
+GO:0010564	regulation of cell cycle process	193	0.42	0.50	6.22	14.24
+GO:0008285	negative regulation of cell proliferation	158	0.56	0.57	7.31	43.61
+GO:0015949	nucleobase-containing small molecule interconversion	7	0.77	0.71	9.27	109.53
+GO:0009117	nucleotide metabolic process	106	0.44	0.57	7.31	170.44
+GO:0010608	posttranscriptional regulation of gene expression	100	0.50	0.57	6.83	16.68
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	42	0.63	0.64	8.31	41.85
+GO:0001701	in utero embryonic development	42	1.00	0.85	9.63	22.50
+GO:0000086	G2/M transition of mitotic cell cycle	39	1.00	0.79	9.63	43.45
+GO:1901796	regulation of signal transduction by p53 class mediator	32	0.72	0.71	9.12	45.07
+GO:0036498	IRE1-mediated unfolded protein response	26	1.00	0.82	9.63	55.46
+GO:0032387	negative regulation of intracellular transport	21	0.61	0.63	8.11	60.46
+GO:0051055	negative regulation of lipid biosynthetic process	15	0.61	0.66	8.16	116.84
+GO:0001657	ureteric bud development	9	1.00	0.88	9.63	36.92
+GO:0048701	embryonic cranial skeleton morphogenesis	8	1.00	0.82	9.63	46.18
+GO:0060395	SMAD protein signal transduction	8	1.00	0.79	9.63	23.17
+GO:0035265	organ growth	6	0.77	0.58	8.75	22.58
+GO:0007212	dopamine receptor signaling pathway	5	0.87	0.76	9.27	26.98
+GO:0051923	sulfation	3	0.81	0.66	9.16	21.66
+GO:0023019	signal transduction involved in regulation of gene expression	3	1.00	0.79	9.63	23.17
+GO:0007182	common-partner SMAD protein phosphorylation	2	1.00	0.88	9.63	180.75
+GO:0048340	paraxial mesoderm morphogenesis	1	1.00	0.79	9.63	29.77
+GO:0007352	zygotic specification of dorsal/ventral axis	1	1.00	0.79	9.63	40.32
+GO:0036316	SREBP-SCAP complex retention in endoplasmic reticulum	1	1.00	0.96	9.63	519.70
+GO:0098989	NMDA selective glutamate receptor signaling pathway	1	1.00	0.88	9.63	28.29

@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	908	0.24	0.37	3.90	23.85
+GO:0031323	regulation of cellular metabolic process	821	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	738	0.24	0.37	3.90	23.93
+GO:1901564	organonitrogen compound metabolic process	674	0.23	0.31	3.63	19.40
+GO:0009966	regulation of signal transduction	585	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	581	0.43	0.51	5.91	23.17
+GO:0051716	cellular response to stimulus	508	0.35	0.30	4.36	13.53
+GO:0042108	positive regulation of cytokine biosynthetic process	29	0.63	0.67	8.76	609.34
+GO:0031399	regulation of protein modification process	326	0.41	0.56	6.69	72.96
+GO:0042981	regulation of apoptotic process	310	0.45	0.55	6.60	16.23
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0006952	defense response	239	0.56	0.48	6.67	9.54
+GO:0006351	transcription, DNA-templated	217	0.57	0.68	8.45	581.39
+GO:0045580	regulation of T cell differentiation	48	0.60	0.67	8.66	131.17
+GO:0051251	positive regulation of lymphocyte activation	127	0.58	0.64	8.19	127.58
+GO:0006974	cellular response to DNA damage stimulus	123	0.57	0.53	7.47	29.00
+GO:0050727	regulation of inflammatory response	111	0.53	0.59	7.40	31.59
+GO:0006886	intracellular protein transport	76	0.55	0.65	8.12	90.55
+GO:0050707	regulation of cytokine secretion	67	0.59	0.67	8.36	114.42
+GO:0030036	actin cytoskeleton organization	62	0.63	0.61	8.05	29.61
+GO:0006898	receptor-mediated endocytosis	61	0.68	0.66	8.48	28.44
+GO:0000902	cell morphogenesis	58	0.63	0.56	7.92	43.26
+GO:0050777	negative regulation of immune response	47	0.52	0.55	7.29	78.83
+GO:0030183	B cell differentiation	36	0.73	0.69	9.02	64.36
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	28	0.62	0.56	7.74	16.14
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0070498	interleukin-1-mediated signaling pathway	15	1.00	0.85	9.63	30.19
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	15	0.89	0.89	9.55	412.65
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0015914	phospholipid transport	10	0.78	0.74	9.04	67.00
+GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
+GO:0048821	erythrocyte development	7	0.89	0.74	9.38	33.54
+GO:0034162	toll-like receptor 9 signaling pathway	7	1.00	0.95	9.63	412.65
+GO:0002634	regulation of germinal center formation	5	0.89	0.80	9.45	44.48
+GO:0019371	cyclooxygenase pathway	3	1.00	0.92	9.63	253.27
+GO:0048305	immunoglobulin secretion	2	0.93	0.86	9.57	133.33
+GO:0034158	toll-like receptor 8 signaling pathway	1	1.00	0.95	9.63	412.65
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31

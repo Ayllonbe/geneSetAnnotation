@@ -1,0 +1,108 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2011	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	2011	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	2011	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	1082	0.23	0.31	3.63	19.40
+GO:1901360	organic cyclic compound metabolic process	1016	0.24	0.32	3.54	10.22
+GO:0006139	nucleobase-containing compound metabolic process	936	0.29	0.40	5.40	96.28
+GO:0006355	regulation of transcription, DNA-templated	762	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	679	0.34	0.49	5.84	147.03
+GO:0010604	positive regulation of macromolecule metabolic process	664	0.37	0.48	5.51	38.99
+GO:0009966	regulation of signal transduction	604	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	506	0.57	0.68	8.45	581.39
+GO:0016192	vesicle-mediated transport	384	0.52	0.51	6.57	10.99
+GO:0035556	intracellular signal transduction	377	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	369	0.31	0.40	4.67	10.45
+GO:0033554	cellular response to stress	368	0.44	0.42	6.05	25.47
+GO:0031400	negative regulation of protein modification process	148	0.53	0.64	7.94	366.95
+GO:0031401	positive regulation of protein modification process	258	0.51	0.63	7.86	366.05
+GO:0045595	regulation of cell differentiation	331	0.34	0.42	5.25	23.33
+GO:0015031	protein transport	331	0.48	0.59	6.99	54.46
+GO:0048585	negative regulation of response to stimulus	321	0.36	0.43	5.03	23.55
+GO:1901700	response to oxygen-containing compound	282	0.39	0.39	5.14	9.28
+GO:0071310	cellular response to organic substance	279	0.44	0.47	5.95	41.66
+GO:0051336	regulation of hydrolase activity	276	0.46	0.48	6.24	9.25
+GO:0043066	negative regulation of apoptotic process	200	0.56	0.63	7.79	81.07
+GO:0043525	positive regulation of neuron apoptotic process	17	0.84	0.80	9.39	179.36
+GO:0006887	exocytosis	186	0.67	0.66	8.38	37.08
+GO:0007010	cytoskeleton organization	181	0.52	0.51	6.76	18.35
+GO:0010564	regulation of cell cycle process	177	0.42	0.50	6.22	14.24
+GO:0006952	defense response	167	0.56	0.48	6.67	9.54
+GO:0001817	regulation of cytokine production	145	0.40	0.45	5.78	11.79
+GO:0006511	ubiquitin-dependent protein catabolic process	132	0.74	0.74	9.19	156.45
+GO:0006812	cation transport	130	0.45	0.51	6.21	12.09
+GO:0016570	histone modification	76	0.54	0.62	8.03	184.49
+GO:0006518	peptide metabolic process	75	0.56	0.57	7.65	56.97
+GO:0043409	negative regulation of MAPK cascade	49	0.72	0.78	9.37	1019.28
+GO:0046330	positive regulation of JNK cascade	26	0.84	0.87	9.57	1762.04
+GO:0043409	negative regulation of MAPK cascade	49	0.72	0.78	9.37	1019.28
+GO:0046330	positive regulation of JNK cascade	26	0.84	0.87	9.57	1762.04
+GO:0000165	MAPK cascade	69	0.74	0.77	9.24	231.45
+GO:0006650	glycerophospholipid metabolic process	65	0.59	0.62	8.12	144.72
+GO:0001666	response to hypoxia	63	0.81	0.70	9.12	21.16
+GO:0051260	protein homooligomerization	62	0.89	0.77	9.41	42.03
+GO:0006888	ER to Golgi vesicle-mediated transport	61	1.00	0.82	9.63	49.13
+GO:0045765	regulation of angiogenesis	58	0.70	0.68	8.82	44.94
+GO:0070507	regulation of microtubule cytoskeleton organization	51	0.61	0.65	8.24	33.71
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	43	1.00	0.79	9.63	42.20
+GO:0006405	RNA export from nucleus	37	0.71	0.73	9.03	77.48
+GO:0007051	spindle organization	36	0.69	0.67	8.69	44.52
+GO:0000086	G2/M transition of mitotic cell cycle	35	1.00	0.79	9.63	43.45
+GO:0000082	G1/S transition of mitotic cell cycle	34	1.00	0.79	9.63	42.75
+GO:0010970	transport along microtubule	33	0.61	0.63	8.46	66.94
+GO:0043401	steroid hormone mediated signaling pathway	32	0.75	0.70	8.80	25.74
+GO:0050877	nervous system process	31	0.55	0.47	6.42	9.78
+GO:0044262	cellular carbohydrate metabolic process	31	0.46	0.48	6.72	38.14
+GO:0006334	nucleosome assembly	30	0.87	0.78	9.47	104.52
+GO:0050852	T cell receptor signaling pathway	29	1.00	0.92	9.63	219.43
+GO:0007281	germ cell development	25	0.87	0.68	9.34	71.68
+GO:0007565	female pregnancy	24	1.00	0.70	9.63	32.81
+GO:0006625	protein targeting to peroxisome	24	0.89	0.86	9.56	237.37
+GO:0048469	cell maturation	24	0.70	0.55	8.24	25.22
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	24	1.00	0.92	9.63	384.64
+GO:0048208	COPII vesicle coating	21	1.00	0.82	9.63	62.44
+GO:0097711	ciliary basal body-plasma membrane docking	20	1.00	0.79	9.63	21.39
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0007179	transforming growth factor beta receptor signaling pathway	18	0.76	0.75	9.05	29.90
+GO:0019933	cAMP-mediated signaling	16	0.77	0.76	9.12	28.51
+GO:0006635	fatty acid beta-oxidation	16	0.81	0.80	9.46	579.93
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	14	0.93	0.82	9.56	84.23
+GO:0051085	chaperone cofactor-dependent protein refolding	13	1.00	0.79	9.63	21.14
+GO:0008542	visual learning	12	1.00	0.88	9.63	51.66
+GO:0007416	synapse assembly	11	0.84	0.67	9.12	35.85
+GO:0008344	adult locomotory behavior	11	0.84	0.62	9.16	24.58
+GO:0035176	social behavior	10	1.00	0.70	9.63	22.58
+GO:1905515	non-motile cilium assembly	9	1.00	0.85	9.63	138.78
+GO:0000132	establishment of mitotic spindle orientation	8	0.93	0.84	9.58	227.85
+GO:0098586	cellular response to virus	8	0.78	0.71	9.00	28.65
+GO:0006623	protein targeting to vacuole	8	0.84	0.84	9.55	198.72
+GO:0048194	Golgi vesicle budding	7	0.89	0.77	9.41	40.37
+GO:0038061	NIK/NF-kappaB signaling	7	1.00	0.82	9.63	26.43
+GO:0043537	negative regulation of blood vessel endothelial cell migration	7	0.93	0.88	9.58	356.35
+GO:0006541	glutamine metabolic process	7	0.77	0.78	9.25	86.07
+GO:0051081	nuclear envelope disassembly	7	0.83	0.70	9.22	57.49
+GO:0032402	melanosome transport	6	1.00	0.88	9.63	154.04
+GO:0016358	dendrite development	6	0.83	0.74	9.26	32.63
+GO:0010884	positive regulation of lipid storage	6	0.89	0.77	9.43	46.20
+GO:0034063	stress granule assembly	6	1.00	0.85	9.63	107.30
+GO:1902475	L-alpha-amino acid transmembrane transport	6	0.62	0.72	8.53	268.42
+GO:0033962	cytoplasmic mRNA processing body assembly	5	1.00	0.85	9.63	107.30
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	5	0.93	0.93	9.59	413.35
+GO:0007616	long-term memory	5	1.00	0.85	9.63	22.23
+GO:0002456	T cell mediated immunity	5	0.76	0.67	9.12	29.49
+GO:0060291	long-term synaptic potentiation	4	1.00	0.88	9.63	145.77
+GO:0006122	mitochondrial electron transport, ubiquinol to cytochrome c	4	1.00	0.82	9.63	32.65
+GO:0050774	negative regulation of dendrite morphogenesis	4	0.93	0.90	9.60	974.11
+GO:0001779	natural killer cell differentiation	3	0.93	0.79	9.55	64.36
+GO:0036035	osteoclast development	2	1.00	0.79	9.63	66.39
+GO:0045053	protein retention in Golgi apparatus	2	1.00	0.82	9.63	46.06
+GO:0023035	CD40 signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0050432	catecholamine secretion	2	0.79	0.74	9.34	73.60
+GO:0052567	response to defense-related host reactive oxygen species production	1	0.83	0.79	9.45	134.84
+GO:0072382	minus-end-directed vesicle transport along microtubule	1	1.00	0.90	9.63	265.62
+GO:0042178	xenobiotic catabolic process	1	0.58	0.54	7.37	50.95
+GO:0070458	cellular detoxification of nitrogen compound	1	1.00	0.70	9.63	22.27
+GO:0120117	T cell meandering migration	1	1.00	0.88	9.63	31.85
+GO:0070945	neutrophil mediated killing of gram-negative bacterium	1	1.00	0.92	9.63	161.63
+GO:1990575	mitochondrial L-ornithine transmembrane transport	1	1.00	0.95	9.63	466.14
+GO:0030821	negative regulation of cAMP catabolic process	1	1.00	0.93	9.63	6065.66

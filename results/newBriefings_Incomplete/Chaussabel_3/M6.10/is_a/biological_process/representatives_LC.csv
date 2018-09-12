@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1171	0.00	0.00	0.00	0.00
+GO:0051126	negative regulation of actin nucleation	1	0.93	0.91	9.60	318.23
+GO:0043085	positive regulation of catalytic activity	115	0.48	0.49	6.15	18.32
+GO:0006469	negative regulation of protein kinase activity	17	0.68	0.76	9.22	1097.06
+GO:0050789	regulation of biological process	814	0.09	0.17	1.80	4.47
+GO:0090110	cargo loading into COPII-coated vesicle	3	1.00	0.85	9.63	99.47
+GO:0006810	transport	358	0.28	0.34	3.95	7.46
+GO:0051601	exocyst localization	2	0.93	0.79	9.52	40.77
+GO:0007610	behavior	24	0.48	0.24	4.72	3.37

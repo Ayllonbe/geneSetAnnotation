@@ -1,0 +1,66 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	2045	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	1848	0.24	0.37	3.90	23.93
+GO:0044260	cellular macromolecule metabolic process	2616	0.28	0.39	4.44	30.44
+GO:0006810	transport	1635	0.28	0.34	3.95	7.46
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	8	1.00	0.85	9.63	147.29
+GO:0006355	regulation of transcription, DNA-templated	1508	0.40	0.60	6.84	245.35
+GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	8	1.00	0.85	9.63	147.29
+GO:0006355	regulation of transcription, DNA-templated	1508	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	1446	0.39	0.52	6.45	112.25
+GO:0031325	positive regulation of cellular metabolic process	1284	0.33	0.46	5.39	79.98
+GO:0009966	regulation of signal transduction	1202	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	1027	0.30	0.40	4.57	12.04
+GO:0006796	phosphate-containing compound metabolic process	853	0.36	0.43	5.28	20.85
+GO:0010033	response to organic substance	812	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	561	0.39	0.39	5.14	9.28
+GO:0051726	regulation of cell cycle	485	0.41	0.45	5.89	12.04
+GO:0034613	cellular protein localization	453	0.45	0.48	6.33	26.83
+GO:0019752	carboxylic acid metabolic process	397	0.32	0.45	5.31	42.50
+GO:0045055	regulated exocytosis	358	0.69	0.69	8.57	38.47
+GO:0006952	defense response	357	0.56	0.48	6.67	9.54
+GO:0001817	regulation of cytokine production	311	0.40	0.45	5.78	11.79
+GO:0032024	positive regulation of insulin secretion	28	0.93	0.88	9.60	1037.38
+GO:0050778	positive regulation of immune response	326	0.46	0.52	6.76	78.39
+GO:0071345	cellular response to cytokine stimulus	199	0.67	0.63	8.21	61.60
+GO:0098660	inorganic ion transmembrane transport	180	0.56	0.60	7.40	27.94
+GO:0002237	response to molecule of bacterial origin	159	0.69	0.59	8.74	31.75
+GO:0050727	regulation of inflammatory response	157	0.53	0.59	7.40	31.59
+GO:0030036	actin cytoskeleton organization	138	0.63	0.61	8.05	29.61
+GO:0016579	protein deubiquitination	135	0.73	0.76	9.15	202.60
+GO:0016055	Wnt signaling pathway	130	0.59	0.65	7.65	28.58
+GO:0022409	positive regulation of cell-cell adhesion	128	0.59	0.59	7.66	36.23
+GO:0001666	response to hypoxia	121	0.81	0.70	9.12	21.16
+GO:0001505	regulation of neurotransmitter levels	103	0.49	0.44	5.98	8.64
+GO:0030099	myeloid cell differentiation	93	0.69	0.60	8.15	21.07
+GO:0019318	hexose metabolic process	77	0.58	0.58	7.68	32.37
+GO:0030705	cytoskeleton-dependent intracellular transport	76	0.60	0.59	7.89	33.20
+GO:0007268	chemical synaptic transmission	56	0.74	0.72	8.66	23.17
+GO:0009749	response to glucose	48	0.89	0.80	9.41	32.96
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	44	0.71	0.71	8.71	27.67
+GO:0046718	viral entry into host cell	40	0.77	0.73	8.94	28.37
+GO:0070498	interleukin-1-mediated signaling pathway	28	1.00	0.85	9.63	30.19
+GO:0031663	lipopolysaccharide-mediated signaling pathway	22	1.00	0.82	9.63	26.50
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	21	0.89	0.89	9.55	412.65
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	17	0.78	0.71	8.87	26.98
+GO:0031047	gene silencing by RNA	17	0.77	0.76	9.17	70.60
+GO:0051489	regulation of filopodium assembly	15	0.89	0.82	9.45	51.76
+GO:0007218	neuropeptide signaling pathway	14	0.93	0.79	9.49	26.98
+GO:0008645	hexose transmembrane transport	11	0.73	0.74	8.83	35.43
+GO:0033033	negative regulation of myeloid cell apoptotic process	8	0.84	0.80	9.36	105.02
+GO:0045217	cell-cell junction maintenance	8	0.87	0.72	9.31	51.61
+GO:0001774	microglial cell activation	8	0.93	0.79	9.51	31.20
+GO:0048715	negative regulation of oligodendrocyte differentiation	6	1.00	0.92	9.63	472.52
+GO:0007141	male meiosis I	6	1.00	0.88	9.63	140.07
+GO:0043046	DNA methylation involved in gamete generation	5	1.00	0.92	9.63	410.99
+GO:0048714	positive regulation of oligodendrocyte differentiation	5	1.00	0.92	9.63	471.69
+GO:0034134	toll-like receptor 2 signaling pathway	4	0.93	0.91	9.59	412.65
+GO:0002076	osteoblast development	4	1.00	0.75	9.63	32.15
+GO:0048667	cell morphogenesis involved in neuron differentiation	4	0.81	0.73	9.22	47.45
+GO:0014005	microglia development	3	1.00	0.79	9.63	67.64
+GO:0072672	neutrophil extravasation	3	1.00	0.90	9.63	63.40
+GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway	3	1.00	0.95	9.63	412.65
+GO:2000391	positive regulation of neutrophil extravasation	2	1.00	0.92	9.63	703.07
+GO:0002374	cytokine secretion involved in immune response	2	1.00	0.92	9.63	137.07
+GO:0032289	central nervous system myelin formation	2	1.00	0.82	9.63	33.54
+GO:0038123	toll-like receptor TLR1:TLR2 signaling pathway	1	1.00	0.95	9.63	412.65

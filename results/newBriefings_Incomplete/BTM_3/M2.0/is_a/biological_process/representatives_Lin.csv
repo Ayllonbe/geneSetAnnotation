@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1326	0.08	0.04	0.98	3.37
+GO:0071704	organic substance metabolic process	846	0.15	0.20	2.26	6.41
+GO:0009605	response to external stimulus	261	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	417	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	381	0.39	0.32	4.70	6.14
+GO:0009628	response to abiotic stimulus	121	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	417	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	381	0.39	0.32	4.70	6.14
+GO:0051179	localization	616	0.26	0.13	2.57	3.37
+GO:0007186	G-protein coupled receptor signaling pathway	175	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	477	0.43	0.51	5.91	23.17
+GO:0009966	regulation of signal transduction	484	0.33	0.45	5.35	37.59
+GO:0051239	regulation of multicellular organismal process	470	0.23	0.32	3.68	7.96
+GO:0002682	regulation of immune system process	379	0.32	0.36	4.60	7.96
+GO:0022607	cellular component assembly	290	0.39	0.39	5.06	14.95
+GO:0051049	regulation of transport	283	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	260	0.51	0.55	6.92	23.17
+GO:0030154	cell differentiation	258	0.39	0.39	5.18	16.68
+GO:0042981	regulation of apoptotic process	252	0.45	0.55	6.60	16.23
+GO:0008284	positive regulation of cell proliferation	217	0.56	0.57	7.27	43.45
+GO:0048856	anatomical structure development	203	0.33	0.29	3.70	6.46
+GO:0033327	Leydig cell differentiation	2	1.00	0.75	9.63	40.69
+GO:0030334	regulation of cell migration	186	0.48	0.56	7.11	36.74
+GO:0050920	regulation of chemotaxis	68	0.54	0.56	7.31	25.01
+GO:0016477	cell migration	187	0.47	0.48	6.31	17.13
+GO:0033043	regulation of organelle organization	173	0.36	0.47	5.49	15.89
+GO:0050801	ion homeostasis	147	0.50	0.54	6.88	13.14
+GO:0009653	anatomical structure morphogenesis	145	0.36	0.31	4.09	6.46
+GO:0050867	positive regulation of cell activation	124	0.56	0.57	7.43	42.07
+GO:0010810	regulation of cell-substrate adhesion	41	0.69	0.60	8.24	10.16
+GO:0030198	extracellular matrix organization	40	0.68	0.59	8.24	16.90
+GO:0018149	peptide cross-linking	10	0.60	0.65	8.12	151.15
+GO:0030203	glycosaminoglycan metabolic process	22	0.66	0.62	8.41	52.03
+GO:0051781	positive regulation of cell division	22	0.68	0.63	8.44	42.29
+GO:0007050	cell cycle arrest	19	0.81	0.73	9.29	55.62
+GO:0034754	cellular hormone metabolic process	10	0.59	0.59	8.02	37.69
+GO:0023019	signal transduction involved in regulation of gene expression	4	1.00	0.79	9.63	23.17
+GO:2000739	regulation of mesenchymal stem cell differentiation	2	0.83	0.74	9.38	28.84
+GO:0060857	establishment of glial blood-brain barrier	1	1.00	0.79	9.63	66.95
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0060437	lung growth	1	1.00	0.75	9.63	24.19

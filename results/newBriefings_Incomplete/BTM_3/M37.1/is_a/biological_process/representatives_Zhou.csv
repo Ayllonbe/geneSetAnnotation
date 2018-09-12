@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	323	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	268	0.08	0.04	0.98	3.37
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	2	0.93	0.91	9.59	279.62
+GO:1902943	positive regulation of voltage-gated chloride channel activity	1	1.00	0.92	9.63	1152.20
+GO:0007567	parturition	2	1.00	0.70	9.63	32.81
+GO:0050896	response to stimulus	138	0.25	0.12	2.65	3.37
+GO:0032502	developmental process	95	0.22	0.11	1.89	3.37
+GO:0008104	protein localization	44	0.40	0.40	5.07	7.46
+GO:0006810	transport	89	0.28	0.34	3.95	7.46

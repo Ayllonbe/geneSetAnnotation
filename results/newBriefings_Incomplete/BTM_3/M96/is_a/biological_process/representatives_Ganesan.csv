@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1213	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	990	0.09	0.17	1.80	4.47
+GO:0030154	cell differentiation	198	0.39	0.39	5.18	16.68
+GO:0050900	leukocyte migration	119	0.60	0.59	8.02	26.94
+GO:0006351	transcription, DNA-templated	119	0.57	0.68	8.45	581.39
+GO:0048704	embryonic skeletal system morphogenesis	17	0.87	0.72	9.38	45.49
+GO:0008584	male gonad development	16	1.00	0.79	9.63	50.96
+GO:0034968	histone lysine methylation	7	0.71	0.77	9.27	765.80
+GO:0060065	uterus development	5	1.00	0.75	9.63	49.87
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	3	0.78	0.76	9.31	117.17
+GO:0001658	branching involved in ureteric bud morphogenesis	2	1.00	0.85	9.63	53.50
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0002317	plasma cell differentiation	2	1.00	0.90	9.63	149.81
+GO:0048541	Peyer's patch development	1	1.00	0.82	9.63	32.52

@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	2417	0.25	0.32	3.46	10.22
+GO:0006351	transcription, DNA-templated	783	0.57	0.68	8.45	581.39
+GO:0048856	anatomical structure development	385	0.33	0.29	3.70	6.46
+GO:0009987	cellular process	4247	0.09	0.05	0.84	3.37
+GO:0060045	positive regulation of cardiac muscle cell proliferation	4	1.00	0.92	9.63	720.41
+GO:0050870	positive regulation of T cell activation	84	0.63	0.69	8.78	216.07
+GO:0051101	regulation of DNA binding	40	0.61	0.55	7.68	9.33
+GO:0050789	regulation of biological process	3283	0.09	0.17	1.80	4.47
+GO:0060045	positive regulation of cardiac muscle cell proliferation	4	1.00	0.92	9.63	720.41
+GO:0050870	positive regulation of T cell activation	84	0.63	0.69	8.78	216.07
+GO:0051101	regulation of DNA binding	40	0.61	0.55	7.68	9.33
+GO:0050789	regulation of biological process	3283	0.09	0.17	1.80	4.47
+GO:0051641	cellular localization	756	0.37	0.31	4.44	5.67
+GO:0006810	transport	1294	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	1324	0.25	0.12	2.65	3.37

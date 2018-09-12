@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1038	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	852	0.09	0.17	1.80	4.47
+GO:0051179	localization	426	0.26	0.13	2.57	3.37
+GO:0043170	macromolecule metabolic process	406	0.25	0.32	3.46	10.22
+GO:0006950	response to stress	249	0.39	0.32	4.70	6.14
+GO:0042113	B cell activation	32	0.68	0.63	8.28	19.85
+GO:0046718	viral entry into host cell	14	0.77	0.73	8.94	28.37
+GO:0043542	endothelial cell migration	9	0.80	0.75	9.14	24.97
+GO:0051131	chaperone-mediated protein complex assembly	3	1.00	0.82	9.63	44.52
+GO:0060644	mammary gland epithelial cell differentiation	3	0.83	0.70	9.12	24.20
+GO:0048305	immunoglobulin secretion	2	0.93	0.86	9.57	133.33
+GO:0001829	trophectodermal cell differentiation	2	1.00	0.75	9.63	21.07

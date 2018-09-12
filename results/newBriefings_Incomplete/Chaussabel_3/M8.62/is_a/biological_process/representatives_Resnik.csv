@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	713	0.25	0.32	3.72	7.96
+GO:0045892	negative regulation of transcription, DNA-templated	217	0.56	0.69	8.52	1581.26
+GO:0032268	regulation of cellular protein metabolic process	490	0.37	0.51	6.13	70.76
+GO:0006464	cellular protein modification process	581	0.34	0.49	5.84	147.03
+GO:0031325	positive regulation of cellular metabolic process	572	0.33	0.46	5.39	79.98
+GO:0044093	positive regulation of molecular function	328	0.43	0.41	5.23	6.77
+GO:0044092	negative regulation of molecular function	208	0.43	0.41	5.21	6.77
+GO:0051239	regulation of multicellular organismal process	448	0.23	0.32	3.68	7.96
+GO:0030336	negative regulation of cell migration	37	0.58	0.64	8.21	158.04
+GO:0051239	regulation of multicellular organismal process	448	0.23	0.32	3.68	7.96
+GO:0030336	negative regulation of cell migration	37	0.58	0.64	8.21	158.04
+GO:0022607	cellular component assembly	424	0.39	0.39	5.06	14.95
+GO:0009583	detection of light stimulus	6	0.75	0.67	9.05	50.88
+GO:0042221	response to chemical	413	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	404	0.43	0.51	5.91	23.17
+GO:0060341	regulation of cellular localization	173	0.40	0.45	5.64	10.45
+GO:0051049	regulation of transport	319	0.31	0.40	4.67	10.45
+GO:0051049	regulation of transport	319	0.31	0.40	4.67	10.45
+GO:0032880	regulation of protein localization	180	0.43	0.47	5.90	10.45
+GO:0043933	protein-containing complex subunit organization	353	0.43	0.41	5.44	14.95
+GO:0035556	intracellular signal transduction	328	0.51	0.55	6.92	23.17
+GO:0010941	regulation of cell death	296	0.43	0.47	6.10	12.04
+GO:0015031	protein transport	292	0.48	0.59	6.99	54.46
+GO:0042127	regulation of cell proliferation	238	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	233	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	212	0.44	0.54	6.68	140.65
+GO:0006629	lipid metabolic process	196	0.37	0.38	5.19	18.42
+GO:0006366	transcription by RNA polymerase II	130	0.60	0.72	8.61	583.88
+GO:0007186	G-protein coupled receptor signaling pathway	114	0.55	0.57	7.20	23.17
+GO:0006897	endocytosis	86	0.63	0.61	8.09	26.36
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	80	0.76	0.78	9.31	348.36
+GO:0098662	inorganic cation transmembrane transport	79	0.58	0.64	7.91	76.35
+GO:0032956	regulation of actin cytoskeleton organization	69	0.56	0.63	7.72	34.12
+GO:0007050	cell cycle arrest	33	0.81	0.73	9.29	55.62
+GO:0007268	chemical synaptic transmission	27	0.74	0.72	8.66	23.17
+GO:0097755	positive regulation of blood vessel diameter	8	0.75	0.73	9.07	39.68
+GO:0042157	lipoprotein metabolic process	5	0.76	0.67	9.00	47.86
+GO:0060716	labyrinthine layer blood vessel development	4	1.00	0.79	9.63	85.13
+GO:0002265	astrocyte activation involved in immune response	2	1.00	0.79	9.63	30.95

@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031325	positive regulation of cellular metabolic process	534	0.33	0.46	5.39	79.98
+GO:0006357	regulation of transcription by RNA polymerase II	316	0.44	0.63	7.11	248.57
+GO:0051240	positive regulation of multicellular organismal process	370	0.35	0.42	4.98	23.60
+GO:0034140	negative regulation of toll-like receptor 3 signaling pathway	2	1.00	0.90	9.63	354.71
+GO:0002684	positive regulation of immune system process	352	0.41	0.45	5.71	22.61
+GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	322	0.39	0.39	5.14	9.28
+GO:0008284	positive regulation of cell proliferation	250	0.56	0.57	7.27	43.45
+GO:0019221	cytokine-mediated signaling pathway	238	0.60	0.63	7.60	26.50
+GO:0006952	defense response	236	0.56	0.48	6.67	9.54
+GO:1902533	positive regulation of intracellular signal transduction	230	0.55	0.63	7.95	189.48
+GO:0046329	negative regulation of JNK cascade	8	0.93	0.91	9.61	1764.45
+GO:0080134	regulation of response to stress	304	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	216	0.40	0.45	5.60	11.65
+GO:0051050	positive regulation of transport	213	0.42	0.50	5.84	25.90
+GO:0043066	negative regulation of apoptotic process	209	0.56	0.63	7.79	81.07
+GO:0051130	positive regulation of cellular component organization	207	0.42	0.50	5.95	43.84
+GO:0007186	G-protein coupled receptor signaling pathway	197	0.55	0.57	7.20	23.17
+GO:0042119	neutrophil activation	189	0.89	0.77	9.49	20.95
+GO:0051345	positive regulation of hydrolase activity	160	0.57	0.57	7.42	32.99
+GO:0050900	leukocyte migration	155	0.60	0.59	8.02	26.94
+GO:0040017	positive regulation of locomotion	153	0.55	0.52	6.96	22.08
+GO:0002791	regulation of peptide secretion	110	0.51	0.58	7.07	32.12
+GO:0060326	cell chemotaxis	100	0.64	0.61	8.15	30.29
+GO:0045765	regulation of angiogenesis	83	0.70	0.68	8.82	44.94
+GO:0007204	positive regulation of cytosolic calcium ion concentration	76	0.68	0.77	9.10	290.30
+GO:0006898	receptor-mediated endocytosis	60	0.68	0.66	8.48	28.44
+GO:0007188	adenylate cyclase-modulating G-protein coupled receptor signaling pathway	47	0.71	0.71	8.71	27.67
+GO:0070098	chemokine-mediated signaling pathway	44	0.73	0.72	9.00	30.19
+GO:0019722	calcium-mediated signaling	44	0.72	0.71	8.71	27.81
+GO:0030593	neutrophil chemotaxis	44	1.00	0.90	9.63	130.30
+GO:0060333	interferon-gamma-mediated signaling pathway	36	1.00	0.85	9.63	30.19
+GO:0002286	T cell activation involved in immune response	27	0.70	0.67	8.89	82.05
+GO:0031100	animal organ regeneration	23	0.89	0.70	9.29	28.09
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	22	0.78	0.71	8.87	26.98
+GO:0045444	fat cell differentiation	21	0.87	0.68	9.29	21.07
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0048015	phosphatidylinositol-mediated signaling	15	0.93	0.82	9.51	26.43
+GO:0097755	positive regulation of blood vessel diameter	14	0.75	0.73	9.07	39.68
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0002407	dendritic cell chemotaxis	11	0.87	0.78	9.49	93.28
+GO:0002430	complement receptor mediated signaling pathway	7	0.93	0.86	9.58	218.74
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	7	1.00	0.88	9.63	82.06
+GO:0050702	interleukin-1 beta secretion	6	1.00	0.93	9.63	137.76
+GO:0070493	thrombin-activated receptor signaling pathway	5	1.00	0.82	9.63	26.98
+GO:0045217	cell-cell junction maintenance	5	0.87	0.72	9.31	51.61
+GO:0061028	establishment of endothelial barrier	4	0.89	0.77	9.41	35.45
+GO:0097029	mature conventional dendritic cell differentiation	4	1.00	0.82	9.63	70.63
+GO:0042789	mRNA transcription by RNA polymerase II	4	1.00	0.93	9.63	1288.39
+GO:0072643	interferon-gamma secretion	3	1.00	0.92	9.63	137.07
+GO:0007567	parturition	2	1.00	0.70	9.63	32.81
+GO:0010804	negative regulation of tumor necrosis factor-mediated signaling pathway	2	1.00	0.88	9.63	306.27
+GO:0032959	inositol trisphosphate biosynthetic process	2	1.00	0.88	9.63	361.00
+GO:0007263	nitric oxide mediated signal transduction	2	0.93	0.82	9.51	27.81
+GO:0002752	cell surface pattern recognition receptor signaling pathway	2	1.00	0.93	9.63	1037.77
+GO:0009609	response to symbiotic bacterium	1	0.93	0.79	9.52	57.43
+GO:0072608	interleukin-10 secretion	1	1.00	0.92	9.63	137.07
+GO:0035926	chemokine (C-C motif) ligand 2 secretion	1	1.00	0.93	9.63	137.76
+GO:0002232	leukocyte chemotaxis involved in inflammatory response	1	1.00	0.85	9.63	93.28
+GO:0071258	cellular response to gravity	1	1.00	0.79	9.63	37.21

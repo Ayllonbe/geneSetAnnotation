@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2438	0.12	0.26	2.47	7.96
+GO:0019538	protein metabolic process	1045	0.31	0.41	4.91	44.77
+GO:0022607	cellular component assembly	623	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	581	0.39	0.39	5.17	14.95
+GO:0032774	RNA biosynthetic process	639	0.53	0.62	8.04	473.34
+GO:0046907	intracellular transport	458	0.46	0.48	6.38	29.65
+GO:0045184	establishment of protein localization	410	0.46	0.48	6.14	17.87
+GO:0045893	positive regulation of transcription, DNA-templated	386	0.52	0.67	8.14	1208.12
+GO:1902533	positive regulation of intracellular signal transduction	266	0.55	0.63	7.95	189.48
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0009117	nucleotide metabolic process	122	0.44	0.57	7.31	170.44
+GO:0006091	generation of precursor metabolites and energy	106	0.53	0.46	6.54	17.52
+GO:0050714	positive regulation of protein secretion	73	0.65	0.70	8.73	381.48
+GO:0045666	positive regulation of neuron differentiation	70	0.62	0.68	8.71	337.32
+GO:0070838	divalent metal ion transport	60	0.62	0.66	8.27	33.88
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	49	1.00	0.79	9.63	42.20
+GO:0048278	vesicle docking	22	0.81	0.70	9.18	21.39
+GO:0007632	visual behavior	16	0.84	0.71	9.27	26.72
+GO:0033344	cholesterol efflux	5	1.00	0.88	9.63	39.64
+GO:0045053	protein retention in Golgi apparatus	3	1.00	0.82	9.63	46.06
+GO:0015782	CMP-N-acetylneuraminate transmembrane transport	1	1.00	0.88	9.63	142.06
+GO:0032468	Golgi calcium ion homeostasis	1	1.00	0.92	9.63	288.69

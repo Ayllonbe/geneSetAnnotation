@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	835	0.36	0.43	5.06	19.43
+GO:0031323	regulation of cellular metabolic process	798	0.22	0.36	4.01	22.77
+GO:0010628	positive regulation of gene expression	309	0.47	0.56	6.67	58.80
+GO:0071310	cellular response to organic substance	308	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	306	0.39	0.39	5.18	16.68
+GO:0032270	positive regulation of cellular protein metabolic process	286	0.47	0.59	7.41	288.49
+GO:0071702	organic substance transport	258	0.33	0.41	4.62	10.99
+GO:0043207	response to external biotic stimulus	249	0.41	0.40	5.91	16.64
+GO:0008284	positive regulation of cell proliferation	246	0.56	0.57	7.27	43.45
+GO:0042592	homeostatic process	239	0.45	0.42	5.70	8.64
+GO:0045055	regulated exocytosis	228	0.69	0.69	8.57	38.47
+GO:0006811	ion transport	216	0.38	0.44	5.19	10.99
+GO:0043066	negative regulation of apoptotic process	208	0.56	0.63	7.79	81.07
+GO:0045944	positive regulation of transcription by RNA polymerase II	197	0.55	0.71	8.36	1463.86
+GO:0030163	protein catabolic process	41	0.63	0.61	8.35	135.67
+GO:0006508	proteolysis	157	0.55	0.57	7.34	47.86
+GO:0046907	intracellular transport	147	0.46	0.48	6.38	29.65
+GO:0043065	positive regulation of apoptotic process	135	0.56	0.63	7.81	80.91
+GO:0030003	cellular cation homeostasis	133	0.57	0.63	8.00	68.30
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:0003006	developmental process involved in reproduction	98	0.43	0.34	5.07	14.49
+GO:0098662	inorganic cation transmembrane transport	92	0.58	0.64	7.91	76.35
+GO:0001818	negative regulation of cytokine production	80	0.51	0.55	7.03	44.36
+GO:0046942	carboxylic acid transport	53	0.45	0.58	6.78	47.71
+GO:0045766	positive regulation of angiogenesis	49	0.81	0.76	9.30	134.49
+GO:0030198	extracellular matrix organization	42	0.68	0.59	8.24	16.90
+GO:0005975	carbohydrate metabolic process	41	0.38	0.39	5.46	18.42
+GO:0010634	positive regulation of epithelial cell migration	34	0.79	0.77	9.38	242.53
+GO:0032729	positive regulation of interferon-gamma production	33	0.89	0.77	9.43	65.24
+GO:0002224	toll-like receptor signaling pathway	32	0.68	0.77	9.04	409.66
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0032868	response to insulin	22	0.93	0.82	9.54	74.03
+GO:0032526	response to retinoic acid	21	0.93	0.76	9.49	43.79
+GO:0050766	positive regulation of phagocytosis	18	0.77	0.76	9.34	175.33
+GO:0006914	autophagy	14	0.67	0.59	8.40	37.75
+GO:0002827	positive regulation of T-helper 1 type immune response	12	0.89	0.82	9.50	171.87
+GO:0045599	negative regulation of fat cell differentiation	11	0.93	0.79	9.54	114.62
+GO:2001259	positive regulation of cation channel activity	9	0.70	0.75	9.13	526.09
+GO:0015914	phospholipid transport	9	0.78	0.74	9.04	67.00
+GO:0008203	cholesterol metabolic process	9	0.80	0.72	9.22	82.65
+GO:0002456	T cell mediated immunity	8	0.76	0.67	9.12	29.49
+GO:0070371	ERK1 and ERK2 cascade	6	1.00	0.92	9.63	233.40
+GO:0002026	regulation of the force of heart contraction	6	0.72	0.71	8.76	26.87
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:0048255	mRNA stabilization	6	0.89	0.86	9.58	1968.72
+GO:0006687	glycosphingolipid metabolic process	6	0.68	0.69	9.04	147.46
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	5	0.84	0.82	9.59	500.08
+GO:0043171	peptide catabolic process	5	0.72	0.68	8.97	139.84
+GO:0060586	multicellular organismal iron ion homeostasis	3	1.00	0.92	9.63	58.33
+GO:0002309	T cell proliferation involved in immune response	2	0.87	0.78	9.52	137.08
+GO:0005980	glycogen catabolic process	2	0.93	0.84	9.59	697.83
+GO:0043181	vacuolar sequestering	1	0.93	0.76	9.49	25.86
+GO:0045342	MHC class II biosynthetic process	1	1.00	0.79	9.63	39.16
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19
+GO:0002086	diaphragm contraction	1	1.00	0.88	9.63	31.03

@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	2190	0.22	0.36	4.01	22.77
+GO:1901564	organonitrogen compound metabolic process	1879	0.23	0.31	3.63	19.40
+GO:0090304	nucleic acid metabolic process	1455	0.35	0.46	5.97	111.15
+GO:0030182	neuron differentiation	55	0.58	0.54	7.21	21.07
+GO:0031333	negative regulation of protein complex assembly	54	0.62	0.63	8.04	78.77
+GO:0032091	negative regulation of protein binding	40	0.70	0.64	8.48	32.72
+GO:0006099	tricarboxylic acid cycle	18	0.93	0.84	9.56	83.50
+GO:0006779	porphyrin-containing compound biosynthetic process	17	0.70	0.68	9.20	516.36
+GO:1902475	L-alpha-amino acid transmembrane transport	15	0.62	0.72	8.53	268.42
+GO:0000390	spliceosomal complex disassembly	2	1.00	0.82	9.63	58.05

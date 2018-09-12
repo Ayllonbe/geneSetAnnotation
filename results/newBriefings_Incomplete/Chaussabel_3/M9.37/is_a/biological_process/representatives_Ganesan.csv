@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	538	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	337	0.22	0.36	4.01	22.77
+GO:0006355	regulation of transcription, DNA-templated	207	0.40	0.60	6.84	245.35
+GO:0051173	positive regulation of nitrogen compound metabolic process	171	0.36	0.47	5.40	39.57
+GO:0006464	cellular protein modification process	158	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	142	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	129	0.39	0.39	5.17	14.95
+GO:0016192	vesicle-mediated transport	98	0.52	0.51	6.57	10.99
+GO:0015031	protein transport	92	0.48	0.59	6.99	54.46
+GO:0042981	regulation of apoptotic process	78	0.45	0.55	6.60	16.23
+GO:0006281	DNA repair	36	0.63	0.66	8.78	180.34
+GO:0045087	innate immune response	33	0.68	0.59	8.16	26.47
+GO:0043547	positive regulation of GTPase activity	31	0.93	0.79	9.52	49.34
+GO:0019221	cytokine-mediated signaling pathway	27	0.60	0.63	7.60	26.50
+GO:0050727	regulation of inflammatory response	22	0.53	0.59	7.40	31.59
+GO:0032956	regulation of actin cytoskeleton organization	19	0.56	0.63	7.72	34.12
+GO:0051260	protein homooligomerization	18	0.89	0.77	9.41	42.03
+GO:0030336	negative regulation of cell migration	16	0.58	0.64	8.21	158.04
+GO:0051056	regulation of small GTPase mediated signal transduction	15	0.68	0.69	8.65	45.07
+GO:0048278	vesicle docking	8	0.81	0.70	9.18	21.39
+GO:0030071	regulation of mitotic metaphase/anaphase transition	8	0.76	0.79	9.41	262.33
+GO:0000082	G1/S transition of mitotic cell cycle	7	1.00	0.79	9.63	42.75
+GO:0048208	COPII vesicle coating	7	1.00	0.82	9.63	62.44
+GO:0097352	autophagosome maturation	6	1.00	0.79	9.63	38.05
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	6	1.00	0.92	9.63	384.64
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	4	1.00	0.85	9.63	76.31
+GO:0031145	anaphase-promoting complex-dependent catabolic process	4	1.00	0.92	9.63	350.56
+GO:0007266	Rho protein signal transduction	4	0.93	0.84	9.52	29.61
+GO:0097345	mitochondrial outer membrane permeabilization	3	1.00	0.92	9.63	138.60
+GO:0043486	histone exchange	3	0.87	0.76	9.37	58.07
+GO:0048013	ephrin receptor signaling pathway	3	1.00	0.88	9.63	31.00
+GO:0043542	endothelial cell migration	3	0.80	0.75	9.14	24.97
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	2	0.87	0.78	9.52	52.93
+GO:0006465	signal peptide processing	1	0.93	0.82	9.57	245.95
+GO:0034498	early endosome to Golgi transport	1	1.00	0.85	9.63	101.51
+GO:0097498	endothelial tube lumen extension	1	0.93	0.82	9.52	49.90
+GO:0048280	vesicle fusion with Golgi apparatus	1	0.81	0.76	9.19	65.81

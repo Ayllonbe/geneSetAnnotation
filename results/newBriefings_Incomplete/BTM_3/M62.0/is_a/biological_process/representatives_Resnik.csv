@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2006	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	1749	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1675	0.09	0.17	1.80	4.47
+GO:0050789	regulation of biological process	1675	0.09	0.17	1.80	4.47
+GO:0019637	organophosphate metabolic process	149	0.37	0.43	5.66	31.07
+GO:1901576	organic substance biosynthetic process	517	0.28	0.34	3.95	19.57
+GO:1901564	organonitrogen compound metabolic process	733	0.23	0.31	3.63	19.40
+GO:0019222	regulation of metabolic process	955	0.21	0.30	3.39	7.96
+GO:0007165	signal transduction	905	0.36	0.43	5.06	19.43
+GO:0050896	response to stimulus	886	0.25	0.12	2.65	3.37
+GO:0006810	transport	699	0.28	0.34	3.95	7.46
+GO:0050794	regulation of cellular process	1589	0.12	0.26	2.47	7.96
+GO:0023051	regulation of signaling	662	0.30	0.35	4.24	7.96
+GO:0032502	developmental process	596	0.22	0.11	1.89	3.37
+GO:0032879	regulation of localization	554	0.27	0.33	4.05	7.96
+GO:0065008	regulation of biological quality	533	0.28	0.26	3.48	4.47
+GO:0061024	membrane organization	63	0.47	0.43	6.06	14.95
+GO:0022607	cellular component assembly	374	0.39	0.39	5.06	14.95
+GO:0042127	regulation of cell proliferation	396	0.45	0.48	6.03	12.04
+GO:0010941	regulation of cell death	354	0.43	0.47	6.10	12.04
+GO:0016477	cell migration	223	0.47	0.48	6.31	17.13
+GO:0070318	positive regulation of G0 to G1 transition	2	1.00	0.85	9.63	82.72

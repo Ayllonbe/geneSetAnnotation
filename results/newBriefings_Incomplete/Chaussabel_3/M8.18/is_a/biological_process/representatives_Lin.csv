@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901576	organic substance biosynthetic process	1529	0.28	0.34	3.95	19.57
+GO:1901568	fatty acid derivative metabolic process	47	0.57	0.49	7.01	10.22
+GO:0010468	regulation of gene expression	1516	0.35	0.46	5.09	13.73
+GO:0008104	protein localization	660	0.40	0.40	5.07	7.46
+GO:0006810	transport	1329	0.28	0.34	3.95	7.46
+GO:0044271	cellular nitrogen compound biosynthetic process	1168	0.36	0.43	5.55	60.43
+GO:0065009	regulation of molecular function	980	0.33	0.29	4.10	4.47
+GO:0006950	response to stress	890	0.39	0.32	4.70	6.14
+GO:0022607	cellular component assembly	854	0.39	0.39	5.06	14.95
+GO:0032879	regulation of localization	832	0.27	0.33	4.05	7.96
+GO:0050793	regulation of developmental process	766	0.26	0.33	3.95	7.96
+GO:0010033	response to organic substance	658	0.35	0.37	4.75	9.28
+GO:0051726	regulation of cell cycle	426	0.41	0.45	5.89	12.04
+GO:0046903	secretion	377	0.46	0.48	5.79	10.99
+GO:0055085	transmembrane transport	281	0.41	0.46	5.44	10.99
+GO:0030155	regulation of cell adhesion	207	0.48	0.44	5.95	7.96
+GO:0048468	cell development	176	0.51	0.45	6.51	28.42
+GO:0072521	purine-containing compound metabolic process	115	0.47	0.48	7.16	111.71
+GO:0050706	regulation of interleukin-1 beta secretion	18	0.89	0.86	9.53	155.13
+GO:0001818	negative regulation of cytokine production	99	0.51	0.55	7.03	44.36
+GO:0001505	regulation of neurotransmitter levels	81	0.49	0.44	5.98	8.64
+GO:0006486	protein glycosylation	79	0.62	0.66	8.59	174.08
+GO:0008016	regulation of heart contraction	42	0.57	0.61	7.59	16.15
+GO:0007517	muscle organ development	31	0.78	0.64	8.75	27.68
+GO:0032482	Rab protein signal transduction	30	1.00	0.88	9.63	29.61
+GO:1903426	regulation of reactive oxygen species biosynthetic process	26	0.79	0.72	9.22	42.43
+GO:0035176	social behavior	16	1.00	0.70	9.63	22.58
+GO:0001657	ureteric bud development	13	1.00	0.88	9.63	36.92
+GO:0070233	negative regulation of T cell apoptotic process	12	0.83	0.83	9.37	155.58
+GO:0042310	vasoconstriction	11	0.75	0.75	9.10	39.68
+GO:0002829	negative regulation of type 2 immune response	6	0.89	0.77	9.46	108.79
+GO:0001881	receptor recycling	5	0.84	0.74	9.22	34.80
+GO:1900425	negative regulation of defense response to bacterium	5	0.77	0.73	9.27	222.83
+GO:2000774	positive regulation of cellular senescence	4	1.00	0.85	9.63	164.05
+GO:0003429	growth plate cartilage chondrocyte morphogenesis	4	1.00	0.88	9.63	76.28
+GO:0032227	negative regulation of synaptic transmission, dopaminergic	3	0.89	0.82	9.56	135.87
+GO:0019547	arginine catabolic process to ornithine	2	1.00	0.93	9.63	647.31
+GO:0072086	specification of loop of Henle identity	2	0.93	0.76	9.47	26.26

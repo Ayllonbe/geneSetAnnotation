@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044093	positive regulation of molecular function	39	0.43	0.41	5.23	6.77
+GO:0050794	regulation of cellular process	260	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	179	0.28	0.39	4.44	30.44
+GO:0006810	transport	133	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	129	0.28	0.26	3.74	11.45
+GO:0007165	signal transduction	100	0.36	0.43	5.06	19.43
+GO:0032268	regulation of cellular protein metabolic process	60	0.37	0.51	6.13	70.76
+GO:0009966	regulation of signal transduction	62	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	73	0.35	0.30	4.36	13.53
+GO:0032502	developmental process	64	0.22	0.11	1.89	3.37
+GO:0051049	regulation of transport	57	0.31	0.40	4.67	10.45
+GO:0042981	regulation of apoptotic process	33	0.45	0.55	6.60	16.23
+GO:0022402	cell cycle process	30	0.40	0.32	4.60	7.39
+GO:0010564	regulation of cell cycle process	27	0.42	0.50	6.22	14.24
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	3	1.00	0.88	9.63	66.40
+GO:0035973	aggrephagy	1	0.89	0.80	9.45	41.78
+GO:0006103	2-oxoglutarate metabolic process	1	0.80	0.75	9.14	69.92

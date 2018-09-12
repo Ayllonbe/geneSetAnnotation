@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	172	0.31	0.41	4.91	44.77
+GO:0016070	RNA metabolic process	93	0.39	0.52	6.45	112.25
+GO:0006417	regulation of translation	9	0.52	0.61	8.02	212.82
+GO:0051252	regulation of RNA metabolic process	159	0.37	0.51	6.06	70.58
+GO:0006417	regulation of translation	9	0.52	0.61	8.02	212.82
+GO:0051252	regulation of RNA metabolic process	159	0.37	0.51	6.06	70.58
+GO:0065003	protein-containing complex assembly	86	0.45	0.48	6.06	36.47
+GO:0006913	nucleocytoplasmic transport	32	0.63	0.64	8.15	33.20
+GO:0001649	osteoblast differentiation	8	1.00	0.75	9.63	21.07
+GO:0071347	cellular response to interleukin-1	4	1.00	0.82	9.63	81.65

@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4135	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	2901	0.08	0.04	0.98	3.37
+GO:0045087	innate immune response	147	0.68	0.59	8.16	26.47
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	51	1.00	0.79	9.63	42.20
+GO:2000650	negative regulation of sodium ion transmembrane transporter activity	5	0.83	0.83	9.46	676.30
+GO:0051090	regulation of DNA binding transcription factor activity	114	0.72	0.77	9.22	255.34
+GO:0051179	localization	1283	0.26	0.13	2.57	3.37
+GO:0032502	developmental process	744	0.22	0.11	1.89	3.37
+GO:0007610	behavior	66	0.48	0.24	4.72	3.37
+GO:0032502	developmental process	744	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	305	0.33	0.16	3.12	3.37

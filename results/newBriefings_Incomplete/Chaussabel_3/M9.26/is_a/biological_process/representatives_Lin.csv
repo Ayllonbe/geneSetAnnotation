@@ -1,0 +1,65 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	314	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1853	0.09	0.05	0.84	3.37
+GO:0031326	regulation of cellular biosynthetic process	625	0.29	0.44	4.86	40.35
+GO:0019538	protein metabolic process	590	0.31	0.41	4.91	44.77
+GO:0007165	signal transduction	550	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	522	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	475	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	411	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	349	0.57	0.68	8.45	581.39
+GO:0016192	vesicle-mediated transport	279	0.52	0.51	6.57	10.99
+GO:0048585	negative regulation of response to stimulus	221	0.36	0.43	5.03	23.55
+GO:0042981	regulation of apoptotic process	219	0.45	0.55	6.60	16.23
+GO:0071310	cellular response to organic substance	187	0.44	0.47	5.95	41.66
+GO:0001934	positive regulation of protein phosphorylation	139	0.58	0.69	8.60	663.11
+GO:0010564	regulation of cell cycle process	136	0.42	0.50	6.22	14.24
+GO:0051345	positive regulation of hydrolase activity	132	0.57	0.57	7.42	32.99
+GO:0008284	positive regulation of cell proliferation	118	0.56	0.57	7.27	43.45
+GO:0031347	regulation of defense response	116	0.40	0.49	5.73	14.14
+GO:0031329	regulation of cellular catabolic process	108	0.43	0.51	6.41	39.60
+GO:0009653	anatomical structure morphogenesis	103	0.36	0.31	4.09	6.46
+GO:0019221	cytokine-mediated signaling pathway	95	0.60	0.63	7.60	26.50
+GO:0030155	regulation of cell adhesion	94	0.48	0.44	5.95	7.96
+GO:1903530	regulation of secretion by cell	90	0.44	0.54	6.38	28.69
+GO:0007167	enzyme linked receptor protein signaling pathway	84	0.53	0.59	7.04	26.50
+GO:0048468	cell development	71	0.51	0.45	6.51	28.42
+GO:0055082	cellular chemical homeostasis	71	0.54	0.56	7.37	33.04
+GO:0010608	posttranscriptional regulation of gene expression	69	0.50	0.57	6.83	16.68
+GO:0098655	cation transmembrane transport	67	0.52	0.58	7.13	43.36
+GO:0072657	protein localization to membrane	66	0.58	0.58	7.59	29.83
+GO:1903706	regulation of hemopoiesis	63	0.50	0.54	7.23	38.17
+GO:0090066	regulation of anatomical structure size	61	0.53	0.46	6.45	8.64
+GO:0051962	positive regulation of nervous system development	49	0.56	0.60	7.74	86.11
+GO:0051098	regulation of binding	45	0.50	0.45	6.36	6.77
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	39	0.69	0.74	9.07	111.97
+GO:1904062	regulation of cation transmembrane transport	38	0.49	0.59	7.03	34.83
+GO:0050804	modulation of chemical synaptic transmission	32	0.52	0.58	7.24	27.32
+GO:0070507	regulation of microtubule cytoskeleton organization	32	0.61	0.65	8.24	33.71
+GO:0048589	developmental growth	28	0.55	0.40	6.36	12.22
+GO:0001701	in utero embryonic development	27	1.00	0.85	9.63	22.50
+GO:0007268	chemical synaptic transmission	23	0.74	0.72	8.66	23.17
+GO:0006006	glucose metabolic process	22	0.71	0.68	8.57	34.68
+GO:0010595	positive regulation of endothelial cell migration	20	0.83	0.81	9.49	298.63
+GO:0007565	female pregnancy	19	1.00	0.70	9.63	32.81
+GO:0045185	maintenance of protein location	18	0.63	0.57	7.77	16.39
+GO:0030203	glycosaminoglycan metabolic process	16	0.66	0.62	8.41	52.03
+GO:0035567	non-canonical Wnt signaling pathway	14	0.70	0.72	8.61	31.42
+GO:0045995	regulation of embryonic development	13	0.50	0.54	6.89	27.38
+GO:0070126	mitochondrial translational termination	12	1.00	0.85	9.63	40.69
+GO:0002244	hematopoietic progenitor cell differentiation	12	0.81	0.66	8.94	21.07
+GO:0006904	vesicle docking involved in exocytosis	10	0.89	0.77	9.43	32.65
+GO:0010717	regulation of epithelial to mesenchymal transition	9	0.71	0.65	9.00	54.42
+GO:2000008	regulation of protein localization to cell surface	9	0.89	0.77	9.38	29.06
+GO:0030220	platelet formation	7	1.00	0.79	9.63	33.80
+GO:1901223	negative regulation of NIK/NF-kappaB signaling	7	1.00	0.88	9.63	239.20
+GO:0001523	retinoid metabolic process	6	0.77	0.76	9.19	47.55
+GO:0007416	synapse assembly	5	0.84	0.67	9.12	35.85
+GO:0038179	neurotrophin signaling pathway	5	0.89	0.77	9.38	26.50
+GO:0042267	natural killer cell mediated cytotoxicity	5	0.93	0.79	9.55	47.36
+GO:0035094	response to nicotine	4	0.93	0.72	9.45	26.17
+GO:0060395	SMAD protein signal transduction	3	1.00	0.79	9.63	23.17
+GO:0010832	negative regulation of myotube differentiation	2	0.84	0.80	9.45	178.40
+GO:0070473	negative regulation of uterine smooth muscle contraction	1	1.00	0.90	9.63	88.34
+GO:0031550	positive regulation of brain-derived neurotrophic factor receptor signaling pathway	1	0.93	0.82	9.56	187.36
+GO:0021520	spinal cord motor neuron cell fate specification	1	1.00	0.79	9.63	21.52

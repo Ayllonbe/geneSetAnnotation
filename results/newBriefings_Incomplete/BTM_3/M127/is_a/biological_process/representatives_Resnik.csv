@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1540	0.09	0.17	1.80	4.47
+GO:0034654	nucleobase-containing compound biosynthetic process	316	0.40	0.49	6.85	317.02
+GO:1901564	organonitrogen compound metabolic process	662	0.23	0.31	3.63	19.40
+GO:0042221	response to chemical	485	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	479	0.39	0.32	4.70	6.14
+GO:0048523	negative regulation of cellular process	728	0.24	0.37	3.90	23.93
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:0010556	regulation of macromolecule biosynthetic process	533	0.33	0.46	5.12	27.30
+GO:0006810	transport	661	0.28	0.34	3.95	7.46
+GO:0032880	regulation of protein localization	185	0.43	0.47	5.90	10.45
+GO:0051239	regulation of multicellular organismal process	574	0.23	0.32	3.68	7.96
+GO:0009615	response to virus	91	0.74	0.66	8.80	27.27
+GO:0002376	immune system process	609	0.38	0.19	3.93	3.37
+GO:0065009	regulation of molecular function	578	0.33	0.29	4.10	4.47
+GO:0032502	developmental process	547	0.22	0.11	1.89	3.37
+GO:0042127	regulation of cell proliferation	362	0.45	0.48	6.03	12.04
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0007259	JAK-STAT cascade	10	0.93	0.82	9.51	26.43
+GO:0061024	membrane organization	62	0.47	0.43	6.06	14.95
+GO:0072136	metanephric mesenchymal cell proliferation involved in metanephros development	1	1.00	0.75	9.63	28.01

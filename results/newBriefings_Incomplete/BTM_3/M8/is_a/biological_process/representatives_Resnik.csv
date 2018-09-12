@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009628	response to abiotic stimulus	100	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	344	0.32	0.29	4.12	6.14
+GO:0050793	regulation of developmental process	330	0.26	0.33	3.95	7.96
+GO:0042127	regulation of cell proliferation	256	0.45	0.48	6.03	12.04
+GO:0031324	negative regulation of cellular metabolic process	238	0.34	0.46	5.46	80.35
+GO:0006464	cellular protein modification process	235	0.34	0.49	5.84	147.03
+GO:0051983	regulation of chromosome segregation	7	0.53	0.51	7.14	12.04
+GO:0031399	regulation of protein modification process	227	0.41	0.56	6.69	72.96
+GO:0035556	intracellular signal transduction	213	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	196	0.45	0.55	6.60	16.23
+GO:0045893	positive regulation of transcription, DNA-templated	161	0.52	0.67	8.14	1208.12
+GO:0032774	RNA biosynthetic process	151	0.53	0.62	8.04	473.34
+GO:0051726	regulation of cell cycle	117	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	111	0.40	0.32	4.60	7.39
+GO:0000733	DNA strand renaturation	3	0.93	0.82	9.58	172.77
+GO:0006259	DNA metabolic process	80	0.45	0.55	7.12	145.26
+GO:0051052	regulation of DNA metabolic process	58	0.47	0.56	7.17	70.58
+GO:0070647	protein modification by small protein conjugation or removal	46	0.61	0.66	8.44	151.15
+GO:0043009	chordate embryonic development	15	0.93	0.79	9.49	22.50
+GO:0006633	fatty acid biosynthetic process	14	0.65	0.70	8.91	359.85
+GO:0031100	animal organ regeneration	13	0.89	0.70	9.29	28.09
+GO:0010575	positive regulation of vascular endothelial growth factor production	8	1.00	0.82	9.63	64.54
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0043392	negative regulation of DNA binding	4	0.76	0.67	8.87	32.53
+GO:0030521	androgen receptor signaling pathway	4	0.89	0.82	9.45	54.01
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	234.24
+GO:0006359	regulation of transcription by RNA polymerase III	2	0.84	0.84	9.53	248.57
+GO:0031145	anaphase-promoting complex-dependent catabolic process	1	1.00	0.92	9.63	350.56
+GO:0010994	free ubiquitin chain polymerization	1	1.00	0.85	9.63	46.13

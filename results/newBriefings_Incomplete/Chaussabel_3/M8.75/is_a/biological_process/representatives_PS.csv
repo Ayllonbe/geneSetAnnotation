@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	833	0.22	0.36	4.01	22.77
+GO:0048518	positive regulation of biological process	778	0.21	0.30	3.05	7.96
+GO:1901576	organic substance biosynthetic process	599	0.28	0.34	3.95	19.57
+GO:0045814	negative regulation of gene expression, epigenetic	14	0.77	0.73	9.08	80.10
+GO:0006355	regulation of transcription, DNA-templated	490	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	391	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	370	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	325	0.57	0.68	8.45	581.39
+GO:0031399	regulation of protein modification process	274	0.41	0.56	6.69	72.96
+GO:0016192	vesicle-mediated transport	272	0.52	0.51	6.57	10.99
+GO:0065003	protein-containing complex assembly	243	0.45	0.48	6.06	36.47
+GO:0080134	regulation of response to stress	221	0.35	0.42	5.03	11.65
+GO:0016310	phosphorylation	183	0.53	0.56	6.88	24.41
+GO:0006886	intracellular protein transport	154	0.55	0.65	8.12	90.55
+GO:0051345	positive regulation of hydrolase activity	124	0.57	0.57	7.42	32.99
+GO:1901701	cellular response to oxygen-containing compound	110	0.47	0.48	6.19	42.34
+GO:0006952	defense response	107	0.56	0.48	6.67	9.54
+GO:0055086	nucleobase-containing small molecule metabolic process	91	0.38	0.48	6.63	107.58
+GO:0019221	cytokine-mediated signaling pathway	90	0.60	0.63	7.60	26.50
+GO:0043312	neutrophil degranulation	82	1.00	0.90	9.63	132.80
+GO:0006914	autophagy	44	0.67	0.59	8.40	37.75
+GO:0001818	negative regulation of cytokine production	41	0.51	0.55	7.03	44.36
+GO:0010959	regulation of metal ion transport	40	0.50	0.57	7.05	16.65
+GO:0002819	regulation of adaptive immune response	33	0.52	0.55	7.28	25.62
+GO:0006816	calcium ion transport	22	0.67	0.71	8.69	35.67
+GO:0048525	negative regulation of viral process	15	0.71	0.68	8.66	43.32
+GO:0030838	positive regulation of actin filament polymerization	15	0.79	0.83	9.46	459.93
+GO:0008016	regulation of heart contraction	15	0.57	0.61	7.59	16.15
+GO:0002244	hematopoietic progenitor cell differentiation	12	0.81	0.66	8.94	21.07
+GO:0006986	response to unfolded protein	11	0.87	0.72	9.34	23.96
+GO:0006094	gluconeogenesis	11	1.00	0.85	9.63	174.61
+GO:0051085	chaperone cofactor-dependent protein refolding	9	1.00	0.79	9.63	21.14
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	9	0.89	0.74	9.38	32.56
+GO:0060337	type I interferon signaling pathway	7	1.00	0.85	9.63	30.19
+GO:0007218	neuropeptide signaling pathway	6	0.93	0.79	9.49	26.98
+GO:0070206	protein trimerization	6	0.89	0.77	9.41	42.03
+GO:0070534	protein K63-linked ubiquitination	5	0.93	0.90	9.58	157.60
+GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	4	0.87	0.72	9.41	42.20
+GO:0035025	positive regulation of Rho protein signal transduction	4	1.00	0.92	9.63	339.62
+GO:0051599	response to hydrostatic pressure	2	0.93	0.76	9.52	59.74
+GO:0072643	interferon-gamma secretion	2	1.00	0.92	9.63	137.07
+GO:2000852	regulation of corticosterone secretion	2	0.89	0.88	9.54	120.66
+GO:0030851	granulocyte differentiation	2	0.87	0.76	9.31	47.07
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	2	1.00	0.95	9.63	292.09
+GO:0051001	negative regulation of nitric-oxide synthase activity	2	1.00	0.85	9.63	123.18
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	1	1.00	0.88	9.63	82.06
+GO:0021547	midbrain-hindbrain boundary initiation	1	1.00	0.75	9.63	25.17
+GO:0030225	macrophage differentiation	1	0.93	0.79	9.51	47.07
+GO:0006843	mitochondrial citrate transmembrane transport	1	1.00	0.93	9.63	312.56

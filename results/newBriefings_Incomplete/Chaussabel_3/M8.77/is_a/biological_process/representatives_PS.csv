@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1742	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1359	0.09	0.17	1.80	4.47
+GO:0048708	astrocyte differentiation	2	0.89	0.74	9.34	23.15
+GO:0044237	cellular metabolic process	1213	0.16	0.21	2.71	13.80
+GO:0050896	response to stimulus	540	0.25	0.12	2.65	3.37
+GO:0016192	vesicle-mediated transport	268	0.52	0.51	6.57	10.99
+GO:0048856	anatomical structure development	163	0.33	0.29	3.70	6.46
+GO:0007517	muscle organ development	9	0.78	0.64	8.75	27.68
+GO:0055007	cardiac muscle cell differentiation	6	0.79	0.72	9.07	45.92
+GO:0001569	branching involved in blood vessel morphogenesis	3	1.00	0.85	9.63	53.50
+GO:1904956	regulation of midbrain dopaminergic neuron differentiation	2	0.83	0.81	9.49	65.92

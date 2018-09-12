@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	484	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	460	0.34	0.49	5.84	147.03
+GO:0051246	regulation of protein metabolic process	411	0.34	0.46	5.46	41.09
+GO:0009966	regulation of signal transduction	388	0.33	0.45	5.35	37.59
+GO:0022607	cellular component assembly	338	0.39	0.39	5.06	14.95
+GO:0006351	transcription, DNA-templated	322	0.57	0.68	8.45	581.39
+GO:0002376	immune system process	306	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	275	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	257	0.51	0.55	6.92	23.17
+GO:2000026	regulation of multicellular organismal development	221	0.29	0.39	4.73	23.09
+GO:0034613	cellular protein localization	145	0.45	0.48	6.33	26.83
+GO:0008284	positive regulation of cell proliferation	115	0.56	0.57	7.27	43.45
+GO:0030334	regulation of cell migration	109	0.48	0.56	7.11	36.74
+GO:0001817	regulation of cytokine production	100	0.40	0.45	5.78	11.79
+GO:0009653	anatomical structure morphogenesis	97	0.36	0.31	4.09	6.46
+GO:0043547	positive regulation of GTPase activity	67	0.93	0.79	9.52	49.34
+GO:0046718	viral entry into host cell	18	0.77	0.73	8.94	28.37
+GO:0042113	B cell activation	18	0.68	0.63	8.28	19.85
+GO:0007517	muscle organ development	10	0.78	0.64	8.75	27.68
+GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation	10	0.80	0.83	9.54	1782.73
+GO:0007044	cell-substrate junction assembly	10	0.87	0.72	9.38	36.10
+GO:0022617	extracellular matrix disassembly	7	0.87	0.72	9.38	37.09
+GO:0001755	neural crest cell migration	7	0.80	0.72	9.09	22.57
+GO:0001942	hair follicle development	6	1.00	0.75	9.63	22.36
+GO:0045446	endothelial cell differentiation	3	0.79	0.68	8.94	24.20
+GO:2000691	negative regulation of cardiac muscle cell myoblast differentiation	1	1.00	0.88	9.63	607.75

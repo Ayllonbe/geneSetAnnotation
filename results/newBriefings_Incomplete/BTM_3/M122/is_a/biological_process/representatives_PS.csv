@@ -1,0 +1,116 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1545	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	1460	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	901	0.24	0.37	3.90	23.85
+GO:0045785	positive regulation of cell adhesion	141	0.58	0.54	7.23	21.97
+GO:0048583	regulation of response to stimulus	822	0.25	0.32	3.72	7.96
+GO:0010468	regulation of gene expression	565	0.35	0.46	5.09	13.73
+GO:0010557	positive regulation of macromolecule biosynthetic process	316	0.45	0.55	6.62	113.59
+GO:0050793	regulation of developmental process	490	0.26	0.33	3.95	7.96
+GO:0051239	regulation of multicellular organismal process	578	0.23	0.32	3.68	7.96
+GO:0006950	response to stress	480	0.39	0.32	4.70	6.14
+GO:0051128	regulation of cellular component organization	411	0.30	0.40	4.57	12.04
+GO:0051240	positive regulation of multicellular organismal process	380	0.35	0.42	4.98	23.60
+GO:0045668	negative regulation of osteoblast differentiation	10	0.93	0.79	9.56	170.33
+GO:0006464	cellular protein modification process	369	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	313	0.44	0.47	5.95	41.66
+GO:0009725	response to hormone	155	0.53	0.51	7.03	21.86
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	254	0.56	0.57	7.27	43.45
+GO:0035556	intracellular signal transduction	315	0.51	0.55	6.92	23.17
+GO:0043066	negative regulation of apoptotic process	211	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	138	0.56	0.63	7.81	80.91
+GO:0001932	regulation of protein phosphorylation	292	0.50	0.62	7.64	109.03
+GO:0045821	positive regulation of glycolytic process	2	0.89	0.89	9.59	4823.69
+GO:0034645	cellular macromolecule biosynthetic process	278	0.47	0.53	6.91	102.76
+GO:0043933	protein-containing complex subunit organization	268	0.43	0.41	5.44	14.95
+GO:0051241	negative regulation of multicellular organismal process	248	0.35	0.42	4.99	23.69
+GO:0019221	cytokine-mediated signaling pathway	240	0.60	0.63	7.60	26.50
+GO:0051336	regulation of hydrolase activity	236	0.46	0.48	6.24	9.25
+GO:0051050	positive regulation of transport	218	0.42	0.50	5.84	25.90
+GO:0030334	regulation of cell migration	214	0.48	0.56	7.11	36.74
+GO:0022603	regulation of anatomical structure morphogenesis	214	0.36	0.43	5.15	11.29
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0051707	response to other organism	180	0.42	0.46	6.41	24.63
+GO:0006874	cellular calcium ion homeostasis	107	0.63	0.71	8.83	287.08
+GO:0045786	negative regulation of cell cycle	105	0.51	0.54	7.10	42.35
+GO:0060326	cell chemotaxis	101	0.64	0.61	8.15	30.29
+GO:0050870	positive regulation of T cell activation	100	0.63	0.69	8.78	216.07
+GO:0017144	drug metabolic process	89	0.37	0.38	5.07	17.52
+GO:0000902	cell morphogenesis	57	0.63	0.56	7.92	43.26
+GO:0050921	positive regulation of chemotaxis	52	0.64	0.64	8.36	97.34
+GO:0002576	platelet degranulation	47	1.00	0.88	9.63	39.86
+GO:0030593	neutrophil chemotaxis	45	1.00	0.90	9.63	130.30
+GO:0007265	Ras protein signal transduction	40	0.76	0.73	8.94	27.53
+GO:0048812	neuron projection morphogenesis	39	0.65	0.68	8.50	63.00
+GO:0030522	intracellular receptor signaling pathway	35	0.65	0.62	7.99	23.17
+GO:0007229	integrin-mediated signaling pathway	34	1.00	0.82	9.63	26.50
+GO:0001649	osteoblast differentiation	29	1.00	0.75	9.63	21.07
+GO:0009792	embryo development ending in birth or egg hatching	27	0.87	0.72	9.34	21.80
+GO:0043401	steroid hormone mediated signaling pathway	26	0.75	0.70	8.80	25.74
+GO:0048247	lymphocyte chemotaxis	25	0.77	0.73	9.30	94.38
+GO:0002548	monocyte chemotaxis	23	1.00	0.85	9.63	125.46
+GO:0097191	extrinsic apoptotic signaling pathway	23	0.83	0.74	9.22	51.06
+GO:0031100	animal organ regeneration	23	0.89	0.70	9.29	28.09
+GO:0008584	male gonad development	23	1.00	0.79	9.63	50.96
+GO:0007179	transforming growth factor beta receptor signaling pathway	21	0.76	0.75	9.05	29.90
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0007517	muscle organ development	19	0.78	0.64	8.75	27.68
+GO:0007565	female pregnancy	16	1.00	0.70	9.63	32.81
+GO:0048666	neuron development	16	0.67	0.58	8.09	32.15
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	15	0.83	0.79	9.19	31.00
+GO:0051146	striated muscle cell differentiation	14	0.74	0.66	8.78	21.76
+GO:0031532	actin cytoskeleton reorganization	12	1.00	0.82	9.63	32.01
+GO:0006006	glucose metabolic process	12	0.71	0.68	8.57	34.68
+GO:0030326	embryonic limb morphogenesis	11	0.89	0.74	9.38	43.31
+GO:0008344	adult locomotory behavior	11	0.84	0.62	9.16	24.58
+GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
+GO:0007259	JAK-STAT cascade	10	0.93	0.82	9.51	26.43
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
+GO:0048008	platelet-derived growth factor receptor signaling pathway	9	0.78	0.76	9.19	31.00
+GO:0048245	eosinophil chemotaxis	9	1.00	0.90	9.63	130.30
+GO:2000679	positive regulation of transcription regulatory region DNA binding	7	0.89	0.77	9.43	47.97
+GO:0014065	phosphatidylinositol 3-kinase signaling	7	1.00	0.88	9.63	26.43
+GO:0060674	placenta blood vessel development	7	0.93	0.72	9.47	32.96
+GO:0048246	macrophage chemotaxis	7	1.00	0.88	9.63	95.92
+GO:0060317	cardiac epithelial to mesenchymal transition	6	0.80	0.72	9.01	24.76
+GO:0048009	insulin-like growth factor receptor signaling pathway	6	1.00	0.88	9.63	31.00
+GO:0001942	hair follicle development	6	1.00	0.75	9.63	22.36
+GO:0022029	telencephalon cell migration	5	0.69	0.67	8.68	21.32
+GO:0060065	uterus development	5	1.00	0.75	9.63	49.87
+GO:0045445	myoblast differentiation	5	0.89	0.70	9.29	21.07
+GO:0007413	axonal fasciculation	5	0.89	0.80	9.45	31.51
+GO:0032060	bleb assembly	4	1.00	0.82	9.63	58.57
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	4	1.00	0.82	9.63	60.18
+GO:0048699	generation of neurons	4	0.93	0.76	9.47	21.76
+GO:0002042	cell migration involved in sprouting angiogenesis	4	1.00	0.90	9.63	27.17
+GO:0014904	myotube cell development	4	0.89	0.77	9.41	33.94
+GO:0048846	axon extension involved in axon guidance	3	1.00	0.82	9.63	104.68
+GO:0001893	maternal placenta development	3	1.00	0.75	9.63	43.25
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	71.51
+GO:0031069	hair follicle morphogenesis	3	1.00	0.75	9.63	21.57
+GO:1902287	semaphorin-plexin signaling pathway involved in axon guidance	3	1.00	0.88	9.63	28.58
+GO:0048566	embryonic digestive tract development	3	0.93	0.76	9.49	33.61
+GO:0060707	trophoblast giant cell differentiation	3	1.00	0.79	9.63	42.29
+GO:0048012	hepatocyte growth factor receptor signaling pathway	3	1.00	0.88	9.63	31.00
+GO:0003222	ventricular trabecula myocardium morphogenesis	3	0.89	0.80	9.43	28.31
+GO:0043615	astrocyte cell migration	2	0.89	0.77	9.38	22.24
+GO:0060982	coronary artery morphogenesis	2	1.00	0.82	9.63	32.54
+GO:0006930	substrate-dependent cell migration, cell extension	2	1.00	0.82	9.63	58.57
+GO:0010002	cardioblast differentiation	2	0.89	0.74	9.38	46.83
+GO:0097490	sympathetic neuron projection extension	2	1.00	0.79	9.63	51.99
+GO:0061549	sympathetic ganglion development	2	1.00	0.79	9.63	31.42
+GO:1902946	protein localization to early endosome	1	0.93	0.82	9.52	33.47
+GO:1902378	VEGF-activated neuropilin signaling pathway involved in axon guidance	1	1.00	0.92	9.63	58.60
+GO:1901166	neural crest cell migration involved in autonomic nervous system development	1	0.93	0.82	9.51	23.96
+GO:0150018	basal dendrite development	1	1.00	0.85	9.63	34.02
+GO:0097475	motor neuron migration	1	0.89	0.77	9.49	22.71
+GO:1903375	facioacoustic ganglion development	1	1.00	0.82	9.63	32.52
+GO:0021828	gonadotrophin-releasing hormone neuronal migration to the hypothalamus	1	1.00	0.93	9.63	88.97
+GO:0035684	helper T cell extravasation	1	0.89	0.84	9.47	63.47
+GO:1904835	dorsal root ganglion morphogenesis	1	1.00	0.79	9.63	28.43
+GO:0061551	trigeminal ganglion development	1	1.00	0.82	9.63	32.52
+GO:0051795	positive regulation of timing of catagen	1	1.00	0.88	9.63	253.10
+GO:0150020	basal dendrite arborization	1	1.00	0.92	9.63	197.41
+GO:0060385	axonogenesis involved in innervation	1	1.00	0.90	9.63	66.00
+GO:0036486	ventral trunk neural crest cell migration	1	1.00	0.88	9.63	24.65

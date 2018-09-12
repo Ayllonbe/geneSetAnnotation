@@ -1,0 +1,75 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	5	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	29	0.12	0.26	2.47	7.96
+GO:0006699	bile acid biosynthetic process	1	1.00	0.88	9.63	493.35
+GO:0006139	nucleobase-containing compound metabolic process	25	0.29	0.40	5.40	96.28
+GO:0006699	bile acid biosynthetic process	1	1.00	0.88	9.63	493.35
+GO:0006139	nucleobase-containing compound metabolic process	25	0.29	0.40	5.40	96.28
+GO:0006699	bile acid biosynthetic process	1	1.00	0.88	9.63	493.35
+GO:0006139	nucleobase-containing compound metabolic process	25	0.29	0.40	5.40	96.28
+GO:0016043	cellular component organization	23	0.28	0.26	3.74	11.45
+GO:1903047	mitotic cell cycle process	21	0.50	0.45	5.87	11.32
+GO:1903046	meiotic cell cycle process	2	0.49	0.44	6.09	19.36
+GO:0050896	response to stimulus	19	0.25	0.12	2.65	3.37
+GO:0006259	DNA metabolic process	16	0.45	0.55	7.12	145.26
+GO:0006268	DNA unwinding involved in DNA replication	5	0.83	0.79	9.34	24.42
+GO:0045008	depyrimidination	1	1.00	0.95	9.63	4176.25
+GO:0097435	supramolecular fiber organization	3	0.60	0.50	7.35	14.95
+GO:0000226	microtubule cytoskeleton organization	4	0.58	0.58	7.66	30.31
+GO:0043933	protein-containing complex subunit organization	11	0.43	0.41	5.44	14.95
+GO:0000226	microtubule cytoskeleton organization	4	0.58	0.58	7.66	30.31
+GO:0022607	cellular component assembly	10	0.39	0.39	5.06	14.95
+GO:0000226	microtubule cytoskeleton organization	4	0.58	0.58	7.66	30.31
+GO:0051726	regulation of cell cycle	13	0.41	0.45	5.89	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	11	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	10	0.57	0.68	8.45	581.39
+GO:0065003	protein-containing complex assembly	10	0.45	0.48	6.06	36.47
+GO:0033554	cellular response to stress	9	0.44	0.42	6.05	25.47
+GO:0010033	response to organic substance	9	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:0010033	response to organic substance	9	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:0045892	negative regulation of transcription, DNA-templated	8	0.56	0.69	8.52	1581.26
+GO:0035556	intracellular signal transduction	7	0.51	0.55	6.92	23.17
+GO:0043085	positive regulation of catalytic activity	6	0.48	0.49	6.15	18.32
+GO:1904667	negative regulation of ubiquitin protein ligase activity	1	1.00	0.95	9.63	755.45
+GO:0051052	regulation of DNA metabolic process	6	0.47	0.56	7.17	70.58
+GO:0016310	phosphorylation	6	0.53	0.56	6.88	24.41
+GO:0051129	negative regulation of cellular component organization	6	0.42	0.50	5.99	44.00
+GO:0045893	positive regulation of transcription, DNA-templated	6	0.52	0.67	8.14	1208.12
+GO:0051641	cellular localization	5	0.37	0.31	4.44	5.67
+GO:0042127	regulation of cell proliferation	5	0.45	0.48	6.03	12.04
+GO:0009967	positive regulation of signal transduction	4	0.44	0.54	6.71	140.23
+GO:0040029	regulation of gene expression, epigenetic	4	0.63	0.64	7.86	16.68
+GO:0003006	developmental process involved in reproduction	4	0.43	0.34	5.07	14.49
+GO:0016567	protein ubiquitination	3	0.69	0.74	9.00	153.79
+GO:0009314	response to radiation	3	0.56	0.48	6.76	8.85
+GO:0006366	transcription by RNA polymerase II	3	0.60	0.72	8.61	583.88
+GO:0045596	negative regulation of cell differentiation	3	0.44	0.51	6.50	82.79
+GO:0009968	negative regulation of signal transduction	3	0.44	0.54	6.68	140.65
+GO:0042981	regulation of apoptotic process	2	0.45	0.55	6.60	16.23
+GO:0006511	ubiquitin-dependent protein catabolic process	2	0.74	0.74	9.19	156.45
+GO:0097421	liver regeneration	2	1.00	0.82	9.63	47.22
+GO:0030855	epithelial cell differentiation	2	0.55	0.52	6.96	21.07
+GO:0051056	regulation of small GTPase mediated signal transduction	2	0.68	0.69	8.65	45.07
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	2	1.00	0.88	9.63	115.14
+GO:0006306	DNA methylation	1	0.74	0.77	9.25	389.47
+GO:0016570	histone modification	2	0.54	0.62	8.03	184.49
+GO:0006306	DNA methylation	1	0.74	0.77	9.25	389.47
+GO:0016570	histone modification	2	0.54	0.62	8.03	184.49
+GO:0048812	neuron projection morphogenesis	2	0.65	0.68	8.50	63.00
+GO:0051099	positive regulation of binding	2	0.61	0.55	7.48	18.40
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0060718	chorionic trophoblast cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0015918	sterol transport	1	0.74	0.69	8.80	36.24
+GO:0043433	negative regulation of DNA binding transcription factor activity	1	0.81	0.84	9.47	278.01
+GO:0014898	cardiac muscle hypertrophy in response to stress	1	1.00	0.85	9.63	75.67
+GO:0048041	focal adhesion assembly	1	1.00	0.88	9.63	92.53
+GO:0016055	Wnt signaling pathway	1	0.59	0.65	7.65	28.58
+GO:0006367	transcription initiation from RNA polymerase II promoter	1	1.00	0.90	9.63	477.15
+GO:0051983	regulation of chromosome segregation	1	0.53	0.51	7.14	12.04
+GO:0048821	erythrocyte development	1	0.89	0.74	9.38	33.54
+GO:0043401	steroid hormone mediated signaling pathway	1	0.75	0.70	8.80	25.74
+GO:0031329	regulation of cellular catabolic process	1	0.43	0.51	6.41	39.60
+GO:0051272	positive regulation of cellular component movement	1	0.55	0.56	7.38	52.23
+GO:0048012	hepatocyte growth factor receptor signaling pathway	1	1.00	0.88	9.63	31.00

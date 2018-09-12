@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1943	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	853	0.25	0.12	2.65	3.37
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19
+GO:0050794	regulation of cellular process	1534	0.12	0.26	2.47	7.96
+GO:0045860	positive regulation of protein kinase activity	128	0.63	0.73	9.00	1094.92
+GO:0044237	cellular metabolic process	1066	0.16	0.21	2.71	13.80
+GO:0007165	signal transduction	868	0.36	0.43	5.06	19.43
+GO:0006810	transport	675	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	574	0.22	0.11	1.89	3.37
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0045599	negative regulation of fat cell differentiation	11	0.93	0.79	9.54	114.62

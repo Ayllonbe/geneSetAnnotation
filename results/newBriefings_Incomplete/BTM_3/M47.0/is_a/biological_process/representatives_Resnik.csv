@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019222	regulation of metabolic process	107	0.21	0.30	3.39	7.96
+GO:0050896	response to stimulus	84	0.25	0.12	2.65	3.37
+GO:0009966	regulation of signal transduction	66	0.33	0.45	5.35	37.59
+GO:2001025	positive regulation of response to drug	2	0.65	0.62	7.96	42.54
+GO:0061024	membrane organization	5	0.47	0.43	6.06	14.95
+GO:0051179	localization	65	0.26	0.13	2.57	3.37
+GO:0061024	membrane organization	5	0.47	0.43	6.06	14.95
+GO:0051179	localization	65	0.26	0.13	2.57	3.37
+GO:0032502	developmental process	64	0.22	0.11	1.89	3.37
+GO:0051049	regulation of transport	37	0.31	0.40	4.67	10.45
+GO:0065008	regulation of biological quality	42	0.28	0.26	3.48	4.47
+GO:0007166	cell surface receptor signaling pathway	60	0.43	0.51	5.91	23.17
+GO:0006139	nucleobase-containing compound metabolic process	59	0.29	0.40	5.40	96.28
+GO:0002376	immune system process	57	0.38	0.19	3.93	3.37
+GO:0019538	protein metabolic process	53	0.31	0.41	4.91	44.77
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0019538	protein metabolic process	53	0.31	0.41	4.91	44.77
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0019538	protein metabolic process	53	0.31	0.41	4.91	44.77
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0019538	protein metabolic process	53	0.31	0.41	4.91	44.77
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	2	0.93	0.82	9.55	144.70
+GO:0002682	regulation of immune system process	45	0.32	0.36	4.60	7.96
+GO:0030336	negative regulation of cell migration	6	0.58	0.64	8.21	158.04
+GO:0051239	regulation of multicellular organismal process	46	0.23	0.32	3.68	7.96
+GO:0022607	cellular component assembly	45	0.39	0.39	5.06	14.95
+GO:0051128	regulation of cellular component organization	44	0.30	0.40	4.57	12.04
+GO:0065008	regulation of biological quality	42	0.28	0.26	3.48	4.47
+GO:0042127	regulation of cell proliferation	34	0.45	0.48	6.03	12.04
+GO:0035556	intracellular signal transduction	34	0.51	0.55	6.92	23.17
+GO:0051704	multi-organism process	31	0.29	0.15	3.12	3.37
+GO:0051726	regulation of cell cycle	30	0.41	0.45	5.89	12.04
+GO:0060548	negative regulation of cell death	14	0.54	0.56	7.27	41.94
+GO:0007186	G-protein coupled receptor signaling pathway	11	0.55	0.57	7.20	23.17
+GO:0031343	positive regulation of cell killing	2	0.66	0.58	8.19	21.38
+GO:0007268	chemical synaptic transmission	1	0.74	0.72	8.66	23.17

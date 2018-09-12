@@ -1,0 +1,58 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	650	0.26	0.38	4.09	10.74
+GO:0007166	cell surface receptor signaling pathway	468	0.43	0.51	5.91	23.17
+GO:0050793	regulation of developmental process	397	0.26	0.33	3.95	7.96
+GO:0010033	response to organic substance	374	0.35	0.37	4.75	9.28
+GO:0042127	regulation of cell proliferation	305	0.45	0.48	6.03	12.04
+GO:0016192	vesicle-mediated transport	283	0.52	0.51	6.57	10.99
+GO:0050776	regulation of immune response	267	0.38	0.44	5.64	22.45
+GO:0010941	regulation of cell death	265	0.43	0.47	6.10	12.04
+GO:0009605	response to external stimulus	256	0.37	0.31	4.62	6.14
+GO:0035556	intracellular signal transduction	256	0.51	0.55	6.92	23.17
+GO:0043085	positive regulation of catalytic activity	254	0.48	0.49	6.15	18.32
+GO:0030154	cell differentiation	250	0.39	0.39	5.18	16.68
+GO:0080134	regulation of response to stress	239	0.35	0.42	5.03	11.65
+GO:0032774	RNA biosynthetic process	185	0.53	0.62	8.04	473.34
+GO:0033554	cellular response to stress	179	0.44	0.42	6.05	25.47
+GO:0043408	regulation of MAPK cascade	141	0.60	0.70	8.65	157.04
+GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	26	0.89	0.80	9.43	45.07
+GO:0001817	regulation of cytokine production	153	0.40	0.45	5.78	11.79
+GO:0051272	positive regulation of cellular component movement	131	0.55	0.56	7.38	52.23
+GO:0022414	reproductive process	128	0.35	0.17	3.17	3.37
+GO:0040008	regulation of growth	90	0.48	0.44	6.04	7.96
+GO:1902105	regulation of leukocyte differentiation	68	0.53	0.59	7.80	67.17
+GO:0007204	positive regulation of cytosolic calcium ion concentration	67	0.68	0.77	9.10	290.30
+GO:0030036	actin cytoskeleton organization	51	0.63	0.61	8.05	29.61
+GO:0045861	negative regulation of proteolysis	51	0.61	0.68	8.71	337.18
+GO:0045930	negative regulation of mitotic cell cycle	47	0.58	0.61	7.84	61.24
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	46	0.70	0.67	8.58	26.98
+GO:0000902	cell morphogenesis	46	0.63	0.56	7.92	43.26
+GO:0006816	calcium ion transport	41	0.67	0.71	8.69	35.67
+GO:0046578	regulation of Ras protein signal transduction	32	0.70	0.72	8.71	46.46
+GO:0071248	cellular response to metal ion	31	0.70	0.64	8.46	59.28
+GO:0051928	positive regulation of calcium ion transport	28	0.70	0.73	8.85	69.31
+GO:0007179	transforming growth factor beta receptor signaling pathway	18	0.76	0.75	9.05	29.90
+GO:0007219	Notch signaling pathway	16	0.78	0.71	8.87	26.50
+GO:0034976	response to endoplasmic reticulum stress	14	0.68	0.59	8.28	29.00
+GO:0022617	extracellular matrix disassembly	13	0.87	0.72	9.38	37.09
+GO:0035335	peptidyl-tyrosine dephosphorylation	12	0.89	0.82	9.53	179.25
+GO:0008593	regulation of Notch signaling pathway	12	0.81	0.73	9.41	41.85
+GO:0002407	dendritic cell chemotaxis	11	0.87	0.78	9.49	93.28
+GO:0000060	protein import into nucleus, translocation	11	1.00	0.90	9.63	93.44
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:1902895	positive regulation of pri-miRNA transcription by RNA polymerase II	8	1.00	0.95	9.63	1721.24
+GO:0035914	skeletal muscle cell differentiation	8	0.87	0.68	9.29	21.07
+GO:0050873	brown fat cell differentiation	7	1.00	0.79	9.63	21.76
+GO:0001953	negative regulation of cell-matrix adhesion	7	0.87	0.78	9.39	66.96
+GO:0060395	SMAD protein signal transduction	6	1.00	0.79	9.63	23.17
+GO:0040036	regulation of fibroblast growth factor receptor signaling pathway	6	0.79	0.72	9.26	67.94
+GO:0048821	erythrocyte development	6	0.89	0.74	9.38	33.54
+GO:0002467	germinal center formation	4	1.00	0.79	9.63	29.46
+GO:0060644	mammary gland epithelial cell differentiation	4	0.83	0.70	9.12	24.20
+GO:0006306	DNA methylation	3	0.74	0.77	9.25	389.47
+GO:0031065	positive regulation of histone deacetylation	3	0.89	0.86	9.57	1219.90
+GO:0060850	regulation of transcription involved in cell fate commitment	2	0.74	0.80	9.19	252.65
+GO:1901329	regulation of odontoblast differentiation	2	0.89	0.77	9.43	57.42
+GO:0007221	positive regulation of transcription of Notch receptor target	2	1.00	0.95	9.63	1467.90
+GO:0001661	conditioned taste aversion	1	1.00	0.88	9.63	32.41
+GO:0042663	regulation of endodermal cell fate specification	1	0.93	0.84	9.56	108.60

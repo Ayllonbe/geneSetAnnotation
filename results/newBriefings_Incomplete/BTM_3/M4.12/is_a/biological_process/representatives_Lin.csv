@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1095	0.12	0.26	2.47	7.96
+GO:0010605	negative regulation of macromolecule metabolic process	264	0.37	0.48	5.54	39.19
+GO:0048522	positive regulation of cellular process	679	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	532	0.24	0.37	3.90	23.93
+GO:0044237	cellular metabolic process	736	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	679	0.24	0.37	3.90	23.85
+GO:0033043	regulation of organelle organization	163	0.36	0.47	5.49	15.89
+GO:0050896	response to stimulus	603	0.25	0.12	2.65	3.37
+GO:0051179	localization	583	0.26	0.13	2.57	3.37
+GO:0016043	cellular component organization	523	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	444	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	414	0.22	0.11	1.89	3.37
+GO:0019221	cytokine-mediated signaling pathway	174	0.60	0.63	7.60	26.50
+GO:0061982	meiosis I cell cycle process	9	0.65	0.58	7.84	23.54
+GO:1903047	mitotic cell cycle process	104	0.50	0.45	5.87	11.32
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	25	1.00	0.79	9.63	42.20
+GO:0043388	positive regulation of DNA binding	10	0.71	0.64	8.58	32.53
+GO:0045870	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	1.00	0.90	9.63	106.56

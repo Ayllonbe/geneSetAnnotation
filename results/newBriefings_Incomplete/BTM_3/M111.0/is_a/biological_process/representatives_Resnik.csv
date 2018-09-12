@@ -1,0 +1,62 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1671	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	885	0.25	0.12	2.65	3.37
+GO:0016043	cellular component organization	719	0.28	0.26	3.74	11.45
+GO:0006725	cellular aromatic compound metabolic process	521	0.25	0.33	3.98	17.52
+GO:0019805	quinolinate biosynthetic process	2	1.00	0.88	9.63	691.65
+GO:0050793	regulation of developmental process	518	0.26	0.33	3.95	7.96
+GO:0042221	response to chemical	516	0.32	0.29	4.12	6.14
+GO:0009968	negative regulation of signal transduction	234	0.44	0.54	6.68	140.65
+GO:0009967	positive regulation of signal transduction	354	0.44	0.54	6.71	140.23
+GO:0030823	regulation of cGMP metabolic process	4	0.76	0.78	9.39	212.56
+GO:0032268	regulation of cellular protein metabolic process	473	0.37	0.51	6.13	70.76
+GO:0051128	regulation of cellular component organization	457	0.30	0.40	4.57	12.04
+GO:0042127	regulation of cell proliferation	395	0.45	0.48	6.03	12.04
+GO:0044093	positive regulation of molecular function	380	0.43	0.41	5.23	6.77
+GO:0035556	intracellular signal transduction	340	0.51	0.55	6.92	23.17
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	330	0.44	0.55	6.91	183.64
+GO:0042981	regulation of apoptotic process	330	0.45	0.55	6.60	16.23
+GO:0030154	cell differentiation	329	0.39	0.39	5.18	16.68
+GO:0045321	leukocyte activation	326	0.52	0.46	6.78	16.27
+GO:0032940	secretion by cell	292	0.48	0.53	6.33	20.46
+GO:0019221	cytokine-mediated signaling pathway	256	0.60	0.63	7.60	26.50
+GO:0006952	defense response	249	0.56	0.48	6.67	9.54
+GO:0010629	negative regulation of gene expression	244	0.47	0.56	6.74	59.05
+GO:2000145	regulation of cell motility	243	0.47	0.52	6.88	34.54
+GO:0051726	regulation of cell cycle	237	0.41	0.45	5.89	12.04
+GO:0014739	positive regulation of muscle hyperplasia	1	1.00	0.88	9.63	117.66
+GO:0001817	regulation of cytokine production	208	0.40	0.45	5.78	11.79
+GO:0007186	G-protein coupled receptor signaling pathway	204	0.55	0.57	7.20	23.17
+GO:0046854	phosphatidylinositol phosphorylation	35	1.00	0.88	9.63	218.74
+GO:0006468	protein phosphorylation	184	0.57	0.64	8.18	177.76
+GO:0046854	phosphatidylinositol phosphorylation	35	1.00	0.88	9.63	218.74
+GO:0006468	protein phosphorylation	184	0.57	0.64	8.18	177.76
+GO:0046854	phosphatidylinositol phosphorylation	35	1.00	0.88	9.63	218.74
+GO:0006468	protein phosphorylation	184	0.57	0.64	8.18	177.76
+GO:0046854	phosphatidylinositol phosphorylation	35	1.00	0.88	9.63	218.74
+GO:0006468	protein phosphorylation	184	0.57	0.64	8.18	177.76
+GO:0006508	proteolysis	183	0.55	0.57	7.34	47.86
+GO:0022414	reproductive process	174	0.35	0.17	3.17	3.37
+GO:0030162	regulation of proteolysis	162	0.51	0.58	7.47	43.98
+GO:0015031	protein transport	150	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	129	0.59	0.62	7.95	48.62
+GO:0034765	regulation of ion transmembrane transport	84	0.46	0.55	6.68	33.04
+GO:0001558	regulation of cell growth	82	0.58	0.58	7.66	26.25
+GO:0006898	receptor-mediated endocytosis	66	0.68	0.66	8.48	28.44
+GO:0043687	post-translational protein modification	54	0.65	0.67	8.51	151.15
+GO:0048002	antigen processing and presentation of peptide antigen	45	0.70	0.55	8.09	8.95
+GO:0030198	extracellular matrix organization	43	0.68	0.59	8.24	16.90
+GO:2000379	positive regulation of reactive oxygen species metabolic process	35	0.78	0.71	9.25	112.72
+GO:0051781	positive regulation of cell division	28	0.68	0.63	8.44	42.29
+GO:0007015	actin filament organization	23	0.65	0.58	8.06	17.25
+GO:0038127	ERBB signaling pathway	22	0.72	0.73	8.78	31.00
+GO:1903901	negative regulation of viral life cycle	22	0.76	0.73	9.04	63.59
+GO:0034976	response to endoplasmic reticulum stress	22	0.68	0.59	8.28	29.00
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0002260	lymphocyte homeostasis	17	0.84	0.74	9.27	20.90
+GO:0018149	peptide cross-linking	13	0.60	0.65	8.12	151.15
+GO:0010818	T cell chemotaxis	8	0.84	0.80	9.45	127.61
+GO:0009299	mRNA transcription	5	0.93	0.88	9.60	700.75
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0097178	ruffle assembly	1	1.00	0.82	9.63	77.52
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81

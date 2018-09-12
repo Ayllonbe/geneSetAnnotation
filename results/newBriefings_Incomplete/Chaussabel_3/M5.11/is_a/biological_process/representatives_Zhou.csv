@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	3787	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	2693	0.08	0.04	0.98	3.37
+GO:0019049	evasion or tolerance of host defenses by virus	1	0.66	0.73	8.89	177.37
+GO:0065009	regulation of molecular function	760	0.33	0.29	4.10	4.47
+GO:0007567	parturition	4	1.00	0.70	9.63	32.81
+GO:0065007	biological regulation	2693	0.08	0.04	0.98	3.37
+GO:0065008	regulation of biological quality	663	0.28	0.26	3.48	4.47
+GO:0019049	evasion or tolerance of host defenses by virus	1	0.66	0.73	8.89	177.37
+GO:0007567	parturition	4	1.00	0.70	9.63	32.81
+GO:0051641	cellular localization	613	0.37	0.31	4.44	5.67
+GO:0006810	transport	1042	0.28	0.34	3.95	7.46

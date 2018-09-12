@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4447	0.09	0.05	0.84	3.37
+GO:1905463	negative regulation of DNA duplex unwinding	2	0.89	0.82	9.55	116.67
+GO:0031323	regulation of cellular metabolic process	2060	0.22	0.36	4.01	22.77
+GO:1901564	organonitrogen compound metabolic process	1779	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	1670	0.24	0.37	3.90	23.85
+GO:0050767	regulation of neurogenesis	208	0.47	0.56	7.34	60.46
+GO:0016043	cellular component organization	1567	0.28	0.26	3.74	11.45
+GO:0006355	regulation of transcription, DNA-templated	1242	0.40	0.60	6.84	245.35
+GO:0065009	regulation of molecular function	976	0.33	0.29	4.10	4.47
+GO:0032268	regulation of cellular protein metabolic process	884	0.37	0.51	6.13	70.76
+GO:0045732	positive regulation of protein catabolic process	82	0.70	0.70	9.03	231.05
+GO:0032774	RNA biosynthetic process	873	0.53	0.62	8.04	473.34
+GO:0031324	negative regulation of cellular metabolic process	869	0.34	0.46	5.46	80.35
+GO:0006357	regulation of transcription by RNA polymerase II	856	0.44	0.63	7.11	248.57
+GO:0048856	anatomical structure development	399	0.33	0.29	3.70	6.46
+GO:0048869	cellular developmental process	688	0.32	0.29	4.16	13.85
+GO:0002376	immune system process	719	0.38	0.19	3.93	3.37
+GO:0010033	response to organic substance	656	0.35	0.37	4.75	9.28
+GO:0071732	cellular response to nitric oxide	5	1.00	0.82	9.63	346.50
+GO:0033554	cellular response to stress	593	0.44	0.42	6.05	25.47
+GO:0071214	cellular response to abiotic stimulus	125	0.59	0.54	7.66	24.78
+GO:1902531	regulation of intracellular signal transduction	616	0.45	0.55	6.77	41.85
+GO:0035556	intracellular signal transduction	567	0.51	0.55	6.92	23.17
+GO:0045893	positive regulation of transcription, DNA-templated	513	0.52	0.67	8.14	1208.12
+GO:0042981	regulation of apoptotic process	491	0.45	0.55	6.60	16.23
+GO:0042127	regulation of cell proliferation	468	0.45	0.48	6.03	12.04
+GO:0016310	phosphorylation	416	0.53	0.56	6.88	24.41
+GO:0035335	peptidyl-tyrosine dephosphorylation	33	0.89	0.82	9.53	179.25
+GO:0051302	regulation of cell division	53	0.56	0.53	7.28	12.04
+GO:1900195	positive regulation of oocyte maturation	2	0.93	0.86	9.59	598.41
+GO:0051726	regulation of cell cycle	424	0.41	0.45	5.89	12.04
+GO:0016579	protein deubiquitination	113	0.73	0.76	9.15	202.60
+GO:0016567	protein ubiquitination	252	0.69	0.74	9.00	153.79
+GO:0006259	DNA metabolic process	320	0.45	0.55	7.12	145.26
+GO:0060341	regulation of cellular localization	318	0.40	0.45	5.64	10.45
+GO:0033365	protein localization to organelle	227	0.50	0.54	7.01	29.83
+GO:0055086	nucleobase-containing small molecule metabolic process	199	0.38	0.48	6.63	107.58
+GO:0006760	folic acid-containing compound metabolic process	12	0.73	0.69	9.33	232.08
+GO:0043687	post-translational protein modification	141	0.65	0.67	8.51	151.15
+GO:0048513	animal organ development	141	0.50	0.45	5.88	11.73
+GO:0048589	developmental growth	79	0.55	0.40	6.36	12.22
+GO:0001701	in utero embryonic development	67	1.00	0.85	9.63	22.50
+GO:0051383	kinetochore organization	11	0.93	0.76	9.49	38.76
+GO:0071103	DNA conformation change	52	0.67	0.63	8.24	21.24
+GO:0090263	positive regulation of canonical Wnt signaling pathway	29	0.83	0.79	9.42	236.53
+GO:0007224	smoothened signaling pathway	20	0.78	0.71	8.87	26.50
+GO:0001947	heart looping	19	1.00	0.85	9.63	47.98
+GO:0008643	carbohydrate transport	12	0.55	0.57	6.95	14.73
+GO:0021915	neural tube development	9	1.00	0.79	9.63	33.01
+GO:0010529	negative regulation of transposition	8	0.87	0.72	9.27	41.76
+GO:0000578	embryonic axis specification	7	0.79	0.64	8.75	24.59
+GO:0016554	cytidine to uridine editing	6	1.00	0.90	9.63	133.94
+GO:0031915	positive regulation of synaptic plasticity	4	0.87	0.81	9.45	41.66
+GO:0090521	glomerular visceral epithelial cell migration	2	1.00	0.85	9.63	24.97
+GO:0019088	immortalization of host cell by virus	1	1.00	0.88	9.63	54.80
+GO:0045870	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	1.00	0.90	9.63	106.56

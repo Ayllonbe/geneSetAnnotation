@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1964	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	1383	0.22	0.36	4.01	22.77
+GO:1901360	organic cyclic compound metabolic process	1081	0.24	0.32	3.54	10.22
+GO:0048523	negative regulation of cellular process	1025	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	1021	0.28	0.26	3.74	11.45
+GO:0008104	protein localization	447	0.40	0.40	5.07	7.46
+GO:0006810	transport	898	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	930	0.25	0.12	2.65	3.37
+GO:0006464	cellular protein modification process	726	0.34	0.49	5.84	147.03
+GO:0031325	positive regulation of cellular metabolic process	719	0.33	0.46	5.39	79.98
+GO:0032502	developmental process	609	0.22	0.11	1.89	3.37
+GO:0051239	regulation of multicellular organismal process	575	0.23	0.32	3.68	7.96
+GO:0007166	cell surface receptor signaling pathway	503	0.43	0.51	5.91	23.17
+GO:0051048	negative regulation of secretion	46	0.53	0.59	7.10	46.37
+GO:0051050	positive regulation of transport	238	0.42	0.50	5.84	25.90
+GO:0042493	response to drug	140	0.47	0.43	5.84	9.28
+GO:0005975	carbohydrate metabolic process	94	0.38	0.39	5.46	18.42
+GO:0006790	sulfur compound metabolic process	86	0.44	0.42	5.69	17.52
+GO:0097720	calcineurin-mediated signaling	5	0.93	0.84	9.52	30.12
+GO:0007212	dopamine receptor signaling pathway	5	0.87	0.76	9.27	26.98
+GO:0051351	positive regulation of ligase activity	2	0.78	0.68	8.87	31.72

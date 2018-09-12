@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1455	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	795	0.21	0.30	3.07	7.96
+GO:0001819	positive regulation of cytokine production	148	0.51	0.54	6.97	44.26
+GO:0048583	regulation of response to stimulus	818	0.25	0.32	3.72	7.96
+GO:0010604	positive regulation of macromolecule metabolic process	539	0.37	0.48	5.51	38.99
+GO:0006950	response to stress	479	0.39	0.32	4.70	6.14
+GO:0006355	regulation of transcription, DNA-templated	450	0.40	0.60	6.84	245.35
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:0006464	cellular protein modification process	365	0.34	0.49	5.84	147.03
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:0006464	cellular protein modification process	365	0.34	0.49	5.84	147.03
+GO:0045595	regulation of cell differentiation	330	0.34	0.42	5.25	23.33
+GO:0071310	cellular response to organic substance	312	0.44	0.47	5.95	41.66
+GO:0051591	response to cAMP	24	0.89	0.77	9.45	79.55
+GO:0030154	cell differentiation	309	0.39	0.39	5.18	16.68
+GO:0001932	regulation of protein phosphorylation	291	0.50	0.62	7.64	109.03
+GO:0051336	regulation of hydrolase activity	236	0.46	0.48	6.24	9.25
+GO:0006351	transcription, DNA-templated	214	0.57	0.68	8.45	581.39
+GO:0015031	protein transport	145	0.48	0.59	6.99	54.46
+GO:0006974	cellular response to DNA damage stimulus	117	0.57	0.53	7.47	29.00
+GO:0009615	response to virus	91	0.74	0.66	8.80	27.27
+GO:0051098	regulation of binding	66	0.50	0.45	6.36	6.77
+GO:0006511	ubiquitin-dependent protein catabolic process	47	0.74	0.74	9.19	156.45
+GO:0060333	interferon-gamma-mediated signaling pathway	37	1.00	0.85	9.63	30.19
+GO:0050792	regulation of viral process	37	0.60	0.59	7.74	14.20
+GO:0060337	type I interferon signaling pathway	34	1.00	0.85	9.63	30.19
+GO:0016525	negative regulation of angiogenesis	29	0.81	0.78	9.32	151.11
+GO:0033209	tumor necrosis factor-mediated signaling pathway	24	0.89	0.80	9.51	30.19
+GO:1900182	positive regulation of protein localization to nucleus	24	0.84	0.77	9.37	74.62
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	14	0.79	0.64	8.82	10.56
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	10	0.78	0.76	9.31	117.17
+GO:0007259	JAK-STAT cascade	10	0.93	0.82	9.51	26.43
+GO:2000553	positive regulation of T-helper 2 cell cytokine production	6	1.00	0.92	9.63	874.88
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	6	0.93	0.93	9.59	413.35
+GO:0061326	renal tubule development	6	0.67	0.62	8.33	33.01
+GO:0038114	interleukin-21-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:2000110	negative regulation of macrophage apoptotic process	5	1.00	0.90	9.63	256.26
+GO:0070757	interleukin-35-mediated signaling pathway	4	1.00	0.85	9.63	30.19
+GO:0070102	interleukin-6-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	2	1.00	0.95	9.63	2003.64
+GO:0070106	interleukin-27-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0046967	cytosol to ER transport	1	1.00	0.79	9.63	33.20
+GO:0017121	phospholipid scrambling	1	0.80	0.69	9.12	49.44
+GO:0072136	metanephric mesenchymal cell proliferation involved in metanephros development	1	1.00	0.75	9.63	28.01
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81
+GO:0019060	intracellular transport of viral protein in host cell	1	1.00	0.93	9.63	185.44
+GO:0006659	phosphatidylserine biosynthetic process	1	1.00	0.88	9.63	760.20
+GO:2000697	negative regulation of epithelial cell differentiation involved in kidney development	1	0.83	0.76	9.43	323.80

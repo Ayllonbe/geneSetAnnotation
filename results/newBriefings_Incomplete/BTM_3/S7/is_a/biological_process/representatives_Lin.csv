@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	211	0.28	0.34	3.95	7.46
+GO:0010468	regulation of gene expression	156	0.35	0.46	5.09	13.73
+GO:0050794	regulation of cellular process	450	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	139	0.32	0.36	4.60	7.96
+GO:0051128	regulation of cellular component organization	108	0.30	0.40	4.57	12.04
+GO:0042981	regulation of apoptotic process	82	0.45	0.55	6.60	16.23
+GO:0042592	homeostatic process	73	0.45	0.42	5.70	8.64
+GO:0007186	G-protein coupled receptor signaling pathway	59	0.55	0.57	7.20	23.17
+GO:1902533	positive regulation of intracellular signal transduction	57	0.55	0.63	7.95	189.48
+GO:0001819	positive regulation of cytokine production	33	0.51	0.54	6.97	44.26
+GO:0030098	lymphocyte differentiation	33	0.61	0.60	8.24	42.31
+GO:0051260	protein homooligomerization	19	0.89	0.77	9.41	42.03
+GO:0097190	apoptotic signaling pathway	19	0.70	0.64	8.53	23.17
+GO:0050729	positive regulation of inflammatory response	11	0.66	0.68	8.59	125.85
+GO:0046854	phosphatidylinositol phosphorylation	9	1.00	0.88	9.63	218.74
+GO:0046718	viral entry into host cell	8	0.77	0.73	8.94	28.37
+GO:0072678	T cell migration	3	0.71	0.71	8.88	30.24
+GO:0042089	cytokine biosynthetic process	3	0.63	0.64	8.18	87.71
+GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	2	1.00	0.90	9.63	967.92
+GO:0001766	membrane raft polarization	2	0.93	0.79	9.54	30.90
+GO:0060117	auditory receptor cell development	1	1.00	0.82	9.63	70.66
+GO:0045070	positive regulation of viral genome replication	1	0.89	0.82	9.47	85.31
+GO:0097400	interleukin-17-mediated signaling pathway	1	1.00	0.85	9.63	30.19

@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	737	0.24	0.37	3.90	23.93
+GO:0050896	response to stimulus	684	0.25	0.12	2.65	3.37
+GO:0045892	negative regulation of transcription, DNA-templated	196	0.56	0.69	8.52	1581.26
+GO:0031325	positive regulation of cellular metabolic process	527	0.33	0.46	5.39	79.98
+GO:0016070	RNA metabolic process	559	0.39	0.52	6.45	112.25
+GO:0010646	regulation of cell communication	517	0.30	0.40	4.51	12.04
+GO:0007166	cell surface receptor signaling pathway	374	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	326	0.35	0.37	4.75	9.28
+GO:0071277	cellular response to calcium ion	15	1.00	0.82	9.63	78.50
+GO:0035556	intracellular signal transduction	298	0.51	0.55	6.92	23.17
+GO:0019220	regulation of phosphate metabolic process	293	0.41	0.53	6.26	28.98
+GO:0022402	cell cycle process	202	0.40	0.32	4.60	7.39
+GO:0051704	multi-organism process	176	0.29	0.15	3.12	3.37
+GO:0006082	organic acid metabolic process	160	0.32	0.36	4.95	37.09
+GO:0006259	DNA metabolic process	157	0.45	0.55	7.12	145.26
+GO:1901987	regulation of cell cycle phase transition	95	0.56	0.60	7.64	17.46
+GO:0050658	RNA transport	48	0.64	0.67	8.39	40.09
+GO:0046777	protein autophosphorylation	44	0.78	0.76	9.31	180.75
+GO:0043393	regulation of protein binding	37	0.59	0.55	7.49	9.33
+GO:0030855	epithelial cell differentiation	35	0.55	0.52	6.96	21.07
+GO:0016236	macroautophagy	25	0.77	0.67	8.94	39.83
+GO:0016051	carbohydrate biosynthetic process	23	0.52	0.51	6.98	43.72
+GO:0042113	B cell activation	23	0.68	0.63	8.28	19.85
+GO:0050859	negative regulation of B cell receptor signaling pathway	4	1.00	0.88	9.63	309.62
+GO:0007214	gamma-aminobutyric acid signaling pathway	3	1.00	0.82	9.63	26.98
+GO:0070537	histone H2A K63-linked deubiquitination	1	1.00	0.93	9.63	598.14

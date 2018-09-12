@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	618	0.36	0.43	5.06	19.43
+GO:0048519	negative regulation of biological process	548	0.21	0.30	3.07	7.96
+GO:0010646	regulation of cell communication	449	0.30	0.40	4.51	12.04
+GO:0006355	regulation of transcription, DNA-templated	307	0.40	0.60	6.84	245.35
+GO:0090304	nucleic acid metabolic process	241	0.35	0.46	5.97	111.15
+GO:0006206	pyrimidine nucleobase metabolic process	4	0.73	0.72	9.24	227.01
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
+GO:0009968	negative regulation of signal transduction	159	0.44	0.54	6.68	140.65
+GO:0043066	negative regulation of apoptotic process	142	0.56	0.63	7.79	81.07
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	126	0.50	0.60	7.60	369.32
+GO:0051272	positive regulation of cellular component movement	115	0.55	0.56	7.38	52.23
+GO:0009725	response to hormone	114	0.53	0.51	7.03	21.86
+GO:0006974	cellular response to DNA damage stimulus	86	0.57	0.53	7.47	29.00
+GO:0051259	protein complex oligomerization	56	0.78	0.68	9.09	40.42
+GO:0006886	intracellular protein transport	53	0.55	0.65	8.12	90.55
+GO:0009615	response to virus	52	0.74	0.66	8.80	27.27
+GO:0035690	cellular response to drug	50	0.56	0.53	7.02	41.91
+GO:0000226	microtubule cytoskeleton organization	32	0.58	0.58	7.66	30.31
+GO:0016570	histone modification	28	0.54	0.62	8.03	184.49
+GO:0009165	nucleotide biosynthetic process	27	0.53	0.64	8.30	725.10
+GO:1901991	negative regulation of mitotic cell cycle phase transition	27	0.70	0.72	8.97	187.67
+GO:1903046	meiotic cell cycle process	25	0.49	0.44	6.09	19.36
+GO:0046395	carboxylic acid catabolic process	23	0.44	0.54	6.76	160.26
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	19	0.79	0.83	9.47	340.69
+GO:0051053	negative regulation of DNA metabolic process	19	0.57	0.64	8.26	302.32
+GO:0008584	male gonad development	18	1.00	0.79	9.63	50.96
+GO:0032392	DNA geometric change	16	0.75	0.70	8.94	22.34
+GO:0051494	negative regulation of cytoskeleton organization	16	0.63	0.67	8.36	90.97
+GO:0060429	epithelium development	15	0.55	0.53	6.89	15.06
+GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
+GO:0007409	axonogenesis	14	0.69	0.72	8.67	64.61
+GO:0071479	cellular response to ionizing radiation	12	0.89	0.77	9.45	48.66
+GO:0071456	cellular response to hypoxia	12	1.00	0.82	9.63	103.25
+GO:0006637	acyl-CoA metabolic process	12	0.59	0.59	7.98	77.21
+GO:0046632	alpha-beta T cell differentiation	9	0.71	0.71	9.05	90.59
+GO:0035264	multicellular organism growth	8	1.00	0.70	9.63	22.58
+GO:0035176	social behavior	7	1.00	0.70	9.63	22.58
+GO:0000281	mitotic cytokinesis	7	0.93	0.76	9.47	28.62
+GO:0046641	positive regulation of alpha-beta T cell proliferation	7	0.87	0.85	9.55	937.85
+GO:2000649	regulation of sodium ion transmembrane transporter activity	7	0.71	0.75	9.11	122.59
+GO:0032781	positive regulation of ATPase activity	6	0.75	0.70	8.78	51.42
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	5	1.00	0.92	9.63	990.06
+GO:0046599	regulation of centriole replication	4	0.83	0.83	9.50	89.11
+GO:0001947	heart looping	4	1.00	0.85	9.63	47.98
+GO:0000578	embryonic axis specification	4	0.79	0.64	8.75	24.59
+GO:0050774	negative regulation of dendrite morphogenesis	3	0.93	0.90	9.60	974.11
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:1905098	negative regulation of guanyl-nucleotide exchange factor activity	2	0.93	0.79	9.56	99.11
+GO:1902224	ketone body metabolic process	1	0.77	0.63	9.07	53.95
+GO:1905168	positive regulation of double-strand break repair via homologous recombination	1	1.00	0.92	9.63	1178.78
+GO:0071539	protein localization to centrosome	1	0.93	0.86	9.54	37.38
+GO:0006713	glucocorticoid catabolic process	1	1.00	0.82	9.63	219.24

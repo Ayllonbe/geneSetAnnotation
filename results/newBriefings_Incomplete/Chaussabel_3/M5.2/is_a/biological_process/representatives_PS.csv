@@ -1,0 +1,109 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	4823	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	3875	0.25	0.32	3.46	10.22
+GO:0006700	C21-steroid hormone biosynthetic process	5	0.89	0.80	9.54	273.07
+GO:0010628	positive regulation of gene expression	979	0.47	0.56	6.67	58.80
+GO:0031323	regulation of cellular metabolic process	3138	0.22	0.36	4.01	22.77
+GO:0031323	regulation of cellular metabolic process	3138	0.22	0.36	4.01	22.77
+GO:0040014	regulation of multicellular organism growth	32	0.89	0.74	9.38	36.78
+GO:0048518	positive regulation of biological process	2829	0.21	0.30	3.05	7.96
+GO:1901564	organonitrogen compound metabolic process	2688	0.23	0.31	3.63	19.40
+GO:0006810	transport	2049	0.28	0.34	3.95	7.46
+GO:0048583	regulation of response to stimulus	1978	0.25	0.32	3.72	7.96
+GO:0006464	cellular protein modification process	1619	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1497	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	1268	0.30	0.40	4.57	12.04
+GO:0006996	organelle organization	1060	0.39	0.39	5.17	14.95
+GO:0008104	protein localization	1055	0.40	0.40	5.07	7.46
+GO:0033554	cellular response to stress	884	0.44	0.42	6.05	25.47
+GO:0065003	protein-containing complex assembly	874	0.45	0.48	6.06	36.47
+GO:0035556	intracellular signal transduction	841	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	767	0.45	0.55	6.60	16.23
+GO:1901214	regulation of neuron death	152	0.67	0.63	8.47	13.83
+GO:0045595	regulation of cell differentiation	783	0.34	0.42	5.25	23.33
+GO:0001932	regulation of protein phosphorylation	708	0.50	0.62	7.64	109.03
+GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	5	1.00	0.93	9.63	1252.16
+GO:0001932	regulation of protein phosphorylation	708	0.50	0.62	7.64	109.03
+GO:0035509	negative regulation of myosin-light-chain-phosphatase activity	5	1.00	0.93	9.63	1252.16
+GO:0071310	cellular response to organic substance	671	0.44	0.47	5.95	41.66
+GO:0006396	RNA processing	500	0.49	0.60	7.48	115.08
+GO:0022603	regulation of anatomical structure morphogenesis	472	0.36	0.43	5.15	11.29
+GO:0016071	mRNA metabolic process	407	0.59	0.65	8.39	115.08
+GO:0019221	cytokine-mediated signaling pathway	385	0.60	0.63	7.60	26.50
+GO:0007010	cytoskeleton organization	364	0.52	0.51	6.76	18.35
+GO:0043312	neutrophil degranulation	345	1.00	0.90	9.63	132.80
+GO:0051707	response to other organism	309	0.42	0.46	6.41	24.63
+GO:0045087	innate immune response	286	0.68	0.59	8.16	26.47
+GO:0051249	regulation of lymphocyte activation	272	0.48	0.56	7.10	27.11
+GO:0043547	positive regulation of GTPase activity	198	0.93	0.79	9.52	49.34
+GO:0006650	glycerophospholipid metabolic process	178	0.59	0.62	8.12	144.72
+GO:0050900	leukocyte migration	175	0.60	0.59	8.02	26.94
+GO:0001818	negative regulation of cytokine production	149	0.51	0.55	7.03	44.36
+GO:0071826	ribonucleoprotein complex subunit organization	139	0.61	0.56	7.43	17.51
+GO:0110053	regulation of actin filament organization	136	0.63	0.69	8.47	54.28
+GO:0043393	regulation of protein binding	117	0.59	0.55	7.49	9.33
+GO:0030855	epithelial cell differentiation	116	0.55	0.52	6.96	21.07
+GO:0000302	response to reactive oxygen species	112	0.71	0.60	8.78	25.34
+GO:0060271	cilium assembly	102	0.87	0.76	9.41	137.68
+GO:0022900	electron transport chain	101	0.71	0.61	8.48	29.76
+GO:0060326	cell chemotaxis	94	0.64	0.61	8.15	30.29
+GO:0051028	mRNA transport	93	0.87	0.81	9.45	42.49
+GO:0048002	antigen processing and presentation of peptide antigen	92	0.70	0.55	8.09	8.95
+GO:0001701	in utero embryonic development	91	1.00	0.85	9.63	22.50
+GO:0050852	T cell receptor signaling pathway	82	1.00	0.92	9.63	219.43
+GO:0030182	neuron differentiation	78	0.58	0.54	7.21	21.07
+GO:0034329	cell junction assembly	74	0.71	0.61	8.53	35.01
+GO:0006006	glucose metabolic process	72	0.71	0.68	8.57	34.68
+GO:0045069	regulation of viral genome replication	64	0.78	0.74	9.09	18.47
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	57	1.00	0.92	9.63	384.64
+GO:0033559	unsaturated fatty acid metabolic process	52	0.66	0.71	8.83	93.73
+GO:0007219	Notch signaling pathway	50	0.78	0.71	8.87	26.50
+GO:0060337	type I interferon signaling pathway	48	1.00	0.85	9.63	30.19
+GO:0055072	iron ion homeostasis	48	0.81	0.80	9.29	38.23
+GO:0048013	ephrin receptor signaling pathway	47	1.00	0.88	9.63	31.00
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	46	1.00	0.82	9.63	26.43
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	46	0.83	0.79	9.19	31.00
+GO:0038095	Fc-epsilon receptor signaling pathway	45	0.93	0.84	9.55	78.48
+GO:0032482	Rab protein signal transduction	41	1.00	0.88	9.63	29.61
+GO:0007266	Rho protein signal transduction	41	0.93	0.84	9.52	29.61
+GO:0035264	multicellular organism growth	40	1.00	0.70	9.63	22.58
+GO:0035722	interleukin-12-mediated signaling pathway	39	1.00	0.85	9.63	30.19
+GO:0007173	epidermal growth factor receptor signaling pathway	33	0.78	0.78	9.04	32.39
+GO:0043542	endothelial cell migration	31	0.80	0.75	9.14	24.97
+GO:0000045	autophagosome assembly	30	1.00	0.82	9.63	62.10
+GO:0022008	neurogenesis	29	0.87	0.68	9.29	21.07
+GO:0051653	spindle localization	29	0.79	0.64	9.22	22.02
+GO:0006294	nucleotide-excision repair, preincision complex assembly	27	1.00	0.85	9.63	65.90
+GO:0001570	vasculogenesis	24	0.89	0.70	9.29	21.07
+GO:0035914	skeletal muscle cell differentiation	24	0.87	0.68	9.29	21.07
+GO:0043491	protein kinase B signaling	23	1.00	0.82	9.63	26.43
+GO:0000245	spliceosomal complex assembly	22	0.93	0.82	9.53	66.60
+GO:0019054	modulation by virus of host process	19	0.55	0.62	7.70	74.20
+GO:0014065	phosphatidylinositol 3-kinase signaling	16	1.00	0.88	9.63	26.43
+GO:0033077	T cell differentiation in thymus	16	0.87	0.78	9.42	66.99
+GO:0038061	NIK/NF-kappaB signaling	15	1.00	0.82	9.63	26.43
+GO:0021915	neural tube development	15	1.00	0.79	9.63	33.01
+GO:0038128	ERBB2 signaling pathway	14	0.87	0.83	9.37	32.39
+GO:0034162	toll-like receptor 9 signaling pathway	13	1.00	0.95	9.63	412.65
+GO:0048194	Golgi vesicle budding	12	0.89	0.77	9.41	40.37
+GO:0034142	toll-like receptor 4 signaling pathway	12	0.84	0.87	9.49	412.65
+GO:0045332	phospholipid translocation	12	1.00	0.88	9.63	116.87
+GO:0031629	synaptic vesicle fusion to presynaptic active zone membrane	7	1.00	0.88	9.63	97.91
+GO:0032060	bleb assembly	6	1.00	0.82	9.63	58.57
+GO:0051451	myoblast migration	6	0.93	0.79	9.49	22.01
+GO:0002767	immune response-inhibiting cell surface receptor signaling pathway	6	0.81	0.76	9.25	128.37
+GO:0034134	toll-like receptor 2 signaling pathway	5	0.93	0.91	9.59	412.65
+GO:0060712	spongiotrophoblast layer development	5	1.00	0.75	9.63	49.67
+GO:0038203	TORC2 signaling	5	1.00	0.85	9.63	27.12
+GO:0050482	arachidonic acid secretion	4	1.00	0.95	9.63	224.86
+GO:0034154	toll-like receptor 7 signaling pathway	4	1.00	0.95	9.63	412.65
+GO:0060576	intestinal epithelial cell development	4	1.00	0.82	9.63	35.74
+GO:0140058	neuron projection arborization	4	0.84	0.80	9.42	64.61
+GO:0002553	histamine secretion by mast cell	3	1.00	0.92	9.63	188.83
+GO:0030323	respiratory tube development	3	0.87	0.68	9.29	30.21
+GO:0033206	meiotic cytokinesis	3	0.84	0.71	9.18	36.66
+GO:0016082	synaptic vesicle priming	3	1.00	0.82	9.63	54.68
+GO:0002329	pre-B cell differentiation	2	1.00	0.88	9.63	65.74
+GO:0016344	meiotic chromosome movement towards spindle pole	2	0.84	0.77	9.42	101.27
+GO:0038028	insulin receptor signaling pathway via phosphatidylinositol 3-kinase	2	1.00	0.90	9.63	32.10
+GO:0003383	apical constriction	1	0.89	0.74	9.47	20.96

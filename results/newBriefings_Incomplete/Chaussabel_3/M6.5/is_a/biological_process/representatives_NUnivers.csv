@@ -1,0 +1,178 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	2446	0.24	0.37	3.90	23.93
+GO:0019219	regulation of nucleobase-containing compound metabolic process	2308	0.33	0.45	5.50	54.14
+GO:0090304	nucleic acid metabolic process	2249	0.35	0.46	5.97	111.15
+GO:0007165	signal transduction	2043	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	1995	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1750	0.34	0.49	5.84	147.03
+GO:0034982	mitochondrial protein processing	9	0.93	0.82	9.56	185.94
+GO:0009966	regulation of signal transduction	1607	0.33	0.45	5.35	37.59
+GO:0051246	regulation of protein metabolic process	1562	0.34	0.46	5.46	41.09
+GO:0032774	RNA biosynthetic process	1407	0.53	0.62	8.04	473.34
+GO:0048869	cellular developmental process	1093	0.32	0.29	4.16	13.85
+GO:0010033	response to organic substance	1079	0.35	0.37	4.75	9.28
+GO:0010629	negative regulation of gene expression	992	0.47	0.56	6.74	59.05
+GO:0046907	intracellular transport	980	0.46	0.48	6.38	29.65
+GO:0033554	cellular response to stress	953	0.44	0.42	6.05	25.47
+GO:0065003	protein-containing complex assembly	924	0.45	0.48	6.06	36.47
+GO:2000026	regulation of multicellular organismal development	919	0.29	0.39	4.73	23.09
+GO:0015031	protein transport	887	0.48	0.59	6.99	54.46
+GO:0032270	positive regulation of cellular protein metabolic process	873	0.47	0.59	7.41	288.49
+GO:0009967	positive regulation of signal transduction	872	0.44	0.54	6.71	140.23
+GO:0045893	positive regulation of transcription, DNA-templated	828	0.52	0.67	8.14	1208.12
+GO:0071310	cellular response to organic substance	723	0.44	0.47	5.95	41.66
+GO:0045892	negative regulation of transcription, DNA-templated	668	0.56	0.69	8.52	1581.26
+GO:0009968	negative regulation of signal transduction	648	0.44	0.54	6.68	140.65
+GO:0032269	negative regulation of cellular protein metabolic process	605	0.47	0.59	7.45	289.39
+GO:0043066	negative regulation of apoptotic process	527	0.56	0.63	7.79	81.07
+GO:0001934	positive regulation of protein phosphorylation	512	0.58	0.69	8.60	663.11
+GO:0008284	positive regulation of cell proliferation	447	0.56	0.57	7.27	43.45
+GO:1903047	mitotic cell cycle process	396	0.50	0.45	5.87	11.32
+GO:0006511	ubiquitin-dependent protein catabolic process	342	0.74	0.74	9.19	156.45
+GO:0071900	regulation of protein serine/threonine kinase activity	330	0.61	0.72	8.68	161.63
+GO:0045596	negative regulation of cell differentiation	314	0.44	0.51	6.50	82.79
+GO:0060627	regulation of vesicle-mediated transport	306	0.48	0.53	6.81	26.12
+GO:0072657	protein localization to membrane	286	0.58	0.58	7.59	29.83
+GO:0001819	positive regulation of cytokine production	273	0.51	0.54	6.97	44.26
+GO:0006397	mRNA processing	264	0.71	0.73	9.17	234.35
+GO:0006897	endocytosis	258	0.63	0.61	8.09	26.36
+GO:0003006	developmental process involved in reproduction	256	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	214	0.55	0.52	6.96	18.35
+GO:0043547	positive regulation of GTPase activity	213	0.93	0.79	9.52	49.34
+GO:0016570	histone modification	199	0.54	0.62	8.03	184.49
+GO:0000226	microtubule cytoskeleton organization	197	0.58	0.58	7.66	30.31
+GO:0050769	positive regulation of neurogenesis	197	0.58	0.64	8.42	270.71
+GO:0032496	response to lipopolysaccharide	183	0.89	0.74	9.45	64.41
+GO:0016311	dephosphorylation	174	0.68	0.63	8.33	24.41
+GO:0001666	response to hypoxia	158	0.81	0.70	9.12	21.16
+GO:0006914	autophagy	158	0.67	0.59	8.40	37.75
+GO:0000956	nuclear-transcribed mRNA catabolic process	154	0.69	0.74	9.30	714.77
+GO:0030336	negative regulation of cell migration	128	0.58	0.64	8.21	158.04
+GO:0009617	response to bacterium	121	0.75	0.67	8.94	27.27
+GO:0048608	reproductive structure development	120	0.61	0.50	7.37	31.35
+GO:0090316	positive regulation of intracellular protein transport	104	0.71	0.73	9.11	289.79
+GO:0008360	regulation of cell shape	103	0.68	0.66	8.69	41.78
+GO:0001701	in utero embryonic development	101	1.00	0.85	9.63	22.50
+GO:0030308	negative regulation of cell growth	93	0.69	0.67	8.67	80.89
+GO:0030833	regulation of actin filament polymerization	93	0.70	0.77	9.22	153.53
+GO:0009267	cellular response to starvation	91	0.64	0.64	8.46	112.77
+GO:0071222	cellular response to lipopolysaccharide	90	1.00	0.82	9.63	238.00
+GO:1903052	positive regulation of proteolysis involved in cellular protein catabolic process	87	0.75	0.77	9.39	1434.77
+GO:0000086	G2/M transition of mitotic cell cycle	84	1.00	0.79	9.63	43.45
+GO:0006006	glucose metabolic process	78	0.71	0.68	8.57	34.68
+GO:0006661	phosphatidylinositol biosynthetic process	75	0.75	0.75	9.24	661.81
+GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	71	0.80	0.80	9.39	355.88
+GO:0006694	steroid biosynthetic process	67	0.67	0.63	8.59	127.07
+GO:0032092	positive regulation of protein binding	66	0.71	0.64	8.53	32.71
+GO:0046718	viral entry into host cell	57	0.77	0.73	8.94	28.37
+GO:0097746	regulation of blood vessel diameter	56	0.64	0.64	8.47	38.29
+GO:0042795	snRNA transcription by RNA polymerase II	55	1.00	0.95	9.63	1410.65
+GO:0045638	negative regulation of myeloid cell differentiation	55	0.73	0.72	9.19	279.08
+GO:0045667	regulation of osteoblast differentiation	55	0.83	0.70	9.41	40.23
+GO:0010507	negative regulation of autophagy	54	0.74	0.72	9.12	217.48
+GO:0032465	regulation of cytokinesis	53	0.59	0.62	8.14	31.80
+GO:0016573	histone acetylation	53	0.69	0.78	9.12	658.07
+GO:0045921	positive regulation of exocytosis	53	0.69	0.72	8.87	171.96
+GO:0031058	positive regulation of histone modification	51	0.67	0.73	9.14	590.85
+GO:0030518	intracellular steroid hormone receptor signaling pathway	50	0.78	0.74	9.05	52.40
+GO:0051492	regulation of stress fiber assembly	47	0.89	0.86	9.49	106.76
+GO:0070301	cellular response to hydrogen peroxide	46	1.00	0.82	9.63	361.03
+GO:0048562	embryonic organ morphogenesis	43	0.76	0.63	8.67	29.31
+GO:0045778	positive regulation of ossification	40	0.84	0.71	9.38	41.73
+GO:0070373	negative regulation of ERK1 and ERK2 cascade	39	1.00	0.93	9.63	1180.90
+GO:0006879	cellular iron ion homeostasis	38	0.84	0.84	9.47	186.74
+GO:0034968	histone lysine methylation	37	0.71	0.77	9.27	765.80
+GO:0060964	regulation of gene silencing by miRNA	34	0.74	0.74	9.16	63.20
+GO:0045815	positive regulation of gene expression, epigenetic	34	0.78	0.74	9.08	79.85
+GO:0043392	negative regulation of DNA binding	33	0.76	0.67	8.87	32.53
+GO:1903146	regulation of autophagy of mitochondrion	33	0.74	0.72	9.28	66.79
+GO:0030837	negative regulation of actin filament polymerization	33	0.84	0.85	9.54	433.76
+GO:0007286	spermatid development	33	1.00	0.79	9.63	72.78
+GO:0032922	circadian regulation of gene expression	33	1.00	0.82	9.63	31.18
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	33	0.89	0.80	9.45	80.05
+GO:0070317	negative regulation of G0 to G1 transition	32	1.00	0.85	9.63	83.03
+GO:0034260	negative regulation of GTPase activity	30	1.00	0.82	9.63	61.14
+GO:0051402	neuron apoptotic process	30	0.83	0.70	9.02	23.44
+GO:0010718	positive regulation of epithelial to mesenchymal transition	26	0.81	0.73	9.38	170.70
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	26	1.00	0.92	9.63	185.81
+GO:0036258	multivesicular body assembly	26	1.00	0.85	9.63	62.72
+GO:0001947	heart looping	26	1.00	0.85	9.63	47.98
+GO:1905515	non-motile cilium assembly	24	1.00	0.85	9.63	138.78
+GO:0071300	cellular response to retinoic acid	24	1.00	0.82	9.63	200.60
+GO:0035176	social behavior	24	1.00	0.70	9.63	22.58
+GO:0010922	positive regulation of phosphatase activity	23	0.76	0.78	9.27	265.28
+GO:0006306	DNA methylation	23	0.74	0.77	9.25	389.47
+GO:0007098	centrosome cycle	19	1.00	0.75	9.63	37.69
+GO:0032469	endoplasmic reticulum calcium ion homeostasis	19	0.83	0.83	9.53	288.69
+GO:0006515	protein quality control for misfolded or incompletely synthesized proteins	19	0.87	0.78	9.37	51.85
+GO:0032801	receptor catabolic process	19	0.84	0.74	9.34	102.12
+GO:0034080	CENP-A containing nucleosome assembly	18	1.00	0.90	9.63	242.74
+GO:0001953	negative regulation of cell-matrix adhesion	18	0.87	0.78	9.39	66.96
+GO:0042407	cristae formation	17	1.00	0.85	9.63	41.99
+GO:0035094	response to nicotine	17	0.93	0.72	9.45	26.17
+GO:0016358	dendrite development	16	0.83	0.74	9.26	32.63
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	16	0.93	0.90	9.60	732.69
+GO:0098815	modulation of excitatory postsynaptic potential	16	0.79	0.74	9.39	100.66
+GO:0016226	iron-sulfur cluster assembly	15	0.67	0.63	8.35	61.31
+GO:0006541	glutamine metabolic process	15	0.77	0.78	9.25	86.07
+GO:0071392	cellular response to estradiol stimulus	15	1.00	0.82	9.63	338.17
+GO:0051491	positive regulation of filopodium assembly	14	1.00	0.90	9.63	200.31
+GO:0034162	toll-like receptor 9 signaling pathway	14	1.00	0.95	9.63	412.65
+GO:1903204	negative regulation of oxidative stress-induced neuron death	13	0.87	0.83	9.58	363.98
+GO:1902236	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	13	0.93	0.88	9.60	830.76
+GO:0001658	branching involved in ureteric bud morphogenesis	13	1.00	0.85	9.63	53.50
+GO:0040018	positive regulation of multicellular organism growth	13	1.00	0.82	9.63	145.46
+GO:0032402	melanosome transport	12	1.00	0.88	9.63	154.04
+GO:0035115	embryonic forelimb morphogenesis	12	1.00	0.82	9.63	58.81
+GO:0010614	negative regulation of cardiac muscle hypertrophy	12	0.89	0.82	9.49	95.68
+GO:0042220	response to cocaine	12	0.93	0.79	9.55	106.25
+GO:0007628	adult walking behavior	11	1.00	0.75	9.63	34.94
+GO:1903351	cellular response to dopamine	10	1.00	0.88	9.63	545.63
+GO:0032967	positive regulation of collagen biosynthetic process	10	1.00	0.82	9.63	105.22
+GO:0001975	response to amphetamine	10	0.93	0.79	9.54	70.50
+GO:0071481	cellular response to X-ray	10	1.00	0.85	9.63	60.40
+GO:0036499	PERK-mediated unfolded protein response	10	1.00	0.82	9.63	80.02
+GO:2001014	regulation of skeletal muscle cell differentiation	8	0.77	0.76	9.34	72.05
+GO:0010870	positive regulation of receptor biosynthetic process	8	0.84	0.77	9.47	258.62
+GO:0043517	positive regulation of DNA damage response, signal transduction by p53 class mediator	7	0.93	0.86	9.59	407.40
+GO:1903071	positive regulation of ER-associated ubiquitin-dependent protein catabolic process	7	1.00	0.95	9.63	6504.67
+GO:1900364	negative regulation of mRNA polyadenylation	7	1.00	0.93	9.63	727.50
+GO:0045741	positive regulation of epidermal growth factor-activated receptor activity	7	0.93	0.91	9.61	2972.11
+GO:0071447	cellular response to hydroperoxide	7	0.87	0.72	9.49	143.11
+GO:0045618	positive regulation of keratinocyte differentiation	7	0.93	0.84	9.58	360.60
+GO:0032790	ribosome disassembly	7	1.00	0.82	9.63	97.00
+GO:0016584	nucleosome positioning	6	1.00	0.82	9.63	77.16
+GO:0031000	response to caffeine	6	0.93	0.79	9.55	108.60
+GO:1903551	regulation of extracellular exosome assembly	6	0.89	0.80	9.41	33.45
+GO:0032876	negative regulation of DNA endoreduplication	5	1.00	0.92	9.63	1221.92
+GO:0071169	establishment of protein localization to chromatin	5	0.93	0.84	9.56	126.96
+GO:0061000	negative regulation of dendritic spine development	5	0.93	0.90	9.60	672.78
+GO:1901098	positive regulation of autophagosome maturation	5	1.00	0.90	9.63	490.40
+GO:0052405	negative regulation by host of symbiont molecular function	5	0.81	0.76	9.39	109.08
+GO:0045347	negative regulation of MHC class II biosynthetic process	4	1.00	0.85	9.63	147.30
+GO:1903800	positive regulation of production of miRNAs involved in gene silencing by miRNA	4	0.89	0.86	9.57	702.64
+GO:0010637	negative regulation of mitochondrial fusion	4	1.00	0.88	9.63	158.54
+GO:0060027	convergent extension involved in gastrulation	4	0.84	0.74	9.18	32.77
+GO:1990414	replication-born double-strand break repair via sister chromatid exchange	4	1.00	0.92	9.63	521.72
+GO:2000346	negative regulation of hepatocyte proliferation	3	1.00	0.85	9.63	189.35
+GO:0060296	regulation of cilium beat frequency involved in ciliary motility	3	0.93	0.84	9.56	126.86
+GO:0060956	endocardial cell differentiation	3	1.00	0.85	9.63	49.86
+GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	3	1.00	0.82	9.63	83.93
+GO:0051684	maintenance of Golgi location	3	1.00	0.82	9.63	40.06
+GO:0060304	regulation of phosphatidylinositol dephosphorylation	3	1.00	0.88	9.63	95.62
+GO:1902897	regulation of postsynaptic density protein 95 clustering	3	1.00	0.88	9.63	93.93
+GO:0014033	neural crest cell differentiation	3	0.87	0.72	9.27	46.51
+GO:0038108	negative regulation of appetite by leptin-mediated signaling pathway	3	1.00	0.92	9.63	142.47
+GO:2001205	negative regulation of osteoclast development	3	1.00	0.92	9.63	1250.36
+GO:0032525	somite rostral/caudal axis specification	2	1.00	0.79	9.63	40.32
+GO:1903378	positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	2	1.00	0.93	9.63	1833.12
+GO:0051877	pigment granule aggregation in cell center	2	1.00	0.85	9.63	47.41
+GO:0006529	asparagine biosynthetic process	2	0.87	0.85	9.54	966.98
+GO:0032278	positive regulation of gonadotropin secretion	2	0.89	0.84	9.55	371.38
+GO:1902459	positive regulation of stem cell population maintenance	2	0.84	0.71	9.43	80.27
+GO:1905406	positive regulation of mitotic cohesin loading	1	0.89	0.88	9.58	1181.66
+GO:0010868	negative regulation of triglyceride biosynthetic process	1	1.00	0.88	9.63	587.77
+GO:1905305	negative regulation of cardiac myofibril assembly	1	1.00	0.92	9.63	1328.63
+GO:1902952	positive regulation of dendritic spine maintenance	1	1.00	0.88	9.63	107.56
+GO:0003251	positive regulation of cell proliferation involved in heart valve morphogenesis	1	1.00	0.90	9.63	236.88
+GO:0071921	cohesin loading	1	0.87	0.81	9.52	71.05

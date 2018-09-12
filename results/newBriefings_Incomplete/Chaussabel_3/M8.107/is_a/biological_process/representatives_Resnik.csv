@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	919	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	3625	0.09	0.17	1.80	4.47
+GO:0008152	metabolic process	3393	0.15	0.07	1.52	3.37
+GO:1901360	organic cyclic compound metabolic process	1783	0.24	0.32	3.54	10.22
+GO:1901564	organonitrogen compound metabolic process	1885	0.23	0.31	3.63	19.40
+GO:0043170	macromolecule metabolic process	2712	0.25	0.32	3.46	10.22
+GO:1901564	organonitrogen compound metabolic process	1885	0.23	0.31	3.63	19.40
+GO:0031323	regulation of cellular metabolic process	2197	0.22	0.36	4.01	22.77
+GO:0001666	response to hypoxia	102	0.81	0.70	9.12	21.16
+GO:0051716	cellular response to stimulus	1028	0.35	0.30	4.36	13.53
+GO:0007166	cell surface receptor signaling pathway	766	0.43	0.51	5.91	23.17
+GO:0065003	protein-containing complex assembly	615	0.45	0.48	6.06	36.47
+GO:0034220	ion transmembrane transport	244	0.45	0.51	6.18	26.33
+GO:0030855	epithelial cell differentiation	95	0.55	0.52	6.96	21.07
+GO:0051085	chaperone cofactor-dependent protein refolding	17	1.00	0.79	9.63	21.14

@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	719	0.28	0.26	3.48	4.47
+GO:0032092	positive regulation of protein binding	35	0.71	0.64	8.53	32.71
+GO:0045429	positive regulation of nitric oxide biosynthetic process	10	1.00	0.88	9.63	658.64
+GO:0050789	regulation of biological process	2817	0.09	0.17	1.80	4.47
+GO:1901360	organic cyclic compound metabolic process	1370	0.24	0.32	3.54	10.22
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:1901564	organonitrogen compound metabolic process	1465	0.23	0.31	3.63	19.40
+GO:1901360	organic cyclic compound metabolic process	1370	0.24	0.32	3.54	10.22
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:1901564	organonitrogen compound metabolic process	1465	0.23	0.31	3.63	19.40
+GO:0000281	mitotic cytokinesis	28	0.93	0.76	9.47	28.62
+GO:0016043	cellular component organization	1309	0.28	0.26	3.74	11.45
+GO:0030199	collagen fibril organization	11	1.00	0.79	9.63	53.96
+GO:0008104	protein localization	571	0.40	0.40	5.07	7.46
+GO:0006810	transport	1148	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	626	0.32	0.29	4.12	6.14
+GO:0071456	cellular response to hypoxia	37	1.00	0.82	9.63	103.25
+GO:0006950	response to stress	731	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	752	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	598	0.38	0.19	3.93	3.37

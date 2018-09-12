@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	3168	0.00	0.00	0.00	0.00
+GO:2000679	positive regulation of transcription regulatory region DNA binding	5	0.89	0.77	9.43	47.97
+GO:0045582	positive regulation of T cell differentiation	28	0.70	0.75	9.32	861.16
+GO:0009966	regulation of signal transduction	641	0.33	0.45	5.35	37.59
+GO:0050789	regulation of biological process	2207	0.09	0.17	1.80	4.47
+GO:2000679	positive regulation of transcription regulatory region DNA binding	5	0.89	0.77	9.43	47.97
+GO:0045582	positive regulation of T cell differentiation	28	0.70	0.75	9.32	861.16
+GO:0009966	regulation of signal transduction	641	0.33	0.45	5.35	37.59
+GO:0050789	regulation of biological process	2207	0.09	0.17	1.80	4.47
+GO:0032502	developmental process	584	0.22	0.11	1.89	3.37
+GO:0051641	cellular localization	526	0.37	0.31	4.44	5.67
+GO:0009605	response to external stimulus	282	0.37	0.31	4.62	6.14
+GO:0048856	anatomical structure development	261	0.33	0.29	3.70	6.46
+GO:0000902	cell morphogenesis	45	0.63	0.56	7.92	43.26
+GO:0001649	osteoblast differentiation	21	1.00	0.75	9.63	21.07
+GO:0072676	lymphocyte migration	16	0.68	0.66	8.66	29.14
+GO:0007416	synapse assembly	15	0.84	0.67	9.12	35.85
+GO:0055007	cardiac muscle cell differentiation	9	0.79	0.72	9.07	45.92
+GO:0070584	mitochondrion morphogenesis	9	1.00	0.79	9.63	64.70
+GO:0003222	ventricular trabecula myocardium morphogenesis	4	0.89	0.80	9.43	28.31
+GO:0072643	interferon-gamma secretion	3	1.00	0.92	9.63	137.07
+GO:0072602	interleukin-4 secretion	2	1.00	0.92	9.63	137.07
+GO:0010761	fibroblast migration	2	0.93	0.79	9.49	22.57
+GO:0060374	mast cell differentiation	2	1.00	0.82	9.63	47.07
+GO:0060956	endocardial cell differentiation	1	1.00	0.85	9.63	49.86
+GO:0060379	cardiac muscle cell myoblast differentiation	1	1.00	0.82	9.63	69.29
+GO:0090286	cytoskeletal anchoring at nuclear membrane	1	1.00	0.82	9.63	66.89
+GO:0072178	nephric duct morphogenesis	1	0.87	0.76	9.38	32.21
+GO:0060231	mesenchymal to epithelial transition	1	0.83	0.70	9.34	24.20

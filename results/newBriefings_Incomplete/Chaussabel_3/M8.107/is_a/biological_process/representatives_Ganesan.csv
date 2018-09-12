@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3429	0.12	0.26	2.47	7.96
+GO:0034641	cellular nitrogen compound metabolic process	1837	0.26	0.33	4.23	26.70
+GO:0051716	cellular response to stimulus	1028	0.35	0.30	4.36	13.53
+GO:0006357	regulation of transcription by RNA polymerase II	922	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	872	0.57	0.68	8.45	581.39
+GO:0044255	cellular lipid metabolic process	354	0.38	0.44	5.89	38.02
+GO:0034622	cellular protein-containing complex assembly	341	0.48	0.53	6.52	40.42
+GO:0034220	ion transmembrane transport	244	0.45	0.51	6.18	26.33
+GO:0051260	protein homooligomerization	113	0.89	0.77	9.41	42.03
+GO:0000165	MAPK cascade	108	0.74	0.77	9.24	231.45
+GO:0001666	response to hypoxia	102	0.81	0.70	9.12	21.16
+GO:0030855	epithelial cell differentiation	95	0.55	0.52	6.96	21.07
+GO:0006006	glucose metabolic process	48	0.71	0.68	8.57	34.68
+GO:0008543	fibroblast growth factor receptor signaling pathway	25	0.71	0.73	8.57	31.00
+GO:0051085	chaperone cofactor-dependent protein refolding	17	1.00	0.79	9.63	21.14
+GO:0008535	respiratory chain complex IV assembly	9	0.89	0.80	9.43	46.46
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	8	1.00	0.88	9.63	66.40
+GO:0051918	negative regulation of fibrinolysis	3	1.00	0.90	9.63	332.96
+GO:0101030	tRNA-guanine transglycosylation	2	1.00	0.93	9.63	494.29

@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	183	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	673	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	465	0.21	0.30	3.39	7.96
+GO:0032879	regulation of localization	183	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	673	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	348	0.21	0.30	3.07	7.96
+GO:0006974	cellular response to DNA damage stimulus	65	0.57	0.53	7.47	29.00
+GO:0044237	cellular metabolic process	621	0.16	0.21	2.71	13.80
+GO:0006631	fatty acid metabolic process	19	0.54	0.62	7.85	91.02
+GO:0016043	cellular component organization	320	0.28	0.26	3.74	11.45
+GO:0051179	localization	320	0.26	0.13	2.57	3.37
+GO:0009628	response to abiotic stimulus	65	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	146	0.32	0.29	4.12	6.14
+GO:0002376	immune system process	167	0.38	0.19	3.93	3.37
+GO:0048856	anatomical structure development	81	0.33	0.29	3.70	6.46
+GO:0051260	protein homooligomerization	27	0.89	0.77	9.41	42.03
+GO:0000082	G1/S transition of mitotic cell cycle	12	1.00	0.79	9.63	42.75
+GO:0007080	mitotic metaphase plate congression	12	1.00	0.85	9.63	61.63
+GO:0000086	G2/M transition of mitotic cell cycle	10	1.00	0.79	9.63	43.45
+GO:0000281	mitotic cytokinesis	9	0.93	0.76	9.47	28.62
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	5	0.89	0.70	9.29	27.92
+GO:0034446	substrate adhesion-dependent cell spreading	4	1.00	0.82	9.63	56.23
+GO:0045132	meiotic chromosome segregation	3	0.80	0.65	9.09	42.96
+GO:0042246	tissue regeneration	2	0.76	0.63	8.94	42.89
+GO:0007079	mitotic chromosome movement towards spindle pole	2	1.00	0.85	9.63	93.22
+GO:0001556	oocyte maturation	2	1.00	0.75	9.63	79.09
+GO:0044539	long-chain fatty acid import	1	1.00	0.93	9.63	75.03

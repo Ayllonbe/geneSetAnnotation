@@ -1,0 +1,73 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048869	cellular developmental process	363	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	343	0.40	0.60	6.84	245.35
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	24	0.61	0.63	8.36	112.25
+GO:0016070	RNA metabolic process	209	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	100	0.45	0.55	7.12	145.26
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	230	0.44	0.55	6.91	183.64
+GO:0032774	RNA biosynthetic process	178	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	210	0.47	0.53	6.91	102.76
+GO:0080134	regulation of response to stress	227	0.35	0.42	5.03	11.65
+GO:0031401	positive regulation of protein modification process	197	0.51	0.63	7.86	366.05
+GO:0065003	protein-containing complex assembly	193	0.45	0.48	6.06	36.47
+GO:0033554	cellular response to stress	174	0.44	0.42	6.05	25.47
+GO:0009725	response to hormone	131	0.53	0.51	7.03	21.86
+GO:0045892	negative regulation of transcription, DNA-templated	123	0.56	0.69	8.52	1581.26
+GO:0033674	positive regulation of kinase activity	118	0.61	0.70	8.62	265.90
+GO:0006974	cellular response to DNA damage stimulus	99	0.57	0.53	7.47	29.00
+GO:0071417	cellular response to organonitrogen compound	82	0.53	0.56	7.37	128.53
+GO:0051052	regulation of DNA metabolic process	67	0.47	0.56	7.17	70.58
+GO:0045787	positive regulation of cell cycle	67	0.53	0.55	7.23	42.18
+GO:0070647	protein modification by small protein conjugation or removal	55	0.61	0.66	8.44	151.15
+GO:0048608	reproductive structure development	44	0.61	0.50	7.37	31.35
+GO:0045766	positive regulation of angiogenesis	43	0.81	0.76	9.30	134.49
+GO:0051054	positive regulation of DNA metabolic process	42	0.59	0.65	8.41	301.51
+GO:0071356	cellular response to tumor necrosis factor	31	1.00	0.82	9.63	81.65
+GO:0000082	G1/S transition of mitotic cell cycle	31	1.00	0.79	9.63	42.75
+GO:0022412	cellular process involved in reproduction in multicellular organism	30	0.53	0.39	6.04	15.42
+GO:0071478	cellular response to radiation	27	0.67	0.63	8.53	36.92
+GO:0034655	nucleobase-containing compound catabolic process	25	0.48	0.53	7.63	314.02
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	24	0.79	0.83	9.47	340.69
+GO:0043009	chordate embryonic development	23	0.93	0.79	9.49	22.50
+GO:0000723	telomere maintenance	22	0.73	0.72	9.29	183.02
+GO:0070301	cellular response to hydrogen peroxide	18	1.00	0.82	9.63	361.03
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0032465	regulation of cytokinesis	15	0.59	0.62	8.14	31.80
+GO:0032508	DNA duplex unwinding	15	0.80	0.75	9.22	23.73
+GO:0070192	chromosome organization involved in meiotic cell cycle	14	0.70	0.64	8.57	44.79
+GO:0031058	positive regulation of histone modification	12	0.67	0.73	9.14	590.85
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	11	1.00	0.93	9.63	888.12
+GO:0070317	negative regulation of G0 to G1 transition	11	1.00	0.85	9.63	83.03
+GO:0000077	DNA damage checkpoint	11	0.81	0.78	9.46	85.76
+GO:0034502	protein localization to chromosome	11	0.67	0.66	8.49	32.77
+GO:0010575	positive regulation of vascular endothelial growth factor production	10	1.00	0.82	9.63	64.54
+GO:0000281	mitotic cytokinesis	10	0.93	0.76	9.47	28.62
+GO:0045589	regulation of regulatory T cell differentiation	9	0.79	0.79	9.52	133.47
+GO:0035264	multicellular organism growth	9	1.00	0.70	9.63	22.58
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	9	0.93	0.88	9.59	425.74
+GO:0007098	centrosome cycle	9	1.00	0.75	9.63	37.69
+GO:0044818	mitotic G2/M transition checkpoint	9	0.89	0.86	9.55	492.82
+GO:0097421	liver regeneration	8	1.00	0.82	9.63	47.22
+GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
+GO:2000378	negative regulation of reactive oxygen species metabolic process	7	0.78	0.71	9.25	113.13
+GO:0031057	negative regulation of histone modification	6	0.66	0.73	9.14	591.66
+GO:0090398	cellular senescence	6	0.87	0.68	9.45	55.14
+GO:0046939	nucleotide phosphorylation	5	0.67	0.71	8.91	199.75
+GO:0030521	androgen receptor signaling pathway	5	0.89	0.82	9.45	54.01
+GO:0048478	replication fork protection	4	1.00	0.92	9.63	1135.31
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0072425	signal transduction involved in G2 DNA damage checkpoint	4	0.93	0.86	9.59	196.62
+GO:2000348	regulation of CD40 signaling pathway	3	0.89	0.77	9.41	41.85
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	234.24
+GO:0033600	negative regulation of mammary gland epithelial cell proliferation	3	1.00	0.85	9.63	170.74
+GO:0055089	fatty acid homeostasis	3	1.00	0.85	9.63	32.35
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:0007141	male meiosis I	2	1.00	0.88	9.63	140.07
+GO:0051598	meiotic recombination checkpoint	1	1.00	0.90	9.63	404.93
+GO:0045876	positive regulation of sister chromatid cohesion	1	0.74	0.77	9.29	259.00
+GO:0046600	negative regulation of centriole replication	1	0.93	0.90	9.59	466.47
+GO:0070816	phosphorylation of RNA polymerase II C-terminal domain	1	0.81	0.84	9.53	433.40
+GO:0031619	homologous chromosome orientation involved in meiotic metaphase I plate congression	1	1.00	0.82	9.63	36.66
+GO:1904354	negative regulation of telomere capping	1	0.93	0.86	9.59	613.97

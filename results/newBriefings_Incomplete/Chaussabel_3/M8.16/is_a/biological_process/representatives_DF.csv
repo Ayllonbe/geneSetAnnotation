@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	1591	0.24	0.37	3.90	23.93
+GO:0016070	RNA metabolic process	1215	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	325	0.45	0.55	7.12	145.26
+GO:0007165	signal transduction	1340	0.36	0.43	5.06	19.43
+GO:0045454	cell redox homeostasis	21	1.00	0.79	9.63	31.94
+GO:0006355	regulation of transcription, DNA-templated	1292	0.40	0.60	6.84	245.35
+GO:0006275	regulation of DNA replication	56	0.61	0.66	8.62	150.74
+GO:0009966	regulation of signal transduction	1018	0.33	0.45	5.35	37.59
+GO:0065003	protein-containing complex assembly	601	0.45	0.48	6.06	36.47
+GO:0070647	protein modification by small protein conjugation or removal	390	0.61	0.66	8.44	151.15
+GO:0044255	cellular lipid metabolic process	346	0.38	0.44	5.89	38.02
+GO:0006886	intracellular protein transport	332	0.55	0.65	8.12	90.55
+GO:0006974	cellular response to DNA damage stimulus	302	0.57	0.53	7.47	29.00
+GO:0006511	ubiquitin-dependent protein catabolic process	223	0.74	0.74	9.19	156.45
+GO:0045087	innate immune response	200	0.68	0.59	8.16	26.47
+GO:0001819	positive regulation of cytokine production	175	0.51	0.54	6.97	44.26
+GO:0043410	positive regulation of MAPK cascade	173	0.66	0.75	9.17	1017.24
+GO:0022604	regulation of cell morphogenesis	168	0.53	0.56	7.35	31.06
+GO:0002757	immune response-activating signal transduction	150	0.61	0.66	8.47	138.88
+GO:0009617	response to bacterium	83	0.75	0.67	8.94	27.27
+GO:0001701	in utero embryonic development	69	1.00	0.85	9.63	22.50
+GO:0030595	leukocyte chemotaxis	47	0.69	0.67	8.77	62.06
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	40	0.93	0.93	9.60	734.49
+GO:0035264	multicellular organism growth	29	1.00	0.70	9.63	22.58
+GO:0050710	negative regulation of cytokine secretion	25	0.70	0.74	9.09	549.99
+GO:0045669	positive regulation of osteoblast differentiation	20	0.93	0.79	9.56	169.86
+GO:0007254	JNK cascade	17	1.00	0.93	9.63	290.61
+GO:0034080	CENP-A containing nucleosome assembly	15	1.00	0.90	9.63	242.74
+GO:0016358	dendrite development	14	0.83	0.74	9.26	32.63
+GO:0050775	positive regulation of dendrite morphogenesis	11	0.93	0.90	9.60	973.03
+GO:0046007	negative regulation of activated T cell proliferation	7	1.00	0.92	9.63	666.97
+GO:0051000	positive regulation of nitric-oxide synthase activity	7	1.00	0.85	9.63	123.23
+GO:0050930	induction of positive chemotaxis	4	1.00	0.88	9.63	129.40
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	4	0.89	0.77	9.43	55.29
+GO:0071225	cellular response to muramyl dipeptide	3	1.00	0.85	9.63	334.58
+GO:1904417	positive regulation of xenophagy	3	1.00	0.90	9.63	536.76
+GO:1903394	protein localization to kinetochore involved in kinetochore assembly	1	1.00	0.90	9.63	37.20
+GO:0042228	interleukin-8 biosynthetic process	1	1.00	0.85	9.63	142.64

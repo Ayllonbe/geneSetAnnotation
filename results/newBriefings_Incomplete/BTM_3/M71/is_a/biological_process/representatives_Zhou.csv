@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1683	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1298	0.08	0.04	0.98	3.37
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0014806	smooth muscle hyperplasia	1	1.00	0.82	9.63	38.94
+GO:0031622	positive regulation of fever generation	6	0.84	0.82	9.45	276.00
+GO:0043312	neutrophil degranulation	155	1.00	0.90	9.63	132.80
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0050896	response to stimulus	655	0.25	0.12	2.65	3.37
+GO:0006810	transport	549	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	451	0.22	0.11	1.89	3.37

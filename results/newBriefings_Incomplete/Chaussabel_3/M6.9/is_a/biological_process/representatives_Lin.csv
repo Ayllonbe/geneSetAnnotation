@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016070	RNA metabolic process	1904	0.39	0.52	6.45	112.25
+GO:0016070	RNA metabolic process	1904	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	1708	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1571	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	1385	0.39	0.32	4.70	6.14
+GO:0006357	regulation of transcription by RNA polymerase II	1348	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	1325	0.30	0.40	4.57	12.04
+GO:0042221	response to chemical	1225	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	1153	0.43	0.51	5.91	23.17
+GO:0033554	cellular response to stress	933	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	887	0.51	0.55	6.92	23.17
+GO:0002682	regulation of immune system process	885	0.32	0.36	4.60	7.96
+GO:0001932	regulation of protein phosphorylation	750	0.50	0.62	7.64	109.03
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	62	0.83	0.85	9.50	3778.55
+GO:0042127	regulation of cell proliferation	725	0.45	0.48	6.03	12.04
+GO:0030154	cell differentiation	681	0.39	0.39	5.18	16.68
+GO:0030334	regulation of cell migration	418	0.48	0.56	7.11	36.74
+GO:0032101	regulation of response to external stimulus	400	0.40	0.45	5.60	11.65
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	227	0.76	0.78	9.31	348.36
+GO:0006417	regulation of translation	213	0.52	0.61	8.02	212.82
+GO:1903037	regulation of leukocyte cell-cell adhesion	199	0.54	0.56	7.02	12.87
+GO:0006412	translation	161	0.87	0.78	9.51	402.56
+GO:0006415	translational termination	88	0.89	0.77	9.41	39.99
+GO:0002576	platelet degranulation	80	1.00	0.88	9.63	39.86
+GO:0045766	positive regulation of angiogenesis	79	0.81	0.76	9.30	134.49
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	76	1.00	0.95	9.63	336.65
+GO:0006479	protein methylation	65	0.59	0.67	8.39	206.80
+GO:0051289	protein homotetramerization	51	1.00	0.85	9.63	85.45
+GO:0006493	protein O-linked glycosylation	49	0.71	0.73	9.02	176.56
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	45	0.68	0.71	8.88	231.14
+GO:0007565	female pregnancy	43	1.00	0.70	9.63	32.81
+GO:0035264	multicellular organism growth	43	1.00	0.70	9.63	22.58
+GO:0051781	positive regulation of cell division	32	0.68	0.63	8.44	42.29
+GO:0045070	positive regulation of viral genome replication	30	0.89	0.82	9.47	85.31
+GO:0006383	transcription by RNA polymerase III	28	0.84	0.84	9.50	583.88
+GO:0045599	negative regulation of fat cell differentiation	26	0.93	0.79	9.54	114.62
+GO:0006040	amino sugar metabolic process	21	0.60	0.55	7.58	13.86
+GO:0007274	neuromuscular synaptic transmission	6	0.93	0.84	9.52	25.74
+GO:0061614	pri-miRNA transcription by RNA polymerase II	6	1.00	0.93	9.63	587.64
+GO:0006384	transcription initiation from RNA polymerase III promoter	4	1.00	0.90	9.63	477.15
+GO:0030578	PML body organization	3	1.00	0.82	9.63	22.53
+GO:0000379	tRNA-type intron splice site recognition and cleavage	3	1.00	0.88	9.63	117.48
+GO:0045081	negative regulation of interleukin-10 biosynthetic process	1	1.00	0.88	9.63	836.02
+GO:0021965	spinal cord ventral commissure morphogenesis	1	1.00	0.93	9.63	69.80
+GO:0097049	motor neuron apoptotic process	1	1.00	0.82	9.63	25.05

@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	362	0.09	0.17	1.80	4.47
+GO:0044237	cellular metabolic process	330	0.16	0.21	2.71	13.80
+GO:0006355	regulation of transcription, DNA-templated	135	0.40	0.60	6.84	245.35
+GO:0044267	cellular protein metabolic process	120	0.34	0.46	5.57	80.87
+GO:0006351	transcription, DNA-templated	96	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	95	0.39	0.39	5.17	14.95
+GO:0006357	regulation of transcription by RNA polymerase II	94	0.44	0.63	7.11	248.57
+GO:0031324	negative regulation of cellular metabolic process	90	0.34	0.46	5.46	80.35
+GO:0051049	regulation of transport	74	0.31	0.40	4.67	10.45
+GO:0035556	intracellular signal transduction	73	0.51	0.55	6.92	23.17
+GO:0007166	cell surface receptor signaling pathway	69	0.43	0.51	5.91	23.17
+GO:0045893	positive regulation of transcription, DNA-templated	65	0.52	0.67	8.14	1208.12
+GO:0033043	regulation of organelle organization	63	0.36	0.47	5.49	15.89
+GO:0044093	positive regulation of molecular function	58	0.43	0.41	5.23	6.77
+GO:0051726	regulation of cell cycle	47	0.41	0.45	5.89	12.04
+GO:0009967	positive regulation of signal transduction	46	0.44	0.54	6.71	140.23
+GO:0030154	cell differentiation	43	0.39	0.39	5.18	16.68
+GO:0001932	regulation of protein phosphorylation	41	0.50	0.62	7.64	109.03
+GO:0050794	regulation of cellular process	345	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	36	0.32	0.36	4.60	7.96
+GO:0006468	protein phosphorylation	32	0.57	0.64	8.18	177.76
+GO:0042592	homeostatic process	27	0.45	0.42	5.70	8.64
+GO:0045321	leukocyte activation	27	0.52	0.46	6.78	16.27
+GO:0008284	positive regulation of cell proliferation	25	0.56	0.57	7.27	43.45
+GO:0006325	chromatin organization	22	0.49	0.44	6.23	14.95
+GO:0003006	developmental process involved in reproduction	22	0.43	0.34	5.07	14.49
+GO:0022411	cellular component disassembly	17	0.54	0.47	6.60	14.95
+GO:0072657	protein localization to membrane	17	0.58	0.58	7.59	29.83
+GO:0016477	cell migration	17	0.47	0.48	6.31	17.13
+GO:0045333	cellular respiration	7	0.68	0.63	8.24	30.86
+GO:0030307	positive regulation of cell growth	7	0.70	0.67	8.71	80.65
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0031100	animal organ regeneration	3	0.89	0.70	9.29	28.09
+GO:0060964	regulation of gene silencing by miRNA	3	0.74	0.74	9.16	63.20
+GO:1901216	positive regulation of neuron death	2	0.81	0.73	9.26	58.38
+GO:2000379	positive regulation of reactive oxygen species metabolic process	2	0.78	0.71	9.25	112.72
+GO:0051017	actin filament bundle assembly	2	0.79	0.72	9.14	39.79
+GO:0031623	receptor internalization	2	0.72	0.71	9.20	64.85
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	1	1.00	0.82	9.63	56.75

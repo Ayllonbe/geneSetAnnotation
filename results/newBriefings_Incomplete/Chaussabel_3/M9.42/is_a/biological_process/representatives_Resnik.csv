@@ -1,0 +1,21 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	353	0.08	0.04	0.98	3.37
+GO:0016043	cellular component organization	161	0.28	0.26	3.74	11.45
+GO:0016070	RNA metabolic process	143	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	33	0.45	0.55	7.12	145.26
+GO:0019538	protein metabolic process	134	0.31	0.41	4.91	44.77
+GO:0007165	signal transduction	131	0.36	0.43	5.06	19.43
+GO:0006357	regulation of transcription by RNA polymerase II	93	0.44	0.63	7.11	248.57
+GO:0050804	modulation of chemical synaptic transmission	5	0.52	0.58	7.24	27.32
+GO:0009966	regulation of signal transduction	87	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	79	0.22	0.11	1.89	3.37
+GO:0061003	positive regulation of dendritic spine morphogenesis	2	1.00	0.95	9.63	1908.97
+GO:0051726	regulation of cell cycle	45	0.41	0.45	5.89	12.04
+GO:0042127	regulation of cell proliferation	39	0.45	0.48	6.03	12.04
+GO:0071310	cellular response to organic substance	32	0.44	0.47	5.95	41.66
+GO:1903047	mitotic cell cycle process	31	0.50	0.45	5.87	11.32
+GO:1903046	meiotic cell cycle process	3	0.49	0.44	6.09	19.36
+GO:0007154	cell communication	17	0.46	0.36	5.27	7.39
+GO:0006898	receptor-mediated endocytosis	6	0.68	0.66	8.48	28.44
+GO:0001523	retinoid metabolic process	3	0.77	0.76	9.19	47.55
+GO:0046833	positive regulation of RNA export from nucleus	1	0.84	0.80	9.45	194.80

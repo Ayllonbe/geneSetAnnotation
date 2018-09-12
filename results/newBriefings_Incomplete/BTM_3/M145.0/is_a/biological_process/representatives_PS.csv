@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	231	0.28	0.26	3.48	4.47
+GO:0050789	regulation of biological process	711	0.09	0.17	1.80	4.47
+GO:0048518	positive regulation of biological process	452	0.21	0.30	3.05	7.96
+GO:0048584	positive regulation of response to stimulus	254	0.35	0.42	4.95	23.46
+GO:0042127	regulation of cell proliferation	159	0.45	0.48	6.03	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	138	0.55	0.57	7.20	23.17
+GO:0030334	regulation of cell migration	106	0.48	0.56	7.11	36.74
+GO:0010628	positive regulation of gene expression	103	0.47	0.56	6.67	58.80
+GO:0033554	cellular response to stress	91	0.44	0.42	6.05	25.47
+GO:0009725	response to hormone	74	0.53	0.51	7.03	21.86
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0006468	protein phosphorylation	65	0.57	0.64	8.18	177.76
+GO:0010564	regulation of cell cycle process	57	0.42	0.50	6.22	14.24
+GO:0051480	regulation of cytosolic calcium ion concentration	53	0.66	0.75	9.02	288.69
+GO:0009615	response to virus	36	0.74	0.66	8.80	27.27
+GO:0051259	protein complex oligomerization	35	0.78	0.68	9.09	40.42
+GO:0051924	regulation of calcium ion transport	33	0.59	0.65	7.94	18.44
+GO:0030036	actin cytoskeleton organization	27	0.63	0.61	8.05	29.61
+GO:0006816	calcium ion transport	24	0.67	0.71	8.69	35.67
+GO:0030855	epithelial cell differentiation	18	0.55	0.52	6.96	21.07
+GO:0035023	regulation of Rho protein signal transduction	14	0.84	0.82	9.32	48.76
+GO:0007173	epidermal growth factor receptor signaling pathway	12	0.78	0.78	9.04	32.39
+GO:0036336	dendritic cell migration	11	0.84	0.74	9.41	29.14
+GO:0007219	Notch signaling pathway	10	0.78	0.71	8.87	26.50
+GO:0007266	Rho protein signal transduction	10	0.93	0.84	9.52	29.61
+GO:0055117	regulation of cardiac muscle contraction	9	0.69	0.72	9.10	36.97
+GO:0007517	muscle organ development	7	0.78	0.64	8.75	27.68
+GO:0001701	in utero embryonic development	7	1.00	0.85	9.63	22.50
+GO:0051017	actin filament bundle assembly	6	0.79	0.72	9.14	39.79
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	5	0.89	0.82	9.54	374.75
+GO:0008286	insulin receptor signaling pathway	5	0.87	0.81	9.34	31.00
+GO:0003382	epithelial cell morphogenesis	5	0.87	0.76	9.37	47.45
+GO:0006906	vesicle fusion	4	0.68	0.66	8.56	63.10
+GO:0016601	Rac protein signal transduction	4	1.00	0.88	9.63	29.61
+GO:0048278	vesicle docking	3	0.81	0.70	9.18	21.39
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0003334	keratinocyte development	3	1.00	0.79	9.63	34.35
+GO:0032060	bleb assembly	2	1.00	0.82	9.63	58.57
+GO:0030049	muscle filament sliding	2	1.00	0.82	9.63	20.96
+GO:0019065	receptor-mediated endocytosis of virus by host cell	2	0.89	0.80	9.51	100.58
+GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
+GO:0051016	barbed-end actin filament capping	2	1.00	0.96	9.63	827.59
+GO:0070836	caveola assembly	2	1.00	0.85	9.63	78.00
+GO:0044791	positive regulation by host of viral release from host cell	1	1.00	0.90	9.63	253.87
+GO:0086023	adenylate cyclase-activating adrenergic receptor signaling pathway involved in heart process	1	0.84	0.85	9.47	115.21
+GO:0048741	skeletal muscle fiber development	1	1.00	0.85	9.63	69.28
+GO:0086092	regulation of the force of heart contraction by cardiac conduction	1	1.00	0.88	9.63	60.77
+GO:0048251	elastic fiber assembly	1	1.00	0.82	9.63	39.54
+GO:1901877	negative regulation of calcium ion binding	1	1.00	0.79	9.63	30.92
+GO:0010458	exit from mitosis	1	1.00	0.79	9.63	29.82
+GO:0072144	glomerular mesangial cell development	1	0.89	0.74	9.41	66.50

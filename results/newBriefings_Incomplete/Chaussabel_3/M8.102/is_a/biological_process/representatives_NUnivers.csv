@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	1373	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	1334	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1147	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	878	0.57	0.68	8.45	581.39
+GO:0043933	protein-containing complex subunit organization	742	0.43	0.41	5.44	14.95
+GO:0009967	positive regulation of signal transduction	563	0.44	0.54	6.71	140.23
+GO:0045893	positive regulation of transcription, DNA-templated	545	0.52	0.67	8.14	1208.12
+GO:0045892	negative regulation of transcription, DNA-templated	448	0.56	0.69	8.52	1581.26
+GO:0016310	phosphorylation	444	0.53	0.56	6.88	24.41
+GO:0050776	regulation of immune response	385	0.38	0.44	5.64	22.45
+GO:0034613	cellular protein localization	379	0.45	0.48	6.33	26.83
+GO:0043312	neutrophil degranulation	217	1.00	0.90	9.63	132.80
+GO:0043547	positive regulation of GTPase activity	141	0.93	0.79	9.52	49.34
+GO:0006605	protein targeting	125	0.72	0.76	9.18	93.44
+GO:0001701	in utero embryonic development	71	1.00	0.85	9.63	22.50
+GO:0032355	response to estradiol	45	0.93	0.76	9.52	74.25
+GO:0008277	regulation of G-protein coupled receptor protein signaling pathway	43	0.54	0.59	7.53	41.85
+GO:0032465	regulation of cytokinesis	42	0.59	0.62	8.14	31.80
+GO:1990830	cellular response to leukemia inhibitory factor	41	1.00	0.82	9.63	81.65
+GO:0090090	negative regulation of canonical Wnt signaling pathway	40	0.79	0.77	9.28	236.99
+GO:0016573	histone acetylation	36	0.69	0.78	9.12	658.07
+GO:0043507	positive regulation of JUN kinase activity	30	0.87	0.90	9.58	4931.41
+GO:0061098	positive regulation of protein tyrosine kinase activity	19	0.84	0.85	9.56	2154.62
+GO:0048168	regulation of neuronal synaptic plasticity	17	0.80	0.77	9.22	41.66
+GO:0015937	coenzyme A biosynthetic process	7	1.00	0.93	9.63	6508.61
+GO:0044030	regulation of DNA methylation	5	0.80	0.75	9.25	73.35
+GO:0090179	planar cell polarity pathway involved in neural tube closure	5	1.00	0.92	9.63	275.51
+GO:0150012	positive regulation of neuron projection arborization	2	1.00	0.92	9.63	614.87
+GO:0022007	convergent extension involved in neural plate elongation	1	1.00	0.85	9.63	53.46

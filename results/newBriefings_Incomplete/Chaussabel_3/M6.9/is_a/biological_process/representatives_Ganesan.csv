@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	5034	0.12	0.26	2.47	7.96
+GO:0032268	regulation of cellular protein metabolic process	1414	0.37	0.51	6.13	70.76
+GO:0031326	regulation of cellular biosynthetic process	2307	0.29	0.44	4.86	40.35
+GO:0090304	nucleic acid metabolic process	2195	0.35	0.46	5.97	111.15
+GO:2000112	regulation of cellular macromolecule biosynthetic process	2186	0.36	0.50	5.87	74.82
+GO:0048583	regulation of response to stimulus	2081	0.25	0.32	3.72	7.96
+GO:0006464	cellular protein modification process	1708	0.34	0.49	5.84	147.03
+GO:0034654	nucleobase-containing compound biosynthetic process	1613	0.40	0.49	6.85	317.02
+GO:0006351	transcription, DNA-templated	1271	0.57	0.68	8.45	581.39
+GO:0048869	cellular developmental process	1072	0.32	0.29	4.16	13.85
+GO:0070887	cellular response to chemical stimulus	878	0.40	0.40	5.31	25.21
+GO:0006952	defense response	448	0.56	0.48	6.67	9.54
+GO:0030334	regulation of cell migration	418	0.48	0.56	7.11	36.74
+GO:0016071	mRNA metabolic process	417	0.59	0.65	8.39	115.08
+GO:0032101	regulation of response to external stimulus	400	0.40	0.45	5.60	11.65
+GO:0051129	negative regulation of cellular component organization	362	0.42	0.50	5.99	44.00
+GO:1903037	regulation of leukocyte cell-cell adhesion	199	0.54	0.56	7.02	12.87
+GO:0006412	translation	161	0.87	0.78	9.51	402.56
+GO:0001666	response to hypoxia	154	0.81	0.70	9.12	21.16
+GO:0007265	Ras protein signal transduction	152	0.76	0.73	8.94	27.53
+GO:0045637	regulation of myeloid cell differentiation	140	0.62	0.63	8.47	67.17
+GO:0051495	positive regulation of cytoskeleton organization	122	0.62	0.66	8.29	90.96
+GO:0070126	mitochondrial translational termination	83	1.00	0.85	9.63	40.69
+GO:0002576	platelet degranulation	80	1.00	0.88	9.63	39.86
+GO:0045766	positive regulation of angiogenesis	79	0.81	0.76	9.30	134.49
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	76	1.00	0.95	9.63	336.65
+GO:0032355	response to estradiol	59	0.93	0.76	9.52	74.25
+GO:0051289	protein homotetramerization	51	1.00	0.85	9.63	85.45
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	49	0.83	0.79	9.19	31.00
+GO:0007565	female pregnancy	43	1.00	0.70	9.63	32.81
+GO:0035264	multicellular organism growth	43	1.00	0.70	9.63	22.58
+GO:0045070	positive regulation of viral genome replication	30	0.89	0.82	9.47	85.31
+GO:0046632	alpha-beta T cell differentiation	30	0.71	0.71	9.05	90.59
+GO:0031145	anaphase-promoting complex-dependent catabolic process	28	1.00	0.92	9.63	350.56
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	27	1.00	0.92	9.63	350.56
+GO:0071549	cellular response to dexamethasone stimulus	21	1.00	0.90	9.63	704.27
+GO:0030488	tRNA methylation	18	0.74	0.80	9.31	684.86
+GO:0046348	amino sugar catabolic process	10	0.71	0.64	8.66	55.85
+GO:0031167	rRNA methylation	9	0.81	0.84	9.49	683.58
+GO:0018216	peptidyl-arginine methylation	9	0.75	0.77	9.31	365.54
+GO:0002098	tRNA wobble uridine modification	8	0.84	0.87	9.55	495.68
+GO:0033173	calcineurin-NFAT signaling cascade	7	1.00	0.90	9.63	57.93
+GO:0038084	vascular endothelial growth factor signaling pathway	7	0.78	0.76	9.12	31.00
+GO:0031571	mitotic G1 DNA damage checkpoint	7	1.00	0.93	9.63	856.02
+GO:0007274	neuromuscular synaptic transmission	6	0.93	0.84	9.52	25.74
+GO:0061614	pri-miRNA transcription by RNA polymerase II	6	1.00	0.93	9.63	587.64
+GO:0006388	tRNA splicing, via endonucleolytic cleavage and ligation	5	1.00	0.92	9.63	477.83
+GO:0030578	PML body organization	3	1.00	0.82	9.63	22.53
+GO:0002184	cytoplasmic translational termination	3	1.00	0.85	9.63	40.69
+GO:0000494	box C/D snoRNA 3'-end processing	1	1.00	0.93	9.63	1197.57
+GO:0021965	spinal cord ventral commissure morphogenesis	1	1.00	0.93	9.63	69.80
+GO:0097049	motor neuron apoptotic process	1	1.00	0.82	9.63	25.05
+GO:1990258	histone glutamine methylation	1	1.00	0.92	9.63	606.83

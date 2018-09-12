@@ -1,0 +1,117 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	3660	0.16	0.21	2.71	13.80
+GO:0031323	regulation of cellular metabolic process	2504	0.22	0.36	4.01	22.77
+GO:0006081	cellular aldehyde metabolic process	28	0.60	0.50	7.43	27.74
+GO:0044249	cellular biosynthetic process	1793	0.29	0.34	4.29	26.87
+GO:0006355	regulation of transcription, DNA-templated	1505	0.40	0.60	6.84	245.35
+GO:0051716	cellular response to stimulus	1172	0.35	0.30	4.36	13.53
+GO:0006357	regulation of transcription by RNA polymerase II	1040	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	980	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	899	0.43	0.51	5.91	23.17
+GO:0010628	positive regulation of gene expression	782	0.47	0.56	6.67	58.80
+GO:0031399	regulation of protein modification process	753	0.41	0.56	6.69	72.96
+GO:0065003	protein-containing complex assembly	704	0.45	0.48	6.06	36.47
+GO:0035556	intracellular signal transduction	687	0.51	0.55	6.92	23.17
+GO:0015031	protein transport	635	0.48	0.59	6.99	54.46
+GO:0045893	positive regulation of transcription, DNA-templated	619	0.52	0.67	8.14	1208.12
+GO:0045892	negative regulation of transcription, DNA-templated	504	0.56	0.69	8.52	1581.26
+GO:0009057	macromolecule catabolic process	485	0.48	0.49	6.53	35.57
+GO:0051726	regulation of cell cycle	484	0.41	0.45	5.89	12.04
+GO:0045944	positive regulation of transcription by RNA polymerase II	459	0.55	0.71	8.36	1463.86
+GO:0071033	nuclear retention of pre-mRNA at the site of transcription	4	0.89	0.74	9.38	26.93
+GO:0034613	cellular protein localization	451	0.45	0.48	6.33	26.83
+GO:0070647	protein modification by small protein conjugation or removal	450	0.61	0.66	8.44	151.15
+GO:0006468	protein phosphorylation	407	0.57	0.64	8.18	177.76
+GO:0006886	intracellular protein transport	402	0.55	0.65	8.12	90.55
+GO:0043069	negative regulation of programmed cell death	395	0.55	0.60	7.50	59.56
+GO:0018193	peptidyl-amino acid modification	359	0.39	0.54	6.24	151.15
+GO:0016575	histone deacetylation	32	0.79	0.79	9.40	357.61
+GO:0006396	RNA processing	373	0.49	0.60	7.48	115.08
+GO:0006259	DNA metabolic process	371	0.45	0.55	7.12	145.26
+GO:0000122	negative regulation of transcription by RNA polymerase II	362	0.61	0.74	8.79	1836.95
+GO:0045859	regulation of protein kinase activity	354	0.56	0.68	8.33	159.56
+GO:0008284	positive regulation of cell proliferation	351	0.56	0.57	7.27	43.45
+GO:2000145	regulation of cell motility	345	0.47	0.52	6.88	34.54
+GO:0006974	cellular response to DNA damage stimulus	340	0.57	0.53	7.47	29.00
+GO:0030162	regulation of proteolysis	333	0.51	0.58	7.47	43.98
+GO:1903047	mitotic cell cycle process	328	0.50	0.45	5.87	11.32
+GO:0010942	positive regulation of cell death	320	0.54	0.56	7.33	41.78
+GO:0008285	negative regulation of cell proliferation	295	0.56	0.57	7.31	43.61
+GO:0080135	regulation of cellular response to stress	286	0.46	0.52	6.64	26.18
+GO:0050767	regulation of neurogenesis	265	0.47	0.56	7.34	60.46
+GO:0034660	ncRNA metabolic process	251	0.46	0.58	7.25	115.08
+GO:0055086	nucleobase-containing small molecule metabolic process	230	0.38	0.48	6.63	107.58
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	8	1.00	0.82	9.63	80.91
+GO:0055086	nucleobase-containing small molecule metabolic process	230	0.38	0.48	6.63	107.58
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	8	1.00	0.82	9.63	80.91
+GO:0055086	nucleobase-containing small molecule metabolic process	230	0.38	0.48	6.63	107.58
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	8	1.00	0.82	9.63	80.91
+GO:0042176	regulation of protein catabolic process	178	0.59	0.62	8.21	56.79
+GO:0009895	negative regulation of catabolic process	130	0.54	0.56	7.14	38.28
+GO:0008610	lipid biosynthetic process	234	0.47	0.48	6.40	43.60
+GO:0044089	positive regulation of cellular component biogenesis	215	0.53	0.51	6.61	23.24
+GO:0032787	monocarboxylic acid metabolic process	209	0.40	0.53	6.17	45.97
+GO:0065004	protein-DNA complex assembly	105	0.65	0.65	8.33	63.42
+GO:0022618	ribonucleoprotein complex assembly	101	0.63	0.64	8.02	63.13
+GO:0071345	cellular response to cytokine stimulus	196	0.67	0.63	8.21	61.60
+GO:0006518	peptide metabolic process	178	0.56	0.57	7.65	56.97
+GO:0051276	chromosome organization	177	0.55	0.52	6.96	18.35
+GO:0098655	cation transmembrane transport	176	0.52	0.58	7.13	43.36
+GO:0043687	post-translational protein modification	167	0.65	0.67	8.51	151.15
+GO:0006417	regulation of translation	160	0.52	0.61	8.02	212.82
+GO:0043547	positive regulation of GTPase activity	160	0.93	0.79	9.52	49.34
+GO:1903829	positive regulation of cellular protein localization	153	0.60	0.62	7.80	40.87
+GO:0051251	positive regulation of lymphocyte activation	150	0.58	0.64	8.19	127.58
+GO:0007264	small GTPase mediated signal transduction	144	0.74	0.69	8.74	26.43
+GO:0002521	leukocyte differentiation	141	0.58	0.54	7.41	21.07
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	133	0.61	0.63	8.36	112.25
+GO:1901342	regulation of vasculature development	124	0.58	0.58	7.71	27.38
+GO:0019216	regulation of lipid metabolic process	122	0.45	0.52	6.42	13.04
+GO:0050804	modulation of chemical synaptic transmission	120	0.52	0.58	7.24	27.32
+GO:0001666	response to hypoxia	119	0.81	0.70	9.12	21.16
+GO:1903311	regulation of mRNA metabolic process	117	0.60	0.65	8.36	73.29
+GO:0006405	RNA export from nucleus	69	0.71	0.73	9.03	77.48
+GO:0051170	import into nucleus	59	0.74	0.72	8.94	33.90
+GO:0034976	response to endoplasmic reticulum stress	114	0.68	0.59	8.28	29.00
+GO:0006914	autophagy	113	0.67	0.59	8.40	37.75
+GO:0044419	interspecies interaction between organisms	109	0.32	0.29	4.18	6.20
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	104	0.69	0.74	9.07	111.97
+GO:0016042	lipid catabolic process	103	0.51	0.51	6.88	43.15
+GO:0006888	ER to Golgi vesicle-mediated transport	101	1.00	0.82	9.63	49.13
+GO:0006486	protein glycosylation	92	0.62	0.66	8.59	174.08
+GO:0040029	regulation of gene expression, epigenetic	82	0.63	0.64	7.86	16.68
+GO:0030308	negative regulation of cell growth	76	0.69	0.67	8.67	80.89
+GO:0070126	mitochondrial translational termination	63	1.00	0.85	9.63	40.69
+GO:0051262	protein tetramerization	60	0.89	0.77	9.41	42.03
+GO:0070125	mitochondrial translational elongation	60	1.00	0.85	9.63	106.95
+GO:0032092	positive regulation of protein binding	51	0.71	0.64	8.53	32.71
+GO:0016458	gene silencing	48	0.68	0.69	8.66	69.21
+GO:0006368	transcription elongation from RNA polymerase II promoter	41	1.00	0.90	9.63	477.15
+GO:0090263	positive regulation of canonical Wnt signaling pathway	38	0.83	0.79	9.42	236.53
+GO:0001649	osteoblast differentiation	36	1.00	0.75	9.63	21.07
+GO:0030518	intracellular steroid hormone receptor signaling pathway	36	0.78	0.74	9.05	52.40
+GO:0007569	cell aging	29	0.80	0.60	8.94	24.75
+GO:0071277	cellular response to calcium ion	29	1.00	0.82	9.63	78.50
+GO:0008361	regulation of cell size	27	0.78	0.68	9.00	28.02
+GO:0009060	aerobic respiration	24	0.77	0.71	8.87	31.55
+GO:0031623	receptor internalization	24	0.72	0.71	9.20	64.85
+GO:0006383	transcription by RNA polymerase III	23	0.84	0.84	9.50	583.88
+GO:0006361	transcription initiation from RNA polymerase I promoter	21	1.00	0.90	9.63	477.15
+GO:0006363	termination of RNA polymerase I transcription	20	1.00	0.90	9.63	477.15
+GO:0010501	RNA secondary structure unwinding	18	1.00	0.85	9.63	115.08
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	18	0.93	0.82	9.52	52.45
+GO:0035914	skeletal muscle cell differentiation	16	0.87	0.68	9.29	21.07
+GO:1904837	beta-catenin-TCF complex assembly	16	1.00	0.79	9.63	40.42
+GO:0033144	negative regulation of intracellular steroid hormone receptor signaling pathway	15	0.83	0.76	9.39	188.51
+GO:0060395	SMAD protein signal transduction	14	1.00	0.79	9.63	23.17
+GO:0006450	regulation of translational fidelity	11	0.84	0.62	8.78	8.64
+GO:0045745	positive regulation of G-protein coupled receptor protein signaling pathway	10	0.65	0.68	8.65	189.39
+GO:0046931	pore complex assembly	10	0.89	0.74	9.49	40.42
+GO:1904263	positive regulation of TORC1 signaling	9	1.00	0.90	9.63	286.95
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	7	1.00	0.79	9.63	22.95
+GO:1990253	cellular response to leucine starvation	6	1.00	0.88	9.63	117.00
+GO:0044539	long-chain fatty acid import	6	1.00	0.93	9.63	75.03
+GO:1901838	positive regulation of transcription of nucleolar large rRNA by RNA polymerase I	5	1.00	0.95	9.63	1713.72
+GO:0010944	negative regulation of transcription by competitive promoter binding	5	1.00	0.93	9.63	1584.30
+GO:0022417	protein maturation by protein folding	4	1.00	0.82	9.63	59.35
+GO:0006360	transcription by RNA polymerase I	3	0.93	0.88	9.59	583.88

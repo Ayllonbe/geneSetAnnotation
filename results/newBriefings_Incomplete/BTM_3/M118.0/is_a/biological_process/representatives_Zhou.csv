@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	920	0.00	0.00	0.00	0.00
+GO:0033030	negative regulation of neutrophil apoptotic process	1	1.00	0.90	9.63	301.33
+GO:0065007	biological regulation	732	0.08	0.04	0.98	3.37
+GO:0030260	entry into host cell	15	0.74	0.69	8.68	26.99
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
+GO:0050779	RNA destabilization	1	0.87	0.81	9.56	620.85
+GO:0010524	positive regulation of calcium ion transport into cytosol	11	0.81	0.85	9.49	446.86
+GO:0043207	response to external biotic stimulus	130	0.41	0.40	5.91	16.64
+GO:0009628	response to abiotic stimulus	61	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	237	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	213	0.39	0.32	4.70	6.14
+GO:0051641	cellular localization	99	0.37	0.31	4.44	5.67
+GO:0098662	inorganic cation transmembrane transport	42	0.58	0.64	7.91	76.35
+GO:0006810	transport	333	0.28	0.34	3.95	7.46
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	16	1.00	0.79	9.63	42.20

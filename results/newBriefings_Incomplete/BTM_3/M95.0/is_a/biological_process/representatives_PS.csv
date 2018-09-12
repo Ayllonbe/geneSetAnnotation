@@ -1,0 +1,82 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	783	0.25	0.32	3.46	10.22
+GO:0007166	cell surface receptor signaling pathway	566	0.43	0.51	5.91	23.17
+GO:0009967	positive regulation of signal transduction	327	0.44	0.54	6.71	140.23
+GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
+GO:0010629	negative regulation of gene expression	214	0.47	0.56	6.74	59.05
+GO:0006355	regulation of transcription, DNA-templated	434	0.40	0.60	6.84	245.35
+GO:0051240	positive regulation of multicellular organismal process	362	0.35	0.42	4.98	23.60
+GO:0042127	regulation of cell proliferation	351	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	348	0.34	0.49	5.84	147.03
+GO:1901700	response to oxygen-containing compound	316	0.39	0.39	5.14	9.28
+GO:0035556	intracellular signal transduction	301	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	299	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	284	0.50	0.62	7.64	109.03
+GO:0010920	negative regulation of inositol phosphate biosynthetic process	1	0.93	0.84	9.59	802.80
+GO:0019221	cytokine-mediated signaling pathway	235	0.60	0.63	7.60	26.50
+GO:0006952	defense response	232	0.56	0.48	6.67	9.54
+GO:0065003	protein-containing complex assembly	226	0.45	0.48	6.06	36.47
+GO:0045055	regulated exocytosis	224	0.69	0.69	8.57	38.47
+GO:0051130	positive regulation of cellular component organization	203	0.42	0.50	5.95	43.84
+GO:0043254	regulation of protein complex assembly	65	0.50	0.54	6.88	27.32
+GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0009725	response to hormone	151	0.53	0.51	7.03	21.86
+GO:0050867	positive regulation of cell activation	144	0.56	0.57	7.43	42.07
+GO:0071672	negative regulation of smooth muscle cell chemotaxis	1	1.00	0.90	9.63	373.37
+GO:0030335	positive regulation of cell migration	142	0.58	0.64	8.22	157.26
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	112	0.58	0.64	7.56	28.11
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:0071345	cellular response to cytokine stimulus	95	0.67	0.63	8.21	61.60
+GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
+GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
+GO:0030099	myeloid cell differentiation	55	0.69	0.60	8.15	21.07
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0042113	B cell activation	50	0.68	0.63	8.28	19.85
+GO:0030217	T cell differentiation	46	0.66	0.65	8.68	65.05
+GO:0030593	neutrophil chemotaxis	44	1.00	0.90	9.63	130.30
+GO:0008360	regulation of cell shape	41	0.68	0.66	8.69	41.78
+GO:0031668	cellular response to extracellular stimulus	41	0.55	0.52	7.38	45.16
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
+GO:0051384	response to glucocorticoid	36	0.77	0.73	9.22	62.74
+GO:0060337	type I interferon signaling pathway	32	1.00	0.85	9.63	30.19
+GO:2000379	positive regulation of reactive oxygen species metabolic process	32	0.78	0.71	9.25	112.72
+GO:0050853	B cell receptor signaling pathway	30	0.93	0.88	9.58	219.43
+GO:0090316	positive regulation of intracellular protein transport	26	0.71	0.73	9.11	289.79
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:1901216	positive regulation of neuron death	21	0.81	0.73	9.26	58.38
+GO:0002763	positive regulation of myeloid leukocyte differentiation	20	0.77	0.76	9.35	698.40
+GO:0002244	hematopoietic progenitor cell differentiation	20	0.81	0.66	8.94	21.07
+GO:0035987	endodermal cell differentiation	17	1.00	0.75	9.63	21.07
+GO:0043542	endothelial cell migration	16	0.80	0.75	9.14	24.97
+GO:0061515	myeloid cell development	15	0.81	0.66	9.02	32.15
+GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0051017	actin filament bundle assembly	12	0.79	0.72	9.14	39.79
+GO:0034142	toll-like receptor 4 signaling pathway	10	0.84	0.87	9.49	412.65
+GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
+GO:0002523	leukocyte migration involved in inflammatory response	9	0.93	0.79	9.51	29.14
+GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
+GO:0045123	cellular extravasation	8	0.77	0.71	9.00	29.14
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0016601	Rac protein signal transduction	7	1.00	0.88	9.63	29.61
+GO:0030041	actin filament polymerization	6	0.93	0.82	9.55	66.56
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0048864	stem cell development	5	0.84	0.67	9.34	32.15
+GO:0001915	negative regulation of T cell mediated cytotoxicity	5	0.89	0.84	9.56	365.56
+GO:0070493	thrombin-activated receptor signaling pathway	4	1.00	0.82	9.63	26.98
+GO:0006904	vesicle docking involved in exocytosis	3	0.89	0.77	9.43	32.65
+GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
+GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	2	1.00	0.85	9.63	83.84
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
+GO:0030845	phospholipase C-inhibiting G-protein coupled receptor signaling pathway	1	1.00	0.82	9.63	26.98
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0097178	ruffle assembly	1	1.00	0.82	9.63	77.52
+GO:0010925	positive regulation of inositol-polyphosphate 5-phosphatase activity	1	1.00	0.92	9.63	315.02
+GO:0071315	cellular response to morphine	1	1.00	0.88	9.63	528.97
+GO:0006933	negative regulation of cell adhesion involved in substrate-bound cell migration	1	1.00	0.82	9.63	40.06
+GO:0060305	regulation of cell diameter	1	1.00	0.82	9.63	29.63
+GO:0010668	ectodermal cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0070560	protein secretion by platelet	1	1.00	0.90	9.63	143.50

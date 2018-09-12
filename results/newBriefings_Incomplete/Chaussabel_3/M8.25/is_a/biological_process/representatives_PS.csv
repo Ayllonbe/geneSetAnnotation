@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4160	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	3204	0.09	0.17	1.80	4.47
+GO:0030099	myeloid cell differentiation	66	0.69	0.60	8.15	21.07
+GO:0006810	transport	1270	0.28	0.34	3.95	7.46
+GO:1990968	modulation by host of RNA binding by virus	1	1.00	0.88	9.63	40.45
+GO:0050896	response to stimulus	1289	0.25	0.12	2.65	3.37
+GO:0001701	in utero embryonic development	63	1.00	0.85	9.63	22.50
+GO:0001649	osteoblast differentiation	28	1.00	0.75	9.63	21.07
+GO:0001837	epithelial to mesenchymal transition	21	0.75	0.67	8.65	23.15
+GO:0071709	membrane assembly	12	0.79	0.64	8.94	37.31
+GO:0021533	cell differentiation in hindbrain	7	0.78	0.64	8.60	21.07
+GO:0061333	renal tubule morphogenesis	5	0.72	0.68	8.80	32.21
+GO:0030035	microspike assembly	3	1.00	0.82	9.63	58.57
+GO:0060272	embryonic skeletal joint morphogenesis	3	0.93	0.79	9.51	46.18
+GO:0072160	nephron tubule epithelial cell differentiation	2	0.87	0.76	9.31	49.62
+GO:0048712	negative regulation of astrocyte differentiation	2	0.93	0.88	9.59	472.93
+GO:0048570	notochord morphogenesis	1	1.00	0.79	9.63	31.26
+GO:0001839	neural plate morphogenesis	1	1.00	0.82	9.63	34.31
+GO:0060513	prostatic bud formation	1	1.00	0.85	9.63	123.46

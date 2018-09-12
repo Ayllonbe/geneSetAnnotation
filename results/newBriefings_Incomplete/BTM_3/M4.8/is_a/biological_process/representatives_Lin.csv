@@ -1,0 +1,90 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010628	positive regulation of gene expression	317	0.47	0.56	6.67	58.80
+GO:0042981	regulation of apoptotic process	310	0.45	0.55	6.60	16.23
+GO:0071705	nitrogen compound transport	216	0.36	0.43	4.99	10.99
+GO:0071702	organic substance transport	264	0.33	0.41	4.62	10.99
+GO:0010629	negative regulation of gene expression	225	0.47	0.56	6.74	59.05
+GO:0006351	transcription, DNA-templated	217	0.57	0.68	8.45	581.39
+GO:0051248	negative regulation of protein metabolic process	199	0.45	0.55	6.75	129.53
+GO:0045087	innate immune response	166	0.68	0.59	8.16	26.47
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0009725	response to hormone	156	0.53	0.51	7.03	21.86
+GO:0042493	response to drug	141	0.47	0.43	5.84	9.28
+GO:0000122	negative regulation of transcription by RNA polymerase II	125	0.61	0.74	8.79	1836.95
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0006281	DNA repair	76	0.63	0.66	8.78	180.34
+GO:0002218	activation of innate immune response	70	0.62	0.69	8.53	265.71
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0030855	epithelial cell differentiation	56	0.55	0.52	6.96	21.07
+GO:0071363	cellular response to growth factor stimulus	54	0.77	0.67	8.94	60.39
+GO:0071214	cellular response to abiotic stimulus	54	0.59	0.54	7.66	24.78
+GO:0048608	reproductive structure development	53	0.61	0.50	7.37	31.35
+GO:0051054	positive regulation of DNA metabolic process	52	0.59	0.65	8.41	301.51
+GO:0016567	protein ubiquitination	50	0.69	0.74	9.00	153.79
+GO:0006511	ubiquitin-dependent protein catabolic process	49	0.74	0.74	9.19	156.45
+GO:0000075	cell cycle checkpoint	34	0.66	0.65	8.65	51.68
+GO:0072431	signal transduction involved in mitotic G1 DNA damage checkpoint	15	0.93	0.88	9.60	717.66
+GO:0006260	DNA replication	42	0.73	0.72	9.27	254.20
+GO:0007265	Ras protein signal transduction	41	0.76	0.73	8.94	27.53
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0018105	peptidyl-serine phosphorylation	32	0.74	0.76	9.21	338.74
+GO:0043200	response to amino acid	31	0.64	0.61	8.41	56.71
+GO:0048639	positive regulation of developmental growth	30	0.64	0.61	8.27	76.49
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0048754	branching morphogenesis of an epithelial tube	28	0.74	0.69	8.88	51.71
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	26	0.61	0.63	8.36	112.25
+GO:0048146	positive regulation of fibroblast proliferation	25	0.89	0.77	9.43	63.75
+GO:0007051	spindle organization	24	0.69	0.67	8.69	44.52
+GO:0000723	telomere maintenance	24	0.73	0.72	9.29	183.02
+GO:0032481	positive regulation of type I interferon production	22	0.81	0.73	9.26	65.24
+GO:0048732	gland development	21	0.68	0.59	7.68	15.26
+GO:0006334	nucleosome assembly	19	0.87	0.78	9.47	104.52
+GO:0006270	DNA replication initiation	15	0.80	0.75	9.41	149.04
+GO:0030071	regulation of mitotic metaphase/anaphase transition	15	0.76	0.79	9.41	262.33
+GO:0019985	translesion synthesis	14	0.89	0.84	9.57	760.22
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0000281	mitotic cytokinesis	13	0.93	0.76	9.47	28.62
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	13	0.89	0.86	9.54	264.07
+GO:1904707	positive regulation of vascular smooth muscle cell proliferation	11	1.00	0.85	9.63	80.76
+GO:0000070	mitotic sister chromatid segregation	11	1.00	0.82	9.63	56.84
+GO:0006298	mismatch repair	11	0.83	0.79	9.50	183.05
+GO:0006297	nucleotide-excision repair, DNA gap filling	11	1.00	0.85	9.63	149.04
+GO:0071353	cellular response to interleukin-4	10	1.00	0.82	9.63	81.65
+GO:0045005	DNA-dependent DNA replication maintenance of fidelity	10	0.75	0.73	9.22	149.04
+GO:0033574	response to testosterone	9	0.93	0.76	9.53	91.04
+GO:0045739	positive regulation of DNA repair	8	0.77	0.76	9.36	499.62
+GO:0033077	T cell differentiation in thymus	8	0.87	0.78	9.42	66.99
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:0031060	regulation of histone methylation	7	0.64	0.72	9.03	102.10
+GO:2000773	negative regulation of cellular senescence	7	1.00	0.85	9.63	164.43
+GO:0090398	cellular senescence	7	0.87	0.68	9.45	55.14
+GO:0002638	negative regulation of immunoglobulin production	6	0.80	0.75	9.19	77.13
+GO:0033151	V(D)J recombination	5	0.84	0.84	9.49	161.93
+GO:0035234	ectopic germ cell programmed cell death	5	1.00	0.79	9.63	49.33
+GO:0045445	myoblast differentiation	5	0.89	0.70	9.29	21.07
+GO:0046939	nucleotide phosphorylation	5	0.67	0.71	8.91	199.75
+GO:0001756	somitogenesis	4	1.00	0.79	9.63	43.80
+GO:0060707	trophoblast giant cell differentiation	4	1.00	0.79	9.63	42.29
+GO:0006306	DNA methylation	4	0.74	0.77	9.25	389.47
+GO:0032077	positive regulation of deoxyribonuclease activity	3	0.89	0.82	9.56	813.64
+GO:0008089	anterograde axonal transport	3	0.83	0.81	9.41	71.10
+GO:0060718	chorionic trophoblast cell differentiation	3	1.00	0.75	9.63	21.07
+GO:0051256	mitotic spindle midzone assembly	3	1.00	0.79	9.63	55.95
+GO:0015949	nucleobase-containing small molecule interconversion	3	0.77	0.71	9.27	109.53
+GO:0046604	positive regulation of mitotic centrosome separation	2	1.00	0.92	9.63	603.27
+GO:0032466	negative regulation of cytokinesis	2	0.71	0.71	9.02	142.53
+GO:0009221	pyrimidine deoxyribonucleotide biosynthetic process	2	0.75	0.81	9.45	3235.66
+GO:0002328	pro-B cell differentiation	2	1.00	0.82	9.63	23.26
+GO:1904667	negative regulation of ubiquitin protein ligase activity	2	1.00	0.95	9.63	755.45
+GO:1905460	negative regulation of vascular associated smooth muscle cell apoptotic process	2	1.00	0.92	9.63	149.61
+GO:0010216	maintenance of DNA methylation	2	1.00	0.85	9.63	149.04
+GO:0043137	DNA replication, removal of RNA primer	2	0.93	0.84	9.59	683.73
+GO:0006272	leading strand elongation	2	0.93	0.86	9.58	265.92
+GO:0097681	double-strand break repair via alternative nonhomologous end joining	1	1.00	0.92	9.63	369.50
+GO:1905931	negative regulation of vascular smooth muscle cell differentiation involved in phenotypic switching	1	1.00	0.90	9.63	572.87
+GO:1905775	negative regulation of DNA helicase activity	1	0.93	0.86	9.59	205.11
+GO:0090309	positive regulation of methylation-dependent chromatin silencing	1	1.00	0.95	9.63	1109.13
+GO:0046940	nucleoside monophosphate phosphorylation	1	0.84	0.82	9.51	900.13
+GO:2001229	negative regulation of response to gamma radiation	1	0.93	0.76	9.49	40.32
+GO:1904976	cellular response to bleomycin	1	1.00	0.85	9.63	332.11

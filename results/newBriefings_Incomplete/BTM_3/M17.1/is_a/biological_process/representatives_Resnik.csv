@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	705	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	267	0.33	0.45	5.35	37.59
+GO:0010556	regulation of macromolecule biosynthetic process	239	0.33	0.46	5.12	27.30
+GO:0050793	regulation of developmental process	218	0.26	0.33	3.95	7.96
+GO:0070887	cellular response to chemical stimulus	177	0.40	0.40	5.31	25.21
+GO:0042127	regulation of cell proliferation	166	0.45	0.48	6.03	12.04
+GO:0044267	cellular protein metabolic process	145	0.34	0.46	5.57	80.87
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0030154	cell differentiation	144	0.39	0.39	5.18	16.68
+GO:0043312	neutrophil degranulation	115	1.00	0.90	9.63	132.80
+GO:0006351	transcription, DNA-templated	81	0.57	0.68	8.45	581.39
+GO:0030335	positive regulation of cell migration	77	0.58	0.64	8.22	157.26
+GO:0043065	positive regulation of apoptotic process	57	0.56	0.63	7.81	80.91
+GO:0048513	animal organ development	47	0.50	0.45	5.88	11.73
+GO:0048729	tissue morphogenesis	18	0.49	0.44	5.81	10.94
+GO:0048598	embryonic morphogenesis	24	0.54	0.47	6.15	10.94
+GO:0010817	regulation of hormone levels	26	0.41	0.40	5.23	8.64
+GO:0051781	positive regulation of cell division	14	0.68	0.63	8.44	42.29
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0006144	purine nucleobase metabolic process	4	0.70	0.70	9.17	248.66
+GO:0048008	platelet-derived growth factor receptor signaling pathway	4	0.78	0.76	9.19	31.00
+GO:0043457	regulation of cellular respiration	1	0.66	0.65	8.32	28.73

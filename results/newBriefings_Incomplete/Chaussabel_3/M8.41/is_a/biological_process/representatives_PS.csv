@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2197	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	1670	0.25	0.32	3.46	10.22
+GO:0006644	phospholipid metabolic process	93	0.53	0.56	7.60	99.63
+GO:0043170	macromolecule metabolic process	1670	0.25	0.32	3.46	10.22
+GO:0006644	phospholipid metabolic process	93	0.53	0.56	7.60	99.63
+GO:0060255	regulation of macromolecule metabolic process	1380	0.26	0.38	4.09	10.74
+GO:0016043	cellular component organization	1031	0.28	0.26	3.74	11.45
+GO:0050793	regulation of developmental process	525	0.26	0.33	3.95	7.96
+GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
+GO:0050793	regulation of developmental process	525	0.26	0.33	3.95	7.96
+GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
+GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
+GO:0051239	regulation of multicellular organismal process	579	0.23	0.32	3.68	7.96
+GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
+GO:0051239	regulation of multicellular organismal process	579	0.23	0.32	3.68	7.96
+GO:0008104	protein localization	455	0.40	0.40	5.07	7.46
+GO:0010033	response to organic substance	448	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	416	0.52	0.51	6.57	10.99
+GO:0051726	regulation of cell cycle	278	0.41	0.45	5.89	12.04
+GO:0006811	ion transport	225	0.38	0.44	5.19	10.99
+GO:0034765	regulation of ion transmembrane transport	87	0.46	0.55	6.68	33.04
+GO:0051656	establishment of organelle localization	84	0.54	0.52	6.99	18.16
+GO:0001701	in utero embryonic development	44	1.00	0.85	9.63	22.50
+GO:0007268	chemical synaptic transmission	37	0.74	0.72	8.66	23.17
+GO:0016236	macroautophagy	31	0.77	0.67	8.94	39.83
+GO:0050880	regulation of blood vessel size	29	0.63	0.61	8.30	24.53
+GO:0070098	chemokine-mediated signaling pathway	24	0.73	0.72	9.00	30.19
+GO:0007219	Notch signaling pathway	22	0.78	0.71	8.87	26.50
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	18	0.83	0.79	9.19	31.00
+GO:0048017	inositol lipid-mediated signaling	15	0.89	0.77	9.49	26.43
+GO:0001657	ureteric bud development	10	1.00	0.88	9.63	36.92
+GO:0001756	somitogenesis	9	1.00	0.79	9.63	43.80
+GO:0014032	neural crest cell development	9	0.89	0.74	9.51	65.00
+GO:0001541	ovarian follicle development	8	1.00	0.75	9.63	34.61
+GO:0008354	germ cell migration	4	0.93	0.76	9.51	40.54
+GO:0035050	embryonic heart tube development	3	1.00	0.79	9.63	33.01
+GO:0038084	vascular endothelial growth factor signaling pathway	3	0.78	0.76	9.12	31.00
+GO:1904798	positive regulation of core promoter binding	2	1.00	0.85	9.63	62.60
+GO:0072010	glomerular epithelium development	1	0.84	0.77	9.38	21.87

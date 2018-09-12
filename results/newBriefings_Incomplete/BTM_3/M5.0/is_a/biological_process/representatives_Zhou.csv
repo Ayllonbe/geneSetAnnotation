@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051179	localization	447	0.26	0.13	2.57	3.37
+GO:0008152	metabolic process	588	0.15	0.07	1.52	3.37
+GO:0032502	developmental process	307	0.22	0.11	1.89	3.37
+GO:0002376	immune system process	389	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1097	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	486	0.25	0.12	2.65	3.37
+GO:0043923	positive regulation by host of viral transcription	1	1.00	0.93	9.63	272.30
+GO:0065007	biological regulation	948	0.08	0.04	0.98	3.37
+GO:0043922	negative regulation by host of viral transcription	3	1.00	0.93	9.63	272.38
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0051701	interaction with host	22	0.38	0.39	5.05	8.50
+GO:0032501	multicellular organismal process	118	0.33	0.16	3.12	3.37

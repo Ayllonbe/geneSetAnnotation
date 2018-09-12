@@ -1,0 +1,88 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009966	regulation of signal transduction	423	0.33	0.45	5.35	37.59
+GO:0019538	protein metabolic process	338	0.31	0.41	4.91	44.77
+GO:1903510	mucopolysaccharide metabolic process	13	0.72	0.68	8.78	53.64
+GO:0006950	response to stress	329	0.39	0.32	4.70	6.14
+GO:0006355	regulation of transcription, DNA-templated	309	0.40	0.60	6.84	245.35
+GO:0010033	response to organic substance	332	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	246	0.39	0.39	5.14	9.28
+GO:0050776	regulation of immune response	243	0.38	0.44	5.64	22.45
+GO:0071310	cellular response to organic substance	237	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	221	0.39	0.39	5.18	16.68
+GO:0001932	regulation of protein phosphorylation	221	0.50	0.62	7.64	109.03
+GO:1901676	positive regulation of histone H3-K27 acetylation	1	1.00	0.95	9.63	1488.21
+GO:0001932	regulation of protein phosphorylation	221	0.50	0.62	7.64	109.03
+GO:1901676	positive regulation of histone H3-K27 acetylation	1	1.00	0.95	9.63	1488.21
+GO:0010557	positive regulation of macromolecule biosynthetic process	219	0.45	0.55	6.62	113.59
+GO:0008284	positive regulation of cell proliferation	189	0.56	0.57	7.27	43.45
+GO:0010648	negative regulation of cell communication	170	0.41	0.50	5.87	43.44
+GO:0019221	cytokine-mediated signaling pathway	168	0.60	0.63	7.60	26.50
+GO:0030334	regulation of cell migration	160	0.48	0.56	7.11	36.74
+GO:1901701	cellular response to oxygen-containing compound	160	0.47	0.48	6.19	42.34
+GO:0022603	regulation of anatomical structure morphogenesis	154	0.36	0.43	5.15	11.29
+GO:0051130	positive regulation of cellular component organization	152	0.42	0.50	5.95	43.84
+GO:0009890	negative regulation of biosynthetic process	152	0.41	0.49	5.73	39.03
+GO:0043312	neutrophil degranulation	150	1.00	0.90	9.63	132.80
+GO:1904037	positive regulation of epithelial cell apoptotic process	11	0.79	0.77	9.15	105.43
+GO:0043066	negative regulation of apoptotic process	144	0.56	0.63	7.79	81.07
+GO:1904037	positive regulation of epithelial cell apoptotic process	11	0.79	0.77	9.15	105.43
+GO:0043066	negative regulation of apoptotic process	144	0.56	0.63	7.79	81.07
+GO:0050900	leukocyte migration	129	0.60	0.59	8.02	26.94
+GO:0051707	response to other organism	125	0.42	0.46	6.41	24.63
+GO:0008285	negative regulation of cell proliferation	116	0.56	0.57	7.31	43.61
+GO:0001819	positive regulation of cytokine production	101	0.51	0.54	6.97	44.26
+GO:0051251	positive regulation of lymphocyte activation	98	0.58	0.64	8.19	127.58
+GO:0032103	positive regulation of response to external stimulus	79	0.53	0.55	7.02	42.20
+GO:0043547	positive regulation of GTPase activity	59	0.93	0.79	9.52	49.34
+GO:0000165	MAPK cascade	45	0.74	0.77	9.24	231.45
+GO:0010948	negative regulation of cell cycle process	44	0.53	0.59	7.47	61.75
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	42	0.70	0.67	8.58	26.98
+GO:0070098	chemokine-mediated signaling pathway	40	0.73	0.72	9.00	30.19
+GO:0030593	neutrophil chemotaxis	40	1.00	0.90	9.63	130.30
+GO:0030198	extracellular matrix organization	29	0.68	0.59	8.24	16.90
+GO:0030278	regulation of ossification	28	0.74	0.62	8.94	11.79
+GO:0051099	positive regulation of binding	27	0.61	0.55	7.48	18.40
+GO:0051384	response to glucocorticoid	27	0.77	0.73	9.22	62.74
+GO:0002548	monocyte chemotaxis	22	1.00	0.85	9.63	125.46
+GO:0048247	lymphocyte chemotaxis	21	0.77	0.73	9.30	94.38
+GO:1900182	positive regulation of protein localization to nucleus	19	0.84	0.77	9.37	74.62
+GO:0007266	Rho protein signal transduction	17	0.93	0.84	9.52	29.61
+GO:0031663	lipopolysaccharide-mediated signaling pathway	16	1.00	0.82	9.63	26.50
+GO:0007179	transforming growth factor beta receptor signaling pathway	16	0.76	0.75	9.05	29.90
+GO:0010822	positive regulation of mitochondrion organization	13	0.72	0.71	8.98	91.47
+GO:0043491	protein kinase B signaling	11	1.00	0.82	9.63	26.43
+GO:0048013	ephrin receptor signaling pathway	11	1.00	0.88	9.63	31.00
+GO:0045599	negative regulation of fat cell differentiation	10	0.93	0.79	9.54	114.62
+GO:0048666	neuron development	10	0.67	0.58	8.09	32.15
+GO:0030195	negative regulation of blood coagulation	10	0.78	0.76	9.39	250.95
+GO:0007565	female pregnancy	9	1.00	0.70	9.63	32.81
+GO:0048245	eosinophil chemotaxis	9	1.00	0.90	9.63	130.30
+GO:0071276	cellular response to cadmium ion	7	1.00	0.82	9.63	78.50
+GO:0048246	macrophage chemotaxis	7	1.00	0.88	9.63	95.92
+GO:0007259	JAK-STAT cascade	7	0.93	0.82	9.51	26.43
+GO:2001258	negative regulation of cation channel activity	6	0.71	0.75	9.10	527.32
+GO:0030225	macrophage differentiation	6	0.93	0.79	9.51	47.07
+GO:0010888	negative regulation of lipid storage	6	0.89	0.77	9.43	46.28
+GO:0046697	decidualization	6	1.00	0.75	9.63	34.68
+GO:0001890	placenta development	5	1.00	0.75	9.63	49.87
+GO:0045779	negative regulation of bone resorption	5	1.00	0.85	9.63	83.01
+GO:0016239	positive regulation of macroautophagy	5	0.77	0.76	9.24	266.07
+GO:2000696	regulation of epithelial cell differentiation involved in kidney development	5	0.72	0.68	9.04	87.19
+GO:0090280	positive regulation of calcium ion import	4	0.87	0.83	9.42	92.69
+GO:0070208	protein heterotrimerization	4	1.00	0.85	9.63	85.45
+GO:0048711	positive regulation of astrocyte differentiation	3	0.93	0.88	9.59	472.10
+GO:0014909	smooth muscle cell migration	3	0.89	0.77	9.38	22.01
+GO:0031639	plasminogen activation	3	0.93	0.84	9.55	103.97
+GO:2000502	negative regulation of natural killer cell chemotaxis	2	1.00	0.93	9.63	1002.76
+GO:0043615	astrocyte cell migration	2	0.89	0.77	9.38	22.24
+GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0060707	trophoblast giant cell differentiation	2	1.00	0.79	9.63	42.29
+GO:0045651	positive regulation of macrophage differentiation	2	0.93	0.86	9.59	840.78
+GO:0051901	positive regulation of mitochondrial depolarization	1	1.00	0.88	9.63	107.43
+GO:0048861	leukemia inhibitory factor signaling pathway	1	0.93	0.82	9.51	28.11
+GO:0070091	glucagon secretion	1	1.00	0.90	9.63	103.34
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
+GO:0060708	spongiotrophoblast differentiation	1	1.00	0.79	9.63	42.29
+GO:0051024	positive regulation of immunoglobulin secretion	1	1.00	0.90	9.63	579.46
+GO:0007260	tyrosine phosphorylation of STAT protein	1	1.00	0.92	9.63	339.94
+GO:0035684	helper T cell extravasation	1	0.89	0.84	9.47	63.47

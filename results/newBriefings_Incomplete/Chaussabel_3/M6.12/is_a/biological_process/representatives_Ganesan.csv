@@ -1,0 +1,90 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	561	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	517	0.16	0.21	2.71	13.80
+GO:0060255	regulation of macromolecule metabolic process	363	0.26	0.38	4.09	10.74
+GO:0090304	nucleic acid metabolic process	253	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	221	0.40	0.60	6.84	245.35
+GO:0010605	negative regulation of macromolecule metabolic process	162	0.37	0.48	5.54	39.19
+GO:0006351	transcription, DNA-templated	154	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	146	0.33	0.45	5.35	37.59
+GO:0006996	organelle organization	135	0.39	0.39	5.17	14.95
+GO:0033554	cellular response to stress	110	0.44	0.42	6.05	25.47
+GO:0010033	response to organic substance	98	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	87	0.40	0.40	5.31	25.21
+GO:0042981	regulation of apoptotic process	85	0.45	0.55	6.60	16.23
+GO:0030154	cell differentiation	73	0.39	0.39	5.18	16.68
+GO:0006886	intracellular protein transport	65	0.55	0.65	8.12	90.55
+GO:0006259	DNA metabolic process	60	0.45	0.55	7.12	145.26
+GO:0034613	cellular protein localization	52	0.45	0.48	6.33	26.83
+GO:0006952	defense response	51	0.56	0.48	6.67	9.54
+GO:0006511	ubiquitin-dependent protein catabolic process	48	0.74	0.74	9.19	156.45
+GO:0045055	regulated exocytosis	43	0.69	0.69	8.57	38.47
+GO:0008285	negative regulation of cell proliferation	42	0.56	0.57	7.31	43.61
+GO:0006397	mRNA processing	39	0.71	0.73	9.17	234.35
+GO:0001817	regulation of cytokine production	34	0.40	0.45	5.78	11.79
+GO:0006790	sulfur compound metabolic process	18	0.44	0.42	5.69	17.52
+GO:0051186	cofactor metabolic process	32	0.41	0.40	5.49	17.52
+GO:0008380	RNA splicing	31	0.72	0.74	9.18	117.48
+GO:0044057	regulation of system process	29	0.41	0.46	5.70	11.79
+GO:0051276	chromosome organization	28	0.55	0.52	6.96	18.35
+GO:0030335	positive regulation of cell migration	27	0.58	0.64	8.22	157.26
+GO:0000398	mRNA splicing, via spliceosome	23	0.83	0.85	9.49	356.67
+GO:0051260	protein homooligomerization	21	0.89	0.77	9.41	42.03
+GO:0043604	amide biosynthetic process	19	0.57	0.57	7.64	96.90
+GO:0006406	mRNA export from nucleus	17	0.89	0.84	9.52	121.36
+GO:0006367	transcription initiation from RNA polymerase II promoter	16	1.00	0.90	9.63	477.15
+GO:0034976	response to endoplasmic reticulum stress	15	0.68	0.59	8.28	29.00
+GO:0009260	ribonucleotide biosynthetic process	14	0.59	0.69	8.78	1153.89
+GO:0007565	female pregnancy	13	1.00	0.70	9.63	32.81
+GO:0046942	carboxylic acid transport	13	0.45	0.58	6.78	47.71
+GO:0009267	cellular response to starvation	13	0.64	0.64	8.46	112.77
+GO:1901605	alpha-amino acid metabolic process	12	0.44	0.57	6.86	80.64
+GO:0008654	phospholipid biosynthetic process	10	0.61	0.63	8.32	240.37
+GO:0001649	osteoblast differentiation	10	1.00	0.75	9.63	21.07
+GO:0019722	calcium-mediated signaling	10	0.72	0.71	8.71	27.81
+GO:0007268	chemical synaptic transmission	10	0.74	0.72	8.66	23.17
+GO:0032981	mitochondrial respiratory chain complex I assembly	8	1.00	0.85	9.63	91.11
+GO:1900182	positive regulation of protein localization to nucleus	7	0.84	0.77	9.37	74.62
+GO:0048525	negative regulation of viral process	7	0.71	0.68	8.66	43.32
+GO:0031100	animal organ regeneration	7	0.89	0.70	9.29	28.09
+GO:0006368	transcription elongation from RNA polymerase II promoter	6	1.00	0.90	9.63	477.15
+GO:0007080	mitotic metaphase plate congression	6	1.00	0.85	9.63	61.63
+GO:0042692	muscle cell differentiation	6	0.69	0.59	8.24	21.07
+GO:0006399	tRNA metabolic process	6	0.54	0.64	7.95	117.72
+GO:0006336	DNA replication-independent nucleosome assembly	6	0.93	0.84	9.56	163.42
+GO:0070125	mitochondrial translational elongation	6	1.00	0.85	9.63	106.95
+GO:0070126	mitochondrial translational termination	6	1.00	0.85	9.63	40.69
+GO:0046651	lymphocyte proliferation	5	0.69	0.63	8.73	28.26
+GO:0006814	sodium ion transport	5	0.81	0.76	9.31	34.17
+GO:0001570	vasculogenesis	4	0.89	0.70	9.29	21.07
+GO:0006363	termination of RNA polymerase I transcription	4	1.00	0.90	9.63	477.15
+GO:0006364	rRNA processing	4	0.63	0.71	8.68	356.39
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	4	1.00	0.95	9.63	336.65
+GO:0007595	lactation	4	1.00	0.82	9.63	25.96
+GO:0000027	ribosomal large subunit assembly	3	0.93	0.82	9.53	66.60
+GO:0006309	apoptotic DNA fragmentation	3	1.00	0.90	9.63	682.12
+GO:0001967	suckling behavior	3	1.00	0.70	9.63	23.34
+GO:0046716	muscle cell cellular homeostasis	3	1.00	0.79	9.63	31.95
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	3	0.89	0.70	9.29	27.92
+GO:0006607	NLS-bearing protein import into nucleus	3	1.00	0.92	9.63	278.23
+GO:0006610	ribosomal protein import into nucleus	3	1.00	0.92	9.63	278.23
+GO:0006958	complement activation, classical pathway	3	1.00	0.88	9.63	171.03
+GO:0018230	peptidyl-L-cysteine S-palmitoylation	2	1.00	0.92	9.63	467.20
+GO:0002063	chondrocyte development	2	0.89	0.70	9.47	32.15
+GO:0006335	DNA replication-dependent nucleosome assembly	2	1.00	0.88	9.63	163.42
+GO:0014065	phosphatidylinositol 3-kinase signaling	2	1.00	0.88	9.63	26.43
+GO:0006626	protein targeting to mitochondrion	2	1.00	0.92	9.63	196.81
+GO:0051085	chaperone cofactor-dependent protein refolding	2	1.00	0.79	9.63	21.14
+GO:0007597	blood coagulation, intrinsic pathway	2	1.00	0.82	9.63	55.79
+GO:0006294	nucleotide-excision repair, preincision complex assembly	2	1.00	0.85	9.63	65.90
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07
+GO:0000478	endonucleolytic cleavage involved in rRNA processing	1	0.70	0.75	9.02	464.47
+GO:0015878	biotin transport	1	0.93	0.86	9.57	129.90
+GO:0000707	meiotic DNA recombinase assembly	1	0.83	0.79	9.41	133.96
+GO:0000470	maturation of LSU-rRNA	1	0.84	0.84	9.45	358.78
+GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	1	1.00	0.90	9.63	824.89
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1	1.00	0.93	9.63	360.17
+GO:0051414	response to cortisol	1	0.93	0.84	9.56	108.88
+GO:0048009	insulin-like growth factor receptor signaling pathway	1	1.00	0.88	9.63	31.00
+GO:0007141	male meiosis I	1	1.00	0.88	9.63	140.07
+GO:0042256	mature ribosome assembly	1	1.00	0.88	9.63	108.00

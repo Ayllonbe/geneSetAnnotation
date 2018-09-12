@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6507	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4644	0.08	0.04	0.98	3.37
+GO:0031295	T cell costimulation	35	0.93	0.86	9.59	354.90
+GO:0043086	negative regulation of catalytic activity	340	0.49	0.49	6.28	18.42
+GO:0010469	regulation of signaling receptor activity	166	0.59	0.62	7.95	48.62
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	67	1.00	0.79	9.63	42.20
+GO:0006406	mRNA export from nucleus	57	0.89	0.84	9.52	121.36
+GO:0006810	transport	1784	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	486	0.45	0.48	6.33	26.83

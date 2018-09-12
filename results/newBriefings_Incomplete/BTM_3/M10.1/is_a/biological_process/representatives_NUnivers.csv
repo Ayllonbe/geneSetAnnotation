@@ -1,0 +1,66 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044772	mitotic cell cycle phase transition	12	0.84	0.67	9.04	28.43
+GO:0006996	organelle organization	10	0.39	0.39	5.17	14.95
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	2	0.61	0.63	8.36	112.25
+GO:0006272	leading strand elongation	1	0.93	0.86	9.58	265.92
+GO:0006259	DNA metabolic process	10	0.45	0.55	7.12	145.26
+GO:0048522	positive regulation of cellular process	9	0.24	0.37	3.90	23.85
+GO:0032774	RNA biosynthetic process	3	0.53	0.62	8.04	473.34
+GO:0034645	cellular macromolecule biosynthetic process	8	0.47	0.53	6.91	102.76
+GO:0051716	cellular response to stimulus	7	0.35	0.30	4.36	13.53
+GO:0045786	negative regulation of cell cycle	7	0.51	0.54	7.10	42.35
+GO:0006464	cellular protein modification process	6	0.34	0.49	5.84	147.03
+GO:0007165	signal transduction	5	0.36	0.43	5.06	19.43
+GO:0007088	regulation of mitotic nuclear division	5	0.59	0.64	8.17	54.97
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	4	0.89	0.86	9.54	264.07
+GO:0065003	protein-containing complex assembly	4	0.45	0.48	6.06	36.47
+GO:0000226	microtubule cytoskeleton organization	4	0.58	0.58	7.66	30.31
+GO:0051054	positive regulation of DNA metabolic process	3	0.59	0.65	8.41	301.51
+GO:0030154	cell differentiation	3	0.39	0.39	5.18	16.68
+GO:0015031	protein transport	3	0.48	0.59	6.99	54.46
+GO:0032467	positive regulation of cytokinesis	2	0.70	0.70	9.02	142.06
+GO:0071478	cellular response to radiation	2	0.67	0.63	8.53	36.92
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	2	1.00	0.93	9.63	888.12
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	2	0.79	0.83	9.47	340.69
+GO:0006511	ubiquitin-dependent protein catabolic process	2	0.74	0.74	9.19	156.45
+GO:0006405	RNA export from nucleus	2	0.71	0.73	9.03	77.48
+GO:0000281	mitotic cytokinesis	2	0.93	0.76	9.47	28.62
+GO:0008285	negative regulation of cell proliferation	2	0.56	0.57	7.31	43.61
+GO:0065004	protein-DNA complex assembly	2	0.65	0.65	8.33	63.42
+GO:0048812	neuron projection morphogenesis	2	0.65	0.68	8.50	63.00
+GO:0048608	reproductive structure development	2	0.61	0.50	7.37	31.35
+GO:0010569	regulation of double-strand break repair via homologous recombination	1	0.84	0.82	9.52	184.48
+GO:0033148	positive regulation of intracellular estrogen receptor signaling pathway	1	1.00	0.88	9.63	233.77
+GO:0046604	positive regulation of mitotic centrosome separation	1	1.00	0.92	9.63	603.27
+GO:1905098	negative regulation of guanyl-nucleotide exchange factor activity	1	0.93	0.79	9.56	99.11
+GO:0033314	mitotic DNA replication checkpoint	1	1.00	0.93	9.63	738.10
+GO:0070301	cellular response to hydrogen peroxide	1	1.00	0.82	9.63	361.03
+GO:0097421	liver regeneration	1	1.00	0.82	9.63	47.22
+GO:0061436	establishment of skin barrier	1	1.00	0.88	9.63	44.87
+GO:0009615	response to virus	1	0.74	0.66	8.80	27.27
+GO:0032355	response to estradiol	1	0.93	0.76	9.52	74.25
+GO:1902916	positive regulation of protein polyubiquitination	1	0.84	0.85	9.52	611.64
+GO:0008156	negative regulation of DNA replication	1	0.71	0.73	9.22	828.34
+GO:1904667	negative regulation of ubiquitin protein ligase activity	1	1.00	0.95	9.63	755.45
+GO:0045737	positive regulation of cyclin-dependent protein serine/threonine kinase activity	1	0.89	0.89	9.59	2922.08
+GO:0033574	response to testosterone	1	0.93	0.76	9.53	91.04
+GO:0043547	positive regulation of GTPase activity	1	0.93	0.79	9.52	49.34
+GO:0007057	spindle assembly involved in female meiosis I	1	1.00	0.92	9.63	179.90
+GO:0030071	regulation of mitotic metaphase/anaphase transition	1	0.76	0.79	9.41	262.33
+GO:0072757	cellular response to camptothecin	1	1.00	0.85	9.63	502.89
+GO:0071548	response to dexamethasone	1	0.93	0.84	9.57	124.89
+GO:0010923	negative regulation of phosphatase activity	1	0.79	0.79	9.36	265.75
+GO:0045835	negative regulation of meiotic nuclear division	1	0.72	0.74	9.27	325.60
+GO:0007089	traversing start control point of mitotic cell cycle	1	1.00	0.92	9.63	354.41
+GO:0006398	mRNA 3'-end processing by stem-loop binding and cleavage	1	1.00	0.92	9.63	473.83
+GO:1902065	response to L-glutamate	1	0.93	0.79	9.56	96.09
+GO:0045944	positive regulation of transcription by RNA polymerase II	1	0.55	0.71	8.36	1463.86
+GO:0071375	cellular response to peptide hormone stimulus	1	0.74	0.72	9.12	386.03
+GO:0009968	negative regulation of signal transduction	1	0.44	0.54	6.68	140.65
+GO:0006606	protein import into nucleus	1	0.89	0.84	9.55	277.54
+GO:0001556	oocyte maturation	1	1.00	0.75	9.63	79.09
+GO:0051497	negative regulation of stress fiber assembly	1	1.00	0.93	9.63	338.84
+GO:0031115	negative regulation of microtubule polymerization	1	0.93	0.88	9.59	405.45
+GO:0051402	neuron apoptotic process	1	0.83	0.70	9.02	23.44
+GO:0045892	negative regulation of transcription, DNA-templated	1	0.56	0.69	8.52	1581.26
+GO:0008064	regulation of actin polymerization or depolymerization	1	0.67	0.73	9.05	119.89

@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009966	regulation of signal transduction	603	0.33	0.45	5.35	37.59
+GO:0051239	regulation of multicellular organismal process	596	0.23	0.32	3.68	7.96
+GO:0050776	regulation of immune response	356	0.38	0.44	5.64	22.45
+GO:0051249	regulation of lymphocyte activation	171	0.48	0.56	7.10	27.11
+GO:0035556	intracellular signal transduction	330	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	316	0.45	0.55	6.60	16.23
+GO:0032270	positive regulation of cellular protein metabolic process	306	0.47	0.59	7.41	288.49
+GO:0010629	negative regulation of gene expression	237	0.47	0.56	6.74	59.05
+GO:0045944	positive regulation of transcription by RNA polymerase II	211	0.55	0.71	8.36	1463.86
+GO:0045087	innate immune response	171	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0044255	cellular lipid metabolic process	146	0.38	0.44	5.89	38.02
+GO:0002237	response to molecule of bacterial origin	128	0.69	0.59	8.74	31.75
+GO:0006875	cellular metal ion homeostasis	126	0.59	0.67	8.36	105.84
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	115	0.58	0.64	7.56	28.11
+GO:0051051	negative regulation of transport	98	0.42	0.50	5.86	25.98
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0061024	membrane organization	63	0.47	0.43	6.06	14.95
+GO:0030217	T cell differentiation	50	0.66	0.65	8.68	65.05
+GO:0006790	sulfur compound metabolic process	48	0.44	0.42	5.69	17.52
+GO:0001959	regulation of cytokine-mediated signaling pathway	43	0.61	0.63	8.11	55.11
+GO:0016055	Wnt signaling pathway	42	0.59	0.65	7.65	28.58
+GO:0006470	protein dephosphorylation	25	0.76	0.73	9.22	177.17
+GO:0045840	positive regulation of mitotic nuclear division	23	0.71	0.73	9.14	276.06
+GO:0038083	peptidyl-tyrosine autophosphorylation	20	1.00	0.92	9.63	522.64
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0019319	hexose biosynthetic process	5	0.75	0.70	9.15	135.77
+GO:0072311	glomerular epithelial cell differentiation	2	0.79	0.72	9.22	49.62
+GO:0001920	negative regulation of receptor recycling	1	1.00	0.82	9.63	203.34
+GO:0000390	spliceosomal complex disassembly	1	1.00	0.82	9.63	58.05

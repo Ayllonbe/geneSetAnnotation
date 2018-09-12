@@ -1,0 +1,67 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	3231	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	1614	0.24	0.37	3.90	23.93
+GO:0007165	signal transduction	1352	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	1138	0.34	0.49	5.84	147.03
+GO:0010646	regulation of cell communication	1128	0.30	0.40	4.51	12.04
+GO:0051716	cellular response to stimulus	1022	0.35	0.30	4.36	13.53
+GO:0051246	regulation of protein metabolic process	1000	0.34	0.46	5.46	41.09
+GO:0006357	regulation of transcription by RNA polymerase II	916	0.44	0.63	7.11	248.57
+GO:0016569	covalent chromatin modification	138	0.54	0.56	7.38	32.64
+GO:0006996	organelle organization	795	0.39	0.39	5.17	14.95
+GO:0006351	transcription, DNA-templated	868	0.57	0.68	8.45	581.39
+GO:0048869	cellular developmental process	722	0.32	0.29	4.16	13.85
+GO:0010628	positive regulation of gene expression	677	0.47	0.56	6.67	58.80
+GO:0046907	intracellular transport	617	0.46	0.48	6.38	29.65
+GO:0015031	protein transport	538	0.48	0.59	6.99	54.46
+GO:0071310	cellular response to organic substance	468	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	409	0.44	0.54	6.68	140.65
+GO:0045944	positive regulation of transcription by RNA polymerase II	403	0.55	0.71	8.36	1463.86
+GO:0006886	intracellular protein transport	336	0.55	0.65	8.12	90.55
+GO:0001934	positive regulation of protein phosphorylation	328	0.58	0.69	8.60	663.11
+GO:0000122	negative regulation of transcription by RNA polymerase II	315	0.61	0.74	8.79	1836.95
+GO:0045055	regulated exocytosis	292	0.69	0.69	8.57	38.47
+GO:0043065	positive regulation of apoptotic process	254	0.56	0.63	7.81	80.91
+GO:0006397	mRNA processing	171	0.71	0.73	9.17	234.35
+GO:0072657	protein localization to membrane	164	0.58	0.58	7.59	29.83
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	158	0.76	0.78	9.31	348.36
+GO:0043547	positive regulation of GTPase activity	136	0.93	0.79	9.52	49.34
+GO:0043405	regulation of MAP kinase activity	130	0.66	0.76	9.03	322.70
+GO:0003008	system process	129	0.44	0.35	5.06	7.59
+GO:0010506	regulation of autophagy	128	0.63	0.64	8.27	43.36
+GO:0050900	leukocyte migration	124	0.60	0.59	8.02	26.94
+GO:0032496	response to lipopolysaccharide	122	0.89	0.74	9.45	64.41
+GO:0001818	negative regulation of cytokine production	107	0.51	0.55	7.03	44.36
+GO:0048589	developmental growth	82	0.55	0.40	6.36	12.22
+GO:0001701	in utero embryonic development	70	1.00	0.85	9.63	22.50
+GO:1901653	cellular response to peptide	68	0.69	0.67	8.80	225.63
+GO:0017148	negative regulation of translation	52	0.65	0.70	9.08	1114.67
+GO:0042542	response to hydrogen peroxide	49	0.93	0.76	9.54	79.29
+GO:0032092	positive regulation of protein binding	45	0.71	0.64	8.53	32.71
+GO:0032355	response to estradiol	44	0.93	0.76	9.52	74.25
+GO:0050728	negative regulation of inflammatory response	43	0.67	0.69	8.71	126.18
+GO:0016525	negative regulation of angiogenesis	41	0.81	0.78	9.32	151.11
+GO:0009749	response to glucose	38	0.89	0.80	9.41	32.96
+GO:0046718	viral entry into host cell	37	0.77	0.73	8.94	28.37
+GO:0070301	cellular response to hydrogen peroxide	30	1.00	0.82	9.63	361.03
+GO:0050766	positive regulation of phagocytosis	28	0.77	0.76	9.34	175.33
+GO:0015914	phospholipid transport	26	0.78	0.74	9.04	67.00
+GO:0006687	glycosphingolipid metabolic process	26	0.68	0.69	9.04	147.46
+GO:0034260	negative regulation of GTPase activity	23	1.00	0.82	9.63	61.14
+GO:0046825	regulation of protein export from nucleus	22	0.71	0.73	9.09	125.87
+GO:2000059	negative regulation of ubiquitin-dependent protein catabolic process	20	0.83	0.83	9.51	1664.75
+GO:0045429	positive regulation of nitric oxide biosynthetic process	17	1.00	0.88	9.63	658.64
+GO:0045948	positive regulation of translational initiation	14	0.76	0.78	9.39	1253.37
+GO:2000249	regulation of actin cytoskeleton reorganization	14	0.89	0.82	9.43	36.20
+GO:0032570	response to progesterone	14	0.93	0.79	9.55	105.99
+GO:0006656	phosphatidylcholine biosynthetic process	13	0.80	0.77	9.40	749.29
+GO:0070830	bicellular tight junction assembly	11	1.00	0.82	9.63	56.14
+GO:1903206	negative regulation of hydrogen peroxide-induced cell death	9	0.84	0.82	9.59	500.08
+GO:1903543	positive regulation of exosomal secretion	9	1.00	0.90	9.63	273.98
+GO:0002692	negative regulation of cellular extravasation	5	0.79	0.79	9.37	296.76
+GO:0060313	negative regulation of blood vessel remodeling	2	0.93	0.79	9.55	101.63
+GO:0043314	negative regulation of neutrophil degranulation	2	1.00	0.93	9.63	799.86
+GO:0006556	S-adenosylmethionine biosynthetic process	2	1.00	0.82	9.63	239.06
+GO:0071409	cellular response to cycloheximide	2	1.00	0.82	9.63	692.52
+GO:1905572	ganglioside GM1 transport to membrane	1	1.00	0.88	9.63	123.76
+GO:0097533	cellular stress response to acid chemical	1	1.00	0.79	9.63	22.45

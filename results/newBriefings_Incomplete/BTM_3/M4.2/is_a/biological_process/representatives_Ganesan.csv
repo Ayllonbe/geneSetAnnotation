@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1501	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	1501	0.12	0.26	2.47	7.96
+GO:0048523	negative regulation of cellular process	753	0.24	0.37	3.90	23.93
+GO:0006508	proteolysis	169	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	384	0.34	0.49	5.84	147.03
+GO:0006508	proteolysis	169	0.55	0.57	7.34	47.86
+GO:0006464	cellular protein modification process	384	0.34	0.49	5.84	147.03
+GO:0006355	regulation of transcription, DNA-templated	467	0.40	0.60	6.84	245.35
+GO:0032268	regulation of cellular protein metabolic process	441	0.37	0.51	6.13	70.76
+GO:1902531	regulation of intracellular signal transduction	383	0.45	0.55	6.77	41.85
+GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9.42	236.53
+GO:0042981	regulation of apoptotic process	313	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	300	0.50	0.62	7.64	109.03
+GO:0008284	positive regulation of cell proliferation	263	0.56	0.57	7.27	43.45
+GO:0006351	transcription, DNA-templated	225	0.57	0.68	8.45	581.39
+GO:0007186	G-protein coupled receptor signaling pathway	199	0.55	0.57	7.20	23.17
+GO:0051445	regulation of meiotic cell cycle	14	0.55	0.57	7.53	25.89
+GO:0010564	regulation of cell cycle process	153	0.42	0.50	6.22	14.24
+GO:0060284	regulation of cell development	148	0.42	0.50	6.27	27.05
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0006259	DNA metabolic process	138	0.45	0.55	7.12	145.26
+GO:0051276	chromosome organization	97	0.55	0.52	6.96	18.35
+GO:1902749	regulation of cell cycle G2/M phase transition	38	0.70	0.70	8.68	19.40
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	37	0.74	0.75	9.04	58.64
+GO:1903829	positive regulation of cellular protein localization	62	0.60	0.62	7.80	40.87
+GO:0000902	cell morphogenesis	58	0.63	0.56	7.92	43.26
+GO:0033365	protein localization to organelle	58	0.50	0.54	7.01	29.83
+GO:0000226	microtubule cytoskeleton organization	57	0.58	0.58	7.66	30.31
+GO:0051260	protein homooligomerization	54	0.89	0.77	9.41	42.03
+GO:0000082	G1/S transition of mitotic cell cycle	45	1.00	0.79	9.63	42.75
+GO:0048812	neuron projection morphogenesis	39	0.65	0.68	8.50	63.00
+GO:0045665	negative regulation of neuron differentiation	39	0.62	0.68	8.73	338.15
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	31	1.00	0.79	9.63	42.20
+GO:0000086	G2/M transition of mitotic cell cycle	29	1.00	0.79	9.63	43.45
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:0070301	cellular response to hydrogen peroxide	23	1.00	0.82	9.63	361.03
+GO:0008584	male gonad development	23	1.00	0.79	9.63	50.96
+GO:0007052	mitotic spindle organization	22	0.83	0.76	9.28	96.22
+GO:0050773	regulation of dendrite development	18	0.76	0.78	9.51	86.24
+GO:0000281	mitotic cytokinesis	17	0.93	0.76	9.47	28.62
+GO:0071479	cellular response to ionizing radiation	16	0.89	0.77	9.45	48.66
+GO:0071277	cellular response to calcium ion	16	1.00	0.82	9.63	78.50
+GO:0030071	regulation of mitotic metaphase/anaphase transition	16	0.76	0.79	9.41	262.33
+GO:1990830	cellular response to leukemia inhibitory factor	15	1.00	0.82	9.63	81.65
+GO:0051310	metaphase plate congression	15	0.84	0.74	9.34	45.44
+GO:0007281	germ cell development	14	0.87	0.68	9.34	71.68
+GO:0000070	mitotic sister chromatid segregation	14	1.00	0.82	9.63	56.84
+GO:0007062	sister chromatid cohesion	13	0.75	0.67	8.80	32.57
+GO:0006336	DNA replication-independent nucleosome assembly	13	0.93	0.84	9.56	163.42
+GO:0090630	activation of GTPase activity	12	1.00	0.85	9.63	49.34
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0097711	ciliary basal body-plasma membrane docking	11	1.00	0.79	9.63	21.39
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:0034446	substrate adhesion-dependent cell spreading	11	1.00	0.82	9.63	56.23
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0031145	anaphase-promoting complex-dependent catabolic process	9	1.00	0.92	9.63	350.56
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	8	0.89	0.70	9.29	27.92
+GO:0007076	mitotic chromosome condensation	8	0.89	0.82	9.46	40.55
+GO:0010569	regulation of double-strand break repair via homologous recombination	6	0.84	0.82	9.52	184.48
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:0070830	bicellular tight junction assembly	6	1.00	0.82	9.63	56.14
+GO:0051653	spindle localization	6	0.79	0.64	9.22	22.02
+GO:0001556	oocyte maturation	5	1.00	0.75	9.63	79.09
+GO:0000212	meiotic spindle organization	5	0.77	0.73	9.17	69.68
+GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
+GO:0006335	DNA replication-dependent nucleosome assembly	4	1.00	0.88	9.63	163.42
+GO:0007141	male meiosis I	4	1.00	0.88	9.63	140.07
+GO:0040001	establishment of mitotic spindle localization	4	0.89	0.80	9.58	138.62
+GO:0051754	meiotic sister chromatid cohesion, centromeric	3	1.00	0.85	9.63	117.00
+GO:0000915	actomyosin contractile ring assembly	3	0.93	0.84	9.57	135.17
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	3	1.00	0.92	9.63	350.56
+GO:0007100	mitotic centrosome separation	3	1.00	0.75	9.63	26.82
+GO:0031915	positive regulation of synaptic plasticity	3	0.87	0.81	9.45	41.66
+GO:0016321	female meiosis chromosome segregation	2	0.93	0.76	9.52	64.48
+GO:0046785	microtubule polymerization	2	1.00	0.85	9.63	97.27
+GO:0000022	mitotic spindle elongation	2	1.00	0.75	9.63	36.99
+GO:0007057	spindle assembly involved in female meiosis I	2	1.00	0.92	9.63	179.90
+GO:0051307	meiotic chromosome separation	2	0.87	0.68	9.22	35.56
+GO:0045143	homologous chromosome segregation	2	1.00	0.79	9.63	44.56
+GO:0099606	microtubule plus-end directed mitotic chromosome migration	1	1.00	0.82	9.63	45.44
+GO:0072383	plus-end-directed vesicle transport along microtubule	1	0.93	0.86	9.58	265.62
+GO:0051661	maintenance of centrosome location	1	1.00	0.82	9.63	46.02
+GO:0007079	mitotic chromosome movement towards spindle pole	1	1.00	0.85	9.63	93.22
+GO:0007144	female meiosis I	1	1.00	0.88	9.63	140.07

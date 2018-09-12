@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	311	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	254	0.25	0.32	3.46	10.22
+GO:0010468	regulation of gene expression	154	0.35	0.46	5.09	13.73
+GO:0006810	transport	150	0.28	0.34	3.95	7.46
+GO:0051049	regulation of transport	66	0.31	0.40	4.67	10.45
+GO:0015031	protein transport	61	0.48	0.59	6.99	54.46
+GO:0019220	regulation of phosphate metabolic process	42	0.41	0.53	6.26	28.98
+GO:0010033	response to organic substance	48	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	33	0.39	0.39	5.14	9.28
+GO:0043066	negative regulation of apoptotic process	26	0.56	0.63	7.79	81.07
+GO:0051345	positive regulation of hydrolase activity	21	0.57	0.57	7.42	32.99
+GO:0006955	immune response	16	0.54	0.40	6.57	12.45
+GO:0019221	cytokine-mediated signaling pathway	15	0.60	0.63	7.60	26.50
+GO:0071345	cellular response to cytokine stimulus	14	0.67	0.63	8.21	61.60
+GO:0043603	cellular amide metabolic process	14	0.47	0.48	6.49	29.84
+GO:0006906	vesicle fusion	8	0.68	0.66	8.56	63.10
+GO:0007565	female pregnancy	7	1.00	0.70	9.63	32.81
+GO:0008016	regulation of heart contraction	7	0.57	0.61	7.59	16.15
+GO:0046942	carboxylic acid transport	5	0.45	0.58	6.78	47.71
+GO:0090168	Golgi reassembly	2	1.00	0.79	9.63	38.92
+GO:0006855	drug transmembrane transport	2	0.58	0.58	7.29	29.08
+GO:0033762	response to glucagon	2	0.93	0.82	9.54	74.03
+GO:0005513	detection of calcium ion	2	1.00	0.82	9.63	27.95
+GO:0051279	regulation of release of sequestered calcium ion into cytosol	2	0.74	0.76	9.24	148.50
+GO:0030644	cellular chloride ion homeostasis	1	1.00	0.90	9.63	141.60
+GO:0015722	canalicular bile acid transport	1	1.00	0.92	9.63	105.67
+GO:0015694	mercury ion transport	1	1.00	0.88	9.63	36.28
+GO:0000027	ribosomal large subunit assembly	1	0.93	0.82	9.53	66.60
+GO:0042147	retrograde transport, endosome to Golgi	1	0.87	0.76	9.37	84.49
+GO:1900425	negative regulation of defense response to bacterium	1	0.77	0.73	9.27	222.83
+GO:0051683	establishment of Golgi localization	1	1.00	0.79	9.63	43.32

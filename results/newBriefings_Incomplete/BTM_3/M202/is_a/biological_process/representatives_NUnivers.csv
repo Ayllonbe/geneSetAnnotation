@@ -1,0 +1,59 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	959	0.12	0.26	2.47	7.96
+GO:0048523	negative regulation of cellular process	459	0.24	0.37	3.90	23.93
+GO:0019538	protein metabolic process	303	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	276	0.40	0.60	6.84	245.35
+GO:0070887	cellular response to chemical stimulus	240	0.40	0.40	5.31	25.21
+GO:0009967	positive regulation of signal transduction	230	0.44	0.54	6.71	140.23
+GO:0030154	cell differentiation	208	0.39	0.39	5.18	16.68
+GO:0032270	positive regulation of cellular protein metabolic process	195	0.47	0.59	7.41	288.49
+GO:0010628	positive regulation of gene expression	188	0.47	0.56	6.67	58.80
+GO:0008284	positive regulation of cell proliferation	169	0.56	0.57	7.27	43.45
+GO:0016477	cell migration	159	0.47	0.48	6.31	17.13
+GO:2000145	regulation of cell motility	158	0.47	0.52	6.88	34.54
+GO:0045893	positive regulation of transcription, DNA-templated	150	0.52	0.67	8.14	1208.12
+GO:0009968	negative regulation of signal transduction	146	0.44	0.54	6.68	140.65
+GO:0048856	anatomical structure development	144	0.33	0.29	3.70	6.46
+GO:0006351	transcription, DNA-templated	124	0.57	0.68	8.45	581.39
+GO:0045597	positive regulation of cell differentiation	121	0.45	0.51	6.57	82.53
+GO:0032269	negative regulation of cellular protein metabolic process	105	0.47	0.59	7.45	289.39
+GO:0009725	response to hormone	105	0.53	0.51	7.03	21.86
+GO:0006468	protein phosphorylation	103	0.57	0.64	8.18	177.76
+GO:0001819	positive regulation of cytokine production	90	0.51	0.54	6.97	44.26
+GO:0045596	negative regulation of cell differentiation	87	0.44	0.51	6.50	82.79
+GO:0000122	negative regulation of transcription by RNA polymerase II	66	0.61	0.74	8.79	1836.95
+GO:0050920	regulation of chemotaxis	60	0.54	0.56	7.31	25.01
+GO:0007204	positive regulation of cytosolic calcium ion concentration	59	0.68	0.77	9.10	290.30
+GO:0002576	platelet degranulation	31	1.00	0.88	9.63	39.86
+GO:0045766	positive regulation of angiogenesis	29	0.81	0.76	9.30	134.49
+GO:0048562	embryonic organ morphogenesis	23	0.76	0.63	8.67	29.31
+GO:0034614	cellular response to reactive oxygen species	23	0.77	0.67	9.20	144.09
+GO:0046854	phosphatidylinositol phosphorylation	21	1.00	0.88	9.63	218.74
+GO:0010811	positive regulation of cell-substrate adhesion	17	0.80	0.69	9.01	35.31
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	12	0.93	0.90	9.60	732.69
+GO:0032720	negative regulation of tumor necrosis factor production	12	0.89	0.80	9.46	85.93
+GO:0010863	positive regulation of phospholipase C activity	10	0.93	0.84	9.55	83.74
+GO:0030500	regulation of bone mineralization	10	0.83	0.74	9.41	42.16
+GO:0030199	collagen fibril organization	9	1.00	0.79	9.63	53.96
+GO:0071230	cellular response to amino acid stimulus	8	0.71	0.68	8.96	283.90
+GO:0030326	embryonic limb morphogenesis	7	0.89	0.74	9.38	43.31
+GO:2000778	positive regulation of interleukin-6 secretion	6	1.00	0.92	9.63	618.07
+GO:0002092	positive regulation of receptor internalization	6	0.93	0.86	9.59	393.55
+GO:0008589	regulation of smoothened signaling pathway	6	0.77	0.71	9.07	41.85
+GO:0000271	polysaccharide biosynthetic process	5	0.60	0.59	8.16	120.42
+GO:2000773	negative regulation of cellular senescence	5	1.00	0.85	9.63	164.43
+GO:0042339	keratan sulfate metabolic process	5	0.89	0.80	9.51	119.41
+GO:2000679	positive regulation of transcription regulatory region DNA binding	4	0.89	0.77	9.43	47.97
+GO:0030539	male genitalia development	4	1.00	0.79	9.63	66.32
+GO:0048642	negative regulation of skeletal muscle tissue development	4	0.79	0.77	9.31	215.72
+GO:0055003	cardiac myofibril assembly	3	0.89	0.82	9.51	125.46
+GO:0070570	regulation of neuron projection regeneration	3	0.67	0.73	9.08	115.68
+GO:0008210	estrogen metabolic process	3	0.89	0.77	9.49	78.57
+GO:0010544	negative regulation of platelet activation	3	0.89	0.84	9.59	379.90
+GO:2000780	negative regulation of double-strand break repair	2	0.84	0.82	9.53	610.97
+GO:1902174	positive regulation of keratinocyte apoptotic process	2	1.00	0.90	9.63	129.82
+GO:0060628	regulation of ER to Golgi vesicle-mediated transport	1	0.81	0.73	9.26	59.76
+GO:0032000	positive regulation of fatty acid beta-oxidation	1	0.83	0.81	9.46	722.65
+GO:2000276	negative regulation of oxidative phosphorylation uncoupler activity	1	1.00	0.92	9.63	290.19
+GO:0055062	phosphate ion homeostasis	1	0.93	0.84	9.54	105.49
+GO:2000119	negative regulation of sodium-dependent phosphate transport	1	1.00	0.90	9.63	90.50

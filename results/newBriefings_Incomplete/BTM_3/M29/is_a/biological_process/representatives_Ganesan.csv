@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032502	developmental process	552	0.22	0.11	1.89	3.37
+GO:0071704	organic substance metabolic process	1045	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	1847	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	810	0.25	0.12	2.65	3.37
+GO:0035176	social behavior	7	1.00	0.70	9.63	22.58
+GO:0044869	negative regulation by host of viral exo-alpha-sialidase activity	1	1.00	0.92	9.63	511.15
+GO:0043085	positive regulation of catalytic activity	291	0.48	0.49	6.15	18.32
+GO:0050789	regulation of biological process	1545	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	41	0.93	0.91	9.59	279.44
+GO:0008104	protein localization	206	0.40	0.40	5.07	7.46

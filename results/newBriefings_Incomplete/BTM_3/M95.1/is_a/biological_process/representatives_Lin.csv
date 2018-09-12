@@ -1,0 +1,56 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	562	0.43	0.51	5.91	23.17
+GO:0010468	regulation of gene expression	540	0.35	0.46	5.09	13.73
+GO:0042221	response to chemical	470	0.32	0.29	4.12	6.14
+GO:0010572	positive regulation of platelet activation	4	0.89	0.84	9.59	334.52
+GO:0002682	regulation of immune system process	466	0.32	0.36	4.60	7.96
+GO:0010572	positive regulation of platelet activation	4	0.89	0.84	9.59	334.52
+GO:0002682	regulation of immune system process	466	0.32	0.36	4.60	7.96
+GO:0051128	regulation of cellular component organization	392	0.30	0.40	4.57	12.04
+GO:0042127	regulation of cell proliferation	350	0.45	0.48	6.03	12.04
+GO:0044093	positive regulation of molecular function	343	0.43	0.41	5.23	6.77
+GO:0016192	vesicle-mediated transport	334	0.52	0.51	6.57	10.99
+GO:0051049	regulation of transport	329	0.31	0.40	4.67	10.45
+GO:0010941	regulation of cell death	320	0.43	0.47	6.10	12.04
+GO:0009605	response to external stimulus	308	0.37	0.31	4.62	6.14
+GO:0045321	leukocyte activation	302	0.52	0.46	6.78	16.27
+GO:0030154	cell differentiation	297	0.39	0.39	5.18	16.68
+GO:0006796	phosphate-containing compound metabolic process	288	0.36	0.43	5.28	20.85
+GO:0001932	regulation of protein phosphorylation	283	0.50	0.62	7.64	109.03
+GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
+GO:0022603	regulation of anatomical structure morphogenesis	207	0.36	0.43	5.15	11.29
+GO:0016477	cell migration	201	0.47	0.48	6.31	17.13
+GO:0030155	regulation of cell adhesion	189	0.48	0.44	5.95	7.96
+GO:0055082	cellular chemical homeostasis	149	0.54	0.56	7.37	33.04
+GO:0071672	negative regulation of smooth muscle cell chemotaxis	1	1.00	0.90	9.63	373.37
+GO:0030335	positive regulation of cell migration	142	0.58	0.64	8.22	157.26
+GO:0048468	cell development	100	0.51	0.45	6.51	28.42
+GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
+GO:0090066	regulation of anatomical structure size	70	0.53	0.46	6.45	8.64
+GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
+GO:2000379	positive regulation of reactive oxygen species metabolic process	32	0.78	0.71	9.25	112.72
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0046718	viral entry into host cell	24	0.77	0.73	8.94	28.37
+GO:0007569	cell aging	19	0.80	0.60	8.94	24.75
+GO:0007015	actin filament organization	19	0.65	0.58	8.06	17.25
+GO:0001541	ovarian follicle development	10	1.00	0.75	9.63	34.61
+GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
+GO:0140029	exocytic process	9	0.70	0.47	7.33	7.39
+GO:0016601	Rac protein signal transduction	7	1.00	0.88	9.63	29.61
+GO:0071447	cellular response to hydroperoxide	5	0.87	0.72	9.49	143.11
+GO:0002438	acute inflammatory response to antigenic stimulus	5	0.77	0.71	9.12	43.67
+GO:0070493	thrombin-activated receptor signaling pathway	4	1.00	0.82	9.63	26.98
+GO:0070528	protein kinase C signaling	4	1.00	0.82	9.63	26.43
+GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
+GO:0002399	MHC class II protein complex assembly	1	1.00	0.85	9.63	45.62
+GO:0030845	phospholipase C-inhibiting G-protein coupled receptor signaling pathway	1	1.00	0.82	9.63	26.98
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0097178	ruffle assembly	1	1.00	0.82	9.63	77.52
+GO:0010920	negative regulation of inositol phosphate biosynthetic process	1	0.93	0.84	9.59	802.80
+GO:0010477	response to sulfur dioxide	1	0.93	0.72	9.45	26.65
+GO:0045660	positive regulation of neutrophil differentiation	1	1.00	0.92	9.63	984.37
+GO:0014739	positive regulation of muscle hyperplasia	1	1.00	0.88	9.63	117.66

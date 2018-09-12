@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3380	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	2161	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	1598	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	1024	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	853	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	788	0.39	0.39	5.17	14.95
+GO:0010033	response to organic substance	688	0.35	0.37	4.75	9.28
+GO:1901575	organic substance catabolic process	639	0.30	0.35	4.26	18.93
+GO:0015031	protein transport	533	0.48	0.59	6.99	54.46
+GO:0006508	proteolysis	470	0.55	0.57	7.34	47.86
+GO:0006259	DNA metabolic process	327	0.45	0.55	7.12	145.26
+GO:1903829	positive regulation of cellular protein localization	133	0.60	0.62	7.80	40.87
+GO:0006520	cellular amino acid metabolic process	121	0.41	0.53	6.53	77.81
+GO:0000398	mRNA splicing, via spliceosome	109	0.83	0.85	9.49	356.67
+GO:0000165	MAPK cascade	105	0.74	0.77	9.24	231.45
+GO:0000467	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	4	1.00	0.93	9.63	1183.02
+GO:0006401	RNA catabolic process	92	0.59	0.65	8.78	532.61
+GO:0000467	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	4	1.00	0.93	9.63	1183.02
+GO:0006401	RNA catabolic process	92	0.59	0.65	8.78	532.61
+GO:0006412	translation	82	0.87	0.78	9.51	402.56
+GO:0006399	tRNA metabolic process	79	0.54	0.64	7.95	117.72
+GO:0070126	mitochondrial translational termination	59	1.00	0.85	9.63	40.69
+GO:0070125	mitochondrial translational elongation	56	1.00	0.85	9.63	106.95
+GO:0006633	fatty acid biosynthetic process	49	0.65	0.70	8.91	359.85
+GO:0006406	mRNA export from nucleus	48	0.89	0.84	9.52	121.36
+GO:0000187	activation of MAPK activity	48	0.81	0.87	9.53	3706.25
+GO:0051170	import into nucleus	47	0.74	0.72	8.94	33.90
+GO:1902600	proton transmembrane transport	44	0.76	0.75	9.12	95.87
+GO:0006637	acyl-CoA metabolic process	43	0.59	0.59	7.98	77.21
+GO:0016573	histone acetylation	35	0.69	0.78	9.12	658.07
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	17	0.89	0.84	9.53	355.96
+GO:0034080	CENP-A containing nucleosome assembly	16	1.00	0.90	9.63	242.74
+GO:0006783	heme biosynthetic process	16	0.83	0.76	9.46	646.21
+GO:0000245	spliceosomal complex assembly	14	0.93	0.82	9.53	66.60
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	12	1.00	0.93	9.63	1297.42
+GO:1904837	beta-catenin-TCF complex assembly	12	1.00	0.79	9.63	40.42
+GO:0000387	spliceosomal snRNP assembly	12	0.93	0.82	9.53	66.60
+GO:0007602	phototransduction	10	0.81	0.73	9.34	75.43
+GO:0008535	respiratory chain complex IV assembly	9	0.89	0.80	9.43	46.46
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	8	1.00	0.88	9.63	66.40
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	7	1.00	0.88	9.63	82.06
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	5	1.00	0.79	9.63	22.95
+GO:0034475	U4 snRNA 3'-end processing	5	1.00	0.93	9.63	716.78
+GO:0007141	male meiosis I	4	1.00	0.88	9.63	140.07
+GO:0000492	box C/D snoRNP assembly	3	1.00	0.88	9.63	67.29
+GO:0046325	negative regulation of glucose import	3	0.93	0.84	9.55	84.77
+GO:0090521	glomerular visceral epithelial cell migration	3	1.00	0.85	9.63	24.97
+GO:0000707	meiotic DNA recombinase assembly	3	0.83	0.79	9.41	133.96
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	3	1.00	0.93	9.63	718.39
+GO:0071049	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	2	1.00	0.82	9.63	27.63

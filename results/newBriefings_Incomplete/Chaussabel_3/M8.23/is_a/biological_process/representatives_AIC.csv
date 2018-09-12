@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	3219	0.09	0.17	1.80	4.47
+GO:0019538	protein metabolic process	1302	0.31	0.41	4.91	44.77
+GO:0006139	nucleobase-containing compound metabolic process	1443	0.29	0.40	5.40	96.28
+GO:0006810	transport	1280	0.28	0.34	3.95	7.46
+GO:0051173	positive regulation of nitrogen compound metabolic process	950	0.36	0.47	5.40	39.57
+GO:0045892	negative regulation of transcription, DNA-templated	399	0.56	0.69	8.52	1581.26
+GO:0045087	innate immune response	163	0.68	0.59	8.16	26.47
+GO:0071345	cellular response to cytokine stimulus	137	0.67	0.63	8.21	61.60
+GO:0045444	fat cell differentiation	41	0.87	0.68	9.29	21.07

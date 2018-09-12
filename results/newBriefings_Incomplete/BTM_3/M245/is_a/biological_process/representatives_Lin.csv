@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	839	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	719	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	390	0.25	0.12	2.65	3.37
+GO:0043170	macromolecule metabolic process	316	0.25	0.32	3.46	10.22
+GO:1901564	organonitrogen compound metabolic process	242	0.23	0.31	3.63	19.40
+GO:0006810	transport	338	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	236	0.22	0.11	1.89	3.37
+GO:2000026	regulation of multicellular organismal development	164	0.29	0.39	4.73	23.09
+GO:0010564	regulation of cell cycle process	59	0.42	0.50	6.22	14.24
+GO:1902416	positive regulation of mRNA binding	2	0.87	0.76	9.34	43.94
+GO:0001732	formation of cytoplasmic translation initiation complex	1	1.00	0.85	9.63	66.60

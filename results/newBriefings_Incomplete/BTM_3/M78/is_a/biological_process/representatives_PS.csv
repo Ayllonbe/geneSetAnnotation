@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	367	0.31	0.41	4.91	44.77
+GO:0001516	prostaglandin biosynthetic process	6	0.89	0.88	9.60	1037.18
+GO:0009987	cellular process	1455	0.09	0.05	0.84	3.37
+GO:0019538	protein metabolic process	367	0.31	0.41	4.91	44.77
+GO:0001516	prostaglandin biosynthetic process	6	0.89	0.88	9.60	1037.18
+GO:0009987	cellular process	1455	0.09	0.05	0.84	3.37
+GO:0051099	positive regulation of binding	28	0.61	0.55	7.48	18.40
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	8	1.00	0.95	9.63	292.09
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	5	1.00	0.92	9.63	990.06
+GO:0001916	positive regulation of T cell mediated cytotoxicity	8	0.87	0.83	9.52	365.14
+GO:0050789	regulation of biological process	1200	0.09	0.17	1.80	4.47
+GO:0014891	striated muscle atrophy	1	0.89	0.77	9.41	39.63
+GO:0042221	response to chemical	393	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	353	0.39	0.32	4.70	6.14
+GO:0006810	transport	536	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	436	0.22	0.11	1.89	3.37
+GO:0065008	regulation of biological quality	403	0.28	0.26	3.48	4.47
+GO:0045321	leukocyte activation	251	0.52	0.46	6.78	16.27
+GO:0050900	leukocyte migration	137	0.60	0.59	8.02	26.94
+GO:0007565	female pregnancy	11	1.00	0.70	9.63	32.81
+GO:0031581	hemidesmosome assembly	6	1.00	0.82	9.63	36.80
+GO:0060271	cilium assembly	5	0.87	0.76	9.41	137.68
+GO:0001542	ovulation from ovarian follicle	3	1.00	0.75	9.63	27.16
+GO:0042246	tissue regeneration	3	0.76	0.63	8.94	42.89
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60

@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043392	negative regulation of DNA binding	10	0.76	0.67	8.87	32.53
+GO:0050789	regulation of biological process	1478	0.09	0.17	1.80	4.47
+GO:0051090	regulation of DNA binding transcription factor activity	93	0.72	0.77	9.22	255.34
+GO:0008152	metabolic process	1040	0.15	0.07	1.52	3.37
+GO:0033554	cellular response to stress	220	0.44	0.42	6.05	25.47
+GO:0030433	ubiquitin-dependent ERAD pathway	4	0.93	0.88	9.60	603.05
+GO:0051234	establishment of localization	648	0.28	0.26	3.49	5.67
+GO:0008104	protein localization	193	0.40	0.40	5.07	7.46
+GO:0016043	cellular component organization	632	0.28	0.26	3.74	11.45
+GO:0042221	response to chemical	468	0.32	0.29	4.12	6.14
+GO:0000082	G1/S transition of mitotic cell cycle	33	1.00	0.79	9.63	42.75
+GO:0009913	epidermal cell differentiation	14	0.74	0.66	8.71	24.20
+GO:0038128	ERBB2 signaling pathway	8	0.87	0.83	9.37	32.39
+GO:0030301	cholesterol transport	8	0.78	0.74	9.00	37.85
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:0061000	negative regulation of dendritic spine development	3	0.93	0.90	9.60	672.78
+GO:0048714	positive regulation of oligodendrocyte differentiation	3	1.00	0.92	9.63	471.69
+GO:0019076	viral release from host cell	1	0.84	0.77	9.39	33.81

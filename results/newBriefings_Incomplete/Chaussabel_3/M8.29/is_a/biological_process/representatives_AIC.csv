@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2991	0.12	0.26	2.47	7.96
+GO:0050794	regulation of cellular process	2991	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	1999	0.28	0.39	4.44	30.44
+GO:0048522	positive regulation of cellular process	1530	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	1435	0.28	0.26	3.74	11.45
+GO:0010468	regulation of gene expression	1406	0.35	0.46	5.09	13.73
+GO:0016070	RNA metabolic process	1088	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	281	0.45	0.55	7.12	145.26
+GO:0051252	regulation of RNA metabolic process	1238	0.37	0.51	6.06	70.58
+GO:0009966	regulation of signal transduction	909	0.33	0.45	5.35	37.59
+GO:0015031	protein transport	477	0.48	0.59	6.99	54.46
+GO:0030154	cell differentiation	401	0.39	0.39	5.18	16.68
+GO:0034613	cellular protein localization	328	0.45	0.48	6.33	26.83
+GO:0043066	negative regulation of apoptotic process	294	0.56	0.63	7.79	81.07
+GO:0034220	ion transmembrane transport	214	0.45	0.51	6.18	26.33
+GO:0031400	negative regulation of protein modification process	207	0.53	0.64	7.94	366.95
+GO:0030335	positive regulation of cell migration	161	0.58	0.64	8.22	157.26
+GO:0006875	cellular metal ion homeostasis	137	0.59	0.67	8.36	105.84
+GO:0098662	inorganic cation transmembrane transport	132	0.58	0.64	7.91	76.35
+GO:0031331	positive regulation of cellular catabolic process	123	0.54	0.59	7.66	167.85
+GO:0071214	cellular response to abiotic stimulus	115	0.59	0.54	7.66	24.78
+GO:0050900	leukocyte migration	105	0.60	0.59	8.02	26.94
+GO:0006913	nucleocytoplasmic transport	93	0.63	0.64	8.15	33.20
+GO:0001666	response to hypoxia	91	0.81	0.70	9.12	21.16
+GO:0051607	defense response to virus	78	0.87	0.76	9.49	78.89
+GO:0010821	regulation of mitochondrion organization	70	0.62	0.63	8.12	19.19
+GO:0022900	electron transport chain	70	0.71	0.61	8.48	29.76
+GO:0000302	response to reactive oxygen species	65	0.71	0.60	8.78	25.34
+GO:0009267	cellular response to starvation	52	0.64	0.64	8.46	112.77
+GO:0046034	ATP metabolic process	41	0.65	0.74	9.11	1262.34
+GO:1904064	positive regulation of cation transmembrane transport	36	0.60	0.68	8.21	171.07
+GO:0006749	glutathione metabolic process	23	0.84	0.74	9.36	147.29
+GO:0032781	positive regulation of ATPase activity	21	0.75	0.70	8.78	51.42
+GO:0051402	neuron apoptotic process	19	0.83	0.70	9.02	23.44
+GO:0000422	autophagy of mitochondrion	12	0.87	0.76	9.45	99.53
+GO:0090200	positive regulation of release of cytochrome c from mitochondria	12	1.00	0.90	9.63	472.23
+GO:1903077	negative regulation of protein localization to plasma membrane	8	0.84	0.80	9.49	218.53
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	8	0.93	0.86	9.57	68.47
+GO:1902108	regulation of mitochondrial membrane permeability involved in apoptotic process	8	0.87	0.78	9.49	74.66
+GO:0007250	activation of NF-kappaB-inducing kinase activity	5	1.00	0.95	9.63	1337.99
+GO:0010917	negative regulation of mitochondrial membrane potential	4	1.00	0.79	9.63	24.66
+GO:0048742	regulation of skeletal muscle fiber development	3	0.89	0.82	9.51	107.10
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
+GO:0071279	cellular response to cobalt ion	3	1.00	0.82	9.63	77.81

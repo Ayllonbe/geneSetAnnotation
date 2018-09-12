@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1683	0.00	0.00	0.00	0.00
+GO:0051101	regulation of DNA binding	19	0.61	0.55	7.68	9.33
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	14	0.93	0.91	9.59	279.62
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0050789	regulation of biological process	1239	0.09	0.17	1.80	4.47
+GO:0050896	response to stimulus	655	0.25	0.12	2.65	3.37
+GO:0006810	transport	549	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	451	0.22	0.11	1.89	3.37
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20

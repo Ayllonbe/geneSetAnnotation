@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1618	0.09	0.05	0.84	3.37
+GO:0048518	positive regulation of biological process	898	0.21	0.30	3.05	7.96
+GO:0009966	regulation of signal transduction	512	0.33	0.45	5.35	37.59
+GO:0032502	developmental process	493	0.22	0.11	1.89	3.37
+GO:0019538	protein metabolic process	437	0.31	0.41	4.91	44.77
+GO:0051240	positive regulation of multicellular organismal process	327	0.35	0.42	4.98	23.60
+GO:0016192	vesicle-mediated transport	305	0.52	0.51	6.57	10.99
+GO:0043207	response to external biotic stimulus	221	0.41	0.40	5.91	16.64
+GO:0006955	immune response	183	0.54	0.40	6.57	12.45
+GO:0043207	response to external biotic stimulus	221	0.41	0.40	5.91	16.64
+GO:0006955	immune response	183	0.54	0.40	6.57	12.45
+GO:0051336	regulation of hydrolase activity	203	0.46	0.48	6.24	9.25
+GO:0001934	positive regulation of protein phosphorylation	190	0.58	0.69	8.60	663.11
+GO:0051050	positive regulation of transport	189	0.42	0.50	5.84	25.90
+GO:0006875	cellular metal ion homeostasis	117	0.59	0.67	8.36	105.84
+GO:0002690	positive regulation of leukocyte chemotaxis	41	0.75	0.77	9.33	423.36
+GO:0043524	negative regulation of neuron apoptotic process	27	0.79	0.77	9.25	179.63
+GO:0030449	regulation of complement activation	24	0.69	0.72	9.30	245.77
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0002762	negative regulation of myeloid leukocyte differentiation	13	0.77	0.76	9.35	700.15
+GO:0045589	regulation of regulatory T cell differentiation	9	0.79	0.79	9.52	133.47
+GO:0007202	activation of phospholipase C activity	7	1.00	0.90	9.63	83.74
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0010866	regulation of triglyceride biosynthetic process	4	0.89	0.80	9.47	120.43
+GO:0001798	positive regulation of type IIa hypersensitivity	2	0.93	0.91	9.61	1378.03

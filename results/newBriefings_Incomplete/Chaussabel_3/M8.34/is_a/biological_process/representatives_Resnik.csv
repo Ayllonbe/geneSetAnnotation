@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0034641	cellular nitrogen compound metabolic process	1337	0.26	0.33	4.23	26.70
+GO:0006355	regulation of transcription, DNA-templated	962	0.40	0.60	6.84	245.35
+GO:0044271	cellular nitrogen compound biosynthetic process	914	0.36	0.43	5.55	60.43
+GO:0032502	developmental process	718	0.22	0.11	1.89	3.37
+GO:0051128	regulation of cellular component organization	694	0.30	0.40	4.57	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	655	0.44	0.63	7.11	248.57
+GO:0010629	negative regulation of gene expression	474	0.47	0.56	6.74	59.05
+GO:0002682	regulation of immune system process	444	0.32	0.36	4.60	7.96
+GO:0015031	protein transport	421	0.48	0.59	6.99	54.46
+GO:0048856	anatomical structure development	327	0.33	0.29	3.70	6.46
+GO:0006259	DNA metabolic process	236	0.45	0.55	7.12	145.26
+GO:0008284	positive regulation of cell proliferation	211	0.56	0.57	7.27	43.45
+GO:0006366	transcription by RNA polymerase II	194	0.60	0.72	8.61	583.88
+GO:0045087	innate immune response	146	0.68	0.59	8.16	26.47
+GO:0042176	regulation of protein catabolic process	101	0.59	0.62	8.21	56.79
+GO:0009615	response to virus	94	0.74	0.66	8.80	27.27
+GO:1902600	proton transmembrane transport	38	0.76	0.75	9.12	95.87
+GO:0030182	neuron differentiation	36	0.58	0.54	7.21	21.07
+GO:0006368	transcription elongation from RNA polymerase II promoter	25	1.00	0.90	9.63	477.15
+GO:0035264	multicellular organism growth	22	1.00	0.70	9.63	22.58
+GO:0006383	transcription by RNA polymerase III	17	0.84	0.84	9.50	583.88
+GO:0060964	regulation of gene silencing by miRNA	16	0.74	0.74	9.16	63.20
+GO:0033683	nucleotide-excision repair, DNA incision	15	0.89	0.80	9.50	114.45
+GO:0042407	cristae formation	14	1.00	0.85	9.63	41.99
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	14	1.00	0.90	9.63	33.21
+GO:0006359	regulation of transcription by RNA polymerase III	12	0.84	0.84	9.53	248.57
+GO:0032728	positive regulation of interferon-beta production	9	0.89	0.80	9.46	84.41
+GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	9	1.00	0.92	9.63	581.32
+GO:0009303	rRNA transcription	8	0.84	0.85	9.51	822.32
+GO:0006521	regulation of cellular amino acid metabolic process	6	0.57	0.61	8.06	100.45
+GO:0009744	response to sucrose	2	0.89	0.77	9.38	31.01
+GO:1901919	positive regulation of exoribonuclease activity	1	1.00	0.90	9.63	987.55

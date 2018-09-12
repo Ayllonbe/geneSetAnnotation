@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	710	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	369	0.40	0.60	6.84	245.35
+GO:0090304	nucleic acid metabolic process	298	0.35	0.46	5.97	111.15
+GO:0031328	positive regulation of cellular biosynthetic process	275	0.41	0.53	6.32	170.14
+GO:0030154	cell differentiation	262	0.39	0.39	5.18	16.68
+GO:0034654	nucleobase-containing compound biosynthetic process	258	0.40	0.49	6.85	317.02
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	168	0.46	0.55	7.09	184.29
+GO:0009725	response to hormone	137	0.53	0.51	7.03	21.86
+GO:0051276	chromosome organization	82	0.55	0.52	6.96	18.35
+GO:0070647	protein modification by small protein conjugation or removal	60	0.61	0.66	8.44	151.15
+GO:0051054	positive regulation of DNA metabolic process	44	0.59	0.65	8.41	301.51
+GO:0042176	regulation of protein catabolic process	43	0.59	0.62	8.21	56.79
+GO:0070507	regulation of microtubule cytoskeleton organization	25	0.61	0.65	8.24	33.71
+GO:0051028	mRNA transport	22	0.87	0.81	9.45	42.49
+GO:0070301	cellular response to hydrogen peroxide	21	1.00	0.82	9.63	361.03
+GO:0034504	protein localization to nucleus	21	0.72	0.68	8.76	32.77
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	20	0.93	0.93	9.60	734.49
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0034644	cellular response to UV	16	0.80	0.75	9.22	66.19
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	12	1.00	0.93	9.63	888.12
+GO:0031023	microtubule organizing center organization	11	0.73	0.56	8.47	24.42
+GO:0043488	regulation of mRNA stability	10	0.74	0.77	9.24	282.23
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0016573	histone acetylation	8	0.69	0.78	9.12	658.07
+GO:0046825	regulation of protein export from nucleus	6	0.71	0.73	9.09	125.87
+GO:0000054	ribosomal subunit export from nucleus	4	0.89	0.89	9.57	268.61
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	4	0.89	0.86	9.58	717.25
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0007020	microtubule nucleation	2	0.80	0.72	9.07	33.20
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0072423	response to DNA damage checkpoint signaling	1	0.84	0.74	9.37	39.36
+GO:1902990	mitotic telomere maintenance via semi-conservative replication	1	1.00	0.90	9.63	232.52

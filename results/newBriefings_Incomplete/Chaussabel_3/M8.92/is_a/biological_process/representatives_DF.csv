@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006351	transcription, DNA-templated	75	0.57	0.68	8.45	581.39
+GO:0006357	regulation of transcription by RNA polymerase II	72	0.44	0.63	7.11	248.57
+GO:0015031	protein transport	56	0.48	0.59	6.99	54.46
+GO:0007186	G-protein coupled receptor signaling pathway	20	0.55	0.57	7.20	23.17
+GO:0032787	monocarboxylic acid metabolic process	9	0.40	0.53	6.17	45.97
+GO:0000165	MAPK cascade	9	0.74	0.77	9.24	231.45
+GO:0019932	second-messenger-mediated signaling	8	0.65	0.65	8.32	26.43
+GO:0006631	fatty acid metabolic process	7	0.54	0.62	7.85	91.02
+GO:0006625	protein targeting to peroxisome	6	0.89	0.86	9.56	237.37
+GO:0006816	calcium ion transport	5	0.67	0.71	8.69	35.67
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	3	0.89	0.82	9.54	374.75
+GO:0032801	receptor catabolic process	3	0.84	0.74	9.34	102.12
+GO:0036498	IRE1-mediated unfolded protein response	3	1.00	0.82	9.63	55.46
+GO:0019276	UDP-N-acetylgalactosamine metabolic process	1	0.89	0.80	9.52	163.58
+GO:0007202	activation of phospholipase C activity	1	1.00	0.90	9.63	83.74
+GO:0060394	negative regulation of pathway-restricted SMAD protein phosphorylation	1	1.00	0.92	9.63	1014.84
+GO:0006104	succinyl-CoA metabolic process	1	0.83	0.74	9.25	79.29
+GO:0033141	positive regulation of peptidyl-serine phosphorylation of STAT protein	1	1.00	0.93	9.63	940.21
+GO:0015012	heparan sulfate proteoglycan biosynthetic process	1	1.00	0.88	9.63	495.00
+GO:0043649	dicarboxylic acid catabolic process	1	0.64	0.67	8.55	212.48
+GO:0035860	glial cell-derived neurotrophic factor receptor signaling pathway	1	0.93	0.84	9.52	31.00

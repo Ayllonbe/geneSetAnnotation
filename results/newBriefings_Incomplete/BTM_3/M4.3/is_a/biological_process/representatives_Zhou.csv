@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019319	hexose biosynthetic process	5	0.75	0.70	9.15	135.77
+GO:0065007	biological regulation	1649	0.08	0.04	0.98	3.37
+GO:0006875	cellular metal ion homeostasis	125	0.59	0.67	8.36	105.84
+GO:0009987	cellular process	1890	0.09	0.05	0.84	3.37
+GO:0006401	RNA catabolic process	16	0.59	0.65	8.78	532.61
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0071417	cellular response to organonitrogen compound	105	0.53	0.56	7.37	128.53
+GO:0050896	response to stimulus	831	0.25	0.12	2.65	3.37
+GO:0006810	transport	670	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	564	0.22	0.11	1.89	3.37

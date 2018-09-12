@@ -1,0 +1,64 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	678	0.22	0.36	4.01	22.77
+GO:0048523	negative regulation of cellular process	603	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	491	0.33	0.45	5.35	37.59
+GO:0038166	angiotensin-activated signaling pathway	4	0.87	0.76	9.49	26.98
+GO:0007166	cell surface receptor signaling pathway	483	0.43	0.51	5.91	23.17
+GO:0006464	cellular protein modification process	298	0.34	0.49	5.84	147.03
+GO:0032230	positive regulation of synaptic transmission, GABAergic	3	1.00	0.88	9.63	135.42
+GO:0009967	positive regulation of signal transduction	286	0.44	0.54	6.71	140.23
+GO:0036179	osteoclast maturation	1	1.00	0.75	9.63	39.56
+GO:0030154	cell differentiation	264	0.39	0.39	5.18	16.68
+GO:0071702	organic substance transport	220	0.33	0.41	4.62	10.99
+GO:0045893	positive regulation of transcription, DNA-templated	207	0.52	0.67	8.14	1208.12
+GO:0065003	protein-containing complex assembly	202	0.45	0.48	6.06	36.47
+GO:0001934	positive regulation of protein phosphorylation	183	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	173	0.56	0.63	7.79	81.07
+GO:0043312	neutrophil degranulation	161	1.00	0.90	9.63	132.80
+GO:0045597	positive regulation of cell differentiation	158	0.45	0.51	6.57	82.53
+GO:0045892	negative regulation of transcription, DNA-templated	132	0.56	0.69	8.52	1581.26
+GO:0030335	positive regulation of cell migration	131	0.58	0.64	8.22	157.26
+GO:0045087	innate immune response	123	0.68	0.59	8.16	26.47
+GO:0015031	protein transport	118	0.48	0.59	6.99	54.46
+GO:0045785	positive regulation of cell adhesion	117	0.58	0.54	7.23	21.97
+GO:0006508	proteolysis	116	0.55	0.57	7.34	47.86
+GO:0045596	negative regulation of cell differentiation	115	0.44	0.51	6.50	82.79
+GO:0034613	cellular protein localization	93	0.45	0.48	6.33	26.83
+GO:0048468	cell development	89	0.51	0.45	6.51	28.42
+GO:0006897	endocytosis	87	0.63	0.61	8.09	26.36
+GO:0050727	regulation of inflammatory response	86	0.53	0.59	7.40	31.59
+GO:0060627	regulation of vesicle-mediated transport	80	0.48	0.53	6.81	26.12
+GO:0009117	nucleotide metabolic process	62	0.44	0.57	7.31	170.44
+GO:0045862	positive regulation of proteolysis	59	0.61	0.68	8.73	336.28
+GO:0071222	cellular response to lipopolysaccharide	55	1.00	0.82	9.63	238.00
+GO:0050714	positive regulation of protein secretion	54	0.65	0.70	8.73	381.48
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0048545	response to steroid hormone	48	0.69	0.64	8.94	60.25
+GO:0042542	response to hydrogen peroxide	33	0.93	0.76	9.54	79.29
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0032091	negative regulation of protein binding	21	0.70	0.64	8.48	32.72
+GO:0051494	negative regulation of cytoskeleton organization	21	0.63	0.67	8.36	90.97
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	19	1.00	0.93	9.63	628.11
+GO:0030501	positive regulation of bone mineralization	7	0.93	0.82	9.56	171.86
+GO:0032495	response to muramyl dipeptide	7	0.89	0.77	9.43	59.67
+GO:0097067	cellular response to thyroid hormone stimulus	7	0.89	0.77	9.49	110.48
+GO:0045780	positive regulation of bone resorption	7	1.00	0.85	9.63	82.90
+GO:0046697	decidualization	7	1.00	0.75	9.63	34.68
+GO:1903077	negative regulation of protein localization to plasma membrane	6	0.84	0.80	9.49	218.53
+GO:0002456	T cell mediated immunity	6	0.76	0.67	9.12	29.49
+GO:0072080	nephron tubule development	5	0.68	0.69	8.69	55.57
+GO:1900025	negative regulation of substrate adhesion-dependent cell spreading	4	1.00	0.88	9.63	367.37
+GO:0071498	cellular response to fluid shear stress	4	0.80	0.65	9.27	39.93
+GO:0009247	glycolipid biosynthetic process	3	0.67	0.68	8.81	239.47
+GO:0097187	dentinogenesis	3	1.00	0.82	9.63	26.74
+GO:0090191	negative regulation of branching involved in ureteric bud morphogenesis	2	0.89	0.82	9.58	298.27
+GO:1900028	negative regulation of ruffle assembly	2	1.00	0.90	9.63	173.85
+GO:0032849	positive regulation of cellular pH reduction	2	0.93	0.91	9.59	185.54
+GO:0030311	poly-N-acetyllactosamine biosynthetic process	1	1.00	0.85	9.63	809.98
+GO:0034241	positive regulation of macrophage fusion	1	1.00	0.85	9.63	142.41
+GO:0071233	cellular response to leucine	1	1.00	0.85	9.63	346.49
+GO:2001150	positive regulation of dipeptide transmembrane transport	1	1.00	0.90	9.63	149.55
+GO:0060675	ureteric bud morphogenesis	1	1.00	0.90	9.63	52.20
+GO:0019322	pentose biosynthetic process	1	0.83	0.74	9.36	135.42
+GO:0019521	D-gluconate metabolic process	1	0.89	0.82	9.49	93.15
+GO:1990253	cellular response to leucine starvation	1	1.00	0.88	9.63	117.00

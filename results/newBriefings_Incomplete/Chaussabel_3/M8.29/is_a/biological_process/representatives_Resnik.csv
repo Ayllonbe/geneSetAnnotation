@@ -1,0 +1,55 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010637	negative regulation of mitochondrial fusion	2	1.00	0.88	9.63	158.54
+GO:0048522	positive regulation of cellular process	1530	0.24	0.37	3.90	23.85
+GO:0051179	localization	1411	0.26	0.13	2.57	3.37
+GO:0051252	regulation of RNA metabolic process	1238	0.37	0.51	6.06	70.58
+GO:0006355	regulation of transcription, DNA-templated	1154	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	909	0.33	0.45	5.35	37.59
+GO:0009628	response to abiotic stimulus	257	0.46	0.35	5.43	6.14
+GO:0006950	response to stress	798	0.39	0.32	4.70	6.14
+GO:0006351	transcription, DNA-templated	763	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	704	0.39	0.39	5.17	14.95
+GO:0002376	immune system process	650	0.38	0.19	3.93	3.37
+GO:0043933	protein-containing complex subunit organization	632	0.43	0.41	5.44	14.95
+GO:0031399	regulation of protein modification process	570	0.41	0.56	6.69	72.96
+GO:1902531	regulation of intracellular signal transduction	563	0.45	0.55	6.77	41.85
+GO:0010941	regulation of cell death	490	0.43	0.47	6.10	12.04
+GO:0030154	cell differentiation	401	0.39	0.39	5.18	16.68
+GO:0070647	protein modification by small protein conjugation or removal	340	0.61	0.66	8.44	151.15
+GO:0044265	cellular macromolecule catabolic process	303	0.55	0.56	7.70	100.33
+GO:0006396	RNA processing	269	0.49	0.60	7.48	115.08
+GO:0042795	snRNA transcription by RNA polymerase II	37	1.00	0.95	9.63	1410.65
+GO:0000122	negative regulation of transcription by RNA polymerase II	277	0.61	0.74	8.79	1836.95
+GO:0019221	cytokine-mediated signaling pathway	227	0.60	0.63	7.60	26.50
+GO:0008285	negative regulation of cell proliferation	219	0.56	0.57	7.31	43.61
+GO:0019725	cellular homeostasis	218	0.53	0.52	6.93	17.82
+GO:0034220	ion transmembrane transport	214	0.45	0.51	6.18	26.33
+GO:0030335	positive regulation of cell migration	161	0.58	0.64	8.22	157.26
+GO:0043687	post-translational protein modification	126	0.65	0.67	8.51	151.15
+GO:0006518	peptide metabolic process	119	0.56	0.57	7.65	56.97
+GO:0010035	response to inorganic substance	115	0.53	0.47	6.60	9.28
+GO:0097190	apoptotic signaling pathway	113	0.70	0.64	8.53	23.17
+GO:0007005	mitochondrion organization	83	0.62	0.56	7.74	18.35
+GO:0006352	DNA-templated transcription, initiation	77	0.83	0.79	9.45	475.54
+GO:0022900	electron transport chain	70	0.71	0.61	8.48	29.76
+GO:0042391	regulation of membrane potential	61	0.52	0.46	6.44	8.64
+GO:0046034	ATP metabolic process	41	0.65	0.74	9.11	1262.34
+GO:0070125	mitochondrial translational elongation	40	1.00	0.85	9.63	106.95
+GO:1904064	positive regulation of cation transmembrane transport	36	0.60	0.68	8.21	171.07
+GO:0006368	transcription elongation from RNA polymerase II promoter	28	1.00	0.90	9.63	477.15
+GO:0032781	positive regulation of ATPase activity	21	0.75	0.70	8.78	51.42
+GO:0008543	fibroblast growth factor receptor signaling pathway	20	0.71	0.73	8.57	31.00
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	20	0.68	0.71	8.88	231.14
+GO:0045815	positive regulation of gene expression, epigenetic	19	0.78	0.74	9.08	79.85
+GO:0051402	neuron apoptotic process	19	0.83	0.70	9.02	23.44
+GO:2000378	negative regulation of reactive oxygen species metabolic process	18	0.78	0.71	9.25	113.13
+GO:0006383	transcription by RNA polymerase III	18	0.84	0.84	9.50	583.88
+GO:0060964	regulation of gene silencing by miRNA	17	0.74	0.74	9.16	63.20
+GO:0006363	termination of RNA polymerase I transcription	17	1.00	0.90	9.63	477.15
+GO:0006356	regulation of transcription by RNA polymerase I	13	0.75	0.79	9.31	248.57
+GO:0031497	chromatin assembly	12	0.76	0.67	8.80	37.86
+GO:1903077	negative regulation of protein localization to plasma membrane	8	0.84	0.80	9.49	218.53
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	8	0.93	0.86	9.57	68.47
+GO:0048742	regulation of skeletal muscle fiber development	3	0.89	0.82	9.51	107.10
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
+GO:1903715	regulation of aerobic respiration	2	1.00	0.85	9.63	31.21

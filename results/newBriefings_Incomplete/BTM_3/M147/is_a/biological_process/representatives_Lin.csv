@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1382	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	967	0.21	0.30	3.05	7.96
+GO:0031323	regulation of cellular metabolic process	773	0.22	0.36	4.01	22.77
+GO:0031323	regulation of cellular metabolic process	773	0.22	0.36	4.01	22.77
+GO:0051179	localization	694	0.26	0.13	2.57	3.37
+GO:0016043	cellular component organization	629	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	556	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	479	0.35	0.30	4.36	13.53
+GO:0009605	response to external stimulus	305	0.37	0.31	4.62	6.14
+GO:0006950	response to stress	459	0.39	0.32	4.70	6.14
+GO:0006355	regulation of transcription, DNA-templated	426	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	341	0.34	0.49	5.84	147.03
+GO:0006464	cellular protein modification process	341	0.34	0.49	5.84	147.03
+GO:0016192	vesicle-mediated transport	332	0.52	0.51	6.57	10.99
+GO:0051049	regulation of transport	327	0.31	0.40	4.67	10.45
+GO:0010941	regulation of cell death	317	0.43	0.47	6.10	12.04
+GO:0035556	intracellular signal transduction	298	0.51	0.55	6.92	23.17
+GO:0016070	RNA metabolic process	269	0.39	0.52	6.45	112.25
+GO:0042592	homeostatic process	237	0.45	0.42	5.70	8.64
+GO:0009725	response to hormone	149	0.53	0.51	7.03	21.86
+GO:0007167	enzyme linked receptor protein signaling pathway	141	0.53	0.59	7.04	26.50
+GO:0006259	DNA metabolic process	112	0.45	0.55	7.12	145.26
+GO:0080135	regulation of cellular response to stress	102	0.46	0.52	6.64	26.18
+GO:0048513	animal organ development	101	0.50	0.45	5.88	11.73
+GO:0051276	chromosome organization	84	0.55	0.52	6.96	18.35
+GO:0046486	glycerolipid metabolic process	61	0.56	0.57	7.56	40.66
+GO:0006325	chromatin organization	55	0.49	0.44	6.23	14.95
+GO:0051603	proteolysis involved in cellular protein catabolic process	54	0.65	0.65	8.27	49.65
+GO:0002821	positive regulation of adaptive immune response	47	0.62	0.63	8.31	108.81
+GO:0070925	organelle assembly	44	0.61	0.55	7.53	37.31
+GO:0009888	tissue development	42	0.47	0.44	5.74	11.73
+GO:0051656	establishment of organelle localization	39	0.54	0.52	6.99	18.16
+GO:0071478	cellular response to radiation	30	0.67	0.63	8.53	36.92
+GO:0030308	negative regulation of cell growth	29	0.69	0.67	8.67	80.89
+GO:0046822	regulation of nucleocytoplasmic transport	28	0.65	0.65	8.53	30.75
+GO:0001938	positive regulation of endothelial cell proliferation	25	0.89	0.80	9.46	87.31
+GO:0045598	regulation of fat cell differentiation	24	0.83	0.70	9.34	27.05
+GO:0006813	potassium ion transport	23	0.80	0.75	9.31	34.17
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	23	1.00	0.88	9.63	238.42
+GO:0007568	aging	21	0.72	0.48	7.76	6.46
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	20	0.93	0.91	9.59	279.62
+GO:0010921	regulation of phosphatase activity	19	0.65	0.70	8.68	45.36
+GO:0032984	protein-containing complex disassembly	19	0.61	0.55	7.66	35.41
+GO:0048511	rhythmic process	18	0.62	0.31	5.94	3.37
+GO:0016241	regulation of macroautophagy	14	0.67	0.69	8.61	45.30
+GO:0006914	autophagy	13	0.67	0.59	8.40	37.75
+GO:0022008	neurogenesis	12	0.87	0.68	9.29	21.07
+GO:0030225	macrophage differentiation	8	0.93	0.79	9.51	47.07
+GO:0030301	cholesterol transport	8	0.78	0.74	9.00	37.85
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0006999	nuclear pore organization	7	0.89	0.74	9.49	38.43
+GO:0051152	positive regulation of smooth muscle cell differentiation	7	0.81	0.76	9.30	145.29
+GO:0034629	cellular protein-containing complex localization	6	0.70	0.64	8.62	38.21
+GO:0010875	positive regulation of cholesterol efflux	5	1.00	0.90	9.63	184.01
+GO:2000479	regulation of cAMP-dependent protein kinase activity	5	0.89	0.88	9.54	163.71
+GO:0045348	positive regulation of MHC class II biosynthetic process	4	1.00	0.85	9.63	147.29
+GO:0032071	regulation of endodeoxyribonuclease activity	4	0.74	0.75	9.31	159.39
+GO:0046628	positive regulation of insulin receptor signaling pathway	4	0.89	0.80	9.52	293.60
+GO:0050872	white fat cell differentiation	3	0.93	0.76	9.47	21.76
+GO:0065002	intracellular protein transmembrane transport	3	0.78	0.78	9.22	167.44
+GO:0051097	negative regulation of helicase activity	3	0.87	0.76	9.43	49.94
+GO:0032288	myelin assembly	3	0.89	0.74	9.41	32.85
+GO:0035358	regulation of peroxisome proliferator activated receptor signaling pathway	2	0.89	0.77	9.41	41.85
+GO:0048268	clathrin coat assembly	2	0.84	0.74	9.31	44.52
+GO:0060766	negative regulation of androgen receptor signaling pathway	2	0.93	0.84	9.57	234.24
+GO:1904179	positive regulation of adipose tissue development	2	1.00	0.82	9.63	84.16
+GO:0045900	negative regulation of translational elongation	1	0.83	0.81	9.52	1334.68
+GO:0033210	leptin-mediated signaling pathway	1	0.93	0.82	9.51	30.19
+GO:2000655	negative regulation of cellular response to testosterone stimulus	1	1.00	0.79	9.63	79.37
+GO:0019076	viral release from host cell	1	0.84	0.77	9.39	33.81
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64

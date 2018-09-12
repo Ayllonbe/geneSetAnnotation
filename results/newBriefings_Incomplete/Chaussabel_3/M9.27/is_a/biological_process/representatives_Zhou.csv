@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0030217	T cell differentiation	18	0.66	0.65	8.68	65.05
+GO:0006914	autophagy	46	0.67	0.59	8.40	37.75
+GO:0007597	blood coagulation, intrinsic pathway	3	1.00	0.82	9.63	55.79
+GO:0009987	cellular process	1830	0.09	0.05	0.84	3.37
+GO:0030217	T cell differentiation	18	0.66	0.65	8.68	65.05
+GO:0006914	autophagy	46	0.67	0.59	8.40	37.75
+GO:0007597	blood coagulation, intrinsic pathway	3	1.00	0.82	9.63	55.79
+GO:0009987	cellular process	1830	0.09	0.05	0.84	3.37
+GO:0030838	positive regulation of actin filament polymerization	16	0.79	0.83	9.46	459.93
+GO:0050801	ion homeostasis	73	0.50	0.54	6.88	13.14
+GO:0050789	regulation of biological process	1428	0.09	0.17	1.80	4.47
+GO:0051336	regulation of hydrolase activity	195	0.46	0.48	6.24	9.25
+GO:0030838	positive regulation of actin filament polymerization	16	0.79	0.83	9.46	459.93
+GO:0050801	ion homeostasis	73	0.50	0.54	6.88	13.14
+GO:0050789	regulation of biological process	1428	0.09	0.17	1.80	4.47
+GO:0051336	regulation of hydrolase activity	195	0.46	0.48	6.24	9.25
+GO:0033036	macromolecule localization	312	0.39	0.32	4.60	5.67
+GO:0006810	transport	602	0.28	0.34	3.95	7.46
+GO:0051641	cellular localization	378	0.37	0.31	4.44	5.67
+GO:0006810	transport	602	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	316	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	378	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	363	0.22	0.11	1.89	3.37

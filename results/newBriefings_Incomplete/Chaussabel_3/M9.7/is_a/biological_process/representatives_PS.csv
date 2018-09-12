@@ -1,0 +1,44 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032092	positive regulation of protein binding	35	0.71	0.64	8.53	32.71
+GO:0045429	positive regulation of nitric oxide biosynthetic process	10	1.00	0.88	9.63	658.64
+GO:0050801	ion homeostasis	183	0.50	0.54	6.88	13.14
+GO:0050789	regulation of biological process	2817	0.09	0.17	1.80	4.47
+GO:1901360	organic cyclic compound metabolic process	1370	0.24	0.32	3.54	10.22
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:1901564	organonitrogen compound metabolic process	1465	0.23	0.31	3.63	19.40
+GO:1901360	organic cyclic compound metabolic process	1370	0.24	0.32	3.54	10.22
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:1901564	organonitrogen compound metabolic process	1465	0.23	0.31	3.63	19.40
+GO:0050880	regulation of blood vessel size	35	0.63	0.61	8.30	24.53
+GO:0016043	cellular component organization	1309	0.28	0.26	3.74	11.45
+GO:0050880	regulation of blood vessel size	35	0.63	0.61	8.30	24.53
+GO:0016043	cellular component organization	1309	0.28	0.26	3.74	11.45
+GO:0030072	peptide hormone secretion	12	0.70	0.72	8.94	100.51
+GO:0006810	transport	1148	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	300	0.45	0.48	6.33	26.83
+GO:0033554	cellular response to stress	497	0.44	0.42	6.05	25.47
+GO:0042221	response to chemical	626	0.32	0.29	4.12	6.14
+GO:0071456	cellular response to hypoxia	37	1.00	0.82	9.63	103.25
+GO:0002376	immune system process	598	0.38	0.19	3.93	3.37
+GO:0048869	cellular developmental process	580	0.32	0.29	4.16	13.85
+GO:0048856	anatomical structure development	340	0.33	0.29	3.70	6.46
+GO:0032501	multicellular organismal process	310	0.33	0.16	3.12	3.37
+GO:0016055	Wnt signaling pathway	85	0.59	0.65	7.65	28.58
+GO:0060271	cilium assembly	52	0.87	0.76	9.41	137.68
+GO:0019722	calcium-mediated signaling	40	0.72	0.71	8.71	27.81
+GO:0000281	mitotic cytokinesis	28	0.93	0.76	9.47	28.62
+GO:0048704	embryonic skeletal system morphogenesis	22	0.87	0.72	9.38	45.49
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	22	0.83	0.79	9.19	31.00
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	20	0.89	0.80	9.45	80.05
+GO:0008286	insulin receptor signaling pathway	18	0.87	0.81	9.34	31.00
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	10	0.79	0.77	9.12	28.36
+GO:0014065	phosphatidylinositol 3-kinase signaling	8	1.00	0.88	9.63	26.43
+GO:0048016	inositol phosphate-mediated signaling	8	0.93	0.82	9.51	27.81
+GO:0034063	stress granule assembly	8	1.00	0.85	9.63	107.30
+GO:0000921	septin ring assembly	4	1.00	0.85	9.63	107.16
+GO:0034374	low-density lipoprotein particle remodeling	4	1.00	0.85	9.63	83.38
+GO:0034375	high-density lipoprotein particle remodeling	4	0.93	0.82	9.55	83.38
+GO:0060982	coronary artery morphogenesis	3	1.00	0.82	9.63	32.54
+GO:0034372	very-low-density lipoprotein particle remodeling	3	1.00	0.88	9.63	84.48
+GO:0001946	lymphangiogenesis	3	1.00	0.70	9.63	22.06
+GO:0070898	RNA polymerase III transcriptional preinitiation complex assembly	2	1.00	0.88	9.63	67.29

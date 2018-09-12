@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0003008	system process	71	0.44	0.35	5.06	7.59
+GO:0008152	metabolic process	822	0.15	0.07	1.52	3.37
+GO:0009987	cellular process	1448	0.09	0.05	0.84	3.37
+GO:0060298	positive regulation of sarcomere organization	1	1.00	0.92	9.63	726.92
+GO:0030195	negative regulation of blood coagulation	13	0.78	0.76	9.39	250.95
+GO:0050789	regulation of biological process	1195	0.09	0.17	1.80	4.47
+GO:0006885	regulation of pH	14	0.70	0.72	8.99	35.59
+GO:0060298	positive regulation of sarcomere organization	1	1.00	0.92	9.63	726.92
+GO:0030195	negative regulation of blood coagulation	13	0.78	0.76	9.39	250.95
+GO:0050789	regulation of biological process	1195	0.09	0.17	1.80	4.47
+GO:0006885	regulation of pH	14	0.70	0.72	8.99	35.59
+GO:0006810	transport	536	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	432	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	167	0.33	0.16	3.12	3.37
+GO:0001666	response to hypoxia	51	0.81	0.70	9.12	21.16
+GO:0042221	response to chemical	391	0.32	0.29	4.12	6.14
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	20	1.00	0.82	9.63	44.28

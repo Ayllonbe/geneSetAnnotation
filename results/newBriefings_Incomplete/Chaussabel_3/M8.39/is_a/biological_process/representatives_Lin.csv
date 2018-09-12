@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2529	0.08	0.04	0.98	3.37
+GO:0044260	cellular macromolecule metabolic process	1497	0.28	0.39	4.44	30.44
+GO:1901564	organonitrogen compound metabolic process	1243	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	1190	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	1059	0.35	0.46	5.09	13.73
+GO:0045861	negative regulation of proteolysis	92	0.61	0.68	8.71	337.18
+GO:0016043	cellular component organization	1077	0.28	0.26	3.74	11.45
+GO:0030195	negative regulation of blood coagulation	16	0.78	0.76	9.39	250.95
+GO:0009966	regulation of signal transduction	700	0.33	0.45	5.35	37.59
+GO:0030195	negative regulation of blood coagulation	16	0.78	0.76	9.39	250.95
+GO:0009966	regulation of signal transduction	700	0.33	0.45	5.35	37.59
+GO:0009605	response to external stimulus	319	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	550	0.32	0.29	4.12	6.14
+GO:0051128	regulation of cellular component organization	629	0.30	0.40	4.57	12.04
+GO:0032879	regulation of localization	600	0.27	0.33	4.05	7.96
+GO:0022607	cellular component assembly	576	0.39	0.39	5.06	14.95
+GO:0051641	cellular localization	566	0.37	0.31	4.44	5.67
+GO:0007166	cell surface receptor signaling pathway	528	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	433	0.51	0.55	6.92	23.17
+GO:0045595	regulation of cell differentiation	383	0.34	0.42	5.25	23.33
+GO:0009967	positive regulation of signal transduction	378	0.44	0.54	6.71	140.23
+GO:0042127	regulation of cell proliferation	329	0.45	0.48	6.03	12.04
+GO:0051726	regulation of cell cycle	286	0.41	0.45	5.89	12.04
+GO:0051704	multi-organism process	247	0.29	0.15	3.12	3.37
+GO:0040012	regulation of locomotion	221	0.43	0.41	5.73	7.96
+GO:0007010	cytoskeleton organization	206	0.52	0.51	6.76	18.35
+GO:0045055	regulated exocytosis	203	0.69	0.69	8.57	38.47
+GO:0006928	movement of cell or subcellular component	203	0.42	0.33	4.88	7.39
+GO:0007186	G-protein coupled receptor signaling pathway	163	0.55	0.57	7.20	23.17
+GO:0017144	drug metabolic process	135	0.37	0.38	5.07	17.52
+GO:0061024	membrane organization	125	0.47	0.43	6.06	14.95
+GO:0001819	positive regulation of cytokine production	116	0.51	0.54	6.97	44.26
+GO:0003008	system process	97	0.44	0.35	5.06	7.59
+GO:0022900	electron transport chain	45	0.71	0.61	8.48	29.76
+GO:0048167	regulation of synaptic plasticity	40	0.67	0.69	8.57	39.26
+GO:0072376	protein activation cascade	24	0.75	0.67	8.88	54.00
+GO:0007569	cell aging	15	0.80	0.60	8.94	24.75
+GO:0043392	negative regulation of DNA binding	13	0.76	0.67	8.87	32.53
+GO:0048675	axon extension	12	0.89	0.74	9.43	51.99
+GO:0042135	neurotransmitter catabolic process	6	0.72	0.65	8.80	61.24
+GO:0043567	regulation of insulin-like growth factor receptor signaling pathway	5	0.89	0.77	9.41	41.85
+GO:0048741	skeletal muscle fiber development	4	1.00	0.85	9.63	69.28
+GO:0016486	peptide hormone processing	4	0.80	0.75	9.33	182.78
+GO:0045964	positive regulation of dopamine metabolic process	3	0.93	0.84	9.57	287.85
+GO:0007354	zygotic determination of anterior/posterior axis, embryo	1	1.00	0.82	9.63	41.02
+GO:0002882	positive regulation of chronic inflammatory response to non-antigenic stimulus	1	1.00	0.90	9.63	201.20

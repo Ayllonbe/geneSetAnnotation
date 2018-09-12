@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	581	0.43	0.51	5.91	23.17
+GO:0051716	cellular response to stimulus	508	0.35	0.30	4.36	13.53
+GO:0006950	response to stress	485	0.39	0.32	4.70	6.14
+GO:0006357	regulation of transcription by RNA polymerase II	326	0.44	0.63	7.11	248.57
+GO:0045321	leukocyte activation	314	0.52	0.46	6.78	16.27
+GO:0042981	regulation of apoptotic process	310	0.45	0.55	6.60	16.23
+GO:0001932	regulation of protein phosphorylation	294	0.50	0.62	7.64	109.03
+GO:0006351	transcription, DNA-templated	217	0.57	0.68	8.45	581.39
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0051272	positive regulation of cellular component movement	151	0.55	0.56	7.38	52.23
+GO:0045580	regulation of T cell differentiation	48	0.60	0.67	8.66	131.17
+GO:0051251	positive regulation of lymphocyte activation	127	0.58	0.64	8.19	127.58
+GO:0010469	regulation of signaling receptor activity	126	0.59	0.62	7.95	48.62
+GO:0050727	regulation of inflammatory response	111	0.53	0.59	7.40	31.59
+GO:0006886	intracellular protein transport	76	0.55	0.65	8.12	90.55
+GO:0050707	regulation of cytokine secretion	67	0.59	0.67	8.36	114.42
+GO:0030036	actin cytoskeleton organization	62	0.63	0.61	8.05	29.61
+GO:0006898	receptor-mediated endocytosis	61	0.68	0.66	8.48	28.44
+GO:0000902	cell morphogenesis	58	0.63	0.56	7.92	43.26
+GO:0050777	negative regulation of immune response	47	0.52	0.55	7.29	78.83
+GO:0045666	positive regulation of neuron differentiation	43	0.62	0.68	8.71	337.32
+GO:0002224	toll-like receptor signaling pathway	33	0.68	0.77	9.04	409.66
+GO:0030308	negative regulation of cell growth	32	0.69	0.67	8.67	80.89
+GO:0042108	positive regulation of cytokine biosynthetic process	29	0.63	0.67	8.76	609.34
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	28	0.62	0.56	7.74	16.14
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0007266	Rho protein signal transduction	19	0.93	0.84	9.52	29.61
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0010955	negative regulation of protein processing	14	0.72	0.76	9.28	707.20
+GO:0015914	phospholipid transport	10	0.78	0.74	9.04	67.00
+GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
+GO:0001953	negative regulation of cell-matrix adhesion	8	0.87	0.78	9.39	66.96
+GO:0048821	erythrocyte development	7	0.89	0.74	9.38	33.54
+GO:2000773	negative regulation of cellular senescence	7	1.00	0.85	9.63	164.43
+GO:0002634	regulation of germinal center formation	5	0.89	0.80	9.45	44.48
+GO:0045746	negative regulation of Notch signaling pathway	4	0.93	0.82	9.56	188.11
+GO:0035024	negative regulation of Rho protein signal transduction	4	1.00	0.92	9.63	340.00
+GO:0006656	phosphatidylcholine biosynthetic process	4	0.80	0.77	9.40	749.29
+GO:0018279	protein N-linked glycosylation via asparagine	4	0.87	0.83	9.49	334.83
+GO:2000660	negative regulation of interleukin-1-mediated signaling pathway	3	1.00	0.88	9.63	306.27
+GO:0019371	cyclooxygenase pathway	3	1.00	0.92	9.63	253.27
+GO:0031065	positive regulation of histone deacetylation	3	0.89	0.86	9.57	1219.90
+GO:0048305	immunoglobulin secretion	2	0.93	0.86	9.57	133.33
+GO:0034395	regulation of transcription from RNA polymerase II promoter in response to iron	2	0.89	0.88	9.53	252.65
+GO:1903988	ferrous iron export across plasma membrane	1	1.00	0.93	9.63	235.31
+GO:1903464	negative regulation of mitotic cell cycle DNA replication	1	0.89	0.88	9.58	1479.21

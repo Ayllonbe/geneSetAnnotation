@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1279	0.16	0.21	2.71	13.80
+GO:0019222	regulation of metabolic process	931	0.21	0.30	3.39	7.96
+GO:0006355	regulation of transcription, DNA-templated	514	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	503	0.39	0.52	6.45	112.25
+GO:0009966	regulation of signal transduction	404	0.33	0.45	5.35	37.59
+GO:0006357	regulation of transcription by RNA polymerase II	360	0.44	0.63	7.11	248.57
+GO:0032879	regulation of localization	356	0.27	0.33	4.05	7.96
+GO:0006351	transcription, DNA-templated	344	0.57	0.68	8.45	581.39
+GO:0071705	nitrogen compound transport	312	0.36	0.43	4.99	10.99
+GO:0071702	organic substance transport	336	0.33	0.41	4.62	10.99
+GO:0065008	regulation of biological quality	335	0.28	0.26	3.48	4.47
+GO:0006793	phosphorus metabolic process	311	0.34	0.37	4.88	17.52
+GO:0010033	response to organic substance	269	0.35	0.37	4.75	9.28
+GO:0070887	cellular response to chemical stimulus	237	0.40	0.40	5.31	25.21
+GO:0010628	positive regulation of gene expression	277	0.47	0.56	6.67	58.80
+GO:0016192	vesicle-mediated transport	276	0.52	0.51	6.57	10.99
+GO:0033554	cellular response to stress	267	0.44	0.42	6.05	25.47
+GO:0044248	cellular catabolic process	266	0.31	0.36	4.57	26.23
+GO:0035556	intracellular signal transduction	261	0.51	0.55	6.92	23.17
+GO:0065003	protein-containing complex assembly	252	0.45	0.48	6.06	36.47
+GO:0019220	regulation of phosphate metabolic process	250	0.41	0.53	6.26	28.98
+GO:0080134	regulation of response to stress	228	0.35	0.42	5.03	11.65
+GO:0010647	positive regulation of cell communication	224	0.42	0.50	5.88	43.28
+GO:0042981	regulation of apoptotic process	217	0.45	0.55	6.60	16.23
+GO:0033043	regulation of organelle organization	216	0.36	0.47	5.49	15.89
+GO:0051240	positive regulation of multicellular organismal process	212	0.35	0.42	4.98	23.60
+GO:0051726	regulation of cell cycle	182	0.41	0.45	5.89	12.04
+GO:0030154	cell differentiation	182	0.39	0.39	5.18	16.68
+GO:0045892	negative regulation of transcription, DNA-templated	171	0.56	0.69	8.52	1581.26
+GO:0009968	negative regulation of signal transduction	170	0.44	0.54	6.68	140.65
+GO:0070647	protein modification by small protein conjugation or removal	158	0.61	0.66	8.44	151.15
+GO:0001915	negative regulation of T cell mediated cytotoxicity	1	0.89	0.84	9.56	365.56
+GO:0002684	positive regulation of immune system process	156	0.41	0.45	5.71	22.61
+GO:0070727	cellular macromolecule localization	152	0.45	0.42	5.88	15.33
+GO:0045321	leukocyte activation	145	0.52	0.46	6.78	16.27
+GO:0008284	positive regulation of cell proliferation	117	0.56	0.57	7.27	43.45
+GO:0006928	movement of cell or subcellular component	110	0.42	0.33	4.88	7.39
+GO:0006952	defense response	108	0.56	0.48	6.67	9.54
+GO:0006366	transcription by RNA polymerase II	107	0.60	0.72	8.61	583.88
+GO:0019221	cytokine-mediated signaling pathway	94	0.60	0.63	7.60	26.50
+GO:0007017	microtubule-based process	91	0.49	0.37	5.66	7.39
+GO:0032989	cellular component morphogenesis	62	0.56	0.48	7.27	42.57
+GO:0048598	embryonic morphogenesis	21	0.54	0.47	6.15	10.94
+GO:0040008	regulation of growth	77	0.48	0.44	6.04	7.96
+GO:0030335	positive regulation of cell migration	75	0.58	0.64	8.22	157.26
+GO:0051052	regulation of DNA metabolic process	69	0.47	0.56	7.17	70.58
+GO:0043687	post-translational protein modification	63	0.65	0.67	8.51	151.15
+GO:0048513	animal organ development	60	0.50	0.45	5.88	11.73
+GO:0044057	regulation of system process	55	0.41	0.46	5.70	11.79
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	53	0.61	0.63	8.36	112.25
+GO:0120036	plasma membrane bounded cell projection organization	46	0.58	0.54	7.33	16.56
+GO:0032535	regulation of cellular component size	46	0.60	0.55	7.84	25.54
+GO:0051091	positive regulation of DNA binding transcription factor activity	41	0.81	0.84	9.43	277.83
+GO:0016055	Wnt signaling pathway	38	0.59	0.65	7.65	28.58
+GO:0016072	rRNA metabolic process	34	0.61	0.68	8.41	117.72
+GO:0008360	regulation of cell shape	31	0.68	0.66	8.69	41.78
+GO:0010811	positive regulation of cell-substrate adhesion	21	0.80	0.69	9.01	35.31
+GO:0031397	negative regulation of protein ubiquitination	18	0.75	0.79	9.37	529.46
+GO:0006363	termination of RNA polymerase I transcription	9	1.00	0.90	9.63	477.15
+GO:0006361	transcription initiation from RNA polymerase I promoter	9	1.00	0.90	9.63	477.15
+GO:0030520	intracellular estrogen receptor signaling pathway	7	1.00	0.88	9.63	54.01
+GO:0031663	lipopolysaccharide-mediated signaling pathway	6	1.00	0.82	9.63	26.50
+GO:0043457	regulation of cellular respiration	4	0.66	0.65	8.32	28.73
+GO:0030509	BMP signaling pathway	4	0.71	0.79	9.13	282.55
+GO:0048747	muscle fiber development	3	0.89	0.77	9.41	33.94
+GO:0007597	blood coagulation, intrinsic pathway	3	1.00	0.82	9.63	55.79
+GO:0051151	negative regulation of smooth muscle cell differentiation	2	0.81	0.76	9.30	145.65
+GO:1900275	negative regulation of phospholipase C activity	2	1.00	0.88	9.63	83.36
+GO:0017126	nucleologenesis	1	1.00	0.82	9.63	27.97
+GO:2001031	positive regulation of cellular glucuronidation	1	1.00	0.88	9.63	308.84

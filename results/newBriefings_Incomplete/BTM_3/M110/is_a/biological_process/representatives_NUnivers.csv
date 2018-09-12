@@ -1,0 +1,83 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	870	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	599	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	474	0.32	0.29	4.16	13.85
+GO:0050776	regulation of immune response	354	0.38	0.44	5.64	22.45
+GO:0009967	positive regulation of signal transduction	342	0.44	0.54	6.71	140.23
+GO:1902618	cellular response to fluoride	1	1.00	0.79	9.63	70.21
+GO:0071310	cellular response to organic substance	324	0.44	0.47	5.95	41.66
+GO:0008284	positive regulation of cell proliferation	269	0.56	0.57	7.27	43.45
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0006887	exocytosis	247	0.67	0.66	8.38	37.08
+GO:0001934	positive regulation of protein phosphorylation	222	0.58	0.69	8.60	663.11
+GO:0030334	regulation of cell migration	220	0.48	0.56	7.11	36.74
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:0016477	cell migration	211	0.47	0.48	6.31	17.13
+GO:0010243	response to organonitrogen compound	185	0.45	0.48	6.23	25.43
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0045087	innate immune response	169	0.68	0.59	8.16	26.47
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0009725	response to hormone	158	0.53	0.51	7.03	21.86
+GO:0030335	positive regulation of cell migration	147	0.58	0.64	8.22	157.26
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0007010	cytoskeleton organization	131	0.52	0.51	6.76	18.35
+GO:0060627	regulation of vesicle-mediated transport	99	0.48	0.53	6.81	26.12
+GO:0032989	cellular component morphogenesis	98	0.56	0.48	7.27	42.57
+GO:0070372	regulation of ERK1 and ERK2 cascade	89	0.87	0.85	9.54	158.99
+GO:0022604	regulation of cell morphogenesis	85	0.53	0.56	7.35	31.06
+GO:0051259	protein complex oligomerization	83	0.78	0.68	9.09	40.42
+GO:0007162	negative regulation of cell adhesion	81	0.57	0.57	7.40	38.27
+GO:0050714	positive regulation of protein secretion	72	0.65	0.70	8.73	381.48
+GO:0032956	regulation of actin cytoskeleton organization	70	0.56	0.63	7.72	34.12
+GO:0050769	positive regulation of neurogenesis	66	0.58	0.64	8.42	270.71
+GO:0030336	negative regulation of cell migration	63	0.58	0.64	8.21	158.04
+GO:0033365	protein localization to organelle	62	0.50	0.54	7.01	29.83
+GO:0045766	positive regulation of angiogenesis	52	0.81	0.76	9.30	134.49
+GO:0042542	response to hydrogen peroxide	39	0.93	0.76	9.54	79.29
+GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	33	0.84	0.82	9.51	358.68
+GO:0010977	negative regulation of neuron projection development	31	0.68	0.73	9.14	494.13
+GO:0045667	regulation of osteoblast differentiation	28	0.83	0.70	9.41	40.23
+GO:0001701	in utero embryonic development	26	1.00	0.85	9.63	22.50
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	24	1.00	0.92	9.63	384.64
+GO:0071230	cellular response to amino acid stimulus	21	0.71	0.68	8.96	283.90
+GO:0071260	cellular response to mechanical stimulus	20	1.00	0.79	9.63	56.12
+GO:0031175	neuron projection development	19	0.68	0.63	8.33	18.96
+GO:0000281	mitotic cytokinesis	18	0.93	0.76	9.47	28.62
+GO:2000060	positive regulation of ubiquitin-dependent protein catabolic process	17	0.81	0.82	9.48	1661.59
+GO:0010718	positive regulation of epithelial to mesenchymal transition	16	0.81	0.73	9.38	170.70
+GO:0030199	collagen fibril organization	15	1.00	0.79	9.63	53.96
+GO:0071300	cellular response to retinoic acid	14	1.00	0.82	9.63	200.60
+GO:0051017	actin filament bundle assembly	14	0.79	0.72	9.14	39.79
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0001890	placenta development	11	1.00	0.75	9.63	49.87
+GO:0051893	regulation of focal adhesion assembly	10	0.89	0.80	9.47	59.48
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
+GO:0010507	negative regulation of autophagy	8	0.74	0.72	9.12	217.48
+GO:0010613	positive regulation of cardiac muscle hypertrophy	8	0.89	0.82	9.49	95.58
+GO:2000251	positive regulation of actin cytoskeleton reorganization	8	1.00	0.90	9.63	130.74
+GO:0051491	positive regulation of filopodium assembly	7	1.00	0.90	9.63	200.31
+GO:0051496	positive regulation of stress fiber assembly	6	1.00	0.93	9.63	365.07
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	6	1.00	0.93	9.63	645.24
+GO:0048843	negative regulation of axon extension involved in axon guidance	5	1.00	0.95	9.63	2931.02
+GO:1900026	positive regulation of substrate adhesion-dependent cell spreading	5	1.00	0.88	9.63	350.52
+GO:0055015	ventricular cardiac muscle cell development	4	1.00	0.85	9.63	69.56
+GO:0055003	cardiac myofibril assembly	4	0.89	0.82	9.51	125.46
+GO:0051894	positive regulation of focal adhesion assembly	4	1.00	0.88	9.63	280.50
+GO:0007097	nuclear migration	4	0.71	0.65	8.71	66.02
+GO:0032464	positive regulation of protein homooligomerization	3	0.93	0.84	9.56	175.26
+GO:0043297	apical junction assembly	3	1.00	0.82	9.63	56.14
+GO:0051964	negative regulation of synapse assembly	3	0.83	0.76	9.44	219.30
+GO:0046621	negative regulation of organ growth	3	0.81	0.73	9.36	146.93
+GO:1903225	negative regulation of endodermal cell differentiation	2	0.93	0.84	9.58	302.81
+GO:0060982	coronary artery morphogenesis	2	1.00	0.82	9.63	32.54
+GO:0006930	substrate-dependent cell migration, cell extension	2	1.00	0.82	9.63	58.57
+GO:1902669	positive regulation of axon guidance	2	0.81	0.84	9.51	1247.74
+GO:0061548	ganglion development	2	0.79	0.64	8.84	30.32
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:1904835	dorsal root ganglion morphogenesis	1	1.00	0.79	9.63	28.43
+GO:0106089	negative regulation of cell adhesion involved in sprouting angiogenesis	1	1.00	0.92	9.63	300.54
+GO:0071306	cellular response to vitamin E	1	1.00	0.88	9.63	314.08
+GO:0060301	positive regulation of cytokine activity	1	1.00	0.88	9.63	129.15
+GO:0150020	basal dendrite arborization	1	1.00	0.92	9.63	197.41
+GO:0021828	gonadotrophin-releasing hormone neuronal migration to the hypothalamus	1	1.00	0.93	9.63	88.97

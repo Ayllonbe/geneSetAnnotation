@@ -1,0 +1,62 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	1071	0.23	0.31	3.63	19.40
+GO:0006355	regulation of transcription, DNA-templated	756	0.40	0.60	6.84	245.35
+GO:0031325	positive regulation of cellular metabolic process	655	0.33	0.46	5.39	79.98
+GO:0031400	negative regulation of protein modification process	145	0.53	0.64	7.94	366.95
+GO:0060292	long term synaptic depression	2	1.00	0.88	9.63	145.81
+GO:0009966	regulation of signal transduction	599	0.33	0.45	5.35	37.59
+GO:0006357	regulation of transcription by RNA polymerase II	525	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	503	0.57	0.68	8.45	581.39
+GO:0051641	cellular localization	499	0.37	0.31	4.44	5.67
+GO:0042221	response to chemical	471	0.32	0.29	4.12	6.14
+GO:0055085	transmembrane transport	166	0.41	0.46	5.44	10.99
+GO:0071702	organic substance transport	455	0.33	0.41	4.62	10.99
+GO:0006796	phosphate-containing compound metabolic process	426	0.36	0.43	5.28	20.85
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0009891	positive regulation of biosynthetic process	395	0.40	0.49	5.65	38.82
+GO:0002682	regulation of immune system process	343	0.32	0.36	4.60	7.96
+GO:0045595	regulation of cell differentiation	328	0.34	0.42	5.25	23.33
+GO:0009967	positive regulation of signal transduction	322	0.44	0.54	6.71	140.23
+GO:0042981	regulation of apoptotic process	307	0.45	0.55	6.60	16.23
+GO:1903507	negative regulation of nucleic acid-templated transcription	265	0.55	0.67	8.38	898.55
+GO:0046903	secretion	232	0.46	0.48	5.79	10.99
+GO:0070647	protein modification by small protein conjugation or removal	225	0.61	0.66	8.44	151.15
+GO:0042592	homeostatic process	213	0.45	0.42	5.70	8.64
+GO:0044255	cellular lipid metabolic process	191	0.38	0.44	5.89	38.02
+GO:0006259	DNA metabolic process	188	0.45	0.55	7.12	145.26
+GO:0018193	peptidyl-amino acid modification	183	0.39	0.54	6.24	151.15
+GO:0006974	cellular response to DNA damage stimulus	170	0.57	0.53	7.47	29.00
+GO:0006396	RNA processing	169	0.49	0.60	7.48	115.08
+GO:0006366	transcription by RNA polymerase II	154	0.60	0.72	8.61	583.88
+GO:0019221	cytokine-mediated signaling pathway	154	0.60	0.63	7.60	26.50
+GO:0007167	enzyme linked receptor protein signaling pathway	132	0.53	0.59	7.04	26.50
+GO:0040008	regulation of growth	113	0.48	0.44	6.04	7.96
+GO:0003006	developmental process involved in reproduction	101	0.43	0.34	5.07	14.49
+GO:0051276	chromosome organization	86	0.55	0.52	6.96	18.35
+GO:1903046	meiotic cell cycle process	33	0.49	0.44	6.09	19.36
+GO:0051052	regulation of DNA metabolic process	91	0.47	0.56	7.17	70.58
+GO:0043687	post-translational protein modification	86	0.65	0.67	8.51	151.15
+GO:0031331	positive regulation of cellular catabolic process	78	0.54	0.59	7.66	167.85
+GO:0097190	apoptotic signaling pathway	74	0.70	0.64	8.53	23.17
+GO:0010817	regulation of hormone levels	70	0.41	0.40	5.23	8.64
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	68	0.61	0.63	8.36	112.25
+GO:0022409	positive regulation of cell-cell adhesion	66	0.59	0.59	7.66	36.23
+GO:0030336	negative regulation of cell migration	46	0.58	0.64	8.21	158.04
+GO:0016485	protein processing	34	0.65	0.65	8.32	99.81
+GO:0043401	steroid hormone mediated signaling pathway	31	0.75	0.70	8.80	25.74
+GO:0043433	negative regulation of DNA binding transcription factor activity	30	0.81	0.84	9.47	278.01
+GO:0016051	carbohydrate biosynthetic process	30	0.52	0.51	6.98	43.72
+GO:0022904	respiratory electron transport chain	22	0.74	0.66	8.68	30.45
+GO:0015914	phospholipid transport	17	0.78	0.74	9.04	67.00
+GO:0055117	regulation of cardiac muscle contraction	16	0.69	0.72	9.10	36.97
+GO:0033108	mitochondrial respiratory chain complex assembly	15	0.84	0.74	9.22	44.52
+GO:0072593	reactive oxygen species metabolic process	14	0.72	0.56	8.45	17.52
+GO:0010501	RNA secondary structure unwinding	11	1.00	0.85	9.63	115.08
+GO:2000008	regulation of protein localization to cell surface	11	0.89	0.77	9.38	29.06
+GO:0034333	adherens junction assembly	10	0.84	0.74	9.34	54.64
+GO:0007259	JAK-STAT cascade	9	0.93	0.82	9.51	26.43
+GO:0001657	ureteric bud development	7	1.00	0.88	9.63	36.92
+GO:0006521	regulation of cellular amino acid metabolic process	5	0.57	0.61	8.06	100.45
+GO:0007271	synaptic transmission, cholinergic	4	1.00	0.88	9.63	25.74
+GO:0071468	cellular response to acidic pH	2	0.89	0.77	9.45	48.99
+GO:2000124	regulation of endocannabinoid signaling pathway	2	1.00	0.85	9.63	44.99

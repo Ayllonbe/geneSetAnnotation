@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	887	0.08	0.04	0.98	3.37
+GO:0009987	cellular process	1033	0.09	0.05	0.84	3.37
+GO:0030049	muscle filament sliding	3	1.00	0.82	9.63	20.96
+GO:0035249	synaptic transmission, glutamatergic	3	1.00	0.88	9.63	25.74
+GO:0009628	response to abiotic stimulus	74	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	272	0.32	0.29	4.12	6.14
+GO:0006811	ion transport	139	0.38	0.44	5.19	10.99
+GO:0034613	cellular protein localization	60	0.45	0.48	6.33	26.83
+GO:0007517	muscle organ development	9	0.78	0.64	8.75	27.68

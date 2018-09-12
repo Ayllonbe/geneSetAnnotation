@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1064	0.12	0.26	2.47	7.96
+GO:0048523	negative regulation of cellular process	517	0.24	0.37	3.90	23.93
+GO:0016043	cellular component organization	506	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	429	0.33	0.45	5.35	37.59
+GO:0051252	regulation of RNA metabolic process	328	0.37	0.51	6.06	70.58
+GO:0048869	cellular developmental process	327	0.32	0.29	4.16	13.85
+GO:0006139	nucleobase-containing compound metabolic process	303	0.29	0.40	5.40	96.28
+GO:0016192	vesicle-mediated transport	269	0.52	0.51	6.57	10.99
+GO:0006464	cellular protein modification process	254	0.34	0.49	5.84	147.03
+GO:0009968	negative regulation of signal transduction	162	0.44	0.54	6.68	140.65
+GO:0050900	leukocyte migration	135	0.60	0.59	8.02	26.94
+GO:0002757	immune response-activating signal transduction	121	0.61	0.66	8.47	138.88
+GO:0045087	innate immune response	112	0.68	0.59	8.16	26.47
+GO:0034613	cellular protein localization	85	0.45	0.48	6.33	26.83
+GO:0050727	regulation of inflammatory response	79	0.53	0.59	7.40	31.59
+GO:0071407	cellular response to organic cyclic compound	57	0.53	0.56	7.03	63.03
+GO:0010975	regulation of neuron projection development	53	0.57	0.66	8.40	84.29
+GO:0010959	regulation of metal ion transport	53	0.50	0.57	7.05	16.65
+GO:0042129	regulation of T cell proliferation	52	0.67	0.71	8.90	80.79
+GO:0045637	regulation of myeloid cell differentiation	47	0.62	0.63	8.47	67.17
+GO:0030100	regulation of endocytosis	46	0.59	0.62	8.15	44.91
+GO:0010951	negative regulation of endopeptidase activity	37	0.77	0.80	9.45	500.32
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	35	0.89	0.82	9.52	239.11
+GO:0051250	negative regulation of lymphocyte activation	35	0.60	0.65	8.26	127.90
+GO:0031295	T cell costimulation	31	0.93	0.86	9.59	354.90
+GO:0051495	positive regulation of cytoskeleton organization	28	0.62	0.66	8.29	90.96
+GO:0071677	positive regulation of mononuclear cell migration	14	0.89	0.84	9.53	295.29
+GO:0043304	regulation of mast cell degranulation	9	0.80	0.81	9.52	224.79
+GO:0071333	cellular response to glucose stimulus	7	1.00	0.88	9.63	272.30
+GO:0048298	positive regulation of isotype switching to IgA isotypes	4	1.00	0.93	9.63	1407.90
+GO:0071801	regulation of podosome assembly	3	0.89	0.80	9.43	64.45
+GO:0002317	plasma cell differentiation	3	1.00	0.90	9.63	149.81
+GO:0006878	cellular copper ion homeostasis	3	0.87	0.85	9.52	186.04
+GO:0030913	paranodal junction assembly	2	1.00	0.82	9.63	88.99
+GO:0046598	positive regulation of viral entry into host cell	2	0.93	0.84	9.55	85.02
+GO:0035434	copper ion transmembrane transport	2	0.83	0.81	9.43	100.43
+GO:0034120	positive regulation of erythrocyte aggregation	1	1.00	0.85	9.63	68.83

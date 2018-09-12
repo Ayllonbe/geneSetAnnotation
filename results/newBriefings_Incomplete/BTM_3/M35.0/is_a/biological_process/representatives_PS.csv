@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2231	0.00	0.00	0.00	0.00
+GO:0043923	positive regulation by host of viral transcription	2	1.00	0.93	9.63	272.30
+GO:0046718	viral entry into host cell	29	0.77	0.73	8.94	28.37
+GO:0065007	biological regulation	1740	0.08	0.04	0.98	3.37
+GO:0003006	developmental process involved in reproduction	113	0.43	0.34	5.07	14.49
+GO:0043922	negative regulation by host of viral transcription	3	1.00	0.93	9.63	272.38
+GO:0043170	macromolecule metabolic process	906	0.25	0.32	3.46	10.22
+GO:0006006	glucose metabolic process	13	0.71	0.68	8.57	34.68
+GO:0008104	protein localization	221	0.40	0.40	5.07	7.46
+GO:0042110	T cell activation	79	0.59	0.59	7.76	19.85
+GO:0051260	protein homooligomerization	58	0.89	0.77	9.41	42.03
+GO:0001649	osteoblast differentiation	30	1.00	0.75	9.63	21.07
+GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0030316	osteoclast differentiation	15	0.93	0.79	9.51	47.07
+GO:0001570	vasculogenesis	15	0.89	0.70	9.29	21.07
+GO:0035914	skeletal muscle cell differentiation	10	0.87	0.68	9.29	21.07
+GO:0030224	monocyte differentiation	6	1.00	0.82	9.63	69.53
+GO:0001829	trophectodermal cell differentiation	6	1.00	0.75	9.63	21.07
+GO:0048566	embryonic digestive tract development	3	0.93	0.76	9.49	33.61
+GO:0035026	leading edge cell differentiation	2	0.93	0.76	9.47	24.20
+GO:0001661	conditioned taste aversion	1	1.00	0.88	9.63	32.41

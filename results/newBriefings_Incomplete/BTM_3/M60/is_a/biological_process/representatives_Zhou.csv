@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032502	developmental process	496	0.22	0.11	1.89	3.37
+GO:0071704	organic substance metabolic process	909	0.15	0.20	2.26	6.41
+GO:0002376	immune system process	527	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1623	0.09	0.05	0.84	3.37
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:0042221	response to chemical	440	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	423	0.39	0.32	4.70	6.14
+GO:0051179	localization	646	0.26	0.13	2.57	3.37
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23

@@ -1,0 +1,34 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	741	0.12	0.26	2.47	7.96
+GO:0010468	regulation of gene expression	243	0.35	0.46	5.09	13.73
+GO:0048869	cellular developmental process	219	0.32	0.29	4.16	13.85
+GO:0090304	nucleic acid metabolic process	175	0.35	0.46	5.97	111.15
+GO:0009967	positive regulation of signal transduction	170	0.44	0.54	6.71	140.23
+GO:0032270	positive regulation of cellular protein metabolic process	143	0.47	0.59	7.41	288.49
+GO:0065003	protein-containing complex assembly	118	0.45	0.48	6.06	36.47
+GO:0043312	neutrophil degranulation	117	1.00	0.90	9.63	132.80
+GO:0032774	RNA biosynthetic process	105	0.53	0.62	8.04	473.34
+GO:0050900	leukocyte migration	97	0.60	0.59	8.02	26.94
+GO:0043066	negative regulation of apoptotic process	88	0.56	0.63	7.79	81.07
+GO:0045087	innate immune response	82	0.68	0.59	8.16	26.47
+GO:0010469	regulation of signaling receptor activity	70	0.59	0.62	7.95	48.62
+GO:0032269	negative regulation of cellular protein metabolic process	65	0.47	0.59	7.45	289.39
+GO:0001819	positive regulation of cytokine production	63	0.51	0.54	6.97	44.26
+GO:0006091	generation of precursor metabolites and energy	28	0.53	0.46	6.54	17.52
+GO:0010948	negative regulation of cell cycle process	27	0.53	0.59	7.47	61.75
+GO:0050715	positive regulation of cytokine secretion	23	0.69	0.74	9.07	549.48
+GO:0008584	male gonad development	12	1.00	0.79	9.63	50.96
+GO:0048146	positive regulation of fibroblast proliferation	10	0.89	0.77	9.43	63.75
+GO:0030890	positive regulation of B cell proliferation	10	1.00	0.90	9.63	506.16
+GO:0030330	DNA damage response, signal transduction by p53 class mediator	8	0.89	0.80	9.49	85.95
+GO:0045815	positive regulation of gene expression, epigenetic	6	0.78	0.74	9.08	79.85
+GO:0032305	positive regulation of icosanoid secretion	4	0.84	0.82	9.50	399.74
+GO:0001516	prostaglandin biosynthetic process	4	0.89	0.88	9.60	1037.18
+GO:0090344	negative regulation of cell aging	4	0.87	0.72	9.34	80.68
+GO:0010760	negative regulation of macrophage chemotaxis	2	1.00	0.92	9.63	861.54
+GO:0006356	regulation of transcription by RNA polymerase I	2	0.75	0.79	9.31	248.57
+GO:0061081	positive regulation of myeloid leukocyte cytokine production involved in immune response	2	0.87	0.81	9.49	250.67
+GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	1	1.00	0.93	9.63	2131.99
+GO:0043518	negative regulation of DNA damage response, signal transduction by p53 class mediator	1	0.93	0.86	9.59	408.05
+GO:0070125	mitochondrial translational elongation	1	1.00	0.85	9.63	106.95
+GO:0070126	mitochondrial translational termination	1	1.00	0.85	9.63	40.69

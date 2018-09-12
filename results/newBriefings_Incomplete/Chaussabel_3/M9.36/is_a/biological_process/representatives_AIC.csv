@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	302	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	267	0.24	0.37	3.90	23.93
+GO:0007165	signal transduction	230	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	226	0.40	0.60	6.84	245.35
+GO:0019538	protein metabolic process	222	0.31	0.41	4.91	44.77
+GO:0051247	positive regulation of protein metabolic process	97	0.44	0.54	6.72	129.04
+GO:0045893	positive regulation of transcription, DNA-templated	103	0.52	0.67	8.14	1208.12
+GO:0009966	regulation of signal transduction	157	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	156	0.57	0.68	8.45	581.39
+GO:0048584	positive regulation of response to stimulus	127	0.35	0.42	4.95	23.46
+GO:0031327	negative regulation of cellular biosynthetic process	102	0.42	0.53	6.40	170.82
+GO:0045862	positive regulation of proteolysis	21	0.61	0.68	8.73	336.28
+GO:0031401	positive regulation of protein modification process	64	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	67	0.44	0.54	6.68	140.65
+GO:0051241	negative regulation of multicellular organismal process	63	0.35	0.42	4.99	23.69
+GO:0006974	cellular response to DNA damage stimulus	54	0.57	0.53	7.47	29.00
+GO:0043065	positive regulation of apoptotic process	43	0.56	0.63	7.81	80.91
+GO:0045087	innate immune response	38	0.68	0.59	8.16	26.47
+GO:0044255	cellular lipid metabolic process	37	0.38	0.44	5.89	38.02
+GO:1901990	regulation of mitotic cell cycle phase transition	36	0.61	0.66	8.15	36.35
+GO:0051707	response to other organism	35	0.42	0.46	6.41	24.63
+GO:0009725	response to hormone	34	0.53	0.51	7.03	21.86
+GO:0043547	positive regulation of GTPase activity	33	0.93	0.79	9.52	49.34
+GO:0045596	negative regulation of cell differentiation	33	0.44	0.51	6.50	82.79
+GO:0071345	cellular response to cytokine stimulus	32	0.67	0.63	8.21	61.60
+GO:0043312	neutrophil degranulation	32	1.00	0.90	9.63	132.80
+GO:0001819	positive regulation of cytokine production	32	0.51	0.54	6.97	44.26
+GO:0030335	positive regulation of cell migration	31	0.58	0.64	8.22	157.26
+GO:0051260	protein homooligomerization	22	0.89	0.77	9.41	42.03
+GO:0051251	positive regulation of lymphocyte activation	20	0.58	0.64	8.19	127.58
+GO:0016311	dephosphorylation	18	0.68	0.63	8.33	24.41
+GO:0010951	negative regulation of endopeptidase activity	16	0.77	0.80	9.45	500.32
+GO:0006898	receptor-mediated endocytosis	15	0.68	0.66	8.48	28.44
+GO:0002237	response to molecule of bacterial origin	15	0.69	0.59	8.74	31.75
+GO:0045765	regulation of angiogenesis	15	0.70	0.68	8.82	44.94
+GO:0045807	positive regulation of endocytosis	14	0.69	0.69	8.90	124.49
+GO:0050714	positive regulation of protein secretion	13	0.65	0.70	8.73	381.48
+GO:0060326	cell chemotaxis	12	0.64	0.61	8.15	30.29
+GO:0002790	peptide secretion	11	0.54	0.62	7.21	48.05
+GO:0000302	response to reactive oxygen species	10	0.71	0.60	8.78	25.34
+GO:0046718	viral entry into host cell	9	0.77	0.73	8.94	28.37
+GO:0048469	cell maturation	8	0.70	0.55	8.24	25.22
+GO:0071479	cellular response to ionizing radiation	7	0.89	0.77	9.45	48.66
+GO:0008203	cholesterol metabolic process	7	0.80	0.72	9.22	82.65
+GO:0002573	myeloid leukocyte differentiation	6	0.74	0.66	8.74	45.13
+GO:0042130	negative regulation of T cell proliferation	5	0.78	0.78	9.42	581.93
+GO:0010883	regulation of lipid storage	5	0.79	0.68	9.12	20.47
+GO:0006956	complement activation	5	0.84	0.77	9.47	169.64
+GO:1902476	chloride transmembrane transport	4	1.00	0.88	9.63	110.52
+GO:0007517	muscle organ development	4	0.78	0.64	8.75	27.68
+GO:0006607	NLS-bearing protein import into nucleus	4	1.00	0.92	9.63	278.23
+GO:0032966	negative regulation of collagen biosynthetic process	3	1.00	0.82	9.63	106.40
+GO:0045627	positive regulation of T-helper 1 cell differentiation	2	1.00	0.96	9.63	2605.16
+GO:2000553	positive regulation of T-helper 2 cell cytokine production	2	1.00	0.92	9.63	874.88
+GO:0051209	release of sequestered calcium ion into cytosol	2	0.80	0.87	9.53	522.93
+GO:0045669	positive regulation of osteoblast differentiation	2	0.93	0.79	9.56	169.86
+GO:0001798	positive regulation of type IIa hypersensitivity	2	0.93	0.91	9.61	1378.03
+GO:0046854	phosphatidylinositol phosphorylation	2	1.00	0.88	9.63	218.74
+GO:0001970	positive regulation of activation of membrane attack complex	1	1.00	0.93	9.63	1575.16
+GO:0010866	regulation of triglyceride biosynthetic process	1	0.89	0.80	9.47	120.43
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	1	0.89	0.77	9.43	55.29
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	1	0.93	0.90	9.60	732.69
+GO:0072540	T-helper 17 cell lineage commitment	1	1.00	0.88	9.63	46.26
+GO:2000549	positive regulation of dendritic cell dendrite assembly	1	1.00	0.90	9.63	200.31
+GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	1	0.93	0.93	9.59	413.35
+GO:0010828	positive regulation of glucose transmembrane transport	1	0.89	0.80	9.53	65.59

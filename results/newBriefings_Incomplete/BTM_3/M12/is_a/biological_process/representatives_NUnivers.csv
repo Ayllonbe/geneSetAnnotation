@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	874	0.36	0.43	5.06	19.43
+GO:0009967	positive regulation of signal transduction	344	0.44	0.54	6.71	140.23
+GO:0010629	negative regulation of gene expression	237	0.47	0.56	6.74	59.05
+GO:0043066	negative regulation of apoptotic process	218	0.56	0.63	7.79	81.07
+GO:0045944	positive regulation of transcription by RNA polymerase II	211	0.55	0.71	8.36	1463.86
+GO:0045087	innate immune response	171	0.68	0.59	8.16	26.47
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0001819	positive regulation of cytokine production	154	0.51	0.54	6.97	44.26
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	128	0.68	0.66	8.81	76.40
+GO:0002237	response to molecule of bacterial origin	128	0.69	0.59	8.74	31.75
+GO:0045860	positive regulation of protein kinase activity	128	0.63	0.73	9.00	1094.92
+GO:0051051	negative regulation of transport	98	0.42	0.50	5.86	25.98
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0050851	antigen receptor-mediated signaling pathway	75	0.87	0.83	9.53	218.74
+GO:0001666	response to hypoxia	67	0.81	0.70	9.12	21.16
+GO:0006631	fatty acid metabolic process	52	0.54	0.62	7.85	91.02
+GO:0030217	T cell differentiation	50	0.66	0.65	8.68	65.05
+GO:0042102	positive regulation of T cell proliferation	50	0.78	0.78	9.42	564.85
+GO:0001959	regulation of cytokine-mediated signaling pathway	43	0.61	0.63	8.11	55.11
+GO:0031295	T cell costimulation	33	0.93	0.86	9.59	354.90
+GO:0046854	phosphatidylinositol phosphorylation	33	1.00	0.88	9.63	218.74
+GO:0006470	protein dephosphorylation	25	0.76	0.73	9.22	177.17
+GO:0045840	positive regulation of mitotic nuclear division	23	0.71	0.73	9.14	276.06
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	21	0.93	0.93	9.60	734.49
+GO:0038083	peptidyl-tyrosine autophosphorylation	20	1.00	0.92	9.63	522.64
+GO:0006637	acyl-CoA metabolic process	17	0.59	0.59	7.98	77.21
+GO:0045727	positive regulation of translation	17	0.66	0.71	9.12	1032.69
+GO:0045589	regulation of regulatory T cell differentiation	12	0.79	0.79	9.52	133.47
+GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	11	0.77	0.78	9.41	596.43
+GO:0045086	positive regulation of interleukin-2 biosynthetic process	9	1.00	0.88	9.63	834.88
+GO:0051898	negative regulation of protein kinase B signaling	9	1.00	0.88	9.63	238.79
+GO:0002863	positive regulation of inflammatory response to antigenic stimulus	8	0.77	0.76	9.34	270.70
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	7	0.87	0.83	9.53	431.32
+GO:0030206	chondroitin sulfate biosynthetic process	7	1.00	0.88	9.63	416.10
+GO:0042089	cytokine biosynthetic process	6	0.63	0.64	8.18	87.71
+GO:0048304	positive regulation of isotype switching to IgG isotypes	5	1.00	0.93	9.63	1407.90
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0019319	hexose biosynthetic process	5	0.75	0.70	9.15	135.77
+GO:0072311	glomerular epithelial cell differentiation	2	0.79	0.72	9.22	49.62
+GO:0032594	protein transport within lipid bilayer	2	0.70	0.75	9.24	121.86
+GO:0006882	cellular zinc ion homeostasis	2	1.00	0.92	9.63	329.34
+GO:1902108	regulation of mitochondrial membrane permeability involved in apoptotic process	1	0.87	0.78	9.49	74.66
+GO:0001920	negative regulation of receptor recycling	1	1.00	0.82	9.63	203.34
+GO:0000390	spliceosomal complex disassembly	1	1.00	0.82	9.63	58.05
+GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
+GO:0032913	negative regulation of transforming growth factor beta3 production	1	0.93	0.82	9.54	85.64

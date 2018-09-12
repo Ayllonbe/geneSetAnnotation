@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	137	0.31	0.41	4.91	44.77
+GO:0009056	catabolic process	78	0.30	0.27	3.52	6.41
+GO:0043933	protein-containing complex subunit organization	69	0.43	0.41	5.44	14.95
+GO:0048584	positive regulation of response to stimulus	65	0.35	0.42	4.95	23.46
+GO:0051240	positive regulation of multicellular organismal process	53	0.35	0.42	4.98	23.60
+GO:0032270	positive regulation of cellular protein metabolic process	46	0.47	0.59	7.41	288.49
+GO:0051704	multi-organism process	38	0.29	0.15	3.12	3.37
+GO:0010033	response to organic substance	57	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	38	0.39	0.39	5.14	9.28
+GO:0022603	regulation of anatomical structure morphogenesis	36	0.36	0.43	5.15	11.29
+GO:0009628	response to abiotic stimulus	33	0.46	0.35	5.43	6.14
+GO:1901566	organonitrogen compound biosynthetic process	30	0.37	0.43	5.45	46.74
+GO:0043066	negative regulation of apoptotic process	29	0.56	0.63	7.79	81.07
+GO:0008284	positive regulation of cell proliferation	24	0.56	0.57	7.27	43.45
+GO:0030335	positive regulation of cell migration	17	0.58	0.64	8.22	157.26
+GO:0031346	positive regulation of cell projection organization	14	0.62	0.63	8.02	65.03
+GO:0019932	second-messenger-mediated signaling	13	0.65	0.65	8.32	26.43
+GO:0030029	actin filament-based process	12	0.59	0.42	6.58	7.39
+GO:0045931	positive regulation of mitotic cell cycle	11	0.61	0.63	8.04	60.92
+GO:0071363	cellular response to growth factor stimulus	9	0.77	0.67	8.94	60.39
+GO:0045927	positive regulation of growth	9	0.60	0.55	7.43	22.17
+GO:0032532	regulation of microvillus length	1	0.87	0.81	9.45	49.29
+GO:0110053	regulation of actin filament organization	9	0.63	0.69	8.47	54.28
+GO:0032532	regulation of microvillus length	1	0.87	0.81	9.45	49.29
+GO:0110053	regulation of actin filament organization	9	0.63	0.69	8.47	54.28
+GO:0045785	positive regulation of cell adhesion	8	0.58	0.54	7.23	21.97
+GO:0030855	epithelial cell differentiation	8	0.55	0.52	6.96	21.07
+GO:0007204	positive regulation of cytosolic calcium ion concentration	7	0.68	0.77	9.10	290.30
+GO:0051099	positive regulation of binding	6	0.61	0.55	7.48	18.40
+GO:0007229	integrin-mediated signaling pathway	4	1.00	0.82	9.63	26.50
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	4	0.93	0.91	9.59	279.44
+GO:0046834	lipid phosphorylation	3	0.93	0.79	9.55	69.34
+GO:0016973	poly(A)+ mRNA export from nucleus	3	1.00	0.92	9.63	122.05
+GO:1901224	positive regulation of NIK/NF-kappaB signaling	3	0.93	0.84	9.57	238.82
+GO:0007173	epidermal growth factor receptor signaling pathway	3	0.78	0.78	9.04	32.39
+GO:0010803	regulation of tumor necrosis factor-mediated signaling pathway	2	0.89	0.80	9.45	58.00
+GO:1903078	positive regulation of protein localization to plasma membrane	2	0.84	0.80	9.43	218.50
+GO:0006986	response to unfolded protein	2	0.87	0.72	9.34	23.96
+GO:0046519	sphingoid metabolic process	2	0.77	0.73	9.30	81.00
+GO:0048333	mesodermal cell differentiation	2	0.83	0.66	8.94	21.07
+GO:0003376	sphingosine-1-phosphate signaling pathway	2	0.89	0.77	9.41	50.15
+GO:0006760	folic acid-containing compound metabolic process	2	0.73	0.69	9.33	232.08
+GO:0071107	response to parathyroid hormone	1	0.93	0.76	9.47	25.22
+GO:0033591	response to L-ascorbic acid	1	0.93	0.82	9.55	69.45
+GO:0060100	positive regulation of phagocytosis, engulfment	1	0.93	0.86	9.58	308.81
+GO:0001951	intestinal D-glucose absorption	1	1.00	0.85	9.63	41.67
+GO:0014075	response to amine	1	0.80	0.69	9.22	29.80
+GO:0038065	collagen-activated signaling pathway	1	0.93	0.79	9.49	26.50
+GO:0010694	positive regulation of alkaline phosphatase activity	1	1.00	0.92	9.63	315.72
+GO:0048041	focal adhesion assembly	1	1.00	0.88	9.63	92.53
+GO:0032967	positive regulation of collagen biosynthetic process	1	1.00	0.82	9.63	105.22
+GO:0038193	thromboxane A2 signaling pathway	1	1.00	0.82	9.63	26.98

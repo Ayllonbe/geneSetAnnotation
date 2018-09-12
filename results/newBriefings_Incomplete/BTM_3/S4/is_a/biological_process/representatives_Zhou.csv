@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	580	0.08	0.04	0.98	3.37
+GO:0022600	digestive system process	4	0.69	0.54	7.78	9.78
+GO:0043312	neutrophil degranulation	108	1.00	0.90	9.63	132.80
+GO:0005983	starch catabolic process	1	1.00	0.88	9.63	666.97
+GO:0071704	organic substance metabolic process	323	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	655	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	580	0.08	0.04	0.98	3.37
+GO:0022600	digestive system process	4	0.69	0.54	7.78	9.78
+GO:0043312	neutrophil degranulation	108	1.00	0.90	9.63	132.80
+GO:0005983	starch catabolic process	1	1.00	0.88	9.63	666.97
+GO:0071704	organic substance metabolic process	323	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	655	0.09	0.05	0.84	3.37
+GO:0032490	detection of molecule of bacterial origin	5	0.79	0.68	9.28	83.51
+GO:0016046	detection of fungus	1	0.87	0.76	9.47	96.01
+GO:0051704	multi-organism process	89	0.29	0.15	3.12	3.37
+GO:0050896	response to stimulus	303	0.25	0.12	2.65	3.37
+GO:0006811	ion transport	75	0.38	0.44	5.19	10.99
+GO:0016192	vesicle-mediated transport	166	0.52	0.51	6.57	10.99
+GO:0071702	organic substance transport	99	0.33	0.41	4.62	10.99
+GO:0032502	developmental process	188	0.22	0.11	1.89	3.37
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	15	0.80	0.65	8.94	20.20

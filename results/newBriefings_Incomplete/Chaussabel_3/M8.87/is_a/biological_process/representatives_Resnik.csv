@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	432	0.12	0.26	2.47	7.96
+GO:2000777	positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia	1	1.00	0.95	9.63	3780.16
+GO:0048519	negative regulation of biological process	220	0.21	0.30	3.07	7.96
+GO:0051252	regulation of RNA metabolic process	189	0.37	0.51	6.06	70.58
+GO:0006810	transport	181	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	85	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	123	0.39	0.32	4.70	6.14
+GO:0032774	RNA biosynthetic process	136	0.53	0.62	8.04	473.34
+GO:0006396	RNA processing	43	0.49	0.60	7.48	115.08
+GO:0048583	regulation of response to stimulus	148	0.25	0.32	3.72	7.96
+GO:0006464	cellular protein modification process	135	0.34	0.49	5.84	147.03
+GO:0006412	translation	9	0.87	0.78	9.51	402.56
+GO:0044248	cellular catabolic process	100	0.31	0.36	4.57	26.23
+GO:0045595	regulation of cell differentiation	70	0.34	0.42	5.25	23.33
+GO:2000026	regulation of multicellular organismal development	73	0.29	0.39	4.73	23.09
+GO:0035556	intracellular signal transduction	85	0.51	0.55	6.92	23.17
+GO:0007166	cell surface receptor signaling pathway	84	0.43	0.51	5.91	23.17
+GO:0030154	cell differentiation	57	0.39	0.39	5.18	16.68
+GO:0048468	cell development	26	0.51	0.45	6.51	28.42
+GO:0042127	regulation of cell proliferation	60	0.45	0.48	6.03	12.04
+GO:0042981	regulation of apoptotic process	56	0.45	0.55	6.60	16.23
+GO:0006325	chromatin organization	29	0.49	0.44	6.23	14.95
+GO:0007032	endosome organization	7	0.84	0.71	9.22	20.92
+GO:0051781	positive regulation of cell division	6	0.68	0.63	8.44	42.29
+GO:0001881	receptor recycling	3	0.84	0.74	9.22	34.80
+GO:0043388	positive regulation of DNA binding	3	0.71	0.64	8.58	32.53
+GO:0010793	regulation of mRNA export from nucleus	2	0.93	0.86	9.58	209.93
+GO:0008306	associative learning	2	0.84	0.77	9.22	22.45
+GO:0022011	myelination in peripheral nervous system	1	1.00	0.79	9.63	21.18

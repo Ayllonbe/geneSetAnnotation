@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	3104	0.00	0.00	0.00	0.00
+GO:0008150	biological_process	3104	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	2237	0.08	0.04	0.98	3.37
+GO:0007264	small GTPase mediated signal transduction	90	0.74	0.69	8.74	26.43
+GO:0035329	hippo signaling	9	1.00	0.82	9.63	26.43
+GO:0051402	neuron apoptotic process	14	0.83	0.70	9.02	23.44
+GO:0009755	hormone-mediated signaling pathway	41	0.65	0.62	7.99	23.17
+GO:0051641	cellular localization	518	0.37	0.31	4.44	5.67
+GO:0048250	iron import into the mitochondrion	1	1.00	0.92	9.63	155.42
+GO:0006810	transport	861	0.28	0.34	3.95	7.46
+GO:0048856	anatomical structure development	254	0.33	0.29	3.70	6.46
+GO:0032501	multicellular organismal process	228	0.33	0.16	3.12	3.37
+GO:0051704	multi-organism process	218	0.29	0.15	3.12	3.37
+GO:0003006	developmental process involved in reproduction	106	0.43	0.34	5.07	14.49
+GO:0048469	cell maturation	28	0.70	0.55	8.24	25.22
+GO:0050900	leukocyte migration	70	0.60	0.59	8.02	26.94
+GO:0007268	chemical synaptic transmission	34	0.74	0.72	8.66	23.17
+GO:0006906	vesicle fusion	28	0.68	0.66	8.56	63.10
+GO:0007565	female pregnancy	25	1.00	0.70	9.63	32.81
+GO:0030183	B cell differentiation	25	0.73	0.69	9.02	64.36
+GO:0030326	embryonic limb morphogenesis	16	0.89	0.74	9.38	43.31
+GO:0001837	epithelial to mesenchymal transition	15	0.75	0.67	8.65	23.15
+GO:0034333	adherens junction assembly	12	0.84	0.74	9.34	54.64
+GO:0048041	focal adhesion assembly	10	1.00	0.88	9.63	92.53
+GO:1904837	beta-catenin-TCF complex assembly	10	1.00	0.79	9.63	40.42
+GO:0030216	keratinocyte differentiation	9	0.89	0.77	9.38	25.59
+GO:0048538	thymus development	8	1.00	0.79	9.63	35.89
+GO:0043011	myeloid dendritic cell differentiation	8	0.89	0.77	9.49	91.17
+GO:0030316	osteoclast differentiation	7	0.93	0.79	9.51	47.07
+GO:0061154	endothelial tube morphogenesis	6	0.83	0.74	9.31	48.80
+GO:0060479	lung cell differentiation	6	0.78	0.64	8.75	21.07
+GO:0043534	blood vessel endothelial cell migration	5	0.87	0.81	9.34	26.07
+GO:0033077	T cell differentiation in thymus	5	0.87	0.78	9.42	66.99
+GO:0043248	proteasome assembly	5	0.87	0.76	9.31	44.52
+GO:0051145	smooth muscle cell differentiation	4	0.78	0.68	8.86	21.76
+GO:0002315	marginal zone B cell differentiation	3	1.00	0.90	9.63	149.81
+GO:0003222	ventricular trabecula myocardium morphogenesis	3	0.89	0.80	9.43	28.31
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	2	1.00	0.85	9.63	26.14
+GO:0097324	melanocyte migration	2	1.00	0.85	9.63	24.97
+GO:0048715	negative regulation of oligodendrocyte differentiation	2	1.00	0.92	9.63	472.52
+GO:0035050	embryonic heart tube development	2	1.00	0.79	9.63	33.01
+GO:0060486	Clara cell differentiation	2	1.00	0.82	9.63	47.35
+GO:0072602	interleukin-4 secretion	1	1.00	0.92	9.63	137.07
+GO:0060066	oviduct development	1	1.00	0.75	9.63	49.56
+GO:0051124	synaptic growth at neuromuscular junction	1	1.00	0.79	9.63	69.82
+GO:0061549	sympathetic ganglion development	1	1.00	0.79	9.63	31.42
+GO:0036023	embryonic skeletal limb joint morphogenesis	1	1.00	0.85	9.63	57.12
+GO:1904861	excitatory synapse assembly	1	1.00	0.79	9.63	37.24

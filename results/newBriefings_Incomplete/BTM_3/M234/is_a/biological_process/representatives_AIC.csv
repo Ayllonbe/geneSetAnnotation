@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	741	0.12	0.26	2.47	7.96
+GO:0007165	signal transduction	451	0.36	0.43	5.06	19.43
+GO:0060255	regulation of macromolecule metabolic process	388	0.26	0.38	4.09	10.74
+GO:0048523	negative regulation of cellular process	330	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	175	0.35	0.46	5.97	111.15
+GO:0044260	cellular macromolecule metabolic process	303	0.28	0.39	4.44	30.44
+GO:0090304	nucleic acid metabolic process	175	0.35	0.46	5.97	111.15
+GO:0044260	cellular macromolecule metabolic process	303	0.28	0.39	4.44	30.44
+GO:0090304	nucleic acid metabolic process	175	0.35	0.46	5.97	111.15
+GO:0044260	cellular macromolecule metabolic process	303	0.28	0.39	4.44	30.44
+GO:0009966	regulation of signal transduction	277	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	219	0.32	0.29	4.16	13.85
+GO:0032270	positive regulation of cellular protein metabolic process	143	0.47	0.59	7.41	288.49
+GO:0043933	protein-containing complex subunit organization	133	0.43	0.41	5.44	14.95
+GO:0043312	neutrophil degranulation	117	1.00	0.90	9.63	132.80
+GO:0050900	leukocyte migration	97	0.60	0.59	8.02	26.94
+GO:0043066	negative regulation of apoptotic process	88	0.56	0.63	7.79	81.07
+GO:0045087	innate immune response	82	0.68	0.59	8.16	26.47
+GO:0001819	positive regulation of cytokine production	63	0.51	0.54	6.97	44.26
+GO:0006091	generation of precursor metabolites and energy	28	0.53	0.46	6.54	17.52
+GO:0050715	positive regulation of cytokine secretion	23	0.69	0.74	9.07	549.48
+GO:0008584	male gonad development	12	1.00	0.79	9.63	50.96
+GO:0032305	positive regulation of icosanoid secretion	4	0.84	0.82	9.50	399.74
+GO:0001516	prostaglandin biosynthetic process	4	0.89	0.88	9.60	1037.18
+GO:0010760	negative regulation of macrophage chemotaxis	2	1.00	0.92	9.63	861.54
+GO:1901797	negative regulation of signal transduction by p53 class mediator	1	0.83	0.79	9.47	239.49

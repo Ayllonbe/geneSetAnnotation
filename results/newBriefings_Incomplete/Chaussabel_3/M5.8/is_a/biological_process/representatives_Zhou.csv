@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6733	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	4800	0.08	0.04	0.98	3.37
+GO:0065008	regulation of biological quality	1167	0.28	0.26	3.48	4.47
+GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	1	1.00	0.96	9.63	3389.36
+GO:0009615	response to virus	167	0.74	0.66	8.80	27.27
+GO:1904925	positive regulation of autophagy of mitochondrion in response to mitochondrial depolarization	5	0.87	0.83	9.57	478.97
+GO:0065007	biological regulation	4800	0.08	0.04	0.98	3.37
+GO:0039502	suppression by virus of host type I interferon-mediated signaling pathway	1	1.00	0.96	9.63	3389.36
+GO:0009615	response to virus	167	0.74	0.66	8.80	27.27
+GO:1904925	positive regulation of autophagy of mitochondrion in response to mitochondrial depolarization	5	0.87	0.83	9.57	478.97
+GO:0065009	regulation of molecular function	1315	0.33	0.29	4.10	4.47
+GO:0051179	localization	2091	0.26	0.13	2.57	3.37
+GO:0008344	adult locomotory behavior	26	0.84	0.62	9.16	24.58
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	17	1.00	0.82	9.63	33.25

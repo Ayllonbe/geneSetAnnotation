@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	699	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	232	0.32	0.36	4.60	7.96
+GO:0050793	regulation of developmental process	216	0.26	0.33	3.95	7.96
+GO:0006355	regulation of transcription, DNA-templated	183	0.40	0.60	6.84	245.35
+GO:0030154	cell differentiation	142	0.39	0.39	5.18	16.68
+GO:0006351	transcription, DNA-templated	79	0.57	0.68	8.45	581.39
+GO:0043065	positive regulation of apoptotic process	55	0.56	0.63	7.81	80.91
+GO:0030099	myeloid cell differentiation	24	0.69	0.60	8.15	21.07
+GO:0048598	embryonic morphogenesis	23	0.54	0.47	6.15	10.94
+GO:0048608	reproductive structure development	22	0.61	0.50	7.37	31.35
+GO:0030855	epithelial cell differentiation	20	0.55	0.52	6.96	21.07
+GO:0048729	tissue morphogenesis	18	0.49	0.44	5.81	10.94
+GO:2000027	regulation of organ morphogenesis	17	0.45	0.52	6.54	42.54
+GO:0045931	positive regulation of mitotic cell cycle	16	0.61	0.63	8.04	60.92
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0033599	regulation of mammary gland epithelial cell proliferation	4	0.87	0.76	9.34	45.59
+GO:0001953	negative regulation of cell-matrix adhesion	4	0.87	0.78	9.39	66.96
+GO:0032332	positive regulation of chondrocyte differentiation	3	0.89	0.80	9.57	229.71
+GO:2000738	positive regulation of stem cell differentiation	3	0.78	0.71	9.19	114.96
+GO:0008542	visual learning	3	1.00	0.88	9.63	51.66
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0035855	megakaryocyte development	2	1.00	0.79	9.63	66.39
+GO:0010870	positive regulation of receptor biosynthetic process	1	0.84	0.77	9.47	258.62
+GO:0048539	bone marrow development	1	1.00	0.79	9.63	32.52
+GO:0060435	bronchiole development	1	1.00	0.79	9.63	30.90
+GO:0045617	negative regulation of keratinocyte differentiation	1	0.93	0.84	9.58	361.10
+GO:0110024	positive regulation of cardiac muscle myoblast proliferation	1	1.00	0.85	9.63	80.76
+GO:0060044	negative regulation of cardiac muscle cell proliferation	1	1.00	0.92	9.63	721.62

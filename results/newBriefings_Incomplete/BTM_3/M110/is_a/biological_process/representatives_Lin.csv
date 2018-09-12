@@ -1,0 +1,60 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	535	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	1538	0.12	0.26	2.47	7.96
+GO:0002376	immune system process	622	0.38	0.19	3.93	3.37
+GO:0009966	regulation of signal transduction	599	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	589	0.43	0.51	5.91	23.17
+GO:0051716	cellular response to stimulus	542	0.35	0.30	4.36	13.53
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0042325	regulation of phosphorylation	318	0.47	0.59	6.88	31.28
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0042325	regulation of phosphorylation	318	0.47	0.59	6.88	31.28
+GO:0010033	response to organic substance	456	0.35	0.37	4.75	9.28
+GO:0010035	response to inorganic substance	88	0.53	0.47	6.60	9.28
+GO:0050776	regulation of immune response	354	0.38	0.44	5.64	22.45
+GO:0045595	regulation of cell differentiation	345	0.34	0.42	5.25	23.33
+GO:0030154	cell differentiation	321	0.39	0.39	5.18	16.68
+GO:0051241	negative regulation of multicellular organismal process	251	0.35	0.42	4.99	23.69
+GO:0031346	positive regulation of cell projection organization	48	0.62	0.63	8.02	65.03
+GO:0008284	positive regulation of cell proliferation	269	0.56	0.57	7.27	43.45
+GO:0006887	exocytosis	247	0.67	0.66	8.38	37.08
+GO:0022603	regulation of anatomical structure morphogenesis	218	0.36	0.43	5.15	11.29
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:0008104	protein localization	214	0.40	0.40	5.07	7.46
+GO:0007186	G-protein coupled receptor signaling pathway	201	0.55	0.57	7.20	23.17
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0007179	transforming growth factor beta receptor signaling pathway	21	0.76	0.75	9.05	29.90
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	114	0.58	0.64	7.56	28.11
+GO:0007010	cytoskeleton organization	131	0.52	0.51	6.76	18.35
+GO:0048468	cell development	115	0.51	0.45	6.51	28.42
+GO:0032989	cellular component morphogenesis	98	0.56	0.48	7.27	42.57
+GO:0022408	negative regulation of cell-cell adhesion	56	0.58	0.61	7.77	52.93
+GO:0010810	regulation of cell-substrate adhesion	45	0.69	0.60	8.24	10.16
+GO:0031329	regulation of cellular catabolic process	83	0.43	0.51	6.41	39.60
+GO:0051259	protein complex oligomerization	83	0.78	0.68	9.09	40.42
+GO:0032956	regulation of actin cytoskeleton organization	70	0.56	0.63	7.72	34.12
+GO:0051056	regulation of small GTPase mediated signal transduction	62	0.68	0.69	8.65	45.07
+GO:0097435	supramolecular fiber organization	58	0.60	0.50	7.35	14.95
+GO:0007265	Ras protein signal transduction	45	0.76	0.73	8.94	27.53
+GO:0120036	plasma membrane bounded cell projection organization	45	0.58	0.54	7.33	16.56
+GO:0035239	tube morphogenesis	41	0.56	0.48	6.58	10.94
+GO:0001701	in utero embryonic development	26	1.00	0.85	9.63	22.50
+GO:0001755	neural crest cell migration	8	0.80	0.72	9.09	22.57
+GO:0043542	endothelial cell migration	18	0.80	0.75	9.14	24.97
+GO:0000281	mitotic cytokinesis	18	0.93	0.76	9.47	28.62
+GO:0001890	placenta development	11	1.00	0.75	9.63	49.87
+GO:0071526	semaphorin-plexin signaling pathway	10	0.81	0.73	9.09	26.50
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0010613	positive regulation of cardiac muscle hypertrophy	8	0.89	0.82	9.49	95.58
+GO:0007097	nuclear migration	4	0.71	0.65	8.71	66.02
+GO:0032464	positive regulation of protein homooligomerization	3	0.93	0.84	9.56	175.26
+GO:0043297	apical junction assembly	3	1.00	0.82	9.63	56.14
+GO:1903225	negative regulation of endodermal cell differentiation	2	0.93	0.84	9.58	302.81
+GO:0007172	signal complex assembly	2	1.00	0.82	9.63	86.37
+GO:0038007	netrin-activated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0061548	ganglion development	2	0.79	0.64	8.84	30.32
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:1904835	dorsal root ganglion morphogenesis	1	1.00	0.79	9.63	28.43
+GO:0060301	positive regulation of cytokine activity	1	1.00	0.88	9.63	129.15
+GO:0001764	neuron migration	1	0.74	0.66	8.78	20.63

@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2106	0.12	0.26	2.47	7.96
+GO:0071704	organic substance metabolic process	1938	0.15	0.20	2.26	6.41
+GO:2000112	regulation of cellular macromolecule biosynthetic process	888	0.36	0.50	5.87	74.82
+GO:0006351	transcription, DNA-templated	524	0.57	0.68	8.45	581.39
+GO:0010564	regulation of cell cycle process	186	0.42	0.50	6.22	14.24
+GO:0016071	mRNA metabolic process	155	0.59	0.65	8.39	115.08
+GO:0055086	nucleobase-containing small molecule metabolic process	134	0.38	0.48	6.63	107.58
+GO:0043312	neutrophil degranulation	119	1.00	0.90	9.63	132.80
+GO:0051259	protein complex oligomerization	117	0.78	0.68	9.09	40.42
+GO:0006605	protein targeting	83	0.72	0.76	9.18	93.44
+GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	58	0.74	0.79	9.35	83.05
+GO:0045665	negative regulation of neuron differentiation	42	0.62	0.68	8.73	338.15
+GO:0098781	ncRNA transcription	31	0.74	0.78	9.34	701.60
+GO:1990830	cellular response to leukemia inhibitory factor	21	1.00	0.82	9.63	81.65
+GO:0048024	regulation of mRNA splicing, via spliceosome	19	0.81	0.80	9.45	184.42
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	13	0.93	0.82	9.52	52.45
+GO:0043966	histone H3 acetylation	13	0.77	0.83	9.35	659.45
+GO:0048168	regulation of neuronal synaptic plasticity	12	0.80	0.77	9.22	41.66
+GO:0070897	DNA-templated transcriptional preinitiation complex assembly	9	0.84	0.77	9.29	65.90
+GO:0051209	release of sequestered calcium ion into cytosol	9	0.80	0.87	9.53	522.93
+GO:0032456	endocytic recycling	7	0.89	0.77	9.43	48.98
+GO:0060716	labyrinthine layer blood vessel development	6	1.00	0.79	9.63	85.13
+GO:0071539	protein localization to centrosome	5	0.93	0.86	9.54	37.38
+GO:0070886	positive regulation of calcineurin-NFAT signaling cascade	4	1.00	0.92	9.63	339.29
+GO:0007099	centriole replication	4	1.00	0.82	9.63	79.09
+GO:0006384	transcription initiation from RNA polymerase III promoter	3	1.00	0.90	9.63	477.15

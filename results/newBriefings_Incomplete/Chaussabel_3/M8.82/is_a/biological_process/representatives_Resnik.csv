@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	678	0.12	0.26	2.47	7.96
+GO:0016043	cellular component organization	323	0.28	0.26	3.74	11.45
+GO:0048523	negative regulation of cellular process	314	0.24	0.37	3.90	23.93
+GO:0008104	protein localization	148	0.40	0.40	5.07	7.46
+GO:0006810	transport	297	0.28	0.34	3.95	7.46
+GO:0044267	cellular protein metabolic process	244	0.34	0.46	5.57	80.87
+GO:0051128	regulation of cellular component organization	209	0.30	0.40	4.57	12.04
+GO:0048869	cellular developmental process	137	0.32	0.29	4.16	13.85
+GO:0044772	mitotic cell cycle phase transition	24	0.84	0.67	9.04	28.43
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	19	1.00	0.79	9.63	42.20
+GO:0032869	cellular response to insulin stimulus	5	1.00	0.88	9.63	462.70
+GO:0035767	endothelial cell chemotaxis	1	0.93	0.84	9.55	59.00

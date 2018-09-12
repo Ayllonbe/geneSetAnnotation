@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	504	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	1406	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	784	0.22	0.36	4.01	22.77
+GO:1901360	organic cyclic compound metabolic process	477	0.24	0.32	3.54	10.22
+GO:0006139	nucleobase-containing compound metabolic process	421	0.29	0.40	5.40	96.28
+GO:0070887	cellular response to chemical stimulus	347	0.40	0.40	5.31	25.21
+GO:0010647	positive regulation of cell communication	346	0.42	0.50	5.88	43.28
+GO:0030154	cell differentiation	299	0.39	0.39	5.18	16.68
+GO:0010977	negative regulation of neuron projection development	28	0.68	0.73	9.14	494.13
+GO:0051130	positive regulation of cellular component organization	203	0.42	0.50	5.95	43.84
+GO:0098662	inorganic cation transmembrane transport	92	0.58	0.64	7.91	76.35
+GO:0006820	anion transport	92	0.42	0.50	5.80	12.09
+GO:0015031	protein transport	138	0.48	0.59	6.99	54.46
+GO:0006082	organic acid metabolic process	134	0.32	0.36	4.95	37.09
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:0051259	protein complex oligomerization	79	0.78	0.68	9.09	40.42
+GO:0051962	positive regulation of nervous system development	68	0.56	0.60	7.74	86.11
+GO:0050679	positive regulation of epithelial cell proliferation	44	0.72	0.68	8.65	65.07
+GO:0002009	morphogenesis of an epithelium	43	0.51	0.51	6.34	13.50
+GO:0072657	protein localization to membrane	41	0.58	0.58	7.59	29.83
+GO:0048812	neuron projection morphogenesis	36	0.65	0.68	8.50	63.00
+GO:0015893	drug transport	26	0.50	0.50	6.29	10.99
+GO:0035295	tube development	21	0.56	0.48	6.60	11.73
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	5	1.00	0.88	9.63	298.04
+GO:0072215	regulation of metanephros development	8	0.63	0.64	8.21	29.77
+GO:0043491	protein kinase B signaling	11	1.00	0.82	9.63	26.43
+GO:0071526	semaphorin-plexin signaling pathway	9	0.81	0.73	9.09	26.50
+GO:2000378	negative regulation of reactive oxygen species metabolic process	8	0.78	0.71	9.25	113.13
+GO:1901264	carbohydrate derivative transport	8	0.57	0.57	7.11	14.73
+GO:0001755	neural crest cell migration	7	0.80	0.72	9.09	22.57
+GO:0048675	axon extension	7	0.89	0.74	9.43	51.99
+GO:0098693	regulation of synaptic vesicle cycle	6	0.65	0.62	8.24	27.75
+GO:0071709	membrane assembly	4	0.79	0.64	8.94	37.31
+GO:0072202	cell differentiation involved in metanephros development	4	0.74	0.66	8.65	23.63
+GO:0099054	presynapse assembly	3	1.00	0.75	9.63	34.60
+GO:0072531	pyrimidine-containing compound transmembrane transport	3	0.79	0.68	9.18	43.70
+GO:0050908	detection of light stimulus involved in visual perception	3	1.00	0.85	9.63	116.24
+GO:0045918	negative regulation of cytolysis	2	0.83	0.70	9.38	41.25
+GO:0015851	nucleobase transport	2	0.72	0.65	8.78	29.45
+GO:0022010	central nervous system myelination	2	1.00	0.79	9.63	21.18
+GO:0010841	positive regulation of circadian sleep/wake cycle, wakefulness	1	1.00	0.82	9.63	109.56
+GO:0072289	metanephric nephron tubule formation	1	1.00	0.85	9.63	32.06
+GO:0098942	retrograde trans-synaptic signaling by trans-synaptic protein complex	1	1.00	0.85	9.63	46.63
+GO:1902474	positive regulation of protein localization to synapse	1	0.93	0.79	9.49	25.48
+GO:0048789	cytoskeletal matrix organization at active zone	1	1.00	0.82	9.63	21.93
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17
+GO:1904861	excitatory synapse assembly	1	1.00	0.79	9.63	37.24
+GO:0002087	regulation of respiratory gaseous exchange by neurological system process	1	1.00	0.82	9.63	40.36
+GO:0039003	pronephric field specification	1	1.00	0.82	9.63	42.10

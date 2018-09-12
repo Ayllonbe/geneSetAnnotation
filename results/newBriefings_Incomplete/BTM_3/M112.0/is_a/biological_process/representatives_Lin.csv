@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051240	positive regulation of multicellular organismal process	327	0.35	0.42	4.98	23.60
+GO:0016192	vesicle-mediated transport	305	0.52	0.51	6.57	10.99
+GO:0051336	regulation of hydrolase activity	203	0.46	0.48	6.24	9.25
+GO:0006952	defense response	202	0.56	0.48	6.67	9.54
+GO:0032101	regulation of response to external stimulus	197	0.40	0.45	5.60	11.65
+GO:0001934	positive regulation of protein phosphorylation	190	0.58	0.69	8.60	663.11
+GO:0016477	cell migration	190	0.47	0.48	6.31	17.13
+GO:0051050	positive regulation of transport	189	0.42	0.50	5.84	25.90
+GO:0007186	G-protein coupled receptor signaling pathway	179	0.55	0.57	7.20	23.17
+GO:0006508	proteolysis	131	0.55	0.57	7.34	47.86
+GO:0006875	cellular metal ion homeostasis	117	0.59	0.67	8.36	105.84
+GO:0002237	response to molecule of bacterial origin	112	0.69	0.59	8.74	31.75
+GO:1902105	regulation of leukocyte differentiation	78	0.53	0.59	7.80	67.17
+GO:0051056	regulation of small GTPase mediated signal transduction	54	0.68	0.69	8.65	45.07
+GO:0043687	post-translational protein modification	47	0.65	0.67	8.51	151.15
+GO:0006631	fatty acid metabolic process	44	0.54	0.62	7.85	91.02
+GO:0050679	positive regulation of epithelial cell proliferation	43	0.72	0.68	8.65	65.07
+GO:0072376	protein activation cascade	35	0.75	0.67	8.88	54.00
+GO:0043524	negative regulation of neuron apoptotic process	27	0.79	0.77	9.25	179.63
+GO:0001798	positive regulation of type IIa hypersensitivity	2	0.93	0.91	9.61	1378.03
+GO:0030449	regulation of complement activation	24	0.69	0.72	9.30	245.77
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0031100	animal organ regeneration	22	0.89	0.70	9.29	28.09
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0048863	stem cell differentiation	15	0.70	0.60	8.24	21.07
+GO:0002430	complement receptor mediated signaling pathway	7	0.93	0.86	9.58	218.74
+GO:0010884	positive regulation of lipid storage	5	0.89	0.77	9.43	46.20
+GO:0045745	positive regulation of G-protein coupled receptor protein signaling pathway	4	0.65	0.68	8.65	189.39
+GO:0010866	regulation of triglyceride biosynthetic process	4	0.89	0.80	9.47	120.43
+GO:0042789	mRNA transcription by RNA polymerase II	3	1.00	0.93	9.63	1288.39

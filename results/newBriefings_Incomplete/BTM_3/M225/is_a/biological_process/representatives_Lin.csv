@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	512	0.16	0.21	2.71	13.80
+GO:0050794	regulation of cellular process	791	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	386	0.21	0.30	3.07	7.96
+GO:1902531	regulation of intracellular signal transduction	195	0.45	0.55	6.77	41.85
+GO:0006464	cellular protein modification process	170	0.34	0.49	5.84	147.03
+GO:0008284	positive regulation of cell proliferation	127	0.56	0.57	7.27	43.45
+GO:0006874	cellular calcium ion homeostasis	72	0.63	0.71	8.83	287.08
+GO:0046718	viral entry into host cell	13	0.77	0.73	8.94	28.37
+GO:0008202	steroid metabolic process	11	0.57	0.53	7.51	35.32
+GO:0010824	regulation of centrosome duplication	4	0.79	0.79	9.47	54.57
+GO:0060271	cilium assembly	3	0.87	0.76	9.41	137.68

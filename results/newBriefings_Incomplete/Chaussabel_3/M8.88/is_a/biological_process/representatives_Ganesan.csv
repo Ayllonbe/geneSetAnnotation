@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	406	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	275	0.28	0.39	4.44	30.44
+GO:0030388	fructose 1,6-bisphosphate metabolic process	1	1.00	0.79	9.63	72.83
+GO:0044260	cellular macromolecule metabolic process	275	0.28	0.39	4.44	30.44
+GO:0030388	fructose 1,6-bisphosphate metabolic process	1	1.00	0.79	9.63	72.83
+GO:0006810	transport	177	0.28	0.34	3.95	7.46
+GO:0051128	regulation of cellular component organization	118	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	81	0.43	0.51	5.91	23.17
+GO:0065003	protein-containing complex assembly	67	0.45	0.48	6.06	36.47
+GO:0006886	intracellular protein transport	47	0.55	0.65	8.12	90.55
+GO:0051345	positive regulation of hydrolase activity	32	0.57	0.57	7.42	32.99
+GO:0045055	regulated exocytosis	24	0.69	0.69	8.57	38.47
+GO:0019318	hexose metabolic process	7	0.58	0.58	7.68	32.37
+GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	5	0.78	0.78	9.25	56.87
+GO:0032482	Rab protein signal transduction	5	1.00	0.88	9.63	29.61
+GO:0051289	protein homotetramerization	4	1.00	0.85	9.63	85.45
+GO:0021884	forebrain neuron development	3	0.84	0.74	9.22	35.33
+GO:0071346	cellular response to interferon-gamma	2	1.00	0.82	9.63	81.65
+GO:0048709	oligodendrocyte differentiation	2	0.89	0.74	9.34	23.15
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	2	0.79	0.64	8.82	10.56
+GO:0014005	microglia development	1	1.00	0.79	9.63	67.64
+GO:0016322	neuron remodeling	1	1.00	0.79	9.63	39.56
+GO:0050823	peptide antigen stabilization	1	1.00	0.85	9.63	60.02
+GO:0060158	phospholipase C-activating dopamine receptor signaling pathway	1	1.00	0.85	9.63	57.13
+GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	1	0.89	0.80	9.46	65.81
+GO:0007603	phototransduction, visible light	1	1.00	0.85	9.63	130.00
+GO:0007213	G-protein coupled acetylcholine receptor signaling pathway	1	0.80	0.75	9.26	50.15
+GO:0046716	muscle cell cellular homeostasis	1	1.00	0.79	9.63	31.95
+GO:0014002	astrocyte development	1	0.93	0.76	9.49	34.10

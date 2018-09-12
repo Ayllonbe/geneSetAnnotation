@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6910	0.00	0.00	0.00	0.00
+GO:0035809	regulation of urine volume	5	0.84	0.67	9.38	23.21
+GO:0045648	positive regulation of erythrocyte differentiation	21	0.93	0.84	9.58	358.80
+GO:0050789	regulation of biological process	4770	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1362	0.33	0.29	4.10	4.47
+GO:0051090	regulation of DNA binding transcription factor activity	225	0.72	0.77	9.22	255.34
+GO:0051234	establishment of localization	1965	0.28	0.26	3.49	5.67
+GO:0008104	protein localization	979	0.40	0.40	5.07	7.46
+GO:0046718	viral entry into host cell	55	0.77	0.73	8.94	28.37
+GO:0007565	female pregnancy	41	1.00	0.70	9.63	32.81
+GO:0050896	response to stimulus	1935	0.25	0.12	2.65	3.37
+GO:0046718	viral entry into host cell	55	0.77	0.73	8.94	28.37
+GO:0007565	female pregnancy	41	1.00	0.70	9.63	32.81
+GO:0050896	response to stimulus	1935	0.25	0.12	2.65	3.37
+GO:0048002	antigen processing and presentation of peptide antigen	88	0.70	0.55	8.09	8.95

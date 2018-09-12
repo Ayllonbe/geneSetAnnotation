@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050793	regulation of developmental process	604	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	2556	0.12	0.26	2.47	7.96
+GO:0050896	response to stimulus	1108	0.25	0.12	2.65	3.37
+GO:0006355	regulation of transcription, DNA-templated	971	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	915	0.39	0.52	6.45	112.25
+GO:0032774	RNA biosynthetic process	684	0.53	0.62	8.04	473.34
+GO:0009636	response to toxic substance	88	0.58	0.49	6.94	9.28
+GO:0070887	cellular response to chemical stimulus	440	0.40	0.40	5.31	25.21
+GO:0080134	regulation of response to stress	399	0.35	0.42	5.03	11.65
+GO:0071310	cellular response to organic substance	352	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	348	0.39	0.39	5.18	16.68
+GO:1903706	regulation of hemopoiesis	124	0.50	0.54	7.23	38.17
+GO:0002684	positive regulation of immune system process	298	0.41	0.45	5.71	22.61
+GO:0031401	positive regulation of protein modification process	323	0.51	0.63	7.86	366.05
+GO:0006811	ion transport	272	0.38	0.44	5.19	10.99
+GO:0045321	leukocyte activation	267	0.52	0.46	6.78	16.27
+GO:0006468	protein phosphorylation	263	0.57	0.64	8.18	177.76
+GO:0018193	peptidyl-amino acid modification	228	0.39	0.54	6.24	151.15
+GO:0009628	response to abiotic stimulus	226	0.46	0.35	5.43	6.14
+GO:0034765	regulation of ion transmembrane transport	96	0.46	0.55	6.68	33.04
+GO:0034470	ncRNA processing	91	0.52	0.64	7.80	235.20
+GO:0009150	purine ribonucleotide metabolic process	83	0.55	0.67	8.37	538.25
+GO:0050804	modulation of chemical synaptic transmission	83	0.52	0.58	7.24	27.32
+GO:0043604	amide biosynthetic process	81	0.57	0.57	7.64	96.90
+GO:0048729	tissue morphogenesis	64	0.49	0.44	5.81	10.94
+GO:0043523	regulation of neuron apoptotic process	63	0.70	0.70	8.76	34.54
+GO:0030336	negative regulation of cell migration	63	0.58	0.64	8.21	158.04
+GO:0030099	myeloid cell differentiation	62	0.69	0.60	8.15	21.07
+GO:0030522	intracellular receptor signaling pathway	55	0.65	0.62	7.99	23.17
+GO:0071248	cellular response to metal ion	52	0.70	0.64	8.46	59.28
+GO:0090501	RNA phosphodiester bond hydrolysis	44	0.64	0.67	8.66	229.53
+GO:0043401	steroid hormone mediated signaling pathway	43	0.75	0.70	8.80	25.74
+GO:0030278	regulation of ossification	39	0.74	0.62	8.94	11.79
+GO:0048660	regulation of smooth muscle cell proliferation	37	0.83	0.70	9.29	15.51
+GO:0050680	negative regulation of epithelial cell proliferation	36	0.73	0.69	8.69	65.20
+GO:0090288	negative regulation of cellular response to growth factor stimulus	31	0.69	0.64	8.57	81.77
+GO:0048666	neuron development	30	0.67	0.58	8.09	32.15
+GO:0016202	regulation of striated muscle tissue development	29	0.61	0.63	8.27	41.67
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	28	0.93	0.91	9.59	279.62
+GO:0042692	muscle cell differentiation	25	0.69	0.59	8.24	21.07
+GO:0007517	muscle organ development	24	0.78	0.64	8.75	27.68
+GO:0051453	regulation of intracellular pH	18	0.72	0.77	9.24	143.07
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	16	1.00	0.95	9.63	336.65
+GO:0010922	positive regulation of phosphatase activity	16	0.76	0.78	9.27	265.28
+GO:0048863	stem cell differentiation	15	0.70	0.60	8.24	21.07
+GO:0001953	negative regulation of cell-matrix adhesion	11	0.87	0.78	9.39	66.96
+GO:0035914	skeletal muscle cell differentiation	10	0.87	0.68	9.29	21.07
+GO:0001782	B cell homeostasis	10	0.93	0.82	9.51	22.00
+GO:0002062	chondrocyte differentiation	9	0.89	0.70	9.45	21.07
+GO:0071498	cellular response to fluid shear stress	9	0.80	0.65	9.27	39.93
+GO:0045663	positive regulation of myoblast differentiation	8	0.93	0.79	9.54	114.26
+GO:0071636	positive regulation of transforming growth factor beta production	7	0.80	0.72	9.34	65.64
+GO:0050855	regulation of B cell receptor signaling pathway	7	0.89	0.80	9.46	68.86
+GO:0032967	positive regulation of collagen biosynthetic process	5	1.00	0.82	9.63	105.22
+GO:0030318	melanocyte differentiation	4	0.89	0.74	9.34	22.86
+GO:0014898	cardiac muscle hypertrophy in response to stress	4	1.00	0.85	9.63	75.67
+GO:0002467	germinal center formation	4	1.00	0.79	9.63	29.46
+GO:0071864	positive regulation of cell proliferation in bone marrow	3	1.00	0.82	9.63	63.05
+GO:0090073	positive regulation of protein homodimerization activity	3	1.00	0.82	9.63	47.42
+GO:0007269	neurotransmitter secretion	3	0.70	0.73	8.77	61.60
+GO:0002634	regulation of germinal center formation	3	0.89	0.80	9.45	44.48
+GO:0070131	positive regulation of mitochondrial translation	2	0.87	0.83	9.54	1252.19
+GO:0048667	cell morphogenesis involved in neuron differentiation	2	0.81	0.73	9.22	47.45
+GO:2000491	positive regulation of hepatic stellate cell activation	2	1.00	0.82	9.63	58.82
+GO:2000111	positive regulation of macrophage apoptotic process	2	1.00	0.90	9.63	256.05
+GO:0002638	negative regulation of immunoglobulin production	2	0.80	0.75	9.19	77.13
+GO:0042256	mature ribosome assembly	2	1.00	0.88	9.63	108.00
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0072160	nephron tubule epithelial cell differentiation	1	0.87	0.76	9.31	49.62
+GO:2000845	positive regulation of testosterone secretion	1	1.00	0.90	9.63	439.70
+GO:1904899	positive regulation of hepatic stellate cell proliferation	1	1.00	0.85	9.63	82.02

@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0010468	regulation of gene expression	506	0.35	0.46	5.09	13.73
+GO:0031325	positive regulation of cellular metabolic process	490	0.33	0.46	5.39	79.98
+GO:0022607	cellular component assembly	310	0.39	0.39	5.06	14.95
+GO:0071310	cellular response to organic substance	291	0.44	0.47	5.95	41.66
+GO:0046903	secretion	279	0.46	0.48	5.79	10.99
+GO:0034765	regulation of ion transmembrane transport	76	0.46	0.55	6.68	33.04
+GO:0051050	positive regulation of transport	196	0.42	0.50	5.84	25.90
+GO:0006952	defense response	212	0.56	0.48	6.67	9.54
+GO:0009968	negative regulation of signal transduction	200	0.44	0.54	6.68	140.65
+GO:0043066	negative regulation of apoptotic process	195	0.56	0.63	7.79	81.07
+GO:0071705	nitrogen compound transport	191	0.36	0.43	4.99	10.99
+GO:0031347	regulation of defense response	186	0.40	0.49	5.73	14.14
+GO:0055085	transmembrane transport	163	0.41	0.46	5.44	10.99
+GO:1901575	organic substance catabolic process	154	0.30	0.35	4.26	18.93
+GO:0050900	leukocyte migration	146	0.60	0.59	8.02	26.94
+GO:0006508	proteolysis	138	0.55	0.57	7.34	47.86
+GO:0019752	carboxylic acid metabolic process	113	0.32	0.45	5.31	42.50
+GO:0046415	urate metabolic process	4	0.89	0.74	9.49	153.84
+GO:0015711	organic anion transport	77	0.43	0.54	6.27	28.20
+GO:0035435	phosphate ion transmembrane transport	2	0.89	0.82	9.49	110.11
+GO:0001818	negative regulation of cytokine production	77	0.51	0.55	7.03	44.36
+GO:0062012	regulation of small molecule metabolic process	76	0.39	0.44	5.45	10.74
+GO:0001558	regulation of cell growth	69	0.58	0.58	7.66	26.25
+GO:0001505	regulation of neurotransmitter levels	49	0.49	0.44	5.98	8.64
+GO:0022900	electron transport chain	45	0.71	0.61	8.48	29.76
+GO:0043603	cellular amide metabolic process	44	0.47	0.48	6.49	29.84
+GO:0006790	sulfur compound metabolic process	40	0.44	0.42	5.69	17.52
+GO:0006367	transcription initiation from RNA polymerase II promoter	32	1.00	0.90	9.63	477.15
+GO:0043401	steroid hormone mediated signaling pathway	24	0.75	0.70	8.80	25.74
+GO:0007219	Notch signaling pathway	20	0.78	0.71	8.87	26.50
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	16	0.93	0.91	9.59	279.62
+GO:0006479	protein methylation	14	0.59	0.67	8.39	206.80
+GO:1901264	carbohydrate derivative transport	8	0.57	0.57	7.11	14.73
+GO:0006487	protein N-linked glycosylation	7	0.80	0.77	9.34	176.56
+GO:0055088	lipid homeostasis	6	0.75	0.67	8.67	13.14
+GO:0006577	amino-acid betaine metabolic process	6	0.68	0.59	8.66	53.47
+GO:1900078	positive regulation of cellular response to insulin stimulus	6	0.84	0.71	9.34	80.48
+GO:0006576	cellular biogenic amine metabolic process	6	0.58	0.61	7.91	56.94
+GO:0009313	oligosaccharide catabolic process	3	0.68	0.63	8.46	68.60
+GO:1904179	positive regulation of adipose tissue development	2	1.00	0.82	9.63	84.16
+GO:0097055	agmatine biosynthetic process	1	1.00	0.82	9.63	79.23
+GO:0038185	intracellular bile acid receptor signaling pathway	1	1.00	0.82	9.63	49.43
+GO:0018003	peptidyl-lysine N6-acetylation	1	1.00	0.93	9.63	471.02
+GO:1905695	positive regulation of phosphatidic acid biosynthetic process	1	1.00	0.92	9.63	793.84
+GO:0035543	positive regulation of SNARE complex assembly	1	1.00	0.88	9.63	341.37
+GO:1903017	positive regulation of exo-alpha-sialidase activity	1	1.00	0.82	9.63	49.74

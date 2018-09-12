@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031399	regulation of protein modification process	322	0.41	0.56	6.69	72.96
+GO:0051128	regulation of cellular component organization	440	0.30	0.40	4.57	12.04
+GO:0065009	regulation of molecular function	495	0.33	0.29	4.10	4.47
+GO:0051239	regulation of multicellular organismal process	427	0.23	0.32	3.68	7.96
+GO:0006351	transcription, DNA-templated	385	0.57	0.68	8.45	581.39
+GO:0006796	phosphate-containing compound metabolic process	341	0.36	0.43	5.28	20.85
+GO:0035556	intracellular signal transduction	303	0.51	0.55	6.92	23.17
+GO:0050794	regulation of cellular process	1604	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	287	0.32	0.36	4.60	7.96
+GO:0070887	cellular response to chemical stimulus	287	0.40	0.40	5.31	25.21
+GO:0015031	protein transport	277	0.48	0.59	6.99	54.46
+GO:0045893	positive regulation of transcription, DNA-templated	258	0.52	0.67	8.14	1208.12
+GO:0009890	negative regulation of biosynthetic process	258	0.41	0.49	5.73	39.03
+GO:0042981	regulation of apoptotic process	255	0.45	0.55	6.60	16.23
+GO:0006508	proteolysis	222	0.55	0.57	7.34	47.86
+GO:0030154	cell differentiation	217	0.39	0.39	5.18	16.68
+GO:1903530	regulation of secretion by cell	109	0.44	0.54	6.38	28.69
+GO:0051050	positive regulation of transport	174	0.42	0.50	5.84	25.90
+GO:0006974	cellular response to DNA damage stimulus	144	0.57	0.53	7.47	29.00
+GO:0008284	positive regulation of cell proliferation	139	0.56	0.57	7.27	43.45
+GO:0019221	cytokine-mediated signaling pathway	131	0.60	0.63	7.60	26.50
+GO:0031329	regulation of cellular catabolic process	131	0.43	0.51	6.41	39.60
+GO:0002263	cell activation involved in immune response	123	0.60	0.50	7.52	18.91
+GO:0006812	cation transport	107	0.45	0.51	6.21	12.09
+GO:0007186	G-protein coupled receptor signaling pathway	101	0.55	0.57	7.20	23.17
+GO:0055082	cellular chemical homeostasis	92	0.54	0.56	7.37	33.04
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	84	0.58	0.64	7.56	28.11
+GO:0048468	cell development	84	0.51	0.45	6.51	28.42
+GO:0050804	modulation of chemical synaptic transmission	40	0.52	0.58	7.24	27.32
+GO:0006486	protein glycosylation	38	0.62	0.66	8.59	174.08
+GO:0060828	regulation of canonical Wnt signaling pathway	33	0.70	0.70	8.83	44.05
+GO:0048598	embryonic morphogenesis	27	0.54	0.47	6.15	10.94
+GO:1901888	regulation of cell junction assembly	18	0.75	0.67	8.94	27.32
+GO:0060070	canonical Wnt signaling pathway	17	0.67	0.71	8.39	31.42
+GO:0048732	gland development	16	0.68	0.59	7.68	15.26
+GO:0007219	Notch signaling pathway	15	0.78	0.71	8.87	26.50
+GO:0051402	neuron apoptotic process	12	0.83	0.70	9.02	23.44
+GO:0034968	histone lysine methylation	11	0.71	0.77	9.27	765.80
+GO:0000045	autophagosome assembly	11	1.00	0.82	9.63	62.10
+GO:1901223	negative regulation of NIK/NF-kappaB signaling	8	1.00	0.88	9.63	239.20
+GO:0001756	somitogenesis	5	1.00	0.79	9.63	43.80
+GO:0038180	nerve growth factor signaling pathway	4	1.00	0.85	9.63	27.20
+GO:0007220	Notch receptor processing	3	1.00	0.82	9.63	83.35
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	2	1.00	0.79	9.63	23.39
+GO:0021795	cerebral cortex cell migration	2	0.77	0.73	9.22	22.93
+GO:0034205	amyloid-beta formation	1	1.00	0.85	9.63	108.57
+GO:0001921	positive regulation of receptor recycling	1	1.00	0.82	9.63	202.60
+GO:0005999	xylulose biosynthetic process	1	1.00	0.85	9.63	171.82

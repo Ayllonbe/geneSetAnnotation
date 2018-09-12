@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1874	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	346	0.28	0.26	3.48	4.47
+GO:0043085	positive regulation of catalytic activity	222	0.48	0.49	6.15	18.32
+GO:0050789	regulation of biological process	1464	0.09	0.17	1.80	4.47
+GO:0042769	DNA damage response, detection of DNA damage	11	0.79	0.68	9.14	39.84
+GO:0006283	transcription-coupled nucleotide-excision repair	22	1.00	0.90	9.63	184.44
+GO:0019985	translesion synthesis	9	0.89	0.84	9.57	760.22
+GO:0071704	organic substance metabolic process	1309	0.15	0.20	2.26	6.41
+GO:0009605	response to external stimulus	163	0.37	0.31	4.62	6.14
+GO:0051716	cellular response to stimulus	441	0.35	0.30	4.36	13.53
+GO:0055085	transmembrane transport	118	0.41	0.46	5.44	10.99
+GO:0071702	organic substance transport	342	0.33	0.41	4.62	10.99
+GO:0002376	immune system process	316	0.38	0.19	3.93	3.37
+GO:0046907	intracellular transport	301	0.46	0.48	6.38	29.65
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	74	0.58	0.64	7.56	28.11
+GO:0051262	protein tetramerization	27	0.89	0.77	9.41	42.03
+GO:0000086	G2/M transition of mitotic cell cycle	25	1.00	0.79	9.63	43.45
+GO:0060326	cell chemotaxis	25	0.64	0.61	8.15	30.29
+GO:0060271	cilium assembly	22	0.87	0.76	9.41	137.68
+GO:0030182	neuron differentiation	20	0.58	0.54	7.21	21.07
+GO:0097711	ciliary basal body-plasma membrane docking	14	1.00	0.79	9.63	21.39
+GO:0007286	spermatid development	9	1.00	0.79	9.63	72.78
+GO:0060337	type I interferon signaling pathway	8	1.00	0.85	9.63	30.19
+GO:0070365	hepatocyte differentiation	5	1.00	0.79	9.63	24.20
+GO:0035590	purinergic nucleotide receptor signaling pathway	4	0.93	0.82	9.51	27.20
+GO:0038111	interleukin-7-mediated signaling pathway	3	1.00	0.85	9.63	30.19

@@ -1,0 +1,86 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3996	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	2192	0.23	0.31	3.63	19.40
+GO:0019219	regulation of nucleobase-containing compound metabolic process	1768	0.33	0.45	5.50	54.14
+GO:0006810	transport	1665	0.28	0.34	3.95	7.46
+GO:0006508	proteolysis	545	0.55	0.57	7.34	47.86
+GO:0044267	cellular protein metabolic process	1481	0.34	0.46	5.57	80.87
+GO:0016578	histone deubiquitination	12	0.84	0.84	9.51	392.05
+GO:0051252	regulation of RNA metabolic process	1641	0.37	0.51	6.06	70.58
+GO:0017148	negative regulation of translation	63	0.65	0.70	9.08	1114.67
+GO:0007165	signal transduction	1615	0.36	0.43	5.06	19.43
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	30	0.93	0.82	9.56	84.23
+GO:0045454	cell redox homeostasis	27	1.00	0.79	9.63	31.94
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	138	0.61	0.63	8.36	112.25
+GO:0016070	RNA metabolic process	1473	0.39	0.52	6.45	112.25
+GO:0010604	positive regulation of macromolecule metabolic process	1329	0.37	0.48	5.51	38.99
+GO:0032268	regulation of cellular protein metabolic process	1105	0.37	0.51	6.13	70.76
+GO:0031324	negative regulation of cellular metabolic process	1079	0.34	0.46	5.46	80.35
+GO:0051239	regulation of multicellular organismal process	1067	0.23	0.32	3.68	7.96
+GO:0010033	response to organic substance	826	0.35	0.37	4.75	9.28
+GO:0065003	protein-containing complex assembly	719	0.45	0.48	6.06	36.47
+GO:0035494	SNARE complex disassembly	2	1.00	0.82	9.63	39.99
+GO:0033554	cellular response to stress	715	0.44	0.42	6.05	25.47
+GO:0030154	cell differentiation	544	0.39	0.39	5.18	16.68
+GO:0048468	cell development	222	0.51	0.45	6.51	28.42
+GO:0009967	positive regulation of signal transduction	683	0.44	0.54	6.71	140.23
+GO:0010941	regulation of cell death	681	0.43	0.47	6.10	12.04
+GO:0045595	regulation of cell differentiation	650	0.34	0.42	5.25	23.33
+GO:0015031	protein transport	649	0.48	0.59	6.99	54.46
+GO:0071310	cellular response to organic substance	562	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	492	0.44	0.54	6.68	140.65
+GO:0008593	regulation of Notch signaling pathway	37	0.81	0.73	9.41	41.85
+GO:0051726	regulation of cell cycle	498	0.41	0.45	5.89	12.04
+GO:0048856	anatomical structure development	498	0.33	0.29	3.70	6.46
+GO:0051223	regulation of protein transport	310	0.49	0.57	7.04	29.14
+GO:0060627	regulation of vesicle-mediated transport	231	0.48	0.53	6.81	26.12
+GO:0006629	lipid metabolic process	471	0.37	0.38	5.19	18.42
+GO:0032502	developmental process	1114	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	438	0.33	0.16	3.12	3.37
+GO:0006887	exocytosis	400	0.67	0.66	8.38	37.08
+GO:0043549	regulation of kinase activity	399	0.53	0.64	7.76	45.51
+GO:0007010	cytoskeleton organization	317	0.52	0.51	6.76	18.35
+GO:0006955	immune response	286	0.54	0.40	6.57	12.45
+GO:2000147	positive regulation of cell motility	212	0.58	0.61	8.05	115.84
+GO:0098542	defense response to other organism	199	0.66	0.62	8.42	39.21
+GO:0042176	regulation of protein catabolic process	185	0.59	0.62	8.21	56.79
+GO:0006699	bile acid biosynthetic process	16	1.00	0.88	9.63	493.35
+GO:0006631	fatty acid metabolic process	149	0.54	0.62	7.85	91.02
+GO:0006091	generation of precursor metabolites and energy	156	0.53	0.46	6.54	17.52
+GO:0046649	lymphocyte activation	152	0.55	0.52	7.16	18.06
+GO:0048193	Golgi vesicle transport	150	0.72	0.65	8.47	13.98
+GO:0009636	response to toxic substance	137	0.58	0.49	6.94	9.28
+GO:0044772	mitotic cell cycle phase transition	131	0.84	0.67	9.04	28.43
+GO:0001666	response to hypoxia	122	0.81	0.70	9.12	21.16
+GO:0006914	autophagy	116	0.67	0.59	8.40	37.75
+GO:0046488	phosphatidylinositol metabolic process	83	0.68	0.69	8.80	147.20
+GO:0008360	regulation of cell shape	81	0.68	0.66	8.69	41.78
+GO:0090316	positive regulation of intracellular protein transport	80	0.71	0.73	9.11	289.79
+GO:0009267	cellular response to starvation	72	0.64	0.64	8.46	112.77
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	65	1.00	0.79	9.63	42.20
+GO:0010508	positive regulation of autophagy	64	0.72	0.71	9.04	216.89
+GO:0002821	positive regulation of adaptive immune response	58	0.62	0.63	8.31	108.81
+GO:0042102	positive regulation of T cell proliferation	57	0.78	0.78	9.42	564.85
+GO:1903202	negative regulation of oxidative stress-induced cell death	26	0.79	0.77	9.57	224.85
+GO:0001954	positive regulation of cell-matrix adhesion	25	0.87	0.76	9.34	50.26
+GO:0034754	cellular hormone metabolic process	24	0.59	0.59	8.02	37.69
+GO:0006094	gluconeogenesis	23	1.00	0.85	9.63	174.61
+GO:0051402	neuron apoptotic process	23	0.83	0.70	9.02	23.44
+GO:0045620	negative regulation of lymphocyte differentiation	22	0.67	0.71	9.10	509.27
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	17	1.00	0.92	9.63	990.06
+GO:0042744	hydrogen peroxide catabolic process	16	0.93	0.79	9.56	235.80
+GO:0006096	glycolytic process	16	0.74	0.82	9.54	14773.91
+GO:0061512	protein localization to cilium	15	0.80	0.72	9.22	32.77
+GO:0010613	positive regulation of cardiac muscle hypertrophy	13	0.89	0.82	9.49	95.58
+GO:0002675	positive regulation of acute inflammatory response	12	0.71	0.73	8.97	164.52
+GO:0007628	adult walking behavior	8	1.00	0.75	9.63	34.94
+GO:0034315	regulation of Arp2/3 complex-mediated actin nucleation	7	0.89	0.89	9.55	156.02
+GO:0072488	ammonium transmembrane transport	7	0.78	0.74	9.19	79.76
+GO:0006853	carnitine shuttle	6	1.00	0.93	9.63	360.11
+GO:0031584	activation of phospholipase D activity	4	1.00	0.88	9.63	67.58
+GO:0019563	glycerol catabolic process	3	0.84	0.80	9.51	382.06
+GO:0032385	positive regulation of intracellular cholesterol transport	2	0.93	0.86	9.59	694.47
+GO:0051771	negative regulation of nitric-oxide synthase biosynthetic process	2	1.00	0.85	9.63	147.30
+GO:0006127	glycerophosphate shuttle	1	1.00	0.96	9.63	421.94
+GO:1904924	negative regulation of mitophagy in response to mitochondrial depolarization	1	1.00	0.92	9.63	863.78
+GO:0048211	Golgi vesicle docking	1	1.00	0.82	9.63	22.49

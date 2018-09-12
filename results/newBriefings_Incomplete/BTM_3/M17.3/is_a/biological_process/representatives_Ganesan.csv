@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	733	0.09	0.17	1.80	4.47
+GO:0032502	developmental process	245	0.22	0.11	1.89	3.37
+GO:0032502	developmental process	245	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	100	0.33	0.16	3.12	3.37
+GO:0006351	transcription, DNA-templated	75	0.57	0.68	8.45	581.39
+GO:0060326	cell chemotaxis	68	0.64	0.61	8.15	30.29
+GO:0030855	epithelial cell differentiation	20	0.55	0.52	6.96	21.07
+GO:0048704	embryonic skeletal system morphogenesis	10	0.87	0.72	9.38	45.49
+GO:0060070	canonical Wnt signaling pathway	9	0.67	0.71	8.39	31.42
+GO:0060218	hematopoietic stem cell differentiation	2	1.00	0.79	9.63	45.53
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0060535	trachea cartilage morphogenesis	1	1.00	0.79	9.63	28.83
+GO:0060435	bronchiole development	1	1.00	0.79	9.63	30.90
+GO:0060480	lung goblet cell differentiation	1	1.00	0.85	9.63	75.98

@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	824	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	708	0.09	0.17	1.80	4.47
+GO:0051716	cellular response to stimulus	240	0.35	0.30	4.36	13.53
+GO:0045055	regulated exocytosis	131	0.69	0.69	8.57	38.47
+GO:0051704	multi-organism process	120	0.29	0.15	3.12	3.37
+GO:0051641	cellular localization	101	0.37	0.31	4.44	5.67
+GO:0048856	anatomical structure development	89	0.33	0.29	3.70	6.46
+GO:0051345	positive regulation of hydrolase activity	69	0.57	0.57	7.42	32.99
+GO:0051259	protein complex oligomerization	34	0.78	0.68	9.09	40.42
+GO:0030036	actin cytoskeleton organization	26	0.63	0.61	8.05	29.61
+GO:0007044	cell-substrate junction assembly	11	0.87	0.72	9.38	36.10
+GO:0030032	lamellipodium assembly	5	0.89	0.77	9.53	78.22
+GO:0048675	axon extension	5	0.89	0.74	9.43	51.99
+GO:0008286	insulin receptor signaling pathway	5	0.87	0.81	9.34	31.00
+GO:0034333	adherens junction assembly	5	0.84	0.74	9.34	54.64
+GO:0006906	vesicle fusion	4	0.68	0.66	8.56	63.10
+GO:0048041	focal adhesion assembly	4	1.00	0.88	9.63	92.53
+GO:0014829	vascular smooth muscle contraction	3	0.87	0.83	9.52	55.69
+GO:0030239	myofibril assembly	2	0.84	0.77	9.45	124.77
+GO:0032060	bleb assembly	2	1.00	0.82	9.63	58.57
+GO:0030049	muscle filament sliding	2	1.00	0.82	9.63	20.96
+GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
+GO:0070836	caveola assembly	2	1.00	0.85	9.63	78.00
+GO:0010761	fibroblast migration	1	0.93	0.79	9.49	22.57
+GO:0043297	apical junction assembly	1	1.00	0.82	9.63	56.14
+GO:0048741	skeletal muscle fiber development	1	1.00	0.85	9.63	69.28
+GO:0000045	autophagosome assembly	1	1.00	0.82	9.63	62.10
+GO:0048251	elastic fiber assembly	1	1.00	0.82	9.63	39.54

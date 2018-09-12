@@ -1,0 +1,3 @@
+"Category"	"Term"	"Count"	"X."	"PValue"	"Genes"	"List.Total"	"Pop.Hits"	"Pop.Total"	"Fold.Enrichment"	"Bonferroni"	"Benjamini"	"FDR"
+"GOTERM_BP_DIRECT"	"GO:0043280~positive regulation of cysteine-type endopeptidase activity involved in apoptotic process"	2	14.2857142857143	0.0282226164137973	"408, 1612"	13	40	16792	64.5846153846154	0.978425064207193	0.978425064207193	28.4798914763764
+"GOTERM_BP_DIRECT"	"GO:0001934~positive regulation of protein phosphorylation"	2	14.2857142857143	0.0871031790780206	"408, 8321"	13	127	16792	20.3416111447608	0.999995028275115	0.997770263494338	65.596299213457

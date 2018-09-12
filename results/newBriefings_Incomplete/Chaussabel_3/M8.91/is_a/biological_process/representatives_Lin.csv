@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043170	macromolecule metabolic process	251	0.25	0.32	3.46	10.22
+GO:0010468	regulation of gene expression	151	0.35	0.46	5.09	13.73
+GO:0010646	regulation of cell communication	81	0.30	0.40	4.51	12.04
+GO:0051049	regulation of transport	62	0.31	0.40	4.67	10.45
+GO:0051130	positive regulation of cellular component organization	48	0.42	0.50	5.95	43.84
+GO:0009605	response to external stimulus	35	0.37	0.31	4.62	6.14
+GO:0002682	regulation of immune system process	30	0.32	0.36	4.60	7.96
+GO:0045937	positive regulation of phosphate metabolic process	22	0.51	0.60	7.47	145.91
+GO:0032091	negative regulation of protein binding	4	0.70	0.64	8.48	32.72
+GO:0034643	establishment of mitochondrion localization, microtubule-mediated	3	0.79	0.72	9.30	64.68
+GO:0007614	short-term memory	2	1.00	0.85	9.63	22.23
+GO:0009743	response to carbohydrate	2	0.63	0.57	8.10	27.32
+GO:0043524	negative regulation of neuron apoptotic process	2	0.79	0.77	9.25	179.63
+GO:0016064	immunoglobulin mediated immune response	1	0.76	0.70	9.04	30.58
+GO:0007266	Rho protein signal transduction	1	0.93	0.84	9.52	29.61
+GO:0035771	interleukin-4-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0097345	mitochondrial outer membrane permeabilization	1	1.00	0.92	9.63	138.60
+GO:0010835	regulation of protein ADP-ribosylation	1	0.93	0.84	9.55	75.95

@@ -1,0 +1,8 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	112	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	104	0.08	0.04	0.98	3.37
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	4	1.00	0.93	9.63	888.12
+GO:0045087	innate immune response	13	0.68	0.59	8.16	26.47
+GO:0050790	regulation of catalytic activity	26	0.37	0.39	4.99	6.77
+GO:0008104	protein localization	27	0.40	0.40	5.07	7.46
+GO:0006810	transport	41	0.28	0.34	3.95	7.46

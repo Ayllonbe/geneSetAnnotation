@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	355	0.28	0.34	3.95	7.46
+GO:0008202	steroid metabolic process	6	0.57	0.53	7.51	35.32
+GO:1901564	organonitrogen compound metabolic process	267	0.23	0.31	3.63	19.40
+GO:0031326	regulation of cellular biosynthetic process	256	0.29	0.44	4.86	40.35
+GO:0006464	cellular protein modification process	141	0.34	0.49	5.84	147.03
+GO:0008284	positive regulation of cell proliferation	118	0.56	0.57	7.27	43.45
+GO:0009653	anatomical structure morphogenesis	70	0.36	0.31	4.09	6.46
+GO:0034765	regulation of ion transmembrane transport	47	0.46	0.55	6.68	33.04
+GO:0051259	protein complex oligomerization	36	0.78	0.68	9.09	40.42
+GO:0001558	regulation of cell growth	35	0.58	0.58	7.66	26.25
+GO:0043603	cellular amide metabolic process	25	0.47	0.48	6.49	29.84
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	3	0.78	0.74	9.16	25.38
+GO:1902204	positive regulation of hepatocyte growth factor receptor signaling pathway	1	1.00	0.85	9.63	186.95
+GO:0009313	oligosaccharide catabolic process	1	0.68	0.63	8.46	68.60

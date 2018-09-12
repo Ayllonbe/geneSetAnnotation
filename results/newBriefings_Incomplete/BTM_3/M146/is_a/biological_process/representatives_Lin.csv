@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	581	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	1761	0.09	0.05	0.84	3.37
+GO:0048583	regulation of response to stimulus	787	0.25	0.32	3.72	7.96
+GO:0032879	regulation of localization	500	0.27	0.33	4.05	7.96
+GO:0007166	cell surface receptor signaling pathway	559	0.43	0.51	5.91	23.17
+GO:0002682	regulation of immune system process	464	0.32	0.36	4.60	7.96
+GO:0001932	regulation of protein phosphorylation	280	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	242	0.52	0.67	8.14	1208.12
+GO:0001932	regulation of protein phosphorylation	280	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	242	0.52	0.67	8.14	1208.12
+GO:0001932	regulation of protein phosphorylation	280	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	242	0.52	0.67	8.14	1208.12
+GO:0001932	regulation of protein phosphorylation	280	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	242	0.52	0.67	8.14	1208.12
+GO:0051049	regulation of transport	328	0.31	0.40	4.67	10.45
+GO:0009967	positive regulation of signal transduction	323	0.44	0.54	6.71	140.23
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0006952	defense response	229	0.56	0.48	6.67	9.54
+GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0006952	defense response	229	0.56	0.48	6.67	9.54
+GO:0033993	response to lipid	197	0.53	0.51	6.86	13.32
+GO:0014070	response to organic cyclic compound	158	0.45	0.47	5.96	13.32
+GO:2001183	negative regulation of interleukin-12 secretion	2	1.00	0.92	9.63	753.97
+GO:0001819	positive regulation of cytokine production	142	0.51	0.54	6.97	44.26
+GO:0071345	cellular response to cytokine stimulus	91	0.67	0.63	8.21	61.60
+GO:0051259	protein complex oligomerization	79	0.78	0.68	9.09	40.42
+GO:0006886	intracellular protein transport	72	0.55	0.65	8.12	90.55
+GO:0048002	antigen processing and presentation of peptide antigen	38	0.70	0.55	8.09	8.95
+GO:0051701	interaction with host	36	0.38	0.39	5.05	8.50
+GO:0048146	positive regulation of fibroblast proliferation	22	0.89	0.77	9.43	63.75
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	19	1.00	0.82	9.63	26.43
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0032507	maintenance of protein location in cell	11	0.68	0.63	8.41	43.86
+GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:1901797	negative regulation of signal transduction by p53 class mediator	6	0.83	0.79	9.47	239.49
+GO:0046598	positive regulation of viral entry into host cell	4	0.93	0.84	9.55	85.02
+GO:0007252	I-kappaB phosphorylation	4	1.00	0.88	9.63	180.75
+GO:0002666	positive regulation of T cell tolerance induction	3	0.87	0.78	9.49	165.82
+GO:0051085	chaperone cofactor-dependent protein refolding	3	1.00	0.79	9.63	21.14
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0035397	helper T cell enhancement of adaptive immune response	1	0.89	0.82	9.49	141.16

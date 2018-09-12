@@ -1,0 +1,74 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1273	0.09	0.05	0.84	3.37
+GO:0048522	positive regulation of cellular process	604	0.24	0.37	3.90	23.85
+GO:0006810	transport	472	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	377	0.22	0.11	1.89	3.37
+GO:0001550	ovarian cumulus expansion	1	1.00	0.70	9.63	21.72
+GO:0010468	regulation of gene expression	361	0.35	0.46	5.09	13.73
+GO:0009605	response to external stimulus	217	0.37	0.31	4.62	6.14
+GO:0031328	positive regulation of cellular biosynthetic process	216	0.41	0.53	6.32	170.14
+GO:0050778	positive regulation of immune response	174	0.46	0.52	6.76	78.39
+GO:1902533	positive regulation of intracellular signal transduction	166	0.55	0.63	7.95	189.48
+GO:2000145	regulation of cell motility	163	0.47	0.52	6.88	34.54
+GO:0006952	defense response	146	0.56	0.48	6.67	9.54
+GO:0043066	negative regulation of apoptotic process	130	0.56	0.63	7.79	81.07
+GO:0010243	response to organonitrogen compound	125	0.45	0.48	6.23	25.43
+GO:0051251	positive regulation of lymphocyte activation	97	0.58	0.64	8.19	127.58
+GO:0006875	cellular metal ion homeostasis	96	0.59	0.67	8.36	105.84
+GO:0001819	positive regulation of cytokine production	95	0.51	0.54	6.97	44.26
+GO:0015031	protein transport	94	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	90	0.59	0.62	7.95	48.62
+GO:0098662	inorganic cation transmembrane transport	79	0.58	0.64	7.91	76.35
+GO:0006897	endocytosis	70	0.63	0.61	8.09	26.36
+GO:0071345	cellular response to cytokine stimulus	64	0.67	0.63	8.21	61.60
+GO:0043087	regulation of GTPase activity	61	0.87	0.72	9.29	12.47
+GO:0001818	negative regulation of cytokine production	54	0.51	0.55	7.03	44.36
+GO:0043406	positive regulation of MAP kinase activity	49	0.70	0.80	9.37	2605.69
+GO:0018108	peptidyl-tyrosine phosphorylation	42	0.81	0.80	9.41	338.33
+GO:0006816	calcium ion transport	38	0.67	0.71	8.69	35.67
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	36	0.62	0.66	8.48	139.22
+GO:0045766	positive regulation of angiogenesis	33	0.81	0.76	9.30	134.49
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	33	0.79	0.81	9.45	779.36
+GO:0002576	platelet degranulation	32	1.00	0.88	9.63	39.86
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	25	0.93	0.91	9.59	279.44
+GO:0016311	dephosphorylation	24	0.68	0.63	8.33	24.41
+GO:0046854	phosphatidylinositol phosphorylation	22	1.00	0.88	9.63	218.74
+GO:0046718	viral entry into host cell	20	0.77	0.73	8.94	28.37
+GO:0050680	negative regulation of epithelial cell proliferation	20	0.73	0.69	8.69	65.20
+GO:0042100	B cell proliferation	19	0.87	0.76	9.39	50.60
+GO:0006865	amino acid transport	18	0.52	0.64	7.71	64.92
+GO:0050728	negative regulation of inflammatory response	17	0.67	0.69	8.71	126.18
+GO:0042130	negative regulation of T cell proliferation	16	0.78	0.78	9.42	581.93
+GO:0031032	actomyosin structure organization	15	0.72	0.68	8.76	32.01
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	15	0.93	0.93	9.60	734.49
+GO:0010595	positive regulation of endothelial cell migration	15	0.83	0.81	9.49	298.63
+GO:0072659	protein localization to plasma membrane	14	0.79	0.72	9.26	65.43
+GO:1902476	chloride transmembrane transport	14	1.00	0.88	9.63	110.52
+GO:0009267	cellular response to starvation	14	0.64	0.64	8.46	112.77
+GO:0045840	positive regulation of mitotic nuclear division	13	0.71	0.73	9.14	276.06
+GO:0006665	sphingolipid metabolic process	12	0.61	0.63	8.44	65.68
+GO:2000249	regulation of actin cytoskeleton reorganization	10	0.89	0.82	9.43	36.20
+GO:0001954	positive regulation of cell-matrix adhesion	9	0.87	0.76	9.34	50.26
+GO:0000209	protein polyubiquitination	8	0.77	0.80	9.22	155.40
+GO:0001782	B cell homeostasis	7	0.93	0.82	9.51	22.00
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	7	1.00	0.92	9.63	570.20
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	6	1.00	0.88	9.63	500.32
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	6	0.83	0.85	9.50	3778.55
+GO:2000353	positive regulation of endothelial cell apoptotic process	6	1.00	0.90	9.63	129.82
+GO:0045986	negative regulation of smooth muscle contraction	5	0.75	0.75	8.98	66.40
+GO:0046825	regulation of protein export from nucleus	5	0.71	0.73	9.09	125.87
+GO:0042761	very long-chain fatty acid biosynthetic process	4	1.00	0.90	9.63	456.76
+GO:0051023	regulation of immunoglobulin secretion	4	0.89	0.82	9.52	116.25
+GO:0030497	fatty acid elongation	4	0.84	0.82	9.51	362.33
+GO:0045627	positive regulation of T-helper 1 cell differentiation	3	1.00	0.96	9.63	2605.16
+GO:0043252	sodium-independent organic anion transport	3	1.00	0.85	9.63	31.89
+GO:0001573	ganglioside metabolic process	2	0.87	0.81	9.53	252.36
+GO:0071360	cellular response to exogenous dsRNA	2	1.00	0.85	9.63	172.53
+GO:2001186	negative regulation of CD8-positive, alpha-beta T cell activation	2	0.89	0.86	9.55	305.21
+GO:0051902	negative regulation of mitochondrial depolarization	1	1.00	0.88	9.63	107.51
+GO:1905404	positive regulation of activated CD8-positive, alpha-beta T cell apoptotic process	1	1.00	0.93	9.63	182.60
+GO:0071329	cellular response to sucrose stimulus	1	1.00	0.85	9.63	186.90
+GO:0051151	negative regulation of smooth muscle cell differentiation	1	0.81	0.76	9.30	145.65
+GO:0061684	chaperone-mediated autophagy	1	1.00	0.82	9.63	237.71
+GO:1905146	lysosomal protein catabolic process	1	1.00	0.88	9.63	325.41
+GO:1902311	regulation of copper ion transmembrane transport	1	0.89	0.82	9.45	56.27

@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1139	0.00	0.00	0.00	0.00
+GO:0050794	regulation of cellular process	785	0.12	0.26	2.47	7.96
+GO:1905098	negative regulation of guanyl-nucleotide exchange factor activity	2	0.93	0.79	9.56	99.11
+GO:0044237	cellular metabolic process	498	0.16	0.21	2.71	13.80
+GO:0006810	transport	384	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	360	0.28	0.26	3.74	11.45
+GO:0051716	cellular response to stimulus	270	0.35	0.30	4.36	13.53
+GO:0042221	response to chemical	268	0.32	0.29	4.12	6.14
+GO:0019538	protein metabolic process	221	0.31	0.41	4.91	44.77
+GO:0006366	transcription by RNA polymerase II	41	0.60	0.72	8.61	583.88
+GO:0010941	regulation of cell death	152	0.43	0.47	6.10	12.04

@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	778	0.12	0.26	2.47	7.96
+GO:0071704	organic substance metabolic process	731	0.15	0.20	2.26	6.41
+GO:0048522	positive regulation of cellular process	412	0.24	0.37	3.90	23.85
+GO:0006810	transport	360	0.28	0.34	3.95	7.46
+GO:0031324	negative regulation of cellular metabolic process	207	0.34	0.46	5.46	80.35
+GO:0071310	cellular response to organic substance	101	0.44	0.47	5.95	41.66
+GO:0002683	negative regulation of immune system process	39	0.43	0.47	5.92	22.69
+GO:0051260	protein homooligomerization	31	0.89	0.77	9.41	42.03
+GO:0090257	regulation of muscle system process	17	0.52	0.55	7.00	14.36
+GO:0034644	cellular response to UV	10	0.80	0.75	9.22	66.19
+GO:0010595	positive regulation of endothelial cell migration	7	0.83	0.81	9.49	298.63
+GO:0010524	positive regulation of calcium ion transport into cytosol	6	0.81	0.85	9.49	446.86
+GO:0032308	positive regulation of prostaglandin secretion	1	0.89	0.86	9.55	484.67
+GO:0048515	spermatid differentiation	1	1.00	0.75	9.63	60.60

@@ -1,0 +1,7 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2512	0.00	0.00	0.00	0.00
+GO:0043923	positive regulation by host of viral transcription	4	1.00	0.93	9.63	272.30
+GO:0046718	viral entry into host cell	26	0.77	0.73	8.94	28.37
+GO:0065007	biological regulation	1810	0.08	0.04	0.98	3.37
+GO:0048169	regulation of long-term neuronal synaptic plasticity	5	0.89	0.84	9.46	42.76
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	36	1.00	0.79	9.63	42.20

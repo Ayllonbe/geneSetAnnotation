@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019222	regulation of metabolic process	135	0.21	0.30	3.39	7.96
+GO:0048519	negative regulation of biological process	99	0.21	0.30	3.07	7.96
+GO:0060255	regulation of macromolecule metabolic process	126	0.26	0.38	4.09	10.74
+GO:0090304	nucleic acid metabolic process	107	0.35	0.46	5.97	111.15
+GO:0048522	positive regulation of cellular process	100	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	86	0.24	0.37	3.90	23.93
+GO:0044267	cellular protein metabolic process	77	0.34	0.46	5.57	80.87
+GO:0051716	cellular response to stimulus	58	0.35	0.30	4.36	13.53
+GO:0006950	response to stress	52	0.39	0.32	4.70	6.14
+GO:0009966	regulation of signal transduction	45	0.33	0.45	5.35	37.59
+GO:0035556	intracellular signal transduction	32	0.51	0.55	6.92	23.17
+GO:0043547	positive regulation of GTPase activity	10	0.93	0.79	9.52	49.34
+GO:0008016	regulation of heart contraction	6	0.57	0.61	7.59	16.15
+GO:0030036	actin cytoskeleton organization	5	0.63	0.61	8.05	29.61
+GO:0032868	response to insulin	4	0.93	0.82	9.54	74.03
+GO:0050727	regulation of inflammatory response	4	0.53	0.59	7.40	31.59
+GO:0060372	regulation of atrial cardiac muscle cell membrane repolarization	1	0.87	0.83	9.47	48.26
+GO:1904062	regulation of cation transmembrane transport	4	0.49	0.59	7.03	34.83
+GO:0007565	female pregnancy	3	1.00	0.70	9.63	32.81
+GO:0019933	cAMP-mediated signaling	2	0.77	0.76	9.12	28.51
+GO:0007218	neuropeptide signaling pathway	2	0.93	0.79	9.49	26.98
+GO:0048008	platelet-derived growth factor receptor signaling pathway	2	0.78	0.76	9.19	31.00
+GO:0065002	intracellular protein transmembrane transport	2	0.78	0.78	9.22	167.44
+GO:0051795	positive regulation of timing of catagen	1	1.00	0.88	9.63	253.10
+GO:0007168	receptor guanylyl cyclase signaling pathway	1	1.00	0.85	9.63	28.11
+GO:0140059	dendrite arborization	1	0.89	0.84	9.50	131.01
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	1	1.00	0.95	9.63	336.65
+GO:0097421	liver regeneration	1	1.00	0.82	9.63	47.22
+GO:0051464	positive regulation of cortisol secretion	1	1.00	0.95	9.63	911.29
+GO:0006182	cGMP biosynthetic process	1	1.00	0.93	9.63	6128.11
+GO:0050880	regulation of blood vessel size	1	0.63	0.61	8.30	24.53
+GO:0060997	dendritic spine morphogenesis	1	1.00	0.88	9.63	122.19
+GO:0006337	nucleosome disassembly	1	0.87	0.76	9.39	96.25
+GO:0061049	cell growth involved in cardiac muscle cell development	1	0.93	0.72	9.49	32.43
+GO:0043114	regulation of vascular permeability	1	0.84	0.71	9.18	21.20
+GO:0048714	positive regulation of oligodendrocyte differentiation	1	1.00	0.92	9.63	471.69
+GO:0030073	insulin secretion	1	0.93	0.86	9.59	236.68

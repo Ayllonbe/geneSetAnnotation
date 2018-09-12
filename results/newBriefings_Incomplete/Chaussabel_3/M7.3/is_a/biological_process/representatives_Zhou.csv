@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1762	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1245	0.08	0.04	0.98	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	5	1.00	0.82	9.63	33.25
+GO:0001701	in utero embryonic development	23	1.00	0.85	9.63	22.50
+GO:0039529	RIG-I signaling pathway	1	1.00	0.96	9.63	557.61
+GO:0008542	visual learning	7	1.00	0.88	9.63	51.66
+GO:0051704	multi-organism process	112	0.29	0.15	3.12	3.37
+GO:0065007	biological regulation	1245	0.08	0.04	0.98	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	5	1.00	0.82	9.63	33.25
+GO:0001701	in utero embryonic development	23	1.00	0.85	9.63	22.50
+GO:0039529	RIG-I signaling pathway	1	1.00	0.96	9.63	557.61
+GO:0008542	visual learning	7	1.00	0.88	9.63	51.66
+GO:0051704	multi-organism process	112	0.29	0.15	3.12	3.37
+GO:0008333	endosome to lysosome transport	12	0.84	0.74	9.37	62.68
+GO:0006810	transport	502	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	128	0.45	0.48	6.33	26.83

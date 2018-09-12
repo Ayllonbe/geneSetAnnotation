@@ -1,0 +1,87 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019222	regulation of metabolic process	330	0.21	0.30	3.39	7.96
+GO:0048522	positive regulation of cellular process	252	0.24	0.37	3.90	23.85
+GO:0045766	positive regulation of angiogenesis	9	0.81	0.76	9.30	134.49
+GO:0048523	negative regulation of cellular process	223	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	218	0.35	0.46	5.97	111.15
+GO:0006464	cellular protein modification process	146	0.34	0.49	5.84	147.03
+GO:0051128	regulation of cellular component organization	145	0.30	0.40	4.57	12.04
+GO:0006950	response to stress	137	0.39	0.32	4.70	6.14
+GO:0009966	regulation of signal transduction	124	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	99	0.32	0.29	4.16	13.85
+GO:0007166	cell surface receptor signaling pathway	96	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	86	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	83	0.52	0.51	6.57	10.99
+GO:0065003	protein-containing complex assembly	81	0.45	0.48	6.06	36.47
+GO:0019220	regulation of phosphate metabolic process	81	0.41	0.53	6.26	28.98
+GO:0015031	protein transport	77	0.48	0.59	6.99	54.46
+GO:0051240	positive regulation of multicellular organismal process	72	0.35	0.42	4.98	23.60
+GO:0043066	negative regulation of apoptotic process	44	0.56	0.63	7.79	81.07
+GO:0043068	positive regulation of programmed cell death	27	0.54	0.60	7.55	59.39
+GO:0051241	negative regulation of multicellular organismal process	48	0.35	0.42	4.99	23.69
+GO:1903827	regulation of cellular protein localization	41	0.48	0.53	6.86	25.72
+GO:0006629	lipid metabolic process	39	0.37	0.38	5.19	18.42
+GO:0007010	cytoskeleton organization	37	0.52	0.51	6.76	18.35
+GO:0080134	regulation of response to stress	70	0.35	0.42	5.03	11.65
+GO:0032101	regulation of response to external stimulus	36	0.40	0.45	5.60	11.65
+GO:0030334	regulation of cell migration	35	0.48	0.56	7.11	36.74
+GO:0007186	G-protein coupled receptor signaling pathway	31	0.55	0.57	7.20	23.17
+GO:0043547	positive regulation of GTPase activity	28	0.93	0.79	9.52	49.34
+GO:0019221	cytokine-mediated signaling pathway	25	0.60	0.63	7.60	26.50
+GO:0051707	response to other organism	24	0.42	0.46	6.41	24.63
+GO:0006914	autophagy	16	0.67	0.59	8.40	37.75
+GO:0007265	Ras protein signal transduction	16	0.76	0.73	8.94	27.53
+GO:0030031	cell projection assembly	16	0.67	0.59	8.12	35.52
+GO:0016055	Wnt signaling pathway	15	0.59	0.65	7.65	28.58
+GO:0002696	positive regulation of leukocyte activation	15	0.57	0.61	7.92	96.44
+GO:0071478	cellular response to radiation	12	0.67	0.63	8.53	36.92
+GO:0007565	female pregnancy	11	1.00	0.70	9.63	32.81
+GO:0060271	cilium assembly	11	0.87	0.76	9.41	137.68
+GO:0006639	acylglycerol metabolic process	3	0.73	0.69	8.99	83.80
+GO:0006650	glycerophospholipid metabolic process	9	0.59	0.62	8.12	144.72
+GO:0034329	cell junction assembly	9	0.71	0.61	8.53	35.01
+GO:0000902	cell morphogenesis	9	0.63	0.56	7.92	43.26
+GO:0007204	positive regulation of cytosolic calcium ion concentration	8	0.68	0.77	9.10	290.30
+GO:0006334	nucleosome assembly	8	0.87	0.78	9.47	104.52
+GO:0072384	organelle transport along microtubule	6	0.68	0.69	8.94	89.06
+GO:0000082	G1/S transition of mitotic cell cycle	6	1.00	0.79	9.63	42.75
+GO:0000086	G2/M transition of mitotic cell cycle	6	1.00	0.79	9.63	43.45
+GO:0032482	Rab protein signal transduction	6	1.00	0.88	9.63	29.61
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	5	1.00	0.92	9.63	384.64
+GO:0031100	animal organ regeneration	5	0.89	0.70	9.29	28.09
+GO:0045652	regulation of megakaryocyte differentiation	5	0.89	0.80	9.46	68.96
+GO:0042098	T cell proliferation	4	0.72	0.69	9.08	51.29
+GO:0010001	glial cell differentiation	4	0.72	0.61	8.40	21.07
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	4	0.83	0.79	9.19	31.00
+GO:0016601	Rac protein signal transduction	3	1.00	0.88	9.63	29.61
+GO:0051705	multi-organism behavior	3	0.56	0.41	6.68	12.83
+GO:0002227	innate immune response in mucosa	3	1.00	0.79	9.63	46.05
+GO:0007595	lactation	3	1.00	0.82	9.63	25.96
+GO:0051402	neuron apoptotic process	3	0.83	0.70	9.02	23.44
+GO:0032402	melanosome transport	2	1.00	0.88	9.63	154.04
+GO:0051683	establishment of Golgi localization	2	1.00	0.79	9.63	43.32
+GO:0009749	response to glucose	2	0.89	0.80	9.41	32.96
+GO:0002062	chondrocyte differentiation	2	0.89	0.70	9.45	21.07
+GO:1903671	negative regulation of sprouting angiogenesis	2	0.87	0.83	9.46	200.37
+GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	2	1.00	0.88	9.63	164.98
+GO:0030913	paranodal junction assembly	2	1.00	0.82	9.63	88.99
+GO:0006900	vesicle budding from membrane	1	0.80	0.69	9.09	39.27
+GO:0021960	anterior commissure morphogenesis	1	1.00	0.93	9.63	69.80
+GO:0061141	lung ciliated cell differentiation	1	1.00	0.82	9.63	47.35
+GO:0060509	Type I pneumocyte differentiation	1	1.00	0.82	9.63	47.35
+GO:0055015	ventricular cardiac muscle cell development	1	1.00	0.85	9.63	69.56
+GO:0010748	negative regulation of plasma membrane long-chain fatty acid transport	1	1.00	0.90	9.63	652.39
+GO:0050482	arachidonic acid secretion	1	1.00	0.95	9.63	224.86
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	1	1.00	0.82	9.63	41.85
+GO:0051684	maintenance of Golgi location	1	1.00	0.82	9.63	40.06
+GO:0007084	mitotic nuclear envelope reassembly	1	1.00	0.82	9.63	35.64
+GO:0060510	Type II pneumocyte differentiation	1	1.00	0.85	9.63	48.45
+GO:0060574	intestinal epithelial cell maturation	1	1.00	0.82	9.63	41.35
+GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	1	1.00	0.88	9.63	145.47
+GO:0030050	vesicle transport along actin filament	1	0.93	0.82	9.57	136.86
+GO:0014003	oligodendrocyte development	1	1.00	0.79	9.63	34.10
+GO:0060689	cell differentiation involved in salivary gland development	1	0.84	0.67	9.16	21.07
+GO:0001992	regulation of systemic arterial blood pressure by vasopressin	1	1.00	0.85	9.63	25.38
+GO:0002578	negative regulation of antigen processing and presentation	1	0.69	0.64	8.48	38.83
+GO:0031581	hemidesmosome assembly	1	1.00	0.82	9.63	36.80
+GO:0060486	Clara cell differentiation	1	1.00	0.82	9.63	47.35

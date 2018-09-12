@@ -1,0 +1,49 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	829	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	706	0.24	0.37	3.90	23.93
+GO:0070887	cellular response to chemical stimulus	347	0.40	0.40	5.31	25.21
+GO:0009967	positive regulation of signal transduction	328	0.44	0.54	6.71	140.23
+GO:0030154	cell differentiation	302	0.39	0.39	5.18	16.68
+GO:0008284	positive regulation of cell proliferation	244	0.56	0.57	7.27	43.45
+GO:0001934	positive regulation of protein phosphorylation	210	0.58	0.69	8.60	663.11
+GO:0030334	regulation of cell migration	208	0.48	0.56	7.11	36.74
+GO:0043312	neutrophil degranulation	177	1.00	0.90	9.63	132.80
+GO:0051707	response to other organism	173	0.42	0.46	6.41	24.63
+GO:0045087	innate immune response	162	0.68	0.59	8.16	26.47
+GO:0006508	proteolysis	152	0.55	0.57	7.34	47.86
+GO:0009725	response to hormone	152	0.53	0.51	7.03	21.86
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0015031	protein transport	139	0.48	0.59	6.99	54.46
+GO:0032496	response to lipopolysaccharide	114	0.89	0.74	9.45	64.41
+GO:1902532	negative regulation of intracellular signal transduction	97	0.57	0.64	8.15	189.94
+GO:0043547	positive regulation of GTPase activity	76	0.93	0.79	9.52	49.34
+GO:0001558	regulation of cell growth	72	0.58	0.58	7.66	26.25
+GO:0045861	negative regulation of proteolysis	67	0.61	0.68	8.71	337.18
+GO:0006469	negative regulation of protein kinase activity	51	0.68	0.76	9.22	1097.06
+GO:0043687	post-translational protein modification	49	0.65	0.67	8.51	151.15
+GO:0045666	positive regulation of neuron differentiation	40	0.62	0.68	8.71	337.32
+GO:0002573	myeloid leukocyte differentiation	37	0.74	0.66	8.74	45.13
+GO:0034614	cellular response to reactive oxygen species	35	0.77	0.67	9.20	144.09
+GO:0051099	positive regulation of binding	34	0.61	0.55	7.48	18.40
+GO:0006956	complement activation	27	0.84	0.77	9.47	169.64
+GO:0045995	regulation of embryonic development	26	0.50	0.54	6.89	27.38
+GO:0030449	regulation of complement activation	25	0.69	0.72	9.30	245.77
+GO:0006909	phagocytosis	24	0.93	0.79	9.49	28.44
+GO:0032091	negative regulation of protein binding	24	0.70	0.64	8.48	32.72
+GO:0032526	response to retinoic acid	21	0.93	0.76	9.49	43.79
+GO:1903901	negative regulation of viral life cycle	20	0.76	0.73	9.04	63.59
+GO:0007517	muscle organ development	18	0.78	0.64	8.75	27.68
+GO:0022617	extracellular matrix disassembly	16	0.87	0.72	9.38	37.09
+GO:0050810	regulation of steroid biosynthetic process	16	0.61	0.65	8.27	49.64
+GO:2000484	positive regulation of interleukin-8 secretion	10	1.00	0.92	9.63	753.50
+GO:2001258	negative regulation of cation channel activity	10	0.71	0.75	9.10	527.32
+GO:0051965	positive regulation of synapse assembly	8	0.83	0.76	9.44	224.64
+GO:0050765	negative regulation of phagocytosis	5	0.84	0.80	9.50	175.42
+GO:0034394	protein localization to cell surface	5	1.00	0.79	9.63	29.83
+GO:0051549	positive regulation of keratinocyte migration	4	1.00	0.90	9.63	297.94
+GO:0045217	cell-cell junction maintenance	4	0.87	0.72	9.31	51.61
+GO:0045762	positive regulation of adenylate cyclase activity	3	0.89	0.89	9.59	6276.06
+GO:0051414	response to cortisol	2	0.93	0.84	9.56	108.88
+GO:0002752	cell surface pattern recognition receptor signaling pathway	2	1.00	0.93	9.63	1037.77
+GO:0032224	positive regulation of synaptic transmission, cholinergic	1	0.93	0.84	9.56	136.12
+GO:0032487	regulation of Rap protein signal transduction	1	1.00	0.90	9.63	48.76

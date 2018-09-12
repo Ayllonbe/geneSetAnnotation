@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	708	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	234	0.32	0.36	4.60	7.96
+GO:0010468	regulation of gene expression	233	0.35	0.46	5.09	13.73
+GO:0050793	regulation of developmental process	219	0.26	0.33	3.95	7.96
+GO:0042127	regulation of cell proliferation	167	0.45	0.48	6.03	12.04
+GO:0016477	cell migration	122	0.47	0.48	6.31	17.13
+GO:0006351	transcription, DNA-templated	83	0.57	0.68	8.45	581.39
+GO:0009653	anatomical structure morphogenesis	67	0.36	0.31	4.09	6.46
+GO:0043065	positive regulation of apoptotic process	57	0.56	0.63	7.81	80.91
+GO:0002521	leukocyte differentiation	55	0.58	0.54	7.41	21.07
+GO:0048513	animal organ development	49	0.50	0.45	5.88	11.73
+GO:0030855	epithelial cell differentiation	20	0.55	0.52	6.96	21.07
+GO:0007229	integrin-mediated signaling pathway	13	1.00	0.82	9.63	26.50
+GO:0060070	canonical Wnt signaling pathway	9	0.67	0.71	8.39	31.42
+GO:0048863	stem cell differentiation	9	0.70	0.60	8.24	21.07
+GO:0071277	cellular response to calcium ion	7	1.00	0.82	9.63	78.50
+GO:0048534	hematopoietic or lymphoid organ development	7	0.73	0.62	8.31	15.26
+GO:0035987	endodermal cell differentiation	7	1.00	0.75	9.63	21.07
+GO:0006641	triglyceride metabolic process	6	0.84	0.77	9.32	85.59
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0001953	negative regulation of cell-matrix adhesion	4	0.87	0.78	9.39	66.96
+GO:2000738	positive regulation of stem cell differentiation	3	0.78	0.71	9.19	114.96
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0035855	megakaryocyte development	2	1.00	0.79	9.63	66.39
+GO:0010870	positive regulation of receptor biosynthetic process	1	0.84	0.77	9.47	258.62
+GO:0060435	bronchiole development	1	1.00	0.79	9.63	30.90

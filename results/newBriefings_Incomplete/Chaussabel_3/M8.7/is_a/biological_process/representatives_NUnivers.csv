@@ -1,0 +1,81 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	1025	0.24	0.37	3.90	23.85
+GO:0006355	regulation of transcription, DNA-templated	741	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	661	0.34	0.49	5.84	147.03
+GO:0032774	RNA biosynthetic process	521	0.53	0.62	8.04	473.34
+GO:0006996	organelle organization	465	0.39	0.39	5.17	14.95
+GO:0007166	cell surface receptor signaling pathway	453	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	426	0.32	0.29	4.16	13.85
+GO:0065003	protein-containing complex assembly	332	0.45	0.48	6.06	36.47
+GO:0045893	positive regulation of transcription, DNA-templated	312	0.52	0.67	8.14	1208.12
+GO:0071310	cellular response to organic substance	273	0.44	0.47	5.95	41.66
+GO:0045892	negative regulation of transcription, DNA-templated	253	0.56	0.69	8.52	1581.26
+GO:0006886	intracellular protein transport	210	0.55	0.65	8.12	90.55
+GO:0051603	proteolysis involved in cellular protein catabolic process	152	0.65	0.65	8.27	49.65
+GO:0043312	neutrophil degranulation	112	1.00	0.90	9.63	132.80
+GO:0022604	regulation of cell morphogenesis	111	0.53	0.56	7.35	31.06
+GO:0006281	DNA repair	109	0.63	0.66	8.78	180.34
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	10	1.00	0.88	9.63	115.14
+GO:0006397	mRNA processing	99	0.71	0.73	9.17	234.35
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	93	0.76	0.78	9.31	348.36
+GO:0006874	cellular calcium ion homeostasis	65	0.63	0.71	8.83	287.08
+GO:0009150	purine ribonucleotide metabolic process	62	0.55	0.67	8.37	538.25
+GO:2001235	positive regulation of apoptotic signaling pathway	54	0.70	0.72	9.18	291.46
+GO:0048545	response to steroid hormone	46	0.69	0.64	8.94	60.25
+GO:2001056	positive regulation of cysteine-type endopeptidase activity	35	0.79	0.83	9.51	564.45
+GO:0006665	sphingolipid metabolic process	34	0.61	0.63	8.44	65.68
+GO:0017148	negative regulation of translation	33	0.65	0.70	9.08	1114.67
+GO:0070588	calcium ion transmembrane transport	32	0.71	0.75	9.08	116.68
+GO:0034504	protein localization to nucleus	32	0.72	0.68	8.76	32.77
+GO:0006406	mRNA export from nucleus	31	0.89	0.84	9.52	121.36
+GO:0042542	response to hydrogen peroxide	31	0.93	0.76	9.54	79.29
+GO:0045621	positive regulation of lymphocyte differentiation	30	0.67	0.71	9.10	508.22
+GO:0046718	viral entry into host cell	29	0.77	0.73	8.94	28.37
+GO:0097191	extrinsic apoptotic signaling pathway	29	0.83	0.74	9.22	51.06
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	28	0.87	0.88	9.56	734.49
+GO:0071456	cellular response to hypoxia	27	1.00	0.82	9.63	103.25
+GO:0045471	response to ethanol	24	0.93	0.76	9.52	69.73
+GO:0032355	response to estradiol	24	0.93	0.76	9.52	74.25
+GO:0010508	positive regulation of autophagy	22	0.72	0.71	9.04	216.89
+GO:0071260	cellular response to mechanical stimulus	22	1.00	0.79	9.63	56.12
+GO:0045727	positive regulation of translation	21	0.66	0.71	9.12	1032.69
+GO:0000724	double-strand break repair via homologous recombination	21	0.87	0.83	9.52	520.62
+GO:0016573	histone acetylation	20	0.69	0.78	9.12	658.07
+GO:0043488	regulation of mRNA stability	20	0.74	0.77	9.24	282.23
+GO:0043200	response to amino acid	19	0.64	0.61	8.41	56.71
+GO:0009749	response to glucose	19	0.89	0.80	9.41	32.96
+GO:0051438	regulation of ubiquitin-protein transferase activity	18	0.81	0.82	9.47	92.41
+GO:0006909	phagocytosis	17	0.93	0.79	9.49	28.44
+GO:0034260	negative regulation of GTPase activity	16	1.00	0.82	9.63	61.14
+GO:0035264	multicellular organism growth	14	1.00	0.70	9.63	22.58
+GO:0030521	androgen receptor signaling pathway	13	0.89	0.82	9.45	54.01
+GO:1903779	regulation of cardiac conduction	13	0.69	0.70	8.76	28.83
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	13	0.93	0.82	9.56	84.23
+GO:0033574	response to testosterone	12	0.93	0.76	9.53	91.04
+GO:0006007	glucose catabolic process	10	0.76	0.73	9.16	174.24
+GO:0000289	nuclear-transcribed mRNA poly(A) tail shortening	10	0.93	0.88	9.60	717.25
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	9	1.00	0.92	9.63	990.06
+GO:0031440	regulation of mRNA 3'-end processing	8	0.81	0.80	9.43	93.36
+GO:0051497	negative regulation of stress fiber assembly	8	1.00	0.93	9.63	338.84
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	7	1.00	0.93	9.63	1297.42
+GO:0010918	positive regulation of mitochondrial membrane potential	6	1.00	0.79	9.63	24.66
+GO:1903077	negative regulation of protein localization to plasma membrane	5	0.84	0.80	9.49	218.53
+GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter	5	1.00	0.95	9.63	3433.05
+GO:0080182	histone H3-K4 trimethylation	4	1.00	0.95	9.63	1138.74
+GO:0033077	T cell differentiation in thymus	4	0.87	0.78	9.42	66.99
+GO:0071316	cellular response to nicotine	4	1.00	0.79	9.63	116.91
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	4	1.00	0.85	9.63	108.68
+GO:0030851	granulocyte differentiation	3	0.87	0.76	9.31	47.07
+GO:0051571	positive regulation of histone H3-K4 methylation	3	0.93	0.90	9.60	804.04
+GO:0071786	endoplasmic reticulum tubular network organization	3	0.87	0.72	9.22	19.96
+GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	2	1.00	0.90	9.63	197.69
+GO:0002038	positive regulation of L-glutamate import across plasma membrane	2	0.93	0.90	9.60	765.58
+GO:0019050	suppression by virus of host apoptotic process	2	0.93	0.90	9.60	597.66
+GO:0034201	response to oleic acid	2	0.93	0.79	9.51	46.19
+GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
+GO:0060154	cellular process regulating host cell cycle in response to virus	1	1.00	0.85	9.63	44.50
+GO:0060139	positive regulation of apoptotic process by virus	1	0.89	0.89	9.60	739.02
+GO:0071247	cellular response to chromate	1	1.00	0.79	9.63	117.25
+GO:0006452	translational frameshifting	1	1.00	0.85	9.63	106.95
+GO:0033133	positive regulation of glucokinase activity	1	1.00	0.93	9.63	693.13
+GO:2000078	positive regulation of type B pancreatic cell development	1	1.00	0.85	9.63	383.35

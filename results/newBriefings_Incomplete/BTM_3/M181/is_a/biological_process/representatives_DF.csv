@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006260	DNA replication	35	0.73	0.72	9.27	254.20
+GO:1901564	organonitrogen compound metabolic process	454	0.23	0.31	3.63	19.40
+GO:0070887	cellular response to chemical stimulus	257	0.40	0.40	5.31	25.21
+GO:0010243	response to organonitrogen compound	132	0.45	0.48	6.23	25.43
+GO:0006468	protein phosphorylation	117	0.57	0.64	8.18	177.76
+GO:0048513	animal organ development	77	0.50	0.45	5.88	11.73
+GO:0001666	response to hypoxia	43	0.81	0.70	9.12	21.16
+GO:1901654	response to ketone	34	0.60	0.55	7.63	27.32
+GO:0009260	ribonucleotide biosynthetic process	23	0.59	0.69	8.78	1153.89
+GO:0009263	deoxyribonucleotide biosynthetic process	3	0.69	0.74	9.25	956.10
+GO:1901605	alpha-amino acid metabolic process	25	0.44	0.57	6.86	80.64
+GO:0051262	protein tetramerization	14	0.89	0.77	9.41	42.03
+GO:0009060	aerobic respiration	13	0.77	0.71	8.87	31.55
+GO:0070317	negative regulation of G0 to G1 transition	10	1.00	0.85	9.63	83.03
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	9	0.89	0.86	9.54	264.07
+GO:0007565	female pregnancy	8	1.00	0.70	9.63	32.81
+GO:0007595	lactation	5	1.00	0.82	9.63	25.96
+GO:0006760	folic acid-containing compound metabolic process	4	0.73	0.69	9.33	232.08

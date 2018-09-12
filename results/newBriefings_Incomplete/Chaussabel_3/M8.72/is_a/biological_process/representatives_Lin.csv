@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	517	0.40	0.60	6.84	245.35
+GO:0006351	transcription, DNA-templated	347	0.57	0.68	8.45	581.39
+GO:0044265	cellular macromolecule catabolic process	155	0.55	0.56	7.70	100.33
+GO:0006974	cellular response to DNA damage stimulus	131	0.57	0.53	7.47	29.00
+GO:0008380	RNA splicing	64	0.72	0.74	9.18	117.48
+GO:0071363	cellular response to growth factor stimulus	42	0.77	0.67	8.94	60.39
+GO:0000209	protein polyubiquitination	40	0.77	0.80	9.22	155.40
+GO:0040013	negative regulation of locomotion	38	0.55	0.52	6.95	22.16
+GO:0001755	neural crest cell migration	8	0.80	0.72	9.09	22.57
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	6	0.93	0.90	9.60	659.85
+GO:0071526	semaphorin-plexin signaling pathway	5	0.81	0.73	9.09	26.50
+GO:0001756	somitogenesis	3	1.00	0.79	9.63	43.80
+GO:0031087	deadenylation-independent decapping of nuclear-transcribed mRNA	3	0.93	0.82	9.56	114.45
+GO:0021915	neural tube development	3	1.00	0.79	9.63	33.01
+GO:0071878	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	2	0.93	0.88	9.58	527.67
+GO:1904568	cellular response to wortmannin	1	1.00	0.82	9.63	197.49
+GO:1905312	positive regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis	1	1.00	0.88	9.63	891.28
+GO:0140074	cardiac endothelial to mesenchymal transition	1	1.00	0.79	9.63	23.15
+GO:0031651	negative regulation of heat generation	1	0.93	0.76	9.51	50.19
+GO:1990646	cellular response to prolactin	1	1.00	0.88	9.63	462.70
+GO:0071352	cellular response to interleukin-2	1	1.00	0.82	9.63	81.65

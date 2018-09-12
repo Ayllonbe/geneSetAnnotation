@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	3354	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	2703	0.08	0.04	0.98	3.37
+GO:0050896	response to stimulus	1064	0.25	0.12	2.65	3.37
+GO:0045591	positive regulation of regulatory T cell differentiation	3	0.89	0.86	9.60	997.81
+GO:0044093	positive regulation of molecular function	451	0.43	0.41	5.23	6.77
+GO:0042730	fibrinolysis	9	1.00	0.90	9.63	252.90
+GO:0050789	regulation of biological process	2609	0.09	0.17	1.80	4.47
+GO:0045591	positive regulation of regulatory T cell differentiation	3	0.89	0.86	9.60	997.81
+GO:0044093	positive regulation of molecular function	451	0.43	0.41	5.23	6.77
+GO:0042730	fibrinolysis	9	1.00	0.90	9.63	252.90
+GO:0050789	regulation of biological process	2609	0.09	0.17	1.80	4.47
+GO:0044248	cellular catabolic process	486	0.31	0.36	4.57	26.23
+GO:0071704	organic substance metabolic process	2292	0.15	0.20	2.26	6.41
+GO:0009117	nucleotide metabolic process	122	0.44	0.57	7.31	170.44
+GO:0008104	protein localization	510	0.40	0.40	5.07	7.46
+GO:0006810	transport	1045	0.28	0.34	3.95	7.46
+GO:0043312	neutrophil degranulation	155	1.00	0.90	9.63	132.80
+GO:0050900	leukocyte migration	94	0.60	0.59	8.02	26.94
+GO:0030217	T cell differentiation	34	0.66	0.65	8.68	65.05
+GO:0051851	modification by host of symbiont morphology or physiology	25	0.54	0.56	7.41	24.28
+GO:0051290	protein heterotetramerization	9	1.00	0.85	9.63	85.45
+GO:0060563	neuroepithelial cell differentiation	7	0.77	0.71	8.80	25.59
+GO:0070365	hepatocyte differentiation	5	1.00	0.79	9.63	24.20
+GO:0046847	filopodium assembly	4	0.93	0.79	9.52	58.57
+GO:0001765	membrane raft assembly	4	0.89	0.74	9.51	58.55
+GO:0048715	negative regulation of oligodendrocyte differentiation	3	1.00	0.92	9.63	472.52
+GO:0002328	pro-B cell differentiation	1	1.00	0.82	9.63	23.26

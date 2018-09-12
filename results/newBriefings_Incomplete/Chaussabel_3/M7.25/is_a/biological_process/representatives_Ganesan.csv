@@ -1,0 +1,131 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	4124	0.12	0.26	2.47	7.96
+GO:0010468	regulation of gene expression	1953	0.35	0.46	5.09	13.73
+GO:0006355	regulation of transcription, DNA-templated	1592	0.40	0.60	6.84	245.35
+GO:0016070	RNA metabolic process	1530	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	1373	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1284	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	1092	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	1036	0.57	0.68	8.45	581.39
+GO:0006796	phosphate-containing compound metabolic process	909	0.36	0.43	5.28	20.85
+GO:0033554	cellular response to stress	743	0.44	0.42	6.05	25.47
+GO:0035556	intracellular signal transduction	734	0.51	0.55	6.92	23.17
+GO:0032270	positive regulation of cellular protein metabolic process	696	0.47	0.59	7.41	288.49
+GO:0045732	positive regulation of protein catabolic process	111	0.70	0.70	9.03	231.05
+GO:0070887	cellular response to chemical stimulus	712	0.40	0.40	5.31	25.21
+GO:0042325	regulation of phosphorylation	659	0.47	0.59	6.88	31.28
+GO:0042981	regulation of apoptotic process	653	0.45	0.55	6.60	16.23
+GO:0006508	proteolysis	567	0.55	0.57	7.34	47.86
+GO:0006886	intracellular protein transport	428	0.55	0.65	8.12	90.55
+GO:0006259	DNA metabolic process	397	0.45	0.55	7.12	145.26
+GO:0010564	regulation of cell cycle process	367	0.42	0.50	6.22	14.24
+GO:0006366	transcription by RNA polymerase II	304	0.60	0.72	8.61	583.88
+GO:0043312	neutrophil degranulation	290	1.00	0.90	9.63	132.80
+GO:0034660	ncRNA metabolic process	270	0.46	0.58	7.25	115.08
+GO:0055086	nucleobase-containing small molecule metabolic process	249	0.38	0.48	6.63	107.58
+GO:0051493	regulation of cytoskeleton organization	236	0.51	0.58	7.03	19.19
+GO:0006897	endocytosis	194	0.63	0.61	8.09	26.36
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	189	0.76	0.78	9.31	348.36
+GO:0051052	regulation of DNA metabolic process	189	0.47	0.56	7.17	70.58
+GO:0000226	microtubule cytoskeleton organization	172	0.58	0.58	7.66	30.31
+GO:0051098	regulation of binding	168	0.50	0.45	6.36	6.77
+GO:0043547	positive regulation of GTPase activity	168	0.93	0.79	9.52	49.34
+GO:0010506	regulation of autophagy	162	0.63	0.64	8.27	43.36
+GO:0001666	response to hypoxia	125	0.81	0.70	9.12	21.16
+GO:0030100	regulation of endocytosis	117	0.59	0.62	8.15	44.91
+GO:0016072	rRNA metabolic process	115	0.61	0.68	8.41	117.72
+GO:0006352	DNA-templated transcription, initiation	99	0.83	0.79	9.45	475.54
+GO:0060271	cilium assembly	90	0.87	0.76	9.41	137.68
+GO:0010976	positive regulation of neuron projection development	87	0.68	0.73	9.14	493.19
+GO:0090316	positive regulation of intracellular protein transport	84	0.71	0.73	9.11	289.79
+GO:0001701	in utero embryonic development	82	1.00	0.85	9.63	22.50
+GO:0006367	transcription initiation from RNA polymerase II promoter	81	1.00	0.90	9.63	477.15
+GO:0006816	calcium ion transport	74	0.67	0.71	8.69	35.67
+GO:0000086	G2/M transition of mitotic cell cycle	71	1.00	0.79	9.63	43.45
+GO:0050852	T cell receptor signaling pathway	69	1.00	0.92	9.63	219.43
+GO:0019722	calcium-mediated signaling	63	0.72	0.71	8.71	27.81
+GO:0000082	G1/S transition of mitotic cell cycle	59	1.00	0.79	9.63	42.75
+GO:1903169	regulation of calcium ion transmembrane transport	58	0.63	0.69	8.50	58.21
+GO:0022904	respiratory electron transport chain	53	0.74	0.66	8.68	30.45
+GO:0006694	steroid biosynthetic process	52	0.67	0.63	8.59	127.07
+GO:0008016	regulation of heart contraction	52	0.57	0.61	7.59	16.15
+GO:0006354	DNA-templated transcription, elongation	47	0.81	0.78	9.45	475.54
+GO:0007052	mitotic spindle organization	44	0.83	0.76	9.28	96.22
+GO:0097711	ciliary basal body-plasma membrane docking	42	1.00	0.79	9.63	21.39
+GO:0007517	muscle organ development	40	0.78	0.64	8.75	27.68
+GO:0051225	spindle assembly	38	0.75	0.73	9.17	86.84
+GO:0032482	Rab protein signal transduction	37	1.00	0.88	9.63	29.61
+GO:0035264	multicellular organism growth	36	1.00	0.70	9.63	22.58
+GO:2001022	positive regulation of response to DNA damage stimulus	35	0.70	0.70	8.89	86.91
+GO:0038095	Fc-epsilon receptor signaling pathway	34	0.93	0.84	9.55	78.48
+GO:0042180	cellular ketone metabolic process	32	0.50	0.45	6.72	37.09
+GO:0018022	peptidyl-lysine methylation	29	0.69	0.74	9.15	367.05
+GO:0045540	regulation of cholesterol biosynthetic process	28	0.89	0.84	9.49	116.99
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	28	1.00	0.88	9.63	115.14
+GO:0007286	spermatid development	26	1.00	0.79	9.63	72.78
+GO:0015918	sterol transport	25	0.74	0.69	8.80	36.24
+GO:1902476	chloride transmembrane transport	24	1.00	0.88	9.63	110.52
+GO:0006294	nucleotide-excision repair, preincision complex assembly	24	1.00	0.85	9.63	65.90
+GO:0045070	positive regulation of viral genome replication	23	0.89	0.82	9.47	85.31
+GO:0043966	histone H3 acetylation	22	0.77	0.83	9.35	659.45
+GO:0006370	7-methylguanosine mRNA capping	22	1.00	0.92	9.63	354.47
+GO:0042073	intraciliary transport	22	0.87	0.78	9.45	76.71
+GO:0006363	termination of RNA polymerase I transcription	21	1.00	0.90	9.63	477.15
+GO:0000070	mitotic sister chromatid segregation	21	1.00	0.82	9.63	56.84
+GO:0006378	mRNA polyadenylation	20	0.93	0.88	9.58	472.44
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	18	0.78	0.71	8.87	26.98
+GO:0030032	lamellipodium assembly	17	0.89	0.77	9.53	78.22
+GO:0030488	tRNA methylation	16	0.74	0.80	9.31	684.86
+GO:0043153	entrainment of circadian clock by photoperiod	14	1.00	0.82	9.63	32.76
+GO:0061621	canonical glycolysis	14	1.00	0.99	9.63	17318.20
+GO:0070584	mitochondrion morphogenesis	14	1.00	0.79	9.63	64.70
+GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	14	1.00	0.88	9.63	67.29
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	13	1.00	0.93	9.63	1297.42
+GO:0055069	zinc ion homeostasis	13	0.93	0.86	9.54	74.23
+GO:0002456	T cell mediated immunity	13	0.76	0.67	9.12	29.49
+GO:0048268	clathrin coat assembly	12	0.84	0.74	9.31	44.52
+GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	12	1.00	0.92	9.63	581.32
+GO:0000212	meiotic spindle organization	11	0.77	0.73	9.17	69.68
+GO:0006884	cell volume homeostasis	11	0.87	0.76	9.39	49.53
+GO:0042572	retinol metabolic process	11	1.00	0.90	9.63	118.01
+GO:0071318	cellular response to ATP	10	1.00	0.85	9.63	523.25
+GO:0042462	eye photoreceptor cell development	10	0.79	0.72	9.00	34.93
+GO:0035589	G-protein coupled purinergic nucleotide receptor signaling pathway	9	1.00	0.88	9.63	82.06
+GO:0035249	synaptic transmission, glutamatergic	8	1.00	0.88	9.63	25.74
+GO:0070920	regulation of production of small RNA involved in gene silencing by RNA	8	0.74	0.75	9.25	116.65
+GO:0031573	intra-S DNA damage checkpoint	8	1.00	0.92	9.63	277.39
+GO:0035196	production of miRNAs involved in gene silencing by miRNA	7	1.00	0.92	9.63	119.56
+GO:0006268	DNA unwinding involved in DNA replication	7	0.83	0.79	9.34	24.42
+GO:0034498	early endosome to Golgi transport	6	1.00	0.85	9.63	101.51
+GO:0098789	pre-mRNA cleavage required for polyadenylation	6	1.00	0.92	9.63	348.70
+GO:0001973	adenosine receptor signaling pathway	6	1.00	0.88	9.63	54.87
+GO:0045475	locomotor rhythm	5	1.00	0.75	9.63	28.71
+GO:0033173	calcineurin-NFAT signaling cascade	5	1.00	0.90	9.63	57.93
+GO:0060287	epithelial cilium movement involved in determination of left/right asymmetry	5	1.00	0.82	9.63	22.06
+GO:0031053	primary miRNA processing	5	0.89	0.84	9.57	237.28
+GO:0001675	acrosome assembly	5	1.00	0.82	9.63	135.95
+GO:0072673	lamellipodium morphogenesis	5	1.00	0.85	9.63	82.65
+GO:0031054	pre-miRNA processing	4	1.00	0.90	9.63	237.28
+GO:0035315	hair cell differentiation	4	0.81	0.73	9.14	49.43
+GO:0030423	targeting of mRNA for destruction involved in RNA interference	4	1.00	0.85	9.63	66.60
+GO:1905064	negative regulation of vascular smooth muscle cell differentiation	3	0.87	0.81	9.49	296.18
+GO:0010807	regulation of synaptic vesicle priming	3	0.89	0.88	9.56	294.22
+GO:0030422	production of siRNA involved in RNA interference	3	0.93	0.88	9.57	119.56
+GO:0033499	galactose catabolic process via UDP-galactose	3	1.00	0.88	9.63	174.93
+GO:0006880	intracellular sequestering of iron ion	3	1.00	0.82	9.63	44.55
+GO:0035087	siRNA loading onto RISC involved in RNA interference	3	1.00	0.88	9.63	67.69
+GO:0035494	SNARE complex disassembly	3	1.00	0.82	9.63	39.99
+GO:0050689	negative regulation of defense response to virus by host	3	1.00	0.88	9.63	351.97
+GO:0010138	pyrimidine ribonucleotide salvage	3	0.87	0.87	9.57	5684.31
+GO:0035280	miRNA loading onto RISC involved in gene silencing by miRNA	3	1.00	0.88	9.63	67.69
+GO:0071048	nuclear retention of unspliced pre-mRNA at the site of transcription	2	1.00	0.82	9.63	27.63
+GO:0001113	transcriptional open complex formation at RNA polymerase II promoter	2	1.00	0.85	9.63	38.21
+GO:0034316	negative regulation of Arp2/3 complex-mediated actin nucleation	2	1.00	0.96	9.63	474.94
+GO:0060453	regulation of gastric acid secretion	2	0.83	0.74	9.43	33.40
+GO:0018008	N-terminal peptidyl-glycine N-myristoylation	2	1.00	0.92	9.63	773.11
+GO:0000717	nucleotide-excision repair, DNA duplex unwinding	2	1.00	0.88	9.63	24.42
+GO:0070150	mitochondrial glycyl-tRNA aminoacylation	2	1.00	0.95	9.63	531.03
+GO:0001111	promoter clearance from RNA polymerase II promoter	1	1.00	0.90	9.63	476.93
+GO:0070903	mitochondrial tRNA thio-modification	1	0.93	0.91	9.60	1967.69
+GO:0000453	enzyme-directed rRNA 2'-O-methylation	1	1.00	0.96	9.63	684.97
+GO:0002143	tRNA wobble position uridine thiolation	1	0.93	0.93	9.59	992.16

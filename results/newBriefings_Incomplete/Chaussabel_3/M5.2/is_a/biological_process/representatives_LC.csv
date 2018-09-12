@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7462	0.00	0.00	0.00	0.00
+GO:0061158	3'-UTR-mediated mRNA destabilization	9	1.00	0.93	9.63	2713.94
+GO:0042592	homeostatic process	520	0.45	0.42	5.70	8.64
+GO:0050789	regulation of biological process	5119	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1452	0.33	0.29	4.10	4.47
+GO:0008104	protein localization	1055	0.40	0.40	5.07	7.46
+GO:0006810	transport	2049	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	1334	0.22	0.11	1.89	3.37
+GO:0051704	multi-organism process	496	0.29	0.15	3.12	3.37
+GO:0048002	antigen processing and presentation of peptide antigen	92	0.70	0.55	8.09	8.95

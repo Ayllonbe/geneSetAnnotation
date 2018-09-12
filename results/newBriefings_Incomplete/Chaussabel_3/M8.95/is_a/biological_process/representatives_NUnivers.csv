@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	327	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	230	0.12	0.26	2.47	7.96
+GO:1903506	regulation of nucleic acid-templated transcription	94	0.40	0.58	6.66	149.90
+GO:0050896	response to stimulus	93	0.25	0.12	2.65	3.37
+GO:0006464	cellular protein modification process	81	0.34	0.49	5.84	147.03
+GO:0031325	positive regulation of cellular metabolic process	69	0.33	0.46	5.39	79.98
+GO:0051246	regulation of protein metabolic process	60	0.34	0.46	5.46	41.09
+GO:0015031	protein transport	52	0.48	0.59	6.99	54.46
+GO:0006366	transcription by RNA polymerase II	26	0.60	0.72	8.61	583.88
+GO:0006906	vesicle fusion	6	0.68	0.66	8.56	63.10
+GO:0050766	positive regulation of phagocytosis	4	0.77	0.76	9.34	175.33
+GO:0032103	positive regulation of response to external stimulus	4	0.53	0.55	7.02	42.20
+GO:0048525	negative regulation of viral process	3	0.71	0.68	8.66	43.32
+GO:0007517	muscle organ development	2	0.78	0.64	8.75	27.68
+GO:0044869	negative regulation by host of viral exo-alpha-sialidase activity	1	1.00	0.92	9.63	511.15

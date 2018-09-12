@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	244	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	140	0.21	0.30	3.05	7.96
+GO:0048522	positive regulation of cellular process	124	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	124	0.35	0.46	5.09	13.73
+GO:0048523	negative regulation of cellular process	100	0.24	0.37	3.90	23.93
+GO:0031325	positive regulation of cellular metabolic process	73	0.33	0.46	5.39	79.98
+GO:0006469	negative regulation of protein kinase activity	5	0.68	0.76	9.22	1097.06
+GO:0010033	response to organic substance	38	0.35	0.37	4.75	9.28
+GO:0006468	protein phosphorylation	22	0.57	0.64	8.18	177.76
+GO:0006952	defense response	20	0.56	0.48	6.67	9.54
+GO:0006913	nucleocytoplasmic transport	18	0.63	0.64	8.15	33.20
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	14	0.58	0.64	7.56	28.11
+GO:0050778	positive regulation of immune response	12	0.46	0.52	6.76	78.39
+GO:0034765	regulation of ion transmembrane transport	8	0.46	0.55	6.68	33.04
+GO:0060271	cilium assembly	7	0.87	0.76	9.41	137.68
+GO:0050900	leukocyte migration	6	0.60	0.59	8.02	26.94
+GO:0030260	entry into host cell	6	0.74	0.69	8.68	26.99
+GO:0030516	regulation of axon extension	3	0.79	0.81	9.47	209.03
+GO:0070588	calcium ion transmembrane transport	3	0.71	0.75	9.08	116.68
+GO:0030217	T cell differentiation	3	0.66	0.65	8.68	65.05
+GO:0032091	negative regulation of protein binding	3	0.70	0.64	8.48	32.72
+GO:0002323	natural killer cell activation involved in immune response	2	0.87	0.76	9.39	81.36
+GO:0060999	positive regulation of dendritic spine development	2	0.93	0.90	9.60	671.85
+GO:0070286	axonemal dynein complex assembly	2	0.89	0.77	9.41	44.52
+GO:0035723	interleukin-15-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
+GO:0001973	adenosine receptor signaling pathway	1	1.00	0.88	9.63	54.87
+GO:0038043	interleukin-5-mediated signaling pathway	1	1.00	0.85	9.63	30.19
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17
+GO:0019064	fusion of virus membrane with host plasma membrane	1	0.93	0.82	9.54	56.73
+GO:0032507	maintenance of protein location in cell	1	0.68	0.63	8.41	43.86
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0042102	positive regulation of T cell proliferation	1	0.78	0.78	9.42	564.85
+GO:0060317	cardiac epithelial to mesenchymal transition	1	0.80	0.72	9.01	24.76

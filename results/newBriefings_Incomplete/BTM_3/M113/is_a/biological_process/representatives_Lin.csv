@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	675	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	853	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	622	0.38	0.19	3.93	3.37
+GO:0009967	positive regulation of signal transduction	341	0.44	0.54	6.71	140.23
+GO:0001932	regulation of protein phosphorylation	307	0.50	0.62	7.64	109.03
+GO:0016310	phosphorylation	222	0.53	0.56	6.88	24.41
+GO:0010243	response to organonitrogen compound	185	0.45	0.48	6.23	25.43
+GO:0030335	positive regulation of cell migration	147	0.58	0.64	8.22	157.26
+GO:0010469	regulation of signaling receptor activity	128	0.59	0.62	7.95	48.62
+GO:1901566	organonitrogen compound biosynthetic process	122	0.37	0.43	5.45	46.74
+GO:0050708	regulation of protein secretion	108	0.54	0.62	7.86	96.15
+GO:0006650	glycerophospholipid metabolic process	56	0.59	0.62	8.12	144.72
+GO:0046467	membrane lipid biosynthetic process	11	0.64	0.64	8.43	118.94
+GO:0016055	Wnt signaling pathway	42	0.59	0.65	7.65	28.58
+GO:0002224	toll-like receptor signaling pathway	34	0.68	0.77	9.04	409.66
+GO:0042108	positive regulation of cytokine biosynthetic process	29	0.63	0.67	8.76	609.34
+GO:0009790	embryo development	29	0.80	0.65	9.04	21.11
+GO:0051781	positive regulation of cell division	28	0.68	0.63	8.44	42.29
+GO:0048146	positive regulation of fibroblast proliferation	26	0.89	0.77	9.43	63.75
+GO:0045444	fat cell differentiation	22	0.87	0.68	9.29	21.07
+GO:0071260	cellular response to mechanical stimulus	20	1.00	0.79	9.63	56.12
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0055072	iron ion homeostasis	16	0.81	0.80	9.29	38.23
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:1904037	positive regulation of epithelial cell apoptotic process	13	0.79	0.77	9.15	105.43
+GO:0045599	negative regulation of fat cell differentiation	11	0.93	0.79	9.54	114.62
+GO:0000041	transition metal ion transport	11	0.61	0.66	7.94	17.36
+GO:0007218	neuropeptide signaling pathway	11	0.93	0.79	9.49	26.98
+GO:0016266	O-glycan processing	10	0.79	0.79	9.28	178.64
+GO:0048008	platelet-derived growth factor receptor signaling pathway	9	0.78	0.76	9.19	31.00
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	7	0.93	0.82	9.52	52.45
+GO:0033692	cellular polysaccharide biosynthetic process	5	0.61	0.63	8.65	458.22
+GO:0014902	myotube differentiation	3	0.87	0.76	9.38	22.45
+GO:0009225	nucleotide-sugar metabolic process	3	0.62	0.63	8.62	123.38
+GO:0038179	neurotrophin signaling pathway	3	0.89	0.77	9.38	26.50
+GO:0046323	glucose import	2	0.89	0.86	9.46	38.21
+GO:0061355	Wnt protein secretion	1	0.93	0.86	9.57	157.82
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19

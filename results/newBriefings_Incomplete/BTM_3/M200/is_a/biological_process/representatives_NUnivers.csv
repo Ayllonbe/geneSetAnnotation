@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050778	positive regulation of immune response	170	0.46	0.52	6.76	78.39
+GO:0043312	neutrophil degranulation	144	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	104	0.68	0.59	8.16	26.47
+GO:0034622	cellular protein-containing complex assembly	88	0.48	0.53	6.52	40.42
+GO:0050870	positive regulation of T cell activation	73	0.63	0.69	8.78	216.07
+GO:0032729	positive regulation of interferon-gamma production	23	0.89	0.77	9.43	65.24
+GO:0071346	cellular response to interferon-gamma	22	1.00	0.82	9.63	81.65
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	19	1.00	0.79	9.63	42.20
+GO:0060333	interferon-gamma-mediated signaling pathway	14	1.00	0.85	9.63	30.19
+GO:0016045	detection of bacterium	2	0.93	0.79	9.55	95.72

@@ -1,0 +1,38 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	318	0.24	0.37	3.90	23.93
+GO:0007166	cell surface receptor signaling pathway	299	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	209	0.32	0.29	4.16	13.85
+GO:0019538	protein metabolic process	194	0.31	0.41	4.91	44.77
+GO:0022607	cellular component assembly	154	0.39	0.39	5.06	14.95
+GO:0006464	cellular protein modification process	138	0.34	0.49	5.84	147.03
+GO:0009968	negative regulation of signal transduction	94	0.44	0.54	6.68	140.65
+GO:0034220	ion transmembrane transport	76	0.45	0.51	6.18	26.33
+GO:0055074	calcium ion homeostasis	73	0.63	0.69	8.47	72.15
+GO:0060326	cell chemotaxis	69	0.64	0.61	8.15	30.29
+GO:0033674	positive regulation of kinase activity	64	0.61	0.70	8.62	265.90
+GO:0032269	negative regulation of cellular protein metabolic process	62	0.47	0.59	7.45	289.39
+GO:0034613	cellular protein localization	49	0.45	0.48	6.33	26.83
+GO:0098662	inorganic cation transmembrane transport	45	0.58	0.64	7.91	76.35
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	41	0.93	0.90	9.60	1178.86
+GO:0032989	cellular component morphogenesis	37	0.56	0.48	7.27	42.57
+GO:2000146	negative regulation of cell motility	28	0.58	0.61	8.02	116.39
+GO:1903169	regulation of calcium ion transmembrane transport	19	0.63	0.69	8.50	58.21
+GO:0046328	regulation of JNK cascade	14	0.79	0.83	9.49	236.20
+GO:0010524	positive regulation of calcium ion transport into cytosol	12	0.81	0.85	9.49	446.86
+GO:0002027	regulation of heart rate	11	0.70	0.70	8.71	26.87
+GO:0007517	muscle organ development	9	0.78	0.64	8.75	27.68
+GO:0008344	adult locomotory behavior	7	0.84	0.62	9.16	24.58
+GO:0051965	positive regulation of synapse assembly	6	0.83	0.76	9.44	224.64
+GO:0033198	response to ATP	5	0.93	0.79	9.56	115.93
+GO:2000651	positive regulation of sodium ion transmembrane transporter activity	5	0.83	0.83	9.46	676.01
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0030239	myofibril assembly	3	0.84	0.77	9.45	124.77
+GO:0030049	muscle filament sliding	3	1.00	0.82	9.63	20.96
+GO:0043043	peptide biosynthetic process	3	0.65	0.65	8.66	211.48
+GO:0001964	startle response	2	1.00	0.79	9.63	22.23
+GO:0046716	muscle cell cellular homeostasis	2	1.00	0.79	9.63	31.95
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	2	1.00	0.82	9.63	60.18
+GO:0007602	phototransduction	1	0.81	0.73	9.34	75.43
+GO:0051919	positive regulation of fibrinolysis	1	1.00	0.90	9.63	333.17
+GO:1902725	negative regulation of satellite cell differentiation	1	1.00	0.92	9.63	377.64
+GO:1903244	positive regulation of cardiac muscle hypertrophy in response to stress	1	1.00	0.90	9.63	307.73

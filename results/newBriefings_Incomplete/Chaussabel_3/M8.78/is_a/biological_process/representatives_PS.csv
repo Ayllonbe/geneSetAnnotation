@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	825	0.26	0.38	4.09	10.74
+GO:0090304	nucleic acid metabolic process	554	0.35	0.46	5.97	111.15
+GO:0048583	regulation of response to stimulus	527	0.25	0.32	3.72	7.96
+GO:0070647	protein modification by small protein conjugation or removal	151	0.61	0.66	8.44	151.15
+GO:0043069	negative regulation of programmed cell death	138	0.55	0.60	7.50	59.56
+GO:0009617	response to bacterium	27	0.75	0.67	8.94	27.27
+GO:0051291	protein heterooligomerization	20	0.89	0.77	9.41	42.03
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	17	1.00	0.82	9.63	26.43
+GO:0033209	tumor necrosis factor-mediated signaling pathway	15	0.89	0.80	9.51	30.19
+GO:0090307	mitotic spindle assembly	7	1.00	0.88	9.63	186.05
+GO:0071391	cellular response to estrogen stimulus	5	1.00	0.75	9.63	34.48
+GO:0038061	NIK/NF-kappaB signaling	5	1.00	0.82	9.63	26.43
+GO:0070584	mitochondrion morphogenesis	4	1.00	0.79	9.63	64.70
+GO:0071494	cellular response to UV-C	1	1.00	0.88	9.63	82.44

@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044281	small molecule metabolic process	358	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	1740	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1808	0.15	0.20	2.26	6.41
+GO:0031323	regulation of cellular metabolic process	1252	0.22	0.36	4.01	22.77
+GO:0031323	regulation of cellular metabolic process	1252	0.22	0.36	4.01	22.77
+GO:0006355	regulation of transcription, DNA-templated	741	0.40	0.60	6.84	245.35
+GO:0051128	regulation of cellular component organization	532	0.30	0.40	4.57	12.04
+GO:0006357	regulation of transcription by RNA polymerase II	514	0.44	0.63	7.11	248.57
+GO:0032879	regulation of localization	507	0.27	0.33	4.05	7.96
+GO:0051641	cellular localization	493	0.37	0.31	4.44	5.67
+GO:0006351	transcription, DNA-templated	490	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	464	0.32	0.29	4.12	6.14
+GO:0033554	cellular response to stress	359	0.44	0.42	6.05	25.47
+GO:0071214	cellular response to abiotic stimulus	78	0.59	0.54	7.66	24.78
+GO:0016192	vesicle-mediated transport	375	0.52	0.51	6.57	10.99
+GO:0065003	protein-containing complex assembly	332	0.45	0.48	6.06	36.47
+GO:0045893	positive regulation of transcription, DNA-templated	312	0.52	0.67	8.14	1208.12
+GO:0051336	regulation of hydrolase activity	273	0.46	0.48	6.24	9.25
+GO:0051704	multi-organism process	208	0.29	0.15	3.12	3.37
+GO:0000122	negative regulation of transcription by RNA polymerase II	181	0.61	0.74	8.79	1836.95
+GO:0045597	positive regulation of cell differentiation	175	0.45	0.51	6.57	82.53
+GO:0008284	positive regulation of cell proliferation	168	0.56	0.57	7.27	43.45
+GO:0010942	positive regulation of cell death	165	0.54	0.56	7.33	41.78
+GO:0051603	proteolysis involved in cellular protein catabolic process	152	0.65	0.65	8.27	49.65
+GO:0019221	cytokine-mediated signaling pathway	152	0.60	0.63	7.60	26.50
+GO:0006366	transcription by RNA polymerase II	151	0.60	0.72	8.61	583.88
+GO:0016071	mRNA metabolic process	148	0.59	0.65	8.39	115.08
+GO:0016567	protein ubiquitination	147	0.69	0.74	9.00	153.79
+GO:0006325	chromatin organization	114	0.49	0.44	6.23	14.95
+GO:0022604	regulation of cell morphogenesis	111	0.53	0.56	7.35	31.06
+GO:0097190	apoptotic signaling pathway	72	0.70	0.64	8.53	23.17
+GO:0016055	Wnt signaling pathway	69	0.59	0.65	7.65	28.58
+GO:0002521	leukocyte differentiation	68	0.58	0.54	7.41	21.07
+GO:0006874	cellular calcium ion homeostasis	65	0.63	0.71	8.83	287.08
+GO:0030855	epithelial cell differentiation	46	0.55	0.52	6.96	21.07
+GO:0006367	transcription initiation from RNA polymerase II promoter	41	1.00	0.90	9.63	477.15
+GO:0006665	sphingolipid metabolic process	34	0.61	0.63	8.44	65.68
+GO:0070588	calcium ion transmembrane transport	32	0.71	0.75	9.08	116.68
+GO:0010508	positive regulation of autophagy	22	0.72	0.71	9.04	216.89
+GO:0007219	Notch signaling pathway	19	0.78	0.71	8.87	26.50
+GO:0006368	transcription elongation from RNA polymerase II promoter	18	1.00	0.90	9.63	477.15
+GO:0035264	multicellular organism growth	14	1.00	0.70	9.63	22.58
+GO:0030521	androgen receptor signaling pathway	13	0.89	0.82	9.45	54.01
+GO:1903779	regulation of cardiac conduction	13	0.69	0.70	8.76	28.83
+GO:0006369	termination of RNA polymerase II transcription	12	0.89	0.84	9.55	477.15
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	10	1.00	0.88	9.63	115.14
+GO:0000715	nucleotide-excision repair, DNA damage recognition	7	0.93	0.76	9.47	21.24
+GO:0010918	positive regulation of mitochondrial membrane potential	6	1.00	0.79	9.63	24.66
+GO:0001836	release of cytochrome c from mitochondria	5	1.00	0.82	9.63	22.13
+GO:0071786	endoplasmic reticulum tubular network organization	3	0.87	0.72	9.22	19.96
+GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
+GO:0001711	endodermal cell fate commitment	1	1.00	0.79	9.63	21.34
+GO:0006452	translational frameshifting	1	1.00	0.85	9.63	106.95

@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2137	0.12	0.26	2.47	7.96
+GO:0051252	regulation of RNA metabolic process	868	0.37	0.51	6.06	70.58
+GO:0032268	regulation of cellular protein metabolic process	597	0.37	0.51	6.13	70.76
+GO:0006139	nucleobase-containing compound metabolic process	980	0.29	0.40	5.40	96.28
+GO:0051641	cellular localization	532	0.37	0.31	4.44	5.67
+GO:0048869	cellular developmental process	465	0.32	0.29	4.16	13.85
+GO:0070887	cellular response to chemical stimulus	373	0.40	0.40	5.31	25.21
+GO:0032502	developmental process	593	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	240	0.33	0.16	3.12	3.37
+GO:0051707	response to other organism	131	0.42	0.46	6.41	24.63
+GO:0043312	neutrophil degranulation	121	1.00	0.90	9.63	132.80
+GO:0001819	positive regulation of cytokine production	110	0.51	0.54	6.97	44.26
+GO:0006914	autophagy	65	0.67	0.59	8.40	37.75
+GO:0090257	regulation of muscle system process	45	0.52	0.55	7.00	14.36
+GO:0000086	G2/M transition of mitotic cell cycle	37	1.00	0.79	9.63	43.45
+GO:0050852	T cell receptor signaling pathway	34	1.00	0.92	9.63	219.43
+GO:0030593	neutrophil chemotaxis	23	1.00	0.90	9.63	130.30
+GO:0016525	negative regulation of angiogenesis	21	0.81	0.78	9.32	151.11
+GO:0051225	spindle assembly	19	0.75	0.73	9.17	86.84
+GO:0051403	stress-activated MAPK cascade	19	0.81	0.82	9.45	288.82
+GO:0061154	endothelial tube morphogenesis	6	0.83	0.74	9.31	48.80
+GO:0042267	natural killer cell mediated cytotoxicity	6	0.93	0.79	9.55	47.36
+GO:0001780	neutrophil homeostasis	5	1.00	0.82	9.63	41.67
+GO:1901841	regulation of high voltage-gated calcium channel activity	3	0.89	0.88	9.53	231.63
+GO:0051481	negative regulation of cytosolic calcium ion concentration	2	0.93	0.90	9.58	290.30

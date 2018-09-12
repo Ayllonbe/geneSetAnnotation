@@ -1,0 +1,116 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031325	positive regulation of cellular metabolic process	172	0.33	0.46	5.39	79.98
+GO:0031326	regulation of cellular biosynthetic process	239	0.29	0.44	4.86	40.35
+GO:0006355	regulation of transcription, DNA-templated	203	0.40	0.60	6.84	245.35
+GO:0019538	protein metabolic process	196	0.31	0.41	4.91	44.77
+GO:0051128	regulation of cellular component organization	158	0.30	0.40	4.57	12.04
+GO:0006464	cellular protein modification process	155	0.34	0.49	5.84	147.03
+GO:0032268	regulation of cellular protein metabolic process	147	0.37	0.51	6.13	70.76
+GO:0006351	transcription, DNA-templated	139	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	135	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	110	0.43	0.51	5.91	23.17
+GO:0033554	cellular response to stress	103	0.44	0.42	6.05	25.47
+GO:0006796	phosphate-containing compound metabolic process	96	0.36	0.43	5.28	20.85
+GO:0015031	protein transport	89	0.48	0.59	6.99	54.46
+GO:0045595	regulation of cell differentiation	87	0.34	0.42	5.25	23.33
+GO:0070887	cellular response to chemical stimulus	81	0.40	0.40	5.31	25.21
+GO:0042127	regulation of cell proliferation	76	0.45	0.48	6.03	12.04
+GO:0043066	negative regulation of apoptotic process	52	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	34	0.56	0.63	7.81	80.91
+GO:0030154	cell differentiation	69	0.39	0.39	5.18	16.68
+GO:0032940	secretion by cell	54	0.48	0.53	6.33	20.46
+GO:0050776	regulation of immune response	50	0.38	0.44	5.64	22.45
+GO:0006974	cellular response to DNA damage stimulus	50	0.57	0.53	7.47	29.00
+GO:0051345	positive regulation of hydrolase activity	45	0.57	0.57	7.42	32.99
+GO:0014054	positive regulation of gamma-aminobutyric acid secretion	1	1.00	0.90	9.63	403.18
+GO:1903530	regulation of secretion by cell	40	0.44	0.54	6.38	28.69
+GO:2000145	regulation of cell motility	40	0.47	0.52	6.88	34.54
+GO:0010243	response to organonitrogen compound	39	0.45	0.48	6.23	25.43
+GO:0007186	G-protein coupled receptor signaling pathway	33	0.55	0.57	7.20	23.17
+GO:0002283	neutrophil activation involved in immune response	31	0.93	0.82	9.55	82.20
+GO:0045087	innate immune response	31	0.68	0.59	8.16	26.47
+GO:0051707	response to other organism	30	0.42	0.46	6.41	24.63
+GO:0051493	regulation of cytoskeleton organization	30	0.51	0.58	7.03	19.19
+GO:0019725	cellular homeostasis	29	0.53	0.52	6.93	17.82
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	27	0.58	0.64	7.56	28.11
+GO:0050801	ion homeostasis	24	0.50	0.54	6.88	13.14
+GO:0051259	protein complex oligomerization	23	0.78	0.68	9.09	40.42
+GO:0001819	positive regulation of cytokine production	23	0.51	0.54	6.97	44.26
+GO:0051098	regulation of binding	22	0.50	0.45	6.36	6.77
+GO:0007264	small GTPase mediated signal transduction	22	0.74	0.69	8.74	26.43
+GO:0072657	protein localization to membrane	21	0.58	0.58	7.59	29.83
+GO:0050727	regulation of inflammatory response	20	0.53	0.59	7.40	31.59
+GO:0022900	electron transport chain	18	0.71	0.61	8.48	29.76
+GO:0051260	protein homooligomerization	17	0.89	0.77	9.41	42.03
+GO:0015711	organic anion transport	16	0.43	0.54	6.27	28.20
+GO:0010976	positive regulation of neuron projection development	14	0.68	0.73	9.14	493.19
+GO:1902600	proton transmembrane transport	14	0.76	0.75	9.12	95.87
+GO:0002218	activation of innate immune response	12	0.62	0.69	8.53	265.71
+GO:0009267	cellular response to starvation	11	0.64	0.64	8.46	112.77
+GO:0034329	cell junction assembly	10	0.71	0.61	8.53	35.01
+GO:0030099	myeloid cell differentiation	10	0.69	0.60	8.15	21.07
+GO:0006334	nucleosome assembly	10	0.87	0.78	9.47	104.52
+GO:1904062	regulation of cation transmembrane transport	10	0.49	0.59	7.03	34.83
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	10	0.80	0.65	8.94	20.20
+GO:0019722	calcium-mediated signaling	9	0.72	0.71	8.71	27.81
+GO:0007268	chemical synaptic transmission	9	0.74	0.72	8.66	23.17
+GO:0030193	regulation of blood coagulation	8	0.67	0.69	8.94	65.68
+GO:0001578	microtubule bundle formation	7	0.84	0.74	9.31	33.20
+GO:0032482	Rab protein signal transduction	7	1.00	0.88	9.63	29.61
+GO:0048278	vesicle docking	7	0.81	0.70	9.18	21.39
+GO:0002431	Fc receptor mediated stimulatory signaling pathway	6	0.89	0.84	9.53	218.74
+GO:0043304	regulation of mast cell degranulation	6	0.80	0.81	9.52	224.79
+GO:0038094	Fc-gamma receptor signaling pathway	6	0.93	0.84	9.55	78.48
+GO:0097352	autophagosome maturation	5	1.00	0.79	9.63	38.05
+GO:0031623	receptor internalization	5	0.72	0.71	9.20	64.85
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	5	1.00	0.82	9.63	26.43
+GO:0061621	canonical glycolysis	4	1.00	0.99	9.63	17318.20
+GO:0071346	cellular response to interferon-gamma	4	1.00	0.82	9.63	81.65
+GO:0002292	T cell differentiation involved in immune response	4	0.76	0.73	9.26	150.84
+GO:0007173	epidermal growth factor receptor signaling pathway	4	0.78	0.78	9.04	32.39
+GO:0030593	neutrophil chemotaxis	4	1.00	0.90	9.63	130.30
+GO:0032370	positive regulation of lipid transport	4	0.63	0.64	8.27	82.73
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	4	0.62	0.56	7.74	16.14
+GO:0006261	DNA-dependent DNA replication	4	0.76	0.75	9.32	254.89
+GO:0008344	adult locomotory behavior	4	0.84	0.62	9.16	24.58
+GO:0031098	stress-activated protein kinase signaling cascade	3	0.80	0.72	9.19	55.43
+GO:0097421	liver regeneration	3	1.00	0.82	9.63	47.22
+GO:0051017	actin filament bundle assembly	3	0.79	0.72	9.14	39.79
+GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	3	1.00	0.88	9.63	164.98
+GO:0007098	centrosome cycle	3	1.00	0.75	9.63	37.69
+GO:0045624	positive regulation of T-helper cell differentiation	3	0.84	0.87	9.57	2153.61
+GO:0043330	response to exogenous dsRNA	3	0.93	0.79	9.49	30.96
+GO:0033209	tumor necrosis factor-mediated signaling pathway	3	0.89	0.80	9.51	30.19
+GO:2000010	positive regulation of protein localization to cell surface	3	1.00	0.85	9.63	73.71
+GO:0050701	interleukin-1 secretion	2	0.89	0.86	9.52	137.07
+GO:0030316	osteoclast differentiation	2	0.93	0.79	9.51	47.07
+GO:0090385	phagosome-lysosome fusion	2	0.93	0.82	9.54	65.81
+GO:0034142	toll-like receptor 4 signaling pathway	2	0.84	0.87	9.49	412.65
+GO:0002315	marginal zone B cell differentiation	2	1.00	0.90	9.63	149.81
+GO:0050853	B cell receptor signaling pathway	2	0.93	0.88	9.58	219.43
+GO:0015807	L-amino acid transport	3	0.60	0.69	8.14	67.63
+GO:0015804	neutral amino acid transport	2	0.62	0.71	8.56	67.63
+GO:0031629	synaptic vesicle fusion to presynaptic active zone membrane	2	1.00	0.88	9.63	97.91
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	2	0.89	0.89	9.56	487.92
+GO:0070498	interleukin-1-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0010888	negative regulation of lipid storage	2	0.89	0.77	9.43	46.28
+GO:0071276	cellular response to cadmium ion	2	1.00	0.82	9.63	78.50
+GO:0046621	negative regulation of organ growth	2	0.81	0.73	9.36	146.93
+GO:0035329	hippo signaling	1	1.00	0.82	9.63	26.43
+GO:0051457	maintenance of protein location in nucleus	1	0.81	0.76	9.29	48.00
+GO:0031663	lipopolysaccharide-mediated signaling pathway	1	1.00	0.82	9.63	26.50
+GO:0030216	keratinocyte differentiation	1	0.89	0.77	9.38	25.59
+GO:0090383	phagosome acidification	1	0.93	0.91	9.58	182.54
+GO:0035235	ionotropic glutamate receptor signaling pathway	1	0.87	0.78	9.31	27.20
+GO:0048168	regulation of neuronal synaptic plasticity	1	0.80	0.77	9.22	41.66
+GO:0002554	serotonin secretion by platelet	1	1.00	0.92	9.63	131.65
+GO:0038195	urokinase plasminogen activator signaling pathway	1	1.00	0.82	9.63	26.50
+GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	1	1.00	0.95	9.63	450.20
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	1	1.00	0.82	9.63	60.18
+GO:0060215	primitive hemopoiesis	1	1.00	0.85	9.63	36.11
+GO:0044546	NLRP3 inflammasome complex assembly	1	1.00	0.82	9.63	44.52
+GO:0051085	chaperone cofactor-dependent protein refolding	1	1.00	0.79	9.63	21.14
+GO:0045064	T-helper 2 cell differentiation	1	1.00	0.93	9.63	473.70
+GO:1902883	negative regulation of response to oxidative stress	1	0.74	0.69	9.41	43.09
+GO:0015891	siderophore transport	1	0.78	0.71	8.94	25.91
+GO:0071800	podosome assembly	1	1.00	0.79	9.63	81.13

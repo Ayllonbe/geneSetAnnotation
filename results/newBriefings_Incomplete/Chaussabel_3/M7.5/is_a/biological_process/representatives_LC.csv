@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1489	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1051	0.08	0.04	0.98	3.37
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	4	1.00	0.82	9.63	33.25
+GO:0045429	positive regulation of nitric oxide biosynthetic process	4	1.00	0.88	9.63	658.64
+GO:0042994	cytoplasmic sequestering of transcription factor	2	0.93	0.91	9.59	299.00
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	27	1.00	0.79	9.63	42.20
+GO:0045648	positive regulation of erythrocyte differentiation	3	0.93	0.84	9.58	358.80
+GO:0045039	protein import into mitochondrial inner membrane	1	1.00	0.92	9.63	627.92
+GO:0006810	transport	435	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	105	0.45	0.48	6.33	26.83
+GO:0032502	developmental process	249	0.22	0.11	1.89	3.37
+GO:0051704	multi-organism process	98	0.29	0.15	3.12	3.37
+GO:0007611	learning or memory	13	0.70	0.64	8.38	19.74
+GO:0051704	multi-organism process	98	0.29	0.15	3.12	3.37
+GO:0007611	learning or memory	13	0.70	0.64	8.38	19.74

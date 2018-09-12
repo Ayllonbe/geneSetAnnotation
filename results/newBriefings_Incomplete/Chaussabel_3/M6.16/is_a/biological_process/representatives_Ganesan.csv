@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	423	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	272	0.26	0.38	4.09	10.74
+GO:0016070	RNA metabolic process	169	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	50	0.45	0.55	7.12	145.26
+GO:0006464	cellular protein modification process	132	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	115	0.57	0.68	8.45	581.39
+GO:0008104	protein localization	84	0.40	0.40	5.07	7.46
+GO:0031399	regulation of protein modification process	79	0.41	0.56	6.69	72.96
+GO:2000026	regulation of multicellular organismal development	71	0.29	0.39	4.73	23.09
+GO:0010033	response to organic substance	70	0.35	0.37	4.75	9.28
+GO:0035690	cellular response to drug	9	0.56	0.53	7.02	41.91
+GO:0044093	positive regulation of molecular function	68	0.43	0.41	5.23	6.77
+GO:0051726	regulation of cell cycle	64	0.41	0.45	5.89	12.04
+GO:0016310	phosphorylation	53	0.53	0.56	6.88	24.41
+GO:1901566	organonitrogen compound biosynthetic process	43	0.37	0.43	5.45	46.74
+GO:0006952	defense response	31	0.56	0.48	6.67	9.54
+GO:0007052	mitotic spindle organization	7	0.83	0.76	9.28	96.22
+GO:0051310	metaphase plate congression	7	0.84	0.74	9.34	45.44
+GO:0006334	nucleosome assembly	7	0.87	0.78	9.47	104.52
+GO:0030071	regulation of mitotic metaphase/anaphase transition	7	0.76	0.79	9.41	262.33
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	6	1.00	0.92	9.63	350.56
+GO:1900006	positive regulation of dendrite development	5	0.87	0.85	9.59	582.43
+GO:0071479	cellular response to ionizing radiation	4	0.89	0.77	9.45	48.66
+GO:0000082	G1/S transition of mitotic cell cycle	4	1.00	0.79	9.63	42.75
+GO:0000070	mitotic sister chromatid segregation	4	1.00	0.82	9.63	56.84
+GO:0051383	kinetochore organization	4	0.93	0.76	9.49	38.76
+GO:0000132	establishment of mitotic spindle orientation	3	0.93	0.84	9.58	227.85
+GO:0031145	anaphase-promoting complex-dependent catabolic process	3	1.00	0.92	9.63	350.56
+GO:0007517	muscle organ development	3	0.78	0.64	8.75	27.68
+GO:0001890	placenta development	3	1.00	0.75	9.63	49.87
+GO:0046131	pyrimidine ribonucleoside metabolic process	3	0.66	0.70	9.01	397.68
+GO:0045132	meiotic chromosome segregation	3	0.80	0.65	9.09	42.96
+GO:0034080	CENP-A containing nucleosome assembly	2	1.00	0.90	9.63	242.74
+GO:0097421	liver regeneration	2	1.00	0.82	9.63	47.22
+GO:0045869	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	2	1.00	0.90	9.63	106.49
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	2	0.89	0.70	9.29	27.92
+GO:0007076	mitotic chromosome condensation	2	0.89	0.82	9.46	40.55
+GO:0006206	pyrimidine nucleobase metabolic process	2	0.73	0.72	9.24	227.01
+GO:0071163	DNA replication preinitiation complex assembly	1	0.87	0.78	9.39	77.23
+GO:0046785	microtubule polymerization	1	1.00	0.85	9.63	97.27
+GO:0007057	spindle assembly involved in female meiosis I	1	1.00	0.92	9.63	179.90
+GO:1905342	positive regulation of protein localization to kinetochore	1	1.00	0.85	9.63	73.71
+GO:0006268	DNA unwinding involved in DNA replication	1	0.83	0.79	9.34	24.42
+GO:0001556	oocyte maturation	1	1.00	0.75	9.63	79.09
+GO:0010032	meiotic chromosome condensation	1	1.00	0.88	9.63	72.23
+GO:0048754	branching morphogenesis of an epithelial tube	1	0.74	0.69	8.88	51.71

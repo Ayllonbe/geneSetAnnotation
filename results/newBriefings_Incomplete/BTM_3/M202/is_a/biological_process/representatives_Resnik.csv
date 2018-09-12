@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009966	regulation of signal transduction	384	0.33	0.45	5.35	37.59
+GO:0031325	positive regulation of cellular metabolic process	356	0.33	0.46	5.39	79.98
+GO:0042221	response to chemical	333	0.32	0.29	4.12	6.14
+GO:0045595	regulation of cell differentiation	210	0.34	0.42	5.25	23.33
+GO:2000026	regulation of multicellular organismal development	250	0.29	0.39	4.73	23.09
+GO:0032268	regulation of cellular protein metabolic process	281	0.37	0.51	6.13	70.76
+GO:1902531	regulation of intracellular signal transduction	255	0.45	0.55	6.77	41.85
+GO:0044093	positive regulation of molecular function	244	0.43	0.41	5.23	6.77
+GO:0042127	regulation of cell proliferation	241	0.45	0.48	6.03	12.04
+GO:0051049	regulation of transport	227	0.31	0.40	4.67	10.45
+GO:0030154	cell differentiation	208	0.39	0.39	5.18	16.68
+GO:0010628	positive regulation of gene expression	188	0.47	0.56	6.67	58.80
+GO:0042981	regulation of apoptotic process	187	0.45	0.55	6.60	16.23
+GO:0007186	G-protein coupled receptor signaling pathway	160	0.55	0.57	7.20	23.17
+GO:0016477	cell migration	159	0.47	0.48	6.31	17.13
+GO:2000145	regulation of cell motility	158	0.47	0.52	6.88	34.54
+GO:0019221	cytokine-mediated signaling pathway	147	0.60	0.63	7.60	26.50
+GO:0032101	regulation of response to external stimulus	138	0.40	0.45	5.60	11.65
+GO:0016310	phosphorylation	135	0.53	0.56	6.88	24.41
+GO:0006351	transcription, DNA-templated	124	0.57	0.68	8.45	581.39
+GO:0001817	regulation of cytokine production	121	0.40	0.45	5.78	11.79
+GO:0098771	inorganic ion homeostasis	112	0.53	0.59	7.39	14.93
+GO:0006508	proteolysis	78	0.55	0.57	7.34	47.86
+GO:0080135	regulation of cellular response to stress	68	0.46	0.52	6.64	26.18
+GO:0000122	negative regulation of transcription by RNA polymerase II	66	0.61	0.74	8.79	1836.95
+GO:0045786	negative regulation of cell cycle	64	0.51	0.54	7.10	42.35
+GO:0003006	developmental process involved in reproduction	61	0.43	0.34	5.07	14.49
+GO:0006366	transcription by RNA polymerase II	52	0.60	0.72	8.61	583.88
+GO:0048598	embryonic morphogenesis	40	0.54	0.47	6.15	10.94
+GO:0097435	supramolecular fiber organization	33	0.60	0.50	7.35	14.95
+GO:0002576	platelet degranulation	31	1.00	0.88	9.63	39.86
+GO:0010810	regulation of cell-substrate adhesion	30	0.69	0.60	8.24	10.16
+GO:0016055	Wnt signaling pathway	28	0.59	0.65	7.65	28.58
+GO:0043433	negative regulation of DNA binding transcription factor activity	22	0.81	0.84	9.47	278.01
+GO:0007517	muscle organ development	13	0.78	0.64	8.75	27.68
+GO:0001701	in utero embryonic development	13	1.00	0.85	9.63	22.50
+GO:2000249	regulation of actin cytoskeleton reorganization	9	0.89	0.82	9.43	36.20
+GO:0048015	phosphatidylinositol-mediated signaling	7	0.93	0.82	9.51	26.43
+GO:0030510	regulation of BMP signaling pathway	6	0.75	0.81	9.36	322.78
+GO:0048008	platelet-derived growth factor receptor signaling pathway	6	0.78	0.76	9.19	31.00
+GO:0008589	regulation of smoothened signaling pathway	6	0.77	0.71	9.07	41.85
+GO:0000271	polysaccharide biosynthetic process	5	0.60	0.59	8.16	120.42
+GO:0042339	keratan sulfate metabolic process	5	0.89	0.80	9.51	119.41
+GO:0023019	signal transduction involved in regulation of gene expression	3	1.00	0.79	9.63	23.17
+GO:0008210	estrogen metabolic process	3	0.89	0.77	9.49	78.57
+GO:0072378	blood coagulation, fibrin clot formation	2	1.00	0.82	9.63	55.79

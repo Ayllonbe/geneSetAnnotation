@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	781	0.08	0.04	0.98	3.37
+GO:0032879	regulation of localization	261	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	480	0.21	0.30	3.05	7.96
+GO:0044237	cellular metabolic process	397	0.16	0.21	2.71	13.80
+GO:0050896	response to stimulus	394	0.25	0.12	2.65	3.37
+GO:0043170	macromolecule metabolic process	339	0.25	0.32	3.46	10.22
+GO:0002376	immune system process	320	0.38	0.19	3.93	3.37
+GO:0032502	developmental process	251	0.22	0.11	1.89	3.37
+GO:2000112	regulation of cellular macromolecule biosynthetic process	220	0.36	0.50	5.87	74.82
+GO:0002684	positive regulation of immune system process	170	0.41	0.45	5.71	22.61
+GO:0065003	protein-containing complex assembly	99	0.45	0.48	6.06	36.47
+GO:0001819	positive regulation of cytokine production	62	0.51	0.54	6.97	44.26
+GO:0051084	'de novo' posttranslational protein folding	2	0.89	0.70	9.22	9.88
+GO:0045041	protein import into mitochondrial intermembrane space	1	1.00	0.92	9.63	478.65
+GO:0006264	mitochondrial DNA replication	1	1.00	0.90	9.63	406.93

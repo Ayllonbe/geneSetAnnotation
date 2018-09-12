@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	433	0.24	0.37	3.90	23.85
+GO:0009966	regulation of signal transduction	267	0.33	0.45	5.35	37.59
+GO:0006355	regulation of transcription, DNA-templated	186	0.40	0.60	6.84	245.35
+GO:2000026	regulation of multicellular organismal development	173	0.29	0.39	4.73	23.09
+GO:0071310	cellular response to organic substance	162	0.44	0.47	5.95	41.66
+GO:0044267	cellular protein metabolic process	145	0.34	0.46	5.57	80.87
+GO:0030154	cell differentiation	144	0.39	0.39	5.18	16.68
+GO:0043312	neutrophil degranulation	115	1.00	0.90	9.63	132.80
+GO:0001934	positive regulation of protein phosphorylation	110	0.58	0.69	8.60	663.11
+GO:0006351	transcription, DNA-templated	81	0.57	0.68	8.45	581.39
+GO:0045597	positive regulation of cell differentiation	80	0.45	0.51	6.57	82.53
+GO:0030335	positive regulation of cell migration	77	0.58	0.64	8.22	157.26
+GO:0048513	animal organ development	47	0.50	0.45	5.88	11.73
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	28	0.69	0.74	9.07	111.97
+GO:0048608	reproductive structure development	22	0.61	0.50	7.37	31.35
+GO:2000027	regulation of organ morphogenesis	17	0.45	0.52	6.54	42.54
+GO:0048704	embryonic skeletal system morphogenesis	13	0.87	0.72	9.38	45.49
+GO:0016525	negative regulation of angiogenesis	12	0.81	0.78	9.32	151.11
+GO:0048754	branching morphogenesis of an epithelial tube	11	0.74	0.69	8.88	51.71
+GO:0070301	cellular response to hydrogen peroxide	8	1.00	0.82	9.63	361.03
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	6	0.89	0.82	9.54	374.75
+GO:0034968	histone lysine methylation	5	0.71	0.77	9.27	765.80
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0006144	purine nucleobase metabolic process	4	0.70	0.70	9.17	248.66
+GO:0048008	platelet-derived growth factor receptor signaling pathway	4	0.78	0.76	9.19	31.00
+GO:0042572	retinol metabolic process	3	1.00	0.90	9.63	118.01
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0072126	positive regulation of glomerular mesangial cell proliferation	2	0.89	0.82	9.54	500.59
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:0060535	trachea cartilage morphogenesis	1	1.00	0.79	9.63	28.83
+GO:0043457	regulation of cellular respiration	1	0.66	0.65	8.32	28.73
+GO:0010870	positive regulation of receptor biosynthetic process	1	0.84	0.77	9.47	258.62
+GO:0070327	thyroid hormone transport	1	1.00	0.79	9.63	23.79
+GO:0045647	negative regulation of erythrocyte differentiation	1	0.93	0.84	9.58	359.68

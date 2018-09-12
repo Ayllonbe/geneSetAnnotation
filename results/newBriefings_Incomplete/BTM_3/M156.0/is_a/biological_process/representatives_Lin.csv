@@ -1,0 +1,17 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1713	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1640	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	1554	0.12	0.26	2.47	7.96
+GO:0010604	positive regulation of macromolecule metabolic process	574	0.37	0.48	5.51	38.99
+GO:0006807	nitrogen compound metabolic process	1014	0.20	0.22	2.64	6.41
+GO:0044238	primary metabolic process	1060	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1123	0.15	0.20	2.26	6.41
+GO:0007165	signal transduction	882	0.36	0.43	5.06	19.43
+GO:0043207	response to external biotic stimulus	261	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	505	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	523	0.39	0.32	4.70	6.14
+GO:0006810	transport	688	0.28	0.34	3.95	7.46
+GO:0032502	developmental process	578	0.22	0.11	1.89	3.37
+GO:0051128	regulation of cellular component organization	444	0.30	0.40	4.57	12.04
+GO:0050900	leukocyte migration	161	0.60	0.59	8.02	26.94
+GO:1904151	positive regulation of microglial cell mediated cytotoxicity	1	1.00	0.82	9.63	47.82

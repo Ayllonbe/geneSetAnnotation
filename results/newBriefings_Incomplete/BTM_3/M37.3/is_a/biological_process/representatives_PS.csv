@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	210	0.12	0.26	2.47	7.96
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	1	1.00	0.79	9.63	22.95
+GO:0006355	regulation of transcription, DNA-templated	84	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	24	0.47	0.56	7.17	70.58
+GO:0006355	regulation of transcription, DNA-templated	84	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	24	0.47	0.56	7.17	70.58
+GO:0006355	regulation of transcription, DNA-templated	84	0.40	0.60	6.84	245.35
+GO:0051052	regulation of DNA metabolic process	24	0.47	0.56	7.17	70.58
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	14	0.61	0.63	8.36	112.25
+GO:0006351	transcription, DNA-templated	40	0.57	0.68	8.45	581.39
+GO:0006259	DNA metabolic process	42	0.45	0.55	7.12	145.26
+GO:0010033	response to organic substance	56	0.35	0.37	4.75	9.28
+GO:0006464	cellular protein modification process	48	0.34	0.49	5.84	147.03
+GO:0051276	chromosome organization	40	0.55	0.52	6.96	18.35
+GO:0010564	regulation of cell cycle process	34	0.42	0.50	6.22	14.24
+GO:0000082	G1/S transition of mitotic cell cycle	20	1.00	0.79	9.63	42.75
+GO:0006406	mRNA export from nucleus	16	0.89	0.84	9.52	121.36
+GO:1903827	regulation of cellular protein localization	15	0.48	0.53	6.86	25.72
+GO:0016055	Wnt signaling pathway	11	0.59	0.65	7.65	28.58
+GO:0071479	cellular response to ionizing radiation	7	0.89	0.77	9.45	48.66
+GO:0051260	protein homooligomerization	7	0.89	0.77	9.41	42.03
+GO:0000281	mitotic cytokinesis	4	0.93	0.76	9.47	28.62
+GO:0034080	CENP-A containing nucleosome assembly	3	1.00	0.90	9.63	242.74
+GO:0010032	meiotic chromosome condensation	3	1.00	0.88	9.63	72.23
+GO:0030521	androgen receptor signaling pathway	2	0.89	0.82	9.45	54.01
+GO:1904837	beta-catenin-TCF complex assembly	2	1.00	0.79	9.63	40.42
+GO:0046632	alpha-beta T cell differentiation	2	0.71	0.71	9.05	90.59
+GO:0000712	resolution of meiotic recombination intermediates	2	1.00	0.79	9.63	26.25
+GO:0072355	histone H3-T3 phosphorylation	1	0.93	0.90	9.59	710.18
+GO:0000492	box C/D snoRNP assembly	1	1.00	0.88	9.63	67.29
+GO:0090166	Golgi disassembly	1	1.00	0.79	9.63	58.91
+GO:0007084	mitotic nuclear envelope reassembly	1	1.00	0.82	9.63	35.64
+GO:0051307	meiotic chromosome separation	1	0.87	0.68	9.22	35.56
+GO:0007077	mitotic nuclear envelope disassembly	1	1.00	0.82	9.63	74.08
+GO:0070244	negative regulation of thymocyte apoptotic process	1	1.00	0.93	9.63	182.70

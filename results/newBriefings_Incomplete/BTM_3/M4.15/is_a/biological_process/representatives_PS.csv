@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1376	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1128	0.09	0.17	1.80	4.47
+GO:0006810	transport	517	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	456	0.38	0.19	3.93	3.37
+GO:0044237	cellular metabolic process	720	0.16	0.21	2.71	13.80
+GO:0034613	cellular protein localization	85	0.45	0.48	6.33	26.83
+GO:0030855	epithelial cell differentiation	40	0.55	0.52	6.96	21.07
+GO:0045445	myoblast differentiation	4	0.89	0.70	9.29	21.07

@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	214	0.09	0.05	0.84	3.37
+GO:0032502	developmental process	77	0.22	0.11	1.89	3.37
+GO:0090304	nucleic acid metabolic process	76	0.35	0.46	5.97	111.15
+GO:0002376	immune system process	63	0.38	0.19	3.93	3.37
+GO:0022402	cell cycle process	50	0.40	0.32	4.60	7.39
+GO:1901700	response to oxygen-containing compound	36	0.39	0.39	5.14	9.28
+GO:0030890	positive regulation of B cell proliferation	4	1.00	0.90	9.63	506.16
+GO:0051052	regulation of DNA metabolic process	21	0.47	0.56	7.17	70.58
+GO:0016567	protein ubiquitination	6	0.69	0.74	9.00	153.79
+GO:0043524	negative regulation of neuron apoptotic process	4	0.79	0.77	9.25	179.63
+GO:0006294	nucleotide-excision repair, preincision complex assembly	4	1.00	0.85	9.63	65.90
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:1900034	regulation of cellular response to heat	2	0.87	0.76	9.27	29.43
+GO:0034502	protein localization to chromosome	2	0.67	0.66	8.49	32.77
+GO:0051096	positive regulation of helicase activity	2	0.89	0.77	9.52	50.03
+GO:0055089	fatty acid homeostasis	1	1.00	0.85	9.63	32.35
+GO:0006119	oxidative phosphorylation	1	0.93	0.90	9.60	1310.55

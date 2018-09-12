@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1910	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	1423	0.12	0.26	2.47	7.96
+GO:0050793	regulation of developmental process	329	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	1423	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	908	0.22	0.36	4.01	22.77
+GO:1901564	organonitrogen compound metabolic process	771	0.23	0.31	3.63	19.40
+GO:0006810	transport	627	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	592	0.25	0.12	2.65	3.37
+GO:0006357	regulation of transcription by RNA polymerase II	376	0.44	0.63	7.11	248.57
+GO:0032879	regulation of localization	373	0.27	0.33	4.05	7.96
+GO:0006351	transcription, DNA-templated	358	0.57	0.68	8.45	581.39
+GO:0042221	response to chemical	332	0.32	0.29	4.12	6.14
+GO:0002376	immune system process	325	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	315	0.43	0.51	5.91	23.17
+GO:0044248	cellular catabolic process	281	0.31	0.36	4.57	26.23
+GO:0033554	cellular response to stress	278	0.44	0.42	6.05	25.47
+GO:0010629	negative regulation of gene expression	275	0.47	0.56	6.74	59.05
+GO:0051247	positive regulation of protein metabolic process	261	0.44	0.54	6.72	129.04
+GO:0019220	regulation of phosphate metabolic process	258	0.41	0.53	6.26	28.98
+GO:0065003	protein-containing complex assembly	256	0.45	0.48	6.06	36.47
+GO:0009967	positive regulation of signal transduction	227	0.44	0.54	6.71	140.23
+GO:0042981	regulation of apoptotic process	224	0.45	0.55	6.60	16.23
+GO:0006508	proteolysis	201	0.55	0.57	7.34	47.86
+GO:0009968	negative regulation of signal transduction	176	0.44	0.54	6.68	140.65
+GO:0032102	negative regulation of response to external stimulus	42	0.51	0.55	6.94	42.31
+GO:0045944	positive regulation of transcription by RNA polymerase II	179	0.55	0.71	8.36	1463.86
+GO:0050776	regulation of immune response	172	0.38	0.44	5.64	22.45
+GO:0006629	lipid metabolic process	159	0.37	0.38	5.19	18.42
+GO:0034613	cellular protein localization	158	0.45	0.48	6.33	26.83
+GO:0006468	protein phosphorylation	147	0.57	0.64	8.18	177.76
+GO:0051345	positive regulation of hydrolase activity	135	0.57	0.57	7.42	32.99
+GO:0019752	carboxylic acid metabolic process	132	0.32	0.45	5.31	42.50
+GO:0030334	regulation of cell migration	117	0.48	0.56	7.11	36.74
+GO:0030001	metal ion transport	63	0.54	0.59	7.29	15.42
+GO:0006820	anion transport	60	0.42	0.50	5.80	12.09
+GO:0016567	protein ubiquitination	103	0.69	0.74	9.00	153.79
+GO:0019221	cytokine-mediated signaling pathway	100	0.60	0.63	7.60	26.50
+GO:0007017	microtubule-based process	93	0.49	0.37	5.66	7.39
+GO:0008285	negative regulation of cell proliferation	89	0.56	0.57	7.31	43.61
+GO:0051186	cofactor metabolic process	86	0.41	0.40	5.49	17.52
+GO:0007186	G-protein coupled receptor signaling pathway	85	0.55	0.57	7.20	23.17
+GO:0050801	ion homeostasis	80	0.50	0.54	6.88	13.14
+GO:0016477	cell migration	80	0.47	0.48	6.31	17.13
+GO:0097190	apoptotic signaling pathway	56	0.70	0.64	8.53	23.17
+GO:0010469	regulation of signaling receptor activity	52	0.59	0.62	7.95	48.62
+GO:0120036	plasma membrane bounded cell projection organization	48	0.58	0.54	7.33	16.56
+GO:0001666	response to hypoxia	46	0.81	0.70	9.12	21.16
+GO:0016055	Wnt signaling pathway	45	0.59	0.65	7.65	28.58
+GO:0030111	regulation of Wnt signaling pathway	37	0.59	0.62	7.99	41.85
+GO:0050804	modulation of chemical synaptic transmission	33	0.52	0.58	7.24	27.32
+GO:0022412	cellular process involved in reproduction in multicellular organism	29	0.53	0.39	6.04	15.42
+GO:0043393	regulation of protein binding	27	0.59	0.55	7.49	9.33
+GO:0043433	negative regulation of DNA binding transcription factor activity	22	0.81	0.84	9.47	278.01
+GO:0045444	fat cell differentiation	17	0.87	0.68	9.29	21.07
+GO:2001022	positive regulation of response to DNA damage stimulus	11	0.70	0.70	8.89	86.91
+GO:0016266	O-glycan processing	6	0.79	0.79	9.28	178.64
+GO:0030509	BMP signaling pathway	6	0.71	0.79	9.13	282.55
+GO:0035176	social behavior	5	1.00	0.70	9.63	22.58
+GO:0032350	regulation of hormone metabolic process	5	0.56	0.53	7.55	21.45
+GO:0010529	negative regulation of transposition	5	0.87	0.72	9.27	41.76
+GO:0035235	ionotropic glutamate receptor signaling pathway	4	0.87	0.78	9.31	27.20
+GO:0071709	membrane assembly	4	0.79	0.64	8.94	37.31
+GO:0086091	regulation of heart rate by cardiac conduction	4	1.00	0.88	9.63	61.17
+GO:0032930	positive regulation of superoxide anion generation	3	1.00	0.88	9.63	144.58
+GO:0042157	lipoprotein metabolic process	3	0.76	0.67	9.00	47.86
+GO:0015671	oxygen transport	3	1.00	0.79	9.63	26.52
+GO:0034369	plasma lipoprotein particle remodeling	2	0.79	0.72	9.19	82.00
+GO:0061049	cell growth involved in cardiac muscle cell development	2	0.93	0.72	9.49	32.43
+GO:0018350	protein esterification	1	0.76	0.73	9.25	151.15
+GO:0034587	piRNA metabolic process	1	0.89	0.82	9.51	117.72

@@ -1,0 +1,7 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	4754	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	3359	0.08	0.04	0.98	3.37
+GO:1903608	protein localization to cytoplasmic stress granule	4	1.00	0.82	9.63	32.77
+GO:0051028	mRNA transport	60	0.87	0.81	9.45	42.49
+GO:0070459	prolactin secretion	2	1.00	0.90	9.63	236.68
+GO:0001701	in utero embryonic development	64	1.00	0.85	9.63	22.50

@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	4347	0.08	0.04	0.98	3.37
+GO:0032502	developmental process	1103	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	5412	0.09	0.05	0.84	3.37
+GO:0065007	biological regulation	4347	0.08	0.04	0.98	3.37
+GO:0007628	adult walking behavior	8	1.00	0.75	9.63	34.94
+GO:0010934	macrophage cytokine production	2	1.00	0.79	9.63	22.64
+GO:0006810	transport	1652	0.28	0.34	3.95	7.46
+GO:0072659	protein localization to plasma membrane	76	0.79	0.72	9.26	65.43
+GO:0046718	viral entry into host cell	42	0.77	0.73	8.94	28.37

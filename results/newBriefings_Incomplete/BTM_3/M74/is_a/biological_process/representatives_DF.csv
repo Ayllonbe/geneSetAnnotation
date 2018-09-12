@@ -1,0 +1,72 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	728	0.24	0.37	3.90	23.85
+GO:0001558	regulation of cell growth	62	0.58	0.58	7.66	26.25
+GO:0007165	signal transduction	685	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	572	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	471	0.33	0.45	5.35	37.59
+GO:0010468	regulation of gene expression	432	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	373	0.35	0.37	4.75	9.28
+GO:0048869	cellular developmental process	367	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	348	0.40	0.60	6.84	245.35
+GO:2000026	regulation of multicellular organismal development	322	0.29	0.39	4.73	23.09
+GO:0051240	positive regulation of multicellular organismal process	300	0.35	0.42	4.98	23.60
+GO:0070887	cellular response to chemical stimulus	296	0.40	0.40	5.31	25.21
+GO:0022607	cellular component assembly	282	0.39	0.39	5.06	14.95
+GO:0006464	cellular protein modification process	280	0.34	0.49	5.84	147.03
+GO:0009967	positive regulation of signal transduction	279	0.44	0.54	6.71	140.23
+GO:0071310	cellular response to organic substance	266	0.44	0.47	5.95	41.66
+GO:0034654	nucleobase-containing compound biosynthetic process	242	0.40	0.49	6.85	317.02
+GO:0043207	response to external biotic stimulus	204	0.41	0.40	5.91	16.64
+GO:0051241	negative regulation of multicellular organismal process	202	0.35	0.42	4.99	23.69
+GO:0001934	positive regulation of protein phosphorylation	179	0.58	0.69	8.60	663.11
+GO:0033554	cellular response to stress	177	0.44	0.42	6.05	25.47
+GO:0006955	immune response	164	0.54	0.40	6.57	12.45
+GO:0043312	neutrophil degranulation	154	1.00	0.90	9.63	132.80
+GO:0045597	positive regulation of cell differentiation	153	0.45	0.51	6.57	82.53
+GO:0002764	immune response-regulating signaling pathway	140	0.59	0.58	7.89	48.80
+GO:0001819	positive regulation of cytokine production	115	0.51	0.54	6.97	44.26
+GO:0051251	positive regulation of lymphocyte activation	104	0.58	0.64	8.19	127.58
+GO:0071417	cellular response to organonitrogen compound	82	0.53	0.56	7.37	128.53
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	54	0.52	0.58	7.50	27.23
+GO:0030336	negative regulation of cell migration	51	0.58	0.64	8.21	158.04
+GO:0048729	tissue morphogenesis	44	0.49	0.44	5.81	10.94
+GO:0050804	modulation of chemical synaptic transmission	40	0.52	0.58	7.24	27.32
+GO:0030217	T cell differentiation	34	0.66	0.65	8.68	65.05
+GO:2000106	regulation of leukocyte apoptotic process	28	0.61	0.66	8.08	19.32
+GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	26	0.81	0.85	9.56	733.39
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	25	1.00	0.79	9.63	42.20
+GO:0042100	B cell proliferation	21	0.87	0.76	9.39	50.60
+GO:0043524	negative regulation of neuron apoptotic process	21	0.79	0.77	9.25	179.63
+GO:2001257	regulation of cation channel activity	20	0.60	0.68	8.36	101.44
+GO:0072659	protein localization to plasma membrane	17	0.79	0.72	9.26	65.43
+GO:0055117	regulation of cardiac muscle contraction	16	0.69	0.72	9.10	36.97
+GO:0007517	muscle organ development	15	0.78	0.64	8.75	27.68
+GO:0110020	regulation of actomyosin structure organization	15	0.64	0.70	8.46	36.20
+GO:0060401	cytosolic calcium ion transport	14	0.72	0.76	8.99	37.62
+GO:0045844	positive regulation of striated muscle tissue development	10	0.72	0.71	9.05	169.73
+GO:0030889	negative regulation of B cell proliferation	10	1.00	0.90	9.63	506.34
+GO:0001954	positive regulation of cell-matrix adhesion	10	0.87	0.76	9.34	50.26
+GO:0042307	positive regulation of protein import into nucleus	10	0.93	0.86	9.59	778.75
+GO:0045086	positive regulation of interleukin-2 biosynthetic process	8	1.00	0.88	9.63	834.88
+GO:0046949	fatty-acyl-CoA biosynthetic process	8	0.79	0.74	9.35	404.08
+GO:0086091	regulation of heart rate by cardiac conduction	8	1.00	0.88	9.63	61.17
+GO:0050982	detection of mechanical stimulus	7	0.74	0.62	8.71	57.71
+GO:0001782	B cell homeostasis	7	0.93	0.82	9.51	22.00
+GO:0032967	positive regulation of collagen biosynthetic process	7	1.00	0.82	9.63	105.22
+GO:0045579	positive regulation of B cell differentiation	5	0.84	0.82	9.50	803.20
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0048667	cell morphogenesis involved in neuron differentiation	3	0.81	0.73	9.22	47.45
+GO:0016358	dendrite development	3	0.83	0.74	9.26	32.63
+GO:0002885	positive regulation of hypersensitivity	3	0.80	0.81	9.44	636.62
+GO:0007016	cytoskeletal anchoring at plasma membrane	3	1.00	0.82	9.63	66.89
+GO:0002553	histamine secretion by mast cell	2	1.00	0.92	9.63	188.83
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0002159	desmosome assembly	2	1.00	0.82	9.63	75.08
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	2	1.00	0.82	9.63	24.26
+GO:0002587	negative regulation of antigen processing and presentation of peptide antigen via MHC class II	2	0.93	0.82	9.55	144.70
+GO:0070278	extracellular matrix constituent secretion	2	0.87	0.76	9.38	23.10
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0090073	positive regulation of protein homodimerization activity	1	1.00	0.82	9.63	47.42
+GO:0010694	positive regulation of alkaline phosphatase activity	1	1.00	0.92	9.63	315.72
+GO:1903966	monounsaturated fatty acid biosynthetic process	1	1.00	0.92	9.63	557.04
+GO:0034059	response to anoxia	1	0.89	0.74	9.34	21.16

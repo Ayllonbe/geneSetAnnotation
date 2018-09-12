@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1507	0.09	0.17	1.80	4.47
+GO:0044238	primary metabolic process	955	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1014	0.15	0.20	2.26	6.41
+GO:0007165	signal transduction	830	0.36	0.43	5.06	19.43
+GO:0050896	response to stimulus	793	0.25	0.12	2.65	3.37
+GO:0002376	immune system process	590	0.38	0.19	3.93	3.37
+GO:0002682	regulation of immune system process	470	0.32	0.36	4.60	7.96
+GO:0031666	positive regulation of lipopolysaccharide-mediated signaling pathway	4	1.00	0.85	9.63	344.24
+GO:0051897	positive regulation of protein kinase B signaling	44	1.00	0.88	9.63	238.42
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07

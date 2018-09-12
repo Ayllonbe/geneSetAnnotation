@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019219	regulation of nucleobase-containing compound metabolic process	585	0.33	0.45	5.50	54.14
+GO:0006355	regulation of transcription, DNA-templated	490	0.40	0.60	6.84	245.35
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	115	0.58	0.64	7.56	28.11
+GO:0035556	intracellular signal transduction	334	0.51	0.55	6.92	23.17
+GO:0006464	cellular protein modification process	400	0.34	0.49	5.84	147.03
+GO:0030154	cell differentiation	325	0.39	0.39	5.18	16.68
+GO:0006887	exocytosis	249	0.67	0.66	8.38	37.08
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0045944	positive regulation of transcription by RNA polymerase II	214	0.55	0.71	8.36	1463.86
+GO:0043312	neutrophil degranulation	187	1.00	0.90	9.63	132.80
+GO:0000122	negative regulation of transcription by RNA polymerase II	134	0.61	0.74	8.79	1836.95
+GO:0034622	cellular protein-containing complex assembly	122	0.48	0.53	6.52	40.42
+GO:0034613	cellular protein localization	120	0.45	0.48	6.33	26.83
+GO:0006897	endocytosis	113	0.63	0.61	8.09	26.36
+GO:0050708	regulation of protein secretion	109	0.54	0.62	7.86	96.15
+GO:0030098	lymphocyte differentiation	88	0.61	0.60	8.24	42.31
+GO:0035690	cellular response to drug	75	0.56	0.53	7.02	41.91
+GO:0046488	phosphatidylinositol metabolic process	43	0.68	0.69	8.80	147.20
+GO:0002573	myeloid leukocyte differentiation	42	0.74	0.66	8.74	45.13
+GO:0051384	response to glucocorticoid	40	0.77	0.73	9.22	62.74
+GO:0046822	regulation of nucleocytoplasmic transport	32	0.65	0.65	8.53	30.75
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0032465	regulation of cytokinesis	24	0.59	0.62	8.14	31.80
+GO:0032526	response to retinoic acid	22	0.93	0.76	9.49	43.79
+GO:0048260	positive regulation of receptor-mediated endocytosis	19	0.81	0.78	9.34	175.17
+GO:0006914	autophagy	17	0.67	0.59	8.40	37.75
+GO:0014015	positive regulation of gliogenesis	15	0.73	0.74	9.26	336.55
+GO:0006661	phosphatidylinositol biosynthetic process	13	0.75	0.75	9.24	661.81
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0010923	negative regulation of phosphatase activity	11	0.79	0.79	9.36	265.75
+GO:0016482	cytosolic transport	8	0.71	0.64	8.53	33.20
+GO:0045815	positive regulation of gene expression, epigenetic	8	0.78	0.74	9.08	79.85
+GO:0034162	toll-like receptor 9 signaling pathway	7	1.00	0.95	9.63	412.65
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	6	1.00	0.93	9.63	645.24
+GO:0001892	embryonic placenta development	5	1.00	0.79	9.63	37.18
+GO:0043201	response to leucine	5	0.93	0.79	9.52	59.71
+GO:0042149	cellular response to glucose starvation	5	0.89	0.80	9.50	115.90
+GO:0048489	synaptic vesicle transport	5	0.77	0.73	9.29	108.01
+GO:0048596	embryonic camera-type eye morphogenesis	4	1.00	0.85	9.63	49.04
+GO:0007032	endosome organization	4	0.84	0.71	9.22	20.92
+GO:2000785	regulation of autophagosome assembly	3	0.89	0.82	9.50	101.63
+GO:0005978	glycogen biosynthetic process	3	1.00	0.88	9.63	798.05
+GO:0005980	glycogen catabolic process	3	0.93	0.84	9.59	697.83
+GO:0000045	autophagosome assembly	3	1.00	0.82	9.63	62.10
+GO:0032288	myelin assembly	3	0.89	0.74	9.41	32.85
+GO:0046855	inositol phosphate dephosphorylation	3	0.93	0.84	9.59	336.66
+GO:0098884	postsynaptic neurotransmitter receptor internalization	2	1.00	0.90	9.63	106.28
+GO:0006021	inositol biosynthetic process	2	1.00	0.85	9.63	310.25
+GO:0015782	CMP-N-acetylneuraminate transmembrane transport	1	1.00	0.88	9.63	142.06
+GO:0016191	synaptic vesicle uncoating	1	1.00	0.90	9.63	42.88
+GO:0035508	positive regulation of myosin-light-chain-phosphatase activity	1	1.00	0.93	9.63	1250.97
+GO:1904980	positive regulation of endosome organization	1	0.93	0.82	9.54	90.26

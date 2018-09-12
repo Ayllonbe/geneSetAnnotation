@@ -1,0 +1,176 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0031323	regulation of cellular metabolic process	476	0.22	0.36	4.01	22.77
+GO:0010468	regulation of gene expression	356	0.35	0.46	5.09	13.73
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	29	0.61	0.63	8.36	112.25
+GO:0016070	RNA metabolic process	281	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	81	0.45	0.55	7.12	145.26
+GO:0019538	protein metabolic process	307	0.31	0.41	4.91	44.77
+GO:0007165	signal transduction	282	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	280	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	246	0.34	0.49	5.84	147.03
+GO:0051128	regulation of cellular component organization	224	0.30	0.40	4.57	12.04
+GO:0009298	GDP-mannose biosynthetic process	2	0.89	0.82	9.56	615.24
+GO:0032774	RNA biosynthetic process	212	0.53	0.62	8.04	473.34
+GO:0009966	regulation of signal transduction	199	0.33	0.45	5.35	37.59
+GO:0022607	cellular component assembly	188	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	182	0.39	0.39	5.17	14.95
+GO:0046907	intracellular transport	173	0.46	0.48	6.38	29.65
+GO:0006796	phosphate-containing compound metabolic process	149	0.36	0.43	5.28	20.85
+GO:0015031	protein transport	143	0.48	0.59	6.99	54.46
+GO:0045893	positive regulation of transcription, DNA-templated	126	0.52	0.67	8.14	1208.12
+GO:0051726	regulation of cell cycle	110	0.41	0.45	5.89	12.04
+GO:0010950	positive regulation of endopeptidase activity	16	0.74	0.79	9.42	499.33
+GO:0031401	positive regulation of protein modification process	91	0.51	0.63	7.86	366.05
+GO:0030154	cell differentiation	97	0.39	0.39	5.18	16.68
+GO:0045892	negative regulation of transcription, DNA-templated	95	0.56	0.69	8.52	1581.26
+GO:0032269	negative regulation of cellular protein metabolic process	92	0.47	0.59	7.45	289.39
+GO:0009968	negative regulation of signal transduction	83	0.44	0.54	6.68	140.65
+GO:0034613	cellular protein localization	83	0.45	0.48	6.33	26.83
+GO:0060548	negative regulation of cell death	77	0.54	0.56	7.27	41.94
+GO:2000273	positive regulation of signaling receptor activity	3	0.71	0.71	8.97	204.99
+GO:1902533	positive regulation of intracellular signal transduction	71	0.55	0.63	7.95	189.48
+GO:0019752	carboxylic acid metabolic process	67	0.32	0.45	5.31	42.50
+GO:0051345	positive regulation of hydrolase activity	67	0.57	0.57	7.42	32.99
+GO:0010243	response to organonitrogen compound	60	0.45	0.48	6.23	25.43
+GO:0080135	regulation of cellular response to stress	59	0.46	0.52	6.64	26.18
+GO:0043065	positive regulation of apoptotic process	58	0.56	0.63	7.81	80.91
+GO:0030334	regulation of cell migration	55	0.48	0.56	7.11	36.74
+GO:0033993	response to lipid	53	0.53	0.51	6.86	13.32
+GO:0010498	proteasomal protein catabolic process	52	0.73	0.72	9.08	189.71
+GO:0002253	activation of immune response	48	0.59	0.62	8.04	87.88
+GO:0045087	innate immune response	47	0.68	0.59	8.16	26.47
+GO:0043312	neutrophil degranulation	44	1.00	0.90	9.63	132.80
+GO:0071345	cellular response to cytokine stimulus	40	0.67	0.63	8.21	61.60
+GO:0016050	vesicle organization	39	0.58	0.54	7.25	18.35
+GO:0048468	cell development	39	0.51	0.45	6.51	28.42
+GO:0001819	positive regulation of cytokine production	39	0.51	0.54	6.97	44.26
+GO:0006417	regulation of translation	38	0.52	0.61	8.02	212.82
+GO:0098655	cation transmembrane transport	31	0.52	0.58	7.13	43.36
+GO:0032984	protein-containing complex disassembly	31	0.61	0.55	7.66	35.41
+GO:0006897	endocytosis	31	0.63	0.61	8.09	26.36
+GO:0051028	mRNA transport	26	0.87	0.81	9.45	42.49
+GO:0034661	ncRNA catabolic process	2	0.70	0.72	9.27	652.41
+GO:0000956	nuclear-transcribed mRNA catabolic process	25	0.69	0.74	9.30	714.77
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	24	1.00	0.79	9.63	42.20
+GO:0009150	purine ribonucleotide metabolic process	23	0.55	0.67	8.37	538.25
+GO:0006914	autophagy	22	0.67	0.59	8.40	37.75
+GO:0001818	negative regulation of cytokine production	22	0.51	0.55	7.03	44.36
+GO:0006650	glycerophospholipid metabolic process	21	0.59	0.62	8.12	144.72
+GO:0022900	electron transport chain	20	0.71	0.61	8.48	29.76
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	18	0.74	0.74	8.99	58.93
+GO:0140056	organelle localization by membrane tethering	18	0.73	0.62	8.53	19.19
+GO:0002695	negative regulation of leukocyte activation	17	0.58	0.61	8.02	96.77
+GO:0017148	negative regulation of translation	17	0.65	0.70	9.08	1114.67
+GO:0050804	modulation of chemical synaptic transmission	17	0.52	0.58	7.24	27.32
+GO:0009152	purine ribonucleotide biosynthetic process	17	0.63	0.73	9.03	3100.80
+GO:0071222	cellular response to lipopolysaccharide	16	1.00	0.82	9.63	238.00
+GO:0007565	female pregnancy	15	1.00	0.70	9.63	32.81
+GO:0042102	positive regulation of T cell proliferation	15	0.78	0.78	9.42	564.85
+GO:1901653	cellular response to peptide	15	0.69	0.67	8.80	225.63
+GO:0001701	in utero embryonic development	14	1.00	0.85	9.63	22.50
+GO:0000086	G2/M transition of mitotic cell cycle	13	1.00	0.79	9.63	43.45
+GO:0008360	regulation of cell shape	13	0.68	0.66	8.69	41.78
+GO:0048812	neuron projection morphogenesis	13	0.65	0.68	8.50	63.00
+GO:0007268	chemical synaptic transmission	13	0.74	0.72	8.66	23.17
+GO:0045766	positive regulation of angiogenesis	12	0.81	0.76	9.30	134.49
+GO:0030308	negative regulation of cell growth	11	0.69	0.67	8.67	80.89
+GO:0050715	positive regulation of cytokine secretion	11	0.69	0.74	9.07	549.48
+GO:0032092	positive regulation of protein binding	10	0.71	0.64	8.53	32.71
+GO:0010977	negative regulation of neuron projection development	10	0.68	0.73	9.14	494.13
+GO:0050868	negative regulation of T cell activation	10	0.64	0.69	8.87	233.20
+GO:0007611	learning or memory	10	0.70	0.64	8.38	19.74
+GO:0032368	regulation of lipid transport	10	0.52	0.55	7.22	25.92
+GO:0010507	negative regulation of autophagy	9	0.74	0.72	9.12	217.48
+GO:0030217	T cell differentiation	9	0.66	0.65	8.68	65.05
+GO:0045580	regulation of T cell differentiation	9	0.60	0.67	8.66	131.17
+GO:0050830	defense response to Gram-positive bacterium	9	1.00	0.85	9.63	71.44
+GO:0006633	fatty acid biosynthetic process	9	0.65	0.70	8.91	359.85
+GO:0051225	spindle assembly	9	0.75	0.73	9.17	86.84
+GO:0006637	acyl-CoA metabolic process	9	0.59	0.59	7.98	77.21
+GO:0009116	nucleoside metabolic process	9	0.51	0.58	8.04	148.96
+GO:0043488	regulation of mRNA stability	9	0.74	0.77	9.24	282.23
+GO:0008016	regulation of heart contraction	8	0.57	0.61	7.59	16.15
+GO:0032873	negative regulation of stress-activated MAPK cascade	8	0.84	0.85	9.57	1526.06
+GO:0031100	animal organ regeneration	8	0.89	0.70	9.29	28.09
+GO:0051149	positive regulation of muscle cell differentiation	7	0.71	0.68	8.85	114.55
+GO:0045667	regulation of osteoblast differentiation	7	0.83	0.70	9.41	40.23
+GO:0019395	fatty acid oxidation	7	0.78	0.76	9.28	147.79
+GO:0042407	cristae formation	6	1.00	0.85	9.63	41.99
+GO:0061001	regulation of dendritic spine morphogenesis	6	0.89	0.88	9.55	263.40
+GO:0043032	positive regulation of macrophage activation	6	0.93	0.82	9.55	126.60
+GO:1903076	regulation of protein localization to plasma membrane	6	0.73	0.72	9.12	62.75
+GO:0035264	multicellular organism growth	6	1.00	0.70	9.63	22.58
+GO:0000070	mitotic sister chromatid segregation	6	1.00	0.82	9.63	56.84
+GO:0062033	positive regulation of mitotic sister chromatid segregation	6	0.73	0.76	9.30	528.77
+GO:0051402	neuron apoptotic process	6	0.83	0.70	9.02	23.44
+GO:0051881	regulation of mitochondrial membrane potential	5	0.81	0.66	8.82	11.64
+GO:0019217	regulation of fatty acid metabolic process	5	0.62	0.63	8.38	59.64
+GO:0007094	mitotic spindle assembly checkpoint	5	1.00	0.96	9.63	1801.80
+GO:0036258	multivesicular body assembly	5	1.00	0.85	9.63	62.72
+GO:0051085	chaperone cofactor-dependent protein refolding	5	1.00	0.79	9.63	21.14
+GO:0015914	phospholipid transport	5	0.78	0.74	9.04	67.00
+GO:0032801	receptor catabolic process	5	0.84	0.74	9.34	102.12
+GO:0050710	negative regulation of cytokine secretion	5	0.70	0.74	9.09	549.99
+GO:0048873	homeostasis of number of cells within a tissue	4	0.89	0.77	9.38	26.75
+GO:0035435	phosphate ion transmembrane transport	4	0.89	0.82	9.49	110.11
+GO:0006749	glutathione metabolic process	4	0.84	0.74	9.36	147.29
+GO:1901673	regulation of mitotic spindle assembly	4	1.00	0.92	9.63	218.78
+GO:0071616	acyl-CoA biosynthetic process	4	0.70	0.67	8.96	272.03
+GO:0048701	embryonic cranial skeleton morphogenesis	4	1.00	0.82	9.63	46.18
+GO:0070830	bicellular tight junction assembly	4	1.00	0.82	9.63	56.14
+GO:0030819	positive regulation of cAMP biosynthetic process	4	0.87	0.87	9.58	5453.91
+GO:0046785	microtubule polymerization	3	1.00	0.85	9.63	97.27
+GO:0034260	negative regulation of GTPase activity	3	1.00	0.82	9.63	61.14
+GO:0009749	response to glucose	3	0.89	0.80	9.41	32.96
+GO:0016226	iron-sulfur cluster assembly	3	0.67	0.63	8.35	61.31
+GO:0032817	regulation of natural killer cell proliferation	3	0.83	0.79	9.49	80.00
+GO:0048675	axon extension	3	0.89	0.74	9.43	51.99
+GO:0090398	cellular senescence	3	0.87	0.68	9.45	55.14
+GO:1900425	negative regulation of defense response to bacterium	3	0.77	0.73	9.27	222.83
+GO:0060315	negative regulation of ryanodine-sensitive calcium-release channel activity	3	1.00	0.93	9.63	2557.62
+GO:0060316	positive regulation of ryanodine-sensitive calcium-release channel activity	3	1.00	0.98	9.63	2786.52
+GO:0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	3	1.00	0.93	9.63	219.46
+GO:0000722	telomere maintenance via recombination	3	0.93	0.86	9.59	337.72
+GO:0016079	synaptic vesicle exocytosis	3	0.84	0.82	9.51	175.93
+GO:1903421	regulation of synaptic vesicle recycling	3	0.77	0.71	9.18	29.36
+GO:0090314	positive regulation of protein targeting to membrane	3	0.93	0.88	9.59	497.08
+GO:0005513	detection of calcium ion	3	1.00	0.82	9.63	27.95
+GO:0051403	stress-activated MAPK cascade	3	0.81	0.82	9.45	288.82
+GO:0090110	cargo loading into COPII-coated vesicle	2	1.00	0.85	9.63	99.47
+GO:0061154	endothelial tube morphogenesis	2	0.83	0.74	9.31	48.80
+GO:0006015	5-phosphoribose 1-diphosphate biosynthetic process	2	1.00	0.85	9.63	251.39
+GO:0006013	mannose metabolic process	2	0.83	0.74	9.22	34.68
+GO:0045830	positive regulation of isotype switching	2	0.83	0.83	9.56	1202.23
+GO:0002826	negative regulation of T-helper 1 type immune response	2	0.89	0.82	9.50	172.20
+GO:0097035	regulation of membrane lipid distribution	2	0.69	0.60	8.44	26.99
+GO:0045190	isotype switching	2	0.83	0.86	9.52	267.40
+GO:0044818	mitotic G2/M transition checkpoint	2	0.89	0.86	9.55	492.82
+GO:0002281	macrophage activation involved in immune response	2	0.93	0.79	9.54	81.80
+GO:0090201	negative regulation of release of cytochrome c from mitochondria	2	1.00	0.90	9.63	472.81
+GO:2000251	positive regulation of actin cytoskeleton reorganization	2	1.00	0.90	9.63	130.74
+GO:0072715	cellular response to selenite ion	1	1.00	0.79	9.63	56.33
+GO:0046326	positive regulation of glucose import	1	0.93	0.84	9.55	84.68
+GO:0030204	chondroitin sulfate metabolic process	1	0.84	0.77	9.41	119.41
+GO:0071049	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	1	1.00	0.82	9.63	27.63
+GO:0034123	positive regulation of toll-like receptor signaling pathway	1	0.71	0.73	9.09	411.44
+GO:0010730	negative regulation of hydrogen peroxide biosynthetic process	1	1.00	0.88	9.63	816.03
+GO:0015811	L-cystine transport	1	0.93	0.88	9.57	254.96
+GO:0001541	ovarian follicle development	1	1.00	0.75	9.63	34.61
+GO:0045956	positive regulation of calcium ion-dependent exocytosis	1	0.78	0.80	9.31	302.86
+GO:0002859	negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target	1	1.00	0.92	9.63	1230.94
+GO:0007628	adult walking behavior	1	1.00	0.75	9.63	34.94
+GO:0090394	negative regulation of excitatory postsynaptic potential	1	0.89	0.82	9.55	398.58
+GO:0042438	melanin biosynthetic process	1	0.89	0.77	9.54	304.50
+GO:1900426	positive regulation of defense response to bacterium	1	0.77	0.73	9.27	222.62
+GO:0002652	regulation of tolerance induction dependent upon immune response	1	0.69	0.70	9.12	69.79
+GO:0006695	cholesterol biosynthetic process	1	0.87	0.78	9.51	430.36
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	1	0.93	0.90	9.61	1836.78
+GO:1904574	negative regulation of selenocysteine insertion sequence binding	1	1.00	0.85	9.63	58.07
+GO:0031081	nuclear pore distribution	1	1.00	0.85	9.63	71.75
+GO:0003351	epithelial cilium movement	1	0.89	0.74	9.34	21.36
+GO:0035751	regulation of lysosomal lumen pH	1	0.89	0.88	9.52	144.46
+GO:0046826	negative regulation of protein export from nucleus	1	0.84	0.82	9.54	565.95
+GO:1903799	negative regulation of production of miRNAs involved in gene silencing by miRNA	1	0.89	0.86	9.58	949.87
+GO:0006021	inositol biosynthetic process	1	1.00	0.85	9.63	310.25
+GO:0070509	calcium ion import	1	0.83	0.81	9.37	37.62
+GO:1990416	cellular response to brain-derived neurotrophic factor stimulus	1	1.00	0.85	9.63	97.49

@@ -1,0 +1,33 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1999	0.00	0.00	0.00	0.00
+GO:0050789	regulation of biological process	1487	0.09	0.17	1.80	4.47
+GO:0050789	regulation of biological process	1487	0.09	0.17	1.80	4.47
+GO:0051641	cellular localization	221	0.37	0.31	4.44	5.67
+GO:0006810	transport	638	0.28	0.34	3.95	7.46
+GO:0009605	response to external stimulus	310	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	473	0.32	0.29	4.12	6.14
+GO:0007166	cell surface receptor signaling pathway	566	0.43	0.51	5.91	23.17
+GO:0065009	regulation of molecular function	562	0.33	0.29	4.10	4.47
+GO:0031325	positive regulation of cellular metabolic process	523	0.33	0.46	5.39	79.98
+GO:0032879	regulation of localization	503	0.27	0.33	4.05	7.96
+GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
+GO:0009967	positive regulation of signal transduction	327	0.44	0.54	6.71	140.23
+GO:0048869	cellular developmental process	436	0.32	0.29	4.16	13.85
+GO:0032535	regulation of cellular component size	43	0.60	0.55	7.84	25.54
+GO:0051128	regulation of cellular component organization	394	0.30	0.40	4.57	12.04
+GO:0009892	negative regulation of metabolic process	385	0.32	0.41	4.73	22.63
+GO:0042127	regulation of cell proliferation	351	0.45	0.48	6.03	12.04
+GO:0022607	cellular component assembly	328	0.39	0.39	5.06	14.95
+GO:0010941	regulation of cell death	321	0.43	0.47	6.10	12.04
+GO:0019220	regulation of phosphate metabolic process	321	0.41	0.53	6.26	28.98
+GO:0009059	macromolecule biosynthetic process	315	0.43	0.46	5.85	36.03
+GO:0006357	regulation of transcription by RNA polymerase II	308	0.44	0.63	7.11	248.57
+GO:0035556	intracellular signal transduction	301	0.51	0.55	6.92	23.17
+GO:0006796	phosphate-containing compound metabolic process	289	0.36	0.43	5.28	20.85
+GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
+GO:0006508	proteolysis	152	0.55	0.57	7.34	47.86
+GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
+GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
+GO:0006933	negative regulation of cell adhesion involved in substrate-bound cell migration	1	1.00	0.82	9.63	40.06

@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1100	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	1054	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	994	0.12	0.26	2.47	7.96
+GO:0031323	regulation of cellular metabolic process	549	0.22	0.36	4.01	22.77
+GO:0009628	response to abiotic stimulus	100	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	344	0.32	0.29	4.12	6.14
+GO:0042127	regulation of cell proliferation	256	0.45	0.48	6.03	12.04
+GO:0006464	cellular protein modification process	235	0.34	0.49	5.84	147.03
+GO:0031145	anaphase-promoting complex-dependent catabolic process	1	1.00	0.92	9.63	350.56
+GO:0035556	intracellular signal transduction	213	0.51	0.55	6.92	23.17
+GO:0032774	RNA biosynthetic process	151	0.53	0.62	8.04	473.34
+GO:0006259	DNA metabolic process	80	0.45	0.55	7.12	145.26
+GO:0031057	negative regulation of histone modification	5	0.66	0.73	9.14	591.66
+GO:0031401	positive regulation of protein modification process	168	0.51	0.63	7.86	366.05
+GO:0048856	anatomical structure development	155	0.33	0.29	3.70	6.46
+GO:0051726	regulation of cell cycle	117	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	111	0.40	0.32	4.60	7.39
+GO:0000733	DNA strand renaturation	3	0.93	0.82	9.58	172.77
+GO:0006633	fatty acid biosynthetic process	14	0.65	0.70	8.91	359.85
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0030521	androgen receptor signaling pathway	4	0.89	0.82	9.45	54.01
+GO:0010994	free ubiquitin chain polymerization	1	1.00	0.85	9.63	46.13

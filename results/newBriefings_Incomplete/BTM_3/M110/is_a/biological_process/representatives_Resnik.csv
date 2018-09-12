@@ -1,0 +1,64 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051716	cellular response to stimulus	542	0.35	0.30	4.36	13.53
+GO:0042221	response to chemical	501	0.32	0.29	4.12	6.14
+GO:0010033	response to organic substance	456	0.35	0.37	4.75	9.28
+GO:0051128	regulation of cellular component organization	443	0.30	0.40	4.57	12.04
+GO:0050776	regulation of immune response	354	0.38	0.44	5.64	22.45
+GO:0051241	negative regulation of multicellular organismal process	251	0.35	0.42	4.99	23.69
+GO:0031346	positive regulation of cell projection organization	48	0.62	0.63	8.02	65.03
+GO:0008284	positive regulation of cell proliferation	269	0.56	0.57	7.27	43.45
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0006887	exocytosis	247	0.67	0.66	8.38	37.08
+GO:0019221	cytokine-mediated signaling pathway	247	0.60	0.63	7.60	26.50
+GO:1902533	positive regulation of intracellular signal transduction	238	0.55	0.63	7.95	189.48
+GO:0042327	positive regulation of phosphorylation	224	0.56	0.66	8.02	180.93
+GO:0030334	regulation of cell migration	220	0.48	0.56	7.11	36.74
+GO:0022603	regulation of anatomical structure morphogenesis	218	0.36	0.43	5.15	11.29
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:0016477	cell migration	211	0.47	0.48	6.31	17.13
+GO:0007186	G-protein coupled receptor signaling pathway	201	0.55	0.57	7.20	23.17
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0045087	innate immune response	169	0.68	0.59	8.16	26.47
+GO:0009653	anatomical structure morphogenesis	168	0.36	0.31	4.09	6.46
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0007179	transforming growth factor beta receptor signaling pathway	21	0.76	0.75	9.05	29.90
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	114	0.58	0.64	7.56	28.11
+GO:0007010	cytoskeleton organization	131	0.52	0.51	6.76	18.35
+GO:0002521	leukocyte differentiation	121	0.58	0.54	7.41	21.07
+GO:0048468	cell development	115	0.51	0.45	6.51	28.42
+GO:0071345	cellular response to cytokine stimulus	103	0.67	0.63	8.21	61.60
+GO:0060627	regulation of vesicle-mediated transport	99	0.48	0.53	6.81	26.12
+GO:0032989	cellular component morphogenesis	98	0.56	0.48	7.27	42.57
+GO:0022408	negative regulation of cell-cell adhesion	56	0.58	0.61	7.77	52.93
+GO:0010810	regulation of cell-substrate adhesion	45	0.69	0.60	8.24	10.16
+GO:0070372	regulation of ERK1 and ERK2 cascade	89	0.87	0.85	9.54	158.99
+GO:0031329	regulation of cellular catabolic process	83	0.43	0.51	6.41	39.60
+GO:0051259	protein complex oligomerization	83	0.78	0.68	9.09	40.42
+GO:0050714	positive regulation of protein secretion	72	0.65	0.70	8.73	381.48
+GO:0051056	regulation of small GTPase mediated signal transduction	62	0.68	0.69	8.65	45.07
+GO:0033365	protein localization to organelle	62	0.50	0.54	7.01	29.83
+GO:0097435	supramolecular fiber organization	58	0.60	0.50	7.35	14.95
+GO:0071363	cellular response to growth factor stimulus	54	0.77	0.67	8.94	60.39
+GO:0051896	regulation of protein kinase B signaling	54	0.89	0.80	9.43	45.07
+GO:0007265	Ras protein signal transduction	45	0.76	0.73	8.94	27.53
+GO:0120036	plasma membrane bounded cell projection organization	45	0.58	0.54	7.33	16.56
+GO:0007229	integrin-mediated signaling pathway	34	1.00	0.82	9.63	26.50
+GO:0001649	osteoblast differentiation	29	1.00	0.75	9.63	21.07
+GO:0045667	regulation of osteoblast differentiation	28	0.83	0.70	9.41	40.23
+GO:0001701	in utero embryonic development	26	1.00	0.85	9.63	22.50
+GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9.42	236.53
+GO:0000281	mitotic cytokinesis	18	0.93	0.76	9.47	28.62
+GO:0010718	positive regulation of epithelial to mesenchymal transition	16	0.81	0.73	9.38	170.70
+GO:0001570	vasculogenesis	13	0.89	0.70	9.29	21.07
+GO:0001890	placenta development	11	1.00	0.75	9.63	49.87
+GO:0071526	semaphorin-plexin signaling pathway	10	0.81	0.73	9.09	26.50
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0010613	positive regulation of cardiac muscle hypertrophy	8	0.89	0.82	9.49	95.58
+GO:0007097	nuclear migration	4	0.71	0.65	8.71	66.02
+GO:0043297	apical junction assembly	3	1.00	0.82	9.63	56.14
+GO:0007172	signal complex assembly	2	1.00	0.82	9.63	86.37
+GO:0038007	netrin-activated signaling pathway	2	1.00	0.82	9.63	26.50
+GO:0061548	ganglion development	2	0.79	0.64	8.84	30.32
+GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0060301	positive regulation of cytokine activity	1	1.00	0.88	9.63	129.15

@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0000188	inactivation of MAPK activity	3	0.84	0.88	9.56	2610.87
+GO:0045582	positive regulation of T cell differentiation	3	0.70	0.75	9.32	861.16
+GO:0050789	regulation of biological process	184	0.09	0.17	1.80	4.47
+GO:0043547	positive regulation of GTPase activity	9	0.93	0.79	9.52	49.34
+GO:0021952	central nervous system projection neuron axonogenesis	1	0.73	0.78	8.94	67.09
+GO:0071704	organic substance metabolic process	111	0.15	0.20	2.26	6.41
+GO:0021952	central nervous system projection neuron axonogenesis	1	0.73	0.78	8.94	67.09
+GO:0071704	organic substance metabolic process	111	0.15	0.20	2.26	6.41
+GO:0031668	cellular response to extracellular stimulus	8	0.55	0.52	7.38	45.16
+GO:0042221	response to chemical	54	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	56	0.39	0.32	4.70	6.14
+GO:0030154	cell differentiation	45	0.39	0.39	5.18	16.68
+GO:0032501	multicellular organismal process	21	0.33	0.16	3.12	3.37
+GO:0000082	G1/S transition of mitotic cell cycle	13	1.00	0.79	9.63	42.75
+GO:0048468	cell development	9	0.51	0.45	6.51	28.42
+GO:0006611	protein export from nucleus	8	0.75	0.77	9.28	128.44
+GO:0048608	reproductive structure development	8	0.61	0.50	7.37	31.35
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	3	0.79	0.77	9.12	28.36
+GO:0060070	canonical Wnt signaling pathway	2	0.67	0.71	8.39	31.42
+GO:0030218	erythrocyte differentiation	2	0.84	0.71	9.12	22.68
+GO:0002042	cell migration involved in sprouting angiogenesis	2	1.00	0.90	9.63	27.17
+GO:0035767	endothelial cell chemotaxis	2	0.93	0.84	9.55	59.00
+GO:0007517	muscle organ development	2	0.78	0.64	8.75	27.68
+GO:0007274	neuromuscular synaptic transmission	1	0.93	0.84	9.52	25.74
+GO:0032924	activin receptor signaling pathway	1	0.84	0.80	9.43	29.90
+GO:0042551	neuron maturation	1	0.93	0.72	9.49	39.56
+GO:0042701	progesterone secretion	1	1.00	0.92	9.63	122.83

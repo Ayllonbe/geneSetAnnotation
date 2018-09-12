@@ -1,0 +1,74 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1976	0.12	0.26	2.47	7.96
+GO:0019219	regulation of nucleobase-containing compound metabolic process	884	0.33	0.45	5.50	54.14
+GO:0090304	nucleic acid metabolic process	816	0.35	0.46	5.97	111.15
+GO:0006508	proteolysis	272	0.55	0.57	7.34	47.86
+GO:0044267	cellular protein metabolic process	721	0.34	0.46	5.57	80.87
+GO:0006355	regulation of transcription, DNA-templated	748	0.40	0.60	6.84	245.35
+GO:0006351	transcription, DNA-templated	496	0.57	0.68	8.45	581.39
+GO:0006996	organelle organization	469	0.39	0.39	5.17	14.95
+GO:0010033	response to organic substance	400	0.35	0.37	4.75	9.28
+GO:0016192	vesicle-mediated transport	378	0.52	0.51	6.57	10.99
+GO:0032270	positive regulation of cellular protein metabolic process	327	0.47	0.59	7.41	288.49
+GO:0015031	protein transport	324	0.48	0.59	6.99	54.46
+GO:0044255	cellular lipid metabolic process	187	0.38	0.44	5.89	38.02
+GO:0006887	exocytosis	183	0.67	0.66	8.38	37.08
+GO:0007186	G-protein coupled receptor signaling pathway	135	0.55	0.57	7.20	23.17
+GO:0045087	innate immune response	105	0.68	0.59	8.16	26.47
+GO:0051259	protein complex oligomerization	105	0.78	0.68	9.09	40.42
+GO:0043547	positive regulation of GTPase activity	94	0.93	0.79	9.52	49.34
+GO:0007264	small GTPase mediated signal transduction	89	0.74	0.69	8.74	26.43
+GO:0006874	cellular calcium ion homeostasis	66	0.63	0.71	8.83	287.08
+GO:0009416	response to light stimulus	56	0.57	0.53	7.06	9.95
+GO:0030855	epithelial cell differentiation	47	0.55	0.52	6.96	21.07
+GO:0007275	multicellular organism development	42	0.70	0.55	8.18	19.32
+GO:0000902	cell morphogenesis	41	0.63	0.56	7.92	43.26
+GO:0006406	mRNA export from nucleus	31	0.89	0.84	9.52	121.36
+GO:1901796	regulation of signal transduction by p53 class mediator	30	0.72	0.71	9.12	45.07
+GO:0007565	female pregnancy	24	1.00	0.70	9.63	32.81
+GO:0016573	histone acetylation	22	0.69	0.78	9.12	658.07
+GO:0018022	peptidyl-lysine methylation	17	0.69	0.74	9.15	367.05
+GO:0070126	mitochondrial translational termination	16	1.00	0.85	9.63	40.69
+GO:0007173	epidermal growth factor receptor signaling pathway	16	0.78	0.78	9.04	32.39
+GO:0035264	multicellular organism growth	15	1.00	0.70	9.63	22.58
+GO:0008584	male gonad development	15	1.00	0.79	9.63	50.96
+GO:0008286	insulin receptor signaling pathway	13	0.87	0.81	9.34	31.00
+GO:0051402	neuron apoptotic process	13	0.83	0.70	9.02	23.44
+GO:0060236	regulation of mitotic spindle organization	12	0.80	0.80	9.36	71.51
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	12	0.93	0.82	9.52	52.45
+GO:0043029	T cell homeostasis	10	1.00	0.85	9.63	22.00
+GO:0048008	platelet-derived growth factor receptor signaling pathway	8	0.78	0.76	9.19	31.00
+GO:0006623	protein targeting to vacuole	7	0.84	0.84	9.55	198.72
+GO:0048701	embryonic cranial skeleton morphogenesis	7	1.00	0.82	9.63	46.18
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	7	0.87	0.78	9.52	52.93
+GO:0007140	male meiotic nuclear division	6	0.89	0.80	9.47	65.97
+GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	6	1.00	0.88	9.63	67.29
+GO:0014065	phosphatidylinositol 3-kinase signaling	6	1.00	0.88	9.63	26.43
+GO:0045190	isotype switching	5	0.83	0.86	9.52	267.40
+GO:0046835	carbohydrate phosphorylation	5	0.93	0.79	9.54	67.31
+GO:0006895	Golgi to endosome transport	5	1.00	0.85	9.63	52.54
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	5	1.00	0.82	9.63	80.91
+GO:0008210	estrogen metabolic process	5	0.89	0.77	9.49	78.57
+GO:0048268	clathrin coat assembly	5	0.84	0.74	9.31	44.52
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	5	1.00	0.85	9.63	108.68
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	5	1.00	0.93	9.63	645.24
+GO:0014829	vascular smooth muscle contraction	4	0.87	0.83	9.52	55.69
+GO:0042135	neurotransmitter catabolic process	4	0.72	0.65	8.80	61.24
+GO:0006047	UDP-N-acetylglucosamine metabolic process	4	0.87	0.78	9.52	163.58
+GO:0048477	oogenesis	3	1.00	0.79	9.63	84.68
+GO:0007614	short-term memory	3	1.00	0.85	9.63	22.23
+GO:0071577	zinc ion transmembrane transport	3	0.83	0.81	9.36	134.50
+GO:0015939	pantothenate metabolic process	3	0.83	0.76	9.44	165.93
+GO:0042420	dopamine catabolic process	3	1.00	0.88	9.63	561.10
+GO:0120009	intermembrane lipid transfer	2	0.87	0.76	9.37	36.25
+GO:0001302	replicative cell aging	2	1.00	0.75	9.63	26.14
+GO:0050668	positive regulation of homocysteine metabolic process	1	1.00	0.90	9.63	707.53
+GO:1905090	negative regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	1	1.00	0.92	9.63	202.47
+GO:0016036	cellular response to phosphate starvation	1	1.00	0.85	9.63	115.90
+GO:0035621	ER to Golgi ceramide transport	1	1.00	0.85	9.63	89.55
+GO:0031034	myosin filament assembly	1	0.84	0.77	9.42	95.43
+GO:0045053	protein retention in Golgi apparatus	1	1.00	0.82	9.63	46.06
+GO:0035814	negative regulation of renal sodium excretion	1	0.93	0.84	9.57	135.80
+GO:1904751	positive regulation of protein localization to nucleolus	1	1.00	0.88	9.63	107.08
+GO:0033499	galactose catabolic process via UDP-galactose	1	1.00	0.88	9.63	174.93
+GO:0035166	post-embryonic hemopoiesis	1	0.93	0.79	9.49	35.89

@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065009	regulation of molecular function	364	0.33	0.29	4.10	4.47
+GO:0010033	response to organic substance	294	0.35	0.37	4.75	9.28
+GO:0032268	regulation of cellular protein metabolic process	268	0.37	0.51	6.13	70.76
+GO:0016192	vesicle-mediated transport	242	0.52	0.51	6.57	10.99
+GO:0030154	cell differentiation	198	0.39	0.39	5.18	16.68
+GO:0010941	regulation of cell death	189	0.43	0.47	6.10	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	157	0.55	0.57	7.20	23.17
+GO:1901135	carbohydrate derivative metabolic process	81	0.35	0.37	4.70	10.22
+GO:0045596	negative regulation of cell differentiation	79	0.44	0.51	6.50	82.79
+GO:0006508	proteolysis	77	0.55	0.57	7.34	47.86
+GO:0003006	developmental process involved in reproduction	58	0.43	0.34	5.07	14.49
+GO:0005975	carbohydrate metabolic process	30	0.38	0.39	5.46	18.42
+GO:0046718	viral entry into host cell	18	0.77	0.73	8.94	28.37
+GO:0010506	regulation of autophagy	16	0.63	0.64	8.27	43.36
+GO:2000179	positive regulation of neural precursor cell proliferation	8	0.83	0.74	9.19	64.31
+GO:0048208	COPII vesicle coating	4	1.00	0.82	9.63	62.44
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	4	0.93	0.82	9.52	52.45
+GO:0038179	neurotrophin signaling pathway	3	0.89	0.77	9.38	26.50
+GO:0060441	epithelial tube branching involved in lung morphogenesis	3	0.93	0.82	9.53	53.50
+GO:0046323	glucose import	1	0.89	0.86	9.46	38.21
+GO:1905572	ganglioside GM1 transport to membrane	1	1.00	0.88	9.63	123.76

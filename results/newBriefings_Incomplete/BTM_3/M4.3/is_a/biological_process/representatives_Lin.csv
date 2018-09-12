@@ -1,0 +1,64 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044281	small molecule metabolic process	248	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	1016	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1077	0.15	0.20	2.26	6.41
+GO:1901564	organonitrogen compound metabolic process	687	0.23	0.31	3.63	19.40
+GO:0009966	regulation of signal transduction	590	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	584	0.43	0.51	5.91	23.17
+GO:0010468	regulation of gene expression	574	0.35	0.46	5.09	13.73
+GO:0051716	cellular response to stimulus	522	0.35	0.30	4.36	13.53
+GO:0050794	regulation of cellular process	1490	0.12	0.26	2.47	7.96
+GO:0002682	regulation of immune system process	491	0.32	0.36	4.60	7.96
+GO:0010647	positive regulation of cell communication	358	0.42	0.50	5.88	43.28
+GO:0050776	regulation of immune response	350	0.38	0.44	5.64	22.45
+GO:0016192	vesicle-mediated transport	349	0.52	0.51	6.57	10.99
+GO:0071313	cellular response to caffeine	1	1.00	0.85	9.63	615.98
+GO:1901700	response to oxygen-containing compound	335	0.39	0.39	5.14	9.28
+GO:0001932	regulation of protein phosphorylation	299	0.50	0.62	7.64	109.03
+GO:0006955	immune response	217	0.54	0.40	6.57	12.45
+GO:0051707	response to other organism	180	0.42	0.46	6.41	24.63
+GO:0006955	immune response	217	0.54	0.40	6.57	12.45
+GO:0051707	response to other organism	180	0.42	0.46	6.41	24.63
+GO:0033554	cellular response to stress	246	0.44	0.42	6.05	25.47
+GO:0065003	protein-containing complex assembly	235	0.45	0.48	6.06	36.47
+GO:0051050	positive regulation of transport	218	0.42	0.50	5.84	25.90
+GO:0007186	G-protein coupled receptor signaling pathway	199	0.55	0.57	7.20	23.17
+GO:0050707	regulation of cytokine secretion	67	0.59	0.67	8.36	114.42
+GO:0001819	positive regulation of cytokine production	151	0.51	0.54	6.97	44.26
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0010469	regulation of signaling receptor activity	127	0.59	0.62	7.95	48.62
+GO:0006875	cellular metal ion homeostasis	125	0.59	0.67	8.36	105.84
+GO:0048468	cell development	111	0.51	0.45	6.51	28.42
+GO:0015672	monovalent inorganic cation transport	72	0.67	0.66	8.33	15.42
+GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
+GO:0032103	positive regulation of response to external stimulus	104	0.53	0.55	7.02	42.20
+GO:0007154	cell communication	90	0.46	0.36	5.27	7.39
+GO:0071219	cellular response to molecule of bacterial origin	71	0.80	0.69	9.25	59.35
+GO:0097190	apoptotic signaling pathway	69	0.70	0.64	8.53	23.17
+GO:0019722	calcium-mediated signaling	44	0.72	0.71	8.71	27.81
+GO:1902476	chloride transmembrane transport	19	1.00	0.88	9.63	110.52
+GO:0006865	amino acid transport	22	0.52	0.64	7.71	64.92
+GO:0008016	regulation of heart contraction	36	0.57	0.61	7.59	16.15
+GO:0046854	phosphatidylinositol phosphorylation	33	1.00	0.88	9.63	218.74
+GO:0046718	viral entry into host cell	25	0.77	0.73	8.94	28.37
+GO:0031663	lipopolysaccharide-mediated signaling pathway	20	1.00	0.82	9.63	26.50
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	20	1.00	0.82	9.63	26.43
+GO:0030500	regulation of bone mineralization	16	0.83	0.74	9.41	42.16
+GO:0006401	RNA catabolic process	16	0.59	0.65	8.78	532.61
+GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0097421	liver regeneration	10	1.00	0.82	9.63	47.22
+GO:0090501	RNA phosphodiester bond hydrolysis	10	0.64	0.67	8.66	229.53
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0010763	positive regulation of fibroblast migration	6	0.93	0.84	9.57	201.49
+GO:2000810	regulation of bicellular tight junction assembly	5	0.89	0.77	9.38	28.93
+GO:2000345	regulation of hepatocyte proliferation	4	0.89	0.77	9.46	64.61
+GO:0097186	amelogenesis	4	1.00	0.82	9.63	26.74
+GO:0018279	protein N-linked glycosylation via asparagine	4	0.87	0.83	9.49	334.83
+GO:0048667	cell morphogenesis involved in neuron differentiation	3	0.81	0.73	9.22	47.45
+GO:0032836	glomerular basement membrane development	3	0.89	0.74	9.41	30.93
+GO:0046323	glucose import	2	0.89	0.86	9.46	38.21
+GO:0035860	glial cell-derived neurotrophic factor receptor signaling pathway	2	0.93	0.84	9.52	31.00
+GO:0038184	cell surface bile acid receptor signaling pathway	1	1.00	0.82	9.63	50.37
+GO:0000821	regulation of arginine metabolic process	1	0.78	0.76	9.30	103.95

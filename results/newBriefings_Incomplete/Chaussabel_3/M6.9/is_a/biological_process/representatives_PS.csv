@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	7786	0.00	0.00	0.00	0.00
+GO:0009987	cellular process	6932	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	5341	0.09	0.17	1.80	4.47
+GO:0019262	N-acetylneuraminate catabolic process	5	1.00	0.85	9.63	426.13
+GO:0031571	mitotic G1 DNA damage checkpoint	7	1.00	0.93	9.63	856.02
+GO:0071704	organic substance metabolic process	4885	0.15	0.20	2.26	6.41
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	76	1.00	0.95	9.63	336.65
+GO:0001649	osteoblast differentiation	52	1.00	0.75	9.63	21.07
+GO:0051289	protein homotetramerization	51	1.00	0.85	9.63	85.45
+GO:0007565	female pregnancy	43	1.00	0.70	9.63	32.81
+GO:0035264	multicellular organism growth	43	1.00	0.70	9.63	22.58
+GO:0007274	neuromuscular synaptic transmission	6	0.93	0.84	9.52	25.74

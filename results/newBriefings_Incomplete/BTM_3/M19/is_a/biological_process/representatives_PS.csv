@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2177	0.00	0.00	0.00	0.00
+GO:0010033	response to organic substance	455	0.35	0.37	4.75	9.28
+GO:0071704	organic substance metabolic process	1109	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	1943	0.09	0.05	0.84	3.37
+GO:2000480	negative regulation of cAMP-dependent protein kinase activity	5	1.00	0.95	9.63	1429.05
+GO:2000679	positive regulation of transcription regulatory region DNA binding	7	0.89	0.77	9.43	47.97
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0050789	regulation of biological process	1621	0.09	0.17	1.80	4.47
+GO:0051179	localization	756	0.26	0.13	2.57	3.37
+GO:0048856	anatomical structure development	252	0.33	0.29	3.70	6.46
+GO:0048869	cellular developmental process	472	0.32	0.29	4.16	13.85
+GO:0048856	anatomical structure development	252	0.33	0.29	3.70	6.46
+GO:0051704	multi-organism process	246	0.29	0.15	3.12	3.37
+GO:0050900	leukocyte migration	156	0.60	0.59	8.02	26.94
+GO:0051260	protein homooligomerization	55	0.89	0.77	9.41	42.03
+GO:0043542	endothelial cell migration	18	0.80	0.75	9.14	24.97
+GO:0060231	mesenchymal to epithelial transition	4	0.83	0.70	9.34	24.20
+GO:0060374	mast cell differentiation	3	1.00	0.82	9.63	47.07
+GO:0072178	nephric duct morphogenesis	2	0.87	0.76	9.38	32.21

@@ -1,0 +1,74 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006355	regulation of transcription, DNA-templated	79	0.40	0.60	6.84	245.35
+GO:1902531	regulation of intracellular signal transduction	52	0.45	0.55	6.77	41.85
+GO:0035556	intracellular signal transduction	44	0.51	0.55	6.92	23.17
+GO:0051726	regulation of cell cycle	42	0.41	0.45	5.89	12.04
+GO:0043933	protein-containing complex subunit organization	39	0.43	0.41	5.44	14.95
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
+GO:0006259	DNA metabolic process	38	0.45	0.55	7.12	145.26
+GO:0006974	cellular response to DNA damage stimulus	32	0.57	0.53	7.47	29.00
+GO:0045786	negative regulation of cell cycle	28	0.51	0.54	7.10	42.35
+GO:0007346	regulation of mitotic cell cycle	27	0.49	0.53	6.68	14.24
+GO:0006281	DNA repair	25	0.63	0.66	8.78	180.34
+GO:0006468	protein phosphorylation	24	0.57	0.64	8.18	177.76
+GO:0006260	DNA replication	21	0.73	0.72	9.27	254.20
+GO:0043066	negative regulation of apoptotic process	20	0.56	0.63	7.79	81.07
+GO:0051345	positive regulation of hydrolase activity	20	0.57	0.57	7.42	32.99
+GO:0000082	G1/S transition of mitotic cell cycle	18	1.00	0.79	9.63	42.75
+GO:0030183	B cell differentiation	17	0.73	0.69	9.02	64.36
+GO:0050871	positive regulation of B cell activation	15	0.74	0.75	9.12	160.33
+GO:0051054	positive regulation of DNA metabolic process	13	0.59	0.65	8.41	301.51
+GO:0030855	epithelial cell differentiation	9	0.55	0.52	6.96	21.07
+GO:0006310	DNA recombination	8	0.61	0.66	8.53	149.04
+GO:0000018	regulation of DNA recombination	8	0.61	0.65	8.39	73.35
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	7	1.00	0.79	9.63	42.20
+GO:0071479	cellular response to ionizing radiation	6	0.89	0.77	9.45	48.66
+GO:0016567	protein ubiquitination	6	0.69	0.74	9.00	153.79
+GO:0006268	DNA unwinding involved in DNA replication	6	0.83	0.79	9.34	24.42
+GO:0032355	response to estradiol	5	0.93	0.76	9.52	74.25
+GO:0034644	cellular response to UV	5	0.80	0.75	9.22	66.19
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	5	0.93	0.82	9.56	84.23
+GO:0008584	male gonad development	5	1.00	0.79	9.63	50.96
+GO:0045190	isotype switching	4	0.83	0.86	9.52	267.40
+GO:2000104	negative regulation of DNA-dependent DNA replication	4	0.71	0.75	9.25	982.58
+GO:0006294	nucleotide-excision repair, preincision complex assembly	4	1.00	0.85	9.63	65.90
+GO:0000077	DNA damage checkpoint	4	0.81	0.78	9.46	85.76
+GO:0045995	regulation of embryonic development	3	0.50	0.54	6.89	27.38
+GO:0007281	germ cell development	3	0.87	0.68	9.34	71.68
+GO:0097421	liver regeneration	3	1.00	0.82	9.63	47.22
+GO:0046034	ATP metabolic process	3	0.65	0.74	9.11	1262.34
+GO:0009749	response to glucose	3	0.89	0.80	9.41	32.96
+GO:0071548	response to dexamethasone	3	0.93	0.84	9.57	124.89
+GO:0071260	cellular response to mechanical stimulus	3	1.00	0.79	9.63	56.12
+GO:0001649	osteoblast differentiation	3	1.00	0.75	9.63	21.07
+GO:0000281	mitotic cytokinesis	3	0.93	0.76	9.47	28.62
+GO:0019724	B cell mediated immunity	3	0.73	0.66	8.88	29.49
+GO:0000070	mitotic sister chromatid segregation	3	1.00	0.82	9.63	56.84
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:0030261	chromosome condensation	3	0.83	0.76	9.22	23.95
+GO:0001701	in utero embryonic development	3	1.00	0.85	9.63	22.50
+GO:0051754	meiotic sister chromatid cohesion, centromeric	2	1.00	0.85	9.63	117.00
+GO:0033314	mitotic DNA replication checkpoint	2	1.00	0.93	9.63	738.10
+GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
+GO:1902065	response to L-glutamate	2	0.93	0.79	9.56	96.09
+GO:1900034	regulation of cellular response to heat	2	0.87	0.76	9.27	29.43
+GO:0090399	replicative senescence	2	1.00	0.75	9.63	26.14
+GO:0035264	multicellular organism growth	2	1.00	0.70	9.63	22.58
+GO:0045132	meiotic chromosome segregation	2	0.80	0.65	9.09	42.96
+GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	2	1.00	0.88	9.63	164.98
+GO:0031122	cytoplasmic microtubule organization	1	0.81	0.73	9.26	50.45
+GO:2000615	regulation of histone H3-K9 acetylation	1	0.89	0.88	9.53	182.99
+GO:0000915	actomyosin contractile ring assembly	1	0.93	0.84	9.57	135.17
+GO:0071163	DNA replication preinitiation complex assembly	1	0.87	0.78	9.39	77.23
+GO:0007064	mitotic sister chromatid cohesion	1	0.87	0.76	9.34	49.16
+GO:0008272	sulfate transport	1	0.87	0.78	9.41	30.35
+GO:0072423	response to DNA damage checkpoint signaling	1	0.84	0.74	9.37	39.36
+GO:0031573	intra-S DNA damage checkpoint	1	1.00	0.92	9.63	277.39
+GO:0070584	mitochondrion morphogenesis	1	1.00	0.79	9.63	64.70
+GO:0007076	mitotic chromosome condensation	1	0.89	0.82	9.46	40.55
+GO:0048096	chromatin-mediated maintenance of transcription	1	1.00	0.93	9.63	1311.62
+GO:0051256	mitotic spindle midzone assembly	1	1.00	0.79	9.63	55.95
+GO:0007140	male meiotic nuclear division	1	0.89	0.80	9.47	65.97
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	1	0.68	0.71	8.88	231.14
+GO:0035563	positive regulation of chromatin binding	1	0.93	0.76	9.49	31.32
+GO:0007094	mitotic spindle assembly checkpoint	1	1.00	0.96	9.63	1801.80

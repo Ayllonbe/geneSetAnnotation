@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	452	0.09	0.05	0.84	3.37
+GO:0061003	positive regulation of dendritic spine morphogenesis	2	1.00	0.95	9.63	1908.97
+GO:0043085	positive regulation of catalytic activity	40	0.48	0.49	6.15	18.32
+GO:0050789	regulation of biological process	347	0.09	0.17	1.80	4.47
+GO:0061003	positive regulation of dendritic spine morphogenesis	2	1.00	0.95	9.63	1908.97
+GO:0043085	positive regulation of catalytic activity	40	0.48	0.49	6.15	18.32
+GO:0050789	regulation of biological process	347	0.09	0.17	1.80	4.47
+GO:0043170	macromolecule metabolic process	268	0.25	0.32	3.46	10.22
+GO:0001523	retinoid metabolic process	3	0.77	0.76	9.19	47.55
+GO:0051234	establishment of localization	158	0.28	0.26	3.49	5.67
+GO:0007268	chemical synaptic transmission	8	0.74	0.72	8.66	23.17
+GO:0000281	mitotic cytokinesis	6	0.93	0.76	9.47	28.62
+GO:0000086	G2/M transition of mitotic cell cycle	5	1.00	0.79	9.63	43.45
+GO:0060707	trophoblast giant cell differentiation	3	1.00	0.79	9.63	42.29
+GO:0000082	G1/S transition of mitotic cell cycle	2	1.00	0.79	9.63	42.75
+GO:0001890	placenta development	2	1.00	0.75	9.63	49.87
+GO:0007193	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	2	0.79	0.77	9.12	28.36
+GO:0060718	chorionic trophoblast cell differentiation	2	1.00	0.75	9.63	21.07
+GO:0070365	hepatocyte differentiation	2	1.00	0.79	9.63	24.20
+GO:1990120	messenger ribonucleoprotein complex assembly	1	1.00	0.85	9.63	66.60
+GO:0051307	meiotic chromosome separation	1	0.87	0.68	9.22	35.56
+GO:0051290	protein heterotetramerization	1	1.00	0.85	9.63	85.45

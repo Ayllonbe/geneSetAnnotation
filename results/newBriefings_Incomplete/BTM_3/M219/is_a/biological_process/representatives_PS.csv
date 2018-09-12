@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016043	cellular component organization	385	0.28	0.26	3.74	11.45
+GO:0010033	response to organic substance	275	0.35	0.37	4.75	9.28
+GO:0006091	generation of precursor metabolites and energy	49	0.53	0.46	6.54	17.52
+GO:1902600	proton transmembrane transport	18	0.76	0.75	9.12	95.87
+GO:0006091	generation of precursor metabolites and energy	49	0.53	0.46	6.54	17.52
+GO:1902600	proton transmembrane transport	18	0.76	0.75	9.12	95.87
+GO:0016485	protein processing	12	0.65	0.65	8.32	99.81
+GO:0006627	protein processing involved in protein targeting to mitochondrion	1	1.00	0.88	9.63	185.94
+GO:0021860	pyramidal neuron development	1	1.00	0.85	9.63	36.72
+GO:0002082	regulation of oxidative phosphorylation	1	0.77	0.80	9.47	169.95

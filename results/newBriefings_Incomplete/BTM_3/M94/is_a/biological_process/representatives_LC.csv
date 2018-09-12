@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	1040	0.08	0.04	0.98	3.37
+GO:0051704	multi-organism process	155	0.29	0.15	3.12	3.37
+GO:0032502	developmental process	350	0.22	0.11	1.89	3.37
+GO:0009987	cellular process	1219	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	525	0.25	0.12	2.65	3.37
+GO:0043433	negative regulation of DNA binding transcription factor activity	19	0.81	0.84	9.47	278.01
+GO:0051091	positive regulation of DNA binding transcription factor activity	36	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	996	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	369	0.33	0.29	4.10	4.47
+GO:0051447	negative regulation of meiotic cell cycle	5	0.67	0.66	8.66	99.48
+GO:0008344	adult locomotory behavior	7	0.84	0.62	9.16	24.58
+GO:0070972	protein localization to endoplasmic reticulum	1	0.79	0.72	9.14	32.77

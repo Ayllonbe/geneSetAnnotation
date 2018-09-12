@@ -1,0 +1,12 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	51	0.00	0.00	0.00	0.00
+GO:0050794	regulation of cellular process	41	0.12	0.26	2.47	7.96
+GO:0046597	negative regulation of viral entry into host cell	1	0.93	0.84	9.55	84.95
+GO:0051239	regulation of multicellular organismal process	7	0.23	0.32	3.68	7.96
+GO:0010033	response to organic substance	19	0.35	0.37	4.75	9.28
+GO:1901698	response to nitrogen compound	14	0.44	0.42	5.62	9.28
+GO:0002376	immune system process	11	0.38	0.19	3.93	3.37
+GO:0048608	reproductive structure development	3	0.61	0.50	7.37	31.35
+GO:0007565	female pregnancy	1	1.00	0.70	9.63	32.81
+GO:0001545	primary ovarian follicle growth	1	0.89	0.64	9.29	21.72
+GO:0007595	lactation	1	1.00	0.82	9.63	25.96

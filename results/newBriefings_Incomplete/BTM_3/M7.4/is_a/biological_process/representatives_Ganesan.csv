@@ -1,0 +1,77 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1282	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	905	0.21	0.30	3.05	7.96
+GO:0060255	regulation of macromolecule metabolic process	727	0.26	0.38	4.09	10.74
+GO:0009966	regulation of signal transduction	518	0.33	0.45	5.35	37.59
+GO:0051240	positive regulation of multicellular organismal process	332	0.35	0.42	4.98	23.60
+GO:0051241	negative regulation of multicellular organismal process	222	0.35	0.42	4.99	23.69
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	22	1.00	0.82	9.63	361.03
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	22	1.00	0.82	9.63	361.03
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	22	1.00	0.82	9.63	361.03
+GO:0010033	response to organic substance	404	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	22	1.00	0.82	9.63	361.03
+GO:0006355	regulation of transcription, DNA-templated	394	0.40	0.60	6.84	245.35
+GO:1903507	negative regulation of nucleic acid-templated transcription	148	0.55	0.67	8.38	898.55
+GO:0044271	cellular nitrogen compound biosynthetic process	300	0.36	0.43	5.55	60.43
+GO:0042981	regulation of apoptotic process	276	0.45	0.55	6.60	16.23
+GO:0050778	positive regulation of immune response	220	0.46	0.52	6.76	78.39
+GO:0019221	cytokine-mediated signaling pathway	207	0.60	0.63	7.60	26.50
+GO:0006952	defense response	205	0.56	0.48	6.67	9.54
+GO:0006811	ion transport	199	0.38	0.44	5.19	10.99
+GO:0006470	protein dephosphorylation	18	0.76	0.73	9.22	177.17
+GO:0016310	phosphorylation	180	0.53	0.56	6.88	24.41
+GO:0006351	transcription, DNA-templated	184	0.57	0.68	8.45	581.39
+GO:0031347	regulation of defense response	182	0.40	0.49	5.73	14.14
+GO:0043030	regulation of macrophage activation	18	0.83	0.74	9.38	27.11
+GO:0051249	regulation of lymphocyte activation	150	0.48	0.56	7.10	27.11
+GO:0050900	leukocyte migration	142	0.60	0.59	8.02	26.94
+GO:0030335	positive regulation of cell migration	137	0.58	0.64	8.22	157.26
+GO:0006875	cellular metal ion homeostasis	117	0.59	0.67	8.36	105.84
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	97	0.58	0.64	7.56	28.11
+GO:0046649	lymphocyte activation	95	0.55	0.52	7.16	18.06
+GO:0060326	cell chemotaxis	94	0.64	0.61	8.15	30.29
+GO:0051259	protein complex oligomerization	75	0.78	0.68	9.09	40.42
+GO:0045637	regulation of myeloid cell differentiation	64	0.62	0.63	8.47	67.17
+GO:0001666	response to hypoxia	63	0.81	0.70	9.12	21.16
+GO:0007265	Ras protein signal transduction	34	0.76	0.73	8.94	27.53
+GO:0051100	negative regulation of binding	30	0.62	0.56	7.57	18.50
+GO:0001649	osteoblast differentiation	29	1.00	0.75	9.63	21.07
+GO:0050853	B cell receptor signaling pathway	27	0.93	0.88	9.58	219.43
+GO:0043401	steroid hormone mediated signaling pathway	23	0.75	0.70	8.80	25.74
+GO:0038095	Fc-epsilon receptor signaling pathway	23	0.93	0.84	9.55	78.48
+GO:0060070	canonical Wnt signaling pathway	19	0.67	0.71	8.39	31.42
+GO:0007565	female pregnancy	16	1.00	0.70	9.63	32.81
+GO:0042692	muscle cell differentiation	16	0.69	0.59	8.24	21.07
+GO:0030326	embryonic limb morphogenesis	11	0.89	0.74	9.38	43.31
+GO:0090630	activation of GTPase activity	11	1.00	0.85	9.63	49.34
+GO:0001837	epithelial to mesenchymal transition	10	0.75	0.67	8.65	23.15
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
+GO:0016573	histone acetylation	9	0.69	0.78	9.12	658.07
+GO:0001755	neural crest cell migration	7	0.80	0.72	9.09	22.57
+GO:0090330	regulation of platelet aggregation	7	0.83	0.81	9.53	97.24
+GO:0048747	muscle fiber development	6	0.89	0.77	9.41	33.94
+GO:0006509	membrane protein ectodomain proteolysis	5	0.89	0.80	9.45	50.75
+GO:1904837	beta-catenin-TCF complex assembly	5	1.00	0.79	9.63	40.42
+GO:0043303	mast cell degranulation	5	1.00	0.90	9.63	196.34
+GO:0021879	forebrain neuron differentiation	5	0.80	0.72	9.01	26.73
+GO:0046068	cGMP metabolic process	5	0.89	0.86	9.56	715.83
+GO:0043011	myeloid dendritic cell differentiation	4	0.89	0.77	9.49	91.17
+GO:0001756	somitogenesis	3	1.00	0.79	9.63	43.80
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23
+GO:0033153	T cell receptor V(D)J recombination	2	1.00	0.93	9.63	333.87
+GO:0047496	vesicle transport along microtubule	2	0.79	0.77	9.37	173.01
+GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
+GO:0030578	PML body organization	2	1.00	0.82	9.63	22.53
+GO:0045063	T-helper 1 cell differentiation	2	1.00	0.93	9.63	473.70
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	2	1.00	0.90	9.63	33.21
+GO:0043923	positive regulation by host of viral transcription	2	1.00	0.93	9.63	272.30
+GO:0021943	formation of radial glial scaffolds	2	1.00	0.82	9.63	47.45
+GO:0071895	odontoblast differentiation	2	1.00	0.85	9.63	26.97
+GO:0072539	T-helper 17 cell differentiation	1	1.00	0.93	9.63	473.70
+GO:0021861	forebrain radial glial cell differentiation	1	1.00	0.82	9.63	23.84
+GO:0030223	neutrophil differentiation	1	1.00	0.85	9.63	48.17
+GO:0070050	neuron cellular homeostasis	1	0.80	0.69	9.09	31.95
+GO:0021702	cerebellar Purkinje cell differentiation	1	1.00	0.82	9.63	49.99

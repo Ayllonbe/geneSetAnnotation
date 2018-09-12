@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	1151	0.23	0.31	3.63	19.40
+GO:0016043	cellular component organization	1005	0.28	0.26	3.74	11.45
+GO:0051179	localization	999	0.26	0.13	2.57	3.37
+GO:0010468	regulation of gene expression	997	0.35	0.46	5.09	13.73
+GO:0010646	regulation of cell communication	706	0.30	0.40	4.51	12.04
+GO:0051716	cellular response to stimulus	655	0.35	0.30	4.36	13.53
+GO:0051246	regulation of protein metabolic process	645	0.34	0.46	5.46	41.09
+GO:0032502	developmental process	595	0.22	0.11	1.89	3.37
+GO:0051128	regulation of cellular component organization	582	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	532	0.57	0.68	8.45	581.39
+GO:0010629	negative regulation of gene expression	407	0.47	0.56	6.74	59.05
+GO:0045595	regulation of cell differentiation	357	0.34	0.42	5.25	23.33
+GO:0043066	negative regulation of apoptotic process	212	0.56	0.63	7.79	81.07
+GO:0010564	regulation of cell cycle process	189	0.42	0.50	6.22	14.24
+GO:0007167	enzyme linked receptor protein signaling pathway	140	0.53	0.59	7.04	26.50
+GO:0000209	protein polyubiquitination	67	0.77	0.80	9.22	155.40
+GO:0060562	epithelial tube morphogenesis	19	0.63	0.61	7.92	30.01
+GO:0070458	cellular detoxification of nitrogen compound	3	1.00	0.70	9.63	22.27
+GO:0018916	nitrobenzene metabolic process	3	0.89	0.74	9.43	49.34
+GO:0042178	xenobiotic catabolic process	3	0.58	0.54	7.37	50.95
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17

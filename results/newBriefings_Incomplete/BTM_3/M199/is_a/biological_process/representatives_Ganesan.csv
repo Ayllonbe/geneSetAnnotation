@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	910	0.12	0.26	2.47	7.96
+GO:0009966	regulation of signal transduction	357	0.33	0.45	5.35	37.59
+GO:0032879	regulation of localization	328	0.27	0.33	4.05	7.96
+GO:0031325	positive regulation of cellular metabolic process	328	0.33	0.46	5.39	79.98
+GO:0019538	protein metabolic process	283	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	257	0.40	0.60	6.84	245.35
+GO:0016192	vesicle-mediated transport	231	0.52	0.51	6.57	10.99
+GO:0001934	positive regulation of protein phosphorylation	136	0.58	0.69	8.60	663.11
+GO:0006469	negative regulation of protein kinase activity	37	0.68	0.76	9.22	1097.06
+GO:0050900	leukocyte migration	115	0.60	0.59	8.02	26.94
+GO:0010243	response to organonitrogen compound	115	0.45	0.48	6.23	25.43
+GO:0006468	protein phosphorylation	99	0.57	0.64	8.18	177.76
+GO:0007167	enzyme linked receptor protein signaling pathway	93	0.53	0.59	7.04	26.50
+GO:0044255	cellular lipid metabolic process	80	0.38	0.44	5.89	38.02
+GO:0030162	regulation of proteolysis	77	0.51	0.58	7.47	43.98
+GO:0007346	regulation of mitotic cell cycle	58	0.49	0.53	6.68	14.24
+GO:0010564	regulation of cell cycle process	71	0.42	0.50	6.22	14.24
+GO:0051051	negative regulation of transport	57	0.42	0.50	5.86	25.98
+GO:0051260	protein homooligomerization	40	0.89	0.77	9.41	42.03
+GO:0000902	cell morphogenesis	30	0.63	0.56	7.92	43.26
+GO:0048754	branching morphogenesis of an epithelial tube	14	0.74	0.69	8.88	51.71
+GO:0007173	epidermal growth factor receptor signaling pathway	14	0.78	0.78	9.04	32.39
+GO:0072659	protein localization to plasma membrane	13	0.79	0.72	9.26	65.43
+GO:0007409	axonogenesis	13	0.69	0.72	8.67	64.61
+GO:0000086	G2/M transition of mitotic cell cycle	11	1.00	0.79	9.63	43.45
+GO:0060070	canonical Wnt signaling pathway	10	0.67	0.71	8.39	31.42
+GO:0043388	positive regulation of DNA binding	6	0.71	0.64	8.58	32.53
+GO:0003091	renal water homeostasis	6	1.00	0.85	9.63	57.14
+GO:0038128	ERBB2 signaling pathway	5	0.87	0.83	9.37	32.39
+GO:0016486	peptide hormone processing	5	0.80	0.75	9.33	182.78
+GO:0019934	cGMP-mediated signaling	4	0.93	0.84	9.52	28.51
+GO:0097711	ciliary basal body-plasma membrane docking	3	1.00	0.79	9.63	21.39
+GO:0070493	thrombin-activated receptor signaling pathway	3	1.00	0.82	9.63	26.98
+GO:0044332	Wnt signaling pathway involved in dorsal/ventral axis specification	2	1.00	0.88	9.63	31.42
+GO:0042730	fibrinolysis	2	1.00	0.90	9.63	252.90
+GO:0007354	zygotic determination of anterior/posterior axis, embryo	1	1.00	0.82	9.63	41.02

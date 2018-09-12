@@ -1,0 +1,48 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1095	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	736	0.16	0.21	2.71	13.80
+GO:0048523	negative regulation of cellular process	532	0.24	0.37	3.90	23.93
+GO:0006810	transport	529	0.28	0.34	3.95	7.46
+GO:0010468	regulation of gene expression	399	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	350	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	112	0.47	0.43	5.84	9.28
+GO:0042325	regulation of phosphorylation	237	0.47	0.59	6.88	31.28
+GO:0042981	regulation of apoptotic process	225	0.45	0.55	6.60	16.23
+GO:0065003	protein-containing complex assembly	188	0.45	0.48	6.06	36.47
+GO:0019221	cytokine-mediated signaling pathway	174	0.60	0.63	7.60	26.50
+GO:0033043	regulation of organelle organization	163	0.36	0.47	5.49	15.89
+GO:0033554	cellular response to stress	160	0.44	0.42	6.05	25.47
+GO:0006351	transcription, DNA-templated	141	0.57	0.68	8.45	581.39
+GO:0006259	DNA metabolic process	87	0.45	0.55	7.12	145.26
+GO:0055086	nucleobase-containing small molecule metabolic process	67	0.38	0.48	6.63	107.58
+GO:0009615	response to virus	53	0.74	0.66	8.80	27.27
+GO:0044772	mitotic cell cycle phase transition	45	0.84	0.67	9.04	28.43
+GO:0090068	positive regulation of cell cycle process	44	0.54	0.59	7.58	61.43
+GO:0010976	positive regulation of neuron projection development	27	0.68	0.73	9.14	493.19
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	25	1.00	0.79	9.63	42.20
+GO:0001701	in utero embryonic development	17	1.00	0.85	9.63	22.50
+GO:0002244	hematopoietic progenitor cell differentiation	17	0.81	0.66	8.94	21.07
+GO:0007052	mitotic spindle organization	15	0.83	0.76	9.28	96.22
+GO:0000819	sister chromatid segregation	12	0.89	0.74	9.43	40.65
+GO:0051289	protein homotetramerization	10	1.00	0.85	9.63	85.45
+GO:0043388	positive regulation of DNA binding	10	0.71	0.64	8.58	32.53
+GO:0000281	mitotic cytokinesis	10	0.93	0.76	9.47	28.62
+GO:0007080	mitotic metaphase plate congression	9	1.00	0.85	9.63	61.63
+GO:0031145	anaphase-promoting complex-dependent catabolic process	7	1.00	0.92	9.63	350.56
+GO:0006268	DNA unwinding involved in DNA replication	7	0.83	0.79	9.34	24.42
+GO:0007595	lactation	7	1.00	0.82	9.63	25.96
+GO:0009081	branched-chain amino acid metabolic process	7	0.70	0.70	9.06	80.64
+GO:0071459	protein localization to chromosome, centromeric region	4	0.80	0.75	9.12	34.72
+GO:0001556	oocyte maturation	4	1.00	0.75	9.63	79.09
+GO:0042246	tissue regeneration	3	0.76	0.63	8.94	42.89
+GO:0007127	meiosis I	3	0.87	0.78	9.41	72.31
+GO:0000712	resolution of meiotic recombination intermediates	3	1.00	0.79	9.63	26.25
+GO:0007077	mitotic nuclear envelope disassembly	3	1.00	0.82	9.63	74.08
+GO:0006337	nucleosome disassembly	3	0.87	0.76	9.39	96.25
+GO:0000132	establishment of mitotic spindle orientation	2	0.93	0.84	9.58	227.85
+GO:0055015	ventricular cardiac muscle cell development	2	1.00	0.85	9.63	69.56
+GO:0007100	mitotic centrosome separation	2	1.00	0.75	9.63	26.82
+GO:0030263	apoptotic chromosome condensation	2	1.00	0.88	9.63	25.05
+GO:0045870	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	1.00	0.90	9.63	106.56
+GO:0035986	senescence-associated heterochromatin focus assembly	1	1.00	0.85	9.63	78.57
+GO:0071283	cellular response to iron(III) ion	1	1.00	0.85	9.63	96.29

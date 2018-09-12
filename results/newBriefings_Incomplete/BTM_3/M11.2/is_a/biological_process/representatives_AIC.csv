@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	819	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	775	0.36	0.43	5.06	19.43
+GO:0045454	cell redox homeostasis	2	1.00	0.79	9.63	31.94
+GO:0006810	transport	605	0.28	0.34	3.95	7.46
+GO:0009966	regulation of signal transduction	534	0.33	0.45	5.35	37.59
+GO:0006950	response to stress	437	0.39	0.32	4.70	6.14
+GO:0002682	regulation of immune system process	434	0.32	0.36	4.60	7.96
+GO:0042127	regulation of cell proliferation	335	0.45	0.48	6.03	12.04
+GO:0006996	organelle organization	242	0.39	0.39	5.17	14.95
+GO:0043207	response to external biotic stimulus	229	0.41	0.40	5.91	16.64
+GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
+GO:1901985	positive regulation of protein acetylation	8	0.76	0.78	9.32	446.39
+GO:0016477	cell migration	195	0.47	0.48	6.31	17.13
+GO:0001817	regulation of cytokine production	180	0.40	0.45	5.78	11.79
+GO:0045944	positive regulation of transcription by RNA polymerase II	178	0.55	0.71	8.36	1463.86
+GO:0043312	neutrophil degranulation	168	1.00	0.90	9.63	132.80
+GO:0098771	inorganic ion homeostasis	148	0.53	0.59	7.39	14.93
+GO:0055080	cation homeostasis	147	0.54	0.59	7.36	14.93
+GO:0006468	protein phosphorylation	147	0.57	0.64	8.18	177.76
+GO:0030335	positive regulation of cell migration	138	0.58	0.64	8.22	157.26
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	113	0.68	0.66	8.81	76.40
+GO:0030001	metal ion transport	97	0.54	0.59	7.29	15.42
+GO:0006820	anion transport	91	0.42	0.50	5.80	12.09
+GO:0022900	electron transport chain	46	0.71	0.61	8.48	29.76
+GO:0048812	neuron projection morphogenesis	36	0.65	0.68	8.50	63.00
+GO:0031295	T cell costimulation	32	0.93	0.86	9.59	354.90
+GO:0051495	positive regulation of cytoskeleton organization	31	0.62	0.66	8.29	90.96
+GO:0010976	positive regulation of neuron projection development	28	0.68	0.73	9.14	493.19
+GO:0048754	branching morphogenesis of an epithelial tube	27	0.74	0.69	8.88	51.71
+GO:0090316	positive regulation of intracellular protein transport	25	0.71	0.73	9.11	289.79
+GO:0032091	negative regulation of protein binding	23	0.70	0.64	8.48	32.72
+GO:0032869	cellular response to insulin stimulus	7	1.00	0.88	9.63	462.70
+GO:0048255	mRNA stabilization	6	0.89	0.86	9.58	1968.72
+GO:0002369	T cell cytokine production	4	0.87	0.76	9.49	52.63
+GO:2001275	positive regulation of glucose import in response to insulin stimulus	3	1.00	0.90	9.63	210.72
+GO:0002309	T cell proliferation involved in immune response	2	0.87	0.78	9.52	137.08
+GO:0045342	MHC class II biosynthetic process	1	1.00	0.79	9.63	39.16
+GO:0061052	negative regulation of cell growth involved in cardiac muscle cell development	1	1.00	0.92	9.63	1870.60

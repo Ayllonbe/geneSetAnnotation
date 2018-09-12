@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	672	0.28	0.34	3.95	7.46
+GO:0009987	cellular process	1935	0.09	0.05	0.84	3.37
+GO:0044237	cellular metabolic process	1061	0.16	0.21	2.71	13.80
+GO:0048522	positive regulation of cellular process	946	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	768	0.24	0.37	3.90	23.93
+GO:0006810	transport	672	0.28	0.34	3.95	7.46
+GO:1901701	cellular response to oxygen-containing compound	215	0.47	0.48	6.19	42.34
+GO:0006950	response to stress	513	0.39	0.32	4.70	6.14
+GO:0050728	negative regulation of inflammatory response	27	0.67	0.69	8.71	126.18
+GO:0009966	regulation of signal transduction	595	0.33	0.45	5.35	37.59
+GO:0050728	negative regulation of inflammatory response	27	0.67	0.69	8.71	126.18
+GO:0009966	regulation of signal transduction	595	0.33	0.45	5.35	37.59
+GO:0051252	regulation of RNA metabolic process	501	0.37	0.51	6.06	70.58
+GO:0031399	regulation of protein modification process	339	0.41	0.56	6.69	72.96
+GO:0051704	multi-organism process	246	0.29	0.15	3.12	3.37
+GO:0016310	phosphorylation	219	0.53	0.56	6.88	24.41
+GO:0043066	negative regulation of apoptotic process	216	0.56	0.63	7.79	81.07
+GO:0051345	positive regulation of hydrolase activity	163	0.57	0.57	7.42	32.99
+GO:0032713	negative regulation of interleukin-4 production	2	0.93	0.79	9.52	64.97
+GO:0001819	positive regulation of cytokine production	151	0.51	0.54	6.97	44.26
+GO:0050863	regulation of T cell activation	132	0.52	0.61	7.60	29.19
+GO:0051129	negative regulation of cellular component organization	126	0.42	0.50	5.99	44.00
+GO:0006875	cellular metal ion homeostasis	125	0.59	0.67	8.36	105.84
+GO:0022408	negative regulation of cell-cell adhesion	54	0.58	0.61	7.77	52.93
+GO:0051384	response to glucocorticoid	39	0.77	0.73	9.22	62.74
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:0042100	B cell proliferation	24	0.87	0.76	9.39	50.60
+GO:0072659	protein localization to plasma membrane	22	0.79	0.72	9.26	65.43
+GO:0090023	positive regulation of neutrophil chemotaxis	20	1.00	0.93	9.63	945.71
+GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation	17	0.80	0.83	9.54	1782.73
+GO:0042307	positive regulation of protein import into nucleus	13	0.93	0.86	9.59	778.75
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
+GO:0006954	inflammatory response	12	0.68	0.59	8.12	11.94
+GO:1902307	positive regulation of sodium ion transmembrane transport	6	0.79	0.79	9.31	302.60

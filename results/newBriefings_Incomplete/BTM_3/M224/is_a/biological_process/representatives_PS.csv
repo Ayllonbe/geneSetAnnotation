@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	798	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	480	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	358	0.24	0.37	3.90	23.93
+GO:0050804	modulation of chemical synaptic transmission	30	0.52	0.58	7.24	27.32
+GO:0009966	regulation of signal transduction	301	0.33	0.45	5.35	37.59
+GO:1901564	organonitrogen compound metabolic process	314	0.23	0.31	3.63	19.40
+GO:0051239	regulation of multicellular organismal process	278	0.23	0.32	3.68	7.96
+GO:0065008	regulation of biological quality	276	0.28	0.26	3.48	4.47
+GO:0006950	response to stress	247	0.39	0.32	4.70	6.14
+GO:2000026	regulation of multicellular organismal development	188	0.29	0.39	4.73	23.09
+GO:0071310	cellular response to organic substance	174	0.44	0.47	5.95	41.66
+GO:0042592	homeostatic process	157	0.45	0.42	5.70	8.64
+GO:0001934	positive regulation of protein phosphorylation	118	0.58	0.69	8.60	663.11
+GO:0031400	negative regulation of protein modification process	42	0.53	0.64	7.94	366.95
+GO:0006811	ion transport	139	0.38	0.44	5.19	10.99
+GO:0055067	monovalent inorganic cation homeostasis	17	0.67	0.69	8.82	34.21
+GO:0030003	cellular cation homeostasis	92	0.57	0.63	8.00	68.30
+GO:0034622	cellular protein-containing complex assembly	78	0.48	0.53	6.52	40.42
+GO:0030001	metal ion transport	74	0.54	0.59	7.29	15.42
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	62	0.58	0.64	7.56	28.11
+GO:0034613	cellular protein localization	60	0.45	0.48	6.33	26.83
+GO:0034765	regulation of ion transmembrane transport	52	0.46	0.55	6.68	33.04
+GO:0043267	negative regulation of potassium ion transport	3	0.74	0.75	9.03	68.61
+GO:0051260	protein homooligomerization	32	0.89	0.77	9.41	42.03
+GO:1903522	regulation of blood circulation	31	0.54	0.56	7.23	14.36
+GO:0007268	chemical synaptic transmission	31	0.74	0.72	8.66	23.17
+GO:0048812	neuron projection morphogenesis	22	0.65	0.68	8.50	63.00
+GO:0002548	monocyte chemotaxis	19	1.00	0.85	9.63	125.46
+GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	15	0.78	0.78	9.25	56.87
+GO:0007219	Notch signaling pathway	11	0.78	0.71	8.87	26.50
+GO:0007517	muscle organ development	9	0.78	0.64	8.75	27.68
+GO:0090630	activation of GTPase activity	6	1.00	0.85	9.63	49.34
+GO:0048747	muscle fiber development	4	0.89	0.77	9.41	33.94
+GO:0007595	lactation	4	1.00	0.82	9.63	25.96
+GO:0030049	muscle filament sliding	3	1.00	0.82	9.63	20.96
+GO:0050930	induction of positive chemotaxis	3	1.00	0.88	9.63	129.40
+GO:0038180	nerve growth factor signaling pathway	3	1.00	0.85	9.63	27.20
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	3	1.00	0.82	9.63	60.18
+GO:0035235	ionotropic glutamate receptor signaling pathway	2	0.87	0.78	9.31	27.20
+GO:0050908	detection of light stimulus involved in visual perception	2	1.00	0.85	9.63	116.24
+GO:0007196	adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway	2	1.00	0.90	9.63	85.02

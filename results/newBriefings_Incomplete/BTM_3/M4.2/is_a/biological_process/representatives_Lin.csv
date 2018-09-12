@@ -1,0 +1,79 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	527	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	467	0.40	0.60	6.84	245.35
+GO:0070887	cellular response to chemical stimulus	363	0.40	0.40	5.31	25.21
+GO:0035556	intracellular signal transduction	324	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	313	0.45	0.55	6.60	16.23
+GO:0008284	positive regulation of cell proliferation	263	0.56	0.57	7.27	43.45
+GO:0006351	transcription, DNA-templated	225	0.57	0.68	8.45	581.39
+GO:0030334	regulation of cell migration	215	0.48	0.56	7.11	36.74
+GO:0051726	regulation of cell cycle	210	0.41	0.45	5.89	12.04
+GO:0007186	G-protein coupled receptor signaling pathway	199	0.55	0.57	7.20	23.17
+GO:0045859	regulation of protein kinase activity	185	0.56	0.68	8.33	159.56
+GO:0006468	protein phosphorylation	172	0.57	0.64	8.18	177.76
+GO:1903047	mitotic cell cycle process	165	0.50	0.45	5.87	11.32
+GO:0010564	regulation of cell cycle process	153	0.42	0.50	6.22	14.24
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0006281	DNA repair	86	0.63	0.66	8.78	180.34
+GO:0006260	DNA replication	50	0.73	0.72	9.27	254.20
+GO:0003006	developmental process involved in reproduction	105	0.43	0.34	5.07	14.49
+GO:0032989	cellular component morphogenesis	97	0.56	0.48	7.27	42.57
+GO:0045664	regulation of neuron differentiation	94	0.51	0.60	7.72	62.26
+GO:0001558	regulation of cell growth	77	0.58	0.58	7.66	26.25
+GO:0043254	regulation of protein complex assembly	72	0.50	0.54	6.88	27.32
+GO:0051640	organelle localization	63	0.49	0.45	6.08	7.87
+GO:0000226	microtubule cytoskeleton organization	57	0.58	0.58	7.66	30.31
+GO:0051260	protein homooligomerization	54	0.89	0.77	9.41	42.03
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	46	0.89	0.82	9.52	239.11
+GO:0046578	regulation of Ras protein signal transduction	41	0.70	0.72	8.71	46.46
+GO:0051302	regulation of cell division	40	0.56	0.53	7.28	12.04
+GO:1903046	meiotic cell cycle process	38	0.49	0.44	6.09	19.36
+GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	37	0.89	0.80	9.43	45.07
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	36	0.76	0.78	9.31	348.36
+GO:0071103	DNA conformation change	33	0.67	0.63	8.24	21.24
+GO:0070507	regulation of microtubule cytoskeleton organization	33	0.61	0.65	8.24	33.71
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	31	1.00	0.79	9.63	42.20
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:1900182	positive regulation of protein localization to nucleus	25	0.84	0.77	9.37	74.62
+GO:0006334	nucleosome assembly	22	0.87	0.78	9.47	104.52
+GO:0098813	nuclear chromosome segregation	19	0.77	0.58	8.71	18.72
+GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9.42	236.53
+GO:1901796	regulation of signal transduction by p53 class mediator	18	0.72	0.71	9.12	45.07
+GO:0035335	peptidyl-tyrosine dephosphorylation	17	0.89	0.82	9.53	179.25
+GO:0071479	cellular response to ionizing radiation	16	0.89	0.77	9.45	48.66
+GO:1990830	cellular response to leukemia inhibitory factor	15	1.00	0.82	9.63	81.65
+GO:0051303	establishment of chromosome localization	15	0.72	0.65	8.76	43.83
+GO:0051445	regulation of meiotic cell cycle	14	0.55	0.57	7.53	25.89
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	14	0.83	0.85	9.50	3778.55
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	13	0.89	0.86	9.54	264.07
+GO:0007062	sister chromatid cohesion	13	0.75	0.67	8.80	32.57
+GO:0034502	protein localization to chromosome	13	0.67	0.66	8.49	32.77
+GO:0090630	activation of GTPase activity	12	1.00	0.85	9.63	49.34
+GO:0051383	kinetochore organization	12	0.93	0.76	9.49	38.76
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0051315	attachment of mitotic spindle microtubules to kinetochore	8	0.89	0.70	9.29	27.92
+GO:0010800	positive regulation of peptidyl-threonine phosphorylation	7	1.00	0.92	9.63	778.67
+GO:0006271	DNA strand elongation involved in DNA replication	7	0.78	0.76	9.42	149.74
+GO:0010569	regulation of double-strand break repair via homologous recombination	6	0.84	0.82	9.52	184.48
+GO:1904666	regulation of ubiquitin protein ligase activity	6	0.89	0.88	9.52	93.80
+GO:1903429	regulation of cell maturation	6	0.67	0.66	8.53	30.45
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:0070830	bicellular tight junction assembly	6	1.00	0.82	9.63	56.14
+GO:0031641	regulation of myelination	5	0.89	0.77	9.41	42.06
+GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
+GO:0000915	actomyosin contractile ring assembly	3	0.93	0.84	9.57	135.17
+GO:0007100	mitotic centrosome separation	3	1.00	0.75	9.63	26.82
+GO:0090435	protein localization to nuclear envelope	3	0.89	0.80	9.43	34.85
+GO:0031915	positive regulation of synaptic plasticity	3	0.87	0.81	9.45	41.66
+GO:0046785	microtubule polymerization	2	1.00	0.85	9.63	97.27
+GO:0000022	mitotic spindle elongation	2	1.00	0.75	9.63	36.99
+GO:1905342	positive regulation of protein localization to kinetochore	2	1.00	0.85	9.63	73.71
+GO:1902975	mitotic DNA replication initiation	2	1.00	0.92	9.63	177.94
+GO:0071539	protein localization to centrosome	2	0.93	0.86	9.54	37.38
+GO:0070193	synaptonemal complex organization	2	0.89	0.74	9.34	21.24
+GO:0090129	positive regulation of synapse maturation	1	0.93	0.82	9.57	185.50
+GO:0072383	plus-end-directed vesicle transport along microtubule	1	0.93	0.86	9.58	265.62
+GO:0033624	negative regulation of integrin activation	1	1.00	0.85	9.63	113.99
+GO:0051661	maintenance of centrosome location	1	1.00	0.82	9.63	46.02

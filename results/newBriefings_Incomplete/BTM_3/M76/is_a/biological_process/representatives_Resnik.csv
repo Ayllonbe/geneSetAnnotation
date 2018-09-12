@@ -1,0 +1,86 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0045893	positive regulation of transcription, DNA-templated	188	0.52	0.67	8.14	1208.12
+GO:0045944	positive regulation of transcription by RNA polymerase II	146	0.55	0.71	8.36	1463.86
+GO:0045892	negative regulation of transcription, DNA-templated	123	0.56	0.69	8.52	1581.26
+GO:0033674	positive regulation of kinase activity	118	0.61	0.70	8.62	265.90
+GO:0006259	DNA metabolic process	100	0.45	0.55	7.12	145.26
+GO:0006974	cellular response to DNA damage stimulus	99	0.57	0.53	7.47	29.00
+GO:0045786	negative regulation of cell cycle	90	0.51	0.54	7.10	42.35
+GO:0050727	regulation of inflammatory response	83	0.53	0.59	7.40	31.59
+GO:0051090	regulation of DNA binding transcription factor activity	72	0.72	0.77	9.22	255.34
+GO:0045787	positive regulation of cell cycle	67	0.53	0.55	7.23	42.18
+GO:0051052	regulation of DNA metabolic process	67	0.47	0.56	7.17	70.58
+GO:0006366	transcription by RNA polymerase II	65	0.60	0.72	8.61	583.88
+GO:0006281	DNA repair	63	0.63	0.66	8.78	180.34
+GO:0051260	protein homooligomerization	47	0.89	0.77	9.41	42.03
+GO:0048608	reproductive structure development	44	0.61	0.50	7.37	31.35
+GO:0030855	epithelial cell differentiation	43	0.55	0.52	6.96	21.07
+GO:0045766	positive regulation of angiogenesis	43	0.81	0.76	9.30	134.49
+GO:0034599	cellular response to oxidative stress	38	0.72	0.61	8.94	68.67
+GO:0006260	DNA replication	38	0.73	0.72	9.27	254.20
+GO:2001251	negative regulation of chromosome organization	16	0.56	0.63	7.81	91.74
+GO:2001252	positive regulation of chromosome organization	23	0.56	0.63	7.84	91.73
+GO:0032508	DNA duplex unwinding	15	0.80	0.75	9.22	23.73
+GO:0000723	telomere maintenance	22	0.73	0.72	9.29	183.02
+GO:0071356	cellular response to tumor necrosis factor	31	1.00	0.82	9.63	81.65
+GO:0000082	G1/S transition of mitotic cell cycle	31	1.00	0.79	9.63	42.75
+GO:0022412	cellular process involved in reproduction in multicellular organism	30	0.53	0.39	6.04	15.42
+GO:0065004	protein-DNA complex assembly	30	0.65	0.65	8.33	63.42
+GO:1903046	meiotic cell cycle process	29	0.49	0.44	6.09	19.36
+GO:0016567	protein ubiquitination	28	0.69	0.74	9.00	153.79
+GO:0016579	protein deubiquitination	27	0.73	0.76	9.15	202.60
+GO:0071478	cellular response to radiation	27	0.67	0.63	8.53	36.92
+GO:0032355	response to estradiol	25	0.93	0.76	9.52	74.25
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	24	0.79	0.83	9.47	340.69
+GO:0006352	DNA-templated transcription, initiation	24	0.83	0.79	9.45	475.54
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	24	0.61	0.63	8.36	112.25
+GO:0043009	chordate embryonic development	23	0.93	0.79	9.49	22.50
+GO:0097327	response to antineoplastic agent	22	0.60	0.55	7.35	13.57
+GO:0006302	double-strand break repair	22	0.76	0.75	9.32	183.05
+GO:0006289	nucleotide-excision repair	22	0.84	0.80	9.46	183.05
+GO:0040029	regulation of gene expression, epigenetic	18	0.63	0.64	7.86	16.68
+GO:0006633	fatty acid biosynthetic process	16	0.65	0.70	8.91	359.85
+GO:0007569	cell aging	16	0.80	0.60	8.94	24.75
+GO:0032465	regulation of cytokinesis	15	0.59	0.62	8.14	31.80
+GO:0031398	positive regulation of protein ubiquitination	14	0.75	0.79	9.37	528.45
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0006297	nucleotide-excision repair, DNA gap filling	11	1.00	0.85	9.63	149.04
+GO:0034502	protein localization to chromosome	11	0.67	0.66	8.49	32.77
+GO:0010575	positive regulation of vascular endothelial growth factor production	10	1.00	0.82	9.63	64.54
+GO:0000281	mitotic cytokinesis	10	0.93	0.76	9.47	28.62
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	9	0.89	0.86	9.54	264.07
+GO:0045589	regulation of regulatory T cell differentiation	9	0.79	0.79	9.52	133.47
+GO:0006368	transcription elongation from RNA polymerase II promoter	9	1.00	0.90	9.63	477.15
+GO:0036297	interstrand cross-link repair	9	0.89	0.82	9.54	183.05
+GO:0035264	multicellular organism growth	9	1.00	0.70	9.63	22.58
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	9	0.93	0.88	9.59	425.74
+GO:0045005	DNA-dependent DNA replication maintenance of fidelity	9	0.75	0.73	9.22	149.04
+GO:0007098	centrosome cycle	9	1.00	0.75	9.63	37.69
+GO:0097421	liver regeneration	8	1.00	0.82	9.63	47.22
+GO:0031954	positive regulation of protein autophosphorylation	8	0.93	0.88	9.60	778.67
+GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
+GO:0006370	7-methylguanosine mRNA capping	7	1.00	0.92	9.63	354.47
+GO:2000378	negative regulation of reactive oxygen species metabolic process	7	0.78	0.71	9.25	113.13
+GO:0022616	DNA strand elongation	7	0.76	0.73	9.36	149.04
+GO:0000729	DNA double-strand break processing	6	0.81	0.76	9.36	149.04
+GO:0006363	termination of RNA polymerase I transcription	5	1.00	0.90	9.63	477.15
+GO:0046939	nucleotide phosphorylation	5	0.67	0.71	8.91	199.75
+GO:0030521	androgen receptor signaling pathway	5	0.89	0.82	9.45	54.01
+GO:1900034	regulation of cellular response to heat	4	0.87	0.76	9.27	29.43
+GO:2000348	regulation of CD40 signaling pathway	3	0.89	0.77	9.41	41.85
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	234.24
+GO:0033600	negative regulation of mammary gland epithelial cell proliferation	3	1.00	0.85	9.63	170.74
+GO:0055089	fatty acid homeostasis	3	1.00	0.85	9.63	32.35
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	3	1.00	0.85	9.63	108.68
+GO:0006359	regulation of transcription by RNA polymerase III	2	0.84	0.84	9.53	248.57
+GO:0051103	DNA ligation involved in DNA repair	2	0.93	0.84	9.57	150.14
+GO:0085020	protein K6-linked ubiquitination	2	1.00	0.93	9.63	157.60
+GO:0042148	strand invasion	2	0.84	0.77	9.46	149.04
+GO:0070816	phosphorylation of RNA polymerase II C-terminal domain	1	0.81	0.84	9.53	433.40
+GO:0051865	protein autoubiquitination	1	1.00	0.92	9.63	155.40
+GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	1	1.00	0.88	9.63	164.54
+GO:0006360	transcription by RNA polymerase I	1	0.93	0.88	9.59	583.88
+GO:0043137	DNA replication, removal of RNA primer	1	0.93	0.84	9.59	683.73
+GO:0006287	base-excision repair, gap-filling	1	1.00	0.85	9.63	149.04

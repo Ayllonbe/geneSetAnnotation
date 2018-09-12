@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2512	0.00	0.00	0.00	0.00
+GO:0098542	defense response to other organism	84	0.66	0.62	8.42	39.21
+GO:0009987	cellular process	2228	0.09	0.05	0.84	3.37
+GO:0043923	positive regulation by host of viral transcription	4	1.00	0.93	9.63	272.30
+GO:0046718	viral entry into host cell	26	0.77	0.73	8.94	28.37
+GO:0065007	biological regulation	1810	0.08	0.04	0.98	3.37
+GO:0048169	regulation of long-term neuronal synaptic plasticity	5	0.89	0.84	9.46	42.76
+GO:0051179	localization	796	0.26	0.13	2.57	3.37
+GO:0016043	cellular component organization	779	0.28	0.26	3.74	11.45
+GO:0048869	cellular developmental process	357	0.32	0.29	4.16	13.85
+GO:0051259	protein complex oligomerization	96	0.78	0.68	9.09	40.42
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	36	1.00	0.79	9.63	42.20
+GO:0051289	protein homotetramerization	18	1.00	0.85	9.63	85.45
+GO:0048704	embryonic skeletal system morphogenesis	11	0.87	0.72	9.38	45.49
+GO:0072678	T cell migration	10	0.71	0.71	8.88	30.24
+GO:0061154	endothelial tube morphogenesis	4	0.83	0.74	9.31	48.80
+GO:0090114	COPII-coated vesicle budding	3	1.00	0.85	9.63	41.06
+GO:0044571	[2Fe-2S] cluster assembly	1	1.00	0.82	9.63	63.39

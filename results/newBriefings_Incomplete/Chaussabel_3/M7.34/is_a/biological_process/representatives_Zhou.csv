@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6052	0.00	0.00	0.00	0.00
+GO:0043923	positive regulation by host of viral transcription	8	1.00	0.93	9.63	272.30
+GO:0046718	viral entry into host cell	41	0.77	0.73	8.94	28.37
+GO:0050789	regulation of biological process	4172	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	1182	0.33	0.29	4.10	4.47
+GO:0051179	localization	1857	0.26	0.13	2.57	3.37
+GO:0032501	multicellular organismal process	431	0.33	0.16	3.12	3.37
+GO:0048002	antigen processing and presentation of peptide antigen	81	0.70	0.55	8.09	8.95

@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006958	complement activation, classical pathway	15	1.00	0.88	9.63	171.03
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0009987	cellular process	1592	0.09	0.05	0.84	3.37
+GO:0065008	regulation of biological quality	437	0.28	0.26	3.48	4.47
+GO:0051281	positive regulation of release of sequestered calcium ion into cytosol	12	0.89	0.91	9.59	905.07
+GO:0050789	regulation of biological process	1315	0.09	0.17	1.80	4.47
+GO:0044238	primary metabolic process	825	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	879	0.15	0.20	2.26	6.41
+GO:0043207	response to external biotic stimulus	214	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	431	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	400	0.39	0.32	4.70	6.14
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0034394	protein localization to cell surface	4	1.00	0.79	9.63	29.83
+GO:0006810	transport	578	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	505	0.38	0.19	3.93	3.37
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0001890	placenta development	8	1.00	0.75	9.63	49.87

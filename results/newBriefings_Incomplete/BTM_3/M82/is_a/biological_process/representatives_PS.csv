@@ -1,0 +1,35 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0071704	organic substance metabolic process	740	0.15	0.20	2.26	6.41
+GO:0009987	cellular process	1382	0.09	0.05	0.84	3.37
+GO:0007204	positive regulation of cytosolic calcium ion concentration	60	0.68	0.77	9.10	290.30
+GO:0043406	positive regulation of MAP kinase activity	53	0.70	0.80	9.37	2605.69
+GO:0051345	positive regulation of hydrolase activity	125	0.57	0.57	7.42	32.99
+GO:0032516	positive regulation of phosphoprotein phosphatase activity	4	0.87	0.85	9.55	1089.27
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0050789	regulation of biological process	1134	0.09	0.17	1.80	4.47
+GO:0071496	cellular response to external stimulus	45	0.54	0.47	6.44	8.70
+GO:0042221	response to chemical	372	0.32	0.29	4.12	6.14
+GO:0071214	cellular response to abiotic stimulus	45	0.59	0.54	7.66	24.78
+GO:0048856	anatomical structure development	167	0.33	0.29	3.70	6.46
+GO:0008104	protein localization	151	0.40	0.40	5.07	7.46
+GO:0050900	leukocyte migration	135	0.60	0.59	8.02	26.94
+GO:0003006	developmental process involved in reproduction	70	0.43	0.34	5.07	14.49
+GO:0001649	osteoblast differentiation	21	1.00	0.75	9.63	21.07
+GO:0002244	hematopoietic progenitor cell differentiation	16	0.81	0.66	8.94	21.07
+GO:0035987	endodermal cell differentiation	15	1.00	0.75	9.63	21.07
+GO:0043542	endothelial cell migration	14	0.80	0.75	9.14	24.97
+GO:0007044	cell-substrate junction assembly	14	0.87	0.72	9.38	36.10
+GO:0051146	striated muscle cell differentiation	12	0.74	0.66	8.78	21.76
+GO:0007565	female pregnancy	10	1.00	0.70	9.63	32.81
+GO:0048701	embryonic cranial skeleton morphogenesis	6	1.00	0.82	9.63	46.18
+GO:0001569	branching involved in blood vessel morphogenesis	5	1.00	0.85	9.63	53.50
+GO:0048041	focal adhesion assembly	5	1.00	0.88	9.63	92.53
+GO:0070208	protein heterotrimerization	4	1.00	0.85	9.63	85.45
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	3	1.00	0.85	9.63	26.14
+GO:0003273	cell migration involved in endocardial cushion formation	2	1.00	0.82	9.63	22.83
+GO:0031069	hair follicle morphogenesis	2	1.00	0.75	9.63	21.57
+GO:0060981	cell migration involved in coronary angiogenesis	1	1.00	0.82	9.63	22.83
+GO:0035789	metanephric mesenchymal cell migration	1	1.00	0.85	9.63	22.42
+GO:1904956	regulation of midbrain dopaminergic neuron differentiation	1	0.83	0.81	9.49	65.92
+GO:0060437	lung growth	1	1.00	0.75	9.63	24.19
+GO:0048557	embryonic digestive tract morphogenesis	1	1.00	0.79	9.63	31.26

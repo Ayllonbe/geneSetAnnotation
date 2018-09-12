@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	2177	0.00	0.00	0.00	0.00
+GO:2000480	negative regulation of cAMP-dependent protein kinase activity	5	1.00	0.95	9.63	1429.05
+GO:2000679	positive regulation of transcription regulatory region DNA binding	7	0.89	0.77	9.43	47.97
+GO:0045070	positive regulation of viral genome replication	5	0.89	0.82	9.47	85.31
+GO:0050789	regulation of biological process	1621	0.09	0.17	1.80	4.47
+GO:0010033	response to organic substance	455	0.35	0.37	4.75	9.28
+GO:0006950	response to stress	515	0.39	0.32	4.70	6.14
+GO:0051704	multi-organism process	246	0.29	0.15	3.12	3.37
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46

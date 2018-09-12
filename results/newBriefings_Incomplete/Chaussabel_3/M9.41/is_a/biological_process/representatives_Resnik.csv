@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044267	cellular protein metabolic process	118	0.34	0.46	5.57	80.87
+GO:0031325	positive regulation of cellular metabolic process	111	0.33	0.46	5.39	79.98
+GO:0045907	positive regulation of vasoconstriction	1	0.89	0.82	9.58	103.52
+GO:0051128	regulation of cellular component organization	97	0.30	0.40	4.57	12.04
+GO:0071702	organic substance transport	91	0.33	0.41	4.62	10.99
+GO:0009056	catabolic process	78	0.30	0.27	3.52	6.41
+GO:0043933	protein-containing complex subunit organization	69	0.43	0.41	5.44	14.95
+GO:0007166	cell surface receptor signaling pathway	66	0.43	0.51	5.91	23.17
+GO:0048584	positive regulation of response to stimulus	65	0.35	0.42	4.95	23.46
+GO:0010033	response to organic substance	57	0.35	0.37	4.75	9.28
+GO:0006508	proteolysis	55	0.55	0.57	7.34	47.86
+GO:0044093	positive regulation of molecular function	54	0.43	0.41	5.23	6.77
+GO:0051240	positive regulation of multicellular organismal process	53	0.35	0.42	4.98	23.60
+GO:0030154	cell differentiation	40	0.39	0.39	5.18	16.68
+GO:0051704	multi-organism process	38	0.29	0.15	3.12	3.37
+GO:0022603	regulation of anatomical structure morphogenesis	36	0.36	0.43	5.15	11.29
+GO:0006164	purine nucleotide biosynthetic process	9	0.60	0.70	8.85	1403.13
+GO:0019752	carboxylic acid metabolic process	27	0.32	0.45	5.31	42.50
+GO:0009628	response to abiotic stimulus	33	0.46	0.35	5.43	6.14
+GO:0043066	negative regulation of apoptotic process	29	0.56	0.63	7.79	81.07
+GO:0007186	G-protein coupled receptor signaling pathway	26	0.55	0.57	7.20	23.17
+GO:0008284	positive regulation of cell proliferation	24	0.56	0.57	7.27	43.45
+GO:0016567	protein ubiquitination	24	0.69	0.74	9.00	153.79
+GO:0030334	regulation of cell migration	23	0.48	0.56	7.11	36.74
+GO:0044255	cellular lipid metabolic process	19	0.38	0.44	5.89	38.02
+GO:0019932	second-messenger-mediated signaling	13	0.65	0.65	8.32	26.43
+GO:0030029	actin filament-based process	12	0.59	0.42	6.58	7.39
+GO:0045931	positive regulation of mitotic cell cycle	11	0.61	0.63	8.04	60.92
+GO:0045927	positive regulation of growth	9	0.60	0.55	7.43	22.17
+GO:0045785	positive regulation of cell adhesion	8	0.58	0.54	7.23	21.97
+GO:0007204	positive regulation of cytosolic calcium ion concentration	7	0.68	0.77	9.10	290.30
+GO:0010803	regulation of tumor necrosis factor-mediated signaling pathway	2	0.89	0.80	9.45	58.00
+GO:1903078	positive regulation of protein localization to plasma membrane	2	0.84	0.80	9.43	218.50
+GO:0048041	focal adhesion assembly	1	1.00	0.88	9.63	92.53
+GO:0032967	positive regulation of collagen biosynthetic process	1	1.00	0.82	9.63	105.22

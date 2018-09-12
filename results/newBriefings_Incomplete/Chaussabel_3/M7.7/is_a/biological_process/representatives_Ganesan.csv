@@ -1,0 +1,169 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	541	0.26	0.38	4.09	10.74
+GO:0010795	regulation of ubiquinone biosynthetic process	1	0.89	0.80	9.49	124.09
+GO:0048518	positive regulation of biological process	496	0.21	0.30	3.05	7.96
+GO:0006139	nucleobase-containing compound metabolic process	406	0.29	0.40	5.40	96.28
+GO:0010468	regulation of gene expression	395	0.35	0.46	5.09	13.73
+GO:0048523	negative regulation of cellular process	387	0.24	0.37	3.90	23.93
+GO:0019220	regulation of phosphate metabolic process	152	0.41	0.53	6.26	28.98
+GO:0031324	negative regulation of cellular metabolic process	221	0.34	0.46	5.46	80.35
+GO:0031401	positive regulation of protein modification process	105	0.51	0.63	7.86	366.05
+GO:0006355	regulation of transcription, DNA-templated	308	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	286	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	232	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	213	0.57	0.68	8.45	581.39
+GO:0043933	protein-containing complex subunit organization	187	0.43	0.41	5.44	14.95
+GO:0006796	phosphate-containing compound metabolic process	173	0.36	0.43	5.28	20.85
+GO:0016192	vesicle-mediated transport	168	0.52	0.51	6.57	10.99
+GO:0015031	protein transport	167	0.48	0.59	6.99	54.46
+GO:0035556	intracellular signal transduction	163	0.51	0.55	6.92	23.17
+GO:0051049	regulation of transport	160	0.31	0.40	4.67	10.45
+GO:0010033	response to organic substance	159	0.35	0.37	4.75	9.28
+GO:0044093	positive regulation of molecular function	154	0.43	0.41	5.23	6.77
+GO:0070887	cellular response to chemical stimulus	141	0.40	0.40	5.31	25.21
+GO:0043066	negative regulation of apoptotic process	86	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	62	0.56	0.63	7.81	80.91
+GO:0008285	negative regulation of cell proliferation	53	0.56	0.57	7.31	43.61
+GO:0008284	positive regulation of cell proliferation	71	0.56	0.57	7.27	43.45
+GO:0045786	negative regulation of cell cycle	62	0.51	0.54	7.10	42.35
+GO:0045787	positive regulation of cell cycle	62	0.53	0.55	7.23	42.18
+GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	5	1.00	0.88	9.63	115.14
+GO:0006259	DNA metabolic process	96	0.45	0.55	7.12	145.26
+GO:0019985	translesion synthesis	4	0.89	0.84	9.57	760.22
+GO:0006974	cellular response to DNA damage stimulus	91	0.57	0.53	7.47	29.00
+GO:0060341	regulation of cellular localization	87	0.40	0.45	5.64	10.45
+GO:0006887	exocytosis	78	0.67	0.66	8.38	37.08
+GO:0042592	homeostatic process	76	0.45	0.42	5.70	8.64
+GO:1901990	regulation of mitotic cell cycle phase transition	62	0.61	0.66	8.15	36.35
+GO:0007088	regulation of mitotic nuclear division	31	0.59	0.64	8.17	54.97
+GO:0019752	carboxylic acid metabolic process	76	0.32	0.45	5.31	42.50
+GO:0006511	ubiquitin-dependent protein catabolic process	76	0.74	0.74	9.19	156.45
+GO:0009894	regulation of catabolic process	74	0.42	0.46	5.75	10.74
+GO:0055085	transmembrane transport	65	0.41	0.46	5.44	10.99
+GO:0001817	regulation of cytokine production	62	0.40	0.45	5.78	11.79
+GO:0019221	cytokine-mediated signaling pathway	54	0.60	0.63	7.60	26.50
+GO:0051249	regulation of lymphocyte activation	47	0.48	0.56	7.10	27.11
+GO:0051707	response to other organism	44	0.42	0.46	6.41	24.63
+GO:0030335	positive regulation of cell migration	43	0.58	0.64	8.22	157.26
+GO:0000226	microtubule cytoskeleton organization	42	0.58	0.58	7.66	30.31
+GO:0007264	small GTPase mediated signal transduction	40	0.74	0.69	8.74	26.43
+GO:0051222	positive regulation of protein transport	38	0.60	0.65	8.02	87.55
+GO:0009117	nucleotide metabolic process	37	0.44	0.57	7.31	170.44
+GO:0006518	peptide metabolic process	35	0.56	0.57	7.65	56.97
+GO:0045089	positive regulation of innate immune response	33	0.54	0.62	7.78	173.78
+GO:0034976	response to endoplasmic reticulum stress	33	0.68	0.59	8.28	29.00
+GO:0046649	lymphocyte activation	30	0.55	0.52	7.16	18.06
+GO:0031346	positive regulation of cell projection organization	29	0.62	0.63	8.02	65.03
+GO:0006631	fatty acid metabolic process	28	0.54	0.62	7.85	91.02
+GO:0046486	glycerolipid metabolic process	27	0.56	0.57	7.56	40.66
+GO:0006875	cellular metal ion homeostasis	27	0.59	0.67	8.36	105.84
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0006914	autophagy	25	0.67	0.59	8.40	37.75
+GO:0001666	response to hypoxia	25	0.81	0.70	9.12	21.16
+GO:0006813	potassium ion transport	7	0.80	0.75	9.31	34.17
+GO:0070838	divalent metal ion transport	17	0.62	0.66	8.27	33.88
+GO:0016055	Wnt signaling pathway	21	0.59	0.65	7.65	28.58
+GO:0030031	cell projection assembly	20	0.67	0.59	8.12	35.52
+GO:0099177	regulation of trans-synaptic signaling	20	0.52	0.55	7.05	25.94
+GO:0031669	cellular response to nutrient levels	19	0.55	0.57	7.65	58.45
+GO:0006412	translation	19	0.87	0.78	9.51	402.56
+GO:0000086	G2/M transition of mitotic cell cycle	18	1.00	0.79	9.63	43.45
+GO:0008064	regulation of actin polymerization or depolymerization	17	0.67	0.73	9.05	119.89
+GO:0000082	G1/S transition of mitotic cell cycle	17	1.00	0.79	9.63	42.75
+GO:0048666	neuron development	15	0.67	0.58	8.09	32.15
+GO:0043009	chordate embryonic development	15	0.93	0.79	9.49	22.50
+GO:0051310	metaphase plate congression	15	0.84	0.74	9.34	45.44
+GO:0007052	mitotic spindle organization	14	0.83	0.76	9.28	96.22
+GO:0060271	cilium assembly	14	0.87	0.76	9.41	137.68
+GO:0097191	extrinsic apoptotic signaling pathway	13	0.83	0.74	9.22	51.06
+GO:0030433	ubiquitin-dependent ERAD pathway	13	0.93	0.88	9.60	603.05
+GO:0006006	glucose metabolic process	13	0.71	0.68	8.57	34.68
+GO:0007032	endosome organization	12	0.84	0.71	9.22	20.92
+GO:0000281	mitotic cytokinesis	12	0.93	0.76	9.47	28.62
+GO:0001649	osteoblast differentiation	11	1.00	0.75	9.63	21.07
+GO:0034644	cellular response to UV	11	0.80	0.75	9.22	66.19
+GO:0050728	negative regulation of inflammatory response	10	0.67	0.69	8.71	126.18
+GO:0051225	spindle assembly	10	0.75	0.73	9.17	86.84
+GO:0006364	rRNA processing	10	0.63	0.71	8.68	356.39
+GO:0097711	ciliary basal body-plasma membrane docking	10	1.00	0.79	9.63	21.39
+GO:0008016	regulation of heart contraction	10	0.57	0.61	7.59	16.15
+GO:0032981	mitochondrial respiratory chain complex I assembly	9	1.00	0.85	9.63	91.11
+GO:0051153	regulation of striated muscle cell differentiation	9	0.65	0.65	8.44	28.43
+GO:0006414	translational elongation	9	0.77	0.71	9.12	105.16
+GO:0006487	protein N-linked glycosylation	8	0.80	0.77	9.34	176.56
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	8	1.00	0.95	9.63	336.65
+GO:0000070	mitotic sister chromatid segregation	8	1.00	0.82	9.63	56.84
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	8	0.89	0.80	9.45	80.05
+GO:0033209	tumor necrosis factor-mediated signaling pathway	7	0.89	0.80	9.51	30.19
+GO:0045540	regulation of cholesterol biosynthetic process	7	0.89	0.84	9.49	116.99
+GO:0007219	Notch signaling pathway	7	0.78	0.71	8.87	26.50
+GO:0006984	ER-nucleus signaling pathway	7	0.80	0.69	8.94	23.17
+GO:0006493	protein O-linked glycosylation	7	0.71	0.73	9.02	176.56
+GO:0051402	neuron apoptotic process	7	0.83	0.70	9.02	23.44
+GO:0008089	anterograde axonal transport	6	0.83	0.81	9.41	71.10
+GO:0048704	embryonic skeletal system morphogenesis	6	0.87	0.72	9.38	45.49
+GO:0016573	histone acetylation	6	0.69	0.78	9.12	658.07
+GO:0007517	muscle organ development	6	0.78	0.64	8.75	27.68
+GO:0002762	negative regulation of myeloid leukocyte differentiation	5	0.77	0.76	9.35	700.15
+GO:0035722	interleukin-12-mediated signaling pathway	5	1.00	0.85	9.63	30.19
+GO:0035735	intraciliary transport involved in cilium assembly	5	1.00	0.88	9.63	77.81
+GO:0007595	lactation	5	1.00	0.82	9.63	25.96
+GO:0034080	CENP-A containing nucleosome assembly	5	1.00	0.90	9.63	242.74
+GO:0046785	microtubule polymerization	4	1.00	0.85	9.63	97.27
+GO:0045132	meiotic chromosome segregation	4	0.80	0.65	9.09	42.96
+GO:0007098	centrosome cycle	4	1.00	0.75	9.63	37.69
+GO:0001881	receptor recycling	4	0.84	0.74	9.22	34.80
+GO:0001916	positive regulation of T cell mediated cytotoxicity	4	0.87	0.83	9.52	365.14
+GO:0030521	androgen receptor signaling pathway	4	0.89	0.82	9.45	54.01
+GO:0034589	hydroxyproline transport	1	1.00	0.90	9.63	99.65
+GO:0015804	neutral amino acid transport	4	0.62	0.71	8.56	67.63
+GO:0060337	type I interferon signaling pathway	4	1.00	0.85	9.63	30.19
+GO:0014898	cardiac muscle hypertrophy in response to stress	3	1.00	0.85	9.63	75.67
+GO:0008295	spermidine biosynthetic process	3	1.00	0.90	9.63	340.82
+GO:0007076	mitotic chromosome condensation	3	0.89	0.82	9.46	40.55
+GO:0000212	meiotic spindle organization	3	0.77	0.73	9.17	69.68
+GO:0046599	regulation of centriole replication	3	0.83	0.83	9.50	89.11
+GO:0043011	myeloid dendritic cell differentiation	3	0.89	0.77	9.49	91.17
+GO:0006268	DNA unwinding involved in DNA replication	3	0.83	0.79	9.34	24.42
+GO:0001837	epithelial to mesenchymal transition	3	0.75	0.67	8.65	23.15
+GO:0045104	intermediate filament cytoskeleton organization	3	0.83	0.70	9.27	28.23
+GO:0007224	smoothened signaling pathway	3	0.78	0.71	8.87	26.50
+GO:0006695	cholesterol biosynthetic process	3	0.87	0.78	9.51	430.36
+GO:0071331	cellular response to hexose stimulus	3	0.83	0.76	9.34	187.86
+GO:0035249	synaptic transmission, glutamatergic	3	1.00	0.88	9.63	25.74
+GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	3	0.93	0.82	9.56	84.13
+GO:0070757	interleukin-35-mediated signaling pathway	2	1.00	0.85	9.63	30.19
+GO:0036500	ATF6-mediated unfolded protein response	2	1.00	0.82	9.63	80.02
+GO:0010032	meiotic chromosome condensation	2	1.00	0.88	9.63	72.23
+GO:0007099	centriole replication	2	1.00	0.82	9.63	79.09
+GO:0006071	glycerol metabolic process	2	0.79	0.74	9.30	71.14
+GO:0097186	amelogenesis	2	1.00	0.82	9.63	26.74
+GO:0007129	synapsis	2	1.00	0.82	9.63	47.18
+GO:0071712	ER-associated misfolded protein catabolic process	2	1.00	0.90	9.63	305.44
+GO:0000915	actomyosin contractile ring assembly	2	0.93	0.84	9.57	135.17
+GO:0003091	renal water homeostasis	2	1.00	0.85	9.63	57.14
+GO:0031508	pericentric heterochromatin assembly	2	1.00	0.85	9.63	98.72
+GO:0051256	mitotic spindle midzone assembly	2	1.00	0.79	9.63	55.95
+GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	2	1.00	0.88	9.63	145.47
+GO:0006744	ubiquinone biosynthetic process	2	0.83	0.76	9.41	357.54
+GO:0048699	generation of neurons	2	0.93	0.76	9.47	21.76
+GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0014883	transition between fast and slow fiber	1	1.00	0.88	9.63	30.57
+GO:0000022	mitotic spindle elongation	1	1.00	0.75	9.63	36.99
+GO:0098909	regulation of cardiac muscle cell action potential involved in regulation of contraction	1	1.00	0.82	9.63	24.10
+GO:0031247	actin rod assembly	1	1.00	0.85	9.63	41.18
+GO:0022417	protein maturation by protein folding	1	1.00	0.82	9.63	59.35
+GO:0030049	muscle filament sliding	1	1.00	0.82	9.63	20.96
+GO:0035744	T-helper 1 cell cytokine production	1	1.00	0.88	9.63	53.33
+GO:0031204	posttranslational protein targeting to membrane, translocation	1	1.00	0.92	9.63	169.63
+GO:0048936	peripheral nervous system neuron axonogenesis	1	1.00	0.90	9.63	66.00
+GO:0044458	motile cilium assembly	1	1.00	0.85	9.63	138.78
+GO:0007147	female meiosis II	1	1.00	0.88	9.63	138.05
+GO:0030206	chondroitin sulfate biosynthetic process	1	1.00	0.88	9.63	416.10
+GO:1902480	protein localization to mitotic spindle	1	0.93	0.84	9.53	35.99
+GO:0097202	activation of cysteine-type endopeptidase activity	1	1.00	0.95	9.63	669.11
+GO:0072383	plus-end-directed vesicle transport along microtubule	1	0.93	0.86	9.58	265.62
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	1	1.00	0.82	9.63	80.91
+GO:0060691	epithelial cell maturation involved in salivary gland development	1	1.00	0.79	9.63	40.66
+GO:0045048	protein insertion into ER membrane	1	0.83	0.79	9.28	56.11
+GO:0000056	ribosomal small subunit export from nucleus	1	1.00	0.96	9.63	269.30

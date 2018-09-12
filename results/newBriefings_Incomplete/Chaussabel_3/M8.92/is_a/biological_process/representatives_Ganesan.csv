@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	183	0.28	0.39	4.44	30.44
+GO:0006357	regulation of transcription by RNA polymerase II	72	0.44	0.63	7.11	248.57
+GO:0009966	regulation of signal transduction	64	0.33	0.45	5.35	37.59
+GO:0006793	phosphorus metabolic process	59	0.34	0.37	4.88	17.52
+GO:0015031	protein transport	56	0.48	0.59	6.99	54.46
+GO:0000165	MAPK cascade	9	0.74	0.77	9.24	231.45
+GO:0043649	dicarboxylic acid catabolic process	1	0.64	0.67	8.55	212.48
+GO:0032787	monocarboxylic acid metabolic process	9	0.40	0.53	6.17	45.97
+GO:0043649	dicarboxylic acid catabolic process	1	0.64	0.67	8.55	212.48
+GO:0032787	monocarboxylic acid metabolic process	9	0.40	0.53	6.17	45.97
+GO:0006816	calcium ion transport	5	0.67	0.71	8.69	35.67
+GO:0019722	calcium-mediated signaling	4	0.72	0.71	8.71	27.81
+GO:0007218	neuropeptide signaling pathway	3	0.93	0.79	9.49	26.98
+GO:0036498	IRE1-mediated unfolded protein response	3	1.00	0.82	9.63	55.46
+GO:0048016	inositol phosphate-mediated signaling	2	0.93	0.82	9.51	27.81
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	1	0.78	0.71	8.87	26.98
+GO:0007202	activation of phospholipase C activity	1	1.00	0.90	9.63	83.74
+GO:0035860	glial cell-derived neurotrophic factor receptor signaling pathway	1	0.93	0.84	9.52	31.00

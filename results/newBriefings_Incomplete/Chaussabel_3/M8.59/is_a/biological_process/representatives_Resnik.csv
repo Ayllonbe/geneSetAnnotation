@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	2149	0.09	0.17	1.80	4.47
+GO:0044281	small molecule metabolic process	374	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	1817	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1887	0.15	0.20	2.26	6.41
+GO:0006810	transport	848	0.28	0.34	3.95	7.46
+GO:0010033	response to organic substance	418	0.35	0.37	4.75	9.28
+GO:0006950	response to stress	547	0.39	0.32	4.70	6.14
+GO:0016070	RNA metabolic process	725	0.39	0.52	6.45	112.25
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0006357	regulation of transcription by RNA polymerase II	542	0.44	0.63	7.11	248.57
+GO:0007166	cell surface receptor signaling pathway	467	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	461	0.38	0.19	3.93	3.37
+GO:0035556	intracellular signal transduction	384	0.51	0.55	6.92	23.17
+GO:1901575	organic substance catabolic process	377	0.30	0.35	4.26	18.93
+GO:0030212	hyaluronan metabolic process	5	0.89	0.80	9.51	101.22
+GO:0044093	positive regulation of molecular function	372	0.43	0.41	5.23	6.77
+GO:0032270	positive regulation of cellular protein metabolic process	340	0.47	0.59	7.41	288.49
+GO:0032515	negative regulation of phosphoprotein phosphatase activity	11	0.87	0.85	9.55	1090.45
+GO:0042981	regulation of apoptotic process	316	0.45	0.55	6.60	16.23
+GO:0042127	regulation of cell proliferation	286	0.45	0.48	6.03	12.04
+GO:0000209	protein polyubiquitination	66	0.77	0.80	9.22	155.40
+GO:0006468	protein phosphorylation	220	0.57	0.64	8.18	177.76
+GO:0034105	positive regulation of tissue remodeling	10	0.78	0.68	9.09	42.29
+GO:0001819	positive regulation of cytokine production	102	0.51	0.54	6.97	44.26
+GO:0001558	regulation of cell growth	85	0.58	0.58	7.66	26.25
+GO:0051260	protein homooligomerization	65	0.89	0.77	9.41	42.03
+GO:0048469	cell maturation	25	0.70	0.55	8.24	25.22
+GO:0051085	chaperone cofactor-dependent protein refolding	14	1.00	0.79	9.63	21.14
+GO:0014732	skeletal muscle atrophy	1	1.00	0.85	9.63	61.04

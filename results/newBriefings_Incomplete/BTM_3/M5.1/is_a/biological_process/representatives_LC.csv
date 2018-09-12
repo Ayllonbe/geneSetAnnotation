@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1199	0.00	0.00	0.00	0.00
+GO:0048518	positive regulation of biological process	562	0.21	0.30	3.05	7.96
+GO:0048519	negative regulation of biological process	407	0.21	0.30	3.07	7.96
+GO:0009967	positive regulation of signal transduction	187	0.44	0.54	6.71	140.23
+GO:0002684	positive regulation of immune system process	197	0.41	0.45	5.71	22.61
+GO:0009967	positive regulation of signal transduction	187	0.44	0.54	6.71	140.23
+GO:0002684	positive regulation of immune system process	197	0.41	0.45	5.71	22.61
+GO:0001920	negative regulation of receptor recycling	1	1.00	0.82	9.63	203.34
+GO:0010468	regulation of gene expression	280	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	256	0.35	0.37	4.75	9.28
+GO:0071731	response to nitric oxide	4	0.93	0.76	9.54	66.43
+GO:0006796	phosphate-containing compound metabolic process	156	0.36	0.43	5.28	20.85
+GO:0042981	regulation of apoptotic process	149	0.45	0.55	6.60	16.23
+GO:0042327	positive regulation of phosphorylation	124	0.56	0.66	8.02	180.93
+GO:0006469	negative regulation of protein kinase activity	29	0.68	0.76	9.22	1097.06
+GO:0006952	defense response	127	0.56	0.48	6.67	9.54
+GO:0048856	anatomical structure development	115	0.33	0.29	3.70	6.46
+GO:0030887	positive regulation of myeloid dendritic cell activation	1	1.00	0.85	9.63	126.19
+GO:0051249	regulation of lymphocyte activation	103	0.48	0.56	7.10	27.11
+GO:0002669	positive regulation of T cell anergy	1	1.00	0.88	9.63	417.44
+GO:0001817	regulation of cytokine production	100	0.40	0.45	5.78	11.79
+GO:0006875	cellular metal ion homeostasis	89	0.59	0.67	8.36	105.84
+GO:0015031	protein transport	88	0.48	0.59	6.99	54.46
+GO:0030335	positive regulation of cell migration	85	0.58	0.64	8.22	157.26
+GO:0051345	positive regulation of hydrolase activity	80	0.57	0.57	7.42	32.99
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	42	0.52	0.58	7.50	27.23
+GO:0051701	interaction with host	21	0.38	0.39	5.05	8.50
+GO:0042100	B cell proliferation	18	0.87	0.76	9.39	50.60
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	17	1.00	0.79	9.63	42.20
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	16	0.63	0.67	8.36	49.28
+GO:0003091	renal water homeostasis	6	1.00	0.85	9.63	57.14
+GO:0001766	membrane raft polarization	3	0.93	0.79	9.54	30.90
+GO:0002230	positive regulation of defense response to virus by host	2	1.00	0.88	9.63	73.08
+GO:0045657	positive regulation of monocyte differentiation	2	1.00	0.90	9.63	840.38
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02

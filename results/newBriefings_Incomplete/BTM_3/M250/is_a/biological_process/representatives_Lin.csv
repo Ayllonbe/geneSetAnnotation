@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:2000112	regulation of cellular macromolecule biosynthetic process	176	0.36	0.50	5.87	74.82
+GO:0065003	protein-containing complex assembly	86	0.45	0.48	6.06	36.47
+GO:0032774	RNA biosynthetic process	75	0.53	0.62	8.04	473.34
+GO:0006913	nucleocytoplasmic transport	32	0.63	0.64	8.15	33.20
+GO:0016071	mRNA metabolic process	22	0.59	0.65	8.39	115.08
+GO:0001649	osteoblast differentiation	8	1.00	0.75	9.63	21.07
+GO:0006479	protein methylation	5	0.59	0.67	8.39	206.80
+GO:0071347	cellular response to interleukin-1	4	1.00	0.82	9.63	81.65
+GO:0006509	membrane protein ectodomain proteolysis	4	0.89	0.80	9.45	50.75
+GO:0050684	regulation of mRNA processing	4	0.71	0.73	9.20	91.75

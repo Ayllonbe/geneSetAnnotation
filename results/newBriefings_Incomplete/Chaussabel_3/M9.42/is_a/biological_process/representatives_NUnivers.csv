@@ -1,0 +1,46 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	131	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	107	0.34	0.49	5.84	147.03
+GO:0006351	transcription, DNA-templated	93	0.57	0.68	8.45	581.39
+GO:0009966	regulation of signal transduction	87	0.33	0.45	5.35	37.59
+GO:0065003	protein-containing complex assembly	55	0.45	0.48	6.06	36.47
+GO:0006508	proteolysis	53	0.55	0.57	7.34	47.86
+GO:0045944	positive regulation of transcription by RNA polymerase II	53	0.55	0.71	8.36	1463.86
+GO:0045892	negative regulation of transcription, DNA-templated	45	0.56	0.69	8.52	1581.26
+GO:0009967	positive regulation of signal transduction	44	0.44	0.54	6.71	140.23
+GO:0030154	cell differentiation	38	0.39	0.39	5.18	16.68
+GO:0009968	negative regulation of signal transduction	33	0.44	0.54	6.68	140.65
+GO:0006259	DNA metabolic process	33	0.45	0.55	7.12	145.26
+GO:0008285	negative regulation of cell proliferation	20	0.56	0.57	7.31	43.61
+GO:0051276	chromosome organization	16	0.55	0.52	6.96	18.35
+GO:0043547	positive regulation of GTPase activity	16	0.93	0.79	9.52	49.34
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	8	1.00	0.93	9.63	888.12
+GO:0071363	cellular response to growth factor stimulus	8	0.77	0.67	8.94	60.39
+GO:0007268	chemical synaptic transmission	8	0.74	0.72	8.66	23.17
+GO:0044772	mitotic cell cycle phase transition	7	0.84	0.67	9.04	28.43
+GO:0000281	mitotic cytokinesis	6	0.93	0.76	9.47	28.62
+GO:0006898	receptor-mediated endocytosis	6	0.68	0.66	8.48	28.44
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	5	1.00	0.92	9.63	350.56
+GO:0050804	modulation of chemical synaptic transmission	5	0.52	0.58	7.24	27.32
+GO:0006378	mRNA polyadenylation	5	0.93	0.88	9.58	472.44
+GO:0040001	establishment of mitotic spindle localization	5	0.89	0.80	9.58	138.62
+GO:0001523	retinoid metabolic process	3	0.77	0.76	9.19	47.55
+GO:1903046	meiotic cell cycle process	3	0.49	0.44	6.09	19.36
+GO:0045842	positive regulation of mitotic metaphase/anaphase transition	3	0.93	0.90	9.60	1435.64
+GO:0007093	mitotic cell cycle checkpoint	3	0.71	0.71	9.01	132.20
+GO:0032466	negative regulation of cytokinesis	2	0.71	0.71	9.02	142.53
+GO:0048661	positive regulation of smooth muscle cell proliferation	2	0.93	0.79	9.52	63.46
+GO:0001890	placenta development	2	1.00	0.75	9.63	49.87
+GO:0032877	positive regulation of DNA endoreduplication	2	1.00	0.92	9.63	1140.10
+GO:0061003	positive regulation of dendritic spine morphogenesis	2	1.00	0.95	9.63	1908.97
+GO:0071460	cellular response to cell-matrix adhesion	1	1.00	0.79	9.63	47.11
+GO:0045875	negative regulation of sister chromatid cohesion	1	0.74	0.76	9.31	314.67
+GO:0000727	double-strand break repair via break-induced replication	1	1.00	0.92	9.63	521.72
+GO:0071397	cellular response to cholesterol	1	1.00	0.85	9.63	437.71
+GO:0046833	positive regulation of RNA export from nucleus	1	0.84	0.80	9.45	194.80
+GO:0060385	axonogenesis involved in innervation	1	1.00	0.90	9.63	66.00
+GO:0032793	positive regulation of CREB transcription factor activity	1	1.00	0.95	9.63	279.44
+GO:0098789	pre-mRNA cleavage required for polyadenylation	1	1.00	0.92	9.63	348.70
+GO:1902916	positive regulation of protein polyubiquitination	1	0.84	0.85	9.52	611.64
+GO:0000212	meiotic spindle organization	1	0.77	0.73	9.17	69.68
+GO:0061098	positive regulation of protein tyrosine kinase activity	1	0.84	0.85	9.56	2154.62

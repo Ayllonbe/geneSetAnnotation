@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	871	0.12	0.26	2.47	7.96
+GO:1902531	regulation of intracellular signal transduction	231	0.45	0.55	6.77	41.85
+GO:0009967	positive regulation of signal transduction	205	0.44	0.54	6.71	140.23
+GO:0006355	regulation of transcription, DNA-templated	241	0.40	0.60	6.84	245.35
+GO:0035556	intracellular signal transduction	195	0.51	0.55	6.92	23.17
+GO:0042325	regulation of phosphorylation	183	0.47	0.59	6.88	31.28
+GO:0042981	regulation of apoptotic process	165	0.45	0.55	6.60	16.23
+GO:0019221	cytokine-mediated signaling pathway	137	0.60	0.63	7.60	26.50
+GO:0043312	neutrophil degranulation	134	1.00	0.90	9.63	132.80
+GO:0030334	regulation of cell migration	128	0.48	0.56	7.11	36.74
+GO:0050863	regulation of T cell activation	89	0.52	0.61	7.60	29.19
+GO:0060326	cell chemotaxis	79	0.64	0.61	8.15	30.29
+GO:0043087	regulation of GTPase activity	54	0.87	0.72	9.29	12.47
+GO:0120035	regulation of plasma membrane bounded cell projection organization	50	0.51	0.58	7.05	17.28
+GO:0032956	regulation of actin cytoskeleton organization	47	0.56	0.63	7.72	34.12
+GO:0030036	actin cytoskeleton organization	37	0.63	0.61	8.05	29.61
+GO:0030593	neutrophil chemotaxis	36	1.00	0.90	9.63	130.30
+GO:1903829	positive regulation of cellular protein localization	36	0.60	0.62	7.80	40.87
+GO:0030217	T cell differentiation	29	0.66	0.65	8.68	65.05
+GO:0008360	regulation of cell shape	27	0.68	0.66	8.69	41.78
+GO:0048812	neuron projection morphogenesis	26	0.65	0.68	8.50	63.00
+GO:0038095	Fc-epsilon receptor signaling pathway	22	0.93	0.84	9.55	78.48
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	20	1.00	0.92	9.63	384.64
+GO:0007229	integrin-mediated signaling pathway	18	1.00	0.82	9.63	26.50
+GO:0046854	phosphatidylinositol phosphorylation	18	1.00	0.88	9.63	218.74
+GO:0030031	cell projection assembly	17	0.67	0.59	8.12	35.52
+GO:0007266	Rho protein signal transduction	16	0.93	0.84	9.52	29.61
+GO:0050771	negative regulation of axonogenesis	9	0.74	0.79	9.36	885.10
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	9	0.83	0.79	9.19	31.00
+GO:0071526	semaphorin-plexin signaling pathway	7	0.81	0.73	9.09	26.50
+GO:0043304	regulation of mast cell degranulation	7	0.80	0.81	9.52	224.79
+GO:0016601	Rac protein signal transduction	6	1.00	0.88	9.63	29.61
+GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	5	0.87	0.83	9.53	431.32
+GO:0008361	regulation of cell size	4	0.78	0.68	9.00	28.02
+GO:0046847	filopodium assembly	2	0.93	0.79	9.52	58.57
+GO:0030037	actin filament reorganization involved in cell cycle	1	1.00	0.82	9.63	31.06

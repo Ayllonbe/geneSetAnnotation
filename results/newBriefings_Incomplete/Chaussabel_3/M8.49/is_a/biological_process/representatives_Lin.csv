@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:1901564	organonitrogen compound metabolic process	1151	0.23	0.31	3.63	19.40
+GO:0051179	localization	999	0.26	0.13	2.57	3.37
+GO:0010468	regulation of gene expression	997	0.35	0.46	5.09	13.73
+GO:0090304	nucleic acid metabolic process	871	0.35	0.46	5.97	111.15
+GO:0051246	regulation of protein metabolic process	645	0.34	0.46	5.46	41.09
+GO:0022607	cellular component assembly	539	0.39	0.39	5.06	14.95
+GO:0045595	regulation of cell differentiation	357	0.34	0.42	5.25	23.33
+GO:0043066	negative regulation of apoptotic process	212	0.56	0.63	7.79	81.07
+GO:0010564	regulation of cell cycle process	189	0.42	0.50	6.22	14.24
+GO:0007167	enzyme linked receptor protein signaling pathway	140	0.53	0.59	7.04	26.50
+GO:0001558	regulation of cell growth	91	0.58	0.58	7.66	26.25
+GO:0051276	chromosome organization	88	0.55	0.52	6.96	18.35
+GO:0050804	modulation of chemical synaptic transmission	70	0.52	0.58	7.24	27.32
+GO:0000209	protein polyubiquitination	67	0.77	0.80	9.22	155.40
+GO:0017015	regulation of transforming growth factor beta receptor signaling pathway	21	0.81	0.76	9.32	71.24
+GO:0060562	epithelial tube morphogenesis	19	0.63	0.61	7.92	30.01
+GO:0060317	cardiac epithelial to mesenchymal transition	8	0.80	0.72	9.01	24.76
+GO:0002092	positive regulation of receptor internalization	8	0.93	0.86	9.59	393.55
+GO:0070886	positive regulation of calcineurin-NFAT signaling cascade	5	1.00	0.92	9.63	339.29
+GO:0070458	cellular detoxification of nitrogen compound	3	1.00	0.70	9.63	22.27
+GO:0018916	nitrobenzene metabolic process	3	0.89	0.74	9.43	49.34
+GO:0042178	xenobiotic catabolic process	3	0.58	0.54	7.37	50.95
+GO:0071599	otic vesicle development	2	1.00	0.79	9.63	62.40
+GO:0072423	response to DNA damage checkpoint signaling	2	0.84	0.74	9.37	39.36
+GO:0023041	neuronal signal transduction	1	1.00	0.79	9.63	23.17
+GO:0008065	establishment of blood-nerve barrier	1	1.00	0.82	9.63	35.45

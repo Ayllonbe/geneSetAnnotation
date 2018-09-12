@@ -1,0 +1,16 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0042307	positive regulation of protein import into nucleus	9	0.93	0.86	9.59	778.75
+GO:0050794	regulation of cellular process	1077	0.12	0.26	2.47	7.96
+GO:0006810	transport	518	0.28	0.34	3.95	7.46
+GO:0051716	cellular response to stimulus	373	0.35	0.30	4.36	13.53
+GO:2000026	regulation of multicellular organismal development	289	0.29	0.39	4.73	23.09
+GO:0043085	positive regulation of catalytic activity	236	0.48	0.49	6.15	18.32
+GO:0032774	RNA biosynthetic process	162	0.53	0.62	8.04	473.34
+GO:0007017	microtubule-based process	44	0.49	0.37	5.66	7.39
+GO:0051260	protein homooligomerization	43	0.89	0.77	9.41	42.03
+GO:0000902	cell morphogenesis	43	0.63	0.56	7.92	43.26
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	23	1.00	0.79	9.63	42.20
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	9	0.89	0.80	9.45	80.05
+GO:0000281	mitotic cytokinesis	9	0.93	0.76	9.47	28.62
+GO:0070830	bicellular tight junction assembly	5	1.00	0.82	9.63	56.14
+GO:0000915	actomyosin contractile ring assembly	1	0.93	0.84	9.57	135.17

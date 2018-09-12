@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1019	0.09	0.05	0.84	3.37
+GO:0032092	positive regulation of protein binding	11	0.71	0.64	8.53	32.71
+GO:0050789	regulation of biological process	839	0.09	0.17	1.80	4.47
+GO:0045899	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	2	1.00	0.96	9.63	4139.88
+GO:0050896	response to stimulus	440	0.25	0.12	2.65	3.37
+GO:0051179	localization	416	0.26	0.13	2.57	3.37
+GO:0043170	macromolecule metabolic process	400	0.25	0.32	3.46	10.22
+GO:0046039	GTP metabolic process	2	0.89	0.86	9.57	1313.88
+GO:0032774	RNA biosynthetic process	115	0.53	0.62	8.04	473.34

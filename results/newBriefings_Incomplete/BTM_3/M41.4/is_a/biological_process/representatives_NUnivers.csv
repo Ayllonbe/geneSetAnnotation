@@ -1,0 +1,42 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	578	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	463	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	386	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	301	0.32	0.29	4.16	13.85
+GO:0009967	positive regulation of signal transduction	232	0.44	0.54	6.71	140.23
+GO:0008284	positive regulation of cell proliferation	172	0.56	0.57	7.27	43.45
+GO:0001934	positive regulation of protein phosphorylation	150	0.58	0.69	8.60	663.11
+GO:0045944	positive regulation of transcription by RNA polymerase II	121	0.55	0.71	8.36	1463.86
+GO:0006875	cellular metal ion homeostasis	94	0.59	0.67	8.36	105.84
+GO:0001819	positive regulation of cytokine production	91	0.51	0.54	6.97	44.26
+GO:0000122	negative regulation of transcription by RNA polymerase II	67	0.61	0.74	8.79	1836.95
+GO:0043547	positive regulation of GTPase activity	56	0.93	0.79	9.52	49.34
+GO:0006366	transcription by RNA polymerase II	53	0.60	0.72	8.61	583.88
+GO:0032386	regulation of intracellular transport	44	0.49	0.53	6.90	27.75
+GO:0030036	actin cytoskeleton organization	43	0.63	0.61	8.05	29.61
+GO:0009150	purine ribonucleotide metabolic process	37	0.55	0.67	8.37	538.25
+GO:0010976	positive regulation of neuron projection development	20	0.68	0.73	9.14	493.19
+GO:0008202	steroid metabolic process	18	0.57	0.53	7.51	35.32
+GO:0045471	response to ethanol	14	0.93	0.76	9.52	69.73
+GO:0097755	positive regulation of blood vessel diameter	8	0.75	0.73	9.07	39.68
+GO:0030326	embryonic limb morphogenesis	8	0.89	0.74	9.38	43.31
+GO:0071385	cellular response to glucocorticoid stimulus	6	0.84	0.80	9.45	407.30
+GO:0007565	female pregnancy	6	1.00	0.70	9.63	32.81
+GO:0034260	negative regulation of GTPase activity	6	1.00	0.82	9.63	61.14
+GO:0051968	positive regulation of synaptic transmission, glutamatergic	5	0.89	0.82	9.56	135.83
+GO:0014014	negative regulation of gliogenesis	5	0.72	0.74	9.22	337.38
+GO:0090277	positive regulation of peptide hormone secretion	5	0.75	0.77	9.29	444.53
+GO:0001662	behavioral fear response	4	1.00	0.79	9.63	37.89
+GO:0007595	lactation	4	1.00	0.82	9.63	25.96
+GO:0043267	negative regulation of potassium ion transport	4	0.74	0.75	9.03	68.61
+GO:0001541	ovarian follicle development	3	1.00	0.75	9.63	34.61
+GO:0010656	negative regulation of muscle cell apoptotic process	3	0.84	0.80	9.49	104.61
+GO:0070445	regulation of oligodendrocyte progenitor proliferation	3	0.89	0.82	9.49	81.50
+GO:0002674	negative regulation of acute inflammatory response	3	0.74	0.74	9.13	164.84
+GO:0001821	histamine secretion	3	0.80	0.77	9.30	92.72
+GO:0006825	copper ion transport	2	0.77	0.76	9.07	19.76
+GO:0051205	protein insertion into membrane	2	0.74	0.72	9.08	54.50
+GO:0030073	insulin secretion	2	0.93	0.86	9.59	236.68
+GO:0060134	prepulse inhibition	1	1.00	0.82	9.63	45.20
+GO:0019433	triglyceride catabolic process	1	1.00	0.88	9.63	492.49
+GO:0060003	copper ion export	1	0.93	0.88	9.56	101.53

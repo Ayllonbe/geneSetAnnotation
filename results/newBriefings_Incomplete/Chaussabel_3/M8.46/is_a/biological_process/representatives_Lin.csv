@@ -1,0 +1,29 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	895	0.36	0.43	5.06	19.43
+GO:0009966	regulation of signal transduction	657	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	502	0.43	0.51	5.91	23.17
+GO:0002376	immune system process	490	0.38	0.19	3.93	3.37
+GO:0009267	cellular response to starvation	36	0.64	0.64	8.46	112.77
+GO:0070887	cellular response to chemical stimulus	382	0.40	0.40	5.31	25.21
+GO:0001932	regulation of protein phosphorylation	329	0.50	0.62	7.64	109.03
+GO:0006629	lipid metabolic process	253	0.37	0.38	5.19	18.42
+GO:1901657	glycosyl compound metabolic process	43	0.46	0.48	6.22	13.86
+GO:0006508	proteolysis	290	0.55	0.57	7.34	47.86
+GO:0050776	regulation of immune response	253	0.38	0.44	5.64	22.45
+GO:0008284	positive regulation of cell proliferation	189	0.56	0.57	7.27	43.45
+GO:0043065	positive regulation of apoptotic process	171	0.56	0.63	7.81	80.91
+GO:0030335	positive regulation of cell migration	122	0.58	0.64	8.22	157.26
+GO:0003006	developmental process involved in reproduction	115	0.43	0.34	5.07	14.49
+GO:0030036	actin cytoskeleton organization	83	0.63	0.61	8.05	29.61
+GO:0007204	positive regulation of cytosolic calcium ion concentration	54	0.68	0.77	9.10	290.30
+GO:0060326	cell chemotaxis	47	0.64	0.61	8.15	30.29
+GO:0010565	regulation of cellular ketone metabolic process	34	0.45	0.52	6.56	40.98
+GO:2000379	positive regulation of reactive oxygen species metabolic process	19	0.78	0.71	9.25	112.72
+GO:0051781	positive regulation of cell division	17	0.68	0.63	8.44	42.29
+GO:0097755	positive regulation of blood vessel diameter	12	0.75	0.73	9.07	39.68
+GO:0030216	keratinocyte differentiation	11	0.89	0.77	9.38	25.59
+GO:0000060	protein import into nucleus, translocation	9	1.00	0.90	9.63	93.44
+GO:0048385	regulation of retinoic acid receptor signaling pathway	3	0.89	0.77	9.41	41.85
+GO:0002074	extraocular skeletal muscle development	2	1.00	0.85	9.63	47.72
+GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
+GO:0008626	granzyme-mediated apoptotic signaling pathway	1	1.00	0.82	9.63	24.56

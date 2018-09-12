@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044260	cellular macromolecule metabolic process	1073	0.28	0.39	4.44	30.44
+GO:0016043	cellular component organization	765	0.28	0.26	3.74	11.45
+GO:2000112	regulation of cellular macromolecule biosynthetic process	681	0.36	0.50	5.87	74.82
+GO:0048583	regulation of response to stimulus	679	0.25	0.32	3.72	7.96
+GO:0009966	regulation of signal transduction	497	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	387	0.43	0.51	5.91	23.17
+GO:0046907	intracellular transport	331	0.46	0.48	6.38	29.65
+GO:2000026	regulation of multicellular organismal development	288	0.29	0.39	4.73	23.09
+GO:0071310	cellular response to organic substance	234	0.44	0.47	5.95	41.66
+GO:0006468	protein phosphorylation	172	0.57	0.64	8.18	177.76
+GO:1903047	mitotic cell cycle process	152	0.50	0.45	5.87	11.32
+GO:0006952	defense response	149	0.56	0.48	6.67	9.54
+GO:0034220	ion transmembrane transport	118	0.45	0.51	6.18	26.33
+GO:0032729	positive regulation of interferon-gamma production	19	0.89	0.77	9.43	65.24
+GO:0044057	regulation of system process	65	0.41	0.46	5.70	11.79
+GO:0006875	cellular metal ion homeostasis	72	0.59	0.67	8.36	105.84
+GO:0071214	cellular response to abiotic stimulus	71	0.59	0.54	7.66	24.78
+GO:0050870	positive regulation of T cell activation	52	0.63	0.69	8.78	216.07
+GO:0016311	dephosphorylation	50	0.68	0.63	8.33	24.41
+GO:0042129	regulation of T cell proliferation	39	0.67	0.71	8.90	80.79
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	26	0.62	0.66	8.48	139.22
+GO:0046034	ATP metabolic process	23	0.65	0.74	9.11	1262.34
+GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	20	0.74	0.77	9.41	597.37
+GO:0045071	negative regulation of viral genome replication	19	0.89	0.82	9.47	85.24
+GO:0001649	osteoblast differentiation	18	1.00	0.75	9.63	21.07
+GO:0007080	mitotic metaphase plate congression	13	1.00	0.85	9.63	61.63
+GO:1903078	positive regulation of protein localization to plasma membrane	10	0.84	0.80	9.43	218.50
+GO:0010569	regulation of double-strand break repair via homologous recombination	8	0.84	0.82	9.52	184.48
+GO:0034198	cellular response to amino acid starvation	7	0.87	0.78	9.45	115.90
+GO:0051693	actin filament capping	6	0.89	0.89	9.58	826.90
+GO:0034629	cellular protein-containing complex localization	6	0.70	0.64	8.62	38.21
+GO:0043001	Golgi to plasma membrane protein transport	5	0.93	0.84	9.59	211.18
+GO:0045199	maintenance of epithelial cell apical/basal polarity	4	1.00	0.82	9.63	34.60
+GO:1900042	positive regulation of interleukin-2 secretion	2	1.00	0.92	9.63	753.50
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	2	0.83	0.66	8.94	22.01
+GO:0031947	negative regulation of glucocorticoid biosynthetic process	2	0.93	0.88	9.60	1131.35
+GO:1903416	response to glycoside	2	0.79	0.64	8.84	27.32
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07

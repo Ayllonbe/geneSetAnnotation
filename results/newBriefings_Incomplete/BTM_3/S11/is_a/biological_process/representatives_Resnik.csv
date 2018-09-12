@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1047	0.09	0.17	1.80	4.47
+GO:0050794	regulation of cellular process	987	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	604	0.24	0.37	3.90	23.85
+GO:0043066	negative regulation of apoptotic process	130	0.56	0.63	7.79	81.07
+GO:0008104	protein localization	129	0.40	0.40	5.07	7.46
+GO:0006810	transport	472	0.28	0.34	3.95	7.46
+GO:0016043	cellular component organization	454	0.28	0.26	3.74	11.45
+GO:0002376	immune system process	424	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	409	0.43	0.51	5.91	23.17
+GO:0065009	regulation of molecular function	391	0.33	0.29	4.10	4.47
+GO:0010033	response to organic substance	315	0.35	0.37	4.75	9.28
+GO:0009605	response to external stimulus	217	0.37	0.31	4.62	6.14
+GO:0010468	regulation of gene expression	361	0.35	0.46	5.09	13.73
+GO:0045740	positive regulation of DNA replication	5	0.77	0.76	9.43	747.31
+GO:0051049	regulation of transport	235	0.31	0.40	4.67	10.45
+GO:2000145	regulation of cell motility	163	0.47	0.52	6.88	34.54
+GO:0007186	G-protein coupled receptor signaling pathway	163	0.55	0.57	7.20	23.17
+GO:0035556	intracellular signal transduction	209	0.51	0.55	6.92	23.17
+GO:0051240	positive regulation of multicellular organismal process	245	0.35	0.42	4.98	23.60
+GO:0051241	negative regulation of multicellular organismal process	154	0.35	0.42	4.99	23.69
+GO:0019538	protein metabolic process	313	0.31	0.41	4.91	44.77
+GO:0048869	cellular developmental process	309	0.32	0.29	4.16	13.85
+GO:0006793	phosphorus metabolic process	217	0.34	0.37	4.88	17.52
+GO:0008284	positive regulation of cell proliferation	179	0.56	0.57	7.27	43.45
+GO:0050680	negative regulation of epithelial cell proliferation	20	0.73	0.69	8.69	65.20
+GO:0042592	homeostatic process	181	0.45	0.42	5.70	8.64
+GO:0006996	organelle organization	175	0.39	0.39	5.17	14.95
+GO:0033043	regulation of organelle organization	133	0.36	0.47	5.49	15.89
+GO:0044255	cellular lipid metabolic process	99	0.38	0.44	5.89	38.02
+GO:0022414	reproductive process	99	0.35	0.17	3.17	3.37
+GO:0048513	animal organ development	71	0.50	0.45	5.88	11.73
+GO:0097190	apoptotic signaling pathway	44	0.70	0.64	8.53	23.17
+GO:0040007	growth	25	0.51	0.25	4.93	3.37
+GO:0046718	viral entry into host cell	20	0.77	0.73	8.94	28.37
+GO:0051781	positive regulation of cell division	18	0.68	0.63	8.44	42.29
+GO:0050728	negative regulation of inflammatory response	17	0.67	0.69	8.71	126.18
+GO:0009299	mRNA transcription	3	0.93	0.88	9.60	700.75
+GO:0060355	positive regulation of cell adhesion molecule production	3	1.00	0.79	9.63	40.68
+GO:0009756	carbohydrate mediated signaling	2	0.81	0.70	9.12	23.17
+GO:0051151	negative regulation of smooth muscle cell differentiation	1	0.81	0.76	9.30	145.65

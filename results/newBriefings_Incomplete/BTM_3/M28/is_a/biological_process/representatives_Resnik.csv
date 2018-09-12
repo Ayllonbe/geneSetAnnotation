@@ -1,0 +1,32 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1545	0.09	0.17	1.80	4.47
+GO:0002376	immune system process	609	0.38	0.19	3.93	3.37
+GO:0007166	cell surface receptor signaling pathway	580	0.43	0.51	5.91	23.17
+GO:0043207	response to external biotic stimulus	255	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	486	0.32	0.29	4.12	6.14
+GO:0043207	response to external biotic stimulus	255	0.41	0.40	5.91	16.64
+GO:0042221	response to chemical	486	0.32	0.29	4.12	6.14
+GO:0032879	regulation of localization	523	0.27	0.33	4.05	7.96
+GO:0044093	positive regulation of molecular function	355	0.43	0.41	5.23	6.77
+GO:0010941	regulation of cell death	328	0.43	0.47	6.10	12.04
+GO:0010628	positive regulation of gene expression	315	0.47	0.56	6.67	58.80
+GO:0051247	positive regulation of protein metabolic process	310	0.44	0.54	6.72	129.04
+GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	13	0.93	0.90	9.60	732.69
+GO:0032940	secretion by cell	285	0.48	0.53	6.33	20.46
+GO:0071702	organic substance transport	264	0.33	0.41	4.62	10.99
+GO:1902533	positive regulation of intracellular signal transduction	235	0.55	0.63	7.95	189.48
+GO:0065003	protein-containing complex assembly	231	0.45	0.48	6.06	36.47
+GO:0051130	positive regulation of cellular component organization	213	0.42	0.50	5.95	43.84
+GO:0120032	regulation of plasma membrane bounded cell projection assembly	27	0.63	0.67	8.36	49.28
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0001817	regulation of cytokine production	198	0.40	0.45	5.78	11.79
+GO:0000122	negative regulation of transcription by RNA polymerase II	123	0.61	0.74	8.79	1836.95
+GO:0006897	endocytosis	105	0.63	0.61	8.09	26.36
+GO:0007204	positive regulation of cytosolic calcium ion concentration	77	0.68	0.77	9.10	290.30
+GO:0019932	second-messenger-mediated signaling	69	0.65	0.65	8.32	26.43
+GO:2000377	regulation of reactive oxygen species metabolic process	48	0.66	0.62	8.48	26.78
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0010744	positive regulation of macrophage derived foam cell differentiation	7	1.00	0.82	9.63	113.86
+GO:0097029	mature conventional dendritic cell differentiation	4	1.00	0.82	9.63	70.63
+GO:1990000	amyloid fibril formation	2	1.00	0.79	9.63	65.11
+GO:0055096	low-density lipoprotein particle mediated signaling	1	1.00	0.82	9.63	23.86

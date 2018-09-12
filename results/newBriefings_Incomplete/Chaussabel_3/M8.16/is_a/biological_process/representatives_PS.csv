@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0050793	regulation of developmental process	806	0.26	0.33	3.95	7.96
+GO:0050794	regulation of cellular process	3356	0.12	0.26	2.47	7.96
+GO:0043170	macromolecule metabolic process	2646	0.25	0.32	3.46	10.22
+GO:0008654	phospholipid biosynthetic process	90	0.61	0.63	8.32	240.37
+GO:0043170	macromolecule metabolic process	2646	0.25	0.32	3.46	10.22
+GO:0008654	phospholipid biosynthetic process	90	0.61	0.63	8.32	240.37
+GO:0048523	negative regulation of cellular process	1591	0.24	0.37	3.90	23.93
+GO:0006355	regulation of transcription, DNA-templated	1292	0.40	0.60	6.84	245.35
+GO:0006275	regulation of DNA replication	56	0.61	0.66	8.62	150.74
+GO:0009966	regulation of signal transduction	1018	0.33	0.45	5.35	37.59
+GO:0070647	protein modification by small protein conjugation or removal	390	0.61	0.66	8.44	151.15
+GO:0034622	cellular protein-containing complex assembly	334	0.48	0.53	6.52	40.42
+GO:0006886	intracellular protein transport	332	0.55	0.65	8.12	90.55
+GO:0006974	cellular response to DNA damage stimulus	302	0.57	0.53	7.47	29.00
+GO:0019221	cytokine-mediated signaling pathway	266	0.60	0.63	7.60	26.50
+GO:0045087	innate immune response	200	0.68	0.59	8.16	26.47
+GO:0051259	protein complex oligomerization	184	0.78	0.68	9.09	40.42
+GO:0001819	positive regulation of cytokine production	175	0.51	0.54	6.97	44.26
+GO:0007264	small GTPase mediated signal transduction	123	0.74	0.69	8.74	26.43
+GO:0032103	positive regulation of response to external stimulus	112	0.53	0.55	7.02	42.20
+GO:0009617	response to bacterium	83	0.75	0.67	8.94	27.27
+GO:0001701	in utero embryonic development	69	1.00	0.85	9.63	22.50
+GO:0050852	T cell receptor signaling pathway	51	1.00	0.92	9.63	219.43
+GO:0043401	steroid hormone mediated signaling pathway	50	0.75	0.70	8.80	25.74
+GO:0030595	leukocyte chemotaxis	47	0.69	0.67	8.77	62.06
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	40	0.93	0.93	9.60	734.49
+GO:0046834	lipid phosphorylation	38	0.93	0.79	9.55	69.34
+GO:0035264	multicellular organism growth	29	1.00	0.70	9.63	22.58
+GO:0007254	JNK cascade	17	1.00	0.93	9.63	290.61
+GO:0016358	dendrite development	14	0.83	0.74	9.26	32.63
+GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	12	1.00	0.82	9.63	26.98
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	9	0.89	0.89	9.56	487.92
+GO:0046007	negative regulation of activated T cell proliferation	7	1.00	0.92	9.63	666.97
+GO:0051000	positive regulation of nitric-oxide synthase activity	7	1.00	0.85	9.63	123.23
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation	4	0.89	0.77	9.43	55.29
+GO:0071225	cellular response to muramyl dipeptide	3	1.00	0.85	9.63	334.58
+GO:1903394	protein localization to kinetochore involved in kinetochore assembly	1	1.00	0.90	9.63	37.20
+GO:0042228	interleukin-8 biosynthetic process	1	1.00	0.85	9.63	142.64

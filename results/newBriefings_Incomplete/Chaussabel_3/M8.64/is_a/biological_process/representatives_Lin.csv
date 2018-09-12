@@ -1,0 +1,28 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1718	0.09	0.17	1.80	4.47
+GO:0031326	regulation of cellular biosynthetic process	721	0.29	0.44	4.86	40.35
+GO:0051716	cellular response to stimulus	515	0.35	0.30	4.36	13.53
+GO:0034645	cellular macromolecule biosynthetic process	479	0.47	0.53	6.91	102.76
+GO:0051641	cellular localization	433	0.37	0.31	4.44	5.67
+GO:0007166	cell surface receptor signaling pathway	387	0.43	0.51	5.91	23.17
+GO:0006796	phosphate-containing compound metabolic process	349	0.36	0.43	5.28	20.85
+GO:0043933	protein-containing complex subunit organization	341	0.43	0.41	5.44	14.95
+GO:1902531	regulation of intracellular signal transduction	322	0.45	0.55	6.77	41.85
+GO:0002682	regulation of immune system process	290	0.32	0.36	4.60	7.96
+GO:0022402	cell cycle process	205	0.40	0.32	4.60	7.39
+GO:0006259	DNA metabolic process	158	0.45	0.55	7.12	145.26
+GO:0006952	defense response	149	0.56	0.48	6.67	9.54
+GO:0034220	ion transmembrane transport	118	0.45	0.51	6.18	26.33
+GO:0001819	positive regulation of cytokine production	90	0.51	0.54	6.97	44.26
+GO:0006875	cellular metal ion homeostasis	72	0.59	0.67	8.36	105.84
+GO:0044057	regulation of system process	65	0.41	0.46	5.70	11.79
+GO:0001649	osteoblast differentiation	18	1.00	0.75	9.63	21.07
+GO:0031122	cytoplasmic microtubule organization	17	0.81	0.73	9.26	50.45
+GO:1903078	positive regulation of protein localization to plasma membrane	10	0.84	0.80	9.43	218.50
+GO:0071709	membrane assembly	6	0.79	0.64	8.94	37.31
+GO:0051693	actin filament capping	6	0.89	0.89	9.58	826.90
+GO:0060390	regulation of SMAD protein signal transduction	5	0.89	0.80	9.43	44.05
+GO:0045199	maintenance of epithelial cell apical/basal polarity	4	1.00	0.82	9.63	34.60
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	2	0.83	0.66	8.94	22.01
+GO:1903416	response to glycoside	2	0.79	0.64	8.84	27.32
+GO:0002534	cytokine production involved in inflammatory response	1	0.93	0.66	9.41	21.07

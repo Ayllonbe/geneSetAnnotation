@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2311	0.08	0.04	0.98	3.37
+GO:0032966	negative regulation of collagen biosynthetic process	5	1.00	0.82	9.63	106.40
+GO:0031323	regulation of cellular metabolic process	1352	0.22	0.36	4.01	22.77
+GO:0048519	negative regulation of biological process	1106	0.21	0.30	3.07	7.96
+GO:0051179	localization	994	0.26	0.13	2.57	3.37
+GO:0016070	RNA metabolic process	745	0.39	0.52	6.45	112.25
+GO:0006996	organelle organization	496	0.39	0.39	5.17	14.95
+GO:0007166	cell surface receptor signaling pathway	484	0.43	0.51	5.91	23.17
+GO:0006796	phosphate-containing compound metabolic process	462	0.36	0.43	5.28	20.85
+GO:0048869	cellular developmental process	462	0.32	0.29	4.16	13.85
+GO:0051049	regulation of transport	390	0.31	0.40	4.67	10.45
+GO:0042981	regulation of apoptotic process	327	0.45	0.55	6.60	16.23
+GO:0071310	cellular response to organic substance	296	0.44	0.47	5.95	41.66
+GO:0035690	cellular response to drug	82	0.56	0.53	7.02	41.91
+GO:0006629	lipid metabolic process	250	0.37	0.38	5.19	18.42
+GO:0051704	multi-organism process	222	0.29	0.15	3.12	3.37
+GO:0045321	leukocyte activation	215	0.52	0.46	6.78	16.27
+GO:0045597	positive regulation of cell differentiation	191	0.45	0.51	6.57	82.53
+GO:0000281	mitotic cytokinesis	25	0.93	0.76	9.47	28.62
+GO:1901888	regulation of cell junction assembly	22	0.75	0.67	8.94	27.32
+GO:0006487	protein N-linked glycosylation	21	0.80	0.77	9.34	176.56
+GO:0006112	energy reserve metabolic process	16	0.84	0.71	9.38	30.86
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0006491	N-glycan processing	6	0.84	0.74	9.36	96.67
+GO:0032486	Rap protein signal transduction	3	1.00	0.88	9.63	29.61
+GO:0098868	bone growth	1	0.89	0.70	9.34	24.19

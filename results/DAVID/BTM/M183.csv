@@ -1,0 +1,3 @@
+"Category"	"Term"	"Count"	"X."	"PValue"	"Genes"	"List.Total"	"Pop.Hits"	"Pop.Total"	"Fold.Enrichment"	"Bonferroni"	"Benjamini"	"FDR"
+"GOTERM_BP_DIRECT"	"GO:0006366~transcription from RNA polymerase II promoter"	4	40	0.0014153881505166	"EHF, KLF5, CDX1, TRIM29"	9	513	16792	14.5479748754603	0.0577535475849874	0.0577535475849874	1.3023127259787
+"GOTERM_BP_DIRECT"	"GO:0045944~positive regulation of transcription from RNA polymerase II promoter"	3	30	0.0754908603640048	"EHF, KLF5, CDX1"	9	981	16792	5.70574243968739	0.962994116713807	0.807630867116907	51.637489748319

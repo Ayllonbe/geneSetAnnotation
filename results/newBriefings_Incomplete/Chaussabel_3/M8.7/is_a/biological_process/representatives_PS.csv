@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065008	regulation of biological quality	498	0.28	0.26	3.48	4.47
+GO:0035774	positive regulation of insulin secretion involved in cellular response to glucose stimulus	7	1.00	0.93	9.63	1297.42
+GO:0050789	regulation of biological process	2070	0.09	0.17	1.80	4.47
+GO:0071704	organic substance metabolic process	1808	0.15	0.20	2.26	6.41
+GO:0051179	localization	919	0.26	0.13	2.57	3.37
+GO:0050896	response to stimulus	827	0.25	0.12	2.65	3.37
+GO:0016055	Wnt signaling pathway	69	0.59	0.65	7.65	28.58
+GO:0051701	interaction with host	51	0.38	0.39	5.05	8.50
+GO:0030855	epithelial cell differentiation	46	0.55	0.52	6.96	21.07
+GO:0035264	multicellular organism growth	14	1.00	0.70	9.63	22.58
+GO:0030521	androgen receptor signaling pathway	13	0.89	0.82	9.45	54.01
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	12	0.93	0.82	9.52	52.45
+GO:0046931	pore complex assembly	7	0.89	0.74	9.49	40.42
+GO:0000715	nucleotide-excision repair, DNA damage recognition	7	0.93	0.76	9.47	21.24
+GO:0006294	nucleotide-excision repair, preincision complex assembly	7	1.00	0.85	9.63	65.90
+GO:0001836	release of cytochrome c from mitochondria	5	1.00	0.82	9.63	22.13
+GO:0033077	T cell differentiation in thymus	4	0.87	0.78	9.42	66.99
+GO:0030851	granulocyte differentiation	3	0.87	0.76	9.31	47.07
+GO:0071787	endoplasmic reticulum tubular network formation	3	1.00	0.82	9.63	40.02
+GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
+GO:1990809	endoplasmic reticulum tubular network membrane organization	2	1.00	0.82	9.63	39.41
+GO:0001711	endodermal cell fate commitment	1	1.00	0.79	9.63	21.34

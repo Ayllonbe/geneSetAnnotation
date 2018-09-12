@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1557	0.12	0.26	2.47	7.96
+GO:0006357	regulation of transcription by RNA polymerase II	344	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	230	0.57	0.68	8.45	581.39
+GO:0045596	negative regulation of cell differentiation	143	0.44	0.51	6.50	82.79
+GO:0060326	cell chemotaxis	102	0.64	0.61	8.15	30.29
+GO:0048704	embryonic skeletal system morphogenesis	24	0.87	0.72	9.38	45.49
+GO:0008584	male gonad development	24	1.00	0.79	9.63	50.96
+GO:0002244	hematopoietic progenitor cell differentiation	23	0.81	0.66	8.94	21.07
+GO:0060070	canonical Wnt signaling pathway	21	0.67	0.71	8.39	31.42
+GO:0071300	cellular response to retinoic acid	14	1.00	0.82	9.63	200.60
+GO:0030326	embryonic limb morphogenesis	11	0.89	0.74	9.38	43.31
+GO:0048538	thymus development	9	1.00	0.79	9.63	35.89
+GO:0002076	osteoblast development	6	1.00	0.75	9.63	32.15
+GO:0060065	uterus development	5	1.00	0.75	9.63	49.87

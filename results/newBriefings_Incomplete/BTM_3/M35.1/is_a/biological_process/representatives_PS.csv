@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007254	JNK cascade	5	1.00	0.93	9.63	290.61
+GO:0009987	cellular process	1996	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	883	0.25	0.12	2.65	3.37
+GO:0043433	negative regulation of DNA binding transcription factor activity	39	0.81	0.84	9.47	278.01
+GO:1904798	positive regulation of core promoter binding	2	1.00	0.85	9.63	62.60
+GO:0050789	regulation of biological process	1667	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	42	0.93	0.91	9.59	279.44
+GO:0030335	positive regulation of cell migration	155	0.58	0.64	8.22	157.26
+GO:0071704	organic substance metabolic process	1141	0.15	0.20	2.26	6.41
+GO:0048856	anatomical structure development	261	0.33	0.29	3.70	6.46
+GO:0065003	protein-containing complex assembly	244	0.45	0.48	6.06	36.47
+GO:0008104	protein localization	221	0.40	0.40	5.07	7.46
+GO:0051260	protein homooligomerization	58	0.89	0.77	9.41	42.03
+GO:0046718	viral entry into host cell	29	0.77	0.73	8.94	28.37
+GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0030316	osteoclast differentiation	15	0.93	0.79	9.51	47.07
+GO:0007296	vitellogenesis	1	1.00	0.75	9.63	35.55

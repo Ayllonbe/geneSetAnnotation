@@ -1,0 +1,9 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	5019	0.00	0.00	0.00	0.00
+GO:1900195	positive regulation of oocyte maturation	2	0.93	0.86	9.59	598.41
+GO:0045870	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate	1	1.00	0.90	9.63	106.56
+GO:0050789	regulation of biological process	3417	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	976	0.33	0.29	4.10	4.47
+GO:0051179	localization	1506	0.26	0.13	2.57	3.37
+GO:0032501	multicellular organismal process	369	0.33	0.16	3.12	3.37
+GO:0019088	immortalization of host cell by virus	1	1.00	0.88	9.63	54.80

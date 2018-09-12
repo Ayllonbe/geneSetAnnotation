@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048518	positive regulation of biological process	1989	0.21	0.30	3.05	7.96
+GO:0090304	nucleic acid metabolic process	1455	0.35	0.46	5.97	111.15
+GO:0007165	signal transduction	1356	0.36	0.43	5.06	19.43
+GO:0006355	regulation of transcription, DNA-templated	1322	0.40	0.60	6.84	245.35
+GO:0010469	regulation of signaling receptor activity	146	0.59	0.62	7.95	48.62
+GO:0007204	positive regulation of cytosolic calcium ion concentration	74	0.68	0.77	9.10	290.30
+GO:0018105	peptidyl-serine phosphorylation	68	0.74	0.76	9.21	338.74
+GO:0097746	regulation of blood vessel diameter	40	0.64	0.64	8.47	38.29
+GO:0006625	protein targeting to peroxisome	33	0.89	0.86	9.56	237.37
+GO:1902476	chloride transmembrane transport	19	1.00	0.88	9.63	110.52
+GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	16	1.00	0.93	9.63	1230.27
+GO:0045987	positive regulation of smooth muscle contraction	14	0.77	0.76	9.08	66.30
+GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	11	1.00	0.92	9.63	581.32
+GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	6	0.83	0.83	9.45	86.62
+GO:0051932	synaptic transmission, GABAergic	3	1.00	0.88	9.63	25.74
+GO:0019254	carnitine metabolic process, CoA-linked	1	1.00	0.82	9.63	69.77
+GO:0071420	cellular response to histamine	1	1.00	0.82	9.63	323.56

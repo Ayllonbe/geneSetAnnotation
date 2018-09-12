@@ -1,0 +1,64 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	426	0.31	0.41	4.91	44.77
+GO:0045893	positive regulation of transcription, DNA-templated	218	0.52	0.67	8.14	1208.12
+GO:0019221	cytokine-mediated signaling pathway	200	0.60	0.63	7.60	26.50
+GO:0006952	defense response	192	0.56	0.48	6.67	9.54
+GO:0030334	regulation of cell migration	191	0.48	0.56	7.11	36.74
+GO:0033993	response to lipid	185	0.53	0.51	6.86	13.32
+GO:0043066	negative regulation of apoptotic process	184	0.56	0.63	7.79	81.07
+GO:0031347	regulation of defense response	170	0.40	0.49	5.73	14.14
+GO:0002694	regulation of leukocyte activation	165	0.46	0.52	6.81	24.92
+GO:0050900	leukocyte migration	141	0.60	0.59	8.02	26.94
+GO:0045892	negative regulation of transcription, DNA-templated	139	0.56	0.69	8.52	1581.26
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	111	0.68	0.66	8.81	76.40
+GO:0006974	cellular response to DNA damage stimulus	108	0.57	0.53	7.47	29.00
+GO:0050708	regulation of protein secretion	92	0.54	0.62	7.86	96.15
+GO:0006366	transcription by RNA polymerase II	75	0.60	0.72	8.61	583.88
+GO:0007204	positive regulation of cytosolic calcium ion concentration	70	0.68	0.77	9.10	290.30
+GO:0002819	regulation of adaptive immune response	60	0.52	0.55	7.28	25.62
+GO:0097190	apoptotic signaling pathway	60	0.70	0.64	8.53	23.17
+GO:0001666	response to hypoxia	60	0.81	0.70	9.12	21.16
+GO:0045861	negative regulation of proteolysis	57	0.61	0.68	8.71	337.18
+GO:0006898	receptor-mediated endocytosis	52	0.68	0.66	8.48	28.44
+GO:0051091	positive regulation of DNA binding transcription factor activity	50	0.81	0.84	9.43	277.83
+GO:0002576	platelet degranulation	43	1.00	0.88	9.63	39.86
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	40	0.89	0.82	9.52	239.11
+GO:0060759	regulation of response to cytokine stimulus	40	0.59	0.55	7.43	11.65
+GO:0002761	regulation of myeloid leukocyte differentiation	34	0.66	0.68	8.86	137.73
+GO:0097746	regulation of blood vessel diameter	27	0.64	0.64	8.47	38.29
+GO:0072376	protein activation cascade	27	0.75	0.67	8.88	54.00
+GO:0010977	negative regulation of neuron projection development	26	0.68	0.73	9.14	494.13
+GO:0032479	regulation of type I interferon production	26	0.70	0.64	8.60	15.70
+GO:0030307	positive regulation of cell growth	20	0.70	0.67	8.71	80.65
+GO:0032757	positive regulation of interleukin-8 production	19	0.89	0.77	9.43	65.24
+GO:0034121	regulation of toll-like receptor signaling pathway	19	0.61	0.66	8.32	87.36
+GO:0051291	protein heterooligomerization	18	0.89	0.77	9.41	42.03
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	16	1.00	0.82	9.63	26.43
+GO:0031398	positive regulation of protein ubiquitination	15	0.75	0.79	9.37	528.45
+GO:0007565	female pregnancy	14	1.00	0.70	9.63	32.81
+GO:0050688	regulation of defense response to virus	14	0.75	0.70	9.19	71.29
+GO:0032570	response to progesterone	12	0.93	0.79	9.55	105.99
+GO:0016064	immunoglobulin mediated immune response	11	0.76	0.70	9.04	30.58
+GO:0045071	negative regulation of viral genome replication	10	0.89	0.82	9.47	85.24
+GO:0019674	NAD metabolic process	8	0.74	0.78	9.33	293.86
+GO:0042730	fibrinolysis	6	1.00	0.90	9.63	252.90
+GO:0033194	response to hydroperoxide	6	0.80	0.65	9.34	25.34
+GO:0045779	negative regulation of bone resorption	6	1.00	0.85	9.63	83.01
+GO:0032725	positive regulation of granulocyte macrophage colony-stimulating factor production	6	0.93	0.79	9.52	64.95
+GO:0090307	mitotic spindle assembly	5	1.00	0.88	9.63	186.05
+GO:0038061	NIK/NF-kappaB signaling	5	1.00	0.82	9.63	26.43
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	5	0.78	0.76	9.31	117.17
+GO:0071360	cellular response to exogenous dsRNA	5	1.00	0.85	9.63	172.53
+GO:2000110	negative regulation of macrophage apoptotic process	5	1.00	0.90	9.63	256.26
+GO:0016925	protein sumoylation	5	0.93	0.86	9.58	311.85
+GO:0060292	long term synaptic depression	4	1.00	0.88	9.63	145.81
+GO:0039528	cytoplasmic pattern recognition receptor signaling pathway in response to virus	3	0.89	0.89	9.58	556.92
+GO:0070424	regulation of nucleotide-binding oligomerization domain containing signaling pathway	3	0.79	0.74	9.38	90.58
+GO:0009597	detection of virus	3	1.00	0.82	9.63	28.65
+GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway	3	0.84	0.74	9.45	67.48
+GO:2000427	positive regulation of apoptotic cell clearance	2	0.93	0.86	9.57	227.08
+GO:0060546	negative regulation of necroptotic process	2	0.93	0.82	9.55	152.27
+GO:0017121	phospholipid scrambling	1	0.80	0.69	9.12	49.44
+GO:0045351	type I interferon biosynthetic process	1	0.89	0.80	9.49	91.33
+GO:0006659	phosphatidylserine biosynthetic process	1	1.00	0.88	9.63	760.20
+GO:2000373	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	1	1.00	0.85	9.63	112.16

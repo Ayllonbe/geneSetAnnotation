@@ -1,0 +1,63 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3661	0.12	0.26	2.47	7.96
+GO:0010605	negative regulation of macromolecule metabolic process	1047	0.37	0.48	5.54	39.19
+GO:0010468	regulation of gene expression	1754	0.35	0.46	5.09	13.73
+GO:0048522	positive regulation of cellular process	1904	0.24	0.37	3.90	23.85
+GO:0090304	nucleic acid metabolic process	1587	0.35	0.46	5.97	111.15
+GO:0006355	regulation of transcription, DNA-templated	1431	0.40	0.60	6.84	245.35
+GO:0009966	regulation of signal transduction	1117	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	935	0.57	0.68	8.45	581.39
+GO:0010033	response to organic substance	751	0.35	0.37	4.75	9.28
+GO:0070301	cellular response to hydrogen peroxide	31	1.00	0.82	9.63	361.03
+GO:0042981	regulation of apoptotic process	565	0.45	0.55	6.60	16.23
+GO:0051336	regulation of hydrolase activity	469	0.46	0.48	6.24	9.25
+GO:0070647	protein modification by small protein conjugation or removal	430	0.61	0.66	8.44	151.15
+GO:0006974	cellular response to DNA damage stimulus	326	0.57	0.53	7.47	29.00
+GO:0033365	protein localization to organelle	279	0.50	0.54	7.01	29.83
+GO:0043312	neutrophil degranulation	237	1.00	0.90	9.63	132.80
+GO:0016055	Wnt signaling pathway	120	0.59	0.65	7.65	28.58
+GO:0000165	MAPK cascade	119	0.74	0.77	9.24	231.45
+GO:0000375	RNA splicing, via transesterification reactions	114	0.76	0.78	9.33	118.58
+GO:0000398	mRNA splicing, via spliceosome	112	0.83	0.85	9.49	356.67
+GO:0006412	translation	109	0.87	0.78	9.51	402.56
+GO:0006364	rRNA processing	88	0.63	0.71	8.68	356.39
+GO:0071478	cellular response to radiation	85	0.67	0.63	8.53	36.92
+GO:0016197	endosomal transport	84	0.71	0.64	8.82	47.19
+GO:0006414	translational elongation	70	0.77	0.71	9.12	105.16
+GO:0070126	mitochondrial translational termination	62	1.00	0.85	9.63	40.69
+GO:0000082	G1/S transition of mitotic cell cycle	58	1.00	0.79	9.63	42.75
+GO:0051170	import into nucleus	56	0.74	0.72	8.94	33.90
+GO:0051291	protein heterooligomerization	49	0.89	0.77	9.41	42.03
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	45	1.00	0.95	9.63	336.65
+GO:0006625	protein targeting to peroxisome	37	0.89	0.86	9.56	237.37
+GO:0007179	transforming growth factor beta receptor signaling pathway	36	0.76	0.75	9.05	29.90
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	36	1.00	0.82	9.63	26.43
+GO:0051225	spindle assembly	35	0.75	0.73	9.17	86.84
+GO:0030218	erythrocyte differentiation	29	0.84	0.71	9.12	22.68
+GO:0070498	interleukin-1-mediated signaling pathway	22	1.00	0.85	9.63	30.19
+GO:0031145	anaphase-promoting complex-dependent catabolic process	21	1.00	0.92	9.63	350.56
+GO:0006294	nucleotide-excision repair, preincision complex assembly	21	1.00	0.85	9.63	65.90
+GO:0046632	alpha-beta T cell differentiation	20	0.71	0.71	9.05	90.59
+GO:0007595	lactation	20	1.00	0.82	9.63	25.96
+GO:0006626	protein targeting to mitochondrion	19	1.00	0.92	9.63	196.81
+GO:0032743	positive regulation of interleukin-2 production	19	0.89	0.77	9.43	65.24
+GO:0000715	nucleotide-excision repair, DNA damage recognition	18	0.93	0.76	9.47	21.24
+GO:0000245	spliceosomal complex assembly	16	0.93	0.82	9.53	66.60
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	16	0.89	0.89	9.55	412.65
+GO:0000387	spliceosomal snRNP assembly	15	0.93	0.82	9.53	66.60
+GO:0000027	ribosomal large subunit assembly	15	0.93	0.82	9.53	66.60
+GO:0030490	maturation of SSU-rRNA	15	0.84	0.84	9.45	358.78
+GO:0042104	positive regulation of activated T cell proliferation	12	1.00	0.92	9.63	649.89
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	12	0.93	0.93	9.59	413.35
+GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	11	0.89	0.89	9.56	487.92
+GO:0002026	regulation of the force of heart contraction	9	0.72	0.71	8.76	26.87
+GO:0000028	ribosomal small subunit assembly	9	1.00	0.85	9.63	66.60
+GO:0048240	sperm capacitation	8	1.00	0.75	9.63	67.15
+GO:0006268	DNA unwinding involved in DNA replication	7	0.83	0.79	9.34	24.42
+GO:0051412	response to corticosterone	7	0.93	0.84	9.56	159.44
+GO:0043101	purine-containing compound salvage	7	0.72	0.69	9.24	725.34
+GO:0075733	intracellular transport of virus	6	0.73	0.69	8.98	41.41
+GO:0030150	protein import into mitochondrial matrix	6	1.00	0.92	9.63	478.65
+GO:0002098	tRNA wobble uridine modification	4	0.84	0.87	9.55	495.68
+GO:0006768	biotin metabolic process	2	0.89	0.80	9.54	225.22
+GO:0006552	leucine catabolic process	2	0.93	0.86	9.59	931.61

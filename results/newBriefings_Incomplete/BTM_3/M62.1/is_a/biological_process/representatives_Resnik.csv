@@ -1,0 +1,24 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050789	regulation of biological process	1673	0.09	0.17	1.80	4.47
+GO:0032879	regulation of localization	553	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	1587	0.12	0.26	2.47	7.96
+GO:0009893	positive regulation of metabolic process	622	0.32	0.41	4.71	22.55
+GO:0009892	negative regulation of metabolic process	440	0.32	0.41	4.73	22.63
+GO:0006810	transport	697	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	640	0.38	0.19	3.93	3.37
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	615	0.43	0.51	5.91	23.17
+GO:0032502	developmental process	595	0.22	0.11	1.89	3.37
+GO:0019538	protein metabolic process	561	0.31	0.41	4.91	44.77
+GO:1901576	organic substance biosynthetic process	517	0.28	0.34	3.95	19.57
+GO:0006685	sphingomyelin catabolic process	1	1.00	0.88	9.63	779.44
+GO:1901576	organic substance biosynthetic process	517	0.28	0.34	3.95	19.57
+GO:0006685	sphingomyelin catabolic process	1	1.00	0.88	9.63	779.44
+GO:0010033	response to organic substance	469	0.35	0.37	4.75	9.28
+GO:0009628	response to abiotic stimulus	154	0.46	0.35	5.43	6.14
+GO:0009605	response to external stimulus	341	0.37	0.31	4.62	6.14
+GO:0008284	positive regulation of cell proliferation	279	0.56	0.57	7.27	43.45
+GO:0043066	negative regulation of apoptotic process	228	0.56	0.63	7.79	81.07
+GO:0016477	cell migration	223	0.47	0.48	6.31	17.13
+GO:0000226	microtubule cytoskeleton organization	65	0.58	0.58	7.66	30.31
+GO:0006883	cellular sodium ion homeostasis	6	1.00	0.90	9.63	285.76

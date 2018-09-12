@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	2777	0.09	0.05	0.84	3.37
+GO:0044281	small molecule metabolic process	387	0.25	0.25	3.26	6.41
+GO:0044238	primary metabolic process	1849	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	1921	0.15	0.20	2.26	6.41
+GO:0051179	localization	977	0.26	0.13	2.57	3.37
+GO:0044267	cellular protein metabolic process	761	0.34	0.46	5.57	80.87
+GO:0050789	regulation of biological process	2192	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	640	0.33	0.29	4.10	4.47
+GO:0006357	regulation of transcription by RNA polymerase II	549	0.44	0.63	7.11	248.57
+GO:0032879	regulation of localization	540	0.27	0.33	4.05	7.96
+GO:0006351	transcription, DNA-templated	519	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	477	0.43	0.51	5.91	23.17
+GO:0044248	cellular catabolic process	403	0.31	0.36	4.57	26.23
+GO:0009117	nucleotide metabolic process	103	0.44	0.57	7.31	170.44
+GO:0010033	response to organic substance	424	0.35	0.37	4.75	9.28
+GO:0031399	regulation of protein modification process	415	0.41	0.56	6.69	72.96
+GO:0031327	negative regulation of cellular biosynthetic process	344	0.42	0.53	6.40	170.82
+GO:0042981	regulation of apoptotic process	321	0.45	0.55	6.60	16.23
+GO:0006508	proteolysis	285	0.55	0.57	7.34	47.86
+GO:0051336	regulation of hydrolase activity	285	0.46	0.48	6.24	9.25
+GO:0045944	positive regulation of transcription by RNA polymerase II	253	0.55	0.71	8.36	1463.86
+GO:0022402	cell cycle process	249	0.40	0.32	4.60	7.39
+GO:0006468	protein phosphorylation	226	0.57	0.64	8.18	177.76
+GO:0032446	protein modification by small protein conjugation	168	0.66	0.70	8.79	151.85
+GO:0019221	cytokine-mediated signaling pathway	161	0.60	0.63	7.60	26.50
+GO:0051347	positive regulation of transferase activity	158	0.57	0.58	7.37	32.95
+GO:0051960	regulation of nervous system development	153	0.45	0.52	6.58	27.38
+GO:0008285	negative regulation of cell proliferation	150	0.56	0.57	7.31	43.61
+GO:0007186	G-protein coupled receptor signaling pathway	141	0.55	0.57	7.20	23.17
+GO:0046486	glycerolipid metabolic process	81	0.56	0.57	7.56	40.66
+GO:0006665	sphingolipid metabolic process	40	0.61	0.63	8.44	65.68
+GO:0048468	cell development	110	0.51	0.45	6.51	28.42
+GO:0006873	cellular ion homeostasis	103	0.55	0.60	7.73	50.28
+GO:0032989	cellular component morphogenesis	97	0.56	0.48	7.27	42.57
+GO:0043687	post-translational protein modification	89	0.65	0.67	8.51	151.15
+GO:0001558	regulation of cell growth	87	0.58	0.58	7.66	26.25
+GO:0031331	positive regulation of cellular catabolic process	85	0.54	0.59	7.66	167.85
+GO:0003008	system process	84	0.44	0.35	5.06	7.59
+GO:0097190	apoptotic signaling pathway	77	0.70	0.64	8.53	23.17
+GO:0051056	regulation of small GTPase mediated signal transduction	74	0.68	0.69	8.65	45.07
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	70	0.61	0.63	8.36	112.25
+GO:0051260	protein homooligomerization	68	0.89	0.77	9.41	42.03
+GO:0007005	mitochondrion organization	58	0.62	0.56	7.74	18.35
+GO:0030855	epithelial cell differentiation	51	0.55	0.52	6.96	21.07
+GO:0006486	protein glycosylation	49	0.62	0.66	8.59	174.08
+GO:0060326	cell chemotaxis	45	0.64	0.61	8.15	30.29
+GO:0048167	regulation of synaptic plasticity	31	0.67	0.69	8.57	39.26
+GO:0050806	positive regulation of synaptic transmission	23	0.67	0.69	8.68	101.55
+GO:0090092	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	40	0.63	0.64	8.31	41.85
+GO:0019722	calcium-mediated signaling	33	0.72	0.71	8.71	27.81
+GO:0048469	cell maturation	29	0.70	0.55	8.24	25.22
+GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	28	0.64	0.67	8.12	28.11
+GO:0043484	regulation of RNA splicing	27	0.77	0.73	9.34	89.96
+GO:0042795	snRNA transcription by RNA polymerase II	25	1.00	0.95	9.63	1410.65
+GO:0006368	transcription elongation from RNA polymerase II promoter	19	1.00	0.90	9.63	477.15
+GO:0050906	detection of stimulus involved in sensory perception	19	0.66	0.53	7.39	8.54
+GO:0002244	hematopoietic progenitor cell differentiation	17	0.81	0.66	8.94	21.07
+GO:0035176	social behavior	11	1.00	0.70	9.63	22.58
+GO:0071709	membrane assembly	9	0.79	0.64	8.94	37.31
+GO:0001657	ureteric bud development	8	1.00	0.88	9.63	36.92
+GO:0016358	dendrite development	8	0.83	0.74	9.26	32.63
+GO:0048488	synaptic vesicle endocytosis	8	0.89	0.77	9.43	55.01
+GO:0060395	SMAD protein signal transduction	7	1.00	0.79	9.63	23.17
+GO:0007271	synaptic transmission, cholinergic	5	1.00	0.88	9.63	25.74
+GO:0022400	regulation of rhodopsin mediated signaling pathway	5	0.93	0.82	9.53	59.73
+GO:0099054	presynapse assembly	3	1.00	0.75	9.63	34.60
+GO:0045217	cell-cell junction maintenance	3	0.87	0.72	9.31	51.61
+GO:0015825	L-serine transport	3	0.89	0.88	9.51	156.85
+GO:0009437	carnitine metabolic process	2	0.87	0.72	9.37	68.67
+GO:1904862	inhibitory synapse assembly	1	1.00	0.79	9.63	37.24

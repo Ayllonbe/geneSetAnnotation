@@ -1,0 +1,15 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1905	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	1478	0.08	0.04	0.98	3.37
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0033026	negative regulation of mast cell apoptotic process	1	1.00	0.90	9.63	301.33
+GO:0007320	insemination	1	1.00	0.70	9.63	44.01
+GO:0065009	regulation of molecular function	535	0.33	0.29	4.10	4.47
+GO:0065007	biological regulation	1478	0.08	0.04	0.98	3.37
+GO:0065008	regulation of biological quality	468	0.28	0.26	3.48	4.47
+GO:0045429	positive regulation of nitric oxide biosynthetic process	16	1.00	0.88	9.63	658.64
+GO:0033026	negative regulation of mast cell apoptotic process	1	1.00	0.90	9.63	301.33
+GO:0007320	insemination	1	1.00	0.70	9.63	44.01
+GO:0006810	transport	607	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	95	0.45	0.48	6.33	26.83
+GO:0002553	histamine secretion by mast cell	2	1.00	0.92	9.63	188.83

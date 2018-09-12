@@ -1,0 +1,26 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	2144	0.12	0.26	2.47	7.96
+GO:0044237	cellular metabolic process	1939	0.16	0.21	2.71	13.80
+GO:0060255	regulation of macromolecule metabolic process	1352	0.26	0.38	4.09	10.74
+GO:2000112	regulation of cellular macromolecule biosynthetic process	908	0.36	0.50	5.87	74.82
+GO:0090304	nucleic acid metabolic process	871	0.35	0.46	5.97	111.15
+GO:0010646	regulation of cell communication	706	0.30	0.40	4.51	12.04
+GO:0031325	positive regulation of cellular metabolic process	704	0.33	0.46	5.39	79.98
+GO:0051641	cellular localization	534	0.37	0.31	4.44	5.67
+GO:0048869	cellular developmental process	466	0.32	0.29	4.16	13.85
+GO:0043066	negative regulation of apoptotic process	212	0.56	0.63	7.79	81.07
+GO:0045597	positive regulation of cell differentiation	193	0.45	0.51	6.57	82.53
+GO:0051276	chromosome organization	88	0.55	0.52	6.96	18.35
+GO:0000209	protein polyubiquitination	67	0.77	0.80	9.22	155.40
+GO:0060271	cilium assembly	34	0.87	0.76	9.41	137.68
+GO:0006334	nucleosome assembly	33	0.87	0.78	9.47	104.52
+GO:0030516	regulation of axon extension	25	0.79	0.81	9.47	209.03
+GO:0060562	epithelial tube morphogenesis	19	0.63	0.61	7.92	30.01
+GO:2000300	regulation of synaptic vesicle exocytosis	9	0.73	0.78	9.31	261.42
+GO:1901673	regulation of mitotic spindle assembly	7	1.00	0.92	9.63	218.78
+GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	5	0.89	0.86	9.55	176.63
+GO:0070458	cellular detoxification of nitrogen compound	3	1.00	0.70	9.63	22.27
+GO:0042178	xenobiotic catabolic process	3	0.58	0.54	7.37	50.95
+GO:0071599	otic vesicle development	2	1.00	0.79	9.63	62.40
+GO:0030252	growth hormone secretion	2	1.00	0.90	9.63	103.34
+GO:0072423	response to DNA damage checkpoint signaling	2	0.84	0.74	9.37	39.36

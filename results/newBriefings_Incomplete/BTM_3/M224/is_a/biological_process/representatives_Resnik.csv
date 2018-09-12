@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	887	0.08	0.04	0.98	3.37
+GO:0032879	regulation of localization	290	0.27	0.33	4.05	7.96
+GO:0048518	positive regulation of biological process	543	0.21	0.30	3.05	7.96
+GO:0048522	positive regulation of cellular process	480	0.24	0.37	3.90	23.85
+GO:0042391	regulation of membrane potential	17	0.52	0.46	6.44	8.64
+GO:0051179	localization	424	0.26	0.13	2.57	3.37
+GO:0098712	L-glutamate import across plasma membrane	2	0.93	0.91	9.60	1074.09
+GO:0007186	G-protein coupled receptor signaling pathway	146	0.55	0.57	7.20	23.17
+GO:0007166	cell surface receptor signaling pathway	319	0.43	0.51	5.91	23.17
+GO:0050804	modulation of chemical synaptic transmission	30	0.52	0.58	7.24	27.32
+GO:0009966	regulation of signal transduction	301	0.33	0.45	5.35	37.59
+GO:1901564	organonitrogen compound metabolic process	314	0.23	0.31	3.63	19.40
+GO:0009628	response to abiotic stimulus	74	0.46	0.35	5.43	6.14
+GO:0042221	response to chemical	272	0.32	0.29	4.12	6.14
+GO:0032502	developmental process	283	0.22	0.11	1.89	3.37
+GO:0045892	negative regulation of transcription, DNA-templated	71	0.56	0.69	8.52	1581.26
+GO:0031399	regulation of protein modification process	168	0.41	0.56	6.69	72.96
+GO:0045892	negative regulation of transcription, DNA-templated	71	0.56	0.69	8.52	1581.26
+GO:0031399	regulation of protein modification process	168	0.41	0.56	6.69	72.96
+GO:0042592	homeostatic process	157	0.45	0.42	5.70	8.64
+GO:0007595	lactation	4	1.00	0.82	9.63	25.96
+GO:0006928	movement of cell or subcellular component	136	0.42	0.33	4.88	7.39
+GO:0065003	protein-containing complex assembly	135	0.45	0.48	6.06	36.47
+GO:0007268	chemical synaptic transmission	31	0.74	0.72	8.66	23.17
+GO:0043524	negative regulation of neuron apoptotic process	15	0.79	0.77	9.25	179.63
+GO:0090630	activation of GTPase activity	6	1.00	0.85	9.63	49.34

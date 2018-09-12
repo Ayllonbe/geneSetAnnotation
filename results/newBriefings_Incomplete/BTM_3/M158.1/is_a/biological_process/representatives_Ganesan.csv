@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	51	0.00	0.00	0.00	0.00
+GO:0002376	immune system process	11	0.38	0.19	3.93	3.37
+GO:0050896	response to stimulus	29	0.25	0.12	2.65	3.37
+GO:0009987	cellular process	50	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	29	0.25	0.12	2.65	3.37
+GO:0045581	negative regulation of T cell differentiation	1	0.70	0.75	9.32	878.99
+GO:0007595	lactation	1	1.00	0.82	9.63	25.96
+GO:0050789	regulation of biological process	41	0.09	0.17	1.80	4.47
+GO:0022414	reproductive process	7	0.35	0.17	3.17	3.37

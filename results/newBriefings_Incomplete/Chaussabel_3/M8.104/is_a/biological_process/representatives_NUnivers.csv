@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3436	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	1780	0.24	0.37	3.90	23.85
+GO:0006351	transcription, DNA-templated	872	0.57	0.68	8.45	581.39
+GO:0045893	positive regulation of transcription, DNA-templated	544	0.52	0.67	8.14	1208.12
+GO:0030154	cell differentiation	457	0.39	0.39	5.18	16.68
+GO:0044255	cellular lipid metabolic process	358	0.38	0.44	5.89	38.02
+GO:0045087	innate immune response	201	0.68	0.59	8.16	26.47
+GO:0050852	T cell receptor signaling pathway	52	1.00	0.92	9.63	219.43
+GO:0006637	acyl-CoA metabolic process	44	0.59	0.59	7.98	77.21
+GO:0046635	positive regulation of alpha-beta T cell activation	34	0.70	0.74	9.18	251.90
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	23	1.00	0.92	9.63	350.56
+GO:0038083	peptidyl-tyrosine autophosphorylation	19	1.00	0.92	9.63	522.64
+GO:0050850	positive regulation of calcium-mediated signaling	18	0.78	0.76	9.28	239.92
+GO:0072678	T cell migration	13	0.71	0.71	8.88	30.24
+GO:0051965	positive regulation of synapse assembly	13	0.83	0.76	9.44	224.64
+GO:2000737	negative regulation of stem cell differentiation	5	0.76	0.70	9.14	115.32
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	4	1.00	0.88	9.63	234.24
+GO:1904674	positive regulation of somatic stem cell population maintenance	1	0.87	0.76	9.46	105.56

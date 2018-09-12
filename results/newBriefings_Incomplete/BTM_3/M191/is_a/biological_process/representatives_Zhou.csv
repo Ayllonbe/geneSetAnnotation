@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1349	0.00	0.00	0.00	0.00
+GO:0001542	ovulation from ovarian follicle	2	1.00	0.75	9.63	27.16
+GO:0065007	biological regulation	1028	0.08	0.04	0.98	3.37
+GO:1902161	positive regulation of cyclic nucleotide-gated ion channel activity	1	1.00	0.90	9.63	311.95
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	11	0.93	0.91	9.59	279.62
+GO:1902943	positive regulation of voltage-gated chloride channel activity	2	1.00	0.92	9.63	1152.20
+GO:0051179	localization	481	0.26	0.13	2.57	3.37
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80
+GO:0051179	localization	481	0.26	0.13	2.57	3.37
+GO:0010934	macrophage cytokine production	1	1.00	0.79	9.63	22.64
+GO:0043312	neutrophil degranulation	137	1.00	0.90	9.63	132.80

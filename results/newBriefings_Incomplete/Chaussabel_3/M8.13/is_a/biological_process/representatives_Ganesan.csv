@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3389	0.12	0.26	2.47	7.96
+GO:0044260	cellular macromolecule metabolic process	2279	0.28	0.39	4.44	30.44
+GO:1901564	organonitrogen compound metabolic process	1865	0.23	0.31	3.63	19.40
+GO:0048523	negative regulation of cellular process	1604	0.24	0.37	3.90	23.93
+GO:0006355	regulation of transcription, DNA-templated	1310	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	1128	0.34	0.49	5.84	147.03
+GO:0009966	regulation of signal transduction	1030	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	858	0.57	0.68	8.45	581.39
+GO:0035556	intracellular signal transduction	596	0.51	0.55	6.92	23.17
+GO:0048585	negative regulation of response to stimulus	536	0.36	0.43	5.03	23.55
+GO:0015031	protein transport	534	0.48	0.59	6.99	54.46
+GO:0001932	regulation of protein phosphorylation	493	0.50	0.62	7.64	109.03
+GO:0043666	regulation of phosphoprotein phosphatase activity	41	0.74	0.77	9.33	158.30
+GO:0043066	negative regulation of apoptotic process	327	0.56	0.63	7.79	81.07
+GO:0043065	positive regulation of apoptotic process	253	0.56	0.63	7.81	80.91
+GO:0006468	protein phosphorylation	344	0.57	0.64	8.18	177.76
+GO:0034622	cellular protein-containing complex assembly	340	0.48	0.53	6.52	40.42
+GO:0030334	regulation of cell migration	289	0.48	0.56	7.11	36.74
+GO:0051223	regulation of protein transport	260	0.49	0.57	7.04	29.14
+GO:0034660	ncRNA metabolic process	206	0.46	0.58	7.25	115.08
+GO:0042493	response to drug	203	0.47	0.43	5.84	9.28
+GO:0001819	positive regulation of cytokine production	176	0.51	0.54	6.97	44.26
+GO:0098655	cation transmembrane transport	165	0.52	0.58	7.13	43.36
+GO:0030036	actin cytoskeleton organization	119	0.63	0.61	8.05	29.61
+GO:0001818	negative regulation of cytokine production	105	0.51	0.55	7.03	44.36
+GO:0030855	epithelial cell differentiation	90	0.55	0.52	6.96	21.07
+GO:0043043	peptide biosynthetic process	88	0.65	0.65	8.66	211.48
+GO:0071363	cellular response to growth factor stimulus	86	0.77	0.67	8.94	60.39
+GO:0043393	regulation of protein binding	80	0.59	0.55	7.49	9.33
+GO:0000086	G2/M transition of mitotic cell cycle	63	1.00	0.79	9.63	43.45
+GO:0070126	mitochondrial translational termination	60	1.00	0.85	9.63	40.69
+GO:0007268	chemical synaptic transmission	52	0.74	0.72	8.66	23.17
+GO:0050880	regulation of blood vessel size	44	0.63	0.61	8.30	24.53
+GO:0051291	protein heterooligomerization	44	0.89	0.77	9.41	42.03
+GO:0042795	snRNA transcription by RNA polymerase II	42	1.00	0.95	9.63	1410.65
+GO:0007229	integrin-mediated signaling pathway	38	1.00	0.82	9.63	26.50
+GO:0007219	Notch signaling pathway	36	0.78	0.71	8.87	26.50
+GO:0033209	tumor necrosis factor-mediated signaling pathway	34	0.89	0.80	9.51	30.19
+GO:0007517	muscle organ development	34	0.78	0.64	8.75	27.68
+GO:0000077	DNA damage checkpoint	33	0.81	0.78	9.46	85.76
+GO:0007266	Rho protein signal transduction	33	0.93	0.84	9.52	29.61
+GO:0007032	endosome organization	31	0.84	0.71	9.22	20.92
+GO:0007249	I-kappaB kinase/NF-kappaB signaling	31	1.00	0.82	9.63	26.43
+GO:0010906	regulation of glucose metabolic process	29	0.68	0.69	8.75	59.51
+GO:0051496	positive regulation of stress fiber assembly	24	1.00	0.93	9.63	365.07
+GO:0051893	regulation of focal adhesion assembly	22	0.89	0.80	9.47	59.48
+GO:0048747	muscle fiber development	15	0.89	0.77	9.41	33.94
+GO:0001755	neural crest cell migration	14	0.80	0.72	9.09	22.57
+GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	13	0.93	0.82	9.56	84.13
+GO:0043113	receptor clustering	13	0.77	0.71	8.99	42.89
+GO:0070207	protein homotrimerization	11	1.00	0.85	9.63	85.45
+GO:0090266	regulation of mitotic cell cycle spindle assembly checkpoint	8	0.87	0.88	9.55	280.44
+GO:0019371	cyclooxygenase pathway	7	1.00	0.92	9.63	253.27
+GO:0051451	myoblast migration	4	0.93	0.79	9.49	22.01
+GO:0071550	death-inducing signaling complex assembly	4	0.93	0.76	9.49	40.42
+GO:0071499	cellular response to laminar fluid shear stress	3	0.93	0.76	9.52	52.24
+GO:0007181	transforming growth factor beta receptor complex assembly	2	1.00	0.82	9.63	44.52
+GO:0033622	integrin activation	2	1.00	0.79	9.63	40.42
+GO:0021503	neural fold bending	1	1.00	0.82	9.63	33.97
+GO:0070159	mitochondrial threonyl-tRNA aminoacylation	1	1.00	0.95	9.63	531.03

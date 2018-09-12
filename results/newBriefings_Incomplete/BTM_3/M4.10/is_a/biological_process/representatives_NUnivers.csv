@@ -1,0 +1,82 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1100	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	684	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	652	0.36	0.43	5.06	19.43
+GO:0016043	cellular component organization	527	0.28	0.26	3.74	11.45
+GO:0048869	cellular developmental process	335	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	319	0.40	0.60	6.84	245.35
+GO:2000026	regulation of multicellular organismal development	296	0.29	0.39	4.73	23.09
+GO:0006464	cellular protein modification process	262	0.34	0.49	5.84	147.03
+GO:0071310	cellular response to organic substance	249	0.44	0.47	5.95	41.66
+GO:0034654	nucleobase-containing compound biosynthetic process	220	0.40	0.49	6.85	317.02
+GO:0010628	positive regulation of gene expression	219	0.47	0.56	6.67	58.80
+GO:0097202	activation of cysteine-type endopeptidase activity	1	1.00	0.95	9.63	669.11
+GO:0031401	positive regulation of protein modification process	187	0.51	0.63	7.86	366.05
+GO:0045893	positive regulation of transcription, DNA-templated	174	0.52	0.67	8.14	1208.12
+GO:0009968	negative regulation of signal transduction	170	0.44	0.54	6.68	140.65
+GO:0010629	negative regulation of gene expression	158	0.47	0.56	6.74	59.05
+GO:0043066	negative regulation of apoptotic process	150	0.56	0.63	7.79	81.07
+GO:0045892	negative regulation of transcription, DNA-templated	111	0.56	0.69	8.52	1581.26
+GO:0015031	protein transport	110	0.48	0.59	6.99	54.46
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0006259	DNA metabolic process	91	0.45	0.55	7.12	145.26
+GO:0045786	negative regulation of cell cycle	86	0.51	0.54	7.10	42.35
+GO:0048513	animal organ development	81	0.50	0.45	5.88	11.73
+GO:0031400	negative regulation of protein modification process	74	0.53	0.64	7.94	366.95
+GO:0071902	positive regulation of protein serine/threonine kinase activity	70	0.68	0.77	9.21	1260.58
+GO:1903827	regulation of cellular protein localization	68	0.48	0.53	6.86	25.72
+GO:0051052	regulation of DNA metabolic process	63	0.47	0.56	7.17	70.58
+GO:0044772	mitotic cell cycle phase transition	48	0.84	0.67	9.04	28.43
+GO:0071214	cellular response to abiotic stimulus	46	0.59	0.54	7.66	24.78
+GO:0051054	positive regulation of DNA metabolic process	40	0.59	0.65	8.41	301.51
+GO:0045766	positive regulation of angiogenesis	40	0.81	0.76	9.30	134.49
+GO:0007088	regulation of mitotic nuclear division	39	0.59	0.64	8.17	54.97
+GO:0006511	ubiquitin-dependent protein catabolic process	29	0.74	0.74	9.19	156.45
+GO:0045732	positive regulation of protein catabolic process	27	0.70	0.70	9.03	231.05
+GO:0097193	intrinsic apoptotic signaling pathway	27	0.74	0.69	9.07	50.98
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	24	0.79	0.83	9.47	340.69
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0045471	response to ethanol	19	0.93	0.76	9.52	69.73
+GO:0043009	chordate embryonic development	19	0.93	0.79	9.49	22.50
+GO:0070301	cellular response to hydrogen peroxide	18	1.00	0.82	9.63	361.03
+GO:0042770	signal transduction in response to DNA damage	18	0.76	0.70	9.34	57.73
+GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
+GO:0007052	mitotic spindle organization	15	0.83	0.76	9.28	96.22
+GO:0055072	iron ion homeostasis	15	0.81	0.80	9.29	38.23
+GO:0071456	cellular response to hypoxia	14	1.00	0.82	9.63	103.25
+GO:0000724	double-strand break repair via homologous recombination	13	0.87	0.83	9.52	520.62
+GO:0071398	cellular response to fatty acid	13	0.74	0.69	9.00	203.00
+GO:0042769	DNA damage response, detection of DNA damage	12	0.79	0.68	9.14	39.84
+GO:1901796	regulation of signal transduction by p53 class mediator	12	0.72	0.71	9.12	45.07
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	11	1.00	0.93	9.63	888.12
+GO:0010575	positive regulation of vascular endothelial growth factor production	9	1.00	0.82	9.63	64.54
+GO:0007080	mitotic metaphase plate congression	9	1.00	0.85	9.63	61.63
+GO:0043029	T cell homeostasis	8	1.00	0.85	9.63	22.00
+GO:0044818	mitotic G2/M transition checkpoint	8	0.89	0.86	9.55	492.82
+GO:0045839	negative regulation of mitotic nuclear division	7	0.70	0.72	9.08	276.54
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	6	0.89	0.84	9.53	355.96
+GO:2000378	negative regulation of reactive oxygen species metabolic process	6	0.78	0.71	9.25	113.13
+GO:0014075	response to amine	6	0.80	0.69	9.22	29.80
+GO:0097711	ciliary basal body-plasma membrane docking	5	1.00	0.79	9.63	21.39
+GO:0060045	positive regulation of cardiac muscle cell proliferation	5	1.00	0.92	9.63	720.41
+GO:0007077	mitotic nuclear envelope disassembly	5	1.00	0.82	9.63	74.08
+GO:0071681	cellular response to indole-3-methanol	4	1.00	0.82	9.63	467.41
+GO:0097186	amelogenesis	4	1.00	0.82	9.63	26.74
+GO:0090266	regulation of mitotic cell cycle spindle assembly checkpoint	4	0.87	0.88	9.55	280.44
+GO:0001556	oocyte maturation	4	1.00	0.75	9.63	79.09
+GO:0034501	protein localization to kinetochore	4	0.84	0.80	9.29	35.82
+GO:0042246	tissue regeneration	3	0.76	0.63	8.94	42.89
+GO:2000615	regulation of histone H3-K9 acetylation	3	0.89	0.88	9.53	182.99
+GO:0033160	positive regulation of protein import into nucleus, translocation	3	1.00	0.92	9.63	970.02
+GO:0055015	ventricular cardiac muscle cell development	3	1.00	0.85	9.63	69.56
+GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
+GO:0015677	copper ion import	3	0.89	0.84	9.43	21.37
+GO:0098706	ferric iron import across plasma membrane	2	1.00	0.93	9.63	329.49
+GO:0090166	Golgi disassembly	2	1.00	0.79	9.63	58.91
+GO:1905448	positive regulation of mitochondrial ATP synthesis coupled electron transport	2	0.93	0.91	9.60	1375.56
+GO:0046600	negative regulation of centriole replication	1	0.93	0.90	9.59	466.47
+GO:0051987	positive regulation of attachment of spindle microtubules to kinetochore	1	0.87	0.78	9.49	141.20
+GO:0046680	response to DDT	1	1.00	0.79	9.63	46.41
+GO:0071283	cellular response to iron(III) ion	1	1.00	0.85	9.63	96.29
+GO:0031442	positive regulation of mRNA 3'-end processing	1	0.93	0.88	9.59	630.64
+GO:0110032	positive regulation of G2/MI transition of meiotic cell cycle	1	1.00	0.90	9.63	414.48

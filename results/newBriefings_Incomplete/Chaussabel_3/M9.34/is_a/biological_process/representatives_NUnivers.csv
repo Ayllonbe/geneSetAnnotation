@@ -1,0 +1,54 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	419	0.24	0.37	3.90	23.85
+GO:0006355	regulation of transcription, DNA-templated	296	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	270	0.34	0.49	5.84	147.03
+GO:0007166	cell surface receptor signaling pathway	166	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	152	0.51	0.55	6.92	23.17
+GO:0009966	regulation of signal transduction	218	0.33	0.45	5.35	37.59
+GO:0006351	transcription, DNA-templated	205	0.57	0.68	8.45	581.39
+GO:0048869	cellular developmental process	159	0.32	0.29	4.16	13.85
+GO:0045944	positive regulation of transcription by RNA polymerase II	105	0.55	0.71	8.36	1463.86
+GO:0006886	intracellular protein transport	105	0.55	0.65	8.12	90.55
+GO:0045892	negative regulation of transcription, DNA-templated	98	0.56	0.69	8.52	1581.26
+GO:0009968	negative regulation of signal transduction	92	0.44	0.54	6.68	140.65
+GO:0043066	negative regulation of apoptotic process	81	0.56	0.63	7.79	81.07
+GO:0006396	RNA processing	72	0.49	0.60	7.48	115.08
+GO:0033674	positive regulation of kinase activity	51	0.61	0.70	8.62	265.90
+GO:0045087	innate immune response	49	0.68	0.59	8.16	26.47
+GO:0051259	protein complex oligomerization	42	0.78	0.68	9.09	40.42
+GO:0030335	positive regulation of cell migration	40	0.58	0.64	8.22	157.26
+GO:0000398	mRNA splicing, via spliceosome	35	0.83	0.85	9.49	356.67
+GO:0006914	autophagy	24	0.67	0.59	8.40	37.75
+GO:0046328	regulation of JNK cascade	21	0.79	0.83	9.49	236.20
+GO:0042129	regulation of T cell proliferation	21	0.67	0.71	8.90	80.79
+GO:0009617	response to bacterium	20	0.75	0.67	8.94	27.27
+GO:2001020	regulation of response to DNA damage stimulus	19	0.59	0.62	8.02	29.43
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	15	0.93	0.90	9.60	1178.86
+GO:0006906	vesicle fusion	15	0.68	0.66	8.56	63.10
+GO:0002576	platelet degranulation	15	1.00	0.88	9.63	39.86
+GO:0043488	regulation of mRNA stability	10	0.74	0.77	9.24	282.23
+GO:0009887	animal organ morphogenesis	10	0.55	0.47	6.38	10.94
+GO:0017158	regulation of calcium ion-dependent exocytosis	6	0.68	0.74	8.73	63.44
+GO:0035308	negative regulation of protein dephosphorylation	6	0.83	0.81	9.49	662.48
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	6	1.00	0.92	9.63	990.06
+GO:1903955	positive regulation of protein targeting to mitochondrion	5	0.93	0.88	9.60	662.57
+GO:0002230	positive regulation of defense response to virus by host	5	1.00	0.88	9.63	73.08
+GO:0071277	cellular response to calcium ion	5	1.00	0.82	9.63	78.50
+GO:0051904	pigment granule transport	4	0.93	0.82	9.55	93.62
+GO:0045625	regulation of T-helper 1 cell differentiation	4	0.89	0.89	9.56	277.21
+GO:0038083	peptidyl-tyrosine autophosphorylation	3	1.00	0.92	9.63	522.64
+GO:0032703	negative regulation of interleukin-2 production	3	0.89	0.77	9.43	65.25
+GO:0071560	cellular response to transforming growth factor beta stimulus	3	1.00	0.82	9.63	97.49
+GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	2	0.89	0.86	9.55	176.63
+GO:1904646	cellular response to amyloid-beta	2	1.00	0.85	9.63	273.93
+GO:0001845	phagolysosome assembly	2	0.93	0.82	9.54	81.92
+GO:0045078	positive regulation of interferon-gamma biosynthetic process	2	1.00	0.88	9.63	834.88
+GO:0031581	hemidesmosome assembly	2	1.00	0.82	9.63	36.80
+GO:0060088	auditory receptor cell stereocilium organization	2	1.00	0.85	9.63	22.00
+GO:0010756	positive regulation of plasminogen activation	1	1.00	0.92	9.63	819.03
+GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	1	1.00	0.88	9.63	493.61
+GO:0051389	inactivation of MAPKK activity	1	1.00	0.95	9.63	2444.67
+GO:0072334	UDP-galactose transmembrane transport	1	0.93	0.84	9.57	142.06
+GO:0097062	dendritic spine maintenance	1	1.00	0.85	9.63	53.71
+GO:0006012	galactose metabolic process	1	0.78	0.71	9.07	34.68
+GO:0009074	aromatic amino acid family catabolic process	1	0.74	0.75	9.30	512.54

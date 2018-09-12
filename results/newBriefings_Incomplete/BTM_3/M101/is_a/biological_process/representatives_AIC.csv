@@ -1,0 +1,37 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	970	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	887	0.36	0.43	5.06	19.43
+GO:0032465	regulation of cytokinesis	24	0.59	0.62	8.14	31.80
+GO:0007165	signal transduction	887	0.36	0.43	5.06	19.43
+GO:0032465	regulation of cytokinesis	24	0.59	0.62	8.14	31.80
+GO:0016043	cellular component organization	713	0.28	0.26	3.74	11.45
+GO:2001032	regulation of double-strand break repair via nonhomologous end joining	2	0.89	0.84	9.52	108.73
+GO:0010468	regulation of gene expression	607	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	463	0.35	0.37	4.75	9.28
+GO:0051128	regulation of cellular component organization	450	0.30	0.40	4.57	12.04
+GO:0006464	cellular protein modification process	400	0.34	0.49	5.84	147.03
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0006464	cellular protein modification process	400	0.34	0.49	5.84	147.03
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0006464	cellular protein modification process	400	0.34	0.49	5.84	147.03
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0006464	cellular protein modification process	400	0.34	0.49	5.84	147.03
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0016192	vesicle-mediated transport	359	0.52	0.51	6.57	10.99
+GO:0051049	regulation of transport	350	0.31	0.40	4.67	10.45
+GO:0030154	cell differentiation	325	0.39	0.39	5.18	16.68
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0043312	neutrophil degranulation	187	1.00	0.90	9.63	132.80
+GO:0034613	cellular protein localization	120	0.45	0.48	6.33	26.83
+GO:0035690	cellular response to drug	75	0.56	0.53	7.02	41.91
+GO:0046488	phosphatidylinositol metabolic process	43	0.68	0.69	8.80	147.20
+GO:0010921	regulation of phosphatase activity	23	0.65	0.70	8.68	45.36
+GO:0044262	cellular carbohydrate metabolic process	23	0.46	0.48	6.72	38.14
+GO:0006914	autophagy	17	0.67	0.59	8.40	37.75
+GO:0005977	glycogen metabolic process	7	0.87	0.78	9.52	182.58
+GO:0034162	toll-like receptor 9 signaling pathway	7	1.00	0.95	9.63	412.65
+GO:0014829	vascular smooth muscle contraction	7	0.87	0.83	9.52	55.69
+GO:0001892	embryonic placenta development	5	1.00	0.79	9.63	37.18
+GO:0042149	cellular response to glucose starvation	5	0.89	0.80	9.50	115.90
+GO:0048596	embryonic camera-type eye morphogenesis	4	1.00	0.85	9.63	49.04
+GO:0015782	CMP-N-acetylneuraminate transmembrane transport	1	1.00	0.88	9.63	142.06

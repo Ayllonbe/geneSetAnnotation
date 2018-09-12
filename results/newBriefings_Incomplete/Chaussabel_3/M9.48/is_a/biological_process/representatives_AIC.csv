@@ -1,0 +1,13 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044238	primary metabolic process	225	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	234	0.15	0.20	2.26	6.41
+GO:0006810	transport	126	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	95	0.25	0.12	2.65	3.37
+GO:0050896	response to stimulus	95	0.25	0.12	2.65	3.37
+GO:0007166	cell surface receptor signaling pathway	41	0.43	0.51	5.91	23.17
+GO:0035556	intracellular signal transduction	42	0.51	0.55	6.92	23.17
+GO:0065003	protein-containing complex assembly	45	0.45	0.48	6.06	36.47
+GO:0051130	positive regulation of cellular component organization	40	0.42	0.50	5.95	43.84
+GO:0009968	negative regulation of signal transduction	20	0.44	0.54	6.68	140.65
+GO:0016477	cell migration	10	0.47	0.48	6.31	17.13
+GO:0001942	hair follicle development	2	1.00	0.75	9.63	22.36

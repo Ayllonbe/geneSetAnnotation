@@ -1,0 +1,20 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	1	1.00	0.92	9.63	384.64
+GO:0032502	developmental process	28	0.22	0.11	1.89	3.37
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	3	1.00	0.79	9.63	42.20
+GO:0009987	cellular process	131	0.09	0.05	0.84	3.37
+GO:0050896	response to stimulus	38	0.25	0.12	2.65	3.37
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	1	1.00	0.93	9.63	628.11
+GO:0030334	regulation of cell migration	8	0.48	0.56	7.11	36.74
+GO:1904959	regulation of cytochrome-c oxidase activity	1	0.89	0.84	9.54	156.28
+GO:0050789	regulation of biological process	106	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	2	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	24	0.33	0.29	4.10	4.47
+GO:0030334	regulation of cell migration	8	0.48	0.56	7.11	36.74
+GO:1904959	regulation of cytochrome-c oxidase activity	1	0.89	0.84	9.54	156.28
+GO:0050789	regulation of biological process	106	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	2	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	24	0.33	0.29	4.10	4.47
+GO:0051179	localization	55	0.26	0.13	2.57	3.37
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0051704	multi-organism process	10	0.29	0.15	3.12	3.37

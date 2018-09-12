@@ -1,0 +1,63 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0016043	cellular component organization	400	0.28	0.26	3.74	11.45
+GO:0051252	regulation of RNA metabolic process	262	0.37	0.51	6.06	70.58
+GO:0006355	regulation of transcription, DNA-templated	249	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	200	0.34	0.49	5.84	147.03
+GO:0031328	positive regulation of cellular biosynthetic process	185	0.41	0.53	6.32	170.14
+GO:0045595	regulation of cell differentiation	177	0.34	0.42	5.25	23.33
+GO:0001934	positive regulation of protein phosphorylation	135	0.58	0.69	8.60	663.11
+GO:0032774	RNA biosynthetic process	129	0.53	0.62	8.04	473.34
+GO:0010629	negative regulation of gene expression	111	0.47	0.56	6.74	59.05
+GO:0034622	cellular protein-containing complex assembly	86	0.48	0.53	6.52	40.42
+GO:0032496	response to lipopolysaccharide	83	0.89	0.74	9.45	64.41
+GO:0051253	negative regulation of RNA metabolic process	83	0.52	0.61	7.81	302.25
+GO:0006974	cellular response to DNA damage stimulus	70	0.57	0.53	7.47	29.00
+GO:0048468	cell development	54	0.51	0.45	6.51	28.42
+GO:0009615	response to virus	47	0.74	0.66	8.80	27.27
+GO:0002819	regulation of adaptive immune response	46	0.52	0.55	7.28	25.62
+GO:0001933	negative regulation of protein phosphorylation	46	0.61	0.70	8.76	664.69
+GO:0001558	regulation of cell growth	44	0.58	0.58	7.66	26.25
+GO:0035690	cellular response to drug	38	0.56	0.53	7.02	41.91
+GO:0006396	RNA processing	31	0.49	0.60	7.48	115.08
+GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	26	0.89	0.82	9.52	239.11
+GO:0051028	mRNA transport	21	0.87	0.81	9.45	42.49
+GO:0016570	histone modification	20	0.54	0.62	8.03	184.49
+GO:0046822	regulation of nucleocytoplasmic transport	17	0.65	0.65	8.53	30.75
+GO:0050680	negative regulation of epithelial cell proliferation	15	0.73	0.69	8.69	65.20
+GO:0034644	cellular response to UV	9	0.80	0.75	9.22	66.19
+GO:1901800	positive regulation of proteasomal protein catabolic process	8	0.78	0.80	9.43	1662.10
+GO:0010633	negative regulation of epithelial cell migration	7	0.80	0.77	9.43	243.45
+GO:0010923	negative regulation of phosphatase activity	6	0.79	0.79	9.36	265.75
+GO:0042953	lipoprotein transport	6	1.00	0.88	9.63	68.45
+GO:0017148	negative regulation of translation	6	0.65	0.70	9.08	1114.67
+GO:0045591	positive regulation of regulatory T cell differentiation	5	0.89	0.86	9.60	997.81
+GO:0048814	regulation of dendrite morphogenesis	5	0.83	0.83	9.53	153.51
+GO:1902373	negative regulation of mRNA catabolic process	5	0.80	0.80	9.48	1058.35
+GO:0002092	positive regulation of receptor internalization	5	0.93	0.86	9.59	393.55
+GO:0045737	positive regulation of cyclin-dependent protein serine/threonine kinase activity	5	0.89	0.89	9.59	2922.08
+GO:0051491	positive regulation of filopodium assembly	5	1.00	0.90	9.63	200.31
+GO:0048709	oligodendrocyte differentiation	4	0.89	0.74	9.34	23.15
+GO:0032876	negative regulation of DNA endoreduplication	4	1.00	0.92	9.63	1221.92
+GO:2001022	positive regulation of response to DNA damage stimulus	4	0.70	0.70	8.89	86.91
+GO:2000637	positive regulation of gene silencing by miRNA	4	0.84	0.82	9.43	125.12
+GO:0048488	synaptic vesicle endocytosis	4	0.89	0.77	9.43	55.01
+GO:0007215	glutamate receptor signaling pathway	4	0.80	0.72	9.09	26.50
+GO:0006349	regulation of gene expression by genetic imprinting	3	0.89	0.80	9.58	130.93
+GO:1902416	positive regulation of mRNA binding	3	0.87	0.76	9.34	43.94
+GO:1901673	regulation of mitotic spindle assembly	3	1.00	0.92	9.63	218.78
+GO:1901386	negative regulation of voltage-gated calcium channel activity	3	0.93	0.90	9.60	1444.72
+GO:0072711	cellular response to hydroxyurea	2	1.00	0.82	9.63	186.99
+GO:1903830	magnesium ion transmembrane transport	2	0.89	0.84	9.56	114.73
+GO:0008089	anterograde axonal transport	2	0.83	0.81	9.41	71.10
+GO:0060999	positive regulation of dendritic spine development	2	0.93	0.90	9.60	671.85
+GO:2000301	negative regulation of synaptic vesicle exocytosis	1	0.87	0.87	9.56	1062.04
+GO:0099578	regulation of translation at postsynapse, modulating synaptic transmission	1	1.00	0.90	9.63	278.44
+GO:1901254	positive regulation of intracellular transport of viral material	1	1.00	0.88	9.63	128.34
+GO:1905042	negative regulation of epithelium regeneration	1	1.00	0.88	9.63	233.18
+GO:0060266	negative regulation of respiratory burst involved in inflammatory response	1	1.00	0.88	9.63	561.55
+GO:0035508	positive regulation of myosin-light-chain-phosphatase activity	1	1.00	0.93	9.63	1250.97
+GO:0098908	regulation of neuronal action potential	1	0.89	0.80	9.49	65.78
+GO:0048715	negative regulation of oligodendrocyte differentiation	1	1.00	0.92	9.63	472.52
+GO:0044830	modulation by host of viral RNA genome replication	1	1.00	0.90	9.63	49.59
+GO:1900453	negative regulation of long term synaptic depression	1	1.00	0.90	9.63	158.36
+GO:0035562	negative regulation of chromatin binding	1	0.93	0.76	9.49	31.33

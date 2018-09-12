@@ -1,0 +1,93 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1423	0.12	0.26	2.47	7.96
+GO:1901564	organonitrogen compound metabolic process	771	0.23	0.31	3.63	19.40
+GO:0048522	positive regulation of cellular process	755	0.24	0.37	3.90	23.85
+GO:0010468	regulation of gene expression	676	0.35	0.46	5.09	13.73
+GO:0048523	negative regulation of cellular process	653	0.24	0.37	3.90	23.93
+GO:0090304	nucleic acid metabolic process	613	0.35	0.46	5.97	111.15
+GO:0019538	protein metabolic process	606	0.31	0.41	4.91	44.77
+GO:0006355	regulation of transcription, DNA-templated	536	0.40	0.60	6.84	245.35
+GO:0010909	positive regulation of heparan sulfate proteoglycan biosynthetic process	1	0.93	0.88	9.60	885.90
+GO:0006464	cellular protein modification process	485	0.34	0.49	5.84	147.03
+GO:0031325	positive regulation of cellular metabolic process	476	0.33	0.46	5.39	79.98
+GO:0009966	regulation of signal transduction	425	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	395	0.30	0.40	4.57	12.04
+GO:0006351	transcription, DNA-templated	358	0.57	0.68	8.45	581.39
+GO:0007166	cell surface receptor signaling pathway	315	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	302	0.32	0.29	4.16	13.85
+GO:0044248	cellular catabolic process	281	0.31	0.36	4.57	26.23
+GO:0042493	response to drug	90	0.47	0.43	5.84	9.28
+GO:0070887	cellular response to chemical stimulus	248	0.40	0.40	5.31	25.21
+GO:0046677	response to antibiotic	43	0.56	0.48	6.78	9.28
+GO:0070887	cellular response to chemical stimulus	248	0.40	0.40	5.31	25.21
+GO:0009636	response to toxic substance	50	0.58	0.49	6.94	9.28
+GO:0070887	cellular response to chemical stimulus	248	0.40	0.40	5.31	25.21
+GO:0019220	regulation of phosphate metabolic process	258	0.41	0.53	6.26	28.98
+GO:0006629	lipid metabolic process	159	0.37	0.38	5.19	18.42
+GO:0034613	cellular protein localization	158	0.45	0.48	6.33	26.83
+GO:0032880	regulation of protein localization	151	0.43	0.47	5.90	10.45
+GO:0051345	positive regulation of hydrolase activity	135	0.57	0.57	7.42	32.99
+GO:0019752	carboxylic acid metabolic process	132	0.32	0.45	5.31	42.50
+GO:0030334	regulation of cell migration	117	0.48	0.56	7.11	36.74
+GO:0030001	metal ion transport	63	0.54	0.59	7.29	15.42
+GO:0006820	anion transport	60	0.42	0.50	5.80	12.09
+GO:0032101	regulation of response to external stimulus	109	0.40	0.45	5.60	11.65
+GO:0043312	neutrophil degranulation	87	1.00	0.90	9.63	132.80
+GO:0007186	G-protein coupled receptor signaling pathway	85	0.55	0.57	7.20	23.17
+GO:0120035	regulation of plasma membrane bounded cell projection organization	84	0.51	0.58	7.05	17.28
+GO:0051707	response to other organism	74	0.42	0.46	6.41	24.63
+GO:0000226	microtubule cytoskeleton organization	67	0.58	0.58	7.66	30.31
+GO:0030003	cellular cation homeostasis	65	0.57	0.63	8.00	68.30
+GO:0045862	positive regulation of proteolysis	57	0.61	0.68	8.73	336.28
+GO:0046486	glycerolipid metabolic process	53	0.56	0.57	7.56	40.66
+GO:0001666	response to hypoxia	46	0.81	0.70	9.12	21.16
+GO:0016055	Wnt signaling pathway	45	0.59	0.65	7.65	28.58
+GO:1904062	regulation of cation transmembrane transport	41	0.49	0.59	7.03	34.83
+GO:0060326	cell chemotaxis	28	0.64	0.61	8.15	30.29
+GO:0043393	regulation of protein binding	27	0.59	0.55	7.49	9.33
+GO:0051291	protein heterooligomerization	22	0.89	0.77	9.41	42.03
+GO:0050852	T cell receptor signaling pathway	21	1.00	0.92	9.63	219.43
+GO:0032368	regulation of lipid transport	19	0.52	0.55	7.22	25.92
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	18	1.00	0.92	9.63	384.64
+GO:0008016	regulation of heart contraction	17	0.57	0.61	7.59	16.15
+GO:0060333	interferon-gamma-mediated signaling pathway	14	1.00	0.85	9.63	30.19
+GO:0009749	response to glucose	14	0.89	0.80	9.41	32.96
+GO:0030593	neutrophil chemotaxis	13	1.00	0.90	9.63	130.30
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	11	1.00	0.93	9.63	628.11
+GO:0070098	chemokine-mediated signaling pathway	9	0.73	0.72	9.00	30.19
+GO:0030837	negative regulation of actin filament polymerization	8	0.84	0.85	9.54	433.76
+GO:1904837	beta-catenin-TCF complex assembly	8	1.00	0.79	9.63	40.42
+GO:0061001	regulation of dendritic spine morphogenesis	8	0.89	0.88	9.55	263.40
+GO:0007223	Wnt signaling pathway, calcium modulating pathway	7	1.00	0.90	9.63	33.21
+GO:0042100	B cell proliferation	6	0.87	0.76	9.39	50.60
+GO:0016064	immunoglobulin mediated immune response	6	0.76	0.70	9.04	30.58
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	6	0.87	0.78	9.52	52.93
+GO:0035176	social behavior	5	1.00	0.70	9.63	22.58
+GO:0040020	regulation of meiotic nuclear division	5	0.61	0.66	8.53	66.11
+GO:0032350	regulation of hormone metabolic process	5	0.56	0.53	7.55	21.45
+GO:1905515	non-motile cilium assembly	5	1.00	0.85	9.63	138.78
+GO:2000321	positive regulation of T-helper 17 cell differentiation	4	0.93	0.93	9.61	2604.30
+GO:0035235	ionotropic glutamate receptor signaling pathway	4	0.87	0.78	9.31	27.20
+GO:0016358	dendrite development	4	0.83	0.74	9.26	32.63
+GO:0014909	smooth muscle cell migration	4	0.89	0.77	9.38	22.01
+GO:0010818	T cell chemotaxis	4	0.84	0.80	9.45	127.61
+GO:0030157	pancreatic juice secretion	3	1.00	0.82	9.63	60.49
+GO:0003341	cilium movement	3	0.81	0.66	9.16	20.27
+GO:0051177	meiotic sister chromatid cohesion	3	0.81	0.73	9.19	80.85
+GO:0031639	plasminogen activation	3	0.93	0.84	9.55	103.97
+GO:0015671	oxygen transport	3	1.00	0.79	9.63	26.52
+GO:0048477	oogenesis	2	1.00	0.79	9.63	84.68
+GO:0043691	reverse cholesterol transport	2	1.00	0.88	9.63	39.64
+GO:0034375	high-density lipoprotein particle remodeling	2	0.93	0.82	9.55	83.38
+GO:0055091	phospholipid homeostasis	2	1.00	0.85	9.63	32.35
+GO:0097105	presynaptic membrane assembly	2	1.00	0.79	9.63	57.45
+GO:0061049	cell growth involved in cardiac muscle cell development	2	0.93	0.72	9.49	32.43
+GO:0030207	chondroitin sulfate catabolic process	1	1.00	0.88	9.63	411.80
+GO:0043046	DNA methylation involved in gamete generation	1	1.00	0.92	9.63	410.99
+GO:0034374	low-density lipoprotein particle remodeling	1	1.00	0.85	9.63	83.38
+GO:0034372	very-low-density lipoprotein particle remodeling	1	1.00	0.88	9.63	84.48
+GO:0030299	intestinal cholesterol absorption	1	1.00	0.88	9.63	82.41
+GO:0061580	colon epithelial cell migration	1	0.93	0.84	9.52	24.97
+GO:0097104	postsynaptic membrane assembly	1	1.00	0.79	9.63	57.45
+GO:0044334	canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition	1	1.00	0.90	9.63	34.31
+GO:0007130	synaptonemal complex assembly	1	1.00	0.82	9.63	88.08

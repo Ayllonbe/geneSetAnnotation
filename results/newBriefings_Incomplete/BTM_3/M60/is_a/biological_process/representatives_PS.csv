@@ -1,0 +1,57 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1623	0.09	0.05	0.84	3.37
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:2001257	regulation of cation channel activity	21	0.60	0.68	8.36	101.44
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:2001257	regulation of cation channel activity	21	0.60	0.68	8.36	101.44
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:2001257	regulation of cation channel activity	21	0.60	0.68	8.36	101.44
+GO:2000987	positive regulation of behavioral fear response	1	1.00	0.85	9.63	209.70
+GO:0050789	regulation of biological process	1354	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	35	0.93	0.91	9.59	279.44
+GO:0065009	regulation of molecular function	511	0.33	0.29	4.10	4.47
+GO:2001257	regulation of cation channel activity	21	0.60	0.68	8.36	101.44
+GO:0043170	macromolecule metabolic process	714	0.25	0.32	3.46	10.22
+GO:0006629	lipid metabolic process	139	0.37	0.38	5.19	18.42
+GO:0042221	response to chemical	440	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	423	0.39	0.32	4.70	6.14
+GO:0006810	transport	587	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	527	0.38	0.19	3.93	3.37
+GO:0051641	cellular localization	201	0.37	0.31	4.44	5.67
+GO:0001649	osteoblast differentiation	28	1.00	0.75	9.63	21.07
+GO:0030182	neuron differentiation	20	0.58	0.54	7.21	21.07
+GO:0051291	protein heterooligomerization	19	0.89	0.77	9.41	42.03
+GO:0007179	transforming growth factor beta receptor signaling pathway	19	0.76	0.75	9.05	29.90
+GO:0007173	epidermal growth factor receptor signaling pathway	17	0.78	0.78	9.04	32.39
+GO:0007517	muscle organ development	17	0.78	0.64	8.75	27.68
+GO:0048666	neuron development	15	0.67	0.58	8.09	32.15
+GO:0035264	multicellular organism growth	11	1.00	0.70	9.63	22.58
+GO:0008543	fibroblast growth factor receptor signaling pathway	10	0.71	0.73	8.57	31.00
+GO:0035914	skeletal muscle cell differentiation	9	0.87	0.68	9.29	21.07
+GO:0002062	chondrocyte differentiation	8	0.89	0.70	9.45	21.07
+GO:0060536	cartilage morphogenesis	7	0.84	0.67	9.16	27.73
+GO:0060998	regulation of dendritic spine development	7	0.83	0.83	9.52	87.63
+GO:0007274	neuromuscular synaptic transmission	5	0.93	0.84	9.52	25.74
+GO:0030220	platelet formation	5	1.00	0.79	9.63	33.80
+GO:0002467	germinal center formation	5	1.00	0.79	9.63	29.46
+GO:0001947	heart looping	5	1.00	0.85	9.63	47.98
+GO:0061333	renal tubule morphogenesis	5	0.72	0.68	8.80	32.21
+GO:0030318	melanocyte differentiation	4	0.89	0.74	9.34	22.86
+GO:0030224	monocyte differentiation	4	1.00	0.82	9.63	69.53
+GO:0030539	male genitalia development	4	1.00	0.79	9.63	66.32
+GO:0007616	long-term memory	3	1.00	0.85	9.63	22.23
+GO:0055012	ventricular cardiac muscle cell differentiation	3	1.00	0.85	9.63	47.30
+GO:0051145	smooth muscle cell differentiation	3	0.78	0.68	8.86	21.76
+GO:0014902	myotube differentiation	3	0.87	0.76	9.38	22.45
+GO:0014033	neural crest cell differentiation	2	0.87	0.72	9.27	46.51
+GO:0072160	nephron tubule epithelial cell differentiation	1	0.87	0.76	9.31	49.62
+GO:0090668	endothelial cell chemotaxis to vascular endothelial growth factor	1	1.00	0.85	9.63	32.93

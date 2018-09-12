@@ -1,0 +1,69 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043433	negative regulation of DNA binding transcription factor activity	49	0.81	0.84	9.47	278.01
+GO:0050868	negative regulation of T cell activation	43	0.64	0.69	8.87	233.20
+GO:0051091	positive regulation of DNA binding transcription factor activity	84	0.81	0.84	9.43	277.83
+GO:0050789	regulation of biological process	3064	0.09	0.17	1.80	4.47
+GO:0065009	regulation of molecular function	879	0.33	0.29	4.10	4.47
+GO:0046716	muscle cell cellular homeostasis	7	1.00	0.79	9.63	31.95
+GO:0008152	metabolic process	2858	0.15	0.07	1.52	3.37
+GO:0000723	telomere maintenance	40	0.73	0.72	9.29	183.02
+GO:0030488	tRNA methylation	8	0.74	0.80	9.31	684.86
+GO:0043129	surfactant homeostasis	3	1.00	0.85	9.63	28.07
+GO:0046716	muscle cell cellular homeostasis	7	1.00	0.79	9.63	31.95
+GO:0008152	metabolic process	2858	0.15	0.07	1.52	3.37
+GO:0000723	telomere maintenance	40	0.73	0.72	9.29	183.02
+GO:0030488	tRNA methylation	8	0.74	0.80	9.31	684.86
+GO:0043129	surfactant homeostasis	3	1.00	0.85	9.63	28.07
+GO:0016043	cellular component organization	1404	0.28	0.26	3.74	11.45
+GO:0010970	transport along microtubule	56	0.61	0.63	8.46	66.94
+GO:0006810	transport	1230	0.28	0.34	3.95	7.46
+GO:0034613	cellular protein localization	325	0.45	0.48	6.33	26.83
+GO:0051716	cellular response to stimulus	861	0.35	0.30	4.36	13.53
+GO:0042221	response to chemical	672	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	779	0.39	0.32	4.70	6.14
+GO:0030154	cell differentiation	388	0.39	0.39	5.18	16.68
+GO:0048856	anatomical structure development	358	0.33	0.29	3.70	6.46
+GO:0032502	developmental process	805	0.22	0.11	1.89	3.37
+GO:0032501	multicellular organismal process	333	0.33	0.16	3.12	3.37
+GO:0019221	cytokine-mediated signaling pathway	223	0.60	0.63	7.60	26.50
+GO:0051259	protein complex oligomerization	156	0.78	0.68	9.09	40.42
+GO:0003006	developmental process involved in reproduction	146	0.43	0.34	5.07	14.49
+GO:0016055	Wnt signaling pathway	97	0.59	0.65	7.65	28.58
+GO:0065004	protein-DNA complex assembly	78	0.65	0.65	8.33	63.42
+GO:0000086	G2/M transition of mitotic cell cycle	50	1.00	0.79	9.63	43.45
+GO:0007268	chemical synaptic transmission	44	0.74	0.72	8.66	23.17
+GO:0048469	cell maturation	43	0.70	0.55	8.24	25.22
+GO:0000082	G1/S transition of mitotic cell cycle	42	1.00	0.79	9.63	42.75
+GO:0035567	non-canonical Wnt signaling pathway	32	0.70	0.72	8.61	31.42
+GO:0097711	ciliary basal body-plasma membrane docking	31	1.00	0.79	9.63	21.39
+GO:0002224	toll-like receptor signaling pathway	31	0.68	0.77	9.04	409.66
+GO:0000281	mitotic cytokinesis	29	0.93	0.76	9.47	28.62
+GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	23	0.89	0.80	9.45	80.05
+GO:1990138	neuron projection extension	22	0.81	0.66	9.22	50.60
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	22	1.00	0.93	9.63	628.11
+GO:0048013	ephrin receptor signaling pathway	22	1.00	0.88	9.63	31.00
+GO:0030326	embryonic limb morphogenesis	20	0.89	0.74	9.38	43.31
+GO:0008543	fibroblast growth factor receptor signaling pathway	19	0.71	0.73	8.57	31.00
+GO:0001947	heart looping	18	1.00	0.85	9.63	47.98
+GO:1905515	non-motile cilium assembly	17	1.00	0.85	9.63	138.78
+GO:0034446	substrate adhesion-dependent cell spreading	15	1.00	0.82	9.63	56.23
+GO:0048864	stem cell development	14	0.84	0.67	9.34	32.15
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:0000245	spliceosomal complex assembly	10	0.93	0.82	9.53	66.60
+GO:0070207	protein homotrimerization	9	1.00	0.85	9.63	85.45
+GO:0001569	branching involved in blood vessel morphogenesis	8	1.00	0.85	9.63	53.50
+GO:0002335	mature B cell differentiation	8	0.78	0.74	9.20	65.05
+GO:1902686	mitochondrial outer membrane permeabilization involved in programmed cell death	8	0.89	0.82	9.56	63.25
+GO:0022011	myelination in peripheral nervous system	6	1.00	0.79	9.63	21.18
+GO:0000578	embryonic axis specification	6	0.79	0.64	8.75	24.59
+GO:0001886	endothelial cell morphogenesis	5	1.00	0.85	9.63	48.55
+GO:0048246	macrophage chemotaxis	5	1.00	0.88	9.63	95.92
+GO:0052405	negative regulation by host of symbiont molecular function	3	0.81	0.76	9.39	109.08
+GO:0060539	diaphragm development	2	1.00	0.82	9.63	30.17
+GO:0060066	oviduct development	2	1.00	0.75	9.63	49.56
+GO:1902287	semaphorin-plexin signaling pathway involved in axon guidance	2	1.00	0.88	9.63	28.58
+GO:1904861	excitatory synapse assembly	2	1.00	0.79	9.63	37.24
+GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	1	1.00	0.88	9.63	27.24
+GO:0052106	quorum sensing involved in interaction with host	1	1.00	0.88	9.63	38.56
+GO:0002380	immunoglobulin secretion involved in immune response	1	1.00	0.92	9.63	133.33
+GO:0019934	cGMP-mediated signaling	1	0.93	0.84	9.52	28.51

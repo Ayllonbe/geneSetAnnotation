@@ -1,0 +1,19 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1558	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1288	0.09	0.17	1.80	4.47
+GO:0051716	cellular response to stimulus	429	0.35	0.30	4.36	13.53
+GO:0006464	cellular protein modification process	297	0.34	0.49	5.84	147.03
+GO:1901700	response to oxygen-containing compound	287	0.39	0.39	5.14	9.28
+GO:0030154	cell differentiation	262	0.39	0.39	5.18	16.68
+GO:0008104	protein localization	168	0.40	0.40	5.07	7.46
+GO:0019722	calcium-mediated signaling	40	0.72	0.71	8.71	27.81
+GO:0051028	mRNA transport	22	0.87	0.81	9.45	42.49
+GO:0000070	mitotic sister chromatid segregation	11	1.00	0.82	9.63	56.84
+GO:0007098	centrosome cycle	10	1.00	0.75	9.63	37.69
+GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
+GO:0046825	regulation of protein export from nucleus	6	0.71	0.73	9.09	125.87
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	6	0.93	0.82	9.52	52.45
+GO:0007064	mitotic sister chromatid cohesion	3	0.87	0.76	9.34	49.16
+GO:0007020	microtubule nucleation	2	0.80	0.72	9.07	33.20
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:1903087	mitotic spindle pole body duplication	1	1.00	0.82	9.63	73.25

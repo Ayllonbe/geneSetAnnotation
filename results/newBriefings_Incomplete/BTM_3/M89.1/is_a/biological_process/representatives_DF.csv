@@ -1,0 +1,51 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	117	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	97	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	83	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	72	0.33	0.45	5.35	37.59
+GO:0048869	cellular developmental process	60	0.32	0.29	4.16	13.85
+GO:0006357	regulation of transcription by RNA polymerase II	48	0.44	0.63	7.11	248.57
+GO:0032774	RNA biosynthetic process	45	0.53	0.62	8.04	473.34
+GO:0006464	cellular protein modification process	40	0.34	0.49	5.84	147.03
+GO:0001932	regulation of protein phosphorylation	38	0.50	0.62	7.64	109.03
+GO:0031327	negative regulation of cellular biosynthetic process	35	0.42	0.53	6.40	170.82
+GO:0071310	cellular response to organic substance	32	0.44	0.47	5.95	41.66
+GO:0034599	cellular response to oxidative stress	7	0.72	0.61	8.94	68.67
+GO:0010243	response to organonitrogen compound	20	0.45	0.48	6.23	25.43
+GO:0043066	negative regulation of apoptotic process	16	0.56	0.63	7.79	81.07
+GO:0033993	response to lipid	15	0.53	0.51	6.86	13.32
+GO:0042326	negative regulation of phosphorylation	14	0.58	0.66	8.18	181.49
+GO:0000082	G1/S transition of mitotic cell cycle	13	1.00	0.79	9.63	42.75
+GO:0043547	positive regulation of GTPase activity	9	0.93	0.79	9.52	49.34
+GO:0006611	protein export from nucleus	8	0.75	0.77	9.28	128.44
+GO:0031668	cellular response to extracellular stimulus	8	0.55	0.52	7.38	45.16
+GO:0048608	reproductive structure development	8	0.61	0.50	7.37	31.35
+GO:0001666	response to hypoxia	7	0.81	0.70	9.12	21.16
+GO:2001235	positive regulation of apoptotic signaling pathway	6	0.70	0.72	9.18	291.46
+GO:0043409	negative regulation of MAPK cascade	6	0.72	0.78	9.37	1019.28
+GO:0001819	positive regulation of cytokine production	5	0.51	0.54	6.97	44.26
+GO:0045582	positive regulation of T cell differentiation	3	0.70	0.75	9.32	861.16
+GO:0042542	response to hydrogen peroxide	3	0.93	0.76	9.54	79.29
+GO:1902106	negative regulation of leukocyte differentiation	3	0.64	0.67	8.73	278.90
+GO:0043542	endothelial cell migration	2	0.80	0.75	9.14	24.97
+GO:0007517	muscle organ development	2	0.78	0.64	8.75	27.68
+GO:0071397	cellular response to cholesterol	2	1.00	0.85	9.63	437.71
+GO:0001942	hair follicle development	2	1.00	0.75	9.63	22.36
+GO:0071376	cellular response to corticotropin-releasing hormone stimulus	2	1.00	0.88	9.63	462.70
+GO:0001975	response to amphetamine	1	0.93	0.79	9.54	70.50
+GO:0045586	regulation of gamma-delta T cell differentiation	1	0.89	0.84	9.52	166.67
+GO:0007274	neuromuscular synaptic transmission	1	0.93	0.84	9.52	25.74
+GO:0060279	positive regulation of ovulation	1	1.00	0.79	9.63	118.07
+GO:0090266	regulation of mitotic cell cycle spindle assembly checkpoint	1	0.87	0.88	9.55	280.44
+GO:0006094	gluconeogenesis	1	1.00	0.85	9.63	174.61
+GO:0048168	regulation of neuronal synaptic plasticity	1	0.80	0.77	9.22	41.66
+GO:0042053	regulation of dopamine metabolic process	1	0.83	0.76	9.45	57.43
+GO:0046880	regulation of follicle-stimulating hormone secretion	1	0.89	0.84	9.52	88.57
+GO:0032713	negative regulation of interleukin-4 production	1	0.93	0.79	9.52	64.97
+GO:0042541	hemoglobin biosynthetic process	1	1.00	0.82	9.63	238.03
+GO:0042701	progesterone secretion	1	1.00	0.92	9.63	122.83
+GO:0045648	positive regulation of erythrocyte differentiation	1	0.93	0.84	9.58	358.80
+GO:0008344	adult locomotory behavior	1	0.84	0.62	9.16	24.58
+GO:0021952	central nervous system projection neuron axonogenesis	1	0.73	0.78	8.94	67.09
+GO:0036499	PERK-mediated unfolded protein response	1	1.00	0.82	9.63	80.02
+GO:0042416	dopamine biosynthetic process	1	0.93	0.84	9.59	507.85

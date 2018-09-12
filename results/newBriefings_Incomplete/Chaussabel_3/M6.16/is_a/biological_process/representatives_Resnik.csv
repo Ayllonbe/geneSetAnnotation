@@ -1,0 +1,39 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	578	0.09	0.05	0.84	3.37
+GO:0050794	regulation of cellular process	423	0.12	0.26	2.47	7.96
+GO:0006564	L-serine biosynthetic process	2	1.00	0.92	9.63	563.10
+GO:0034641	cellular nitrogen compound metabolic process	243	0.26	0.33	4.23	26.70
+GO:0016043	cellular component organization	199	0.28	0.26	3.74	11.45
+GO:0006351	transcription, DNA-templated	115	0.57	0.68	8.45	581.39
+GO:0032502	developmental process	109	0.22	0.11	1.89	3.37
+GO:0010629	negative regulation of gene expression	84	0.47	0.56	6.74	59.05
+GO:0008104	protein localization	84	0.40	0.40	5.07	7.46
+GO:0031399	regulation of protein modification process	79	0.41	0.56	6.69	72.96
+GO:0042177	negative regulation of protein catabolic process	3	0.71	0.71	9.11	231.82
+GO:0045596	negative regulation of cell differentiation	23	0.44	0.51	6.50	82.79
+GO:2000026	regulation of multicellular organismal development	71	0.29	0.39	4.73	23.09
+GO:0010033	response to organic substance	70	0.35	0.37	4.75	9.28
+GO:0035690	cellular response to drug	9	0.56	0.53	7.02	41.91
+GO:0044093	positive regulation of molecular function	68	0.43	0.41	5.23	6.77
+GO:0045944	positive regulation of transcription by RNA polymerase II	67	0.55	0.71	8.36	1463.86
+GO:0044265	cellular macromolecule catabolic process	60	0.55	0.56	7.70	100.33
+GO:0016310	phosphorylation	53	0.53	0.56	6.88	24.41
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	3	0.68	0.71	8.88	231.14
+GO:0006259	DNA metabolic process	50	0.45	0.55	7.12	145.26
+GO:0008284	positive regulation of cell proliferation	36	0.56	0.57	7.27	43.45
+GO:0043066	negative regulation of apoptotic process	35	0.56	0.63	7.79	81.07
+GO:0006952	defense response	31	0.56	0.48	6.67	9.54
+GO:0016567	protein ubiquitination	30	0.69	0.74	9.00	153.79
+GO:0043687	post-translational protein modification	17	0.65	0.67	8.51	151.15
+GO:2000779	regulation of double-strand break repair	5	0.74	0.75	9.27	106.94
+GO:0090329	regulation of DNA-dependent DNA replication	11	0.62	0.69	8.66	151.84
+GO:0051310	metaphase plate congression	7	0.84	0.74	9.34	45.44
+GO:0043433	negative regulation of DNA binding transcription factor activity	5	0.81	0.84	9.47	278.01
+GO:0071479	cellular response to ionizing radiation	4	0.89	0.77	9.45	48.66
+GO:0010529	negative regulation of transposition	3	0.87	0.72	9.27	41.76
+GO:0016554	cytidine to uridine editing	2	1.00	0.90	9.63	133.94
+GO:0045869	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	2	1.00	0.90	9.63	106.49
+GO:0014898	cardiac muscle hypertrophy in response to stress	2	1.00	0.85	9.63	75.67
+GO:0048387	negative regulation of retinoic acid receptor signaling pathway	2	1.00	0.85	9.63	187.41
+GO:1905342	positive regulation of protein localization to kinetochore	1	1.00	0.85	9.63	73.71
+GO:0048754	branching morphogenesis of an epithelial tube	1	0.74	0.69	8.88	51.71

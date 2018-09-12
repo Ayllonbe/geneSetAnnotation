@@ -1,0 +1,45 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048523	negative regulation of cellular process	347	0.24	0.37	3.90	23.93
+GO:0009966	regulation of signal transduction	291	0.33	0.45	5.35	37.59
+GO:0070887	cellular response to chemical stimulus	190	0.40	0.40	5.31	25.21
+GO:0022607	cellular component assembly	188	0.39	0.39	5.06	14.95
+GO:0030154	cell differentiation	155	0.39	0.39	5.18	16.68
+GO:0016477	cell migration	128	0.47	0.48	6.31	17.13
+GO:0008284	positive regulation of cell proliferation	126	0.56	0.57	7.27	43.45
+GO:0043312	neutrophil degranulation	119	1.00	0.90	9.63	132.80
+GO:0045893	positive regulation of transcription, DNA-templated	111	0.52	0.67	8.14	1208.12
+GO:2000147	positive regulation of cell motility	84	0.58	0.61	8.05	115.84
+GO:0055074	calcium ion homeostasis	75	0.63	0.69	8.47	72.15
+GO:0032496	response to lipopolysaccharide	72	0.89	0.74	9.45	64.41
+GO:0007010	cytoskeleton organization	50	0.52	0.51	6.76	18.35
+GO:0042742	defense response to bacterium	49	0.79	0.72	9.19	69.65
+GO:0002690	positive regulation of leukocyte chemotaxis	30	0.75	0.77	9.33	423.36
+GO:0006816	calcium ion transport	27	0.67	0.71	8.69	35.67
+GO:0001666	response to hypoxia	26	0.81	0.70	9.12	21.16
+GO:0000902	cell morphogenesis	22	0.63	0.56	7.92	43.26
+GO:0009888	tissue development	19	0.47	0.44	5.74	11.73
+GO:0043393	regulation of protein binding	18	0.59	0.55	7.49	9.33
+GO:0007043	cell-cell junction assembly	13	0.75	0.67	8.82	53.94
+GO:1902476	chloride transmembrane transport	11	1.00	0.88	9.63	110.52
+GO:0072659	protein localization to plasma membrane	10	0.79	0.72	9.26	65.43
+GO:0045471	response to ethanol	8	0.93	0.76	9.52	69.73
+GO:0001701	in utero embryonic development	8	1.00	0.85	9.63	22.50
+GO:0010718	positive regulation of epithelial to mesenchymal transition	6	0.81	0.73	9.38	170.70
+GO:0042307	positive regulation of protein import into nucleus	6	0.93	0.86	9.59	778.75
+GO:0032570	response to progesterone	6	0.93	0.79	9.55	105.99
+GO:0086091	regulation of heart rate by cardiac conduction	5	1.00	0.88	9.63	61.17
+GO:0034142	toll-like receptor 4 signaling pathway	5	0.84	0.87	9.49	412.65
+GO:0007565	female pregnancy	4	1.00	0.70	9.63	32.81
+GO:0098911	regulation of ventricular cardiac muscle cell action potential	4	0.79	0.81	9.54	102.35
+GO:0018149	peptide cross-linking	4	0.60	0.65	8.12	151.15
+GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
+GO:0051894	positive regulation of focal adhesion assembly	3	1.00	0.88	9.63	280.50
+GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	2	1.00	0.82	9.63	24.26
+GO:1902373	negative regulation of mRNA catabolic process	2	0.80	0.80	9.48	1058.35
+GO:0071681	cellular response to indole-3-methanol	2	1.00	0.82	9.63	467.41
+GO:0023019	signal transduction involved in regulation of gene expression	2	1.00	0.79	9.63	23.17
+GO:0032463	negative regulation of protein homooligomerization	1	0.93	0.84	9.56	148.87
+GO:0001839	neural plate morphogenesis	1	1.00	0.82	9.63	34.31
+GO:0003383	apical constriction	1	0.89	0.74	9.47	20.96
+GO:0032525	somite rostral/caudal axis specification	1	1.00	0.79	9.63	40.32
+GO:0035635	entry of bacterium into host cell	1	1.00	0.85	9.63	28.37

@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	705	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	433	0.24	0.37	3.90	23.85
+GO:2000026	regulation of multicellular organismal development	173	0.29	0.39	4.73	23.09
+GO:0044267	cellular protein metabolic process	145	0.34	0.46	5.57	80.87
+GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
+GO:0030154	cell differentiation	144	0.39	0.39	5.18	16.68
+GO:0006357	regulation of transcription by RNA polymerase II	133	0.44	0.63	7.11	248.57
+GO:0043312	neutrophil degranulation	115	1.00	0.90	9.63	132.80
+GO:0001934	positive regulation of protein phosphorylation	110	0.58	0.69	8.60	663.11
+GO:0045893	positive regulation of transcription, DNA-templated	101	0.52	0.67	8.14	1208.12
+GO:0006351	transcription, DNA-templated	81	0.57	0.68	8.45	581.39
+GO:0045597	positive regulation of cell differentiation	80	0.45	0.51	6.57	82.53
+GO:0010469	regulation of signaling receptor activity	69	0.59	0.62	7.95	48.62
+GO:0000122	negative regulation of transcription by RNA polymerase II	49	0.61	0.74	8.79	1836.95
+GO:0048513	animal organ development	47	0.50	0.45	5.88	11.73
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	28	0.69	0.74	9.07	111.97
+GO:0071363	cellular response to growth factor stimulus	23	0.77	0.67	8.94	60.39
+GO:0048608	reproductive structure development	22	0.61	0.50	7.37	31.35
+GO:0048704	embryonic skeletal system morphogenesis	13	0.87	0.72	9.38	45.49
+GO:0016525	negative regulation of angiogenesis	12	0.81	0.78	9.32	151.11
+GO:0048754	branching morphogenesis of an epithelial tube	11	0.74	0.69	8.88	51.71
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	10	1.00	0.88	9.63	238.42
+GO:0070301	cellular response to hydrogen peroxide	8	1.00	0.82	9.63	361.03
+GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	6	0.89	0.82	9.54	374.75
+GO:0034968	histone lysine methylation	5	0.71	0.77	9.27	765.80
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0006144	purine nucleobase metabolic process	4	0.70	0.70	9.17	248.66
+GO:0071230	cellular response to amino acid stimulus	3	0.71	0.68	8.96	283.90
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	3	1.00	0.88	9.63	298.04
+GO:0042572	retinol metabolic process	3	1.00	0.90	9.63	118.01
+GO:0072126	positive regulation of glomerular mesangial cell proliferation	2	0.89	0.82	9.54	500.59
+GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81
+GO:2000439	positive regulation of monocyte extravasation	2	1.00	0.92	9.63	703.52
+GO:0060535	trachea cartilage morphogenesis	1	1.00	0.79	9.63	28.83
+GO:0010870	positive regulation of receptor biosynthetic process	1	0.84	0.77	9.47	258.62
+GO:0071673	positive regulation of smooth muscle cell chemotaxis	1	1.00	0.90	9.63	372.19
+GO:0001759	organ induction	1	0.84	0.77	9.38	112.34
+GO:0070327	thyroid hormone transport	1	1.00	0.79	9.63	23.79
+GO:0045647	negative regulation of erythrocyte differentiation	1	0.93	0.84	9.58	359.68
+GO:0060480	lung goblet cell differentiation	1	1.00	0.85	9.63	75.98

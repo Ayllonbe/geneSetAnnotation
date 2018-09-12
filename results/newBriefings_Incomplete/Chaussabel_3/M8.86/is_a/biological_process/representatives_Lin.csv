@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006810	transport	185	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	173	0.31	0.41	4.91	44.77
+GO:0065008	regulation of biological quality	87	0.28	0.26	3.48	4.47
+GO:0070887	cellular response to chemical stimulus	60	0.40	0.40	5.31	25.21
+GO:0002694	regulation of leukocyte activation	23	0.46	0.52	6.81	24.92
+GO:0046718	viral entry into host cell	8	0.77	0.73	8.94	28.37
+GO:0006446	regulation of translational initiation	4	0.62	0.69	8.74	215.82
+GO:0030316	osteoclast differentiation	1	0.93	0.79	9.51	47.07
+GO:0038114	interleukin-21-mediated signaling pathway	1	1.00	0.85	9.63	30.19

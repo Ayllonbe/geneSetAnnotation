@@ -1,0 +1,50 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	821	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	4973	0.09	0.05	0.84	3.37
+GO:0048583	regulation of response to stimulus	1461	0.25	0.32	3.72	7.96
+GO:0050794	regulation of cellular process	3613	0.12	0.26	2.47	7.96
+GO:0051179	localization	1699	0.26	0.13	2.57	3.37
+GO:0050896	response to stimulus	1542	0.25	0.12	2.65	3.37
+GO:0006355	regulation of transcription, DNA-templated	1406	0.40	0.60	6.84	245.35
+GO:0043933	protein-containing complex subunit organization	788	0.43	0.41	5.44	14.95
+GO:0006996	organelle organization	841	0.39	0.39	5.17	14.95
+GO:0006464	cellular protein modification process	1204	0.34	0.49	5.84	147.03
+GO:0009259	ribonucleotide metabolic process	121	0.52	0.63	8.00	247.77
+GO:0006464	cellular protein modification process	1204	0.34	0.49	5.84	147.03
+GO:0009259	ribonucleotide metabolic process	121	0.52	0.63	8.00	247.77
+GO:0006464	cellular protein modification process	1204	0.34	0.49	5.84	147.03
+GO:0009259	ribonucleotide metabolic process	121	0.52	0.63	8.00	247.77
+GO:0051973	positive regulation of telomerase activity	16	0.93	0.86	9.60	952.43
+GO:0032268	regulation of cellular protein metabolic process	984	0.37	0.51	6.13	70.76
+GO:0051973	positive regulation of telomerase activity	16	0.93	0.86	9.60	952.43
+GO:0032268	regulation of cellular protein metabolic process	984	0.37	0.51	6.13	70.76
+GO:0032774	RNA biosynthetic process	986	0.53	0.62	8.04	473.34
+GO:0006357	regulation of transcription by RNA polymerase II	976	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	947	0.30	0.40	4.57	12.04
+GO:0007166	cell surface receptor signaling pathway	814	0.43	0.51	5.91	23.17
+GO:0048869	cellular developmental process	767	0.32	0.29	4.16	13.85
+GO:0010629	negative regulation of gene expression	681	0.47	0.56	6.74	59.05
+GO:0042127	regulation of cell proliferation	530	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	498	0.55	0.57	7.34	47.86
+GO:0006629	lipid metabolic process	431	0.37	0.38	5.19	18.42
+GO:0042327	positive regulation of phosphorylation	365	0.56	0.66	8.02	180.93
+GO:0006396	RNA processing	335	0.49	0.60	7.48	115.08
+GO:0042795	snRNA transcription by RNA polymerase II	43	1.00	0.95	9.63	1410.65
+GO:0006259	DNA metabolic process	346	0.45	0.55	7.12	145.26
+GO:0010564	regulation of cell cycle process	328	0.42	0.50	6.22	14.24
+GO:1903047	mitotic cell cycle process	314	0.50	0.45	5.87	11.32
+GO:0019725	cellular homeostasis	267	0.53	0.52	6.93	17.82
+GO:0048513	animal organ development	163	0.50	0.45	5.88	11.73
+GO:0006091	generation of precursor metabolites and energy	144	0.53	0.46	6.54	17.52
+GO:0006401	RNA catabolic process	106	0.59	0.65	8.78	532.61
+GO:0007162	negative regulation of cell adhesion	101	0.57	0.57	7.40	38.27
+GO:0006412	translation	90	0.87	0.78	9.51	402.56
+GO:0001701	in utero embryonic development	73	1.00	0.85	9.63	22.50
+GO:0006414	translational elongation	69	0.77	0.71	9.12	105.16
+GO:0030178	negative regulation of Wnt signaling pathway	53	0.68	0.69	8.78	188.92
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	29	0.68	0.71	8.88	231.14
+GO:0060760	positive regulation of response to cytokine stimulus	27	0.70	0.64	8.44	40.71
+GO:0045540	regulation of cholesterol biosynthetic process	23	0.89	0.84	9.49	116.99
+GO:0051085	chaperone cofactor-dependent protein refolding	18	1.00	0.79	9.63	21.14
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	16	1.00	0.92	9.63	185.81
+GO:0060628	regulation of ER to Golgi vesicle-mediated transport	8	0.81	0.73	9.26	59.76

@@ -1,0 +1,31 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	1019	0.09	0.05	0.84	3.37
+GO:0044093	positive regulation of molecular function	180	0.43	0.41	5.23	6.77
+GO:0080134	regulation of response to stress	144	0.35	0.42	5.03	11.65
+GO:0010628	positive regulation of gene expression	144	0.47	0.56	6.67	58.80
+GO:0006996	organelle organization	142	0.39	0.39	5.17	14.95
+GO:0051704	multi-organism process	131	0.29	0.15	3.12	3.37
+GO:0043312	neutrophil degranulation	123	1.00	0.90	9.63	132.80
+GO:0046907	intracellular transport	90	0.46	0.48	6.38	29.65
+GO:0034504	protein localization to nucleus	16	0.72	0.68	8.76	32.77
+GO:0034622	cellular protein-containing complex assembly	78	0.48	0.53	6.52	40.42
+GO:0030162	regulation of proteolysis	62	0.51	0.58	7.47	43.98
+GO:0006508	proteolysis	61	0.55	0.57	7.34	47.86
+GO:0006397	mRNA processing	23	0.71	0.73	9.17	234.35
+GO:0043687	post-translational protein modification	21	0.65	0.67	8.51	151.15
+GO:0006352	DNA-templated transcription, initiation	18	0.83	0.79	9.45	475.54
+GO:0034660	ncRNA metabolic process	13	0.46	0.58	7.25	115.08
+GO:0030307	positive regulation of cell growth	13	0.70	0.67	8.71	80.65
+GO:0001649	osteoblast differentiation	12	1.00	0.75	9.63	21.07
+GO:0008543	fibroblast growth factor receptor signaling pathway	10	0.71	0.73	8.57	31.00
+GO:0045471	response to ethanol	9	0.93	0.76	9.52	69.73
+GO:0060964	regulation of gene silencing by miRNA	8	0.74	0.74	9.16	63.20
+GO:0006368	transcription elongation from RNA polymerase II promoter	8	1.00	0.90	9.63	477.15
+GO:0060760	positive regulation of response to cytokine stimulus	6	0.70	0.64	8.44	40.71
+GO:0006363	termination of RNA polymerase I transcription	5	1.00	0.90	9.63	477.15
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0006356	regulation of transcription by RNA polymerase I	3	0.75	0.79	9.31	248.57
+GO:0006383	transcription by RNA polymerase III	3	0.84	0.84	9.50	583.88
+GO:0043966	histone H3 acetylation	3	0.77	0.83	9.35	659.45
+GO:0030521	androgen receptor signaling pathway	2	0.89	0.82	9.45	54.01
+GO:0046039	GTP metabolic process	2	0.89	0.86	9.57	1313.88

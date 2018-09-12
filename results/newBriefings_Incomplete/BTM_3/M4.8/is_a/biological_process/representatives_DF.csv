@@ -1,0 +1,90 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006464	cellular protein modification process	372	0.34	0.49	5.84	147.03
+GO:0034654	nucleobase-containing compound biosynthetic process	319	0.40	0.49	6.85	317.02
+GO:0010628	positive regulation of gene expression	317	0.47	0.56	6.67	58.80
+GO:0071310	cellular response to organic substance	316	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	312	0.39	0.39	5.18	16.68
+GO:0008284	positive regulation of cell proliferation	257	0.56	0.57	7.27	43.45
+GO:0010629	negative regulation of gene expression	225	0.47	0.56	6.74	59.05
+GO:0043066	negative regulation of apoptotic process	215	0.56	0.63	7.79	81.07
+GO:0045944	positive regulation of transcription by RNA polymerase II	202	0.55	0.71	8.36	1463.86
+GO:0045087	innate immune response	166	0.68	0.59	8.16	26.47
+GO:0045892	negative regulation of transcription, DNA-templated	166	0.56	0.69	8.52	1581.26
+GO:0008285	negative regulation of cell proliferation	160	0.56	0.57	7.31	43.61
+GO:0009725	response to hormone	156	0.53	0.51	7.03	21.86
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0043065	positive regulation of apoptotic process	140	0.56	0.63	7.81	80.91
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	26	0.61	0.63	8.36	112.25
+GO:0006259	DNA metabolic process	124	0.45	0.55	7.12	145.26
+GO:0071417	cellular response to organonitrogen compound	104	0.53	0.56	7.37	128.53
+GO:0001933	negative regulation of protein phosphorylation	86	0.61	0.70	8.76	664.69
+GO:0055086	nucleobase-containing small molecule metabolic process	86	0.38	0.48	6.63	107.58
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0006281	DNA repair	76	0.63	0.66	8.78	180.34
+GO:0002218	activation of innate immune response	70	0.62	0.69	8.53	265.71
+GO:0048608	reproductive structure development	53	0.61	0.50	7.37	31.35
+GO:0051054	positive regulation of DNA metabolic process	52	0.59	0.65	8.41	301.51
+GO:0006511	ubiquitin-dependent protein catabolic process	49	0.74	0.74	9.19	156.45
+GO:0007265	Ras protein signal transduction	41	0.76	0.73	8.94	27.53
+GO:2001235	positive regulation of apoptotic signaling pathway	38	0.70	0.72	9.18	291.46
+GO:0000082	G1/S transition of mitotic cell cycle	37	1.00	0.79	9.63	42.75
+GO:0048639	positive regulation of developmental growth	30	0.64	0.61	8.27	76.49
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0048754	branching morphogenesis of an epithelial tube	28	0.74	0.69	8.88	51.71
+GO:0007093	mitotic cell cycle checkpoint	26	0.71	0.71	9.01	132.20
+GO:0006405	RNA export from nucleus	24	0.71	0.73	9.03	77.48
+GO:0007051	spindle organization	24	0.69	0.67	8.69	44.52
+GO:0000723	telomere maintenance	24	0.73	0.72	9.29	183.02
+GO:0070301	cellular response to hydrogen peroxide	23	1.00	0.82	9.63	361.03
+GO:0032481	positive regulation of type I interferon production	22	0.81	0.73	9.26	65.24
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	21	0.93	0.82	9.56	84.23
+GO:0071260	cellular response to mechanical stimulus	20	1.00	0.79	9.63	56.12
+GO:0006334	nucleosome assembly	19	0.87	0.78	9.47	104.52
+GO:0034644	cellular response to UV	17	0.80	0.75	9.22	66.19
+GO:0006606	protein import into nucleus	17	0.89	0.84	9.55	277.54
+GO:0031570	DNA integrity checkpoint	17	0.75	0.73	9.22	53.07
+GO:0072431	signal transduction involved in mitotic G1 DNA damage checkpoint	15	0.93	0.88	9.60	717.66
+GO:0042177	negative regulation of protein catabolic process	14	0.71	0.71	9.11	231.82
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	13	0.89	0.86	9.54	264.07
+GO:0071548	response to dexamethasone	13	0.93	0.84	9.57	124.89
+GO:0000281	mitotic cytokinesis	13	0.93	0.76	9.47	28.62
+GO:2000104	negative regulation of DNA-dependent DNA replication	12	0.71	0.75	9.25	982.58
+GO:0000070	mitotic sister chromatid segregation	11	1.00	0.82	9.63	56.84
+GO:0097421	liver regeneration	10	1.00	0.82	9.63	47.22
+GO:0048538	thymus development	9	1.00	0.79	9.63	35.89
+GO:0044818	mitotic G2/M transition checkpoint	9	0.89	0.86	9.55	492.82
+GO:0045739	positive regulation of DNA repair	8	0.77	0.76	9.36	499.62
+GO:0033077	T cell differentiation in thymus	8	0.87	0.78	9.42	66.99
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:2000773	negative regulation of cellular senescence	7	1.00	0.85	9.63	164.43
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	7	1.00	0.85	9.63	76.31
+GO:0090398	cellular senescence	7	0.87	0.68	9.45	55.14
+GO:0007094	mitotic spindle assembly checkpoint	7	1.00	0.96	9.63	1801.80
+GO:0071480	cellular response to gamma radiation	6	1.00	0.85	9.63	60.40
+GO:0002638	negative regulation of immunoglobulin production	6	0.80	0.75	9.19	77.13
+GO:0033151	V(D)J recombination	5	0.84	0.84	9.49	161.93
+GO:0035234	ectopic germ cell programmed cell death	5	1.00	0.79	9.63	49.33
+GO:0001756	somitogenesis	4	1.00	0.79	9.63	43.80
+GO:0051573	negative regulation of histone H3-K9 methylation	4	0.89	0.88	9.57	805.14
+GO:0060707	trophoblast giant cell differentiation	4	1.00	0.79	9.63	42.29
+GO:0006306	DNA methylation	4	0.74	0.77	9.25	389.47
+GO:0072711	cellular response to hydroxyurea	3	1.00	0.82	9.63	186.99
+GO:0032077	positive regulation of deoxyribonuclease activity	3	0.89	0.82	9.56	813.64
+GO:0008089	anterograde axonal transport	3	0.83	0.81	9.41	71.10
+GO:0051571	positive regulation of histone H3-K4 methylation	3	0.93	0.90	9.60	804.04
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0051256	mitotic spindle midzone assembly	3	1.00	0.79	9.63	55.95
+GO:0046604	positive regulation of mitotic centrosome separation	2	1.00	0.92	9.63	603.27
+GO:0072719	cellular response to cisplatin	2	1.00	0.82	9.63	120.46
+GO:0032466	negative regulation of cytokinesis	2	0.71	0.71	9.02	142.53
+GO:0009221	pyrimidine deoxyribonucleotide biosynthetic process	2	0.75	0.81	9.45	3235.66
+GO:1904667	negative regulation of ubiquitin protein ligase activity	2	1.00	0.95	9.63	755.45
+GO:0090267	positive regulation of mitotic cell cycle spindle assembly checkpoint	2	0.93	0.93	9.60	471.15
+GO:0043137	DNA replication, removal of RNA primer	2	0.93	0.84	9.59	683.73
+GO:1905931	negative regulation of vascular smooth muscle cell differentiation involved in phenotypic switching	1	1.00	0.90	9.63	572.87
+GO:1905775	negative regulation of DNA helicase activity	1	0.93	0.86	9.59	205.11
+GO:0090309	positive regulation of methylation-dependent chromatin silencing	1	1.00	0.95	9.63	1109.13
+GO:0046940	nucleoside monophosphate phosphorylation	1	0.84	0.82	9.51	900.13
+GO:2001229	negative regulation of response to gamma radiation	1	0.93	0.76	9.49	40.32

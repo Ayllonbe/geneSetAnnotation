@@ -1,0 +1,10 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0009987	cellular process	4709	0.09	0.05	0.84	3.37
+GO:0044093	positive regulation of molecular function	608	0.43	0.41	5.23	6.77
+GO:0002692	negative regulation of cellular extravasation	5	0.79	0.79	9.37	296.76
+GO:0050789	regulation of biological process	3604	0.09	0.17	1.80	4.47
+GO:0008104	protein localization	696	0.40	0.40	5.07	7.46
+GO:0006810	transport	1415	0.28	0.34	3.95	7.46
+GO:0050896	response to stimulus	1461	0.25	0.12	2.65	3.37
+GO:0032501	multicellular organismal process	387	0.33	0.16	3.12	3.37
+GO:0046718	viral entry into host cell	37	0.77	0.73	8.94	28.37

@@ -1,0 +1,85 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	120	0.36	0.43	5.06	19.43
+GO:0048523	negative regulation of cellular process	104	0.24	0.37	3.90	23.93
+GO:0019538	protein metabolic process	70	0.31	0.41	4.91	44.77
+GO:0010033	response to organic substance	62	0.35	0.37	4.75	9.28
+GO:0030154	cell differentiation	54	0.39	0.39	5.18	16.68
+GO:0033554	cellular response to stress	53	0.44	0.42	6.05	25.47
+GO:0006464	cellular protein modification process	52	0.34	0.49	5.84	147.03
+GO:0001932	regulation of protein phosphorylation	47	0.50	0.62	7.64	109.03
+GO:0045893	positive regulation of transcription, DNA-templated	46	0.52	0.67	8.14	1208.12
+GO:0046907	intracellular transport	40	0.46	0.48	6.38	29.65
+GO:0006955	immune response	34	0.54	0.40	6.57	12.45
+GO:0031401	positive regulation of protein modification process	33	0.51	0.63	7.86	366.05
+GO:0050778	positive regulation of immune response	31	0.46	0.52	6.76	78.39
+GO:1902533	positive regulation of intracellular signal transduction	28	0.55	0.63	7.95	189.48
+GO:0051050	positive regulation of transport	28	0.42	0.50	5.84	25.90
+GO:0000122	negative regulation of transcription by RNA polymerase II	26	0.61	0.74	8.79	1836.95
+GO:0098542	defense response to other organism	23	0.66	0.62	8.42	39.21
+GO:0043066	negative regulation of apoptotic process	23	0.56	0.63	7.79	81.07
+GO:0030334	regulation of cell migration	18	0.48	0.56	7.11	36.74
+GO:0044248	cellular catabolic process	17	0.31	0.36	4.57	26.23
+GO:0040008	regulation of growth	16	0.48	0.44	6.04	7.96
+GO:0006897	endocytosis	10	0.63	0.61	8.09	26.36
+GO:0051090	regulation of DNA binding transcription factor activity	10	0.72	0.77	9.22	255.34
+GO:0006874	cellular calcium ion homeostasis	9	0.63	0.71	8.83	287.08
+GO:0001819	positive regulation of cytokine production	9	0.51	0.54	6.97	44.26
+GO:0043312	neutrophil degranulation	8	1.00	0.90	9.63	132.80
+GO:0000038	very long-chain fatty acid metabolic process	3	0.89	0.82	9.49	93.73
+GO:0033559	unsaturated fatty acid metabolic process	7	0.66	0.71	8.83	93.73
+GO:0001676	long-chain fatty acid metabolic process	6	0.68	0.72	8.87	93.73
+GO:0000038	very long-chain fatty acid metabolic process	3	0.89	0.82	9.49	93.73
+GO:0032355	response to estradiol	7	0.93	0.76	9.52	74.25
+GO:0032496	response to lipopolysaccharide	7	0.89	0.74	9.45	64.41
+GO:0055085	transmembrane transport	7	0.41	0.46	5.44	10.99
+GO:0002224	toll-like receptor signaling pathway	6	0.68	0.77	9.04	409.66
+GO:0030217	T cell differentiation	5	0.66	0.65	8.68	65.05
+GO:0071260	cellular response to mechanical stimulus	5	1.00	0.79	9.63	56.12
+GO:0048812	neuron projection morphogenesis	5	0.65	0.68	8.50	63.00
+GO:0006633	fatty acid biosynthetic process	5	0.65	0.70	8.91	359.85
+GO:0032507	maintenance of protein location in cell	4	0.68	0.63	8.41	43.86
+GO:0042102	positive regulation of T cell proliferation	4	0.78	0.78	9.42	564.85
+GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	4	0.87	0.88	9.56	734.49
+GO:0042108	positive regulation of cytokine biosynthetic process	4	0.63	0.67	8.76	609.34
+GO:0030260	entry into host cell	4	0.74	0.69	8.68	26.99
+GO:0033280	response to vitamin D	3	0.93	0.82	9.55	74.56
+GO:0046949	fatty-acyl-CoA biosynthetic process	3	0.79	0.74	9.35	404.08
+GO:0045540	regulation of cholesterol biosynthetic process	3	0.89	0.84	9.49	116.99
+GO:0050729	positive regulation of inflammatory response	3	0.66	0.68	8.59	125.85
+GO:0050715	positive regulation of cytokine secretion	3	0.69	0.74	9.07	549.48
+GO:0045599	negative regulation of fat cell differentiation	2	0.93	0.79	9.54	114.62
+GO:0003091	renal water homeostasis	2	1.00	0.85	9.63	57.14
+GO:0001774	microglial cell activation	2	0.93	0.79	9.51	31.20
+GO:0036101	leukotriene B4 catabolic process	2	1.00	0.92	9.63	1158.12
+GO:0030539	male genitalia development	2	1.00	0.79	9.63	66.32
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus	2	1.00	0.82	9.63	81.65
+GO:0045657	positive regulation of monocyte differentiation	2	1.00	0.90	9.63	840.38
+GO:0070207	protein homotrimerization	2	1.00	0.85	9.63	85.45
+GO:0030433	ubiquitin-dependent ERAD pathway	1	0.93	0.88	9.60	603.05
+GO:0006749	glutathione metabolic process	1	0.84	0.74	9.36	147.29
+GO:0009584	detection of visible light	1	0.89	0.77	9.45	52.26
+GO:0060453	regulation of gastric acid secretion	1	0.83	0.74	9.43	33.40
+GO:0042360	vitamin E metabolic process	1	0.93	0.76	9.54	63.29
+GO:1901687	glutathione derivative biosynthetic process	1	0.93	0.76	9.56	153.57
+GO:1904037	positive regulation of epithelial cell apoptotic process	1	0.79	0.77	9.15	105.43
+GO:0036151	phosphatidylcholine acyl-chain remodeling	1	1.00	0.88	9.63	185.57
+GO:0044539	long-chain fatty acid import	1	1.00	0.93	9.63	75.03
+GO:0071449	cellular response to lipid hydroperoxide	1	1.00	0.82	9.63	183.56
+GO:0019432	triglyceride biosynthetic process	1	1.00	0.88	9.63	411.96
+GO:0007616	long-term memory	1	1.00	0.85	9.63	22.23
+GO:1902236	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	1	0.93	0.88	9.60	830.76
+GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
+GO:0070294	renal sodium ion absorption	1	0.93	0.86	9.56	61.19
+GO:0032305	positive regulation of icosanoid secretion	1	0.84	0.82	9.50	399.74
+GO:0032304	negative regulation of icosanoid secretion	1	0.89	0.84	9.54	400.21
+GO:0034201	response to oleic acid	1	0.93	0.79	9.51	46.19
+GO:0019064	fusion of virus membrane with host plasma membrane	1	0.93	0.82	9.54	56.73
+GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02
+GO:0006663	platelet activating factor biosynthetic process	1	1.00	0.88	9.63	769.80
+GO:0055078	sodium ion homeostasis	1	0.93	0.84	9.53	71.75
+GO:2001183	negative regulation of interleukin-12 secretion	1	1.00	0.92	9.63	753.97
+GO:1903892	negative regulation of ATF6-mediated unfolded protein response	1	1.00	0.90	9.63	384.79
+GO:0006695	cholesterol biosynthetic process	1	0.87	0.78	9.51	430.36
+GO:0030148	sphingolipid biosynthetic process	1	0.69	0.70	8.99	238.83
+GO:0051005	negative regulation of lipoprotein lipase activity	1	1.00	0.85	9.63	65.19
+GO:1901662	quinone catabolic process	1	0.74	0.69	9.09	260.83

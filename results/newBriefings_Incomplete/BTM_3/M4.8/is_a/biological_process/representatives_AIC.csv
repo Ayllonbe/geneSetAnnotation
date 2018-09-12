@@ -1,0 +1,61 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007165	signal transduction	853	0.36	0.43	5.06	19.43
+GO:0016043	cellular component organization	661	0.28	0.26	3.74	11.45
+GO:0010468	regulation of gene expression	568	0.35	0.46	5.09	13.73
+GO:0006355	regulation of transcription, DNA-templated	457	0.40	0.60	6.84	245.35
+GO:0006464	cellular protein modification process	372	0.34	0.49	5.84	147.03
+GO:0090304	nucleic acid metabolic process	367	0.35	0.46	5.97	111.15
+GO:0046939	nucleotide phosphorylation	5	0.67	0.71	8.91	199.75
+GO:0015949	nucleobase-containing small molecule interconversion	3	0.77	0.71	9.27	109.53
+GO:0042127	regulation of cell proliferation	367	0.45	0.48	6.03	12.04
+GO:0071310	cellular response to organic substance	316	0.44	0.47	5.95	41.66
+GO:0030154	cell differentiation	312	0.39	0.39	5.18	16.68
+GO:0051054	positive regulation of DNA metabolic process	52	0.59	0.65	8.41	301.51
+GO:0045944	positive regulation of transcription by RNA polymerase II	202	0.55	0.71	8.36	1463.86
+GO:0051054	positive regulation of DNA metabolic process	52	0.59	0.65	8.41	301.51
+GO:0045944	positive regulation of transcription by RNA polymerase II	202	0.55	0.71	8.36	1463.86
+GO:0033554	cellular response to stress	235	0.44	0.42	6.05	25.47
+GO:0043066	negative regulation of apoptotic process	215	0.56	0.63	7.79	81.07
+GO:0045087	innate immune response	166	0.68	0.59	8.16	26.47
+GO:0009725	response to hormone	156	0.53	0.51	7.03	21.86
+GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
+GO:0043065	positive regulation of apoptotic process	140	0.56	0.63	7.81	80.91
+GO:1903047	mitotic cell cycle process	138	0.50	0.45	5.87	11.32
+GO:0045786	negative regulation of cell cycle	108	0.51	0.54	7.10	42.35
+GO:0031400	negative regulation of protein modification process	104	0.53	0.64	7.94	366.95
+GO:0071417	cellular response to organonitrogen compound	104	0.53	0.56	7.37	128.53
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0035690	cellular response to drug	71	0.56	0.53	7.02	41.91
+GO:0002218	activation of innate immune response	70	0.62	0.69	8.53	265.71
+GO:0071214	cellular response to abiotic stimulus	54	0.59	0.54	7.66	24.78
+GO:0048608	reproductive structure development	53	0.61	0.50	7.37	31.35
+GO:0006511	ubiquitin-dependent protein catabolic process	49	0.74	0.74	9.19	156.45
+GO:0009165	nucleotide biosynthetic process	40	0.53	0.64	8.30	725.10
+GO:0048639	positive regulation of developmental growth	30	0.64	0.61	8.27	76.49
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	29	1.00	0.79	9.63	42.20
+GO:0016485	protein processing	28	0.65	0.65	8.32	99.81
+GO:0048754	branching morphogenesis of an epithelial tube	28	0.74	0.69	8.88	51.71
+GO:0006405	RNA export from nucleus	24	0.71	0.73	9.03	77.48
+GO:0070301	cellular response to hydrogen peroxide	23	1.00	0.82	9.63	361.03
+GO:0032481	positive regulation of type I interferon production	22	0.81	0.73	9.26	65.24
+GO:0048732	gland development	21	0.68	0.59	7.68	15.26
+GO:0006334	nucleosome assembly	19	0.87	0.78	9.47	104.52
+GO:0072431	signal transduction involved in mitotic G1 DNA damage checkpoint	15	0.93	0.88	9.60	717.66
+GO:0042177	negative regulation of protein catabolic process	14	0.71	0.71	9.11	231.82
+GO:2000104	negative regulation of DNA-dependent DNA replication	12	0.71	0.75	9.25	982.58
+GO:0044818	mitotic G2/M transition checkpoint	9	0.89	0.86	9.55	492.82
+GO:0033077	T cell differentiation in thymus	8	0.87	0.78	9.42	66.99
+GO:0006268	DNA unwinding involved in DNA replication	8	0.83	0.79	9.34	24.42
+GO:2000773	negative regulation of cellular senescence	7	1.00	0.85	9.63	164.43
+GO:0007094	mitotic spindle assembly checkpoint	7	1.00	0.96	9.63	1801.80
+GO:0002638	negative regulation of immunoglobulin production	6	0.80	0.75	9.19	77.13
+GO:0035234	ectopic germ cell programmed cell death	5	1.00	0.79	9.63	49.33
+GO:0001756	somitogenesis	4	1.00	0.79	9.63	43.80
+GO:0008089	anterograde axonal transport	3	0.83	0.81	9.41	71.10
+GO:0051571	positive regulation of histone H3-K4 methylation	3	0.93	0.90	9.60	804.04
+GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
+GO:0046604	positive regulation of mitotic centrosome separation	2	1.00	0.92	9.63	603.27
+GO:0090267	positive regulation of mitotic cell cycle spindle assembly checkpoint	2	0.93	0.93	9.60	471.15
+GO:1905931	negative regulation of vascular smooth muscle cell differentiation involved in phenotypic switching	1	1.00	0.90	9.63	572.87
+GO:1905775	negative regulation of DNA helicase activity	1	0.93	0.86	9.59	205.11
+GO:2001229	negative regulation of response to gamma radiation	1	0.93	0.76	9.49	40.32

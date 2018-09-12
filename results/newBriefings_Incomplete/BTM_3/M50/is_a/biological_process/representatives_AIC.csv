@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1371	0.12	0.26	2.47	7.96
+GO:0045124	regulation of bone resorption	16	0.89	0.77	9.38	23.48
+GO:1901564	organonitrogen compound metabolic process	630	0.23	0.31	3.63	19.40
+GO:0046488	phosphatidylinositol metabolic process	36	0.68	0.69	8.80	147.20
+GO:1901564	organonitrogen compound metabolic process	630	0.23	0.31	3.63	19.40
+GO:0046488	phosphatidylinositol metabolic process	36	0.68	0.69	8.80	147.20
+GO:0016043	cellular component organization	621	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	555	0.33	0.45	5.35	37.59
+GO:0051716	cellular response to stimulus	476	0.35	0.30	4.36	13.53
+GO:0006950	response to stress	456	0.39	0.32	4.70	6.14
+GO:0048869	cellular developmental process	429	0.32	0.29	4.16	13.85
+GO:0016192	vesicle-mediated transport	326	0.52	0.51	6.57	10.99
+GO:0001934	positive regulation of protein phosphorylation	206	0.58	0.69	8.60	663.11
+GO:0030335	positive regulation of cell migration	140	0.58	0.64	8.22	157.26
+GO:0050727	regulation of inflammatory response	108	0.53	0.59	7.40	31.59
+GO:0050707	regulation of cytokine secretion	66	0.59	0.67	8.36	114.42
+GO:0046718	viral entry into host cell	23	0.77	0.73	8.94	28.37
+GO:0002286	T cell activation involved in immune response	23	0.70	0.67	8.89	82.05
+GO:0010955	negative regulation of protein processing	14	0.72	0.76	9.28	707.20
+GO:0001916	positive regulation of T cell mediated cytotoxicity	8	0.87	0.83	9.52	365.14
+GO:0090331	negative regulation of platelet aggregation	4	0.93	0.88	9.60	548.67
+GO:0060603	mammary gland duct morphogenesis	1	1.00	0.82	9.63	32.21

@@ -1,0 +1,18 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0006357	regulation of transcription by RNA polymerase II	407	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	383	0.57	0.68	8.45	581.39
+GO:0050793	regulation of developmental process	377	0.26	0.33	3.95	7.96
+GO:0045893	positive regulation of transcription, DNA-templated	256	0.52	0.67	8.14	1208.12
+GO:0045892	negative regulation of transcription, DNA-templated	199	0.56	0.69	8.52	1581.26
+GO:0044255	cellular lipid metabolic process	148	0.38	0.44	5.89	38.02
+GO:0006396	RNA processing	147	0.49	0.60	7.48	115.08
+GO:0000226	microtubule cytoskeleton organization	74	0.58	0.58	7.66	30.31
+GO:0006914	autophagy	52	0.67	0.59	8.40	37.75
+GO:0000209	protein polyubiquitination	51	0.77	0.80	9.22	155.40
+GO:0090501	RNA phosphodiester bond hydrolysis	34	0.64	0.67	8.66	229.53
+GO:0010507	negative regulation of autophagy	14	0.74	0.72	9.12	217.48
+GO:0001938	positive regulation of endothelial cell proliferation	12	0.89	0.80	9.46	87.31
+GO:0006369	termination of RNA polymerase II transcription	10	0.89	0.84	9.55	477.15
+GO:0001570	vasculogenesis	10	0.89	0.70	9.29	21.07
+GO:0070267	oncosis	1	1.00	0.85	9.63	29.63
+GO:0046458	hexadecanal metabolic process	1	0.93	0.72	9.47	30.57

@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0065007	biological regulation	2386	0.08	0.04	0.98	3.37
+GO:0050789	regulation of biological process	2306	0.09	0.17	1.80	4.47
+GO:0044238	primary metabolic process	1925	0.19	0.22	2.60	6.41
+GO:0071704	organic substance metabolic process	2003	0.15	0.20	2.26	6.41
+GO:0033365	protein localization to organelle	154	0.50	0.54	7.01	29.83
+GO:0006810	transport	906	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	920	0.31	0.41	4.91	44.77
+GO:0090304	nucleic acid metabolic process	885	0.35	0.46	5.97	111.15
+GO:0051716	cellular response to stimulus	668	0.35	0.30	4.36	13.53
+GO:0032496	response to lipopolysaccharide	81	0.89	0.74	9.45	64.41
+GO:0051716	cellular response to stimulus	668	0.35	0.30	4.36	13.53
+GO:0032496	response to lipopolysaccharide	81	0.89	0.74	9.45	64.41
+GO:1902531	regulation of intracellular signal transduction	423	0.45	0.55	6.77	41.85
+GO:0035556	intracellular signal transduction	408	0.51	0.55	6.92	23.17
+GO:0051240	positive regulation of multicellular organismal process	349	0.35	0.42	4.98	23.60
+GO:0022402	cell cycle process	260	0.40	0.32	4.60	7.39
+GO:0008284	positive regulation of cell proliferation	190	0.56	0.57	7.27	43.45
+GO:0031329	regulation of cellular catabolic process	184	0.43	0.51	6.41	39.60
+GO:0019221	cytokine-mediated signaling pathway	170	0.60	0.63	7.60	26.50
+GO:0016243	regulation of autophagosome size	1	0.89	0.77	9.46	49.42
+GO:0050801	ion homeostasis	140	0.50	0.54	6.88	13.14
+GO:0030030	cell projection organization	131	0.53	0.46	6.62	14.95
+GO:1901215	negative regulation of neuron death	45	0.76	0.70	9.05	58.54
+GO:0001701	in utero embryonic development	43	1.00	0.85	9.63	22.50
+GO:0002244	hematopoietic progenitor cell differentiation	20	0.81	0.66	8.94	21.07
+GO:0045540	regulation of cholesterol biosynthetic process	14	0.89	0.84	9.49	116.99

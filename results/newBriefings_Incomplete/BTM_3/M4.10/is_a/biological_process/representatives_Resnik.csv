@@ -1,0 +1,47 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0022414	reproductive process	116	0.35	0.17	3.17	3.37
+GO:0009987	cellular process	1419	0.09	0.05	0.84	3.37
+GO:0009987	cellular process	1419	0.09	0.05	0.84	3.37
+GO:0009987	cellular process	1419	0.09	0.05	0.84	3.37
+GO:0050789	regulation of biological process	1166	0.09	0.17	1.80	4.47
+GO:0031323	regulation of cellular metabolic process	601	0.22	0.36	4.01	22.77
+GO:0007166	cell surface receptor signaling pathway	447	0.43	0.51	5.91	23.17
+GO:0051239	regulation of multicellular organismal process	420	0.23	0.32	3.68	7.96
+GO:0051716	cellular response to stimulus	383	0.35	0.30	4.36	13.53
+GO:0010033	response to organic substance	351	0.35	0.37	4.75	9.28
+GO:0010035	response to inorganic substance	66	0.53	0.47	6.60	9.28
+GO:0044249	cellular biosynthetic process	321	0.29	0.34	4.29	26.87
+GO:0035556	intracellular signal transduction	239	0.51	0.55	6.92	23.17
+GO:0042981	regulation of apoptotic process	226	0.45	0.55	6.60	16.23
+GO:0010628	positive regulation of gene expression	219	0.47	0.56	6.67	58.80
+GO:0042592	homeostatic process	203	0.45	0.42	5.70	8.64
+GO:0008284	positive regulation of cell proliferation	202	0.56	0.57	7.27	43.45
+GO:0065003	protein-containing complex assembly	189	0.45	0.48	6.06	36.47
+GO:0048856	anatomical structure development	174	0.33	0.29	3.70	6.46
+GO:0008104	protein localization	159	0.40	0.40	5.07	7.46
+GO:0010629	negative regulation of gene expression	158	0.47	0.56	6.74	59.05
+GO:0051726	regulation of cell cycle	144	0.41	0.45	5.89	12.04
+GO:0006468	protein phosphorylation	123	0.57	0.64	8.18	177.76
+GO:0035335	peptidyl-tyrosine dephosphorylation	12	0.89	0.82	9.53	179.25
+GO:0006508	proteolysis	100	0.55	0.57	7.34	47.86
+GO:0051276	chromosome organization	78	0.55	0.52	6.96	18.35
+GO:1903827	regulation of cellular protein localization	68	0.48	0.53	6.86	25.72
+GO:0051052	regulation of DNA metabolic process	63	0.47	0.56	7.17	70.58
+GO:0006366	transcription by RNA polymerase II	58	0.60	0.72	8.61	583.88
+GO:0070647	protein modification by small protein conjugation or removal	52	0.61	0.66	8.44	151.15
+GO:0051640	organelle localization	45	0.49	0.45	6.08	7.87
+GO:0030855	epithelial cell differentiation	41	0.55	0.52	6.96	21.07
+GO:0043687	post-translational protein modification	36	0.65	0.67	8.51	151.15
+GO:0022411	cellular component disassembly	33	0.54	0.47	6.60	14.95
+GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0043009	chordate embryonic development	19	0.93	0.79	9.49	22.50
+GO:0040029	regulation of gene expression, epigenetic	16	0.63	0.64	7.86	16.68
+GO:0007569	cell aging	15	0.80	0.60	8.94	24.75
+GO:1901796	regulation of signal transduction by p53 class mediator	12	0.72	0.71	9.12	45.07
+GO:0000041	transition metal ion transport	11	0.61	0.66	7.94	17.36
+GO:2000378	negative regulation of reactive oxygen species metabolic process	6	0.78	0.71	9.25	113.13
+GO:0097186	amelogenesis	4	1.00	0.82	9.63	26.74
+GO:0030521	androgen receptor signaling pathway	4	0.89	0.82	9.45	54.01
+GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway	3	1.00	0.88	9.63	234.24
+GO:0055015	ventricular cardiac muscle cell development	3	1.00	0.85	9.63	69.56
+GO:0006359	regulation of transcription by RNA polymerase III	2	0.84	0.84	9.53	248.57

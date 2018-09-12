@@ -1,0 +1,60 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0002376	immune system process	571	0.38	0.19	3.93	3.37
+GO:0009987	cellular process	3354	0.09	0.05	0.84	3.37
+GO:0031323	regulation of cellular metabolic process	1569	0.22	0.36	4.01	22.77
+GO:2000112	regulation of cellular macromolecule biosynthetic process	1037	0.36	0.50	5.87	74.82
+GO:0006464	cellular protein modification process	830	0.34	0.49	5.84	147.03
+GO:0034645	cellular macromolecule biosynthetic process	738	0.47	0.53	6.91	102.76
+GO:0051128	regulation of cellular component organization	671	0.30	0.40	4.57	12.04
+GO:0051641	cellular localization	616	0.37	0.31	4.44	5.67
+GO:0043933	protein-containing complex subunit organization	504	0.43	0.41	5.44	14.95
+GO:0010033	response to organic substance	502	0.35	0.37	4.75	9.28
+GO:1902531	regulation of intracellular signal transduction	482	0.45	0.55	6.77	41.85
+GO:0035556	intracellular signal transduction	461	0.51	0.55	6.92	23.17
+GO:0010647	positive regulation of cell communication	439	0.42	0.50	5.88	43.28
+GO:0002682	regulation of immune system process	435	0.32	0.36	4.60	7.96
+GO:0010941	regulation of cell death	414	0.43	0.47	6.10	12.04
+GO:0001934	positive regulation of protein phosphorylation	245	0.58	0.69	8.60	663.11
+GO:0031400	negative regulation of protein modification process	185	0.53	0.64	7.94	366.95
+GO:0042127	regulation of cell proliferation	347	0.45	0.48	6.03	12.04
+GO:0006629	lipid metabolic process	290	0.37	0.38	5.19	18.42
+GO:0051241	negative regulation of multicellular organismal process	270	0.35	0.42	4.99	23.69
+GO:0034613	cellular protein localization	268	0.45	0.48	6.33	26.83
+GO:0043207	response to external biotic stimulus	231	0.41	0.40	5.91	16.64
+GO:0007010	cytoskeleton organization	222	0.52	0.51	6.76	18.35
+GO:0051345	positive regulation of hydrolase activity	216	0.57	0.57	7.42	32.99
+GO:0030334	regulation of cell migration	214	0.48	0.56	7.11	36.74
+GO:0019221	cytokine-mediated signaling pathway	201	0.60	0.63	7.60	26.50
+GO:0045786	negative regulation of cell cycle	171	0.51	0.54	7.10	42.35
+GO:0007186	G-protein coupled receptor signaling pathway	170	0.55	0.57	7.20	23.17
+GO:0060627	regulation of vesicle-mediated transport	154	0.48	0.53	6.81	26.12
+GO:0055082	cellular chemical homeostasis	152	0.54	0.56	7.37	33.04
+GO:0030030	cell projection organization	152	0.53	0.46	6.62	14.95
+GO:0048468	cell development	142	0.51	0.45	6.51	28.42
+GO:0061024	membrane organization	140	0.47	0.43	6.06	14.95
+GO:0009117	nucleotide metabolic process	122	0.44	0.57	7.31	170.44
+GO:0005975	carbohydrate metabolic process	103	0.38	0.39	5.46	18.42
+GO:0032102	negative regulation of response to external stimulus	84	0.51	0.55	6.94	42.31
+GO:0030855	epithelial cell differentiation	68	0.55	0.52	6.96	21.07
+GO:0006470	protein dephosphorylation	57	0.76	0.73	9.22	177.17
+GO:0016236	macroautophagy	35	0.77	0.67	8.94	39.83
+GO:0030182	neuron differentiation	34	0.58	0.54	7.21	21.07
+GO:0045598	regulation of fat cell differentiation	33	0.83	0.70	9.34	27.05
+GO:0060070	canonical Wnt signaling pathway	27	0.67	0.71	8.39	31.42
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	26	0.93	0.91	9.59	279.62
+GO:0051851	modification by host of symbiont morphology or physiology	25	0.54	0.56	7.41	24.28
+GO:0007589	body fluid secretion	18	0.80	0.69	9.00	24.01
+GO:0042769	DNA damage response, detection of DNA damage	13	0.79	0.68	9.14	39.84
+GO:0051290	protein heterotetramerization	9	1.00	0.85	9.63	85.45
+GO:0048709	oligodendrocyte differentiation	9	0.89	0.74	9.34	23.15
+GO:0044090	positive regulation of vacuole organization	7	0.84	0.77	9.32	90.77
+GO:0016139	glycoside catabolic process	4	0.71	0.68	8.71	75.13
+GO:0030913	paranodal junction assembly	3	1.00	0.82	9.63	88.99
+GO:0001921	positive regulation of receptor recycling	3	1.00	0.82	9.63	202.60
+GO:0006107	oxaloacetate metabolic process	2	0.87	0.78	9.37	49.23
+GO:0044147	negative regulation of development of symbiont involved in interaction with host	1	0.69	0.67	8.71	82.12
+GO:0002328	pro-B cell differentiation	1	1.00	0.82	9.63	23.26
+GO:1905597	positive regulation of low-density lipoprotein particle receptor binding	1	1.00	0.85	9.63	65.42
+GO:1905581	positive regulation of low-density lipoprotein particle clearance	1	1.00	0.82	9.63	57.51
+GO:0032804	negative regulation of low-density lipoprotein particle receptor catabolic process	1	1.00	0.90	9.63	1382.79
+GO:2000761	positive regulation of N-terminal peptidyl-lysine acetylation	1	1.00	0.93	9.63	926.29

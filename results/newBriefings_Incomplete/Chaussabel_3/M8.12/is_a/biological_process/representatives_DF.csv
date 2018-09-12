@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	3391	0.12	0.26	2.47	7.96
+GO:0006357	regulation of transcription by RNA polymerase II	907	0.44	0.63	7.11	248.57
+GO:0046907	intracellular transport	612	0.46	0.48	6.38	29.65
+GO:0051240	positive regulation of multicellular organismal process	526	0.35	0.42	4.98	23.60
+GO:0006468	protein phosphorylation	345	0.57	0.64	8.18	177.76
+GO:0043312	neutrophil degranulation	213	1.00	0.90	9.63	132.80
+GO:0043410	positive regulation of MAPK cascade	177	0.66	0.75	9.17	1017.24
+GO:0046488	phosphatidylinositol metabolic process	65	0.68	0.69	8.80	147.20
+GO:0010595	positive regulation of endothelial cell migration	40	0.83	0.81	9.49	298.63
+GO:0030449	regulation of complement activation	15	0.69	0.72	9.30	245.77
+GO:0002063	chondrocyte development	9	0.89	0.70	9.47	32.15
+GO:0006957	complement activation, alternative pathway	5	1.00	0.88	9.63	200.06
+GO:0061723	glycophagy	1	1.00	0.90	9.63	739.60

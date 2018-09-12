@@ -1,0 +1,30 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032879	regulation of localization	553	0.27	0.33	4.05	7.96
+GO:0050794	regulation of cellular process	1587	0.12	0.26	2.47	7.96
+GO:0009892	negative regulation of metabolic process	440	0.32	0.41	4.73	22.63
+GO:0048518	positive regulation of biological process	1111	0.21	0.30	3.05	7.96
+GO:0019538	protein metabolic process	561	0.31	0.41	4.91	44.77
+GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
+GO:0006810	transport	697	0.28	0.34	3.95	7.46
+GO:0002376	immune system process	640	0.38	0.19	3.93	3.37
+GO:0009966	regulation of signal transduction	617	0.33	0.45	5.35	37.59
+GO:0007166	cell surface receptor signaling pathway	615	0.43	0.51	5.91	23.17
+GO:0050793	regulation of developmental process	518	0.26	0.33	3.95	7.96
+GO:0010613	positive regulation of cardiac muscle hypertrophy	8	0.89	0.82	9.49	95.58
+GO:0010033	response to organic substance	469	0.35	0.37	4.75	9.28
+GO:0009628	response to abiotic stimulus	154	0.46	0.35	5.43	6.14
+GO:0009605	response to external stimulus	341	0.37	0.31	4.62	6.14
+GO:0030154	cell differentiation	330	0.39	0.39	5.18	16.68
+GO:0032940	secretion by cell	293	0.48	0.53	6.33	20.46
+GO:0043066	negative regulation of apoptotic process	228	0.56	0.63	7.79	81.07
+GO:0016477	cell migration	223	0.47	0.48	6.31	17.13
+GO:0050794	regulation of cellular process	1587	0.12	0.26	2.47	7.96
+GO:0030155	regulation of cell adhesion	206	0.48	0.44	5.95	7.96
+GO:0009653	anatomical structure morphogenesis	175	0.36	0.31	4.09	6.46
+GO:0000226	microtubule cytoskeleton organization	65	0.58	0.58	7.66	30.31
+GO:0006633	fatty acid biosynthetic process	21	0.65	0.70	8.91	359.85
+GO:0006665	sphingolipid metabolic process	19	0.61	0.63	8.44	65.68
+GO:0001890	placenta development	12	1.00	0.75	9.63	49.87
+GO:0006883	cellular sodium ion homeostasis	6	1.00	0.90	9.63	285.76
+GO:0097084	vascular smooth muscle cell development	2	0.89	0.74	9.49	32.85
+GO:0001300	chronological cell aging	2	1.00	0.75	9.63	26.14

@@ -1,0 +1,62 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1126	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	624	0.26	0.38	4.09	10.74
+GO:0006810	transport	535	0.28	0.34	3.95	7.46
+GO:0010646	regulation of cell communication	482	0.30	0.40	4.51	12.04
+GO:0010033	response to organic substance	357	0.35	0.37	4.75	9.28
+GO:0051128	regulation of cellular component organization	325	0.30	0.40	4.57	12.04
+GO:2000026	regulation of multicellular organismal development	305	0.29	0.39	4.73	23.09
+GO:0006464	cellular protein modification process	270	0.34	0.49	5.84	147.03
+GO:0031399	regulation of protein modification process	262	0.41	0.56	6.69	72.96
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0031399	regulation of protein modification process	262	0.41	0.56	6.69	72.96
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0031399	regulation of protein modification process	262	0.41	0.56	6.69	72.96
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0031399	regulation of protein modification process	262	0.41	0.56	6.69	72.96
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0031399	regulation of protein modification process	262	0.41	0.56	6.69	72.96
+GO:0043456	regulation of pentose-phosphate shunt	1	0.89	0.84	9.55	329.94
+GO:0044271	cellular nitrogen compound biosynthetic process	253	0.36	0.43	5.55	60.43
+GO:0043066	negative regulation of apoptotic process	157	0.56	0.63	7.79	81.07
+GO:0006351	transcription, DNA-templated	153	0.57	0.68	8.45	581.39
+GO:0045087	innate immune response	113	0.68	0.59	8.16	26.47
+GO:0034622	cellular protein-containing complex assembly	99	0.48	0.53	6.52	40.42
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	91	0.58	0.64	7.56	28.11
+GO:0034613	cellular protein localization	89	0.45	0.48	6.33	26.83
+GO:1903706	regulation of hemopoiesis	88	0.50	0.54	7.23	38.17
+GO:0060249	anatomical structure homeostasis	31	0.63	0.57	7.52	10.43
+GO:0048812	neuron projection morphogenesis	30	0.65	0.68	8.50	63.00
+GO:0030183	B cell differentiation	30	0.73	0.69	9.02	64.36
+GO:1903169	regulation of calcium ion transmembrane transport	30	0.63	0.69	8.50	58.21
+GO:0001649	osteoblast differentiation	23	1.00	0.75	9.63	21.07
+GO:0001701	in utero embryonic development	20	1.00	0.85	9.63	22.50
+GO:0008584	male gonad development	20	1.00	0.79	9.63	50.96
+GO:0002027	regulation of heart rate	18	0.70	0.70	8.71	26.87
+GO:0007517	muscle organ development	15	0.78	0.64	8.75	27.68
+GO:0097028	dendritic cell differentiation	11	0.81	0.70	9.12	22.45
+GO:0000281	mitotic cytokinesis	10	0.93	0.76	9.47	28.62
+GO:0090630	activation of GTPase activity	10	1.00	0.85	9.63	49.34
+GO:0030218	erythrocyte differentiation	10	0.84	0.71	9.12	22.68
+GO:0006006	glucose metabolic process	10	0.71	0.68	8.57	34.68
+GO:0048821	erythrocyte development	6	0.89	0.74	9.38	33.54
+GO:0030049	muscle filament sliding	5	1.00	0.82	9.63	20.96
+GO:2000651	positive regulation of sodium ion transmembrane transporter activity	5	0.83	0.83	9.46	676.01
+GO:0030521	androgen receptor signaling pathway	5	0.89	0.82	9.45	54.01
+GO:0030220	platelet formation	5	1.00	0.79	9.63	33.80
+GO:0035162	embryonic hemopoiesis	5	0.93	0.79	9.49	36.11
+GO:0048747	muscle fiber development	4	0.89	0.77	9.41	33.94
+GO:0055015	ventricular cardiac muscle cell development	4	1.00	0.85	9.63	69.56
+GO:0046597	negative regulation of viral entry into host cell	4	0.93	0.84	9.55	84.95
+GO:0055003	cardiac myofibril assembly	4	0.89	0.82	9.51	125.46
+GO:0050930	induction of positive chemotaxis	3	1.00	0.88	9.63	129.40
+GO:0038180	nerve growth factor signaling pathway	3	1.00	0.85	9.63	27.20
+GO:0042551	neuron maturation	2	0.93	0.72	9.49	39.56
+GO:0006930	substrate-dependent cell migration, cell extension	2	1.00	0.82	9.63	58.57
+GO:2000678	negative regulation of transcription regulatory region DNA binding	2	0.87	0.76	9.34	47.57
+GO:0043249	erythrocyte maturation	1	0.89	0.70	9.38	39.56
+GO:0048935	peripheral nervous system neuron development	1	1.00	0.79	9.63	34.23
+GO:0055014	atrial cardiac muscle cell development	1	1.00	0.85	9.63	69.56
+GO:0030219	megakaryocyte differentiation	1	1.00	0.79	9.63	22.68
+GO:0030221	basophil differentiation	1	1.00	0.85	9.63	48.17
+GO:0030222	eosinophil differentiation	1	1.00	0.85	9.63	80.33

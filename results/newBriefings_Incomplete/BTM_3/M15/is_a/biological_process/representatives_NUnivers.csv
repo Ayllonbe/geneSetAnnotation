@@ -1,0 +1,71 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0090304	nucleic acid metabolic process	400	0.35	0.46	5.97	111.15
+GO:0045893	positive regulation of transcription, DNA-templated	267	0.52	0.67	8.14	1208.12
+GO:0031401	positive regulation of protein modification process	248	0.51	0.63	7.86	366.05
+GO:0006468	protein phosphorylation	176	0.57	0.64	8.18	177.76
+GO:0016567	protein ubiquitination	55	0.69	0.74	9.00	153.79
+GO:0043066	negative regulation of apoptotic process	217	0.56	0.63	7.79	81.07
+GO:1903047	mitotic cell cycle process	177	0.50	0.45	5.87	11.32
+GO:0045892	negative regulation of transcription, DNA-templated	175	0.56	0.69	8.52	1581.26
+GO:0006508	proteolysis	172	0.55	0.57	7.34	47.86
+GO:0034622	cellular protein-containing complex assembly	122	0.48	0.53	6.52	40.42
+GO:0051276	chromosome organization	104	0.55	0.52	6.96	18.35
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0044772	mitotic cell cycle phase transition	75	0.84	0.67	9.04	28.43
+GO:0000226	microtubule cytoskeleton organization	64	0.58	0.58	7.66	30.31
+GO:0033365	protein localization to organelle	63	0.50	0.54	7.01	29.83
+GO:0051054	positive regulation of DNA metabolic process	59	0.59	0.65	8.41	301.51
+GO:0006511	ubiquitin-dependent protein catabolic process	53	0.74	0.74	9.19	156.45
+GO:1903046	meiotic cell cycle process	42	0.49	0.44	6.09	19.36
+GO:0000075	cell cycle checkpoint	41	0.66	0.65	8.65	51.68
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	38	0.74	0.74	8.99	58.93
+GO:0070507	regulation of microtubule cytoskeleton organization	38	0.61	0.65	8.24	33.71
+GO:0007051	spindle organization	37	0.69	0.67	8.69	44.52
+GO:0018105	peptidyl-serine phosphorylation	37	0.74	0.76	9.21	338.74
+GO:0006302	double-strand break repair	36	0.76	0.75	9.32	183.05
+GO:0071478	cellular response to radiation	32	0.67	0.63	8.53	36.92
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	32	1.00	0.79	9.63	42.20
+GO:1900182	positive regulation of protein localization to nucleus	25	0.84	0.77	9.37	74.62
+GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
+GO:0032465	regulation of cytokinesis	24	0.59	0.62	8.14	31.80
+GO:0006405	RNA export from nucleus	24	0.71	0.73	9.03	77.48
+GO:0045840	positive regulation of mitotic nuclear division	23	0.71	0.73	9.14	276.06
+GO:2000573	positive regulation of DNA biosynthetic process	22	0.80	0.77	9.43	748.29
+GO:0000018	regulation of DNA recombination	22	0.61	0.65	8.39	73.35
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	18	1.00	0.93	9.63	888.12
+GO:1901796	regulation of signal transduction by p53 class mediator	18	0.72	0.71	9.12	45.07
+GO:0006606	protein import into nucleus	18	0.89	0.84	9.55	277.54
+GO:0000070	mitotic sister chromatid segregation	17	1.00	0.82	9.63	56.84
+GO:0032092	positive regulation of protein binding	16	0.71	0.64	8.53	32.71
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	14	0.83	0.85	9.50	3778.55
+GO:0032467	positive regulation of cytokinesis	13	0.70	0.70	9.02	142.06
+GO:0010972	negative regulation of G2/M transition of mitotic cell cycle	13	0.81	0.80	9.39	357.15
+GO:0007080	mitotic metaphase plate congression	12	1.00	0.85	9.63	61.63
+GO:0000060	protein import into nucleus, translocation	12	1.00	0.90	9.63	93.44
+GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
+GO:0097711	ciliary basal body-plasma membrane docking	11	1.00	0.79	9.63	21.39
+GO:0097421	liver regeneration	11	1.00	0.82	9.63	47.22
+GO:0045736	negative regulation of cyclin-dependent protein serine/threonine kinase activity	10	0.89	0.89	9.59	2927.12
+GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
+GO:0007094	mitotic spindle assembly checkpoint	8	1.00	0.96	9.63	1801.80
+GO:0090398	cellular senescence	7	0.87	0.68	9.45	55.14
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
+GO:0046039	GTP metabolic process	5	0.89	0.86	9.57	1313.88
+GO:1901673	regulation of mitotic spindle assembly	5	1.00	0.92	9.63	218.78
+GO:0040001	establishment of mitotic spindle localization	5	0.89	0.80	9.58	138.62
+GO:0007019	microtubule depolymerization	5	0.81	0.76	9.34	92.93
+GO:0072425	signal transduction involved in G2 DNA damage checkpoint	4	0.93	0.86	9.59	196.62
+GO:0000054	ribosomal subunit export from nucleus	4	0.89	0.89	9.57	268.61
+GO:0045540	regulation of cholesterol biosynthetic process	4	0.89	0.84	9.49	116.99
+GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
+GO:0051754	meiotic sister chromatid cohesion, centromeric	3	1.00	0.85	9.63	117.00
+GO:0032466	negative regulation of cytokinesis	3	0.71	0.71	9.02	142.53
+GO:0045842	positive regulation of mitotic metaphase/anaphase transition	3	0.93	0.90	9.60	1435.64
+GO:0019054	modulation by virus of host process	3	0.55	0.62	7.70	74.20
+GO:0007091	metaphase/anaphase transition of mitotic cell cycle	2	1.00	0.92	9.63	246.85
+GO:0075733	intracellular transport of virus	2	0.73	0.69	8.98	41.41
+GO:0045875	negative regulation of sister chromatid cohesion	1	0.74	0.76	9.31	314.67
+GO:1900195	positive regulation of oocyte maturation	1	0.93	0.86	9.59	598.41
+GO:0061015	snRNA import into nucleus	1	1.00	0.90	9.63	121.65
+GO:0036089	cleavage furrow formation	1	0.93	0.79	9.52	34.65

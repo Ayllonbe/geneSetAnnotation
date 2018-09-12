@@ -1,0 +1,27 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0032268	regulation of cellular protein metabolic process	214	0.37	0.51	6.13	70.76
+GO:0006464	cellular protein modification process	162	0.34	0.49	5.84	147.03
+GO:0006887	exocytosis	149	0.67	0.66	8.38	37.08
+GO:0033554	cellular response to stress	112	0.44	0.42	6.05	25.47
+GO:0043066	negative regulation of apoptotic process	97	0.56	0.63	7.79	81.07
+GO:0045944	positive regulation of transcription by RNA polymerase II	88	0.55	0.71	8.36	1463.86
+GO:0034622	cellular protein-containing complex assembly	77	0.48	0.53	6.52	40.42
+GO:0010942	positive regulation of cell death	73	0.54	0.56	7.33	41.78
+GO:0006281	DNA repair	46	0.63	0.66	8.78	180.34
+GO:0006366	transcription by RNA polymerase II	41	0.60	0.72	8.61	583.88
+GO:0051091	positive regulation of DNA binding transcription factor activity	27	0.81	0.84	9.43	277.83
+GO:0022900	electron transport chain	25	0.71	0.61	8.48	29.76
+GO:0006406	mRNA export from nucleus	18	0.89	0.84	9.52	121.36
+GO:0010950	positive regulation of endopeptidase activity	17	0.74	0.79	9.42	499.33
+GO:0008584	male gonad development	13	1.00	0.79	9.63	50.96
+GO:0001701	in utero embryonic development	9	1.00	0.85	9.63	22.50
+GO:0045471	response to ethanol	9	0.93	0.76	9.52	69.73
+GO:0034644	cellular response to UV	8	0.80	0.75	9.22	66.19
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	5	0.76	0.78	9.31	348.36
+GO:0006412	translation	3	0.87	0.78	9.51	402.56
+GO:1905098	negative regulation of guanyl-nucleotide exchange factor activity	2	0.93	0.79	9.56	99.11
+GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	2	1.00	0.92	9.63	581.32
+GO:0019953	sexual reproduction	1	0.89	0.64	9.29	21.92
+GO:0032057	negative regulation of translational initiation in response to stress	1	0.84	0.84	9.54	3170.18
+GO:1903894	regulation of IRE1-mediated unfolded protein response	1	0.89	0.82	9.47	74.84
+GO:0000715	nucleotide-excision repair, DNA damage recognition	1	0.93	0.76	9.47	21.24

@@ -1,0 +1,52 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	6532	0.00	0.00	0.00	0.00
+GO:0009987	cellular process	5804	0.09	0.05	0.84	3.37
+GO:0031323	regulation of cellular metabolic process	2733	0.22	0.36	4.01	22.77
+GO:1901564	organonitrogen compound metabolic process	2332	0.23	0.31	3.63	19.40
+GO:0048583	regulation of response to stimulus	1753	0.25	0.32	3.72	7.96
+GO:0051239	regulation of multicellular organismal process	1141	0.23	0.32	3.68	7.96
+GO:0032774	RNA biosynthetic process	1140	0.53	0.62	8.04	473.34
+GO:0006357	regulation of transcription by RNA polymerase II	1128	0.44	0.63	7.11	248.57
+GO:0051128	regulation of cellular component organization	1122	0.30	0.40	4.57	12.04
+GO:0032879	regulation of localization	1099	0.27	0.33	4.05	7.96
+GO:0007166	cell surface receptor signaling pathway	981	0.43	0.51	5.91	23.17
+GO:0010033	response to organic substance	880	0.35	0.37	4.75	9.28
+GO:0034976	response to endoplasmic reticulum stress	122	0.68	0.59	8.28	29.00
+GO:0048869	cellular developmental process	916	0.32	0.29	4.16	13.85
+GO:0046907	intracellular transport	782	0.46	0.48	6.38	29.65
+GO:0022407	regulation of cell-cell adhesion	198	0.50	0.50	6.40	10.16
+GO:0002682	regulation of immune system process	758	0.32	0.36	4.60	7.96
+GO:0044093	positive regulation of molecular function	778	0.43	0.41	5.23	6.77
+GO:0015031	protein transport	696	0.48	0.59	6.99	54.46
+GO:0090026	positive regulation of monocyte chemotaxis	9	1.00	0.92	9.63	859.36
+GO:0048585	negative regulation of response to stimulus	683	0.36	0.43	5.03	23.55
+GO:0051052	regulation of DNA metabolic process	192	0.47	0.56	7.17	70.58
+GO:0045944	positive regulation of transcription by RNA polymerase II	508	0.55	0.71	8.36	1463.86
+GO:0051052	regulation of DNA metabolic process	192	0.47	0.56	7.17	70.58
+GO:0045944	positive regulation of transcription by RNA polymerase II	508	0.55	0.71	8.36	1463.86
+GO:0042127	regulation of cell proliferation	639	0.45	0.48	6.03	12.04
+GO:0006508	proteolysis	579	0.55	0.57	7.34	47.86
+GO:0001933	negative regulation of protein phosphorylation	211	0.61	0.70	8.76	664.69
+GO:0001934	positive regulation of protein phosphorylation	424	0.58	0.69	8.60	663.11
+GO:0045321	leukocyte activation	487	0.52	0.46	6.78	16.27
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	68	1.00	0.79	9.63	42.20
+GO:0034622	cellular protein-containing complex assembly	424	0.48	0.53	6.52	40.42
+GO:0070126	mitochondrial translational termination	70	1.00	0.85	9.63	40.69
+GO:0006259	DNA metabolic process	411	0.45	0.55	7.12	145.26
+GO:0006952	defense response	389	0.56	0.48	6.67	9.54
+GO:0016567	protein ubiquitination	335	0.69	0.74	9.00	153.79
+GO:0016071	mRNA metabolic process	327	0.59	0.65	8.39	115.08
+GO:0019725	cellular homeostasis	317	0.53	0.52	6.93	17.82
+GO:0016477	cell migration	253	0.47	0.48	6.31	17.13
+GO:0010469	regulation of signaling receptor activity	167	0.59	0.62	7.95	48.62
+GO:0010506	regulation of autophagy	167	0.63	0.64	8.27	43.36
+GO:0001666	response to hypoxia	131	0.81	0.70	9.12	21.16
+GO:0006914	autophagy	126	0.67	0.59	8.40	37.75
+GO:0051701	interaction with host	94	0.38	0.39	5.05	8.50
+GO:0070125	mitochondrial translational elongation	67	1.00	0.85	9.63	106.95
+GO:0071103	DNA conformation change	67	0.67	0.63	8.24	21.24
+GO:0043401	steroid hormone mediated signaling pathway	61	0.75	0.70	8.80	25.74
+GO:0035335	peptidyl-tyrosine dephosphorylation	46	0.89	0.82	9.53	179.25
+GO:2000109	regulation of macrophage apoptotic process	5	0.89	0.82	9.43	42.38
+GO:0015014	heparan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	2	1.00	0.85	9.63	461.11
+GO:1902202	regulation of hepatocyte growth factor receptor signaling pathway	1	0.89	0.77	9.41	41.85

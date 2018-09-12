@@ -1,0 +1,23 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0019538	protein metabolic process	538	0.31	0.41	4.91	44.77
+GO:0006351	transcription, DNA-templated	229	0.57	0.68	8.45	581.39
+GO:0009987	cellular process	1954	0.09	0.05	0.84	3.37
+GO:0043406	positive regulation of MAP kinase activity	66	0.70	0.80	9.37	2605.69
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0060044	negative regulation of cardiac muscle cell proliferation	2	1.00	0.92	9.63	721.62
+GO:0050789	regulation of biological process	1628	0.09	0.17	1.80	4.47
+GO:0043406	positive regulation of MAP kinase activity	66	0.70	0.80	9.37	2605.69
+GO:0051345	positive regulation of hydrolase activity	165	0.57	0.57	7.42	32.99
+GO:0060044	negative regulation of cardiac muscle cell proliferation	2	1.00	0.92	9.63	721.62
+GO:0050789	regulation of biological process	1628	0.09	0.17	1.80	4.47
+GO:0002376	immune system process	623	0.38	0.19	3.93	3.37
+GO:0048856	anatomical structure development	255	0.33	0.29	3.70	6.46
+GO:0048562	embryonic organ morphogenesis	31	0.76	0.63	8.67	29.31
+GO:0001649	osteoblast differentiation	30	1.00	0.75	9.63	21.07
+GO:0001837	epithelial to mesenchymal transition	13	0.75	0.67	8.65	23.15
+GO:0022008	neurogenesis	13	0.87	0.68	9.29	21.07
+GO:0042246	tissue regeneration	6	0.76	0.63	8.94	42.89
+GO:0060272	embryonic skeletal joint morphogenesis	2	0.93	0.79	9.51	46.18
+GO:0021533	cell differentiation in hindbrain	2	0.78	0.64	8.60	21.07
+GO:0001839	neural plate morphogenesis	2	1.00	0.82	9.63	34.31
+GO:0060513	prostatic bud formation	1	1.00	0.85	9.63	123.46

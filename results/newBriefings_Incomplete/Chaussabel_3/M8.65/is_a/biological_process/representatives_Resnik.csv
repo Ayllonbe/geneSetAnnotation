@@ -1,0 +1,36 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048583	regulation of response to stimulus	668	0.25	0.32	3.72	7.96
+GO:0006357	regulation of transcription by RNA polymerase II	411	0.44	0.63	7.11	248.57
+GO:0006351	transcription, DNA-templated	386	0.57	0.68	8.45	581.39
+GO:0045893	positive regulation of transcription, DNA-templated	259	0.52	0.67	8.14	1208.12
+GO:0051240	positive regulation of multicellular organismal process	258	0.35	0.42	4.98	23.60
+GO:0043066	negative regulation of apoptotic process	166	0.56	0.63	7.79	81.07
+GO:0006952	defense response	145	0.56	0.48	6.67	9.54
+GO:0009725	response to hormone	103	0.53	0.51	7.03	21.86
+GO:0007186	G-protein coupled receptor signaling pathway	103	0.55	0.57	7.20	23.17
+GO:0045860	positive regulation of protein kinase activity	100	0.63	0.73	9.00	1094.92
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	85	0.58	0.64	7.56	28.11
+GO:0010469	regulation of signaling receptor activity	70	0.59	0.62	7.95	48.62
+GO:0034765	regulation of ion transmembrane transport	64	0.46	0.55	6.68	33.04
+GO:0044057	regulation of system process	63	0.41	0.46	5.70	11.79
+GO:0023014	signal transduction by protein phosphorylation	62	0.72	0.74	9.15	203.92
+GO:0010817	regulation of hormone levels	57	0.41	0.40	5.23	8.64
+GO:0001818	negative regulation of cytokine production	51	0.51	0.55	7.03	44.36
+GO:0040013	negative regulation of locomotion	43	0.55	0.52	6.95	22.16
+GO:0008202	steroid metabolic process	43	0.57	0.53	7.51	35.32
+GO:0045765	regulation of angiogenesis	43	0.70	0.68	8.82	44.94
+GO:0007204	positive regulation of cytosolic calcium ion concentration	37	0.68	0.77	9.10	290.30
+GO:0045927	positive regulation of growth	36	0.60	0.55	7.43	22.17
+GO:0009755	hormone-mediated signaling pathway	28	0.65	0.62	7.99	23.17
+GO:0006006	glucose metabolic process	27	0.71	0.68	8.57	34.68
+GO:0001936	regulation of endothelial cell proliferation	18	0.79	0.72	9.12	18.21
+GO:0071805	potassium ion transmembrane transport	18	0.83	0.81	9.46	120.62
+GO:0016358	dendrite development	5	0.83	0.74	9.26	32.63
+GO:0050795	regulation of behavior	3	0.61	0.50	7.26	7.96
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell	3	1.00	0.79	9.63	23.39
+GO:0009756	carbohydrate mediated signaling	3	0.81	0.70	9.12	23.17
+GO:0001696	gastric acid secretion	2	0.87	0.76	9.34	27.79
+GO:0008343	adult feeding behavior	2	1.00	0.70	9.63	24.58
+GO:0000160	phosphorelay signal transduction system	1	0.84	0.74	9.27	26.43
+GO:0060399	positive regulation of growth hormone receptor signaling pathway	1	1.00	0.85	9.63	186.95
+GO:0046697	decidualization	1	1.00	0.75	9.63	34.68

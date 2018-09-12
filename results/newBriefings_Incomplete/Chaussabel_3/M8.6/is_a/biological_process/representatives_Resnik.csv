@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0044237	cellular metabolic process	1793	0.16	0.21	2.71	13.80
+GO:0044237	cellular metabolic process	1793	0.16	0.21	2.71	13.80
+GO:0060236	regulation of mitotic spindle organization	12	0.80	0.80	9.36	71.51
+GO:0031323	regulation of cellular metabolic process	1262	0.22	0.36	4.01	22.77
+GO:0060236	regulation of mitotic spindle organization	12	0.80	0.80	9.36	71.51
+GO:0031323	regulation of cellular metabolic process	1262	0.22	0.36	4.01	22.77
+GO:0016043	cellular component organization	929	0.28	0.26	3.74	11.45
+GO:0006259	DNA metabolic process	187	0.45	0.55	7.12	145.26
+GO:0050896	response to stimulus	832	0.25	0.12	2.65	3.37
+GO:0006355	regulation of transcription, DNA-templated	748	0.40	0.60	6.84	245.35
+GO:0032502	developmental process	549	0.22	0.11	1.89	3.37
+GO:0032774	RNA biosynthetic process	527	0.53	0.62	8.04	473.34
+GO:0006357	regulation of transcription by RNA polymerase II	520	0.44	0.63	7.11	248.57
+GO:0051239	regulation of multicellular organismal process	517	0.23	0.32	3.68	7.96
+GO:0071702	organic substance transport	449	0.33	0.41	4.62	10.99
+GO:0010033	response to organic substance	400	0.35	0.37	4.75	9.28
+GO:0065003	protein-containing complex assembly	335	0.45	0.48	6.06	36.47
+GO:0032984	protein-containing complex disassembly	55	0.61	0.55	7.66	35.41
+GO:0016192	vesicle-mediated transport	378	0.52	0.51	6.57	10.99
+GO:0035556	intracellular signal transduction	368	0.51	0.55	6.92	23.17
+GO:0006508	proteolysis	272	0.55	0.57	7.34	47.86
+GO:0031401	positive regulation of protein modification process	252	0.51	0.63	7.86	366.05
+GO:0042592	homeostatic process	209	0.45	0.42	5.70	8.64
+GO:0051345	positive regulation of hydrolase activity	178	0.57	0.57	7.42	32.99
+GO:0009653	anatomical structure morphogenesis	163	0.36	0.31	4.09	6.46
+GO:0022414	reproductive process	162	0.35	0.17	3.17	3.37
+GO:0008285	negative regulation of cell proliferation	138	0.56	0.57	7.31	43.61
+GO:0007186	G-protein coupled receptor signaling pathway	135	0.55	0.57	7.20	23.17
+GO:0045087	innate immune response	105	0.68	0.59	8.16	26.47
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	103	0.58	0.64	7.56	28.11
+GO:0043603	cellular amide metabolic process	101	0.47	0.48	6.49	29.84
+GO:0005975	carbohydrate metabolic process	78	0.38	0.39	5.46	18.42
+GO:0003008	system process	76	0.44	0.35	5.06	7.59
+GO:0097190	apoptotic signaling pathway	73	0.70	0.64	8.53	23.17
+GO:0030855	epithelial cell differentiation	47	0.55	0.52	6.96	21.07
+GO:0018022	peptidyl-lysine methylation	17	0.69	0.74	9.15	367.05
+GO:0016573	histone acetylation	22	0.69	0.78	9.12	658.07
+GO:1901796	regulation of signal transduction by p53 class mediator	30	0.72	0.71	9.12	45.07
+GO:0043484	regulation of RNA splicing	27	0.77	0.73	9.34	89.96
+GO:0006487	protein N-linked glycosylation	19	0.80	0.77	9.34	176.56
+GO:0035264	multicellular organism growth	15	1.00	0.70	9.63	22.58
+GO:0051402	neuron apoptotic process	13	0.83	0.70	9.02	23.44
+GO:0033683	nucleotide-excision repair, DNA incision	11	0.89	0.80	9.50	114.45
+GO:0006359	regulation of transcription by RNA polymerase III	9	0.84	0.84	9.53	248.57
+GO:0033238	regulation of cellular amine metabolic process	7	0.53	0.56	7.48	41.10
+GO:0006293	nucleotide-excision repair, preincision complex stabilization	5	1.00	0.85	9.63	108.68
+GO:0042135	neurotransmitter catabolic process	4	0.72	0.65	8.80	61.24
+GO:0071577	zinc ion transmembrane transport	3	0.83	0.81	9.36	134.50
+GO:0018298	protein-chromophore linkage	2	0.74	0.72	9.04	151.15
+GO:0045053	protein retention in Golgi apparatus	1	1.00	0.82	9.63	46.06
+GO:1904751	positive regulation of protein localization to nucleolus	1	1.00	0.88	9.63	107.08
+GO:0035166	post-embryonic hemopoiesis	1	0.93	0.79	9.49	35.89

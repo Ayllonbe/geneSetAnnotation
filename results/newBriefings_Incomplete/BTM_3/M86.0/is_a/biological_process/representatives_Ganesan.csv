@@ -1,0 +1,14 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1116	0.00	0.00	0.00	0.00
+GO:0065007	biological regulation	851	0.08	0.04	0.98	3.37
+GO:0032088	negative regulation of NF-kappaB transcription factor activity	7	0.93	0.91	9.59	279.62
+GO:0043312	neutrophil degranulation	118	1.00	0.90	9.63	132.80
+GO:1901841	regulation of high voltage-gated calcium channel activity	2	0.89	0.88	9.53	231.63
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	16	0.93	0.91	9.59	279.44
+GO:0007204	positive regulation of cytosolic calcium ion concentration	51	0.68	0.77	9.10	290.30
+GO:0009605	response to external stimulus	178	0.37	0.31	4.62	6.14
+GO:0042221	response to chemical	263	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	238	0.39	0.32	4.70	6.14
+GO:0032502	developmental process	275	0.22	0.11	1.89	3.37
+GO:0008104	protein localization	110	0.40	0.40	5.07	7.46
+GO:0035176	social behavior	5	1.00	0.70	9.63	22.58

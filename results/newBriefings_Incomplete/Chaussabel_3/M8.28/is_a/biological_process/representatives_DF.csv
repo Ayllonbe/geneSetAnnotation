@@ -1,0 +1,40 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0051252	regulation of RNA metabolic process	1243	0.37	0.51	6.06	70.58
+GO:0007165	signal transduction	1189	0.36	0.43	5.06	19.43
+GO:0016070	RNA metabolic process	1091	0.39	0.52	6.45	112.25
+GO:0006464	cellular protein modification process	990	0.34	0.49	5.84	147.03
+GO:0031328	positive regulation of cellular biosynthetic process	583	0.41	0.53	6.32	170.14
+GO:0009967	positive regulation of signal transduction	491	0.44	0.54	6.71	140.23
+GO:0015031	protein transport	479	0.48	0.59	6.99	54.46
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	458	0.50	0.60	7.60	369.32
+GO:0033043	regulation of organelle organization	449	0.36	0.47	5.49	15.89
+GO:0071310	cellular response to organic substance	402	0.44	0.47	5.95	41.66
+GO:0009968	negative regulation of signal transduction	358	0.44	0.54	6.68	140.65
+GO:0044255	cellular lipid metabolic process	311	0.38	0.44	5.89	38.02
+GO:0098771	inorganic ion homeostasis	184	0.53	0.59	7.39	14.93
+GO:0030335	positive regulation of cell migration	162	0.58	0.64	8.22	157.26
+GO:0010506	regulation of autophagy	113	0.63	0.64	8.27	43.36
+GO:0006914	autophagy	86	0.67	0.59	8.40	37.75
+GO:0051607	defense response to virus	79	0.87	0.76	9.49	78.89
+GO:0008360	regulation of cell shape	61	0.68	0.66	8.69	41.78
+GO:0007268	chemical synaptic transmission	51	0.74	0.72	8.66	23.17
+GO:0030182	neuron differentiation	51	0.58	0.54	7.21	21.07
+GO:2000060	positive regulation of ubiquitin-dependent protein catabolic process	36	0.81	0.82	9.48	1661.59
+GO:0010811	positive regulation of cell-substrate adhesion	36	0.80	0.69	9.01	35.31
+GO:0030433	ubiquitin-dependent ERAD pathway	27	0.93	0.88	9.60	603.05
+GO:0006893	Golgi to plasma membrane transport	25	0.89	0.80	9.51	32.11
+GO:0000045	autophagosome assembly	20	1.00	0.82	9.63	62.10
+GO:0051893	regulation of focal adhesion assembly	20	0.89	0.80	9.47	59.48
+GO:0034198	cellular response to amino acid starvation	19	0.87	0.78	9.45	115.90
+GO:1902476	chloride transmembrane transport	17	1.00	0.88	9.63	110.52
+GO:0090398	cellular senescence	13	0.87	0.68	9.45	55.14
+GO:0000245	spliceosomal complex assembly	11	0.93	0.82	9.53	66.60
+GO:0090481	pyrimidine nucleotide-sugar transmembrane transport	8	0.78	0.74	9.10	63.68
+GO:0010107	potassium ion import	8	0.93	0.88	9.57	121.72
+GO:0006506	GPI anchor biosynthetic process	7	0.80	0.80	9.47	1288.62
+GO:0006884	cell volume homeostasis	7	0.87	0.76	9.39	49.53
+GO:0007084	mitotic nuclear envelope reassembly	5	1.00	0.82	9.63	35.64
+GO:0006337	nucleosome disassembly	5	0.87	0.76	9.39	96.25
+GO:1903799	negative regulation of production of miRNAs involved in gene silencing by miRNA	4	0.89	0.86	9.58	949.87
+GO:1903070	negative regulation of ER-associated ubiquitin-dependent protein catabolic process	1	1.00	0.95	9.63	6513.40
+GO:1903646	positive regulation of chaperone-mediated protein folding	1	1.00	0.82	9.63	56.63

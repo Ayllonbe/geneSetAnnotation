@@ -1,0 +1,11 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060255	regulation of macromolecule metabolic process	825	0.26	0.38	4.09	10.74
+GO:0090304	nucleic acid metabolic process	554	0.35	0.46	5.97	111.15
+GO:0070647	protein modification by small protein conjugation or removal	151	0.61	0.66	8.44	151.15
+GO:0016043	cellular component organization	626	0.28	0.26	3.74	11.45
+GO:0048583	regulation of response to stimulus	527	0.25	0.32	3.72	7.96
+GO:0051716	cellular response to stimulus	411	0.35	0.30	4.36	13.53
+GO:0035556	intracellular signal transduction	256	0.51	0.55	6.92	23.17
+GO:0043069	negative regulation of programmed cell death	138	0.55	0.60	7.50	59.56
+GO:0051704	multi-organism process	126	0.29	0.15	3.12	3.37
+GO:0033209	tumor necrosis factor-mediated signaling pathway	15	0.89	0.80	9.51	30.19

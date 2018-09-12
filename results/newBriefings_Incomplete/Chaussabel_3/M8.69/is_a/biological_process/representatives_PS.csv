@@ -1,0 +1,22 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	1586	0.12	0.26	2.47	7.96
+GO:1901576	organic substance biosynthetic process	699	0.28	0.34	3.95	19.57
+GO:0044237	cellular metabolic process	1448	0.16	0.21	2.71	13.80
+GO:0042221	response to chemical	379	0.32	0.29	4.12	6.14
+GO:0006950	response to stress	453	0.39	0.32	4.70	6.14
+GO:0051704	multi-organism process	176	0.29	0.15	3.12	3.37
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	83	0.58	0.64	7.56	28.11
+GO:0007265	Ras protein signal transduction	60	0.76	0.73	8.94	27.53
+GO:0043393	regulation of protein binding	37	0.59	0.55	7.49	9.33
+GO:0030855	epithelial cell differentiation	35	0.55	0.52	6.96	21.07
+GO:0000082	G1/S transition of mitotic cell cycle	34	1.00	0.79	9.63	42.75
+GO:0006406	mRNA export from nucleus	29	0.89	0.84	9.52	121.36
+GO:0060337	type I interferon signaling pathway	20	1.00	0.85	9.63	30.19
+GO:0007565	female pregnancy	20	1.00	0.70	9.63	32.81
+GO:0035722	interleukin-12-mediated signaling pathway	11	1.00	0.85	9.63	30.19
+GO:0070106	interleukin-27-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0007140	male meiotic nuclear division	3	0.89	0.80	9.47	65.97
+GO:0038155	interleukin-23-mediated signaling pathway	3	1.00	0.85	9.63	30.19
+GO:0035928	rRNA import into mitochondrion	2	1.00	0.90	9.63	117.03
+GO:0002337	B-1a B cell differentiation	2	1.00	0.90	9.63	66.43
+GO:0002322	B cell proliferation involved in immune response	2	1.00	0.85	9.63	134.16

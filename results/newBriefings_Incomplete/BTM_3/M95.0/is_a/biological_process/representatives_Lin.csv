@@ -1,0 +1,68 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0007166	cell surface receptor signaling pathway	566	0.43	0.51	5.91	23.17
+GO:0010468	regulation of gene expression	543	0.35	0.46	5.09	13.73
+GO:0010033	response to organic substance	431	0.35	0.37	4.75	9.28
+GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
+GO:0009967	positive regulation of signal transduction	327	0.44	0.54	6.71	140.23
+GO:0010941	regulation of cell death	321	0.43	0.47	6.10	12.04
+GO:0045321	leukocyte activation	302	0.52	0.46	6.78	16.27
+GO:0035556	intracellular signal transduction	301	0.51	0.55	6.92	23.17
+GO:0006796	phosphate-containing compound metabolic process	289	0.36	0.43	5.28	20.85
+GO:0001932	regulation of protein phosphorylation	284	0.50	0.62	7.64	109.03
+GO:0008284	positive regulation of cell proliferation	243	0.56	0.57	7.27	43.45
+GO:0048662	negative regulation of smooth muscle cell proliferation	17	0.93	0.79	9.52	63.59
+GO:0006952	defense response	232	0.56	0.48	6.67	9.54
+GO:0045055	regulated exocytosis	224	0.69	0.69	8.57	38.47
+GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
+GO:0022603	regulation of anatomical structure morphogenesis	207	0.36	0.43	5.15	11.29
+GO:0006351	transcription, DNA-templated	206	0.57	0.68	8.45	581.39
+GO:0030334	regulation of cell migration	206	0.48	0.56	7.11	36.74
+GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
+GO:0043542	endothelial cell migration	16	0.80	0.75	9.14	24.97
+GO:0006508	proteolysis	152	0.55	0.57	7.34	47.86
+GO:0050867	positive regulation of cell activation	144	0.56	0.57	7.43	42.07
+GO:0001819	positive regulation of cytokine production	144	0.51	0.54	6.97	44.26
+GO:0006897	endocytosis	101	0.63	0.61	8.09	26.36
+GO:0032956	regulation of actin cytoskeleton organization	67	0.56	0.63	7.72	34.12
+GO:0043254	regulation of protein complex assembly	65	0.50	0.54	6.88	27.32
+GO:0048468	cell development	100	0.51	0.45	6.51	28.42
+GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
+GO:0009991	response to extracellular stimulus	62	0.51	0.45	6.23	8.70
+GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
+GO:0051091	positive regulation of DNA binding transcription factor activity	58	0.81	0.84	9.43	277.83
+GO:0030099	myeloid cell differentiation	55	0.69	0.60	8.15	21.07
+GO:2000379	positive regulation of reactive oxygen species metabolic process	32	0.78	0.71	9.25	112.72
+GO:0090316	positive regulation of intracellular protein transport	26	0.71	0.73	9.11	289.79
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
+GO:0038083	peptidyl-tyrosine autophosphorylation	20	1.00	0.92	9.63	522.64
+GO:0007015	actin filament organization	20	0.65	0.58	8.06	17.25
+GO:0002763	positive regulation of myeloid leukocyte differentiation	20	0.77	0.76	9.35	698.40
+GO:0002244	hematopoietic progenitor cell differentiation	20	0.81	0.66	8.94	21.07
+GO:0035987	endodermal cell differentiation	17	1.00	0.75	9.63	21.07
+GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
+GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
+GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
+GO:0140029	exocytic process	9	0.70	0.47	7.33	7.39
+GO:0044130	negative regulation of growth of symbiont in host	8	1.00	0.85	9.63	102.69
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	6	1.00	0.82	9.63	56.75
+GO:0071447	cellular response to hydroperoxide	5	0.87	0.72	9.49	143.11
+GO:0050849	negative regulation of calcium-mediated signaling	5	0.83	0.79	9.42	240.30
+GO:0070493	thrombin-activated receptor signaling pathway	4	1.00	0.82	9.63	26.98
+GO:0070528	protein kinase C signaling	4	1.00	0.82	9.63	26.43
+GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
+GO:0002503	peptide antigen assembly with MHC class II protein complex	3	1.00	0.85	9.63	45.62
+GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
+GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
+GO:0002506	polysaccharide assembly with MHC class II protein complex	2	1.00	0.82	9.63	58.63
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
+GO:2000473	positive regulation of hematopoietic stem cell migration	2	1.00	0.88	9.63	201.09
+GO:0030845	phospholipase C-inhibiting G-protein coupled receptor signaling pathway	1	1.00	0.82	9.63	26.98
+GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
+GO:0097178	ruffle assembly	1	1.00	0.82	9.63	77.52
+GO:0010920	negative regulation of inositol phosphate biosynthetic process	1	0.93	0.84	9.59	802.80
+GO:0010925	positive regulation of inositol-polyphosphate 5-phosphatase activity	1	1.00	0.92	9.63	315.02
+GO:0071315	cellular response to morphine	1	1.00	0.88	9.63	528.97
+GO:0006933	negative regulation of cell adhesion involved in substrate-bound cell migration	1	1.00	0.82	9.63	40.06
+GO:0060305	regulation of cell diameter	1	1.00	0.82	9.63	29.63
+GO:0010668	ectodermal cell differentiation	1	1.00	0.75	9.63	21.07
+GO:0014739	positive regulation of muscle hyperplasia	1	1.00	0.88	9.63	117.66

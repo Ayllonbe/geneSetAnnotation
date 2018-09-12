@@ -1,0 +1,41 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0042221	response to chemical	491	0.32	0.29	4.12	6.14
+GO:0006355	regulation of transcription, DNA-templated	460	0.40	0.60	6.84	245.35
+GO:0051240	positive regulation of multicellular organismal process	382	0.35	0.42	4.98	23.60
+GO:1902531	regulation of intracellular signal transduction	380	0.45	0.55	6.77	41.85
+GO:0035556	intracellular signal transduction	322	0.51	0.55	6.92	23.17
+GO:0031401	positive regulation of protein modification process	241	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	224	0.44	0.54	6.68	140.65
+GO:0006351	transcription, DNA-templated	220	0.57	0.68	8.45	581.39
+GO:0051726	regulation of cell cycle	199	0.41	0.45	5.89	12.04
+GO:0022402	cell cycle process	198	0.40	0.32	4.60	7.39
+GO:0008285	negative regulation of cell proliferation	162	0.56	0.57	7.31	43.61
+GO:0006259	DNA metabolic process	128	0.45	0.55	7.12	145.26
+GO:0019752	carboxylic acid metabolic process	127	0.32	0.45	5.31	42.50
+GO:0034622	cellular protein-containing complex assembly	115	0.48	0.53	6.52	40.42
+GO:0050727	regulation of inflammatory response	113	0.53	0.59	7.40	31.59
+GO:0003006	developmental process involved in reproduction	104	0.43	0.34	5.07	14.49
+GO:0051052	regulation of DNA metabolic process	85	0.47	0.56	7.17	70.58
+GO:0016579	protein deubiquitination	37	0.73	0.76	9.15	202.60
+GO:0016567	protein ubiquitination	52	0.69	0.74	9.00	153.79
+GO:0043547	positive regulation of GTPase activity	80	0.93	0.79	9.52	49.34
+GO:0033365	protein localization to organelle	56	0.50	0.54	7.01	29.83
+GO:0071103	DNA conformation change	31	0.67	0.63	8.24	21.24
+GO:0043009	chordate embryonic development	26	0.93	0.79	9.49	22.50
+GO:0030177	positive regulation of Wnt signaling pathway	25	0.73	0.72	9.04	188.45
+GO:0002244	hematopoietic progenitor cell differentiation	23	0.81	0.66	8.94	21.07
+GO:0007569	cell aging	19	0.80	0.60	8.94	24.75
+GO:0031057	negative regulation of histone modification	7	0.66	0.73	9.14	591.66
+GO:0031058	positive regulation of histone modification	14	0.67	0.73	9.14	590.85
+GO:0006473	protein acetylation	18	0.61	0.68	8.39	153.64
+GO:0035335	peptidyl-tyrosine dephosphorylation	17	0.89	0.82	9.53	179.25
+GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
+GO:0045589	regulation of regulatory T cell differentiation	11	0.79	0.79	9.52	133.47
+GO:2000378	negative regulation of reactive oxygen species metabolic process	8	0.78	0.71	9.25	113.13
+GO:0030521	androgen receptor signaling pathway	6	0.89	0.82	9.45	54.01
+GO:2000348	regulation of CD40 signaling pathway	4	0.89	0.77	9.41	41.85
+GO:0006349	regulation of gene expression by genetic imprinting	4	0.89	0.80	9.58	130.93
+GO:0006359	regulation of transcription by RNA polymerase III	3	0.84	0.84	9.53	248.57
+GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
+GO:0090521	glomerular visceral epithelial cell migration	1	1.00	0.85	9.63	24.97
+GO:1904172	positive regulation of bleb assembly	1	1.00	0.90	9.63	200.31
