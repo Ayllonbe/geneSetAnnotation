@@ -36,7 +36,7 @@ Then the R script could be running using the terminal, but before they must to h
 - Visualization.R
 - supplementaryVis.R
 
-
+> Rscript resources/Rscript/<file>.R
 
 
 ## Analysis of a gene set
