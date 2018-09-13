@@ -48,9 +48,9 @@ public class MAIN {
 		String protfile =     "resources/SYSTEMSDATA/V2_Trial_8_Modules.csv";
 		try {
 			ReadOrganism infoOrganism = ReadOrganism.chargeFile(protfile, "\t");
-//			gsan.GenSetAnnotation(infoOrganism, "Chaussabel");
-//			Analysis_PlosOne.computeCovertureQuartiles(gsan.getGO(), gsan.getGOA(), infoOrganism, "Chaussabel");
-//			Analysis_PlosOne.getTermSizeByModuleAndSS(gsan.getGO(), gsan.getGOA(),  infoOrganism, "Chaussabel");
+			gsan.GenSetAnnotation(infoOrganism, "Chaussabel");
+			Analysis_PlosOne.computeCovertureQuartiles(gsan.getGO(), gsan.getGOA(), infoOrganism, "Chaussabel");
+			Analysis_PlosOne.getTermSizeByModuleAndSS(gsan.getGO(), gsan.getGOA(),  infoOrganism, "Chaussabel");
 			Analysis_PlosOne.getGenCoverture(gsan.getGO(), gsan.getGOA(), infoOrganism, "Chaussabel");
 		} catch ( Exception e) {
 			// TODO Auto-generated catch block
@@ -63,9 +63,9 @@ public class MAIN {
 		String protfile =     "resources/SYSTEMSDATA/btm_annotation_table.xls";
 		try {
 			ReadOrganism infoOrganism = ReadOrganism.chargeFileXLS(protfile);
-//			gsan.GenSetAnnotation(infoOrganism, "BTM");
-//			Analysis_PlosOne.computeCovertureQuartiles(gsan.getGO(), gsan.getGOA(), infoOrganism, "BTM");
-//			Analysis_PlosOne.getTermSizeByModuleAndSS(gsan.getGO(), gsan.getGOA(),  infoOrganism, "BTM");
+			gsan.GenSetAnnotation(infoOrganism, "BTM");
+			Analysis_PlosOne.computeCovertureQuartiles(gsan.getGO(), gsan.getGOA(), infoOrganism, "BTM");
+			Analysis_PlosOne.getTermSizeByModuleAndSS(gsan.getGO(), gsan.getGOA(),  infoOrganism, "BTM");
 			Analysis_PlosOne.getGenCoverture(gsan.getGO(), gsan.getGOA(), infoOrganism, "BTM");	} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
