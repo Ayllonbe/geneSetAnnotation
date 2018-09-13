@@ -8,28 +8,6 @@ if(!dir.exists(resFile)){
 
 
 ##########################################################################################
-#Chau
-dataset = "Chaussabel"
-t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
-
-tiff(filename = "visualization/Figure_Chaussabel_Sup.tiff",pointsize = 12,
-     width = 8250,height=3250,res=400)
-lineplots(t)
-dev.off()
-
-dataset = "BTM"
-t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
-
-tiff(filename = "visualization/Figure_BTM_Sup.tiff",pointsize = 12,
-     width = 8250,height=3250,res=400)
-lineplots(t)
-dev.off()
-
-s# Order by 
-t<- t[order(t$NbGenesBP),]
-t$Module<- factor(t$Module, levels = unique(t$Module))
-lineplots(t)
-
 
 lineplots <- function(t){
   
@@ -91,3 +69,28 @@ lineplots <- function(t){
                
                widths=unit.c(unit(0.95, "npc") - legend$width, legend$width ))
 }
+
+
+#Chau
+dataset = "Chaussabel"
+t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
+
+tiff(filename = "visualization/Figure_Chaussabel_Sup.tiff",compression = "lzw",pointsize = 12,
+     width = 8250,height=3250,res=400)
+lineplots(t)
+dev.off()
+
+dataset = "BTM"
+t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
+
+tiff(filename = "visualization/Figure_BTM_Sup.tiff",compression = "lzw",pointsize = 12,
+     width = 8250,height=3250,res=400)
+lineplots(t)
+dev.off()
+
+s# Order by 
+t<- t[order(t$NbGenesBP),]
+t$Module<- factor(t$Module, levels = unique(t$Module))
+lineplots(t)
+
+
