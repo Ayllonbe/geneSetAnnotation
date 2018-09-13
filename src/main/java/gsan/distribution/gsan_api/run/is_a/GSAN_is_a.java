@@ -104,5 +104,55 @@ public class GSAN_is_a {
 		
 		
 	}	
+	
+	public void GenSetAnnotation(List<String> symb) throws Exception {
+		/*
+		 * File to export
+		 */		
+		String module = "GS_"+((int)(Math.random()*10000));
+		System.out.println("Your module name is: "+module);
+		String workspace = "results/";
+
+		File dossier = new File(workspace);
+		if(!dossier.exists()){
+			dossier.mkdir();
+		}
+
+		
+		StringBuffer plossb = new StringBuffer();
+
+		plossb.append("SS\tModule\tCoverGenes\tNumTerms\tGNTotal\n");
+		
+			String sub = "GO:0008150";
+//			for( String sub: this.go.subontology.keySet()) {
+				System.out.println("####### SubOntology : " +sub  );
+				String statfolder = workspace+"newBriefings_Incomplete/OwnModules/"+module+"/is_a/";
+
+				dossier = new File(statfolder);
+				if(!dossier.exists()){
+					dossier.mkdir();
+				}
+
+				Set<String> terminosinc = new HashSet<String>(this.goa.getTerms(symb, sub,go)); // Get terms to GOA with removed incomplete terms 
+
+				String export = statfolder+ this.go.allStringtoInfoTerm.get(sub).toName();  // url folder to save the information
+
+				ArrayList<String> listTerm = new ArrayList<String>(terminosinc); // change to list the terms set
+
+				Write.exportSSM(go, sub, this.goa,listTerm, symb,export+"/SemanticMatrix"); //  computed and export the semantic similarity
+
+				String[] methods = {"DF","Ganesan","LC","PS","Zhou","Resnik","Lin","NUnivers","AIC"};
+				
+				Representative.onemetric(module, ic,sub,methods, "average", new HashSet<String>(symb), export+"/SemanticMatrix",  export,  go, listTerm,this.goa,
+						tailmin,RepCombinedSimilarity,precision,nbGeneMin);
+
+			
+			for(String t : this.go.allStringtoInfoTerm.keySet()) {
+				this.go.allStringtoInfoTerm.get(t).geneSet.clear();
+			}
+//		}
+		
+		
+	}	
 }
 

@@ -1,0 +1,53 @@
+id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0050794	regulation of cellular process	19	0.12	0.26	2.47	7.96
+GO:0009615	response to virus	16	0.74	0.66	8.80	27.27
+GO:0098542	defense response to other organism	15	0.66	0.62	8.42	39.21
+GO:0007166	cell surface receptor signaling pathway	14	0.43	0.51	5.91	23.17
+GO:0060337	type I interferon signaling pathway	11	1.00	0.85	9.63	30.19
+GO:0050792	regulation of viral process	9	0.60	0.59	7.74	14.20
+GO:0044237	cellular metabolic process	7	0.16	0.21	2.71	13.80
+GO:0043170	macromolecule metabolic process	7	0.25	0.32	3.46	10.22
+GO:0051336	regulation of hydrolase activity	7	0.46	0.48	6.24	9.25
+GO:0048523	negative regulation of cellular process	7	0.24	0.37	3.90	23.93
+GO:0010468	regulation of gene expression	6	0.35	0.46	5.09	13.73
+GO:0060333	interferon-gamma-mediated signaling pathway	4	1.00	0.85	9.63	30.19
+GO:0031399	regulation of protein modification process	4	0.41	0.56	6.69	72.96
+GO:0006955	immune response	4	0.54	0.40	6.57	12.45
+GO:2000026	regulation of multicellular organismal development	4	0.29	0.39	4.73	23.09
+GO:0071345	cellular response to cytokine stimulus	3	0.67	0.63	8.21	61.60
+GO:0009966	regulation of signal transduction	3	0.33	0.45	5.35	37.59
+GO:0006464	cellular protein modification process	3	0.34	0.49	5.84	147.03
+GO:0050688	regulation of defense response to virus	3	0.75	0.70	9.19	71.29
+GO:0032480	negative regulation of type I interferon production	2	0.80	0.72	9.19	65.25
+GO:0045861	negative regulation of proteolysis	2	0.61	0.68	8.71	337.18
+GO:0043066	negative regulation of apoptotic process	2	0.56	0.63	7.79	81.07
+GO:0033993	response to lipid	2	0.53	0.51	6.86	13.32
+GO:0002720	positive regulation of cytokine production involved in immune response	2	0.74	0.72	9.21	248.72
+GO:0045184	establishment of protein localization	2	0.46	0.48	6.14	17.87
+GO:0045055	regulated exocytosis	2	0.69	0.69	8.57	38.47
+GO:0070098	chemokine-mediated signaling pathway	1	0.73	0.72	9.00	30.19
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	1	1.00	0.82	9.63	25.00
+GO:0010506	regulation of autophagy	1	0.63	0.64	8.27	43.36
+GO:0001756	somitogenesis	1	1.00	0.79	9.63	43.80
+GO:0000266	mitochondrial fission	1	1.00	0.79	9.63	40.49
+GO:0007186	G-protein coupled receptor signaling pathway	1	0.55	0.57	7.20	23.17
+GO:0030501	positive regulation of bone mineralization	1	0.93	0.82	9.56	171.86
+GO:2000679	positive regulation of transcription regulatory region DNA binding	1	0.89	0.77	9.43	47.97
+GO:0032091	negative regulation of protein binding	1	0.70	0.64	8.48	32.72
+GO:0042730	fibrinolysis	1	1.00	0.90	9.63	252.90
+GO:0006006	glucose metabolic process	1	0.71	0.68	8.57	34.68
+GO:0003374	dynamin family protein polymerization involved in mitochondrial fission	1	1.00	0.88	9.63	46.13
+GO:0030593	neutrophil chemotaxis	1	1.00	0.90	9.63	130.30
+GO:0007517	muscle organ development	1	0.78	0.64	8.75	27.68
+GO:0010994	free ubiquitin chain polymerization	1	1.00	0.85	9.63	46.13
+GO:0043011	myeloid dendritic cell differentiation	1	0.89	0.77	9.49	91.17
+GO:0034605	cellular response to heat	1	0.84	0.71	9.26	50.43
+GO:0043367	CD4-positive, alpha-beta T cell differentiation	1	0.78	0.76	9.31	117.17
+GO:0030816	positive regulation of cAMP metabolic process	1	0.83	0.83	9.53	1396.50
+GO:0071360	cellular response to exogenous dsRNA	1	1.00	0.85	9.63	172.53
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	1	1.00	0.82	9.63	44.28
+GO:0006612	protein targeting to membrane	1	0.81	0.82	9.41	149.73
+GO:0070206	protein trimerization	1	0.89	0.77	9.41	42.03
+GO:0010818	T cell chemotaxis	1	0.84	0.80	9.45	127.61
+GO:0002685	regulation of leukocyte migration	1	0.56	0.63	8.17	50.83
+GO:0045648	positive regulation of erythrocyte differentiation	1	0.93	0.84	9.58	358.80
