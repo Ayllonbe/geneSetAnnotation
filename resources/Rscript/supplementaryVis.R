@@ -88,9 +88,29 @@ tiff(filename = "visualization/Figure_BTM_Sup.tiff",compression = "lzw",pointsiz
 lineplots(t)
 dev.off()
 
-s# Order by 
-t<- t[order(t$NbGenesBP),]
-t$Module<- factor(t$Module, levels = unique(t$Module))
-lineplots(t)
-
+tiff(filename = "visualization/Figure_BTM_Sup2.tiff",compression = "lzw",pointsize = 10,
+     width = 2250,height=8250,res=400)
+ggplot(data = t, aes(x=SS, y=Module, fill=value)) + 
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 50, limit = c(0,100), space = "Lab",
+                       name="Percentage") +
+  geom_tile()+
+  theme(axis.text.x = element_text(hjust = 0.5),
+        axis.line.x=element_line(size=0.5*k, colour="black"),
+        axis.line.y = element_line(size=0.5*k,colour="black"),
+        axis.line = element_line(size=1,colour="black"),
+        axis.title = element_text(size=10*k),
+        axis.title.y = element_blank(), #element_text(margin = margin(0,20,0,0)),
+        axis.title.x =element_blank(), #element_text(margin = margin(20,0,0,0)),
+        axis.text = element_text(size=8*k),
+        #panel.grid.major = element_blank(),
+        # panel.grid.minor = element_blank(),
+        # panel.border = element_blank(),
+        legend.key = element_rect(fill = "white", colour = "white"),
+        legend.title = element_text(face = "bold"),
+        legend.title.align=0.5,
+        panel.background = element_blank(), 
+        plot.margin = margin(t = 15, r = 15, b = 15, l = 15, unit = "pt"),
+        plot.title = element_text(size=25*k,hjust = 0.5,face="bold",margin = margin(5,0,40,0)))
+dev.off()
 
