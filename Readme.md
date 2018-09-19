@@ -41,11 +41,11 @@ To run the analysis using the BTM and V2_Trial_8 modules, you have to launch in 
 
 ## Analysis of a gene set
 
-To analyse exclusively one gene set (to recover its representative annotation), you need to rxecute the following line command:
+To analyse exclusively one gene set (to recover its representative annotation), you need to execute the following line command:
 
 > java -jar geneSetAnnotationAnalysis.jar <list_genes>
 
-The list of genes must be provided as symbol ids and each id have to be separated by coma (without space). An example is given:
+The list of genes must be provided as symbol ids and each id has to be separated by coma (without space). An example is given:
 
     java -jar geneSetAnnotationAnalysis.jar LY6E,IFIT1,OAS1,IFIT1,IFIT3,OAS3,IFIT3,OAS1,OASL,LOC129607,ISG15,HERC5,OAS1,MX1,BATF2,LAMP3,IFI44L,XAF1,OASL,IFI44,OAS2,TRIM6,HES4,OTOF,FLJ20035,IFITM3,IFIT3,CXCL10,EPSTI1,SERPING1,LOC26010,OAS2,RSAD2,RTP4
 
