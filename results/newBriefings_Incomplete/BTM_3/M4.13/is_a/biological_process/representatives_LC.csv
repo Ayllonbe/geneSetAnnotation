@@ -4,19 +4,21 @@ GO:0050794	regulation of cellular process	1089	0.12	0.26	2.47	7.96
 GO:0050794	regulation of cellular process	1089	0.12	0.26	2.47	7.96
 GO:0048522	positive regulation of cellular process	675	0.24	0.37	3.90	23.85
 GO:0032502	developmental process	412	0.22	0.11	1.89	3.37
-GO:0051716	cellular response to stimulus	377	0.35	0.30	4.36	13.53
 GO:0006950	response to stress	340	0.39	0.32	4.70	6.14
+GO:0051128	regulation of cellular component organization	313	0.30	0.40	4.57	12.04
 GO:0009967	positive regulation of signal transduction	262	0.44	0.54	6.71	140.23
 GO:0031401	positive regulation of protein modification process	184	0.51	0.63	7.86	366.05
 GO:2000145	regulation of cell motility	183	0.47	0.52	6.88	34.54
 GO:0009968	negative regulation of signal transduction	170	0.44	0.54	6.68	140.65
-GO:0030837	negative regulation of actin filament polymerization	7	0.84	0.85	9.54	433.76
-GO:0051130	positive regulation of cellular component organization	162	0.42	0.50	5.95	43.84
+GO:1901701	cellular response to oxygen-containing compound	167	0.47	0.48	6.19	42.34
+GO:0033554	cellular response to stress	158	0.44	0.42	6.05	25.47
 GO:0008104	protein localization	157	0.40	0.40	5.07	7.46
 GO:0043066	negative regulation of apoptotic process	149	0.56	0.63	7.79	81.07
+GO:0045597	positive regulation of cell differentiation	137	0.45	0.51	6.57	82.53
 GO:0006468	protein phosphorylation	121	0.57	0.64	8.18	177.76
 GO:0030335	positive regulation of cell migration	121	0.58	0.64	8.22	157.26
 GO:0050727	regulation of inflammatory response	80	0.53	0.59	7.40	31.59
+GO:0051493	regulation of cytoskeleton organization	77	0.51	0.58	7.03	19.19
 GO:0043405	regulation of MAP kinase activity	68	0.66	0.76	9.03	322.70
 GO:0001558	regulation of cell growth	55	0.58	0.58	7.66	26.25
 GO:0032386	regulation of intracellular transport	51	0.49	0.53	6.90	27.75
@@ -35,8 +37,8 @@ GO:0032930	positive regulation of superoxide anion generation	7	1.00	0.88	9.63	1
 GO:0032703	negative regulation of interleukin-2 production	7	0.89	0.77	9.43	65.25
 GO:0001578	microtubule bundle formation	6	0.84	0.74	9.31	33.20
 GO:0050732	negative regulation of peptidyl-tyrosine phosphorylation	6	0.80	0.81	9.45	781.02
-GO:0071801	regulation of podosome assembly	4	0.89	0.80	9.43	64.45
 GO:0090331	negative regulation of platelet aggregation	3	0.93	0.88	9.60	548.67
+GO:2001275	positive regulation of glucose import in response to insulin stimulus	2	1.00	0.90	9.63	210.72
 GO:0032079	positive regulation of endodeoxyribonuclease activity	2	1.00	0.90	9.63	975.11
 GO:0070885	negative regulation of calcineurin-NFAT signaling cascade	1	1.00	0.92	9.63	339.11
 GO:0051490	negative regulation of filopodium assembly	1	1.00	0.90	9.63	173.85

@@ -1,19 +1,22 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	647	0.12	0.26	2.47	7.96
-GO:0001819	positive regulation of cytokine production	59	0.51	0.54	6.97	44.26
+GO:0048518	positive regulation of biological process	439	0.21	0.30	3.05	7.96
+GO:0007165	signal transduction	420	0.36	0.43	5.06	19.43
 GO:0031323	regulation of cellular metabolic process	324	0.22	0.36	4.01	22.77
 GO:0048523	negative regulation of cellular process	292	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	251	0.33	0.45	5.35	37.59
+GO:0009967	positive regulation of signal transduction	155	0.44	0.54	6.71	140.23
 GO:0071310	cellular response to organic substance	155	0.44	0.47	5.95	41.66
 GO:0030154	cell differentiation	131	0.39	0.39	5.18	16.68
 GO:0045595	regulation of cell differentiation	125	0.34	0.42	5.25	23.33
 GO:0048585	negative regulation of response to stimulus	118	0.36	0.43	5.03	23.55
 GO:0043312	neutrophil degranulation	110	1.00	0.90	9.63	132.80
 GO:0050778	positive regulation of immune response	109	0.46	0.52	6.76	78.39
-GO:0033993	response to lipid	107	0.53	0.51	6.86	13.32
 GO:0001934	positive regulation of protein phosphorylation	105	0.58	0.69	8.60	663.11
 GO:0050900	leukocyte migration	94	0.60	0.59	8.02	26.94
 GO:0055065	metal ion homeostasis	84	0.57	0.64	7.90	34.21
+GO:0033993	response to lipid	107	0.53	0.51	6.86	13.32
+GO:0014070	response to organic cyclic compound	75	0.45	0.47	5.96	13.32
+GO:0032496	response to lipopolysaccharide	65	0.89	0.74	9.45	64.41
 GO:0051251	positive regulation of lymphocyte activation	63	0.58	0.64	8.19	127.58
 GO:0030001	metal ion transport	61	0.54	0.59	7.29	15.42
 GO:0034622	cellular protein-containing complex assembly	46	0.48	0.53	6.52	40.42
@@ -28,6 +31,7 @@ GO:0001782	B cell homeostasis	5	0.93	0.82	9.51	22.00
 GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
 GO:0097186	amelogenesis	3	1.00	0.82	9.63	26.74
 GO:0006090	pyruvate metabolic process	2	0.62	0.66	8.19	50.36
+GO:0045657	positive regulation of monocyte differentiation	2	1.00	0.90	9.63	840.38
 GO:0006948	induction by virus of host cell-cell fusion	1	1.00	0.88	9.63	77.37
 GO:0048305	immunoglobulin secretion	1	0.93	0.86	9.57	133.33
 GO:0046598	positive regulation of viral entry into host cell	1	0.93	0.84	9.55	85.02

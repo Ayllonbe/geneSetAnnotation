@@ -1,14 +1,16 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0016070	RNA metabolic process	143	0.39	0.52	6.45	112.25
 GO:0006259	DNA metabolic process	33	0.45	0.55	7.12	145.26
+GO:0048523	negative regulation of cellular process	145	0.24	0.37	3.90	23.93
+GO:2000112	regulation of cellular macromolecule biosynthetic process	143	0.36	0.50	5.87	74.82
 GO:0019538	protein metabolic process	134	0.31	0.41	4.91	44.77
+GO:0048661	positive regulation of smooth muscle cell proliferation	2	0.93	0.79	9.52	63.46
 GO:0007165	signal transduction	131	0.36	0.43	5.06	19.43
-GO:0006355	regulation of transcription, DNA-templated	129	0.40	0.60	6.84	245.35
+GO:0048661	positive regulation of smooth muscle cell proliferation	2	0.93	0.79	9.52	63.46
+GO:0007165	signal transduction	131	0.36	0.43	5.06	19.43
 GO:0050804	modulation of chemical synaptic transmission	5	0.52	0.58	7.24	27.32
 GO:0009966	regulation of signal transduction	87	0.33	0.45	5.35	37.59
-GO:0045935	positive regulation of nucleobase-containing compound metabolic process	75	0.44	0.55	6.91	183.64
 GO:0065003	protein-containing complex assembly	55	0.45	0.48	6.06	36.47
-GO:0042127	regulation of cell proliferation	39	0.45	0.48	6.03	12.04
 GO:0030154	cell differentiation	38	0.39	0.39	5.18	16.68
 GO:0031401	positive regulation of protein modification process	34	0.51	0.63	7.86	366.05
 GO:0071310	cellular response to organic substance	32	0.44	0.47	5.95	41.66
@@ -16,14 +18,12 @@ GO:1903047	mitotic cell cycle process	31	0.50	0.45	5.87	11.32
 GO:0000226	microtubule cytoskeleton organization	19	0.58	0.58	7.66	30.31
 GO:0051276	chromosome organization	16	0.55	0.52	6.96	18.35
 GO:0043547	positive regulation of GTPase activity	16	0.93	0.79	9.52	49.34
-GO:0010948	negative regulation of cell cycle process	13	0.53	0.59	7.47	61.75
 GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	8	1.00	0.93	9.63	888.12
 GO:0007268	chemical synaptic transmission	8	0.74	0.72	8.66	23.17
 GO:0006898	receptor-mediated endocytosis	6	0.68	0.66	8.48	28.44
 GO:0001523	retinoid metabolic process	3	0.77	0.76	9.19	47.55
 GO:1903046	meiotic cell cycle process	3	0.49	0.44	6.09	19.36
 GO:0045842	positive regulation of mitotic metaphase/anaphase transition	3	0.93	0.90	9.60	1435.64
-GO:0007093	mitotic cell cycle checkpoint	3	0.71	0.71	9.01	132.20
 GO:0001890	placenta development	2	1.00	0.75	9.63	49.87
 GO:0061003	positive regulation of dendritic spine morphogenesis	2	1.00	0.95	9.63	1908.97
 GO:0071460	cellular response to cell-matrix adhesion	1	1.00	0.79	9.63	47.11

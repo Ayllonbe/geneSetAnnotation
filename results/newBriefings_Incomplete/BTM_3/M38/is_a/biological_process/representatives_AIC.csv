@@ -12,7 +12,6 @@ GO:0006887	exocytosis	244	0.67	0.66	8.38	37.08
 GO:0002366	leukocyte activation involved in immune response	237	0.61	0.55	7.89	38.36
 GO:1902533	positive regulation of intracellular signal transduction	231	0.55	0.63	7.95	189.48
 GO:0065003	protein-containing complex assembly	229	0.45	0.48	6.06	36.47
-GO:0033554	cellular response to stress	226	0.44	0.42	6.05	25.47
 GO:0009968	negative regulation of signal transduction	218	0.44	0.54	6.68	140.65
 GO:0006955	immune response	215	0.54	0.40	6.57	12.45
 GO:0001934	positive regulation of protein phosphorylation	213	0.58	0.69	8.60	663.11
@@ -44,6 +43,7 @@ GO:0071222	cellular response to lipopolysaccharide	61	1.00	0.82	9.63	238.00
 GO:0051924	regulation of calcium ion transport	54	0.59	0.65	7.94	18.44
 GO:0045930	negative regulation of mitotic cell cycle	54	0.58	0.61	7.84	61.24
 GO:0097305	response to alcohol	51	0.63	0.56	7.84	27.32
+GO:0050715	positive regulation of cytokine secretion	50	0.69	0.74	9.07	549.48
 GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
 GO:0008360	regulation of cell shape	42	0.68	0.66	8.69	41.78
 GO:2000027	regulation of organ morphogenesis	40	0.45	0.52	6.54	42.54

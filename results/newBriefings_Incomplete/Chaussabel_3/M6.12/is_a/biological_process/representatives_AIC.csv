@@ -5,7 +5,6 @@ GO:0032774	RNA biosynthetic process	170	0.53	0.62	8.04	473.34
 GO:0006464	cellular protein modification process	166	0.34	0.49	5.84	147.03
 GO:0035556	intracellular signal transduction	106	0.51	0.55	6.92	23.17
 GO:0045893	positive regulation of transcription, DNA-templated	101	0.52	0.67	8.14	1208.12
-GO:0051247	positive regulation of protein metabolic process	89	0.44	0.54	6.72	129.04
 GO:0030154	cell differentiation	73	0.39	0.39	5.18	16.68
 GO:0009967	positive regulation of signal transduction	73	0.44	0.54	6.71	140.23
 GO:0006886	intracellular protein transport	65	0.55	0.65	8.12	90.55
@@ -21,14 +20,15 @@ GO:0006468	protein phosphorylation	46	0.57	0.64	8.18	177.76
 GO:0043065	positive regulation of apoptotic process	40	0.56	0.63	7.81	80.91
 GO:0045787	positive regulation of cell cycle	40	0.53	0.55	7.23	42.18
 GO:0045087	innate immune response	36	0.68	0.59	8.16	26.47
-GO:0034655	nucleobase-containing compound catabolic process	34	0.48	0.53	7.63	314.02
 GO:0043312	neutrophil degranulation	31	1.00	0.90	9.63	132.80
 GO:0098542	defense response to other organism	30	0.66	0.62	8.42	39.21
 GO:0030335	positive regulation of cell migration	27	0.58	0.64	8.22	157.26
 GO:0001819	positive regulation of cytokine production	26	0.51	0.54	6.97	44.26
 GO:0001558	regulation of cell growth	24	0.58	0.58	7.66	26.25
 GO:0051260	protein homooligomerization	21	0.89	0.77	9.41	42.03
+GO:0045862	positive regulation of proteolysis	19	0.61	0.68	8.73	336.28
 GO:0045666	positive regulation of neuron differentiation	18	0.62	0.68	8.71	337.32
+GO:0000956	nuclear-transcribed mRNA catabolic process	18	0.69	0.74	9.30	714.77
 GO:0006406	mRNA export from nucleus	17	0.89	0.84	9.52	121.36
 GO:0034976	response to endoplasmic reticulum stress	15	0.68	0.59	8.28	29.00
 GO:0035690	cellular response to drug	14	0.56	0.53	7.02	41.91
@@ -37,6 +37,7 @@ GO:0009260	ribonucleotide biosynthetic process	14	0.59	0.69	8.78	1153.89
 GO:0001818	negative regulation of cytokine production	14	0.51	0.55	7.03	44.36
 GO:0007565	female pregnancy	13	1.00	0.70	9.63	32.81
 GO:0010469	regulation of signaling receptor activity	13	0.59	0.62	7.95	48.62
+GO:0045732	positive regulation of protein catabolic process	13	0.70	0.70	9.03	231.05
 GO:0009267	cellular response to starvation	13	0.64	0.64	8.46	112.77
 GO:0006334	nucleosome assembly	12	0.87	0.78	9.47	104.52
 GO:0002576	platelet degranulation	12	1.00	0.88	9.63	39.86
@@ -72,6 +73,7 @@ GO:1902235	regulation of endoplasmic reticulum stress-induced intrinsic apoptoti
 GO:0006999	nuclear pore organization	4	0.89	0.74	9.49	38.43
 GO:0007595	lactation	4	1.00	0.82	9.63	25.96
 GO:0071364	cellular response to epidermal growth factor stimulus	4	1.00	0.82	9.63	97.49
+GO:0006309	apoptotic DNA fragmentation	3	1.00	0.90	9.63	682.12
 GO:0006541	glutamine metabolic process	3	0.77	0.78	9.25	86.07
 GO:0014075	response to amine	3	0.80	0.69	9.22	29.80
 GO:0042130	negative regulation of T cell proliferation	3	0.78	0.78	9.42	581.93

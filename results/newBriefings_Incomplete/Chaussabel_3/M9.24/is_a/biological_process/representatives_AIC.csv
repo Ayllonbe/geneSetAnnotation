@@ -1,7 +1,8 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0048523	negative regulation of cellular process	653	0.24	0.37	3.90	23.93
-GO:0090304	nucleic acid metabolic process	613	0.35	0.46	5.97	111.15
 GO:2000112	regulation of cellular macromolecule biosynthetic process	609	0.36	0.50	5.87	74.82
+GO:0043488	regulation of mRNA stability	14	0.74	0.77	9.24	282.23
+GO:0090304	nucleic acid metabolic process	613	0.35	0.46	5.97	111.15
 GO:0019538	protein metabolic process	606	0.31	0.41	4.91	44.77
 GO:0007165	signal transduction	573	0.36	0.43	5.06	19.43
 GO:0006464	cellular protein modification process	485	0.34	0.49	5.84	147.03
@@ -11,11 +12,11 @@ GO:0022607	cellular component assembly	362	0.39	0.39	5.06	14.95
 GO:0031328	positive regulation of cellular biosynthetic process	287	0.41	0.53	6.32	170.14
 GO:0044248	cellular catabolic process	281	0.31	0.36	4.57	26.23
 GO:0070887	cellular response to chemical stimulus	248	0.40	0.40	5.31	25.21
+GO:0032270	positive regulation of cellular protein metabolic process	239	0.47	0.59	7.41	288.49
 GO:2001022	positive regulation of response to DNA damage stimulus	11	0.70	0.70	8.89	86.91
 GO:0009967	positive regulation of signal transduction	227	0.44	0.54	6.71	140.23
 GO:0010033	response to organic substance	283	0.35	0.37	4.75	9.28
 GO:1901700	response to oxygen-containing compound	190	0.39	0.39	5.14	9.28
-GO:0031401	positive regulation of protein modification process	184	0.51	0.63	7.86	366.05
 GO:0009968	negative regulation of signal transduction	176	0.44	0.54	6.68	140.65
 GO:0034613	cellular protein localization	158	0.45	0.48	6.33	26.83
 GO:0043066	negative regulation of apoptotic process	145	0.56	0.63	7.79	81.07
@@ -47,13 +48,10 @@ GO:0044272	sulfur compound biosynthetic process	22	0.56	0.53	7.22	52.25
 GO:0034250	positive regulation of cellular amide metabolic process	20	0.60	0.62	8.20	170.99
 GO:0045444	fat cell differentiation	17	0.87	0.68	9.29	21.07
 GO:0006625	protein targeting to peroxisome	14	0.89	0.86	9.56	237.37
-GO:0009062	fatty acid catabolic process	14	0.68	0.71	8.98	428.64
 GO:0098661	inorganic anion transmembrane transport	14	0.73	0.72	8.98	90.75
-GO:0043488	regulation of mRNA stability	14	0.74	0.77	9.24	282.23
 GO:0006749	glutathione metabolic process	12	0.84	0.74	9.36	147.29
 GO:0031047	gene silencing by RNA	12	0.77	0.76	9.17	70.60
 GO:0032781	positive regulation of ATPase activity	10	0.75	0.70	8.78	51.42
-GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	10	0.83	0.85	9.50	3778.55
 GO:0070192	chromosome organization involved in meiotic cell cycle	9	0.70	0.64	8.57	44.79
 GO:0030837	negative regulation of actin filament polymerization	8	0.84	0.85	9.54	433.76
 GO:0030449	regulation of complement activation	8	0.69	0.72	9.30	245.77
@@ -68,7 +66,6 @@ GO:0090398	cellular senescence	6	0.87	0.68	9.45	55.14
 GO:0035176	social behavior	5	1.00	0.70	9.63	22.58
 GO:0040020	regulation of meiotic nuclear division	5	0.61	0.66	8.53	66.11
 GO:0032350	regulation of hormone metabolic process	5	0.56	0.53	7.55	21.45
-GO:0042744	hydrogen peroxide catabolic process	5	0.93	0.79	9.56	235.80
 GO:1905515	non-motile cilium assembly	5	1.00	0.85	9.63	138.78
 GO:2000321	positive regulation of T-helper 17 cell differentiation	4	0.93	0.93	9.61	2604.30
 GO:0016358	dendrite development	4	0.83	0.74	9.26	32.63

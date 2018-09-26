@@ -11,7 +11,6 @@ GO:0008285	negative regulation of cell proliferation	109	0.56	0.57	7.31	43.61
 GO:0043065	positive regulation of apoptotic process	93	0.56	0.63	7.81	80.91
 GO:0006974	cellular response to DNA damage stimulus	81	0.57	0.53	7.47	29.00
 GO:0006259	DNA metabolic process	80	0.45	0.55	7.12	145.26
-GO:0071396	cellular response to lipid	79	0.60	0.59	7.70	61.75
 GO:0071417	cellular response to organonitrogen compound	69	0.53	0.56	7.37	128.53
 GO:0051276	chromosome organization	61	0.55	0.52	6.96	18.35
 GO:0045787	positive regulation of cell cycle	50	0.53	0.55	7.23	42.18
@@ -27,6 +26,7 @@ GO:0034644	cellular response to UV	13	0.80	0.75	9.22	66.19
 GO:0031100	animal organ regeneration	13	0.89	0.70	9.29	28.09
 GO:0007093	mitotic cell cycle checkpoint	13	0.71	0.71	9.01	132.20
 GO:0031058	positive regulation of histone modification	11	0.67	0.73	9.14	590.85
+GO:0071398	cellular response to fatty acid	11	0.74	0.69	9.00	203.00
 GO:0045599	negative regulation of fat cell differentiation	10	0.93	0.79	9.54	114.62
 GO:0071456	cellular response to hypoxia	10	1.00	0.82	9.63	103.25
 GO:1901992	positive regulation of mitotic cell cycle phase transition	10	0.79	0.77	9.34	187.20
@@ -52,6 +52,7 @@ GO:0044030	regulation of DNA methylation	3	0.80	0.75	9.25	73.35
 GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	3	1.00	0.92	9.63	990.06
 GO:0071732	cellular response to nitric oxide	3	1.00	0.82	9.63	346.50
 GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
+GO:0071392	cellular response to estradiol stimulus	3	1.00	0.82	9.63	338.17
 GO:0072425	signal transduction involved in G2 DNA damage checkpoint	2	0.93	0.86	9.59	196.62
 GO:1903671	negative regulation of sprouting angiogenesis	2	0.87	0.83	9.46	200.37
 GO:0046600	negative regulation of centriole replication	1	0.93	0.90	9.59	466.47

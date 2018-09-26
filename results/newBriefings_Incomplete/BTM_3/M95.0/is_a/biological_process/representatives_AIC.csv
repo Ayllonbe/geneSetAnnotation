@@ -17,6 +17,7 @@ GO:0010629	negative regulation of gene expression	214	0.47	0.56	6.74	59.05
 GO:0009968	negative regulation of signal transduction	211	0.44	0.54	6.68	140.65
 GO:0043066	negative regulation of apoptotic process	208	0.56	0.63	7.79	81.07
 GO:0006351	transcription, DNA-templated	206	0.57	0.68	8.45	581.39
+GO:0051130	positive regulation of cellular component organization	203	0.42	0.50	5.95	43.84
 GO:0050900	leukocyte migration	151	0.60	0.59	8.02	26.94
 GO:0043542	endothelial cell migration	16	0.80	0.75	9.14	24.97
 GO:0045087	innate immune response	162	0.68	0.59	8.16	26.47
@@ -37,7 +38,6 @@ GO:0045766	positive regulation of angiogenesis	49	0.81	0.76	9.30	134.49
 GO:0008360	regulation of cell shape	41	0.68	0.66	8.69	41.78
 GO:0031668	cellular response to extracellular stimulus	41	0.55	0.52	7.38	45.16
 GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
-GO:0051495	positive regulation of cytoskeleton organization	37	0.62	0.66	8.29	90.96
 GO:2000379	positive regulation of reactive oxygen species metabolic process	32	0.78	0.71	9.25	112.72
 GO:0008064	regulation of actin polymerization or depolymerization	29	0.67	0.73	9.05	119.89
 GO:0090316	positive regulation of intracellular protein transport	26	0.71	0.73	9.11	289.79
@@ -61,7 +61,6 @@ GO:1903980	positive regulation of microglial cell activation	4	1.00	0.88	9.63	15
 GO:0043315	positive regulation of neutrophil degranulation	4	1.00	0.93	9.63	798.77
 GO:0006904	vesicle docking involved in exocytosis	3	0.89	0.77	9.43	32.65
 GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
-GO:0033625	positive regulation of integrin activation	3	0.93	0.82	9.55	140.38
 GO:2000363	positive regulation of prostaglandin-E synthase activity	3	1.00	0.82	9.63	43.02
 GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
 GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	2	1.00	0.85	9.63	83.84

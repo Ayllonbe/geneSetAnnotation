@@ -1,31 +1,21 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0007165	signal transduction	265	0.36	0.43	5.06	19.43
-GO:0042127	regulation of cell proliferation	98	0.45	0.48	6.03	12.04
+GO:0050794	regulation of cellular process	455	0.12	0.26	2.47	7.96
+GO:0019222	regulation of metabolic process	258	0.21	0.30	3.39	7.96
 GO:0016043	cellular component organization	205	0.28	0.26	3.74	11.45
+GO:0031325	positive regulation of cellular metabolic process	160	0.33	0.46	5.39	79.98
+GO:0051049	regulation of transport	104	0.31	0.40	4.67	10.45
 GO:0009967	positive regulation of signal transduction	99	0.44	0.54	6.71	140.23
-GO:0032270	positive regulation of cellular protein metabolic process	78	0.47	0.59	7.41	288.49
-GO:0045893	positive regulation of transcription, DNA-templated	69	0.52	0.67	8.14	1208.12
-GO:0010629	negative regulation of gene expression	67	0.47	0.56	6.74	59.05
-GO:0051051	negative regulation of transport	37	0.42	0.50	5.86	25.98
-GO:0030335	positive regulation of cell migration	35	0.58	0.64	8.22	157.26
 GO:0006874	cellular calcium ion homeostasis	30	0.63	0.71	8.83	287.08
 GO:0032496	response to lipopolysaccharide	29	0.89	0.74	9.45	64.41
-GO:0043410	positive regulation of MAPK cascade	28	0.66	0.75	9.17	1017.24
+GO:0044057	regulation of system process	28	0.41	0.46	5.70	11.79
+GO:0050708	regulation of protein secretion	26	0.54	0.62	7.86	96.15
 GO:0099537	trans-synaptic signaling	18	0.63	0.60	8.02	19.88
 GO:0043547	positive regulation of GTPase activity	16	0.93	0.79	9.52	49.34
-GO:0050715	positive regulation of cytokine secretion	13	0.69	0.74	9.07	549.48
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	11	1.00	0.79	9.63	42.20
 GO:0050868	negative regulation of T cell activation	9	0.64	0.69	8.87	233.20
-GO:0043524	negative regulation of neuron apoptotic process	9	0.79	0.77	9.25	179.63
-GO:0045987	positive regulation of smooth muscle contraction	6	0.77	0.76	9.08	66.30
 GO:0051604	protein maturation	6	0.59	0.59	7.61	47.86
-GO:0032967	positive regulation of collagen biosynthetic process	5	1.00	0.82	9.63	105.22
-GO:0045907	positive regulation of vasoconstriction	4	0.89	0.82	9.58	103.52
 GO:0072659	protein localization to plasma membrane	4	0.79	0.72	9.26	65.43
 GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	3	0.87	0.83	9.53	431.32
 GO:0048873	homeostasis of number of cells within a tissue	2	0.89	0.77	9.38	26.75
 GO:0045085	negative regulation of interleukin-2 biosynthetic process	1	1.00	0.88	9.63	836.02
-GO:0014052	regulation of gamma-aminobutyric acid secretion	1	0.89	0.82	9.47	86.21
-GO:0003105	negative regulation of glomerular filtration	1	1.00	0.85	9.63	60.83
-GO:1900134	negative regulation of renin secretion into blood stream	1	1.00	0.90	9.63	591.23
 GO:0030194	positive regulation of blood coagulation	1	0.77	0.76	9.34	205.45

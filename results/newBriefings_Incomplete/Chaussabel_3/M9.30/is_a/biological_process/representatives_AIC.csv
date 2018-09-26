@@ -13,16 +13,15 @@ GO:0032774	RNA biosynthetic process	287	0.53	0.62	8.04	473.34
 GO:0022607	cellular component assembly	285	0.39	0.39	5.06	14.95
 GO:0048869	cellular developmental process	215	0.32	0.29	4.16	13.85
 GO:0015031	protein transport	197	0.48	0.59	6.99	54.46
+GO:0002682	regulation of immune system process	186	0.32	0.36	4.60	7.96
 GO:0070887	cellular response to chemical stimulus	182	0.40	0.40	5.31	25.21
 GO:0051240	positive regulation of multicellular organismal process	154	0.35	0.42	4.98	23.60
 GO:0031401	positive regulation of protein modification process	143	0.51	0.63	7.86	366.05
 GO:0010033	response to organic substance	203	0.35	0.37	4.75	9.28
 GO:1901700	response to oxygen-containing compound	136	0.39	0.39	5.14	9.28
-GO:0050776	regulation of immune response	133	0.38	0.44	5.64	22.45
 GO:0009968	negative regulation of signal transduction	125	0.44	0.54	6.68	140.65
 GO:0034613	cellular protein localization	123	0.45	0.48	6.33	26.83
 GO:0043549	regulation of kinase activity	113	0.53	0.64	7.76	45.51
-GO:0043207	response to external biotic stimulus	84	0.41	0.40	5.91	16.64
 GO:0030334	regulation of cell migration	83	0.48	0.56	7.11	36.74
 GO:0043065	positive regulation of apoptotic process	78	0.56	0.63	7.81	80.91
 GO:0014070	response to organic cyclic compound	65	0.45	0.47	5.96	13.32
@@ -36,6 +35,7 @@ GO:0051251	positive regulation of lymphocyte activation	43	0.58	0.64	8.19	127.58
 GO:0071396	cellular response to lipid	43	0.60	0.59	7.70	61.75
 GO:0002768	immune response-regulating cell surface receptor signaling pathway	42	0.68	0.66	8.81	76.40
 GO:0001666	response to hypoxia	37	0.81	0.70	9.12	21.16
+GO:0002237	response to molecule of bacterial origin	34	0.69	0.59	8.74	31.75
 GO:0006874	cellular calcium ion homeostasis	30	0.63	0.71	8.83	287.08
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	30	1.00	0.79	9.63	42.20
 GO:0043409	negative regulation of MAPK cascade	29	0.72	0.78	9.37	1019.28
@@ -76,10 +76,10 @@ GO:0043215	daunorubicin transport	1	1.00	0.85	9.63	103.95
 GO:0070948	regulation of neutrophil mediated cytotoxicity	1	0.72	0.71	9.12	29.22
 GO:0061092	positive regulation of phospholipid translocation	1	1.00	0.90	9.63	348.31
 GO:0032913	negative regulation of transforming growth factor beta3 production	1	0.93	0.82	9.54	85.64
+GO:0071217	cellular response to external biotic stimulus	1	1.00	0.75	9.63	54.04
 GO:0060449	bud elongation involved in lung branching	1	1.00	0.82	9.63	21.22
 GO:0086073	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
 GO:1904478	regulation of intestinal absorption	1	0.77	0.71	9.22	30.84
 GO:2000768	positive regulation of nephron tubule epithelial cell differentiation	1	1.00	0.88	9.63	415.06
-GO:0002638	negative regulation of immunoglobulin production	1	0.80	0.75	9.19	77.13
 GO:0060485	mesenchyme development	2	0.72	0.61	8.18	15.06
 GO:0007498	mesoderm development	1	0.83	0.66	8.82	15.06

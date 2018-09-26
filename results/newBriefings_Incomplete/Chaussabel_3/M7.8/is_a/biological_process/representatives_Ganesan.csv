@@ -10,18 +10,19 @@ GO:0051128	regulation of cellular component organization	224	0.30	0.40	4.57	12.0
 GO:0009966	regulation of signal transduction	199	0.33	0.45	5.35	37.59
 GO:0006351	transcription, DNA-templated	194	0.57	0.68	8.45	581.39
 GO:0044248	cellular catabolic process	163	0.31	0.36	4.57	26.23
-GO:0032270	positive regulation of cellular protein metabolic process	122	0.47	0.59	7.41	288.49
-GO:0031400	negative regulation of protein modification process	51	0.53	0.64	7.94	366.95
 GO:0006796	phosphate-containing compound metabolic process	149	0.36	0.43	5.28	20.85
 GO:0051049	regulation of transport	144	0.31	0.40	4.67	10.45
 GO:0015031	protein transport	143	0.48	0.59	6.99	54.46
 GO:0035556	intracellular signal transduction	137	0.51	0.55	6.92	23.17
+GO:0031400	negative regulation of protein modification process	51	0.53	0.64	7.94	366.95
+GO:0031401	positive regulation of protein modification process	91	0.51	0.63	7.86	366.05
 GO:0006508	proteolysis	122	0.55	0.57	7.34	47.86
 GO:0043065	positive regulation of apoptotic process	58	0.56	0.63	7.81	80.91
 GO:0060548	negative regulation of cell death	77	0.54	0.56	7.27	41.94
-GO:0051336	regulation of hydrolase activity	100	0.46	0.48	6.24	9.25
 GO:0071310	cellular response to organic substance	98	0.44	0.47	5.95	41.66
 GO:0034613	cellular protein localization	83	0.45	0.48	6.33	26.83
+GO:0051345	positive regulation of hydrolase activity	67	0.57	0.57	7.42	32.99
+GO:0034260	negative regulation of GTPase activity	3	1.00	0.82	9.63	61.14
 GO:0006811	ion transport	69	0.38	0.44	5.19	10.99
 GO:0019752	carboxylic acid metabolic process	67	0.32	0.45	5.31	42.50
 GO:0007010	cytoskeleton organization	60	0.52	0.51	6.76	18.35

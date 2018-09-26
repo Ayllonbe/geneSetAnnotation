@@ -51,13 +51,14 @@ GO:0001701	in utero embryonic development	82	1.00	0.85	9.63	22.50
 GO:0006816	calcium ion transport	74	0.67	0.71	8.69	35.67
 GO:0030833	regulation of actin filament polymerization	68	0.70	0.77	9.22	153.53
 GO:1903169	regulation of calcium ion transmembrane transport	58	0.63	0.69	8.50	58.21
-GO:0022904	respiratory electron transport chain	53	0.74	0.66	8.68	30.45
 GO:0006694	steroid biosynthetic process	52	0.67	0.63	8.59	127.07
+GO:0008016	regulation of heart contraction	52	0.57	0.61	7.59	16.15
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	49	0.93	0.93	9.60	734.49
 GO:0097711	ciliary basal body-plasma membrane docking	42	1.00	0.79	9.63	21.39
 GO:0007517	muscle organ development	40	0.78	0.64	8.75	27.68
 GO:0035264	multicellular organism growth	36	1.00	0.70	9.63	22.58
 GO:0045540	regulation of cholesterol biosynthetic process	28	0.89	0.84	9.49	116.99
+GO:0031623	receptor internalization	25	0.72	0.71	9.20	64.85
 GO:0015918	sterol transport	25	0.74	0.69	8.80	36.24
 GO:1902476	chloride transmembrane transport	24	1.00	0.88	9.63	110.52
 GO:0045070	positive regulation of viral genome replication	23	0.89	0.82	9.47	85.31
@@ -73,7 +74,6 @@ GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	12	1.00	0.92	9
 GO:0006884	cell volume homeostasis	11	0.87	0.76	9.39	49.53
 GO:0042572	retinol metabolic process	11	1.00	0.90	9.63	118.01
 GO:0071318	cellular response to ATP	10	1.00	0.85	9.63	523.25
-GO:0086004	regulation of cardiac muscle cell contraction	10	0.71	0.75	9.31	77.56
 GO:0046856	phosphatidylinositol dephosphorylation	10	1.00	0.88	9.63	218.15
 GO:0035249	synaptic transmission, glutamatergic	8	1.00	0.88	9.63	25.74
 GO:0045822	negative regulation of heart contraction	8	0.74	0.72	9.04	64.42
@@ -81,7 +81,6 @@ GO:0031573	intra-S DNA damage checkpoint	8	1.00	0.92	9.63	277.39
 GO:0046855	inositol phosphate dephosphorylation	8	0.93	0.84	9.59	336.66
 GO:0060315	negative regulation of ryanodine-sensitive calcium-release channel activity	7	1.00	0.93	9.63	2557.62
 GO:0071397	cellular response to cholesterol	7	1.00	0.85	9.63	437.71
-GO:1901844	regulation of cell communication by electrical coupling involved in cardiac conduction	6	0.89	0.82	9.47	47.34
 GO:0034498	early endosome to Golgi transport	6	1.00	0.85	9.63	101.51
 GO:0045475	locomotor rhythm	5	1.00	0.75	9.63	28.71
 GO:0060287	epithelial cilium movement involved in determination of left/right asymmetry	5	1.00	0.82	9.63	22.06

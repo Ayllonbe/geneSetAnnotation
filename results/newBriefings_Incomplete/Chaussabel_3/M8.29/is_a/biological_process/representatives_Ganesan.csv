@@ -27,7 +27,6 @@ GO:0050900	leukocyte migration	105	0.60	0.59	8.02	26.94
 GO:0000398	mRNA splicing, via spliceosome	95	0.83	0.85	9.49	356.67
 GO:0006913	nucleocytoplasmic transport	93	0.63	0.64	8.15	33.20
 GO:0001666	response to hypoxia	91	0.81	0.70	9.12	21.16
-GO:0007005	mitochondrion organization	83	0.62	0.56	7.74	18.35
 GO:0051607	defense response to virus	78	0.87	0.76	9.49	78.89
 GO:0022900	electron transport chain	70	0.71	0.61	8.48	29.76
 GO:0006367	transcription initiation from RNA polymerase II promoter	68	1.00	0.90	9.63	477.15
@@ -46,6 +45,7 @@ GO:0008543	fibroblast growth factor receptor signaling pathway	20	0.71	0.73	8.57
 GO:0051402	neuron apoptotic process	19	0.83	0.70	9.02	23.44
 GO:0006363	termination of RNA polymerase I transcription	17	1.00	0.90	9.63	477.15
 GO:0031497	chromatin assembly	12	0.76	0.67	8.80	37.86
+GO:0000422	autophagy of mitochondrion	12	0.87	0.76	9.45	99.53
 GO:0000715	nucleotide-excision repair, DNA damage recognition	12	0.93	0.76	9.47	21.24
 GO:1903077	negative regulation of protein localization to plasma membrane	8	0.84	0.80	9.49	218.53
 GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	8	0.93	0.86	9.57	68.47
@@ -53,6 +53,7 @@ GO:0097345	mitochondrial outer membrane permeabilization	6	1.00	0.92	9.63	138.60
 GO:0001682	tRNA 5'-leader removal	5	1.00	0.93	9.63	715.80
 GO:0010917	negative regulation of mitochondrial membrane potential	4	1.00	0.79	9.63	24.66
 GO:0048742	regulation of skeletal muscle fiber development	3	0.89	0.82	9.51	107.10
+GO:0043653	mitochondrial fragmentation involved in apoptotic process	3	1.00	0.82	9.63	22.13
 GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
 GO:0071279	cellular response to cobalt ion	3	1.00	0.82	9.63	77.81
 GO:0044861	protein transport into plasma membrane raft	2	1.00	0.93	9.63	279.98

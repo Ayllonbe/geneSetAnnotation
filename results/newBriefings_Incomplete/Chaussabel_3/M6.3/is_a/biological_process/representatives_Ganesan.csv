@@ -2,6 +2,7 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0010604	positive regulation of macromolecule metabolic process	31	0.37	0.48	5.51	38.99
 GO:0010468	regulation of gene expression	55	0.35	0.46	5.09	13.73
 GO:0016070	RNA metabolic process	50	0.39	0.52	6.45	112.25
+GO:0048523	negative regulation of cellular process	44	0.24	0.37	3.90	23.93
 GO:0006355	regulation of transcription, DNA-templated	44	0.40	0.60	6.84	245.35
 GO:0006464	cellular protein modification process	37	0.34	0.49	5.84	147.03
 GO:0051128	regulation of cellular component organization	34	0.30	0.40	4.57	12.04
@@ -10,6 +11,7 @@ GO:0033043	regulation of organelle organization	25	0.36	0.47	5.49	15.89
 GO:0015031	protein transport	23	0.48	0.59	6.99	54.46
 GO:0035556	intracellular signal transduction	22	0.51	0.55	6.92	23.17
 GO:0033554	cellular response to stress	20	0.44	0.42	6.05	25.47
+GO:0051130	positive regulation of cellular component organization	19	0.42	0.50	5.95	43.84
 GO:0009966	regulation of signal transduction	18	0.33	0.45	5.35	37.59
 GO:0010564	regulation of cell cycle process	17	0.42	0.50	6.22	14.24
 GO:0051240	positive regulation of multicellular organismal process	16	0.35	0.42	4.98	23.60
@@ -32,11 +34,12 @@ GO:0042981	regulation of apoptotic process	8	0.45	0.55	6.60	16.23
 GO:0051028	mRNA transport	8	0.87	0.81	9.45	42.49
 GO:0000398	mRNA splicing, via spliceosome	8	0.83	0.85	9.49	356.67
 GO:0030334	regulation of cell migration	8	0.48	0.56	7.11	36.74
-GO:0000956	nuclear-transcribed mRNA catabolic process	8	0.69	0.74	9.30	714.77
 GO:0051052	regulation of DNA metabolic process	7	0.47	0.56	7.17	70.58
+GO:0120035	regulation of plasma membrane bounded cell projection organization	7	0.51	0.58	7.05	17.28
 GO:0070507	regulation of microtubule cytoskeleton organization	7	0.61	0.65	8.24	33.71
 GO:0042127	regulation of cell proliferation	7	0.45	0.48	6.03	12.04
 GO:0051098	regulation of binding	6	0.50	0.45	6.36	6.77
+GO:0070848	response to growth factor	6	0.71	0.60	8.45	13.32
 GO:1903829	positive regulation of cellular protein localization	6	0.60	0.62	7.80	40.87
 GO:1903530	regulation of secretion by cell	6	0.44	0.54	6.38	28.69
 GO:0001701	in utero embryonic development	5	1.00	0.85	9.63	22.50
@@ -66,7 +69,6 @@ GO:0090307	mitotic spindle assembly	3	1.00	0.88	9.63	186.05
 GO:0007268	chemical synaptic transmission	3	0.74	0.72	8.66	23.17
 GO:0071103	DNA conformation change	3	0.67	0.63	8.24	21.24
 GO:0006369	termination of RNA polymerase II transcription	3	0.89	0.84	9.55	477.15
-GO:0061013	regulation of mRNA catabolic process	3	0.66	0.70	8.87	135.11
 GO:0051260	protein homooligomerization	3	0.89	0.77	9.41	42.03
 GO:0040001	establishment of mitotic spindle localization	3	0.89	0.80	9.58	138.62
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	3	1.00	0.79	9.63	42.20
@@ -82,7 +84,6 @@ GO:0043153	entrainment of circadian clock by photoperiod	2	1.00	0.82	9.63	32.76
 GO:0007080	mitotic metaphase plate congression	2	1.00	0.85	9.63	61.63
 GO:0048675	axon extension	2	0.89	0.74	9.43	51.99
 GO:0007097	nuclear migration	2	0.71	0.65	8.71	66.02
-GO:0007093	mitotic cell cycle checkpoint	2	0.71	0.71	9.01	132.20
 GO:0035855	megakaryocyte development	2	1.00	0.79	9.63	66.39
 GO:0046832	negative regulation of RNA export from nucleus	2	0.84	0.80	9.45	195.26
 GO:0046718	viral entry into host cell	2	0.77	0.73	8.94	28.37
@@ -93,18 +94,15 @@ GO:0007062	sister chromatid cohesion	2	0.75	0.67	8.80	32.57
 GO:0010458	exit from mitosis	2	1.00	0.79	9.63	29.82
 GO:0051294	establishment of spindle orientation	2	0.87	0.78	9.52	88.54
 GO:0016180	snRNA processing	2	0.80	0.80	9.35	356.39
-GO:0071774	response to fibroblast growth factor	2	0.93	0.76	9.47	24.05
 GO:0008361	regulation of cell size	2	0.78	0.68	9.00	28.02
 GO:0045540	regulation of cholesterol biosynthetic process	2	0.89	0.84	9.49	116.99
 GO:0016082	synaptic vesicle priming	2	1.00	0.82	9.63	54.68
 GO:0045652	regulation of megakaryocyte differentiation	2	0.89	0.80	9.46	68.96
-GO:0007026	negative regulation of microtubule depolymerization	2	0.89	0.86	9.55	364.42
 GO:0016573	histone acetylation	2	0.69	0.78	9.12	658.07
 GO:0006376	mRNA splice site selection	2	0.87	0.78	9.53	66.60
 GO:0010613	positive regulation of cardiac muscle hypertrophy	2	0.89	0.82	9.49	95.58
 GO:0032526	response to retinoic acid	2	0.93	0.76	9.49	43.79
 GO:0006352	DNA-templated transcription, initiation	2	0.83	0.79	9.45	475.54
-GO:0030516	regulation of axon extension	2	0.79	0.81	9.47	209.03
 GO:0030520	intracellular estrogen receptor signaling pathway	2	1.00	0.88	9.63	54.01
 GO:0006665	sphingolipid metabolic process	2	0.61	0.63	8.44	65.68
 GO:0042795	snRNA transcription by RNA polymerase II	2	1.00	0.95	9.63	1410.65
@@ -118,8 +116,6 @@ GO:0000086	G2/M transition of mitotic cell cycle	2	1.00	0.79	9.63	43.45
 GO:1904837	beta-catenin-TCF complex assembly	2	1.00	0.79	9.63	40.42
 GO:0051568	histone H3-K4 methylation	2	0.87	0.87	9.53	767.59
 GO:0048562	embryonic organ morphogenesis	2	0.76	0.63	8.67	29.31
-GO:2000378	negative regulation of reactive oxygen species metabolic process	2	0.78	0.71	9.25	113.13
-GO:0048260	positive regulation of receptor-mediated endocytosis	2	0.81	0.78	9.34	175.17
 GO:0006633	fatty acid biosynthetic process	2	0.65	0.70	8.91	359.85
 GO:0033559	unsaturated fatty acid metabolic process	2	0.66	0.71	8.83	93.73
 GO:0001676	long-chain fatty acid metabolic process	2	0.68	0.72	8.87	93.73
@@ -160,7 +156,6 @@ GO:0015949	nucleobase-containing small molecule interconversion	1	0.77	0.71	9.27
 GO:0034773	histone H4-K20 trimethylation	1	1.00	0.95	9.63	1138.74
 GO:0001756	somitogenesis	1	1.00	0.79	9.63	43.80
 GO:0000305	response to oxygen radical	1	0.87	0.72	9.51	40.06
-GO:0010592	positive regulation of lamellipodium assembly	1	1.00	0.90	9.63	310.05
 GO:0045723	positive regulation of fatty acid biosynthetic process	1	0.80	0.77	9.45	668.03
 GO:0051292	nuclear pore complex assembly	1	0.93	0.79	9.55	123.37
 GO:0048821	erythrocyte development	1	0.89	0.74	9.38	33.54
@@ -200,12 +195,10 @@ GO:0097368	establishment of Sertoli cell barrier	1	1.00	0.82	9.63	53.97
 GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	1	1.00	0.88	9.63	67.29
 GO:0002082	regulation of oxidative phosphorylation	1	0.77	0.80	9.47	169.95
 GO:0048596	embryonic camera-type eye morphogenesis	1	1.00	0.85	9.63	49.04
-GO:1903055	positive regulation of extracellular matrix organization	1	0.83	0.74	9.19	65.58
 GO:0034087	establishment of mitotic sister chromatid cohesion	1	1.00	0.75	9.63	27.52
 GO:0034088	maintenance of mitotic sister chromatid cohesion	1	0.87	0.68	9.16	27.52
 GO:0014015	positive regulation of gliogenesis	1	0.73	0.74	9.26	336.55
 GO:0042921	glucocorticoid receptor signaling pathway	1	1.00	0.90	9.63	54.70
-GO:0071230	cellular response to amino acid stimulus	1	0.71	0.68	8.96	283.90
 GO:0006986	response to unfolded protein	1	0.87	0.72	9.34	23.96
 GO:1904062	regulation of cation transmembrane transport	1	0.49	0.59	7.03	34.83
 GO:2001271	negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	1	1.00	0.96	9.63	947.59
@@ -213,7 +206,6 @@ GO:0030851	granulocyte differentiation	1	0.87	0.76	9.31	47.07
 GO:0071320	cellular response to cAMP	1	1.00	0.85	9.63	327.37
 GO:0014037	Schwann cell differentiation	1	1.00	0.79	9.63	23.15
 GO:0016575	histone deacetylation	1	0.79	0.79	9.40	357.61
-GO:0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia	1	0.89	0.89	9.56	532.70
 GO:0036336	dendritic cell migration	1	0.84	0.74	9.41	29.14
 GO:0005977	glycogen metabolic process	1	0.87	0.78	9.52	182.58
 GO:0000296	spermine transport	1	0.93	0.82	9.54	78.82
@@ -222,10 +214,8 @@ GO:0051542	elastin biosynthetic process	1	1.00	0.85	9.63	392.95
 GO:0000045	autophagosome assembly	1	1.00	0.82	9.63	62.10
 GO:0002223	stimulatory C-type lectin receptor signaling pathway	1	1.00	0.93	9.63	628.11
 GO:0035261	external genitalia morphogenesis	1	1.00	0.79	9.63	35.80
-GO:0071364	cellular response to epidermal growth factor stimulus	1	1.00	0.82	9.63	97.49
 GO:0048015	phosphatidylinositol-mediated signaling	1	0.93	0.82	9.51	26.43
 GO:0048016	inositol phosphate-mediated signaling	1	0.93	0.82	9.51	27.81
 GO:0030198	extracellular matrix organization	1	0.68	0.59	8.24	16.90
-GO:0051893	regulation of focal adhesion assembly	1	0.89	0.80	9.47	59.48
 GO:0050435	amyloid-beta metabolic process	1	0.93	0.79	9.53	60.02
 GO:0006825	copper ion transport	1	0.77	0.76	9.07	19.76

@@ -1,5 +1,16 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050789	regulation of biological process	745	0.09	0.17	1.80	4.47
-GO:0032502	developmental process	249	0.22	0.11	1.89	3.37
+GO:0050794	regulation of cellular process	699	0.12	0.26	2.47	7.96
+GO:0010556	regulation of macromolecule biosynthetic process	236	0.33	0.46	5.12	27.30
+GO:0048869	cellular developmental process	203	0.32	0.29	4.16	13.85
+GO:0051241	negative regulation of multicellular organismal process	98	0.35	0.42	4.99	23.69
 GO:0006351	transcription, DNA-templated	79	0.57	0.68	8.45	581.39
+GO:0048513	animal organ development	45	0.50	0.45	5.88	11.73
+GO:0009887	animal organ morphogenesis	18	0.55	0.47	6.38	10.94
+GO:2000027	regulation of organ morphogenesis	17	0.45	0.52	6.54	42.54
+GO:0048754	branching morphogenesis of an epithelial tube	11	0.74	0.69	8.88	51.71
+GO:0002686	negative regulation of leukocyte migration	7	0.67	0.71	8.99	239.84
+GO:0035264	multicellular organism growth	5	1.00	0.70	9.63	22.58
+GO:0001953	negative regulation of cell-matrix adhesion	4	0.87	0.78	9.39	66.96
+GO:0030326	embryonic limb morphogenesis	4	0.89	0.74	9.38	43.31
 GO:0008542	visual learning	3	1.00	0.88	9.63	51.66
+GO:0060044	negative regulation of cardiac muscle cell proliferation	1	1.00	0.92	9.63	721.62

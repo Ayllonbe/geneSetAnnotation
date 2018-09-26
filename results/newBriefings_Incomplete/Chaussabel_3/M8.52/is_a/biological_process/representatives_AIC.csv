@@ -1,22 +1,19 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	2123	0.12	0.26	2.47	7.96
 GO:0044237	cellular metabolic process	1926	0.16	0.21	2.71	13.80
-GO:0016070	RNA metabolic process	745	0.39	0.52	6.45	112.25
-GO:0044260	cellular macromolecule metabolic process	1392	0.28	0.39	4.44	30.44
-GO:0016070	RNA metabolic process	745	0.39	0.52	6.45	112.25
-GO:0044260	cellular macromolecule metabolic process	1392	0.28	0.39	4.44	30.44
-GO:0016070	RNA metabolic process	745	0.39	0.52	6.45	112.25
-GO:0044260	cellular macromolecule metabolic process	1392	0.28	0.39	4.44	30.44
-GO:0006810	transport	880	0.28	0.34	3.95	7.46
+GO:0019538	protein metabolic process	899	0.31	0.41	4.91	44.77
 GO:0051252	regulation of RNA metabolic process	864	0.37	0.51	6.06	70.58
+GO:0016070	RNA metabolic process	745	0.39	0.52	6.45	112.25
 GO:0009966	regulation of signal transduction	643	0.33	0.45	5.35	37.59
-GO:0009892	negative regulation of metabolic process	642	0.32	0.41	4.73	22.63
+GO:0031324	negative regulation of cellular metabolic process	572	0.34	0.46	5.46	80.35
 GO:0006996	organelle organization	496	0.39	0.39	5.17	14.95
 GO:0048869	cellular developmental process	462	0.32	0.29	4.16	13.85
-GO:0001932	regulation of protein phosphorylation	323	0.50	0.62	7.64	109.03
-GO:0071310	cellular response to organic substance	296	0.44	0.47	5.95	41.66
-GO:0035690	cellular response to drug	82	0.56	0.53	7.02	41.91
+GO:0016192	vesicle-mediated transport	401	0.52	0.51	6.57	10.99
+GO:0070887	cellular response to chemical stimulus	370	0.40	0.40	5.31	25.21
+GO:0015031	protein transport	343	0.48	0.59	6.99	54.46
 GO:0051336	regulation of hydrolase activity	292	0.46	0.48	6.24	9.25
+GO:0001934	positive regulation of protein phosphorylation	215	0.58	0.69	8.60	663.11
+GO:0043066	negative regulation of apoptotic process	209	0.56	0.63	7.79	81.07
 GO:0045597	positive regulation of cell differentiation	191	0.45	0.51	6.57	82.53
 GO:0043312	neutrophil degranulation	120	1.00	0.90	9.63	132.80
 GO:0008203	cholesterol metabolic process	35	0.80	0.72	9.22	82.65
@@ -26,10 +23,14 @@ GO:0050796	regulation of insulin secretion	30	0.83	0.81	9.53	205.48
 GO:0000281	mitotic cytokinesis	25	0.93	0.76	9.47	28.62
 GO:0030148	sphingolipid biosynthetic process	25	0.69	0.70	8.99	238.83
 GO:0070972	protein localization to endoplasmic reticulum	24	0.79	0.72	9.14	32.77
+GO:0071333	cellular response to glucose stimulus	10	1.00	0.88	9.63	272.30
+GO:0000188	inactivation of MAPK activity	10	0.84	0.88	9.56	2610.87
 GO:0097421	liver regeneration	9	1.00	0.82	9.63	47.22
 GO:0046326	positive regulation of glucose import	8	0.93	0.84	9.55	84.68
 GO:0044788	modulation by host of viral process	8	0.72	0.68	8.80	26.84
+GO:0032966	negative regulation of collagen biosynthetic process	5	1.00	0.82	9.63	106.40
 GO:0002710	negative regulation of T cell mediated immunity	5	0.76	0.75	9.34	266.77
 GO:2000301	negative regulation of synaptic vesicle exocytosis	2	0.87	0.87	9.56	1062.04
+GO:1905451	positive regulation of Fc-gamma receptor signaling pathway involved in phagocytosis	2	1.00	0.90	9.63	644.89
 GO:0019953	sexual reproduction	1	0.89	0.64	9.29	21.92
 GO:0098868	bone growth	1	0.89	0.70	9.34	24.19

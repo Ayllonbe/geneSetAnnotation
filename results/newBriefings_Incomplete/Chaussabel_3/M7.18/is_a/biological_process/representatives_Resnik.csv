@@ -1,10 +1,10 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0019538	protein metabolic process	1887	0.31	0.41	4.91	44.77
-GO:0051641	cellular localization	1091	0.37	0.31	4.44	5.67
-GO:0051234	establishment of localization	1886	0.28	0.26	3.49	5.67
 GO:0044267	cellular protein metabolic process	1621	0.34	0.46	5.57	80.87
 GO:0031324	negative regulation of cellular metabolic process	1170	0.34	0.46	5.46	80.35
 GO:0006357	regulation of transcription by RNA polymerase II	1152	0.44	0.63	7.11	248.57
+GO:0051234	establishment of localization	1886	0.28	0.26	3.49	5.67
+GO:0051641	cellular localization	1091	0.37	0.31	4.44	5.67
 GO:0006351	transcription, DNA-templated	1084	0.57	0.68	8.45	581.39
 GO:0007166	cell surface receptor signaling pathway	998	0.43	0.51	5.91	23.17
 GO:0010033	response to organic substance	894	0.35	0.37	4.75	9.28

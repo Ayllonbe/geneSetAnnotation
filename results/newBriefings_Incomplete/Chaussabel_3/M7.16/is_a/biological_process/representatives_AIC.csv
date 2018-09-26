@@ -1,4 +1,5 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	2361	0.24	0.37	3.90	23.85
 GO:0048523	negative regulation of cellular process	2143	0.24	0.37	3.90	23.93
 GO:0019538	protein metabolic process	1971	0.31	0.41	4.91	44.77
 GO:0090304	nucleic acid metabolic process	1955	0.35	0.46	5.97	111.15
@@ -23,29 +24,29 @@ GO:0051094	positive regulation of developmental process	553	0.38	0.44	5.27	23.11
 GO:0034613	cellular protein localization	547	0.45	0.48	6.33	26.83
 GO:0043066	negative regulation of apoptotic process	460	0.56	0.63	7.79	81.07
 GO:0019752	carboxylic acid metabolic process	452	0.32	0.45	5.31	42.50
-GO:0001934	positive regulation of protein phosphorylation	450	0.58	0.69	8.60	663.11
-GO:0008284	positive regulation of cell proliferation	402	0.56	0.57	7.27	43.45
 GO:0050778	positive regulation of immune response	383	0.46	0.52	6.76	78.39
+GO:1901701	cellular response to oxygen-containing compound	382	0.47	0.48	6.19	42.34
 GO:0030334	regulation of cell migration	379	0.48	0.56	7.11	36.74
 GO:0043065	positive regulation of apoptotic process	346	0.56	0.63	7.81	80.91
-GO:0008285	negative regulation of cell proliferation	335	0.56	0.57	7.31	43.61
 GO:0080135	regulation of cellular response to stress	333	0.46	0.52	6.64	26.18
 GO:0006955	immune response	329	0.54	0.40	6.57	12.45
 GO:0043312	neutrophil degranulation	322	1.00	0.90	9.63	132.80
 GO:0045786	negative regulation of cell cycle	302	0.51	0.54	7.10	42.35
 GO:0051707	response to other organism	294	0.42	0.46	6.41	24.63
 GO:0045596	negative regulation of cell differentiation	274	0.44	0.51	6.50	82.79
+GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	26	1.00	0.93	9.63	1230.27
+GO:0043410	positive regulation of MAPK cascade	251	0.66	0.75	9.17	1017.24
 GO:0048468	cell development	252	0.51	0.45	6.51	28.42
 GO:0001819	positive regulation of cytokine production	247	0.51	0.54	6.97	44.26
 GO:0030003	cellular cation homeostasis	232	0.57	0.63	8.00	68.30
-GO:0050867	positive regulation of cell activation	199	0.56	0.57	7.43	42.07
 GO:0071417	cellular response to organonitrogen compound	198	0.53	0.56	7.37	128.53
 GO:0051098	regulation of binding	181	0.50	0.45	6.36	6.77
-GO:0002237	response to molecule of bacterial origin	181	0.69	0.59	8.74	31.75
 GO:0015711	organic anion transport	179	0.43	0.54	6.27	28.20
+GO:0051251	positive regulation of lymphocyte activation	176	0.58	0.64	8.19	127.58
 GO:0050727	regulation of inflammatory response	175	0.53	0.59	7.40	31.59
 GO:0050769	positive regulation of neurogenesis	174	0.58	0.64	8.42	270.71
 GO:0050900	leukocyte migration	170	0.60	0.59	8.02	26.94
+GO:0032496	response to lipopolysaccharide	167	0.89	0.74	9.45	64.41
 GO:0003008	system process	167	0.44	0.35	5.06	7.59
 GO:0034765	regulation of ion transmembrane transport	161	0.46	0.55	6.68	33.04
 GO:0006979	response to oxidative stress	159	0.65	0.53	8.02	9.54
@@ -55,7 +56,6 @@ GO:0001818	negative regulation of cytokine production	144	0.51	0.55	7.03	44.36
 GO:0009150	purine ribonucleotide metabolic process	143	0.55	0.67	8.37	538.25
 GO:0001666	response to hypoxia	139	0.81	0.70	9.12	21.16
 GO:0006412	translation	139	0.87	0.78	9.51	402.56
-GO:0050870	positive regulation of T cell activation	136	0.63	0.69	8.78	216.07
 GO:0050714	positive regulation of protein secretion	130	0.65	0.70	8.73	381.48
 GO:2001234	negative regulation of apoptotic signaling pathway	128	0.69	0.72	9.15	292.03
 GO:0022412	cellular process involved in reproduction in multicellular organism	116	0.53	0.39	6.04	15.42
@@ -88,7 +88,6 @@ GO:0031023	microtubule organizing center organization	35	0.73	0.56	8.47	24.42
 GO:0098661	inorganic anion transmembrane transport	34	0.73	0.72	8.98	90.75
 GO:1902883	negative regulation of response to oxidative stress	30	0.74	0.69	9.41	43.09
 GO:0010927	cellular component assembly involved in morphogenesis	30	0.67	0.58	8.21	30.08
-GO:0071398	cellular response to fatty acid	30	0.74	0.69	9.00	203.00
 GO:0034754	cellular hormone metabolic process	28	0.59	0.59	8.02	37.69
 GO:0045429	positive regulation of nitric oxide biosynthetic process	27	1.00	0.88	9.63	658.64
 GO:0046879	hormone secretion	25	0.60	0.65	8.11	48.27
@@ -98,7 +97,6 @@ GO:0097755	positive regulation of blood vessel diameter	22	0.75	0.73	9.07	39.68
 GO:0051085	chaperone cofactor-dependent protein refolding	21	1.00	0.79	9.63	21.14
 GO:0031116	positive regulation of microtubule polymerization	19	0.89	0.86	9.59	431.62
 GO:0006760	folic acid-containing compound metabolic process	18	0.73	0.69	9.33	232.08
-GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	18	0.93	0.82	9.56	84.13
 GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	18	1.00	0.82	9.63	33.25
 GO:1901673	regulation of mitotic spindle assembly	15	1.00	0.92	9.63	218.78
 GO:0000132	establishment of mitotic spindle orientation	14	0.93	0.84	9.58	227.85
@@ -118,6 +116,7 @@ GO:0033160	positive regulation of protein import into nucleus, translocation	8	1
 GO:0030277	maintenance of gastrointestinal epithelium	7	0.93	0.82	9.53	27.02
 GO:0046600	negative regulation of centriole replication	6	0.93	0.90	9.59	466.47
 GO:0002606	positive regulation of dendritic cell antigen processing and presentation	6	0.89	0.77	9.43	55.29
+GO:0002031	G-protein coupled receptor internalization	5	0.93	0.84	9.57	66.79
 GO:0015693	magnesium ion transport	5	0.87	0.81	9.52	35.67
 GO:0001913	T cell mediated cytotoxicity	4	0.93	0.79	9.55	37.17
 GO:0060712	spongiotrophoblast layer development	4	1.00	0.75	9.63	49.67
@@ -126,6 +125,7 @@ GO:0086013	membrane repolarization during cardiac muscle cell action potential	4
 GO:0060670	branching involved in labyrinthine layer morphogenesis	4	1.00	0.82	9.63	72.99
 GO:1990668	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	4	0.89	0.80	9.46	65.81
 GO:0042416	dopamine biosynthetic process	3	0.93	0.84	9.59	507.85
+GO:0042976	activation of Janus kinase activity	2	1.00	0.95	9.63	1439.11
 GO:0001660	fever generation	2	1.00	0.85	9.63	35.73
 GO:0014050	negative regulation of glutamate secretion	2	0.93	0.86	9.59	415.45
 GO:0032498	detection of muramyl dipeptide	1	1.00	0.85	9.63	223.29

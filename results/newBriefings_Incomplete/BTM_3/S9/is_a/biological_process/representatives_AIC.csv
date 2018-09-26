@@ -5,6 +5,7 @@ GO:0048523	negative regulation of cellular process	194	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	161	0.33	0.45	5.35	37.59
 GO:0009628	response to abiotic stimulus	41	0.46	0.35	5.43	6.14
 GO:0006950	response to stress	158	0.39	0.32	4.70	6.14
+GO:0031325	positive regulation of cellular metabolic process	151	0.33	0.46	5.39	79.98
 GO:0050793	regulation of developmental process	119	0.26	0.33	3.95	7.96
 GO:0051239	regulation of multicellular organismal process	135	0.23	0.32	3.68	7.96
 GO:0032879	regulation of localization	134	0.27	0.33	4.05	7.96
@@ -19,7 +20,6 @@ GO:0071310	cellular response to organic substance	86	0.44	0.47	5.95	41.66
 GO:0010628	positive regulation of gene expression	77	0.47	0.56	6.67	58.80
 GO:0016477	cell migration	54	0.47	0.48	6.31	17.13
 GO:0009617	response to bacterium	37	0.75	0.67	8.94	27.27
-GO:0033674	positive regulation of kinase activity	36	0.61	0.70	8.62	265.90
 GO:2000147	positive regulation of cell motility	35	0.58	0.61	8.05	115.84
 GO:0002683	negative regulation of immune system process	34	0.43	0.47	5.92	22.69
 GO:0006508	proteolysis	33	0.55	0.57	7.34	47.86
@@ -40,7 +40,6 @@ GO:0072657	protein localization to membrane	11	0.58	0.58	7.59	29.83
 GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	11	1.00	0.92	9.63	384.64
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	9	1.00	0.79	9.63	42.20
 GO:0010977	negative regulation of neuron projection development	8	0.68	0.73	9.14	494.13
-GO:0008016	regulation of heart contraction	8	0.57	0.61	7.59	16.15
 GO:0046718	viral entry into host cell	7	0.77	0.73	8.94	28.37
 GO:0090022	regulation of neutrophil chemotaxis	7	0.89	0.86	9.52	138.92
 GO:0001776	leukocyte homeostasis	7	0.75	0.67	8.65	18.82
@@ -57,6 +56,7 @@ GO:0120034	positive regulation of plasma membrane bounded cell projection assemb
 GO:1903078	positive regulation of protein localization to plasma membrane	4	0.84	0.80	9.43	218.50
 GO:0006605	protein targeting	4	0.72	0.76	9.18	93.44
 GO:0001701	in utero embryonic development	4	1.00	0.85	9.63	22.50
+GO:0035725	sodium ion transmembrane transport	3	0.89	0.82	9.49	113.92
 GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	3	1.00	0.82	9.63	41.85
 GO:2001199	negative regulation of dendritic cell differentiation	3	1.00	0.88	9.63	349.47
 GO:0016064	immunoglobulin mediated immune response	3	0.76	0.70	9.04	30.58
@@ -85,10 +85,12 @@ GO:0070474	positive regulation of uterine smooth muscle contraction	1	1.00	0.90	
 GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	1	1.00	0.90	9.63	967.92
 GO:0071333	cellular response to glucose stimulus	1	1.00	0.88	9.63	272.30
 GO:0002316	follicular B cell differentiation	1	1.00	0.90	9.63	149.81
+GO:0010460	positive regulation of heart rate	1	0.78	0.76	9.25	94.36
 GO:2000302	positive regulation of synaptic vesicle exocytosis	1	0.83	0.85	9.53	1061.77
 GO:0086072	AV node cell-bundle of His cell adhesion involved in cell communication	1	1.00	0.82	9.63	24.26
 GO:0019226	transmission of nerve impulse	1	1.00	0.75	9.63	26.02
 GO:0019227	neuronal action potential propagation	1	1.00	0.82	9.63	26.36
+GO:0098904	regulation of AV node cell action potential	1	0.83	0.79	9.50	70.34
 GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	1	1.00	0.82	9.63	71.51
 GO:0002087	regulation of respiratory gaseous exchange by neurological system process	1	1.00	0.82	9.63	40.36
 GO:1902950	regulation of dendritic spine maintenance	1	0.89	0.80	9.43	39.54

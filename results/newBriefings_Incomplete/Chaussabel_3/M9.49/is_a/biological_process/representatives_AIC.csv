@@ -1,5 +1,5 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0048518	positive regulation of biological process	129	0.21	0.30	3.05	7.96
+GO:0048522	positive regulation of cellular process	114	0.24	0.37	3.90	23.85
 GO:0016070	RNA metabolic process	109	0.39	0.52	6.45	112.25
 GO:0019538	protein metabolic process	94	0.31	0.41	4.91	44.77
 GO:0007165	signal transduction	78	0.36	0.43	5.06	19.43
@@ -12,6 +12,7 @@ GO:0006699	bile acid biosynthetic process	2	1.00	0.88	9.63	493.35
 GO:0043392	negative regulation of DNA binding	2	0.76	0.67	8.87	32.53
 GO:0006635	fatty acid beta-oxidation	2	0.81	0.80	9.46	579.93
 GO:0031060	regulation of histone methylation	2	0.64	0.72	9.03	102.10
-GO:0060474	positive regulation of flagellated sperm motility involved in capacitation	1	1.00	0.88	9.63	162.69
+GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	1	0.87	0.83	9.55	358.11
+GO:1902884	positive regulation of response to oxidative stress	1	0.76	0.70	9.31	42.98
 GO:0002762	negative regulation of myeloid leukocyte differentiation	1	0.77	0.76	9.35	700.15
 GO:0030449	regulation of complement activation	1	0.69	0.72	9.30	245.77

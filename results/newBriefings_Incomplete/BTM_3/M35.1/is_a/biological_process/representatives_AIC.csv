@@ -12,6 +12,7 @@ GO:0070887	cellular response to chemical stimulus	377	0.40	0.40	5.31	25.21
 GO:0031328	positive regulation of cellular biosynthetic process	361	0.41	0.53	6.32	170.14
 GO:0009967	positive regulation of signal transduction	352	0.44	0.54	6.71	140.23
 GO:0010628	positive regulation of gene expression	338	0.47	0.56	6.67	58.80
+GO:0048585	negative regulation of response to stimulus	312	0.36	0.43	5.03	23.55
 GO:0065003	protein-containing complex assembly	244	0.45	0.48	6.06	36.47
 GO:0006351	transcription, DNA-templated	235	0.57	0.68	8.45	581.39
 GO:0001934	positive regulation of protein phosphorylation	232	0.58	0.69	8.60	663.11
@@ -22,7 +23,6 @@ GO:0030335	positive regulation of cell migration	155	0.58	0.64	8.22	157.26
 GO:0001819	positive regulation of cytokine production	154	0.51	0.54	6.97	44.26
 GO:0045785	positive regulation of cell adhesion	148	0.58	0.54	7.23	21.97
 GO:0043065	positive regulation of apoptotic process	147	0.56	0.63	7.81	80.91
-GO:0045596	negative regulation of cell differentiation	145	0.44	0.51	6.50	82.79
 GO:0006873	cellular ion homeostasis	142	0.55	0.60	7.73	50.28
 GO:0032496	response to lipopolysaccharide	123	0.89	0.74	9.45	64.41
 GO:0050708	regulation of protein secretion	112	0.54	0.62	7.86	96.15
@@ -33,10 +33,8 @@ GO:0042129	regulation of T cell proliferation	67	0.67	0.71	8.90	80.79
 GO:0050671	positive regulation of lymphocyte proliferation	65	0.74	0.75	9.27	262.65
 GO:1903829	positive regulation of cellular protein localization	65	0.60	0.62	7.80	40.87
 GO:0048545	response to steroid hormone	60	0.69	0.64	8.94	60.25
-GO:0050777	negative regulation of immune response	50	0.52	0.55	7.29	78.83
 GO:0050729	positive regulation of inflammatory response	48	0.66	0.68	8.59	125.85
 GO:0031668	cellular response to extracellular stimulus	47	0.55	0.52	7.38	45.16
-GO:0031348	negative regulation of defense response	46	0.53	0.59	7.30	44.42
 GO:0043901	negative regulation of multi-organism process	43	0.52	0.51	6.65	23.38
 GO:0042542	response to hydrogen peroxide	39	0.93	0.76	9.54	79.29
 GO:0045582	positive regulation of T cell differentiation	36	0.70	0.75	9.32	861.16
@@ -47,10 +45,8 @@ GO:0071230	cellular response to amino acid stimulus	22	0.71	0.68	8.96	283.90
 GO:0072659	protein localization to plasma membrane	22	0.79	0.72	9.26	65.43
 GO:0050710	negative regulation of cytokine secretion	22	0.70	0.74	9.09	549.99
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	21	0.93	0.93	9.60	734.49
-GO:0045429	positive regulation of nitric oxide biosynthetic process	18	1.00	0.88	9.63	658.64
 GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
 GO:0030316	osteoclast differentiation	15	0.93	0.79	9.51	47.07
-GO:0045589	regulation of regulatory T cell differentiation	13	0.79	0.79	9.52	133.47
 GO:0006006	glucose metabolic process	13	0.71	0.68	8.57	34.68
 GO:0042098	T cell proliferation	12	0.72	0.69	9.08	51.29
 GO:0002437	inflammatory response to antigenic stimulus	12	0.74	0.66	8.87	27.86

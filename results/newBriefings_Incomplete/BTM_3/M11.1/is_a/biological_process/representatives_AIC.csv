@@ -21,7 +21,6 @@ GO:0033554	cellular response to stress	207	0.44	0.42	6.05	25.47
 GO:0030334	regulation of cell migration	202	0.48	0.56	7.11	36.74
 GO:0001934	positive regulation of protein phosphorylation	197	0.58	0.69	8.60	663.11
 GO:0002274	myeloid leukocyte activation	195	0.68	0.59	8.67	18.06
-GO:0010243	response to organonitrogen compound	162	0.45	0.48	6.23	25.43
 GO:0043408	regulation of MAPK cascade	152	0.60	0.70	8.65	157.04
 GO:0045087	innate immune response	149	0.68	0.59	8.16	26.47
 GO:0050900	leukocyte migration	148	0.60	0.59	8.02	26.94
@@ -38,6 +37,7 @@ GO:0019752	carboxylic acid metabolic process	113	0.32	0.45	5.31	42.50
 GO:0098655	cation transmembrane transport	96	0.52	0.58	7.13	43.36
 GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
 GO:0042742	defense response to bacterium	71	0.79	0.72	9.19	69.65
+GO:0071216	cellular response to biotic stimulus	68	0.63	0.51	7.77	23.86
 GO:0045637	regulation of myeloid cell differentiation	65	0.62	0.63	8.47	67.17
 GO:0050707	regulation of cytokine secretion	63	0.59	0.67	8.36	114.42
 GO:1903829	positive regulation of cellular protein localization	59	0.60	0.62	7.80	40.87
@@ -45,12 +45,14 @@ GO:0030100	regulation of endocytosis	55	0.59	0.62	8.15	44.91
 GO:0050769	positive regulation of neurogenesis	55	0.58	0.64	8.42	270.71
 GO:0010951	negative regulation of endopeptidase activity	52	0.77	0.80	9.45	500.32
 GO:0046942	carboxylic acid transport	52	0.45	0.58	6.78	47.71
+GO:0002576	platelet degranulation	45	1.00	0.88	9.63	39.86
 GO:0031668	cellular response to extracellular stimulus	37	0.55	0.52	7.38	45.16
 GO:0010950	positive regulation of endopeptidase activity	33	0.74	0.79	9.42	499.33
 GO:0030193	regulation of blood coagulation	33	0.67	0.69	8.94	65.68
 GO:0002478	antigen processing and presentation of exogenous peptide antigen	30	0.80	0.65	8.94	20.20
 GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
 GO:0051279	regulation of release of sequestered calcium ion into cytosol	23	0.74	0.76	9.24	148.50
+GO:0031623	receptor internalization	20	0.72	0.71	9.20	64.85
 GO:0015696	ammonium transport	19	0.59	0.62	7.81	30.14
 GO:0072659	protein localization to plasma membrane	18	0.79	0.72	9.26	65.43
 GO:0043300	regulation of leukocyte degranulation	17	0.68	0.74	8.94	77.23

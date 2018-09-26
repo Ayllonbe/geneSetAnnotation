@@ -4,11 +4,12 @@ GO:0050794	regulation of cellular process	673	0.12	0.26	2.47	7.96
 GO:2000026	regulation of multicellular organismal development	164	0.29	0.39	4.73	23.09
 GO:0050794	regulation of cellular process	673	0.12	0.26	2.47	7.96
 GO:2000026	regulation of multicellular organismal development	164	0.29	0.39	4.73	23.09
-GO:0050896	response to stimulus	390	0.25	0.12	2.65	3.37
 GO:0043170	macromolecule metabolic process	316	0.25	0.32	3.46	10.22
 GO:1901564	organonitrogen compound metabolic process	242	0.23	0.31	3.63	19.40
 GO:0006810	transport	338	0.28	0.34	3.95	7.46
+GO:0042221	response to chemical	244	0.32	0.29	4.12	6.14
 GO:0070374	positive regulation of ERK1 and ERK2 cascade	39	0.93	0.90	9.60	1178.86
 GO:2000112	regulation of cellular macromolecule biosynthetic process	193	0.36	0.50	5.87	74.82
+GO:0009615	response to virus	37	0.74	0.66	8.80	27.27
 GO:1902416	positive regulation of mRNA binding	2	0.87	0.76	9.34	43.94
 GO:0060744	mammary gland branching involved in thelarche	2	1.00	0.88	9.63	74.22

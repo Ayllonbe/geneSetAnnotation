@@ -7,26 +7,28 @@ GO:0007165	signal transduction	904	0.36	0.43	5.06	19.43
 GO:0016070	RNA metabolic process	763	0.39	0.52	6.45	112.25
 GO:0009966	regulation of signal transduction	667	0.33	0.45	5.35	37.59
 GO:0006357	regulation of transcription by RNA polymerase II	575	0.44	0.63	7.11	248.57
-GO:0008104	protein localization	455	0.40	0.40	5.07	7.46
 GO:0010628	positive regulation of gene expression	437	0.47	0.56	6.67	58.80
 GO:0016192	vesicle-mediated transport	416	0.52	0.51	6.57	10.99
+GO:0015031	protein transport	354	0.48	0.59	6.99	54.46
 GO:0071310	cellular response to organic substance	309	0.44	0.47	5.95	41.66
-GO:0048856	anatomical structure development	280	0.33	0.29	3.70	6.46
 GO:0051241	negative regulation of multicellular organismal process	236	0.35	0.42	4.99	23.69
 GO:0042327	positive regulation of phosphorylation	232	0.56	0.66	8.02	180.93
 GO:0045597	positive regulation of cell differentiation	200	0.45	0.51	6.57	82.53
 GO:0045786	negative regulation of cell cycle	153	0.51	0.54	7.10	42.35
 GO:0010951	negative regulation of endopeptidase activity	59	0.77	0.80	9.45	500.32
 GO:0070507	regulation of microtubule cytoskeleton organization	58	0.61	0.65	8.24	33.71
+GO:1990778	protein localization to cell periphery	45	0.63	0.60	8.08	29.83
 GO:0001701	in utero embryonic development	44	1.00	0.85	9.63	22.50
 GO:0007268	chemical synaptic transmission	37	0.74	0.72	8.66	23.17
 GO:0050880	regulation of blood vessel size	29	0.63	0.61	8.30	24.53
+GO:0060429	epithelium development	24	0.55	0.53	6.89	15.06
 GO:0072384	organelle transport along microtubule	24	0.68	0.69	8.94	89.06
 GO:0015914	phospholipid transport	19	0.78	0.74	9.04	67.00
 GO:0035725	sodium ion transmembrane transport	16	0.89	0.82	9.49	113.92
 GO:0007080	mitotic metaphase plate congression	15	1.00	0.85	9.63	61.63
 GO:0001756	somitogenesis	9	1.00	0.79	9.63	43.80
 GO:0014032	neural crest cell development	9	0.89	0.74	9.51	65.00
+GO:0001541	ovarian follicle development	8	1.00	0.75	9.63	34.61
 GO:1902188	positive regulation of viral release from host cell	8	0.93	0.84	9.56	120.05
 GO:0008354	germ cell migration	4	0.93	0.76	9.51	40.54
 GO:0006957	complement activation, alternative pathway	4	1.00	0.88	9.63	200.06

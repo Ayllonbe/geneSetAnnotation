@@ -1,10 +1,13 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0009987	cellular process	709	0.09	0.05	0.84	3.37
-GO:0065007	biological regulation	578	0.08	0.04	0.98	3.37
-GO:0045087	innate immune response	33	0.68	0.59	8.16	26.47
 GO:0034314	Arp2/3 complex-mediated actin nucleation	3	1.00	0.96	9.63	481.97
+GO:0050789	regulation of biological process	563	0.09	0.17	1.80	4.47
+GO:0043547	positive regulation of GTPase activity	31	0.93	0.79	9.52	49.34
+GO:0090304	nucleic acid metabolic process	231	0.35	0.46	5.97	111.15
+GO:0019538	protein metabolic process	201	0.31	0.41	4.91	44.77
 GO:0016192	vesicle-mediated transport	98	0.52	0.51	6.57	10.99
 GO:0015031	protein transport	92	0.48	0.59	6.99	54.46
 GO:0016192	vesicle-mediated transport	98	0.52	0.51	6.57	10.99
 GO:0015031	protein transport	92	0.48	0.59	6.99	54.46
+GO:0045087	innate immune response	33	0.68	0.59	8.16	26.47
 GO:0097498	endothelial tube lumen extension	1	0.93	0.82	9.52	49.90

@@ -13,7 +13,7 @@ GO:0032774	RNA biosynthetic process	538	0.53	0.62	8.04	473.34
 GO:0050793	regulation of developmental process	482	0.26	0.33	3.95	7.96
 GO:0050794	regulation of cellular process	2011	0.12	0.26	2.47	7.96
 GO:0051239	regulation of multicellular organismal process	527	0.23	0.32	3.68	7.96
-GO:0016192	vesicle-mediated transport	384	0.52	0.51	6.57	10.99
+GO:0046907	intracellular transport	382	0.46	0.48	6.38	29.65
 GO:0007416	synapse assembly	11	0.84	0.67	9.12	35.85
 GO:0065003	protein-containing complex assembly	341	0.45	0.48	6.06	36.47
 GO:0015031	protein transport	331	0.48	0.59	6.99	54.46
@@ -56,6 +56,7 @@ GO:0048469	cell maturation	24	0.70	0.55	8.24	25.22
 GO:0007611	learning or memory	23	0.70	0.64	8.38	19.74
 GO:0097711	ciliary basal body-plasma membrane docking	20	1.00	0.79	9.63	21.39
 GO:0031338	regulation of vesicle fusion	19	0.72	0.69	8.94	48.20
+GO:0006909	phagocytosis	18	0.93	0.79	9.49	28.44
 GO:0043525	positive regulation of neuron apoptotic process	17	0.84	0.80	9.39	179.36
 GO:0006635	fatty acid beta-oxidation	16	0.81	0.80	9.46	579.93
 GO:0051293	establishment of spindle localization	14	0.81	0.73	9.51	87.44

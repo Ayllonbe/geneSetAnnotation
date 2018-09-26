@@ -1,14 +1,8 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	1077	0.12	0.26	2.47	7.96
-GO:2000026	regulation of multicellular organismal development	289	0.29	0.39	4.73	23.09
-GO:0050794	regulation of cellular process	1077	0.12	0.26	2.47	7.96
-GO:2000026	regulation of multicellular organismal development	289	0.29	0.39	4.73	23.09
-GO:0031323	regulation of cellular metabolic process	590	0.22	0.36	4.01	22.77
-GO:0016043	cellular component organization	510	0.28	0.26	3.74	11.45
-GO:0022402	cell cycle process	136	0.40	0.32	4.60	7.39
-GO:0006810	transport	518	0.28	0.34	3.95	7.46
-GO:0051716	cellular response to stimulus	373	0.35	0.30	4.36	13.53
-GO:0032774	RNA biosynthetic process	162	0.53	0.62	8.04	473.34
+GO:0009987	cellular process	1387	0.09	0.05	0.84	3.37
+GO:0032147	activation of protein kinase activity	50	0.68	0.77	9.16	1096.87
+GO:0050789	regulation of biological process	1141	0.09	0.17	1.80	4.47
 GO:0043547	positive regulation of GTPase activity	66	0.93	0.79	9.52	49.34
+GO:0006810	transport	518	0.28	0.34	3.95	7.46
+GO:0032774	RNA biosynthetic process	162	0.53	0.62	8.04	473.34
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	23	1.00	0.79	9.63	42.20
-GO:0042307	positive regulation of protein import into nucleus	9	0.93	0.86	9.59	778.75

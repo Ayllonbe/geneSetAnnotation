@@ -6,16 +6,17 @@ GO:0006464	cellular protein modification process	1261	0.34	0.49	5.84	147.03
 GO:0009966	regulation of signal transduction	1174	0.33	0.45	5.35	37.59
 GO:0051128	regulation of cellular component organization	992	0.30	0.40	4.57	12.04
 GO:0006351	transcription, DNA-templated	965	0.57	0.68	8.45	581.39
+GO:0031328	positive regulation of cellular biosynthetic process	744	0.41	0.53	6.32	170.14
 GO:0046907	intracellular transport	700	0.46	0.48	6.38	29.65
 GO:0065003	protein-containing complex assembly	686	0.45	0.48	6.06	36.47
 GO:0009967	positive regulation of signal transduction	640	0.44	0.54	6.71	140.23
-GO:0031327	negative regulation of cellular biosynthetic process	630	0.42	0.53	6.40	170.82
 GO:0015031	protein transport	621	0.48	0.59	6.99	54.46
 GO:0045595	regulation of cell differentiation	617	0.34	0.42	5.25	23.33
 GO:0051240	positive regulation of multicellular organismal process	594	0.35	0.42	4.98	23.60
 GO:0071310	cellular response to organic substance	532	0.44	0.47	5.95	41.66
 GO:0006508	proteolysis	524	0.55	0.57	7.34	47.86
 GO:0030154	cell differentiation	514	0.39	0.39	5.18	16.68
+GO:0051248	negative regulation of protein metabolic process	471	0.45	0.55	6.75	129.53
 GO:0009968	negative regulation of signal transduction	463	0.44	0.54	6.68	140.65
 GO:0034613	cellular protein localization	437	0.45	0.48	6.33	26.83
 GO:0043066	negative regulation of apoptotic process	375	0.56	0.63	7.79	81.07
@@ -31,6 +32,7 @@ GO:0001819	positive regulation of cytokine production	199	0.51	0.54	6.97	44.26
 GO:0045785	positive regulation of cell adhesion	176	0.58	0.54	7.23	21.97
 GO:0006875	cellular metal ion homeostasis	174	0.59	0.67	8.36	105.84
 GO:0006897	endocytosis	169	0.63	0.61	8.09	26.36
+GO:0006644	phospholipid metabolic process	164	0.53	0.56	7.60	99.63
 GO:1903829	positive regulation of cellular protein localization	149	0.60	0.62	7.80	40.87
 GO:0002768	immune response-regulating cell surface receptor signaling pathway	148	0.68	0.66	8.81	76.40
 GO:0032496	response to lipopolysaccharide	138	0.89	0.74	9.45	64.41
@@ -39,8 +41,6 @@ GO:0050870	positive regulation of T cell activation	109	0.63	0.69	8.78	216.07
 GO:0030098	lymphocyte differentiation	99	0.61	0.60	8.24	42.31
 GO:0030100	regulation of endocytosis	98	0.59	0.62	8.15	44.91
 GO:0010951	negative regulation of endopeptidase activity	94	0.77	0.80	9.45	500.32
-GO:0051054	positive regulation of DNA metabolic process	88	0.59	0.65	8.41	301.51
-GO:0046488	phosphatidylinositol metabolic process	77	0.68	0.69	8.80	147.20
 GO:0001701	in utero embryonic development	76	1.00	0.85	9.63	22.50
 GO:0050715	positive regulation of cytokine secretion	53	0.69	0.74	9.07	549.48
 GO:0045621	positive regulation of lymphocyte differentiation	52	0.67	0.71	9.10	508.22
@@ -53,6 +53,7 @@ GO:0014015	positive regulation of gliogenesis	24	0.73	0.74	9.26	336.55
 GO:0007080	mitotic metaphase plate congression	23	1.00	0.85	9.63	61.63
 GO:0034754	cellular hormone metabolic process	23	0.59	0.59	8.02	37.69
 GO:0043536	positive regulation of blood vessel endothelial cell migration	22	0.93	0.88	9.58	355.43
+GO:0032206	positive regulation of telomere maintenance	22	0.76	0.75	9.40	504.23
 GO:0043647	inositol phosphate metabolic process	22	0.74	0.69	9.28	87.62
 GO:0036258	multivesicular body assembly	21	1.00	0.85	9.63	62.72
 GO:0047496	vesicle transport along microtubule	18	0.79	0.77	9.37	173.01
@@ -60,11 +61,9 @@ GO:0051281	positive regulation of release of sequestered calcium ion into cytoso
 GO:0051209	release of sequestered calcium ion into cytosol	15	0.80	0.87	9.53	522.93
 GO:0016064	immunoglobulin mediated immune response	14	0.76	0.70	9.04	30.58
 GO:0030488	tRNA methylation	14	0.74	0.80	9.31	684.86
-GO:0009395	phospholipid catabolic process	13	0.72	0.69	9.05	279.94
 GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	12	0.87	0.83	9.53	431.32
 GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	12	1.00	0.88	9.63	164.98
 GO:0090330	regulation of platelet aggregation	11	0.83	0.81	9.53	97.24
-GO:0045086	positive regulation of interleukin-2 biosynthetic process	10	1.00	0.88	9.63	834.88
 GO:1900017	positive regulation of cytokine production involved in inflammatory response	9	1.00	0.88	9.63	226.66
 GO:0002689	negative regulation of leukocyte chemotaxis	7	0.76	0.78	9.36	424.86
 GO:0010458	exit from mitosis	7	1.00	0.79	9.63	29.82
@@ -75,7 +74,6 @@ GO:2000318	positive regulation of T-helper 17 type immune response	5	0.89	0.82	9
 GO:0045725	positive regulation of glycogen biosynthetic process	5	1.00	0.92	9.63	1082.43
 GO:0043303	mast cell degranulation	5	1.00	0.90	9.63	196.34
 GO:0001766	membrane raft polarization	5	0.93	0.79	9.54	30.90
-GO:1902430	negative regulation of amyloid-beta formation	4	1.00	0.88	9.63	443.74
 GO:0002534	cytokine production involved in inflammatory response	2	0.93	0.66	9.41	21.07
 GO:1904677	positive regulation of somatic stem cell division	1	1.00	0.85	9.63	59.81
 GO:0002728	negative regulation of natural killer cell cytokine production	1	1.00	0.90	9.63	694.11

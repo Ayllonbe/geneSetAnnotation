@@ -54,9 +54,8 @@ GO:0007186	G-protein coupled receptor signaling pathway	232	0.55	0.57	7.20	23.17
 GO:0055086	nucleobase-containing small molecule metabolic process	219	0.38	0.48	6.63	107.58
 GO:0045087	innate immune response	206	0.68	0.59	8.16	26.47
 GO:0043603	cellular amide metabolic process	204	0.47	0.48	6.49	29.84
-GO:1990090	cellular response to nerve growth factor stimulus	17	0.93	0.79	9.55	97.49
-GO:0071345	cellular response to cytokine stimulus	180	0.67	0.63	8.21	61.60
 GO:0001819	positive regulation of cytokine production	182	0.51	0.54	6.97	44.26
+GO:0071345	cellular response to cytokine stimulus	180	0.67	0.63	8.21	61.60
 GO:0006397	mRNA processing	175	0.71	0.73	9.17	234.35
 GO:0032386	regulation of intracellular transport	165	0.49	0.53	6.90	27.75
 GO:0043087	regulation of GTPase activity	163	0.87	0.72	9.29	12.47
@@ -92,6 +91,7 @@ GO:0034599	cellular response to oxidative stress	91	0.72	0.61	8.94	68.67
 GO:0031668	cellular response to extracellular stimulus	106	0.55	0.52	7.38	45.16
 GO:0006914	autophagy	105	0.67	0.59	8.40	37.75
 GO:0045637	regulation of myeloid cell differentiation	100	0.62	0.63	8.47	67.17
+GO:0070848	response to growth factor	100	0.71	0.60	8.45	13.32
 GO:0050792	regulation of viral process	91	0.60	0.59	7.74	14.20
 GO:0043393	regulation of protein binding	87	0.59	0.55	7.49	9.33
 GO:0016072	rRNA metabolic process	86	0.61	0.68	8.41	117.72
@@ -166,7 +166,6 @@ GO:0006879	cellular iron ion homeostasis	23	0.84	0.84	9.47	186.74
 GO:0006826	iron ion transport	22	0.70	0.72	8.76	19.76
 GO:1903202	negative regulation of oxidative stress-induced cell death	22	0.79	0.77	9.57	224.85
 GO:0050663	cytokine secretion	22	0.61	0.70	8.23	133.33
-GO:0071560	cellular response to transforming growth factor beta stimulus	22	1.00	0.82	9.63	97.49
 GO:0071385	cellular response to glucocorticoid stimulus	22	0.84	0.80	9.45	407.30
 GO:0014015	positive regulation of gliogenesis	22	0.73	0.74	9.26	336.55
 GO:0000045	autophagosome assembly	22	1.00	0.82	9.63	62.10
@@ -176,7 +175,6 @@ GO:0007080	mitotic metaphase plate congression	20	1.00	0.85	9.63	61.63
 GO:0008333	endosome to lysosome transport	20	0.84	0.74	9.37	62.68
 GO:0070498	interleukin-1-mediated signaling pathway	20	1.00	0.85	9.63	30.19
 GO:0051966	regulation of synaptic transmission, glutamatergic	20	0.81	0.76	9.41	30.62
-GO:0070849	response to epidermal growth factor	20	0.93	0.76	9.47	24.05
 GO:0007595	lactation	19	1.00	0.82	9.63	25.96
 GO:0050999	regulation of nitric-oxide synthase activity	19	0.89	0.77	9.41	24.72
 GO:0042307	positive regulation of protein import into nucleus	18	0.93	0.86	9.59	778.75
@@ -200,7 +198,6 @@ GO:0050853	B cell receptor signaling pathway	13	0.93	0.88	9.58	219.43
 GO:0016064	immunoglobulin mediated immune response	13	0.76	0.70	9.04	30.58
 GO:0030199	collagen fibril organization	12	1.00	0.79	9.63	53.96
 GO:0071539	protein localization to centrosome	12	0.93	0.86	9.54	37.38
-GO:0044344	cellular response to fibroblast growth factor stimulus	12	1.00	0.82	9.63	97.49
 GO:0017004	cytochrome complex assembly	12	0.72	0.69	8.76	44.52
 GO:0046676	negative regulation of insulin secretion	12	0.93	0.88	9.60	1038.49
 GO:0038111	interleukin-7-mediated signaling pathway	12	1.00	0.85	9.63	30.19

@@ -34,7 +34,6 @@ GO:0001819	positive regulation of cytokine production	151	0.51	0.54	6.97	44.26
 GO:0043065	positive regulation of apoptotic process	141	0.56	0.63	7.81	80.91
 GO:0051251	positive regulation of lymphocyte activation	128	0.58	0.64	8.19	127.58
 GO:0002237	response to molecule of bacterial origin	127	0.69	0.59	8.74	31.75
-GO:0050708	regulation of protein secretion	108	0.54	0.62	7.86	96.15
 GO:0003006	developmental process involved in reproduction	105	0.43	0.34	5.07	14.49
 GO:0060627	regulation of vesicle-mediated transport	97	0.48	0.53	6.81	26.12
 GO:0001933	negative regulation of protein phosphorylation	87	0.61	0.70	8.76	664.69
@@ -47,6 +46,7 @@ GO:0031668	cellular response to extracellular stimulus	45	0.55	0.52	7.38	45.16
 GO:0071248	cellular response to metal ion	35	0.70	0.64	8.46	59.28
 GO:0001701	in utero embryonic development	26	1.00	0.85	9.63	22.50
 GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	25	0.80	0.80	9.39	355.88
+GO:0050796	regulation of insulin secretion	23	0.83	0.81	9.53	205.48
 GO:0009749	response to glucose	21	0.89	0.80	9.41	32.96
 GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
 GO:0002675	positive regulation of acute inflammatory response	14	0.71	0.73	8.97	164.52
@@ -54,7 +54,7 @@ GO:0001774	microglial cell activation	14	0.93	0.79	9.51	31.20
 GO:1903078	positive regulation of protein localization to plasma membrane	13	0.84	0.80	9.43	218.50
 GO:0000060	protein import into nucleus, translocation	11	1.00	0.90	9.63	93.44
 GO:2001258	negative regulation of cation channel activity	10	0.71	0.75	9.10	527.32
-GO:0046885	regulation of hormone biosynthetic process	9	0.61	0.63	8.31	68.98
+GO:0043278	response to morphine	7	0.93	0.82	9.55	93.34
 GO:0042730	fibrinolysis	7	1.00	0.90	9.63	252.90
 GO:2000553	positive regulation of T-helper 2 cell cytokine production	6	1.00	0.92	9.63	874.88
 GO:0010888	negative regulation of lipid storage	6	0.89	0.77	9.43	46.28
@@ -65,14 +65,18 @@ GO:0051712	positive regulation of killing of cells of other organism	5	0.72	0.65
 GO:0090280	positive regulation of calcium ion import	4	0.87	0.83	9.42	92.69
 GO:0006094	gluconeogenesis	4	1.00	0.85	9.63	174.61
 GO:0043921	modulation by host of viral transcription	4	0.87	0.85	9.52	208.80
+GO:0051024	positive regulation of immunoglobulin secretion	3	1.00	0.90	9.63	579.46
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	3	1.00	0.92	9.63	1344.96
 GO:0032966	negative regulation of collagen biosynthetic process	2	1.00	0.82	9.63	106.40
 GO:2000502	negative regulation of natural killer cell chemotaxis	2	1.00	0.93	9.63	1002.76
 GO:2001268	negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	2	1.00	0.96	9.63	1177.79
 GO:0045079	negative regulation of chemokine biosynthetic process	2	0.93	0.84	9.60	841.33
 GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
+GO:0071504	cellular response to heparin	1	1.00	0.82	9.63	285.07
 GO:0071506	cellular response to mycophenolic acid	1	1.00	0.82	9.63	454.18
 GO:0070091	glucagon secretion	1	1.00	0.90	9.63	103.34
 GO:0001661	conditioned taste aversion	1	1.00	0.88	9.63	32.41
 GO:0001781	neutrophil apoptotic process	1	1.00	0.82	9.63	45.60
 GO:0032834	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response	1	1.00	0.96	9.63	3627.31
+GO:2000182	regulation of progesterone biosynthetic process	1	0.87	0.81	9.53	215.61
 GO:0072303	positive regulation of glomerular metanephric mesangial cell proliferation	1	1.00	0.90	9.63	1018.26

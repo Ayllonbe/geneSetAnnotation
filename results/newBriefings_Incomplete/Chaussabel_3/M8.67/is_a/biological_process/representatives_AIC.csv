@@ -1,5 +1,5 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0048522	positive regulation of cellular process	848	0.24	0.37	3.90	23.85
+GO:0050794	regulation of cellular process	1598	0.12	0.26	2.47	7.96
 GO:0019538	protein metabolic process	676	0.31	0.41	4.91	44.77
 GO:0007165	signal transduction	659	0.36	0.43	5.06	19.43
 GO:0022607	cellular component assembly	404	0.39	0.39	5.06	14.95
@@ -7,13 +7,13 @@ GO:0006996	organelle organization	380	0.39	0.39	5.17	14.95
 GO:0006355	regulation of transcription, DNA-templated	587	0.40	0.60	6.84	245.35
 GO:0009966	regulation of signal transduction	484	0.33	0.45	5.35	37.59
 GO:0051128	regulation of cellular component organization	437	0.30	0.40	4.57	12.04
-GO:0051128	regulation of cellular component organization	437	0.30	0.40	4.57	12.04
 GO:0006351	transcription, DNA-templated	384	0.57	0.68	8.45	581.39
 GO:0032270	positive regulation of cellular protein metabolic process	269	0.47	0.59	7.41	288.49
+GO:0008285	negative regulation of cell proliferation	108	0.56	0.57	7.31	43.61
+GO:0043069	negative regulation of programmed cell death	167	0.55	0.60	7.50	59.56
 GO:0010033	response to organic substance	331	0.35	0.37	4.75	9.28
 GO:1901700	response to oxygen-containing compound	228	0.39	0.39	5.14	9.28
 GO:0009968	negative regulation of signal transduction	196	0.44	0.54	6.68	140.65
-GO:0043069	negative regulation of programmed cell death	167	0.55	0.60	7.50	59.56
 GO:0022603	regulation of anatomical structure morphogenesis	161	0.36	0.43	5.15	11.29
 GO:0044255	cellular lipid metabolic process	150	0.38	0.44	5.89	38.02
 GO:0031347	regulation of defense response	136	0.40	0.49	5.73	14.14
@@ -21,11 +21,9 @@ GO:0001817	regulation of cytokine production	123	0.40	0.45	5.78	11.79
 GO:0045779	negative regulation of bone resorption	4	1.00	0.85	9.63	83.01
 GO:0031400	negative regulation of protein modification process	116	0.53	0.64	7.94	366.95
 GO:0033365	protein localization to organelle	110	0.50	0.54	7.01	29.83
-GO:0008285	negative regulation of cell proliferation	108	0.56	0.57	7.31	43.61
 GO:0051707	response to other organism	106	0.42	0.46	6.41	24.63
 GO:0043312	neutrophil degranulation	96	1.00	0.90	9.63	132.80
 GO:0045087	innate immune response	93	0.68	0.59	8.16	26.47
-GO:0008610	lipid biosynthetic process	92	0.47	0.48	6.40	43.60
 GO:0006897	endocytosis	82	0.63	0.61	8.09	26.36
 GO:0002758	innate immune response-activating signal transduction	40	0.63	0.71	8.79	406.89
 GO:0002429	immune response-activating cell surface receptor signaling pathway	53	0.74	0.75	9.28	217.35

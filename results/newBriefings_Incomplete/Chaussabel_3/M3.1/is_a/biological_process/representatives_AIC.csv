@@ -22,11 +22,8 @@ GO:0044255	cellular lipid metabolic process	345	0.38	0.44	5.89	38.02
 GO:0044265	cellular macromolecule catabolic process	342	0.55	0.56	7.70	100.33
 GO:0043066	negative regulation of apoptotic process	323	0.56	0.63	7.79	81.07
 GO:0001934	positive regulation of protein phosphorylation	320	0.58	0.69	8.60	663.11
-GO:0000122	negative regulation of transcription by RNA polymerase II	306	0.61	0.74	8.79	1836.95
 GO:0008284	positive regulation of cell proliferation	291	0.56	0.57	7.27	43.45
-GO:0010243	response to organonitrogen compound	278	0.45	0.48	6.23	25.43
 GO:0043065	positive regulation of apoptotic process	248	0.56	0.63	7.81	80.91
-GO:0051129	negative regulation of cellular component organization	237	0.42	0.50	5.99	44.00
 GO:0043312	neutrophil degranulation	212	1.00	0.90	9.63	132.80
 GO:0045087	innate immune response	199	0.68	0.59	8.16	26.47
 GO:0050860	negative regulation of T cell receptor signaling pathway	9	0.93	0.84	9.58	309.62
@@ -81,6 +78,7 @@ GO:0032465	regulation of cytokinesis	40	0.59	0.62	8.14	31.80
 GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	38	0.89	0.86	9.58	717.25
 GO:0009749	response to glucose	36	0.89	0.80	9.41	32.96
 GO:0045639	positive regulation of myeloid cell differentiation	36	0.73	0.72	9.19	278.21
+GO:0051591	response to cAMP	32	0.89	0.77	9.45	79.55
 GO:0055072	iron ion homeostasis	32	0.81	0.80	9.29	38.23
 GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	32	1.00	0.93	9.63	888.12
 GO:0007043	cell-cell junction assembly	31	0.75	0.67	8.82	53.94
@@ -105,6 +103,7 @@ GO:0098586	cellular response to virus	17	0.78	0.71	9.00	28.65
 GO:0051693	actin filament capping	16	0.89	0.89	9.58	826.90
 GO:0071300	cellular response to retinoic acid	16	1.00	0.82	9.63	200.60
 GO:0006779	porphyrin-containing compound biosynthetic process	16	0.70	0.68	9.20	516.36
+GO:0045806	negative regulation of endocytosis	16	0.72	0.71	9.06	124.58
 GO:0000381	regulation of alternative mRNA splicing, via spliceosome	15	1.00	0.92	9.63	185.81
 GO:0000422	autophagy of mitochondrion	14	0.87	0.76	9.45	99.53
 GO:0048873	homeostasis of number of cells within a tissue	13	0.89	0.77	9.38	26.75
@@ -129,6 +128,7 @@ GO:2001170	negative regulation of ATP biosynthetic process	4	0.84	0.85	9.55	2736
 GO:0007042	lysosomal lumen acidification	4	1.00	0.96	9.63	327.69
 GO:1903232	melanosome assembly	3	1.00	0.85	9.63	62.72
 GO:0019050	suppression by virus of host apoptotic process	3	0.93	0.90	9.60	597.66
+GO:0046898	response to cycloheximide	2	0.93	0.76	9.56	150.26
 GO:2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	2	1.00	0.90	9.63	430.88
 GO:0019243	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	2	1.00	0.90	9.63	342.21
 GO:0003420	regulation of growth plate cartilage chondrocyte proliferation	1	0.87	0.76	9.45	158.62

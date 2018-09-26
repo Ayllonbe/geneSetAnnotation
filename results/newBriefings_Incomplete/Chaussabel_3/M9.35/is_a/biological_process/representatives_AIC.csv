@@ -2,20 +2,21 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050789	regulation of biological process	724	0.09	0.17	1.80	4.47
 GO:0044237	cellular metabolic process	641	0.16	0.21	2.71	13.80
 GO:0048522	positive regulation of cellular process	364	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	322	0.24	0.37	3.90	23.93
 GO:0019219	regulation of nucleobase-containing compound metabolic process	313	0.33	0.45	5.50	54.14
 GO:0007165	signal transduction	271	0.36	0.43	5.06	19.43
 GO:0006259	DNA metabolic process	72	0.45	0.55	7.12	145.26
 GO:0034645	cellular macromolecule biosynthetic process	220	0.47	0.53	6.91	102.76
 GO:0031325	positive regulation of cellular metabolic process	231	0.33	0.46	5.39	79.98
+GO:0002181	cytoplasmic translation	2	1.00	0.88	9.63	403.66
 GO:0006464	cellular protein modification process	227	0.34	0.49	5.84	147.03
 GO:0051128	regulation of cellular component organization	212	0.30	0.40	4.57	12.04
 GO:0009966	regulation of signal transduction	183	0.33	0.45	5.35	37.59
 GO:0022607	cellular component assembly	178	0.39	0.39	5.06	14.95
-GO:0033554	cellular response to stress	140	0.44	0.42	6.05	25.47
-GO:0042981	regulation of apoptotic process	106	0.45	0.55	6.60	16.23
 GO:0031401	positive regulation of protein modification process	85	0.51	0.63	7.86	366.05
 GO:0007346	regulation of mitotic cell cycle	67	0.49	0.53	6.68	14.24
 GO:0010564	regulation of cell cycle process	81	0.42	0.50	6.22	14.24
+GO:0006974	cellular response to DNA damage stimulus	69	0.57	0.53	7.47	29.00
 GO:1902533	positive regulation of intracellular signal transduction	63	0.55	0.63	7.95	189.48
 GO:0033993	response to lipid	50	0.53	0.51	6.86	13.32
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	47	0.76	0.78	9.31	348.36
@@ -48,7 +49,6 @@ GO:0045540	regulation of cholesterol biosynthetic process	6	0.89	0.84	9.49	116.9
 GO:0046854	phosphatidylinositol phosphorylation	6	1.00	0.88	9.63	218.74
 GO:0010863	positive regulation of phospholipase C activity	5	0.93	0.84	9.55	83.74
 GO:0035337	fatty-acyl-CoA metabolic process	5	0.67	0.66	8.75	91.30
-GO:0070317	negative regulation of G0 to G1 transition	5	1.00	0.85	9.63	83.03
 GO:0006909	phagocytosis	4	0.93	0.79	9.49	28.44
 GO:0006024	glycosaminoglycan biosynthetic process	4	0.76	0.70	9.16	237.50
 GO:0045954	positive regulation of natural killer cell mediated cytotoxicity	3	0.87	0.83	9.53	431.32
@@ -57,7 +57,6 @@ GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	2	
 GO:0043552	positive regulation of phosphatidylinositol 3-kinase activity	2	0.93	0.90	9.60	732.69
 GO:0030224	monocyte differentiation	2	1.00	0.82	9.63	69.53
 GO:0015937	coenzyme A biosynthetic process	2	1.00	0.93	9.63	6508.61
-GO:0002181	cytoplasmic translation	2	1.00	0.88	9.63	403.66
 GO:0042420	dopamine catabolic process	2	1.00	0.88	9.63	561.10
 GO:0032967	positive regulation of collagen biosynthetic process	2	1.00	0.82	9.63	105.22
 GO:0045085	negative regulation of interleukin-2 biosynthetic process	1	1.00	0.88	9.63	836.02

@@ -1,55 +1,43 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
+GO:0050794	regulation of cellular process	3198	0.12	0.26	2.47	7.96
+GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
 GO:0050794	regulation of cellular process	3198	0.12	0.26	2.47	7.96
 GO:0044237	cellular metabolic process	3026	0.16	0.21	2.71	13.80
-GO:0006281	DNA repair	187	0.63	0.66	8.78	180.34
-GO:0016070	RNA metabolic process	1174	0.39	0.52	6.45	112.25
-GO:0007165	signal transduction	1275	0.36	0.43	5.06	19.43
+GO:0048522	positive regulation of cellular process	1648	0.24	0.37	3.90	23.85
+GO:0016043	cellular component organization	1536	0.28	0.26	3.74	11.45
+GO:0090304	nucleic acid metabolic process	1364	0.35	0.46	5.97	111.15
+GO:0015937	coenzyme A biosynthetic process	6	1.00	0.93	9.63	6508.61
+GO:0006464	cellular protein modification process	1065	0.34	0.49	5.84	147.03
+GO:0044255	cellular lipid metabolic process	330	0.38	0.44	5.89	38.02
 GO:1900060	negative regulation of ceramide biosynthetic process	2	0.87	0.83	9.53	911.69
 GO:0006355	regulation of transcription, DNA-templated	1231	0.40	0.60	6.84	245.35
-GO:0065003	protein-containing complex assembly	572	0.45	0.48	6.06	36.47
-GO:0006996	organelle organization	737	0.39	0.39	5.17	14.95
-GO:0006464	cellular protein modification process	1065	0.34	0.49	5.84	147.03
 GO:0010604	positive regulation of macromolecule metabolic process	1040	0.37	0.48	5.51	38.99
+GO:0009966	regulation of signal transduction	979	0.33	0.45	5.35	37.59
+GO:0065009	regulation of molecular function	963	0.33	0.29	4.10	4.47
 GO:0016192	vesicle-mediated transport	586	0.52	0.51	6.57	10.99
-GO:0045595	regulation of cell differentiation	517	0.34	0.42	5.25	23.33
 GO:0015031	protein transport	508	0.48	0.59	6.99	54.46
 GO:0051248	negative regulation of protein metabolic process	398	0.45	0.55	6.75	129.53
 GO:0048856	anatomical structure development	392	0.33	0.29	3.70	6.46
-GO:0031401	positive regulation of protein modification process	389	0.51	0.63	7.86	366.05
-GO:0009968	negative regulation of signal transduction	383	0.44	0.54	6.68	140.65
-GO:0044255	cellular lipid metabolic process	330	0.38	0.44	5.89	38.02
+GO:0006811	ion transport	329	0.38	0.44	5.19	10.99
 GO:0055082	cellular chemical homeostasis	195	0.54	0.56	7.37	33.04
-GO:0043312	neutrophil degranulation	185	1.00	0.90	9.63	132.80
 GO:0043269	regulation of ion transport	160	0.41	0.50	6.00	14.08
-GO:0051098	regulation of binding	124	0.50	0.45	6.36	6.77
 GO:0050900	leukocyte migration	112	0.60	0.59	8.02	26.94
 GO:0032870	cellular response to hormone stimulus	99	0.60	0.59	7.93	80.94
-GO:0006914	autophagy	92	0.67	0.59	8.40	37.75
-GO:0010389	regulation of G2/M transition of mitotic cell cycle	67	0.74	0.74	8.99	58.93
 GO:0140056	organelle localization by membrane tethering	63	0.73	0.62	8.53	19.19
 GO:0000086	G2/M transition of mitotic cell cycle	58	1.00	0.79	9.63	43.45
-GO:0006906	vesicle fusion	42	0.68	0.66	8.56	63.10
 GO:0048754	branching morphogenesis of an epithelial tube	34	0.74	0.69	8.88	51.71
-GO:0090630	activation of GTPase activity	28	1.00	0.85	9.63	49.34
-GO:0051496	positive regulation of stress fiber assembly	23	1.00	0.93	9.63	365.07
 GO:0034605	cellular response to heat	20	0.84	0.71	9.26	50.43
 GO:0002027	regulation of heart rate	18	0.70	0.70	8.71	26.87
 GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	15	1.00	0.92	9.63	990.06
-GO:0035025	positive regulation of Rho protein signal transduction	12	1.00	0.92	9.63	339.62
 GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	12	1.00	0.82	9.63	33.25
 GO:0046827	positive regulation of protein export from nucleus	10	0.81	0.80	9.43	516.73
 GO:1902902	negative regulation of autophagosome assembly	9	1.00	0.90	9.63	476.82
 GO:0007094	mitotic spindle assembly checkpoint	9	1.00	0.96	9.63	1801.80
-GO:1903543	positive regulation of exosomal secretion	8	1.00	0.90	9.63	273.98
-GO:0060046	regulation of acrosome reaction	7	0.84	0.71	9.34	24.93
 GO:0018146	keratan sulfate biosynthetic process	7	1.00	0.88	9.63	415.41
 GO:0006012	galactose metabolic process	6	0.78	0.71	9.07	34.68
-GO:0015937	coenzyme A biosynthetic process	6	1.00	0.93	9.63	6508.61
-GO:0086013	membrane repolarization during cardiac muscle cell action potential	3	0.81	0.78	9.25	81.64
 GO:0060058	positive regulation of apoptotic process involved in mammary gland involution	2	1.00	0.92	9.63	328.43
 GO:0007341	penetration of zona pellucida	2	1.00	0.70	9.63	44.01
-GO:0015871	choline transport	2	1.00	0.85	9.63	80.16
 GO:0042426	choline catabolic process	2	1.00	0.88	9.63	257.11
 GO:0005989	lactose biosynthetic process	2	1.00	0.85	9.63	323.91
-GO:0010797	regulation of multivesicular body size involved in endosome transport	1	1.00	0.85	9.63	28.71
 GO:0071048	nuclear retention of unspliced pre-mRNA at the site of transcription	1	1.00	0.82	9.63	27.63

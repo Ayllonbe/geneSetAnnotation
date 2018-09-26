@@ -23,7 +23,7 @@ GO:0050671	positive regulation of lymphocyte proliferation	60	0.74	0.75	9.27	262
 GO:1902107	positive regulation of leukocyte differentiation	52	0.64	0.67	8.73	278.03
 GO:0050777	negative regulation of immune response	45	0.52	0.55	7.29	78.83
 GO:0050729	positive regulation of inflammatory response	45	0.66	0.68	8.59	125.85
-GO:0048002	antigen processing and presentation of peptide antigen	38	0.70	0.55	8.09	8.95
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	38	0.80	0.65	8.94	20.20
 GO:1902106	negative regulation of leukocyte differentiation	28	0.64	0.67	8.73	278.90
 GO:0002792	negative regulation of peptide secretion	28	0.62	0.66	8.08	82.50
 GO:0030260	entry into host cell	27	0.74	0.69	8.68	26.99
@@ -35,6 +35,7 @@ GO:0010524	positive regulation of calcium ion transport into cytosol	17	0.81	0.8
 GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
 GO:0032507	maintenance of protein location in cell	11	0.68	0.63	8.41	43.86
 GO:0001516	prostaglandin biosynthetic process	7	0.89	0.88	9.60	1037.18
+GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	6	0.87	0.72	9.41	42.20
 GO:1901797	negative regulation of signal transduction by p53 class mediator	6	0.83	0.79	9.47	239.49
 GO:0046598	positive regulation of viral entry into host cell	4	0.93	0.84	9.55	85.02
 GO:0007252	I-kappaB phosphorylation	4	1.00	0.88	9.63	180.75

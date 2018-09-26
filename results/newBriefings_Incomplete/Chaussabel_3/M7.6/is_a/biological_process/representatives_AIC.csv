@@ -16,7 +16,6 @@ GO:0010605	negative regulation of macromolecule metabolic process	256	0.37	0.48	
 GO:0009966	regulation of signal transduction	243	0.33	0.45	5.35	37.59
 GO:0006996	organelle organization	224	0.39	0.39	5.17	14.95
 GO:0006796	phosphate-containing compound metabolic process	195	0.36	0.43	5.28	20.85
-GO:0033554	cellular response to stress	195	0.44	0.42	6.05	25.47
 GO:0045086	positive regulation of interleukin-2 biosynthetic process	5	1.00	0.88	9.63	834.88
 GO:0045935	positive regulation of nucleobase-containing compound metabolic process	188	0.44	0.55	6.91	183.64
 GO:0045935	positive regulation of nucleobase-containing compound metabolic process	188	0.44	0.55	6.91	183.64
@@ -24,6 +23,7 @@ GO:0015031	protein transport	172	0.48	0.59	6.99	54.46
 GO:0065003	protein-containing complex assembly	162	0.45	0.48	6.06	36.47
 GO:0033043	regulation of organelle organization	148	0.36	0.47	5.49	15.89
 GO:0042325	regulation of phosphorylation	139	0.47	0.59	6.88	31.28
+GO:0045595	regulation of cell differentiation	135	0.34	0.42	5.25	23.33
 GO:0045934	negative regulation of nucleobase-containing compound metabolic process	131	0.46	0.55	7.09	184.29
 GO:0030154	cell differentiation	118	0.39	0.39	5.18	16.68
 GO:0043697	cell dedifferentiation	1	0.87	0.63	9.29	23.14
@@ -51,7 +51,6 @@ GO:0050801	ion homeostasis	42	0.50	0.54	6.88	13.14
 GO:0006091	generation of precursor metabolites and energy	40	0.53	0.46	6.54	17.52
 GO:0044772	mitotic cell cycle phase transition	40	0.84	0.67	9.04	28.43
 GO:0006897	endocytosis	40	0.63	0.61	8.09	26.36
-GO:1903706	regulation of hemopoiesis	40	0.50	0.54	7.23	38.17
 GO:0006518	peptide metabolic process	38	0.56	0.57	7.65	56.97
 GO:0098662	inorganic cation transmembrane transport	37	0.58	0.64	7.91	76.35
 GO:0051251	positive regulation of lymphocyte activation	36	0.58	0.64	8.19	127.58
@@ -70,17 +69,17 @@ GO:0010389	regulation of G2/M transition of mitotic cell cycle	26	0.74	0.74	8.99
 GO:0071478	cellular response to radiation	25	0.67	0.63	8.53	36.92
 GO:0006405	RNA export from nucleus	25	0.71	0.73	9.03	77.48
 GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	22	0.80	0.80	9.39	355.88
-GO:0031669	cellular response to nutrient levels	21	0.55	0.57	7.65	58.45
 GO:0006412	translation	21	0.87	0.78	9.51	402.56
 GO:0007275	multicellular organism development	20	0.70	0.55	8.18	19.32
 GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	18	1.00	0.93	9.63	888.12
 GO:0008360	regulation of cell shape	18	0.68	0.66	8.69	41.78
 GO:0008654	phospholipid biosynthetic process	18	0.61	0.63	8.32	240.37
 GO:0000723	telomere maintenance	18	0.73	0.72	9.29	183.02
+GO:0009267	cellular response to starvation	17	0.64	0.64	8.46	112.77
 GO:0060271	cilium assembly	16	0.87	0.76	9.41	137.68
+GO:0036294	cellular response to decreased oxygen levels	16	0.87	0.72	9.37	50.89
 GO:0045766	positive regulation of angiogenesis	16	0.81	0.76	9.30	134.49
 GO:0050707	regulation of cytokine secretion	15	0.59	0.67	8.36	114.42
-GO:0071456	cellular response to hypoxia	15	1.00	0.82	9.63	103.25
 GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	13	0.81	0.85	9.56	733.39
 GO:0016236	macroautophagy	13	0.77	0.67	8.94	39.83
 GO:0000281	mitotic cytokinesis	13	0.93	0.76	9.47	28.62
@@ -113,7 +112,6 @@ GO:0003091	renal water homeostasis	4	1.00	0.85	9.63	57.14
 GO:0040018	positive regulation of multicellular organism growth	4	1.00	0.82	9.63	145.46
 GO:0006998	nuclear envelope organization	4	0.74	0.62	8.67	18.35
 GO:2000059	negative regulation of ubiquitin-dependent protein catabolic process	4	0.83	0.83	9.51	1664.75
-GO:0045616	regulation of keratinocyte differentiation	4	0.83	0.76	9.46	71.49
 GO:0071333	cellular response to glucose stimulus	4	1.00	0.88	9.63	272.30
 GO:0045668	negative regulation of osteoblast differentiation	4	0.93	0.79	9.56	170.33
 GO:0045345	positive regulation of MHC class I biosynthetic process	3	1.00	0.85	9.63	147.29

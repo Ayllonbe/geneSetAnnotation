@@ -10,10 +10,9 @@ GO:0006351	transcription, DNA-templated	871	0.57	0.68	8.45	581.39
 GO:0010628	positive regulation of gene expression	681	0.47	0.56	6.67	58.80
 GO:0045727	positive regulation of translation	46	0.66	0.71	9.12	1032.69
 GO:0045893	positive regulation of transcription, DNA-templated	542	0.52	0.67	8.14	1208.12
-GO:0010033	response to organic substance	699	0.35	0.37	4.75	9.28
-GO:1901700	response to oxygen-containing compound	479	0.39	0.39	5.14	9.28
 GO:0030154	cell differentiation	456	0.39	0.39	5.18	16.68
 GO:0002363	alpha-beta T cell lineage commitment	5	0.79	0.68	8.94	21.34
+GO:0051130	positive regulation of cellular component organization	452	0.42	0.50	5.95	43.84
 GO:0010648	negative regulation of cell communication	437	0.41	0.50	5.87	43.44
 GO:0043066	negative regulation of apoptotic process	329	0.56	0.63	7.79	81.07
 GO:0051345	positive regulation of hydrolase activity	274	0.57	0.57	7.42	32.99
@@ -30,15 +29,17 @@ GO:0001666	response to hypoxia	101	0.81	0.70	9.12	21.16
 GO:0051495	positive regulation of cytoskeleton organization	93	0.62	0.66	8.29	90.96
 GO:0030336	negative regulation of cell migration	88	0.58	0.64	8.21	158.04
 GO:0070507	regulation of microtubule cytoskeleton organization	82	0.61	0.65	8.24	33.71
-GO:0002009	morphogenesis of an epithelium	77	0.51	0.51	6.34	13.50
 GO:2000027	regulation of organ morphogenesis	67	0.45	0.52	6.54	42.54
 GO:0071222	cellular response to lipopolysaccharide	66	1.00	0.82	9.63	238.00
 GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	56	0.81	0.85	9.56	733.39
 GO:0030307	positive regulation of cell growth	51	0.70	0.67	8.71	80.65
 GO:0045471	response to ethanol	45	0.93	0.76	9.52	69.73
 GO:0050773	regulation of dendrite development	45	0.76	0.78	9.51	86.24
+GO:0009749	response to glucose	40	0.89	0.80	9.41	32.96
+GO:0043200	response to amino acid	38	0.64	0.61	8.41	56.71
 GO:0030148	sphingolipid biosynthetic process	35	0.69	0.70	8.99	238.83
 GO:0007611	learning or memory	33	0.70	0.64	8.38	19.74
+GO:0060562	epithelial tube morphogenesis	33	0.63	0.61	7.92	30.01
 GO:0043525	positive regulation of neuron apoptotic process	27	0.84	0.80	9.39	179.36
 GO:0046638	positive regulation of alpha-beta T cell differentiation	27	0.77	0.80	9.49	1285.37
 GO:0050772	positive regulation of axonogenesis	26	0.74	0.79	9.36	884.01
@@ -58,12 +59,11 @@ GO:0046039	GTP metabolic process	11	0.89	0.86	9.57	1313.88
 GO:0061621	canonical glycolysis	11	1.00	0.99	9.63	17318.20
 GO:1903427	negative regulation of reactive oxygen species biosynthetic process	11	0.89	0.80	9.50	200.29
 GO:2000406	positive regulation of T cell migration	11	0.80	0.81	9.46	351.78
-GO:0051491	positive regulation of filopodium assembly	11	1.00	0.90	9.63	200.31
+GO:0001569	branching involved in blood vessel morphogenesis	9	1.00	0.85	9.63	53.50
 GO:0046716	muscle cell cellular homeostasis	8	1.00	0.79	9.63	31.95
 GO:0090051	negative regulation of cell migration involved in sprouting angiogenesis	8	1.00	0.93	9.63	662.77
 GO:0051016	barbed-end actin filament capping	7	1.00	0.96	9.63	827.59
 GO:0007016	cytoskeletal anchoring at plasma membrane	7	1.00	0.82	9.63	66.89
-GO:0071803	positive regulation of podosome assembly	6	1.00	0.88	9.63	306.35
 GO:0019388	galactose catabolic process	5	0.84	0.77	9.39	173.54
 GO:0071377	cellular response to glucagon stimulus	5	1.00	0.88	9.63	462.70
 GO:2000480	negative regulation of cAMP-dependent protein kinase activity	4	1.00	0.95	9.63	1429.05

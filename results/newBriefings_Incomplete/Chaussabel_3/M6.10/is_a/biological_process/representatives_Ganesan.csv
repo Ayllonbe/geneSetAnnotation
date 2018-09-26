@@ -32,7 +32,6 @@ GO:0045087	innate immune response	48	0.68	0.59	8.16	26.47
 GO:0007186	G-protein coupled receptor signaling pathway	45	0.55	0.57	7.20	23.17
 GO:0009117	nucleotide metabolic process	36	0.44	0.57	7.31	170.44
 GO:0000398	mRNA splicing, via spliceosome	34	0.83	0.85	9.49	356.67
-GO:0043410	positive regulation of MAPK cascade	34	0.66	0.75	9.17	1017.24
 GO:0007265	Ras protein signal transduction	31	0.76	0.73	8.94	27.53
 GO:0006888	ER to Golgi vesicle-mediated transport	30	1.00	0.82	9.63	49.13
 GO:0051260	protein homooligomerization	30	0.89	0.77	9.41	42.03
@@ -60,7 +59,6 @@ GO:0048524	positive regulation of viral process	12	0.71	0.68	8.71	43.24
 GO:0050770	regulation of axonogenesis	12	0.63	0.71	8.86	152.13
 GO:0008333	endosome to lysosome transport	10	0.84	0.74	9.37	62.68
 GO:0016052	carbohydrate catabolic process	10	0.48	0.49	6.69	43.27
-GO:0036498	IRE1-mediated unfolded protein response	9	1.00	0.82	9.63	55.46
 GO:0048872	homeostasis of number of cells	8	0.67	0.58	7.80	10.43
 GO:0008306	associative learning	8	0.84	0.77	9.22	22.45
 GO:0097352	autophagosome maturation	8	1.00	0.79	9.63	38.05

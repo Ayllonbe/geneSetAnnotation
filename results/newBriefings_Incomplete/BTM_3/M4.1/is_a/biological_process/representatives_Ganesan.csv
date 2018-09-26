@@ -4,6 +4,7 @@ GO:0048523	negative regulation of cellular process	764	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	594	0.33	0.45	5.35	37.59
 GO:0010468	regulation of gene expression	585	0.35	0.46	5.09	13.73
 GO:0006355	regulation of transcription, DNA-templated	474	0.40	0.60	6.84	245.35
+GO:0010033	response to organic substance	453	0.35	0.37	4.75	9.28
 GO:0032268	regulation of cellular protein metabolic process	449	0.37	0.51	6.13	70.76
 GO:0006464	cellular protein modification process	390	0.34	0.49	5.84	147.03
 GO:0035556	intracellular signal transduction	325	0.51	0.55	6.92	23.17
@@ -14,23 +15,18 @@ GO:0006351	transcription, DNA-templated	228	0.57	0.68	8.45	581.39
 GO:0009968	negative regulation of signal transduction	225	0.44	0.54	6.68	140.65
 GO:0051726	regulation of cell cycle	223	0.41	0.45	5.89	12.04
 GO:0007186	G-protein coupled receptor signaling pathway	200	0.55	0.57	7.20	23.17
-GO:0010243	response to organonitrogen compound	185	0.45	0.48	6.23	25.43
-GO:0006468	protein phosphorylation	174	0.57	0.64	8.18	177.76
 GO:0006508	proteolysis	172	0.55	0.57	7.34	47.86
-GO:0014070	response to organic cyclic compound	167	0.45	0.47	5.96	13.32
 GO:0051345	positive regulation of hydrolase activity	163	0.57	0.57	7.42	32.99
 GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
 GO:0006259	DNA metabolic process	144	0.45	0.55	7.12	145.26
 GO:0006974	cellular response to DNA damage stimulus	142	0.57	0.53	7.47	29.00
-GO:0071900	regulation of protein serine/threonine kinase activity	130	0.61	0.72	8.68	161.63
 GO:0050727	regulation of inflammatory response	114	0.53	0.59	7.40	31.59
 GO:0051276	chromosome organization	104	0.55	0.52	6.96	18.35
 GO:0071345	cellular response to cytokine stimulus	100	0.67	0.63	8.21	61.60
 GO:0009615	response to virus	92	0.74	0.66	8.80	27.27
 GO:0051052	regulation of DNA metabolic process	91	0.47	0.56	7.17	70.58
-GO:0051052	regulation of DNA metabolic process	91	0.47	0.56	7.17	70.58
 GO:1903827	regulation of cellular protein localization	90	0.48	0.53	6.86	25.72
-GO:0006281	DNA repair	90	0.63	0.66	8.78	180.34
+GO:0055086	nucleobase-containing small molecule metabolic process	87	0.38	0.48	6.63	107.58
 GO:0045765	regulation of angiogenesis	85	0.70	0.68	8.82	44.94
 GO:0044772	mitotic cell cycle phase transition	75	0.84	0.67	9.04	28.43
 GO:0043254	regulation of protein complex assembly	72	0.50	0.54	6.88	27.32
@@ -40,7 +36,6 @@ GO:0043434	response to peptide hormone	70	0.67	0.66	8.71	71.33
 GO:0033044	regulation of chromosome organization	67	0.44	0.54	6.49	19.19
 GO:0000226	microtubule cytoskeleton organization	63	0.58	0.58	7.66	30.31
 GO:0007088	regulation of mitotic nuclear division	60	0.59	0.64	8.17	54.97
-GO:0051054	positive regulation of DNA metabolic process	59	0.59	0.65	8.41	301.51
 GO:0000902	cell morphogenesis	58	0.63	0.56	7.92	43.26
 GO:0010951	negative regulation of endopeptidase activity	58	0.77	0.80	9.45	500.32
 GO:0030855	epithelial cell differentiation	58	0.55	0.52	6.96	21.07
@@ -64,7 +59,6 @@ GO:0048812	neuron projection morphogenesis	40	0.65	0.68	8.50	63.00
 GO:0045665	negative regulation of neuron differentiation	39	0.62	0.68	8.73	338.15
 GO:0051384	response to glucocorticoid	39	0.77	0.73	9.22	62.74
 GO:0032388	positive regulation of intracellular transport	39	0.61	0.63	8.04	60.38
-GO:0016579	protein deubiquitination	38	0.73	0.76	9.15	202.60
 GO:0046651	lymphocyte proliferation	37	0.69	0.63	8.73	28.26
 GO:0070507	regulation of microtubule cytoskeleton organization	37	0.61	0.65	8.24	33.71
 GO:0051100	negative regulation of binding	36	0.62	0.56	7.57	18.50
@@ -103,6 +97,8 @@ GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9
 GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	18	1.00	0.93	9.63	888.12
 GO:0050773	regulation of dendrite development	18	0.76	0.78	9.51	86.24
 GO:0000819	sister chromatid segregation	18	0.89	0.74	9.43	40.65
+GO:0031060	regulation of histone methylation	7	0.64	0.72	9.03	102.10
+GO:0035065	regulation of histone acetylation	13	0.70	0.77	9.17	181.05
 GO:0051310	metaphase plate congression	17	0.84	0.74	9.34	45.44
 GO:0000281	mitotic cytokinesis	17	0.93	0.76	9.47	28.62
 GO:0032434	regulation of proteasomal ubiquitin-dependent protein catabolic process	16	0.73	0.78	9.24	451.96
@@ -119,13 +115,11 @@ GO:0050891	multicellular organismal water homeostasis	14	0.87	0.76	9.43	44.18
 GO:0034502	protein localization to chromosome	14	0.67	0.66	8.49	32.77
 GO:0007062	sister chromatid cohesion	13	0.75	0.67	8.80	32.57
 GO:0034080	CENP-A containing nucleosome assembly	13	1.00	0.90	9.63	242.74
-GO:0035065	regulation of histone acetylation	13	0.70	0.77	9.17	181.05
 GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	13	0.89	0.80	9.45	80.05
 GO:0007098	centrosome cycle	12	1.00	0.75	9.63	37.69
 GO:0001837	epithelial to mesenchymal transition	12	0.75	0.67	8.65	23.15
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	12	1.00	0.88	9.63	115.14
 GO:0030261	chromosome condensation	12	0.83	0.76	9.22	23.95
-GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	12	0.93	0.88	9.59	425.74
 GO:0090224	regulation of spindle organization	12	0.72	0.74	9.03	52.96
 GO:0045589	regulation of regulatory T cell differentiation	11	0.79	0.79	9.52	133.47
 GO:0043029	T cell homeostasis	11	1.00	0.85	9.63	22.00
@@ -145,7 +139,6 @@ GO:0051653	spindle localization	8	0.79	0.64	9.22	22.02
 GO:0006760	folic acid-containing compound metabolic process	7	0.73	0.69	9.33	232.08
 GO:0031103	axon regeneration	7	0.84	0.77	9.43	96.51
 GO:0007131	reciprocal meiotic recombination	7	1.00	0.90	9.63	175.07
-GO:0031060	regulation of histone methylation	7	0.64	0.72	9.03	102.10
 GO:0051497	negative regulation of stress fiber assembly	7	1.00	0.93	9.63	338.84
 GO:0045190	isotype switching	7	0.83	0.86	9.52	267.40
 GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
@@ -174,7 +167,6 @@ GO:0007099	centriole replication	4	1.00	0.82	9.63	79.09
 GO:0031497	chromatin assembly	4	0.76	0.67	8.80	37.86
 GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	4	1.00	0.92	9.63	350.56
 GO:0090656	t-circle formation	4	1.00	0.88	9.63	168.69
-GO:0002903	negative regulation of B cell apoptotic process	4	0.84	0.84	9.47	155.02
 GO:0007129	synapsis	4	1.00	0.82	9.63	47.18
 GO:0051256	mitotic spindle midzone assembly	4	1.00	0.79	9.63	55.95
 GO:0051000	positive regulation of nitric-oxide synthase activity	4	1.00	0.85	9.63	123.23
@@ -183,7 +175,6 @@ GO:0072425	signal transduction involved in G2 DNA damage checkpoint	4	0.93	0.86	
 GO:0072711	cellular response to hydroxyurea	3	1.00	0.82	9.63	186.99
 GO:0072708	response to sorbitol	3	0.93	0.76	9.47	29.40
 GO:0045143	homologous chromosome segregation	3	1.00	0.79	9.63	44.56
-GO:0015949	nucleobase-containing small molecule interconversion	3	0.77	0.71	9.27	109.53
 GO:0035563	positive regulation of chromatin binding	3	0.93	0.76	9.49	31.32
 GO:0010458	exit from mitosis	3	1.00	0.79	9.63	29.82
 GO:0043137	DNA replication, removal of RNA primer	3	0.93	0.84	9.59	683.73
@@ -195,7 +186,6 @@ GO:0071163	DNA replication preinitiation complex assembly	3	0.87	0.78	9.39	77.23
 GO:0007100	mitotic centrosome separation	3	1.00	0.75	9.63	26.82
 GO:1902065	response to L-glutamate	3	0.93	0.79	9.56	96.09
 GO:0045717	negative regulation of fatty acid biosynthetic process	3	0.84	0.80	9.48	670.14
-GO:0019860	uracil metabolic process	3	0.87	0.81	9.53	250.74
 GO:0000706	meiotic DNA double-strand break processing	3	0.89	0.82	9.53	173.97
 GO:0051754	meiotic sister chromatid cohesion, centromeric	3	1.00	0.85	9.63	117.00
 GO:0060574	intestinal epithelial cell maturation	3	1.00	0.82	9.63	41.35
@@ -215,7 +205,6 @@ GO:0007057	spindle assembly involved in female meiosis I	2	1.00	0.92	9.63	179.90
 GO:0031442	positive regulation of mRNA 3'-end processing	2	0.93	0.88	9.59	630.64
 GO:0010994	free ubiquitin chain polymerization	2	1.00	0.85	9.63	46.13
 GO:1990426	mitotic recombination-dependent replication fork processing	2	1.00	0.92	9.63	328.82
-GO:0031115	negative regulation of microtubule polymerization	2	0.93	0.88	9.59	405.45
 GO:0042754	negative regulation of circadian rhythm	2	0.83	0.66	9.04	21.65
 GO:0000707	meiotic DNA recombinase assembly	2	0.83	0.79	9.41	133.96
 GO:0098535	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	2	1.00	0.85	9.63	68.46

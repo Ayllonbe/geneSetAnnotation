@@ -11,7 +11,6 @@ GO:0065008	regulation of biological quality	1206	0.28	0.26	3.48	4.47
 GO:0007166	cell surface receptor signaling pathway	1039	0.43	0.51	5.91	23.17
 GO:0033554	cellular response to stress	821	0.44	0.42	6.05	25.47
 GO:0035556	intracellular signal transduction	793	0.51	0.55	6.92	23.17
-GO:0009967	positive regulation of signal transduction	777	0.44	0.54	6.71	140.23
 GO:0015031	protein transport	764	0.48	0.59	6.99	54.46
 GO:0043066	negative regulation of apoptotic process	460	0.56	0.63	7.79	81.07
 GO:0043065	positive regulation of apoptotic process	346	0.56	0.63	7.81	80.91
@@ -23,6 +22,7 @@ GO:0030154	cell differentiation	613	0.39	0.39	5.18	16.68
 GO:0051130	positive regulation of cellular component organization	589	0.42	0.50	5.95	43.84
 GO:0051094	positive regulation of developmental process	553	0.38	0.44	5.27	23.11
 GO:0034613	cellular protein localization	547	0.45	0.48	6.33	26.83
+GO:1902533	positive regulation of intracellular signal transduction	517	0.55	0.63	7.95	189.48
 GO:0045937	positive regulation of phosphate metabolic process	507	0.51	0.60	7.47	145.91
 GO:0051241	negative regulation of multicellular organismal process	482	0.35	0.42	4.99	23.69
 GO:0019752	carboxylic acid metabolic process	452	0.32	0.45	5.31	42.50

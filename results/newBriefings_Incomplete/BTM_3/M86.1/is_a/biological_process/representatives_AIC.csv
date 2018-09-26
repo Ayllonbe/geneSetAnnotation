@@ -3,17 +3,14 @@ GO:0007165	signal transduction	460	0.36	0.43	5.06	19.43
 GO:0048522	positive regulation of cellular process	459	0.24	0.37	3.90	23.85
 GO:0048523	negative regulation of cellular process	341	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	285	0.33	0.45	5.35	37.59
+GO:0031325	positive regulation of cellular metabolic process	275	0.33	0.46	5.39	79.98
 GO:0010604	positive regulation of macromolecule metabolic process	270	0.37	0.48	5.51	38.99
 GO:0006355	regulation of transcription, DNA-templated	203	0.40	0.60	6.84	245.35
 GO:0070887	cellular response to chemical stimulus	185	0.40	0.40	5.31	25.21
-GO:0042493	response to drug	63	0.47	0.43	5.84	9.28
-GO:0046677	response to antibiotic	27	0.56	0.48	6.78	9.28
-GO:1901700	response to oxygen-containing compound	179	0.39	0.39	5.14	9.28
 GO:0051240	positive regulation of multicellular organismal process	179	0.35	0.42	4.98	23.60
 GO:0051247	positive regulation of protein metabolic process	155	0.44	0.54	6.72	129.04
 GO:2000304	positive regulation of ceramide biosynthetic process	1	0.93	0.86	9.60	909.79
 GO:0065003	protein-containing complex assembly	129	0.45	0.48	6.06	36.47
-GO:0045937	positive regulation of phosphate metabolic process	128	0.51	0.60	7.47	145.91
 GO:0051044	positive regulation of membrane protein ectodomain proteolysis	5	1.00	0.90	9.63	964.01
 GO:0031401	positive regulation of protein modification process	123	0.51	0.63	7.86	366.05
 GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway	1	1.00	0.85	9.63	213.04
@@ -24,7 +21,6 @@ GO:0010648	negative regulation of cell communication	108	0.41	0.50	5.87	43.44
 GO:0051241	negative regulation of multicellular organismal process	107	0.35	0.42	4.99	23.69
 GO:0051707	response to other organism	99	0.42	0.46	6.41	24.63
 GO:0050900	leukocyte migration	99	0.60	0.59	8.02	26.94
-GO:0031347	regulation of defense response	95	0.40	0.49	5.73	14.14
 GO:0006351	transcription, DNA-templated	92	0.57	0.68	8.45	581.39
 GO:0045597	positive regulation of cell differentiation	86	0.45	0.51	6.57	82.53
 GO:0030335	positive regulation of cell migration	80	0.58	0.64	8.22	157.26
@@ -35,6 +31,7 @@ GO:0043065	positive regulation of apoptotic process	61	0.56	0.63	7.81	80.91
 GO:0045596	negative regulation of cell differentiation	60	0.44	0.51	6.50	82.79
 GO:0022409	positive regulation of cell-cell adhesion	57	0.59	0.59	7.66	36.23
 GO:0060627	regulation of vesicle-mediated transport	56	0.48	0.53	6.81	26.12
+GO:0000122	negative regulation of transcription by RNA polymerase II	53	0.61	0.74	8.79	1836.95
 GO:0007204	positive regulation of cytosolic calcium ion concentration	51	0.68	0.77	9.10	290.30
 GO:0050870	positive regulation of T cell activation	51	0.63	0.69	8.78	216.07
 GO:0050708	regulation of protein secretion	47	0.54	0.62	7.86	96.15
@@ -56,6 +53,7 @@ GO:0043901	negative regulation of multi-organism process	13	0.52	0.51	6.65	23.38
 GO:0071260	cellular response to mechanical stimulus	13	1.00	0.79	9.63	56.12
 GO:0045582	positive regulation of T cell differentiation	13	0.70	0.75	9.32	861.16
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	12	0.93	0.93	9.60	734.49
+GO:0050728	negative regulation of inflammatory response	12	0.67	0.69	8.71	126.18
 GO:0046718	viral entry into host cell	12	0.77	0.73	8.94	28.37
 GO:0045840	positive regulation of mitotic nuclear division	12	0.71	0.73	9.14	276.06
 GO:0042130	negative regulation of T cell proliferation	11	0.78	0.78	9.42	581.93
@@ -64,10 +62,10 @@ GO:0043407	negative regulation of MAP kinase activity	9	0.81	0.85	9.54	2610.18
 GO:0072659	protein localization to plasma membrane	9	0.79	0.72	9.26	65.43
 GO:0060688	regulation of morphogenesis of a branching structure	9	0.66	0.62	8.16	26.96
 GO:0006024	glycosaminoglycan biosynthetic process	9	0.76	0.70	9.16	237.50
+GO:0045471	response to ethanol	8	0.93	0.76	9.52	69.73
 GO:0000060	protein import into nucleus, translocation	8	1.00	0.90	9.63	93.44
 GO:0030316	osteoclast differentiation	7	0.93	0.79	9.51	47.07
 GO:0050999	regulation of nitric-oxide synthase activity	7	0.89	0.77	9.41	24.72
-GO:0010508	positive regulation of autophagy	6	0.72	0.71	9.04	216.89
 GO:0006006	glucose metabolic process	6	0.71	0.68	8.57	34.68
 GO:0086004	regulation of cardiac muscle cell contraction	6	0.71	0.75	9.31	77.56
 GO:0035176	social behavior	5	1.00	0.70	9.63	22.58
@@ -87,6 +85,7 @@ GO:0010923	negative regulation of phosphatase activity	3	0.79	0.79	9.36	265.75
 GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	3	1.00	0.92	9.63	1344.96
 GO:0030866	cortical actin cytoskeleton organization	3	0.77	0.71	9.12	53.95
 GO:0010888	negative regulation of lipid storage	3	0.89	0.77	9.43	46.28
+GO:0050691	regulation of defense response to virus by host	3	0.89	0.80	9.47	72.39
 GO:2000121	regulation of removal of superoxide radicals	3	0.83	0.76	9.49	93.21
 GO:1901841	regulation of high voltage-gated calcium channel activity	2	0.89	0.88	9.53	231.63
 GO:0006809	nitric oxide biosynthetic process	2	1.00	0.82	9.63	241.10
@@ -96,6 +95,7 @@ GO:0043922	negative regulation by host of viral transcription	2	1.00	0.93	9.63	2
 GO:0042559	pteridine-containing compound biosynthetic process	2	0.73	0.66	9.19	354.18
 GO:0010835	regulation of protein ADP-ribosylation	1	0.93	0.84	9.55	75.95
 GO:1904798	positive regulation of core promoter binding	1	1.00	0.85	9.63	62.60
+GO:0010193	response to ozone	1	0.93	0.76	9.54	79.60
 GO:0001660	fever generation	1	1.00	0.85	9.63	35.73
 GO:0014050	negative regulation of glutamate secretion	1	0.93	0.86	9.59	415.45
 GO:0033668	negative regulation by symbiont of host apoptotic process	1	0.89	0.86	9.59	350.79

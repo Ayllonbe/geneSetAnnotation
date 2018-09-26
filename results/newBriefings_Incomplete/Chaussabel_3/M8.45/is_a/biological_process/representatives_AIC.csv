@@ -1,30 +1,8 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	2173	0.12	0.26	2.47	7.96
-GO:0050794	regulation of cellular process	2173	0.12	0.26	2.47	7.96
-GO:0044237	cellular metabolic process	1958	0.16	0.21	2.71	13.80
-GO:1901564	organonitrogen compound metabolic process	1160	0.23	0.31	3.63	19.40
-GO:0007165	signal transduction	897	0.36	0.43	5.06	19.43
-GO:0006810	transport	892	0.28	0.34	3.95	7.46
-GO:0006355	regulation of transcription, DNA-templated	818	0.40	0.60	6.84	245.35
-GO:0032502	developmental process	607	0.22	0.11	1.89	3.37
-GO:0032774	RNA biosynthetic process	572	0.53	0.62	8.04	473.34
-GO:0022607	cellular component assembly	546	0.39	0.39	5.06	14.95
-GO:0044255	cellular lipid metabolic process	218	0.38	0.44	5.89	38.02
+GO:0008150	biological_process	3272	0.00	0.00	0.00	0.00
+GO:2000786	positive regulation of autophagosome assembly	6	1.00	0.90	9.63	594.86
+GO:0050789	regulation of biological process	2287	0.09	0.17	1.80	4.47
 GO:0043547	positive regulation of GTPase activity	101	0.93	0.79	9.52	49.34
-GO:0031668	cellular response to extracellular stimulus	63	0.55	0.52	7.38	45.16
-GO:0010976	positive regulation of neuron projection development	47	0.68	0.73	9.14	493.19
-GO:0050796	regulation of insulin secretion	32	0.83	0.81	9.53	205.48
-GO:0034644	cellular response to UV	30	0.80	0.75	9.22	66.19
-GO:0016239	positive regulation of macroautophagy	17	0.77	0.76	9.24	266.07
-GO:0006094	gluconeogenesis	14	1.00	0.85	9.63	174.61
-GO:0032922	circadian regulation of gene expression	11	1.00	0.82	9.63	31.18
-GO:0002230	positive regulation of defense response to virus by host	10	1.00	0.88	9.63	73.08
-GO:0010575	positive regulation of vascular endothelial growth factor production	8	1.00	0.82	9.63	64.54
-GO:0043267	negative regulation of potassium ion transport	8	0.74	0.75	9.03	68.61
-GO:1903204	negative regulation of oxidative stress-induced neuron death	7	0.87	0.83	9.58	363.98
-GO:1903351	cellular response to dopamine	6	1.00	0.88	9.63	545.63
-GO:0032057	negative regulation of translational initiation in response to stress	3	0.84	0.84	9.54	3170.18
-GO:1990737	response to manganese-induced endoplasmic reticulum stress	3	1.00	0.85	9.63	109.01
-GO:0051451	myoblast migration	3	0.93	0.79	9.49	22.01
-GO:0046855	inositol phosphate dephosphorylation	3	0.93	0.84	9.59	336.66
-GO:0072673	lamellipodium morphogenesis	1	1.00	0.85	9.63	82.65
+GO:0008152	metabolic process	2051	0.15	0.07	1.52	3.37
+GO:0006810	transport	892	0.28	0.34	3.95	7.46
+GO:0051716	cellular response to stimulus	666	0.35	0.30	4.36	13.53

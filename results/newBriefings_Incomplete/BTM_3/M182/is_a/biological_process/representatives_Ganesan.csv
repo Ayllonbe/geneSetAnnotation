@@ -1,18 +1,13 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	1036	0.12	0.26	2.47	7.96
-GO:0044237	cellular metabolic process	702	0.16	0.21	2.71	13.80
 GO:0048519	negative regulation of biological process	548	0.21	0.30	3.07	7.96
 GO:0009966	regulation of signal transduction	421	0.33	0.45	5.35	37.59
-GO:0048519	negative regulation of biological process	548	0.21	0.30	3.07	7.96
-GO:0009966	regulation of signal transduction	421	0.33	0.45	5.35	37.59
-GO:1901360	organic cyclic compound metabolic process	340	0.24	0.32	3.54	10.22
 GO:0010033	response to organic substance	326	0.35	0.37	4.75	9.28
 GO:0006355	regulation of transcription, DNA-templated	307	0.40	0.60	6.84	245.35
 GO:0090304	nucleic acid metabolic process	241	0.35	0.46	5.97	111.15
 GO:0042981	regulation of apoptotic process	211	0.45	0.55	6.60	16.23
 GO:0033554	cellular response to stress	153	0.44	0.42	6.05	25.47
 GO:0006351	transcription, DNA-templated	137	0.57	0.68	8.45	581.39
-GO:0051129	negative regulation of cellular component organization	86	0.42	0.50	5.99	44.00
 GO:0051052	regulation of DNA metabolic process	62	0.47	0.56	7.17	70.58
 GO:0006886	intracellular protein transport	53	0.55	0.65	8.12	90.55
 GO:0009615	response to virus	52	0.74	0.66	8.80	27.27
@@ -29,25 +24,33 @@ GO:0032392	DNA geometric change	16	0.75	0.70	8.94	22.34
 GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
 GO:0007409	axonogenesis	14	0.69	0.72	8.67	64.61
 GO:0071479	cellular response to ionizing radiation	12	0.89	0.77	9.45	48.66
+GO:0006637	acyl-CoA metabolic process	12	0.59	0.59	7.98	77.21
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	9	1.00	0.93	9.63	888.12
 GO:0046632	alpha-beta T cell differentiation	9	0.71	0.71	9.05	90.59
 GO:0035264	multicellular organism growth	8	1.00	0.70	9.63	22.58
 GO:0035176	social behavior	7	1.00	0.70	9.63	22.58
 GO:0016573	histone acetylation	7	0.69	0.78	9.12	658.07
 GO:0000281	mitotic cytokinesis	7	0.93	0.76	9.47	28.62
+GO:0046641	positive regulation of alpha-beta T cell proliferation	7	0.87	0.85	9.55	937.85
 GO:2000649	regulation of sodium ion transmembrane transporter activity	7	0.71	0.75	9.11	122.59
 GO:0032781	positive regulation of ATPase activity	6	0.75	0.70	8.78	51.42
+GO:0051497	negative regulation of stress fiber assembly	6	1.00	0.93	9.63	338.84
 GO:0006364	rRNA processing	4	0.63	0.71	8.68	356.39
 GO:0021915	neural tube development	4	1.00	0.79	9.63	33.01
+GO:0006206	pyrimidine nucleobase metabolic process	4	0.73	0.72	9.24	227.01
 GO:0051567	histone H3-K9 methylation	4	0.89	0.88	9.56	955.34
 GO:0001947	heart looping	4	1.00	0.85	9.63	47.98
 GO:0000578	embryonic axis specification	4	0.79	0.64	8.75	24.59
+GO:0050774	negative regulation of dendrite morphogenesis	3	0.93	0.90	9.60	974.11
 GO:0061436	establishment of skin barrier	3	1.00	0.88	9.63	44.87
 GO:0051290	protein heterotetramerization	3	1.00	0.85	9.63	85.45
 GO:0048012	hepatocyte growth factor receptor signaling pathway	3	1.00	0.88	9.63	31.00
 GO:0000712	resolution of meiotic recombination intermediates	2	1.00	0.79	9.63	26.25
 GO:0033260	nuclear DNA replication	2	0.87	0.85	9.55	268.93
 GO:0042921	glucocorticoid receptor signaling pathway	1	1.00	0.90	9.63	54.70
+GO:1902224	ketone body metabolic process	1	0.77	0.63	9.07	53.95
 GO:0007224	smoothened signaling pathway	1	0.78	0.71	8.87	26.50
 GO:0051307	meiotic chromosome separation	1	0.87	0.68	9.22	35.56
 GO:0072229	metanephric proximal convoluted tubule development	1	1.00	0.90	9.63	197.79
 GO:0071539	protein localization to centrosome	1	0.93	0.86	9.54	37.38
+GO:0006713	glucocorticoid catabolic process	1	1.00	0.82	9.63	219.24

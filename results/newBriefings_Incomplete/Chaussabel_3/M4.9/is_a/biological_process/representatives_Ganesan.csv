@@ -73,6 +73,7 @@ GO:0043484	regulation of RNA splicing	46	0.77	0.73	9.34	89.96
 GO:0043488	regulation of mRNA stability	45	0.74	0.77	9.24	282.23
 GO:0043484	regulation of RNA splicing	46	0.77	0.73	9.34	89.96
 GO:0043488	regulation of mRNA stability	45	0.74	0.77	9.24	282.23
+GO:0071363	cellular response to growth factor stimulus	88	0.77	0.67	8.94	60.39
 GO:0034599	cellular response to oxidative stress	85	0.72	0.61	8.94	68.67
 GO:0010951	negative regulation of endopeptidase activity	85	0.77	0.80	9.45	500.32
 GO:2001020	regulation of response to DNA damage stimulus	79	0.59	0.62	8.02	29.43
@@ -155,7 +156,6 @@ GO:0034605	cellular response to heat	21	0.84	0.71	9.26	50.43
 GO:0071466	cellular response to xenobiotic stimulus	21	0.74	0.62	8.58	40.79
 GO:0000045	autophagosome assembly	21	1.00	0.82	9.63	62.10
 GO:0001947	heart looping	20	1.00	0.85	9.63	47.98
-GO:0071560	cellular response to transforming growth factor beta stimulus	20	1.00	0.82	9.63	97.49
 GO:0002286	T cell activation involved in immune response	20	0.70	0.67	8.89	82.05
 GO:0006826	iron ion transport	20	0.70	0.72	8.76	19.76
 GO:0051402	neuron apoptotic process	20	0.83	0.70	9.02	23.44
@@ -168,7 +168,6 @@ GO:0016266	O-glycan processing	17	0.79	0.79	9.28	178.64
 GO:0006323	DNA packaging	17	0.74	0.69	8.74	22.34
 GO:0036258	multivesicular body assembly	17	1.00	0.85	9.63	62.72
 GO:0050999	regulation of nitric-oxide synthase activity	17	0.89	0.77	9.41	24.72
-GO:1990090	cellular response to nerve growth factor stimulus	16	0.93	0.79	9.55	97.49
 GO:0048675	axon extension	15	0.89	0.74	9.43	51.99
 GO:0048538	thymus development	15	1.00	0.79	9.63	35.89
 GO:0002548	monocyte chemotaxis	14	1.00	0.85	9.63	125.46
@@ -176,7 +175,6 @@ GO:0000245	spliceosomal complex assembly	14	0.93	0.82	9.53	66.60
 GO:0001756	somitogenesis	14	1.00	0.79	9.63	43.80
 GO:0035914	skeletal muscle cell differentiation	14	0.87	0.68	9.29	21.07
 GO:0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia	14	0.89	0.89	9.56	532.70
-GO:0071364	cellular response to epidermal growth factor stimulus	14	1.00	0.82	9.63	97.49
 GO:0048873	homeostasis of number of cells within a tissue	13	0.89	0.77	9.38	26.75
 GO:0060999	positive regulation of dendritic spine development	13	0.93	0.90	9.60	671.85
 GO:0016064	immunoglobulin mediated immune response	13	0.76	0.70	9.04	30.58

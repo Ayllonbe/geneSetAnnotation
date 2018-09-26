@@ -1,29 +1,11 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0043407	negative regulation of MAP kinase activity	8	0.81	0.85	9.54	2610.18
+GO:0050794	regulation of cellular process	726	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	353	0.21	0.30	3.07	7.96
+GO:0043407	negative regulation of MAP kinase activity	8	0.81	0.85	9.54	2610.18
+GO:0050794	regulation of cellular process	726	0.12	0.26	2.47	7.96
+GO:0048519	negative regulation of biological process	353	0.21	0.30	3.07	7.96
 GO:0016043	cellular component organization	315	0.28	0.26	3.74	11.45
-GO:1902531	regulation of intracellular signal transduction	180	0.45	0.55	6.77	41.85
-GO:0006464	cellular protein modification process	145	0.34	0.49	5.84	147.03
-GO:0016310	phosphorylation	87	0.53	0.56	6.88	24.41
-GO:0015031	protein transport	77	0.48	0.59	6.99	54.46
-GO:0060627	regulation of vesicle-mediated transport	52	0.48	0.53	6.81	26.12
-GO:0060627	regulation of vesicle-mediated transport	52	0.48	0.53	6.81	26.12
-GO:0050708	regulation of protein secretion	44	0.54	0.62	7.86	96.15
-GO:0001933	negative regulation of protein phosphorylation	34	0.61	0.70	8.76	664.69
-GO:0010975	regulation of neuron projection development	30	0.57	0.66	8.40	84.29
-GO:0006650	glycerophospholipid metabolic process	25	0.59	0.62	8.12	144.72
-GO:0015931	nucleobase-containing compound transport	24	0.54	0.56	7.23	29.45
-GO:0048193	Golgi vesicle transport	14	0.72	0.65	8.47	13.98
-GO:0033559	unsaturated fatty acid metabolic process	9	0.66	0.71	8.83	93.73
-GO:0030148	sphingolipid biosynthetic process	5	0.69	0.70	8.99	238.83
-GO:0050482	arachidonic acid secretion	4	1.00	0.95	9.63	224.86
-GO:0032482	Rab protein signal transduction	3	1.00	0.88	9.63	29.61
-GO:0034315	regulation of Arp2/3 complex-mediated actin nucleation	2	0.89	0.89	9.55	156.02
-GO:2000785	regulation of autophagosome assembly	2	0.89	0.82	9.50	101.63
-GO:1903830	magnesium ion transmembrane transport	2	0.89	0.84	9.56	114.73
-GO:0036344	platelet morphogenesis	2	1.00	0.82	9.63	47.45
-GO:0010360	negative regulation of anion channel activity	2	0.87	0.83	9.52	632.06
-GO:0034067	protein localization to Golgi apparatus	2	0.93	0.79	9.51	32.77
 GO:0050428	3'-phosphoadenosine 5'-phosphosulfate biosynthetic process	1	1.00	0.93	9.63	6987.80
-GO:0043004	cytoplasmic sequestering of CFTR protein	1	1.00	0.93	9.63	608.54
-GO:0008089	anterograde axonal transport	1	0.83	0.81	9.41	71.10
-GO:2000009	negative regulation of protein localization to cell surface	1	1.00	0.85	9.63	73.79
-GO:0006047	UDP-N-acetylglucosamine metabolic process	1	0.87	0.78	9.52	163.58
+GO:0044237	cellular metabolic process	436	0.16	0.21	2.71	13.80
+GO:0051179	localization	391	0.26	0.13	2.57	3.37

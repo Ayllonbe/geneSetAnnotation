@@ -22,20 +22,19 @@ GO:0065003	protein-containing complex assembly	157	0.45	0.48	6.06	36.47
 GO:0043312	neutrophil degranulation	136	1.00	0.90	9.63	132.80
 GO:0001934	positive regulation of protein phosphorylation	136	0.58	0.69	8.60	663.11
 GO:1901701	cellular response to oxygen-containing compound	135	0.47	0.48	6.19	42.34
+GO:0045893	positive regulation of transcription, DNA-templated	135	0.52	0.67	8.14	1208.12
 GO:0009968	negative regulation of signal transduction	131	0.44	0.54	6.68	140.65
 GO:0051241	negative regulation of multicellular organismal process	131	0.35	0.42	4.99	23.69
-GO:0060548	negative regulation of cell death	120	0.54	0.56	7.27	41.94
+GO:0043066	negative regulation of apoptotic process	115	0.56	0.63	7.79	81.07
 GO:0045597	positive regulation of cell differentiation	106	0.45	0.51	6.57	82.53
 GO:0045087	innate immune response	102	0.68	0.59	8.16	26.47
 GO:0030335	positive regulation of cell migration	93	0.58	0.64	8.22	157.26
 GO:0045785	positive regulation of cell adhesion	92	0.58	0.54	7.23	21.97
 GO:0032496	response to lipopolysaccharide	84	0.89	0.74	9.45	64.41
-GO:0045892	negative regulation of transcription, DNA-templated	78	0.56	0.69	8.52	1581.26
-GO:0043065	positive regulation of apoptotic process	77	0.56	0.63	7.81	80.91
+GO:0045596	negative regulation of cell differentiation	73	0.44	0.51	6.50	82.79
 GO:0006508	proteolysis	70	0.55	0.57	7.34	47.86
 GO:0050727	regulation of inflammatory response	68	0.53	0.59	7.40	31.59
 GO:0001933	negative regulation of protein phosphorylation	51	0.61	0.70	8.76	664.69
-GO:0045664	regulation of neuron differentiation	47	0.51	0.60	7.72	62.26
 GO:0001558	regulation of cell growth	45	0.58	0.58	7.66	26.25
 GO:0030336	negative regulation of cell migration	35	0.58	0.64	8.21	158.04
 GO:0045861	negative regulation of proteolysis	34	0.61	0.68	8.71	337.18
@@ -49,7 +48,6 @@ GO:0071478	cellular response to radiation	20	0.67	0.63	8.53	36.92
 GO:0048562	embryonic organ morphogenesis	19	0.76	0.63	8.67	29.31
 GO:0000904	cell morphogenesis involved in differentiation	19	0.65	0.62	8.19	44.36
 GO:0030198	extracellular matrix organization	18	0.68	0.59	8.24	16.90
-GO:0090288	negative regulation of cellular response to growth factor stimulus	16	0.69	0.64	8.57	81.77
 GO:0045471	response to ethanol	12	0.93	0.76	9.52	69.73
 GO:0032092	positive regulation of protein binding	12	0.71	0.64	8.53	32.71
 GO:0006958	complement activation, classical pathway	12	1.00	0.88	9.63	171.03
@@ -67,10 +65,8 @@ GO:0001569	branching involved in blood vessel morphogenesis	5	1.00	0.85	9.63	53.
 GO:0016239	positive regulation of macroautophagy	3	0.77	0.76	9.24	266.07
 GO:0060452	positive regulation of cardiac muscle contraction	2	0.81	0.80	9.47	171.40
 GO:1901203	positive regulation of extracellular matrix assembly	2	1.00	0.85	9.63	123.61
-GO:1903984	positive regulation of TRAIL-activated apoptotic signaling pathway	2	1.00	0.93	9.63	491.42
 GO:0048050	post-embryonic eye morphogenesis	2	0.93	0.79	9.51	48.05
 GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	2	1.00	0.82	9.63	83.93
-GO:0030514	negative regulation of BMP signaling pathway	2	0.83	0.86	9.49	599.33
 GO:0060739	mesenchymal-epithelial cell signaling involved in prostate gland development	1	0.93	0.76	9.49	28.89
 GO:0061304	retinal blood vessel morphogenesis	1	1.00	0.79	9.63	25.97
 GO:0014012	peripheral nervous system axon regeneration	1	1.00	0.88	9.63	97.89
@@ -82,7 +78,6 @@ GO:1904027	negative regulation of collagen fibril organization	1	1.00	0.85	9.63	
 GO:0060447	bud outgrowth involved in lung branching	1	1.00	0.82	9.63	21.22
 GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	1	1.00	0.92	9.63	455.71
 GO:0071305	cellular response to vitamin D	1	1.00	0.88	9.63	396.20
-GO:0070318	positive regulation of G0 to G1 transition	1	1.00	0.85	9.63	82.72
 GO:0034059	response to anoxia	1	0.89	0.74	9.34	21.16
 GO:0042662	negative regulation of mesodermal cell fate specification	1	0.84	0.84	9.50	745.93
 GO:0001542	ovulation from ovarian follicle	1	1.00	0.75	9.63	27.16

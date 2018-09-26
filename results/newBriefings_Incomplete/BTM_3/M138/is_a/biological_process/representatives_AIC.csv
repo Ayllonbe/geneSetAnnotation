@@ -1,14 +1,14 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0048522	positive regulation of cellular process	884	0.24	0.37	3.90	23.85
 GO:0009966	regulation of signal transduction	570	0.33	0.45	5.35	37.59
-GO:0045948	positive regulation of translational initiation	5	0.76	0.78	9.39	1253.37
 GO:0019219	regulation of nucleobase-containing compound metabolic process	529	0.33	0.45	5.50	54.14
-GO:0045948	positive regulation of translational initiation	5	0.76	0.78	9.39	1253.37
-GO:0019219	regulation of nucleobase-containing compound metabolic process	529	0.33	0.45	5.50	54.14
+GO:2000112	regulation of cellular macromolecule biosynthetic process	505	0.36	0.50	5.87	74.82
 GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	113	0.58	0.64	7.56	28.11
 GO:0035556	intracellular signal transduction	306	0.51	0.55	6.92	23.17
 GO:0090304	nucleic acid metabolic process	360	0.35	0.46	5.97	111.15
 GO:0016192	vesicle-mediated transport	342	0.52	0.51	6.57	10.99
+GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
+GO:1901700	response to oxygen-containing compound	322	0.39	0.39	5.14	9.28
 GO:0010033	response to organic substance	438	0.35	0.37	4.75	9.28
 GO:1901700	response to oxygen-containing compound	322	0.39	0.39	5.14	9.28
 GO:0071310	cellular response to organic substance	310	0.44	0.47	5.95	41.66
@@ -16,6 +16,7 @@ GO:0006468	protein phosphorylation	159	0.57	0.64	8.18	177.76
 GO:0070647	protein modification by small protein conjugation or removal	82	0.61	0.66	8.44	151.15
 GO:0043312	neutrophil degranulation	182	1.00	0.90	9.63	132.80
 GO:0030335	positive regulation of cell migration	144	0.58	0.64	8.22	157.26
+GO:0032496	response to lipopolysaccharide	116	0.89	0.74	9.45	64.41
 GO:0071417	cellular response to organonitrogen compound	98	0.53	0.56	7.37	128.53
 GO:0006886	intracellular protein transport	75	0.55	0.65	8.12	90.55
 GO:0006511	ubiquitin-dependent protein catabolic process	46	0.74	0.74	9.19	156.45

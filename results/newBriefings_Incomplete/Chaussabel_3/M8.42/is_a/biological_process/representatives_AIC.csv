@@ -1,7 +1,7 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0019538	protein metabolic process	920	0.31	0.41	4.91	44.77
 GO:0006810	transport	906	0.28	0.34	3.95	7.46
 GO:0007165	signal transduction	902	0.36	0.43	5.06	19.43
+GO:0006464	cellular protein modification process	732	0.34	0.49	5.84	147.03
 GO:0051246	regulation of protein metabolic process	659	0.34	0.46	5.46	41.09
 GO:1902531	regulation of intracellular signal transduction	423	0.45	0.55	6.77	41.85
 GO:0033554	cellular response to stress	400	0.44	0.42	6.05	25.47
@@ -27,11 +27,13 @@ GO:0060271	cilium assembly	37	0.87	0.76	9.41	137.68
 GO:0070588	calcium ion transmembrane transport	35	0.71	0.75	9.08	116.68
 GO:0008203	cholesterol metabolic process	35	0.80	0.72	9.22	82.65
 GO:0034644	cellular response to UV	31	0.80	0.75	9.22	66.19
+GO:0006606	protein import into nucleus	27	0.89	0.84	9.55	277.54
 GO:0032729	positive regulation of interferon-gamma production	24	0.89	0.77	9.43	65.24
 GO:0002244	hematopoietic progenitor cell differentiation	20	0.81	0.66	8.94	21.07
 GO:0051496	positive regulation of stress fiber assembly	14	1.00	0.93	9.63	365.07
 GO:0045540	regulation of cholesterol biosynthetic process	14	0.89	0.84	9.49	116.99
 GO:0000070	mitotic sister chromatid segregation	12	1.00	0.82	9.63	56.84
+GO:0031293	membrane protein intracellular domain proteolysis	8	0.93	0.82	9.53	50.75
 GO:0045648	positive regulation of erythrocyte differentiation	7	0.93	0.84	9.58	358.80
 GO:0055089	fatty acid homeostasis	4	1.00	0.85	9.63	32.35
 GO:0046855	inositol phosphate dephosphorylation	4	0.93	0.84	9.59	336.66

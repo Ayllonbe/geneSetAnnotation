@@ -7,7 +7,9 @@ GO:0016070	RNA metabolic process	575	0.39	0.52	6.45	112.25
 GO:0006464	cellular protein modification process	547	0.34	0.49	5.84	147.03
 GO:0031325	positive regulation of cellular metabolic process	543	0.33	0.46	5.39	79.98
 GO:0009966	regulation of signal transduction	495	0.33	0.45	5.35	37.59
+GO:0051128	regulation of cellular component organization	448	0.30	0.40	4.57	12.04
 GO:0022607	cellular component assembly	410	0.39	0.39	5.06	14.95
+GO:0006996	organelle organization	384	0.39	0.39	5.17	14.95
 GO:0046907	intracellular transport	330	0.46	0.48	6.38	29.65
 GO:0045935	positive regulation of nucleobase-containing compound metabolic process	315	0.44	0.55	6.91	183.64
 GO:0045935	positive regulation of nucleobase-containing compound metabolic process	315	0.44	0.55	6.91	183.64
@@ -31,9 +33,6 @@ GO:0045596	negative regulation of cell differentiation	94	0.44	0.51	6.50	82.79
 GO:0006897	endocytosis	83	0.63	0.61	8.09	26.36
 GO:0032989	cellular component morphogenesis	75	0.56	0.48	7.27	42.57
 GO:0098662	inorganic cation transmembrane transport	74	0.58	0.64	7.91	76.35
-GO:0001558	regulation of cell growth	70	0.58	0.58	7.66	26.25
-GO:0055065	metal ion homeostasis	80	0.57	0.64	7.90	34.21
-GO:0072507	divalent inorganic cation homeostasis	60	0.61	0.66	8.18	34.21
 GO:0006650	glycerophospholipid metabolic process	55	0.59	0.62	8.12	144.72
 GO:0032870	cellular response to hormone stimulus	53	0.60	0.59	7.93	80.94
 GO:0032984	protein-containing complex disassembly	47	0.61	0.55	7.66	35.41
@@ -41,6 +40,7 @@ GO:2001235	positive regulation of apoptotic signaling pathway	46	0.70	0.72	9.18	
 GO:0050804	modulation of chemical synaptic transmission	45	0.52	0.58	7.24	27.32
 GO:0016042	lipid catabolic process	44	0.51	0.51	6.88	43.15
 GO:0071219	cellular response to molecule of bacterial origin	40	0.80	0.69	9.25	59.35
+GO:0007204	positive regulation of cytosolic calcium ion concentration	39	0.68	0.77	9.10	290.30
 GO:0048729	tissue morphogenesis	34	0.49	0.44	5.81	10.94
 GO:0042742	defense response to bacterium	33	0.79	0.72	9.19	69.65
 GO:0006412	translation	30	0.87	0.78	9.51	402.56
@@ -60,8 +60,6 @@ GO:0045921	positive regulation of exocytosis	20	0.69	0.72	8.87	171.96
 GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	20	1.00	0.92	9.63	384.64
 GO:0032729	positive regulation of interferon-gamma production	19	0.89	0.77	9.43	65.24
 GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
-GO:0007032	endosome organization	18	0.84	0.71	9.22	20.92
-GO:0031122	cytoplasmic microtubule organization	16	0.81	0.73	9.26	50.45
 GO:0097746	regulation of blood vessel diameter	16	0.64	0.64	8.47	38.29
 GO:0048568	embryonic organ development	15	0.75	0.63	8.38	15.26
 GO:0048562	embryonic organ morphogenesis	15	0.76	0.63	8.67	29.31
@@ -91,7 +89,6 @@ GO:0045780	positive regulation of bone resorption	5	1.00	0.85	9.63	82.90
 GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	5	1.00	0.82	9.63	33.25
 GO:0046326	positive regulation of glucose import	4	0.93	0.84	9.55	84.68
 GO:0042481	regulation of odontogenesis	4	0.75	0.70	9.31	46.39
-GO:2000810	regulation of bicellular tight junction assembly	4	0.89	0.77	9.38	28.93
 GO:0033590	response to cobalamin	3	0.93	0.82	9.55	87.04
 GO:0071316	cellular response to nicotine	3	1.00	0.79	9.63	116.91
 GO:1901339	regulation of store-operated calcium channel activity	3	0.87	0.85	9.52	230.25
@@ -100,6 +97,7 @@ GO:0050910	detection of mechanical stimulus involved in sensory perception of so
 GO:2000304	positive regulation of ceramide biosynthetic process	2	0.93	0.86	9.60	909.79
 GO:0033077	T cell differentiation in thymus	2	0.87	0.78	9.42	66.99
 GO:0007130	synaptonemal complex assembly	2	1.00	0.82	9.63	88.08
+GO:0010960	magnesium ion homeostasis	1	0.93	0.84	9.53	72.15
 GO:0030579	ubiquitin-dependent SMAD protein catabolic process	1	1.00	0.90	9.63	157.55
 GO:0045218	zonula adherens maintenance	1	1.00	0.85	9.63	105.01
 GO:0010807	regulation of synaptic vesicle priming	1	0.89	0.88	9.56	294.22

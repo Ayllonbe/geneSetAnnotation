@@ -1,23 +1,19 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0007165	signal transduction	821	0.36	0.43	5.06	19.43
-GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
-GO:0007165	signal transduction	821	0.36	0.43	5.06	19.43
-GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
 GO:0048522	positive regulation of cellular process	862	0.24	0.37	3.90	23.85
+GO:0007165	signal transduction	821	0.36	0.43	5.06	19.43
 GO:0048523	negative regulation of cellular process	697	0.24	0.37	3.90	23.93
 GO:0048869	cellular developmental process	434	0.32	0.29	4.16	13.85
 GO:0006355	regulation of transcription, DNA-templated	432	0.40	0.60	6.84	245.35
 GO:0010033	response to organic substance	428	0.35	0.37	4.75	9.28
-GO:0010477	response to sulfur dioxide	1	0.93	0.72	9.45	26.65
 GO:0051128	regulation of cellular component organization	392	0.30	0.40	4.57	12.04
+GO:0031324	negative regulation of cellular metabolic process	359	0.34	0.46	5.46	80.35
+GO:0050776	regulation of immune response	333	0.38	0.44	5.64	22.45
 GO:0022607	cellular component assembly	327	0.39	0.39	5.06	14.95
 GO:0071310	cellular response to organic substance	304	0.44	0.47	5.95	41.66
 GO:0045321	leukocyte activation	302	0.52	0.46	6.78	16.27
-GO:0006796	phosphate-containing compound metabolic process	288	0.36	0.43	5.28	20.85
 GO:0001932	regulation of protein phosphorylation	283	0.50	0.62	7.64	109.03
 GO:0043085	positive regulation of catalytic activity	282	0.48	0.49	6.15	18.32
 GO:0050778	positive regulation of immune response	242	0.46	0.52	6.76	78.39
-GO:0048856	anatomical structure development	227	0.33	0.29	3.70	6.46
 GO:0045055	regulated exocytosis	224	0.69	0.69	8.57	38.47
 GO:0033554	cellular response to stress	221	0.44	0.42	6.05	25.47
 GO:0010629	negative regulation of gene expression	211	0.47	0.56	6.74	59.05
@@ -27,17 +23,23 @@ GO:0030335	positive regulation of cell migration	142	0.58	0.64	8.22	157.26
 GO:0002696	positive regulation of leukocyte activation	138	0.57	0.61	7.92	96.44
 GO:0045787	positive regulation of cell cycle	80	0.53	0.55	7.23	42.18
 GO:0071407	cellular response to organic cyclic compound	77	0.53	0.56	7.03	63.03
+GO:0010033	response to organic substance	428	0.35	0.37	4.75	9.28
+GO:0042493	response to drug	135	0.47	0.43	5.84	9.28
+GO:0009636	response to toxic substance	76	0.58	0.49	6.94	9.28
 GO:0030036	actin cytoskeleton organization	60	0.63	0.61	8.05	29.61
 GO:0051607	defense response to virus	56	0.87	0.76	9.49	78.89
 GO:0045766	positive regulation of angiogenesis	49	0.81	0.76	9.30	134.49
 GO:0031668	cellular response to extracellular stimulus	41	0.55	0.52	7.38	45.16
+GO:0046488	phosphatidylinositol metabolic process	39	0.68	0.69	8.80	147.20
 GO:0051495	positive regulation of cytoskeleton organization	36	0.62	0.66	8.29	90.96
 GO:2000379	positive regulation of reactive oxygen species metabolic process	32	0.78	0.71	9.25	112.72
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	26	1.00	0.79	9.63	42.20
 GO:0046718	viral entry into host cell	24	0.77	0.73	8.94	28.37
 GO:0031623	receptor internalization	23	0.72	0.71	9.20	64.85
+GO:0035335	peptidyl-tyrosine dephosphorylation	15	0.89	0.82	9.53	179.25
 GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
 GO:0051926	negative regulation of calcium ion transport	13	0.71	0.73	8.89	69.46
+GO:0001541	ovarian follicle development	10	1.00	0.75	9.63	34.61
 GO:0071333	cellular response to glucose stimulus	9	1.00	0.88	9.63	272.30
 GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
 GO:0045907	positive regulation of vasoconstriction	8	0.89	0.82	9.58	103.52
@@ -49,10 +51,10 @@ GO:1901741	positive regulation of myoblast fusion	5	1.00	0.90	9.63	353.20
 GO:0010572	positive regulation of platelet activation	4	0.89	0.84	9.59	334.52
 GO:0043315	positive regulation of neutrophil degranulation	4	1.00	0.93	9.63	798.77
 GO:0006904	vesicle docking involved in exocytosis	3	0.89	0.77	9.43	32.65
-GO:0045963	negative regulation of dopamine metabolic process	3	0.93	0.84	9.57	288.50
+GO:0048539	bone marrow development	2	1.00	0.79	9.63	32.52
 GO:0002378	immunoglobulin biosynthetic process	1	0.93	0.76	9.49	39.16
-GO:0010920	negative regulation of inositol phosphate biosynthetic process	1	0.93	0.84	9.59	802.80
 GO:0010925	positive regulation of inositol-polyphosphate 5-phosphatase activity	1	1.00	0.92	9.63	315.02
+GO:0010477	response to sulfur dioxide	1	0.93	0.72	9.45	26.65
 GO:0071672	negative regulation of smooth muscle cell chemotaxis	1	1.00	0.90	9.63	373.37
 GO:0060305	regulation of cell diameter	1	1.00	0.82	9.63	29.63
 GO:0045660	positive regulation of neutrophil differentiation	1	1.00	0.92	9.63	984.37

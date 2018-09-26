@@ -1,7 +1,6 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	1446	0.12	0.26	2.47	7.96
 GO:0048518	positive regulation of biological process	1010	0.21	0.30	3.05	7.96
-GO:0048522	positive regulation of cellular process	890	0.24	0.37	3.90	23.85
 GO:0048523	negative regulation of cellular process	723	0.24	0.37	3.90	23.93
 GO:0010646	regulation of cell communication	614	0.30	0.40	4.51	12.04
 GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
@@ -12,6 +11,7 @@ GO:0035556	intracellular signal transduction	311	0.51	0.55	6.92	23.17
 GO:0042981	regulation of apoptotic process	301	0.45	0.55	6.60	16.23
 GO:0006952	defense response	236	0.56	0.48	6.67	9.54
 GO:0031401	positive regulation of protein modification process	234	0.51	0.63	7.86	366.05
+GO:1902533	positive regulation of intracellular signal transduction	231	0.55	0.63	7.95	189.48
 GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
 GO:0051248	negative regulation of protein metabolic process	193	0.45	0.55	6.75	129.53
 GO:0043312	neutrophil degranulation	183	1.00	0.90	9.63	132.80
@@ -46,7 +46,6 @@ GO:0035987	endodermal cell differentiation	17	1.00	0.75	9.63	21.07
 GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07
 GO:0097028	dendritic cell differentiation	13	0.81	0.70	9.12	22.45
 GO:0031532	actin cytoskeleton reorganization	12	1.00	0.82	9.63	32.01
-GO:0050850	positive regulation of calcium-mediated signaling	11	0.78	0.76	9.28	239.92
 GO:0034446	substrate adhesion-dependent cell spreading	10	1.00	0.82	9.63	56.23
 GO:0002456	T cell mediated immunity	9	0.76	0.67	9.12	29.49
 GO:0043113	receptor clustering	9	0.77	0.71	8.99	42.89
@@ -68,4 +67,5 @@ GO:0048739	cardiac muscle fiber development	2	1.00	0.85	9.63	104.20
 GO:0090074	negative regulation of protein homodimerization activity	2	1.00	0.82	9.63	47.53
 GO:0048305	immunoglobulin secretion	2	0.93	0.86	9.57	133.33
 GO:0050904	diapedesis	2	0.89	0.77	9.51	29.14
+GO:0045919	positive regulation of cytolysis	1	0.84	0.71	9.38	41.09
 GO:0086072	AV node cell-bundle of His cell adhesion involved in cell communication	1	1.00	0.82	9.63	24.26

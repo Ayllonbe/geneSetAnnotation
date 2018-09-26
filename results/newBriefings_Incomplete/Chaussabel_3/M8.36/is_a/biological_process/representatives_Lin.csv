@@ -1,9 +1,9 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:1901564	organonitrogen compound metabolic process	1331	0.23	0.31	3.63	19.40
-GO:0051641	cellular localization	610	0.37	0.31	4.44	5.67
-GO:0051234	establishment of localization	1071	0.28	0.26	3.49	5.67
 GO:0006464	cellular protein modification process	819	0.34	0.49	5.84	147.03
 GO:0032774	RNA biosynthetic process	639	0.53	0.62	8.04	473.34
+GO:0051234	establishment of localization	1071	0.28	0.26	3.49	5.67
+GO:0051641	cellular localization	610	0.37	0.31	4.44	5.67
 GO:0045595	regulation of cell differentiation	398	0.34	0.42	5.25	23.33
 GO:0045893	positive regulation of transcription, DNA-templated	386	0.52	0.67	8.14	1208.12
 GO:0032940	secretion by cell	280	0.48	0.53	6.33	20.46

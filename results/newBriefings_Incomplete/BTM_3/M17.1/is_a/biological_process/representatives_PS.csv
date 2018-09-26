@@ -1,5 +1,4 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0009987	cellular process	875	0.09	0.05	0.84	3.37
 GO:0050794	regulation of cellular process	705	0.12	0.26	2.47	7.96
 GO:0030512	negative regulation of transforming growth factor beta receptor signaling pathway	6	0.89	0.82	9.54	374.75
 GO:2000026	regulation of multicellular organismal development	173	0.29	0.39	4.73	23.09
@@ -7,6 +6,7 @@ GO:0044237	cellular metabolic process	400	0.16	0.21	2.71	13.80
 GO:0070327	thyroid hormone transport	1	1.00	0.79	9.63	23.79
 GO:0044237	cellular metabolic process	400	0.16	0.21	2.71	13.80
 GO:0070327	thyroid hormone transport	1	1.00	0.79	9.63	23.79
+GO:0070887	cellular response to chemical stimulus	177	0.40	0.40	5.31	25.21
 GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
 GO:0030154	cell differentiation	144	0.39	0.39	5.18	16.68
 GO:0043312	neutrophil degranulation	115	1.00	0.90	9.63	132.80
@@ -14,6 +14,7 @@ GO:0032502	developmental process	253	0.22	0.11	1.89	3.37
 GO:0032501	multicellular organismal process	101	0.33	0.16	3.12	3.37
 GO:0048704	embryonic skeletal system morphogenesis	13	0.87	0.72	9.38	45.49
 GO:0008584	male gonad development	10	1.00	0.79	9.63	50.96
+GO:0048008	platelet-derived growth factor receptor signaling pathway	4	0.78	0.76	9.19	31.00
 GO:0048538	thymus development	3	1.00	0.79	9.63	35.89
 GO:0060065	uterus development	3	1.00	0.75	9.63	49.87
 GO:0035115	embryonic forelimb morphogenesis	2	1.00	0.82	9.63	58.81

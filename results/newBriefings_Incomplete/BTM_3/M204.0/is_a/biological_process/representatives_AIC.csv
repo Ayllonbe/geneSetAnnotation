@@ -1,8 +1,8 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:2000112	regulation of cellular macromolecule biosynthetic process	220	0.36	0.50	5.87	74.82
 GO:0048869	cellular developmental process	204	0.32	0.29	4.16	13.85
 GO:0019538	protein metabolic process	189	0.31	0.41	4.91	44.77
 GO:0006139	nucleobase-containing compound metabolic process	185	0.29	0.40	5.40	96.28
-GO:0006357	regulation of transcription by RNA polymerase II	131	0.44	0.63	7.11	248.57
 GO:0043312	neutrophil degranulation	114	1.00	0.90	9.63	132.80
 GO:0065003	protein-containing complex assembly	99	0.45	0.48	6.06	36.47
 GO:0043066	negative regulation of apoptotic process	85	0.56	0.63	7.79	81.07
@@ -13,7 +13,6 @@ GO:0019752	carboxylic acid metabolic process	43	0.32	0.45	5.31	42.50
 GO:0009615	response to virus	38	0.74	0.66	8.80	27.27
 GO:1903829	positive regulation of cellular protein localization	28	0.60	0.62	7.80	40.87
 GO:0042100	B cell proliferation	15	0.87	0.76	9.39	50.60
-GO:2000573	positive regulation of DNA biosynthetic process	13	0.80	0.77	9.43	748.29
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	11	0.93	0.93	9.60	734.49
 GO:0002755	MyD88-dependent toll-like receptor signaling pathway	11	0.89	0.89	9.55	412.65
 GO:1901293	nucleoside phosphate biosynthetic process	11	0.51	0.60	8.21	550.34

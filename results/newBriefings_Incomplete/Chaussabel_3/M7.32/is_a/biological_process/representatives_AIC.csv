@@ -1,12 +1,9 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	3963	0.12	0.26	2.47	7.96
 GO:0048522	positive regulation of cellular process	2083	0.24	0.37	3.90	23.85
-GO:0016043	cellular component organization	1879	0.28	0.26	3.74	11.45
 GO:0019538	protein metabolic process	1711	0.31	0.41	4.91	44.77
 GO:2000112	regulation of cellular macromolecule biosynthetic process	1705	0.36	0.50	5.87	74.82
 GO:0009966	regulation of signal transduction	1226	0.33	0.45	5.35	37.59
-GO:0071705	nitrogen compound transport	815	0.36	0.43	4.99	10.99
-GO:0071702	organic substance transport	911	0.33	0.41	4.62	10.99
 GO:0048869	cellular developmental process	852	0.32	0.29	4.16	13.85
 GO:0010628	positive regulation of gene expression	799	0.47	0.56	6.67	58.80
 GO:0016192	vesicle-mediated transport	754	0.52	0.51	6.57	10.99
@@ -23,18 +20,24 @@ GO:0019530	taurine metabolic process	5	0.87	0.72	9.41	107.70
 GO:0033157	regulation of intracellular protein transport	117	0.60	0.65	8.42	91.14
 GO:0031669	cellular response to nutrient levels	103	0.55	0.57	7.65	58.45
 GO:0022900	electron transport chain	83	0.71	0.61	8.48	29.76
+GO:0016241	regulation of macroautophagy	82	0.67	0.69	8.61	45.30
 GO:0072659	protein localization to plasma membrane	76	0.79	0.72	9.26	65.43
 GO:0070588	calcium ion transmembrane transport	54	0.71	0.75	9.08	116.68
 GO:0010977	negative regulation of neuron projection development	51	0.68	0.73	9.14	494.13
 GO:0046718	viral entry into host cell	42	0.77	0.73	8.94	28.37
+GO:0046902	regulation of mitochondrial membrane permeability	34	0.74	0.69	9.25	50.92
 GO:0071333	cellular response to glucose stimulus	22	1.00	0.88	9.63	272.30
 GO:0001782	B cell homeostasis	16	0.93	0.82	9.51	22.00
 GO:0030889	negative regulation of B cell proliferation	14	1.00	0.90	9.63	506.34
 GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	10	0.89	0.86	9.56	427.81
 GO:0007628	adult walking behavior	8	1.00	0.75	9.63	34.94
 GO:0032825	positive regulation of natural killer cell differentiation	6	0.93	0.86	9.60	802.22
+GO:0015868	purine ribonucleotide transport	6	0.72	0.73	9.03	69.25
 GO:2000510	positive regulation of dendritic cell chemotaxis	6	0.93	0.88	9.59	509.14
+GO:0019064	fusion of virus membrane with host plasma membrane	5	0.93	0.82	9.54	56.73
 GO:0019896	axonal transport of mitochondrion	4	0.89	0.84	9.55	228.17
+GO:0085029	extracellular matrix assembly	4	0.80	0.69	9.18	38.16
+GO:0015853	adenine transport	3	0.93	0.82	9.51	31.75
 GO:0003104	positive regulation of glomerular filtration	2	1.00	0.85	9.63	60.72
 GO:0035754	B cell chemotaxis	2	0.93	0.84	9.56	95.76
 GO:0010934	macrophage cytokine production	2	1.00	0.79	9.63	22.64

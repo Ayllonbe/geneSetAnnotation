@@ -7,11 +7,10 @@ GO:0090304	nucleic acid metabolic process	241	0.35	0.46	5.97	111.15
 GO:0006206	pyrimidine nucleobase metabolic process	4	0.73	0.72	9.24	227.01
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	11	1.00	0.88	9.63	115.14
 GO:0009968	negative regulation of signal transduction	159	0.44	0.54	6.68	140.65
+GO:0033554	cellular response to stress	153	0.44	0.42	6.05	25.47
 GO:0043066	negative regulation of apoptotic process	142	0.56	0.63	7.79	81.07
-GO:2000113	negative regulation of cellular macromolecule biosynthetic process	126	0.50	0.60	7.60	369.32
 GO:0051272	positive regulation of cellular component movement	115	0.55	0.56	7.38	52.23
 GO:0009725	response to hormone	114	0.53	0.51	7.03	21.86
-GO:0006974	cellular response to DNA damage stimulus	86	0.57	0.53	7.47	29.00
 GO:0051259	protein complex oligomerization	56	0.78	0.68	9.09	40.42
 GO:0006886	intracellular protein transport	53	0.55	0.65	8.12	90.55
 GO:0009615	response to virus	52	0.74	0.66	8.80	27.27
@@ -31,7 +30,6 @@ GO:0060429	epithelium development	15	0.55	0.53	6.89	15.06
 GO:0001701	in utero embryonic development	15	1.00	0.85	9.63	22.50
 GO:0007409	axonogenesis	14	0.69	0.72	8.67	64.61
 GO:0071479	cellular response to ionizing radiation	12	0.89	0.77	9.45	48.66
-GO:0071456	cellular response to hypoxia	12	1.00	0.82	9.63	103.25
 GO:0006637	acyl-CoA metabolic process	12	0.59	0.59	7.98	77.21
 GO:0046632	alpha-beta T cell differentiation	9	0.71	0.71	9.05	90.59
 GO:0035264	multicellular organism growth	8	1.00	0.70	9.63	22.58
@@ -41,6 +39,7 @@ GO:0046641	positive regulation of alpha-beta T cell proliferation	7	0.87	0.85	9.
 GO:2000649	regulation of sodium ion transmembrane transporter activity	7	0.71	0.75	9.11	122.59
 GO:0032781	positive regulation of ATPase activity	6	0.75	0.70	8.78	51.42
 GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	5	1.00	0.92	9.63	990.06
+GO:0048478	replication fork protection	4	1.00	0.92	9.63	1135.31
 GO:0046599	regulation of centriole replication	4	0.83	0.83	9.50	89.11
 GO:0001947	heart looping	4	1.00	0.85	9.63	47.98
 GO:0000578	embryonic axis specification	4	0.79	0.64	8.75	24.59

@@ -2,6 +2,7 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	1052	0.12	0.26	2.47	7.96
 GO:0050794	regulation of cellular process	1052	0.12	0.26	2.47	7.96
 GO:0043170	macromolecule metabolic process	854	0.25	0.32	3.46	10.22
+GO:0051049	regulation of transport	201	0.31	0.40	4.67	10.45
 GO:0048518	positive regulation of biological process	616	0.21	0.30	3.05	7.96
 GO:0051179	localization	531	0.26	0.13	2.57	3.37
 GO:0016043	cellular component organization	523	0.28	0.26	3.74	11.45
@@ -13,7 +14,6 @@ GO:0050776	regulation of immune response	133	0.38	0.44	5.64	22.45
 GO:0006464	cellular protein modification process	360	0.34	0.49	5.84	147.03
 GO:0042221	response to chemical	242	0.32	0.29	4.12	6.14
 GO:0019220	regulation of phosphate metabolic process	203	0.41	0.53	6.26	28.98
-GO:0051049	regulation of transport	201	0.31	0.40	4.67	10.45
 GO:0046903	secretion	122	0.46	0.48	5.79	10.99
 GO:0043207	response to external biotic stimulus	84	0.41	0.40	5.91	16.64
 GO:0009612	response to mechanical stimulus	14	0.70	0.55	8.02	17.55

@@ -1,11 +1,12 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0048522	positive regulation of cellular process	553	0.24	0.37	3.90	23.85
 GO:0007165	signal transduction	553	0.36	0.43	5.06	19.43
+GO:0048522	positive regulation of cellular process	553	0.24	0.37	3.90	23.85
 GO:0048523	negative regulation of cellular process	429	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	361	0.33	0.45	5.35	37.59
 GO:0031326	regulation of cellular biosynthetic process	338	0.29	0.44	4.86	40.35
-GO:0010033	response to organic substance	288	0.35	0.37	4.75	9.28
 GO:0016192	vesicle-mediated transport	235	0.52	0.51	6.57	10.99
+GO:2000026	regulation of multicellular organismal development	229	0.29	0.39	4.73	23.09
 GO:0030154	cell differentiation	191	0.39	0.39	5.18	16.68
 GO:0048468	cell development	58	0.51	0.45	6.51	28.42
 GO:0051240	positive regulation of multicellular organismal process	221	0.35	0.42	4.98	23.60
@@ -28,8 +29,6 @@ GO:0045785	positive regulation of cell adhesion	93	0.58	0.54	7.23	21.97
 GO:0043065	positive regulation of apoptotic process	79	0.56	0.63	7.81	80.91
 GO:0045596	negative regulation of cell differentiation	75	0.44	0.51	6.50	82.79
 GO:0051222	positive regulation of protein transport	51	0.60	0.65	8.02	87.55
-GO:0001558	regulation of cell growth	46	0.58	0.58	7.66	26.25
-GO:0010720	positive regulation of cell development	41	0.53	0.59	7.53	116.57
 GO:0030036	actin cytoskeleton organization	39	0.63	0.61	8.05	29.61
 GO:0030336	negative regulation of cell migration	36	0.58	0.64	8.21	158.04
 GO:0001666	response to hypoxia	33	0.81	0.70	9.12	21.16
@@ -45,12 +44,12 @@ GO:0120031	plasma membrane bounded cell projection assembly	16	0.69	0.64	8.45	55
 GO:0016525	negative regulation of angiogenesis	16	0.81	0.78	9.32	151.11
 GO:0042130	negative regulation of T cell proliferation	15	0.78	0.78	9.42	581.93
 GO:0030193	regulation of blood coagulation	15	0.67	0.69	8.94	65.68
+GO:0009749	response to glucose	12	0.89	0.80	9.41	32.96
 GO:0051492	regulation of stress fiber assembly	12	0.89	0.86	9.49	106.76
 GO:0030449	regulation of complement activation	11	0.69	0.72	9.30	245.77
 GO:0009792	embryo development ending in birth or egg hatching	11	0.87	0.72	9.34	21.80
 GO:1905953	negative regulation of lipid localization	10	0.62	0.60	7.78	23.73
 GO:0045124	regulation of bone resorption	10	0.89	0.77	9.38	23.48
-GO:0045652	regulation of megakaryocyte differentiation	9	0.89	0.80	9.46	68.96
 GO:0032695	negative regulation of interleukin-12 production	5	0.89	0.77	9.43	65.25
 GO:0030326	embryonic limb morphogenesis	5	0.89	0.74	9.38	43.31
 GO:0002578	negative regulation of antigen processing and presentation	5	0.69	0.64	8.48	38.83
@@ -62,6 +61,7 @@ GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	4	1.00	0.88	9.63	500.3
 GO:0048041	focal adhesion assembly	4	1.00	0.88	9.63	92.53
 GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	4	1.00	0.82	9.63	33.25
 GO:0042416	dopamine biosynthetic process	4	0.93	0.84	9.59	507.85
+GO:0006986	response to unfolded protein	3	0.87	0.72	9.34	23.96
 GO:0010936	negative regulation of macrophage cytokine production	3	1.00	0.88	9.63	311.05
 GO:0030823	regulation of cGMP metabolic process	3	0.76	0.78	9.39	212.56
 GO:0010693	negative regulation of alkaline phosphatase activity	2	1.00	0.92	9.63	315.72
@@ -70,7 +70,5 @@ GO:0048566	embryonic digestive tract development	2	0.93	0.76	9.49	33.61
 GO:0055118	negative regulation of cardiac muscle contraction	2	0.81	0.80	9.47	171.61
 GO:0051895	negative regulation of focal adhesion assembly	2	1.00	0.88	9.63	270.76
 GO:0003222	ventricular trabecula myocardium morphogenesis	2	0.89	0.80	9.43	28.31
-GO:1902256	regulation of apoptotic process involved in outflow tract morphogenesis	1	0.89	0.84	9.50	98.20
 GO:0045726	positive regulation of integrin biosynthetic process	1	0.93	0.82	9.57	213.12
-GO:0051795	positive regulation of timing of catagen	1	1.00	0.88	9.63	253.10
 GO:0046069	cGMP catabolic process	1	1.00	0.93	9.63	5918.16

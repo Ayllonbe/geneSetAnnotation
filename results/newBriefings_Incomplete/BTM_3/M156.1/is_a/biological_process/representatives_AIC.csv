@@ -2,15 +2,14 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	1553	0.12	0.26	2.47	7.96
 GO:0009966	regulation of signal transduction	603	0.33	0.45	5.35	37.59
 GO:0019538	protein metabolic process	545	0.31	0.41	4.91	44.77
-GO:0010033	response to organic substance	459	0.35	0.37	4.75	9.28
-GO:1901700	response to oxygen-containing compound	340	0.39	0.39	5.14	9.28
-GO:0006955	immune response	228	0.54	0.40	6.57	12.45
 GO:0043066	negative regulation of apoptotic process	219	0.56	0.63	7.79	81.07
 GO:0045944	positive regulation of transcription by RNA polymerase II	211	0.55	0.71	8.36	1463.86
 GO:0043312	neutrophil degranulation	186	1.00	0.90	9.63	132.80
+GO:0045087	innate immune response	173	0.68	0.59	8.16	26.47
 GO:0050900	leukocyte migration	161	0.60	0.59	8.02	26.94
 GO:0002768	immune response-regulating cell surface receptor signaling pathway	134	0.68	0.66	8.81	76.40
 GO:0051251	positive regulation of lymphocyte activation	131	0.58	0.64	8.19	127.58
+GO:0032496	response to lipopolysaccharide	119	0.89	0.74	9.45	64.41
 GO:0006897	endocytosis	113	0.63	0.61	8.09	26.36
 GO:0006366	transcription by RNA polymerase II	92	0.60	0.72	8.61	583.88
 GO:0042742	defense response to bacterium	80	0.79	0.72	9.19	69.65
@@ -18,9 +17,11 @@ GO:0007268	chemical synaptic transmission	35	0.74	0.72	8.66	23.17
 GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	34	0.87	0.88	9.56	734.49
 GO:0046330	positive regulation of JNK cascade	33	0.84	0.87	9.57	1762.04
 GO:0030449	regulation of complement activation	30	0.69	0.72	9.30	245.77
+GO:0045471	response to ethanol	30	0.93	0.76	9.52	69.73
 GO:0006958	complement activation, classical pathway	28	1.00	0.88	9.63	171.03
 GO:0034976	response to endoplasmic reticulum stress	22	0.68	0.59	8.28	29.00
 GO:0007565	female pregnancy	17	1.00	0.70	9.63	32.81
+GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
 GO:0050716	positive regulation of interleukin-1 secretion	12	0.89	0.86	9.57	755.70
 GO:0030433	ubiquitin-dependent ERAD pathway	5	0.93	0.88	9.60	603.05
 GO:0060267	positive regulation of respiratory burst	1	0.93	0.76	9.49	37.09

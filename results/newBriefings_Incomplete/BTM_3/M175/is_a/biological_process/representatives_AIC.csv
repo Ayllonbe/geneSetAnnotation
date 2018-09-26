@@ -1,95 +1,25 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0007186	G-protein coupled receptor signaling pathway	171	0.55	0.57	7.20	23.17
-GO:0007166	cell surface receptor signaling pathway	453	0.43	0.51	5.91	23.17
-GO:0009966	regulation of signal transduction	453	0.33	0.45	5.35	37.59
-GO:0006355	regulation of transcription, DNA-templated	329	0.40	0.60	6.84	245.35
-GO:2000026	regulation of multicellular organismal development	304	0.29	0.39	4.73	23.09
-GO:0009967	positive regulation of signal transduction	269	0.44	0.54	6.71	140.23
-GO:0071310	cellular response to organic substance	252	0.44	0.47	5.95	41.66
-GO:0045595	regulation of cell differentiation	247	0.34	0.42	5.25	23.33
-GO:0030154	cell differentiation	235	0.39	0.39	5.18	16.68
-GO:0048469	cell maturation	19	0.70	0.55	8.24	25.22
-GO:0010628	positive regulation of gene expression	224	0.47	0.56	6.67	58.80
-GO:0008284	positive regulation of cell proliferation	207	0.56	0.57	7.27	43.45
-GO:0001934	positive regulation of protein phosphorylation	174	0.58	0.69	8.60	663.11
-GO:0009968	negative regulation of signal transduction	173	0.44	0.54	6.68	140.65
-GO:0043066	negative regulation of apoptotic process	155	0.56	0.63	7.79	81.07
-GO:0006351	transcription, DNA-templated	148	0.57	0.68	8.45	581.39
-GO:0045597	positive regulation of cell differentiation	144	0.45	0.51	6.57	82.53
-GO:0010942	positive regulation of cell death	129	0.54	0.56	7.33	41.78
-GO:0008285	negative regulation of cell proliferation	127	0.56	0.57	7.31	43.61
-GO:0045892	negative regulation of transcription, DNA-templated	117	0.56	0.69	8.52	1581.26
-GO:0033674	positive regulation of kinase activity	115	0.61	0.70	8.62	265.90
-GO:0045596	negative regulation of cell differentiation	104	0.44	0.51	6.50	82.79
-GO:0034613	cellular protein localization	89	0.45	0.48	6.33	26.83
-GO:0045786	negative regulation of cell cycle	87	0.51	0.54	7.10	42.35
-GO:0048468	cell development	72	0.51	0.45	6.51	28.42
-GO:0043547	positive regulation of GTPase activity	67	0.93	0.79	9.52	49.34
-GO:0001933	negative regulation of protein phosphorylation	65	0.61	0.70	8.76	664.69
-GO:0001558	regulation of cell growth	58	0.58	0.58	7.66	26.25
-GO:0050769	positive regulation of neurogenesis	50	0.58	0.64	8.42	270.71
-GO:0001666	response to hypoxia	50	0.81	0.70	9.12	21.16
-GO:0030336	negative regulation of cell migration	47	0.58	0.64	8.21	158.04
-GO:0018108	peptidyl-tyrosine phosphorylation	46	0.81	0.80	9.41	338.33
-GO:0000902	cell morphogenesis	45	0.63	0.56	7.92	43.26
-GO:0045766	positive regulation of angiogenesis	41	0.81	0.76	9.30	134.49
-GO:0048608	reproductive structure development	40	0.61	0.50	7.37	31.35
-GO:2001234	negative regulation of apoptotic signaling pathway	38	0.69	0.72	9.15	292.03
-GO:0050768	negative regulation of neurogenesis	37	0.58	0.64	8.39	271.38
-GO:0010950	positive regulation of endopeptidase activity	31	0.74	0.79	9.42	499.33
-GO:0048812	neuron projection morphogenesis	30	0.65	0.68	8.50	63.00
-GO:0031668	cellular response to extracellular stimulus	29	0.55	0.52	7.38	45.16
-GO:0048562	embryonic organ morphogenesis	25	0.76	0.63	8.67	29.31
-GO:0032355	response to estradiol	23	0.93	0.76	9.52	74.25
-GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	23	0.87	0.88	9.56	734.49
-GO:0045582	positive regulation of T cell differentiation	21	0.70	0.75	9.32	861.16
-GO:0048167	regulation of synaptic plasticity	21	0.67	0.69	8.57	39.26
-GO:0048754	branching morphogenesis of an epithelial tube	20	0.74	0.69	8.88	51.71
-GO:0001701	in utero embryonic development	19	1.00	0.85	9.63	22.50
-GO:0032092	positive regulation of protein binding	13	0.71	0.64	8.53	32.71
-GO:0030199	collagen fibril organization	12	1.00	0.79	9.63	53.96
-GO:1903078	positive regulation of protein localization to plasma membrane	10	0.84	0.80	9.43	218.50
-GO:0010955	negative regulation of protein processing	10	0.72	0.76	9.28	707.20
-GO:0030326	embryonic limb morphogenesis	9	0.89	0.74	9.38	43.31
-GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
-GO:0035264	multicellular organism growth	9	1.00	0.70	9.63	22.58
-GO:0051893	regulation of focal adhesion assembly	9	0.89	0.80	9.47	59.48
-GO:0051965	positive regulation of synapse assembly	8	0.83	0.76	9.44	224.64
-GO:0006029	proteoglycan metabolic process	8	0.71	0.68	9.06	96.67
-GO:0060071	Wnt signaling pathway, planar cell polarity pathway	8	0.74	0.77	9.09	99.04
-GO:0097421	liver regeneration	7	1.00	0.82	9.63	47.22
-GO:0051973	positive regulation of telomerase activity	7	0.93	0.86	9.60	952.43
-GO:0002092	positive regulation of receptor internalization	7	0.93	0.86	9.59	393.55
-GO:0032967	positive regulation of collagen biosynthetic process	7	1.00	0.82	9.63	105.22
-GO:0090189	regulation of branching involved in ureteric bud morphogenesis	6	0.83	0.76	9.47	126.07
-GO:0046851	negative regulation of bone remodeling	6	0.93	0.79	9.52	58.84
-GO:0045581	negative regulation of T cell differentiation	5	0.70	0.75	9.32	878.99
-GO:0048255	mRNA stabilization	5	0.89	0.86	9.58	1968.72
-GO:0001947	heart looping	5	1.00	0.85	9.63	47.98
-GO:0007413	axonal fasciculation	5	0.89	0.80	9.45	31.51
-GO:1904837	beta-catenin-TCF complex assembly	4	1.00	0.79	9.63	40.42
-GO:2000727	positive regulation of cardiac muscle cell differentiation	4	0.84	0.82	9.49	667.95
-GO:0002042	cell migration involved in sprouting angiogenesis	4	1.00	0.90	9.63	27.17
-GO:0030514	negative regulation of BMP signaling pathway	4	0.83	0.86	9.49	599.33
-GO:0008333	endosome to lysosome transport	4	0.84	0.74	9.37	62.68
-GO:0043570	maintenance of DNA repeat elements	3	0.81	0.76	9.45	170.28
-GO:0048663	neuron fate commitment	3	0.67	0.58	7.98	20.24
-GO:0001756	somitogenesis	2	1.00	0.79	9.63	43.80
-GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	2	1.00	0.82	9.63	83.93
-GO:0071481	cellular response to X-ray	2	1.00	0.85	9.63	60.40
-GO:0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis	2	0.93	0.79	9.53	100.75
-GO:0048074	negative regulation of eye pigmentation	1	0.93	0.76	9.49	34.42
-GO:0016539	intein-mediated protein splicing	1	1.00	0.88	9.63	103.28
-GO:0045112	integrin biosynthetic process	1	0.93	0.76	9.49	39.16
-GO:0060628	regulation of ER to Golgi vesicle-mediated transport	1	0.81	0.73	9.26	59.76
+GO:0008150	biological_process	1618	0.00	0.00	0.00	0.00
+GO:0044093	positive regulation of molecular function	296	0.43	0.41	5.23	6.77
 GO:1904783	positive regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1126.33
-GO:1904782	negative regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1128.67
-GO:2000041	negative regulation of planar cell polarity pathway involved in axis elongation	1	1.00	0.92	9.63	455.71
-GO:0032423	regulation of mismatch repair	1	0.89	0.82	9.51	106.94
-GO:0072086	specification of loop of Henle identity	1	0.93	0.76	9.47	26.26
-GO:1900158	negative regulation of bone mineralization involved in bone maturation	1	1.00	0.88	9.63	331.83
-GO:0099557	trans-synaptic signaling by trans-synaptic complex, modulating synaptic transmission	1	1.00	0.88	9.63	77.48
-GO:0042662	negative regulation of mesodermal cell fate specification	1	0.84	0.84	9.50	745.93
-GO:0070602	regulation of centromeric sister chromatid cohesion	1	0.81	0.80	9.34	56.73
-GO:0030704	vitelline membrane formation	1	0.93	0.79	9.56	111.92
-GO:0090177	establishment of planar polarity involved in neural tube closure	1	1.00	0.82	9.63	28.09
+GO:0050789	regulation of biological process	1184	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	30	0.93	0.91	9.59	279.44
+GO:0030336	negative regulation of cell migration	47	0.58	0.64	8.21	158.04
+GO:0044093	positive regulation of molecular function	296	0.43	0.41	5.23	6.77
+GO:1904783	positive regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1126.33
+GO:0050789	regulation of biological process	1184	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	30	0.93	0.91	9.59	279.44
+GO:0030336	negative regulation of cell migration	47	0.58	0.64	8.21	158.04
+GO:0044093	positive regulation of molecular function	296	0.43	0.41	5.23	6.77
+GO:1904783	positive regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1126.33
+GO:0050789	regulation of biological process	1184	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	30	0.93	0.91	9.59	279.44
+GO:0030336	negative regulation of cell migration	47	0.58	0.64	8.21	158.04
+GO:0044093	positive regulation of molecular function	296	0.43	0.41	5.23	6.77
+GO:1904783	positive regulation of NMDA glutamate receptor activity	1	1.00	0.92	9.63	1126.33
+GO:0050789	regulation of biological process	1184	0.09	0.17	1.80	4.47
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	30	0.93	0.91	9.59	279.44
+GO:0030336	negative regulation of cell migration	47	0.58	0.64	8.21	158.04
+GO:0050896	response to stimulus	615	0.25	0.12	2.65	3.37
+GO:0043170	macromolecule metabolic process	598	0.25	0.32	3.46	10.22
+GO:0051641	cellular localization	187	0.37	0.31	4.44	5.67

@@ -2,6 +2,7 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0007186	G-protein coupled receptor signaling pathway	194	0.55	0.57	7.20	23.17
 GO:0007166	cell surface receptor signaling pathway	569	0.43	0.51	5.91	23.17
 GO:0035556	intracellular signal transduction	302	0.51	0.55	6.92	23.17
+GO:0048523	negative regulation of cellular process	711	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	562	0.33	0.45	5.35	37.59
 GO:0051716	cellular response to stimulus	490	0.35	0.30	4.36	13.53
 GO:0006355	regulation of transcription, DNA-templated	440	0.40	0.60	6.84	245.35
@@ -17,6 +18,7 @@ GO:0043207	response to external biotic stimulus	247	0.41	0.40	5.91	16.64
 GO:0033554	cellular response to stress	224	0.44	0.42	6.05	25.47
 GO:0043069	negative regulation of programmed cell death	210	0.55	0.60	7.50	59.56
 GO:0001934	positive regulation of protein phosphorylation	210	0.58	0.69	8.60	663.11
+GO:0030334	regulation of cell migration	208	0.48	0.56	7.11	36.74
 GO:1901701	cellular response to oxygen-containing compound	201	0.47	0.48	6.19	42.34
 GO:0002275	myeloid cell activation involved in immune response	192	0.74	0.66	9.05	59.31
 GO:0045597	positive regulation of cell differentiation	189	0.45	0.51	6.57	82.53
@@ -26,7 +28,6 @@ GO:0006468	protein phosphorylation	156	0.57	0.64	8.18	177.76
 GO:0050900	leukocyte migration	153	0.60	0.59	8.02	26.94
 GO:0009725	response to hormone	153	0.53	0.51	7.03	21.86
 GO:0001819	positive regulation of cytokine production	144	0.51	0.54	6.97	44.26
-GO:0030335	positive regulation of cell migration	143	0.58	0.64	8.22	157.26
 GO:0015031	protein transport	140	0.48	0.59	6.99	54.46
 GO:0002768	immune response-regulating cell surface receptor signaling pathway	123	0.68	0.66	8.81	76.40
 GO:0050727	regulation of inflammatory response	108	0.53	0.59	7.40	31.59
@@ -36,7 +37,6 @@ GO:0050870	positive regulation of T cell activation	95	0.63	0.69	8.78	216.07
 GO:0030098	lymphocyte differentiation	83	0.61	0.60	8.24	42.31
 GO:0051259	protein complex oligomerization	80	0.78	0.68	9.09	40.42
 GO:0042742	defense response to bacterium	77	0.79	0.72	9.19	69.65
-GO:0007204	positive regulation of cytosolic calcium ion concentration	74	0.68	0.77	9.10	290.30
 GO:0045637	regulation of myeloid cell differentiation	71	0.62	0.63	8.47	67.17
 GO:0050707	regulation of cytokine secretion	66	0.59	0.67	8.36	114.42
 GO:0030100	regulation of endocytosis	59	0.59	0.62	8.15	44.91
@@ -53,12 +53,12 @@ GO:0043300	regulation of leukocyte degranulation	17	0.68	0.74	8.94	77.23
 GO:0043551	regulation of phosphatidylinositol 3-kinase activity	16	0.83	0.83	9.52	113.72
 GO:0010543	regulation of platelet activation	16	0.79	0.77	9.51	81.88
 GO:0030199	collagen fibril organization	15	1.00	0.79	9.63	53.96
-GO:0010812	negative regulation of cell-substrate adhesion	14	0.80	0.72	9.12	52.01
-GO:0090025	regulation of monocyte chemotaxis	13	0.89	0.84	9.51	137.53
+GO:0051209	release of sequestered calcium ion into cytosol	14	0.80	0.87	9.53	522.93
 GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
 GO:0008361	regulation of cell size	11	0.78	0.68	9.00	28.02
 GO:0034122	negative regulation of toll-like receptor signaling pathway	10	0.71	0.73	9.01	260.81
 GO:0030889	negative regulation of B cell proliferation	10	1.00	0.90	9.63	506.34
+GO:0051482	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	10	1.00	0.95	9.63	292.09
 GO:0033630	positive regulation of cell adhesion mediated by integrin	9	0.93	0.76	9.49	34.62
 GO:0032928	regulation of superoxide anion generation	8	0.89	0.80	9.41	29.55
 GO:0001782	B cell homeostasis	8	0.93	0.82	9.51	22.00
@@ -72,7 +72,7 @@ GO:0019370	leukotriene biosynthetic process	2	0.87	0.81	9.49	324.41
 GO:0090237	regulation of arachidonic acid secretion	2	0.89	0.84	9.49	83.14
 GO:0032765	positive regulation of mast cell cytokine production	2	1.00	0.90	9.63	311.83
 GO:0032959	inositol trisphosphate biosynthetic process	2	1.00	0.88	9.63	361.00
-GO:0070666	regulation of mast cell proliferation	1	0.89	0.77	9.34	17.30
+GO:0070668	positive regulation of mast cell proliferation	1	1.00	0.85	9.63	83.53
 GO:0032237	activation of store-operated calcium channel activity	1	1.00	0.95	9.63	1441.32
 GO:0016322	neuron remodeling	1	1.00	0.79	9.63	39.56
 GO:0007603	phototransduction, visible light	1	1.00	0.85	9.63	130.00

@@ -1,13 +1,12 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050793	regulation of developmental process	213	0.26	0.33	3.95	7.96
-GO:0050794	regulation of cellular process	687	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	417	0.24	0.37	3.90	23.85
+GO:0033599	regulation of mammary gland epithelial cell proliferation	4	0.87	0.76	9.34	45.59
 GO:0010556	regulation of macromolecule biosynthetic process	224	0.33	0.46	5.12	27.30
 GO:0060574	intestinal epithelial cell maturation	2	1.00	0.82	9.63	41.35
 GO:0030154	cell differentiation	140	0.39	0.39	5.18	16.68
 GO:0051241	negative regulation of multicellular organismal process	96	0.35	0.42	4.99	23.69
 GO:0006351	transcription, DNA-templated	75	0.57	0.68	8.45	581.39
 GO:0060326	cell chemotaxis	68	0.64	0.61	8.15	30.29
-GO:0043065	positive regulation of apoptotic process	55	0.56	0.63	7.81	80.91
 GO:0048513	animal organ development	44	0.50	0.45	5.88	11.73
 GO:2000027	regulation of organ morphogenesis	17	0.45	0.52	6.54	42.54
 GO:0009887	animal organ morphogenesis	16	0.55	0.47	6.38	10.94

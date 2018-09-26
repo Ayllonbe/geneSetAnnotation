@@ -1,7 +1,6 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0008150	biological_process	1966	0.00	0.00	0.00	0.00
 GO:0050789	regulation of biological process	1359	0.09	0.17	1.80	4.47
 GO:0044237	cellular metabolic process	1213	0.16	0.21	2.71	13.80
-GO:0016043	cellular component organization	627	0.28	0.26	3.74	11.45
-GO:0032502	developmental process	343	0.22	0.11	1.89	3.37
-GO:0050896	response to stimulus	540	0.25	0.12	2.65	3.37
 GO:0016192	vesicle-mediated transport	268	0.52	0.51	6.57	10.99
+GO:0045087	innate immune response	73	0.68	0.59	8.16	26.47

@@ -40,8 +40,9 @@ GO:0051249	regulation of lymphocyte activation	115	0.48	0.56	7.10	27.11
 GO:0050900	leukocyte migration	112	0.60	0.59	8.02	26.94
 GO:0051707	response to other organism	112	0.42	0.46	6.41	24.63
 GO:0006351	transcription, DNA-templated	107	0.57	0.68	8.45	581.39
-GO:0045087	innate immune response	101	0.68	0.59	8.16	26.47
 GO:0045597	positive regulation of cell differentiation	100	0.45	0.51	6.57	82.53
+GO:0030501	positive regulation of bone mineralization	5	0.93	0.82	9.56	171.86
+GO:0045087	innate immune response	101	0.68	0.59	8.16	26.47
 GO:0015031	protein transport	91	0.48	0.59	6.99	54.46
 GO:0006875	cellular metal ion homeostasis	90	0.59	0.67	8.36	105.84
 GO:0014070	response to organic cyclic compound	89	0.45	0.47	5.96	13.32
@@ -62,7 +63,6 @@ GO:0050851	antigen receptor-mediated signaling pathway	62	0.87	0.83	9.53	218.74
 GO:1901652	response to peptide	62	0.62	0.60	8.14	43.80
 GO:0045786	negative regulation of cell cycle	56	0.51	0.54	7.10	42.35
 GO:0120035	regulation of plasma membrane bounded cell projection organization	46	0.51	0.58	7.05	17.28
-GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	44	0.52	0.58	7.50	27.23
 GO:0002758	innate immune response-activating signal transduction	43	0.63	0.71	8.79	406.89
 GO:0032956	regulation of actin cytoskeleton organization	43	0.56	0.63	7.72	34.12
 GO:0030100	regulation of endocytosis	41	0.59	0.62	8.15	44.91
@@ -164,7 +164,6 @@ GO:0097421	liver regeneration	5	1.00	0.82	9.63	47.22
 GO:0043171	peptide catabolic process	5	0.72	0.68	8.97	139.84
 GO:0046326	positive regulation of glucose import	5	0.93	0.84	9.55	84.68
 GO:0014003	oligodendrocyte development	5	1.00	0.79	9.63	34.10
-GO:0030501	positive regulation of bone mineralization	5	0.93	0.82	9.56	171.86
 GO:0034162	toll-like receptor 9 signaling pathway	5	1.00	0.95	9.63	412.65
 GO:0042098	T cell proliferation	5	0.72	0.69	9.08	51.29
 GO:0001890	placenta development	4	1.00	0.75	9.63	49.87

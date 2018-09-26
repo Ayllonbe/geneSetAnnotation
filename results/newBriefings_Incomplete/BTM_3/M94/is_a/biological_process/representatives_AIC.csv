@@ -19,6 +19,8 @@ GO:0009968	negative regulation of signal transduction	140	0.44	0.54	6.68	140.65
 GO:0032774	RNA biosynthetic process	139	0.53	0.62	8.04	473.34
 GO:0033554	cellular response to stress	135	0.44	0.42	6.05	25.47
 GO:0033554	cellular response to stress	135	0.44	0.42	6.05	25.47
+GO:0008285	negative regulation of cell proliferation	94	0.56	0.57	7.31	43.61
+GO:0045786	negative regulation of cell cycle	62	0.51	0.54	7.10	42.35
 GO:0043066	negative regulation of apoptotic process	123	0.56	0.63	7.79	81.07
 GO:0031327	negative regulation of cellular biosynthetic process	121	0.42	0.53	6.40	170.82
 GO:0010243	response to organonitrogen compound	121	0.45	0.48	6.23	25.43
@@ -26,10 +28,8 @@ GO:0043408	regulation of MAPK cascade	119	0.60	0.70	8.65	157.04
 GO:0051345	positive regulation of hydrolase activity	106	0.57	0.57	7.42	32.99
 GO:0030335	positive regulation of cell migration	104	0.58	0.64	8.22	157.26
 GO:0045785	positive regulation of cell adhesion	97	0.58	0.54	7.23	21.97
-GO:0008285	negative regulation of cell proliferation	94	0.56	0.57	7.31	43.61
 GO:0033674	positive regulation of kinase activity	93	0.61	0.70	8.62	265.90
 GO:0051251	positive regulation of lymphocyte activation	93	0.58	0.64	8.19	127.58
-GO:0001819	positive regulation of cytokine production	87	0.51	0.54	6.97	44.26
 GO:0043068	positive regulation of programmed cell death	86	0.54	0.60	7.55	59.39
 GO:0045596	negative regulation of cell differentiation	82	0.44	0.51	6.50	82.79
 GO:1903706	regulation of hemopoiesis	81	0.50	0.54	7.23	38.17
@@ -39,7 +39,6 @@ GO:0032870	cellular response to hormone stimulus	51	0.60	0.59	7.93	80.94
 GO:0048513	animal organ development	68	0.50	0.45	5.88	11.73
 GO:0071417	cellular response to organonitrogen compound	66	0.53	0.56	7.37	128.53
 GO:0032989	cellular component morphogenesis	62	0.56	0.48	7.27	42.57
-GO:0045786	negative regulation of cell cycle	62	0.51	0.54	7.10	42.35
 GO:0031400	negative regulation of protein modification process	60	0.53	0.64	7.94	366.95
 GO:0001558	regulation of cell growth	48	0.58	0.58	7.66	26.25
 GO:0071222	cellular response to lipopolysaccharide	48	1.00	0.82	9.63	238.00
@@ -60,6 +59,7 @@ GO:0007569	cell aging	12	0.80	0.60	8.94	24.75
 GO:0002720	positive regulation of cytokine production involved in immune response	11	0.74	0.72	9.21	248.72
 GO:0002675	positive regulation of acute inflammatory response	11	0.71	0.73	8.97	164.52
 GO:0032233	positive regulation of actin filament bundle assembly	10	0.89	0.86	9.53	256.93
+GO:0045669	positive regulation of osteoblast differentiation	9	0.93	0.79	9.56	169.86
 GO:1903078	positive regulation of protein localization to plasma membrane	8	0.84	0.80	9.43	218.50
 GO:0010828	positive regulation of glucose transmembrane transport	7	0.89	0.80	9.53	65.59
 GO:0008344	adult locomotory behavior	7	0.84	0.62	9.16	24.58
@@ -84,6 +84,7 @@ GO:0060444	branching involved in mammary gland duct morphogenesis	3	0.87	0.78	9.
 GO:0033089	positive regulation of T cell differentiation in thymus	3	0.89	0.86	9.58	998.09
 GO:0046599	regulation of centriole replication	2	0.83	0.83	9.50	89.11
 GO:0032966	negative regulation of collagen biosynthetic process	2	1.00	0.82	9.63	106.40
+GO:0001975	response to amphetamine	2	0.93	0.79	9.54	70.50
 GO:0072540	T-helper 17 cell lineage commitment	2	1.00	0.88	9.63	46.26
 GO:2000253	positive regulation of feeding behavior	2	0.89	0.74	9.49	36.80
 GO:0036496	regulation of translational initiation by eIF2 alpha dephosphorylation	2	0.93	0.88	9.61	674.63

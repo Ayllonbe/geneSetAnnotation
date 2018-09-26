@@ -1,9 +1,9 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0010468	regulation of gene expression	150	0.35	0.46	5.09	13.73
 GO:0090304	nucleic acid metabolic process	147	0.35	0.46	5.97	111.15
-GO:0019219	regulation of nucleobase-containing compound metabolic process	143	0.33	0.45	5.50	54.14
-GO:0006281	DNA repair	20	0.63	0.66	8.78	180.34
 GO:0016070	RNA metabolic process	135	0.39	0.52	6.45	112.25
+GO:0006259	DNA metabolic process	30	0.45	0.55	7.12	145.26
+GO:0019219	regulation of nucleobase-containing compound metabolic process	143	0.33	0.45	5.50	54.14
 GO:0048523	negative regulation of cellular process	128	0.24	0.37	3.90	23.93
 GO:0006355	regulation of transcription, DNA-templated	119	0.40	0.60	6.84	245.35
 GO:0007165	signal transduction	115	0.36	0.43	5.06	19.43
@@ -13,7 +13,6 @@ GO:0006996	organelle organization	84	0.39	0.39	5.17	14.95
 GO:0022607	cellular component assembly	80	0.39	0.39	5.06	14.95
 GO:0009966	regulation of signal transduction	74	0.33	0.45	5.35	37.59
 GO:0015031	protein transport	60	0.48	0.59	6.99	54.46
-GO:0033554	cellular response to stress	60	0.44	0.42	6.05	25.47
 GO:0045893	positive regulation of transcription, DNA-templated	59	0.52	0.67	8.14	1208.12
 GO:0065003	protein-containing complex assembly	53	0.45	0.48	6.06	36.47
 GO:0045595	regulation of cell differentiation	45	0.34	0.42	5.25	23.33
@@ -26,7 +25,6 @@ GO:0006511	ubiquitin-dependent protein catabolic process	25	0.74	0.74	9.19	156.4
 GO:0080135	regulation of cellular response to stress	20	0.46	0.52	6.64	26.18
 GO:0008284	positive regulation of cell proliferation	19	0.56	0.57	7.27	43.45
 GO:0051028	mRNA transport	16	0.87	0.81	9.45	42.49
-GO:0045596	negative regulation of cell differentiation	16	0.44	0.51	6.50	82.79
 GO:0006417	regulation of translation	15	0.52	0.61	8.02	212.82
 GO:0001666	response to hypoxia	14	0.81	0.70	9.12	21.16
 GO:0098542	defense response to other organism	14	0.66	0.62	8.42	39.21
@@ -42,7 +40,6 @@ GO:0007268	chemical synaptic transmission	7	0.74	0.72	8.66	23.17
 GO:0043410	positive regulation of MAPK cascade	7	0.66	0.75	9.17	1017.24
 GO:0010508	positive regulation of autophagy	6	0.72	0.71	9.04	216.89
 GO:0034644	cellular response to UV	6	0.80	0.75	9.22	66.19
-GO:0000045	autophagosome assembly	6	1.00	0.82	9.63	62.10
 GO:0030336	negative regulation of cell migration	5	0.58	0.64	8.21	158.04
 GO:0000902	cell morphogenesis	5	0.63	0.56	7.92	43.26
 GO:0008064	regulation of actin polymerization or depolymerization	5	0.67	0.73	9.05	119.89
@@ -95,4 +92,3 @@ GO:1904828	positive regulation of hydrogen sulfide biosynthetic process	1	1.00	0
 GO:0006656	phosphatidylcholine biosynthetic process	1	0.80	0.77	9.40	749.29
 GO:0060687	regulation of branching involved in prostate gland morphogenesis	1	1.00	0.82	9.63	105.65
 GO:0046621	negative regulation of organ growth	1	0.81	0.73	9.36	146.93
-GO:0032201	telomere maintenance via semi-conservative replication	1	0.89	0.82	9.56	216.33

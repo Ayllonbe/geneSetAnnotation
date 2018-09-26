@@ -49,6 +49,7 @@ GO:0031346	positive regulation of cell projection organization	6	0.62	0.63	8.02	
 GO:0022604	regulation of cell morphogenesis	6	0.53	0.56	7.35	31.06
 GO:0071345	cellular response to cytokine stimulus	6	0.67	0.63	8.21	61.60
 GO:0031122	cytoplasmic microtubule organization	6	0.81	0.73	9.26	50.45
+GO:0070848	response to growth factor	6	0.71	0.60	8.45	13.32
 GO:0030099	myeloid cell differentiation	5	0.69	0.60	8.15	21.07
 GO:0031124	mRNA 3'-end processing	5	0.84	0.82	9.53	355.16
 GO:0030182	neuron differentiation	5	0.58	0.54	7.21	21.07
@@ -67,7 +68,6 @@ GO:0016055	Wnt signaling pathway	4	0.59	0.65	7.65	28.58
 GO:0009615	response to virus	4	0.74	0.66	8.80	27.27
 GO:0006605	protein targeting	4	0.72	0.76	9.18	93.44
 GO:0071236	cellular response to antibiotic	4	0.64	0.57	7.70	41.40
-GO:0071363	cellular response to growth factor stimulus	4	0.77	0.67	8.94	60.39
 GO:0043393	regulation of protein binding	3	0.59	0.55	7.49	9.33
 GO:0048666	neuron development	3	0.67	0.58	8.09	32.15
 GO:0090307	mitotic spindle assembly	3	1.00	0.88	9.63	186.05
@@ -105,7 +105,6 @@ GO:0007062	sister chromatid cohesion	2	0.75	0.67	8.80	32.57
 GO:0010458	exit from mitosis	2	1.00	0.79	9.63	29.82
 GO:0051294	establishment of spindle orientation	2	0.87	0.78	9.52	88.54
 GO:0016180	snRNA processing	2	0.80	0.80	9.35	356.39
-GO:0071774	response to fibroblast growth factor	2	0.93	0.76	9.47	24.05
 GO:0070863	positive regulation of protein exit from endoplasmic reticulum	2	0.93	0.86	9.58	386.42
 GO:0008361	regulation of cell size	2	0.78	0.68	9.00	28.02
 GO:0045540	regulation of cholesterol biosynthetic process	2	0.89	0.84	9.49	116.99

@@ -1,9 +1,10 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	4036	0.12	0.26	2.47	7.96
-GO:0051246	regulation of protein metabolic process	1216	0.34	0.46	5.46	41.09
-GO:0051252	regulation of RNA metabolic process	1661	0.37	0.51	6.06	70.58
+GO:0044237	cellular metabolic process	3802	0.16	0.21	2.71	13.80
 GO:0048523	negative regulation of cellular process	1919	0.24	0.37	3.90	23.93
 GO:0010468	regulation of gene expression	1910	0.35	0.46	5.09	13.73
+GO:2000112	regulation of cellular macromolecule biosynthetic process	1737	0.36	0.50	5.87	74.82
+GO:0043488	regulation of mRNA stability	57	0.74	0.77	9.24	282.23
 GO:0090305	nucleic acid phosphodiester bond hydrolysis	140	0.61	0.63	8.36	112.25
 GO:0016070	RNA metabolic process	1489	0.39	0.52	6.45	112.25
 GO:0006259	DNA metabolic process	387	0.45	0.55	7.12	145.26
@@ -16,16 +17,15 @@ GO:0034645	cellular macromolecule biosynthetic process	1285	0.47	0.53	6.91	102.7
 GO:0009966	regulation of signal transduction	1256	0.33	0.45	5.35	37.59
 GO:0051128	regulation of cellular component organization	1064	0.30	0.40	4.57	12.04
 GO:0043933	protein-containing complex subunit organization	875	0.43	0.41	5.44	14.95
-GO:0065003	protein-containing complex assembly	727	0.45	0.48	6.06	36.47
-GO:0120031	plasma membrane bounded cell projection assembly	121	0.69	0.64	8.45	55.86
-GO:0016192	vesicle-mediated transport	769	0.52	0.51	6.57	10.99
 GO:0045935	positive regulation of nucleobase-containing compound metabolic process	767	0.44	0.55	6.91	183.64
 GO:2000026	regulation of multicellular organismal development	727	0.29	0.39	4.73	23.09
+GO:0065003	protein-containing complex assembly	727	0.45	0.48	6.06	36.47
 GO:0032270	positive regulation of cellular protein metabolic process	680	0.47	0.59	7.41	288.49
 GO:0015031	protein transport	653	0.48	0.59	6.99	54.46
 GO:2000113	negative regulation of cellular macromolecule biosynthetic process	611	0.50	0.60	7.60	369.32
 GO:0030154	cell differentiation	549	0.39	0.39	5.18	16.68
 GO:0009968	negative regulation of signal transduction	501	0.44	0.54	6.68	140.65
+GO:0032940	secretion by cell	473	0.48	0.53	6.33	20.46
 GO:0034613	cellular protein localization	466	0.45	0.48	6.33	26.83
 GO:0019752	carboxylic acid metabolic process	410	0.32	0.45	5.31	42.50
 GO:0080135	regulation of cellular response to stress	297	0.46	0.52	6.64	26.18
@@ -35,6 +35,8 @@ GO:0006511	ubiquitin-dependent protein catabolic process	267	0.74	0.74	9.19	156.
 GO:1903827	regulation of cellular protein localization	251	0.48	0.53	6.86	25.72
 GO:0045596	negative regulation of cell differentiation	249	0.44	0.51	6.50	82.79
 GO:0048468	cell development	225	0.51	0.45	6.51	28.42
+GO:0042176	regulation of protein catabolic process	190	0.59	0.62	8.21	56.79
+GO:0006897	endocytosis	188	0.63	0.61	8.09	26.36
 GO:0006875	cellular metal ion homeostasis	184	0.59	0.67	8.36	105.84
 GO:0015672	monovalent inorganic cation transport	117	0.67	0.66	8.33	15.42
 GO:0030001	metal ion transport	179	0.54	0.59	7.29	15.42
@@ -43,7 +45,7 @@ GO:0050900	leukocyte migration	157	0.60	0.59	8.02	26.94
 GO:0001818	negative regulation of cytokine production	134	0.51	0.55	7.03	44.36
 GO:0001666	response to hypoxia	123	0.81	0.70	9.12	21.16
 GO:0009150	purine ribonucleotide metabolic process	123	0.55	0.67	8.37	538.25
-GO:0006914	autophagy	118	0.67	0.59	8.40	37.75
+GO:0120031	plasma membrane bounded cell projection assembly	121	0.69	0.64	8.45	55.86
 GO:0034976	response to endoplasmic reticulum stress	116	0.68	0.59	8.28	29.00
 GO:0046395	carboxylic acid catabolic process	114	0.44	0.54	6.76	160.26
 GO:0000902	cell morphogenesis	84	0.63	0.56	7.92	43.26
@@ -59,7 +61,6 @@ GO:0000281	mitotic cytokinesis	38	0.93	0.76	9.47	28.62
 GO:0060429	epithelium development	33	0.55	0.53	6.89	15.06
 GO:0071383	cellular response to steroid hormone stimulus	32	0.77	0.71	9.28	278.65
 GO:0032781	positive regulation of ATPase activity	26	0.75	0.70	8.78	51.42
-GO:0006120	mitochondrial electron transport, NADH to ubiquinone	25	1.00	0.82	9.63	32.65
 GO:0051402	neuron apoptotic process	24	0.83	0.70	9.02	23.44
 GO:0006986	response to unfolded protein	23	0.87	0.72	9.34	23.96
 GO:0016242	negative regulation of macroautophagy	22	0.79	0.77	9.28	266.47
@@ -80,9 +81,7 @@ GO:0007026	negative regulation of microtubule depolymerization	8	0.89	0.86	9.55	
 GO:0033344	cholesterol efflux	7	1.00	0.88	9.63	39.64
 GO:0016254	preassembly of GPI anchor in ER membrane	7	1.00	0.85	9.63	147.20
 GO:0039536	negative regulation of RIG-I signaling pathway	7	1.00	0.90	9.63	832.85
-GO:0007269	neurotransmitter secretion	7	0.70	0.73	8.77	61.60
 GO:0002315	marginal zone B cell differentiation	5	1.00	0.90	9.63	149.81
-GO:2000726	negative regulation of cardiac muscle cell differentiation	5	0.84	0.82	9.49	669.65
 GO:0086064	cell communication by electrical coupling involved in cardiac conduction	3	0.83	0.66	8.94	22.01
 GO:1990928	response to amino acid starvation	2	1.00	0.82	9.63	23.52
 GO:0048633	positive regulation of skeletal muscle tissue growth	2	1.00	0.90	9.63	367.15

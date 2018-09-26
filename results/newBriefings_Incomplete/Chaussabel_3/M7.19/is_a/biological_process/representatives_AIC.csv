@@ -1,6 +1,7 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0048522	positive regulation of cellular process	2242	0.24	0.37	3.90	23.85
 GO:0048523	negative regulation of cellular process	2023	0.24	0.37	3.90	23.93
+GO:0010468	regulation of gene expression	2022	0.35	0.46	5.09	13.73
 GO:0019219	regulation of nucleobase-containing compound metabolic process	1900	0.33	0.45	5.50	54.14
 GO:0017148	negative regulation of translation	65	0.65	0.70	9.08	1114.67
 GO:0090304	nucleic acid metabolic process	1853	0.35	0.46	5.97	111.15
@@ -17,8 +18,8 @@ GO:0009966	regulation of signal transduction	1334	0.33	0.45	5.35	37.59
 GO:0031324	negative regulation of cellular metabolic process	1156	0.34	0.46	5.46	80.35
 GO:0051128	regulation of cellular component organization	1131	0.30	0.40	4.57	12.04
 GO:0032879	regulation of localization	1105	0.27	0.33	4.05	7.96
-GO:0010628	positive regulation of gene expression	858	0.47	0.56	6.67	58.80
 GO:0046907	intracellular transport	789	0.46	0.48	6.38	29.65
+GO:0033554	cellular response to stress	775	0.44	0.42	6.05	25.47
 GO:0033554	cellular response to stress	775	0.44	0.42	6.05	25.47
 GO:0065003	protein-containing complex assembly	774	0.45	0.48	6.06	36.47
 GO:0009967	positive regulation of signal transduction	732	0.44	0.54	6.71	140.23
@@ -32,13 +33,10 @@ GO:0030154	cell differentiation	585	0.39	0.39	5.18	16.68
 GO:0031401	positive regulation of protein modification process	539	0.51	0.63	7.86	366.05
 GO:0009968	negative regulation of signal transduction	529	0.44	0.54	6.68	140.65
 GO:0034613	cellular protein localization	490	0.45	0.48	6.33	26.83
-GO:0043066	negative regulation of apoptotic process	436	0.56	0.63	7.79	81.07
-GO:0006259	DNA metabolic process	416	0.45	0.55	7.12	145.26
 GO:0010243	response to organonitrogen compound	361	0.45	0.48	6.23	25.43
 GO:0030334	regulation of cell migration	361	0.48	0.56	7.11	36.74
 GO:0051345	positive regulation of hydrolase activity	353	0.57	0.57	7.42	32.99
 GO:0051603	proteolysis involved in cellular protein catabolic process	325	0.65	0.65	8.27	49.65
-GO:0043065	positive regulation of apoptotic process	322	0.56	0.63	7.81	80.91
 GO:0010638	positive regulation of organelle organization	304	0.48	0.56	6.86	66.93
 GO:0034220	ion transmembrane transport	292	0.45	0.51	6.18	26.33
 GO:0045087	innate immune response	255	0.68	0.59	8.16	26.47
@@ -73,11 +71,9 @@ GO:0071479	cellular response to ionizing radiation	43	0.89	0.77	9.45	48.66
 GO:0030004	cellular monovalent inorganic cation homeostasis	42	0.70	0.72	9.09	105.28
 GO:0007517	muscle organ development	41	0.78	0.64	8.75	27.68
 GO:0070301	cellular response to hydrogen peroxide	39	1.00	0.82	9.63	361.03
-GO:0000077	DNA damage checkpoint	39	0.81	0.78	9.46	85.76
 GO:0000281	mitotic cytokinesis	38	0.93	0.76	9.47	28.62
 GO:0048278	vesicle docking	35	0.81	0.70	9.18	21.39
 GO:0015698	inorganic anion transport	34	0.64	0.64	7.92	13.47
-GO:0060964	regulation of gene silencing by miRNA	31	0.74	0.74	9.16	63.20
 GO:0009060	aerobic respiration	27	0.77	0.71	8.87	31.55
 GO:1903146	regulation of autophagy of mitochondrion	27	0.74	0.72	9.28	66.79
 GO:0008344	adult locomotory behavior	26	0.84	0.62	9.16	24.58
@@ -88,7 +84,6 @@ GO:0002230	positive regulation of defense response to virus by host	18	1.00	0.88
 GO:0045668	negative regulation of osteoblast differentiation	18	0.93	0.79	9.56	170.33
 GO:0032205	negative regulation of telomere maintenance	18	0.76	0.75	9.40	504.75
 GO:1900026	positive regulation of substrate adhesion-dependent cell spreading	18	1.00	0.88	9.63	350.52
-GO:1903672	positive regulation of sprouting angiogenesis	17	0.87	0.81	9.45	183.75
 GO:0007094	mitotic spindle assembly checkpoint	15	1.00	0.96	9.63	1801.80
 GO:0006760	folic acid-containing compound metabolic process	15	0.73	0.69	9.33	232.08
 GO:0043153	entrainment of circadian clock by photoperiod	14	1.00	0.82	9.63	32.76

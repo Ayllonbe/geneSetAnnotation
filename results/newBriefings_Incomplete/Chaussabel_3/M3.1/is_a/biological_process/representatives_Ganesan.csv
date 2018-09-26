@@ -54,7 +54,7 @@ GO:0051260	protein homooligomerization	108	0.89	0.77	9.41	42.03
 GO:1901532	regulation of hematopoietic progenitor cell differentiation	14	0.72	0.68	9.04	67.17
 GO:0045637	regulation of myeloid cell differentiation	94	0.62	0.63	8.47	67.17
 GO:0000165	MAPK cascade	103	0.74	0.77	9.24	231.45
-GO:1904062	regulation of cation transmembrane transport	90	0.49	0.59	7.03	34.83
+GO:0010959	regulation of metal ion transport	98	0.50	0.57	7.05	16.65
 GO:0030855	epithelial cell differentiation	88	0.55	0.52	6.96	21.07
 GO:0007005	mitochondrion organization	88	0.62	0.56	7.74	18.35
 GO:0043043	peptide biosynthetic process	83	0.65	0.65	8.66	211.48
@@ -132,7 +132,6 @@ GO:2000171	negative regulation of dendrite development	6	0.87	0.85	9.59	583.36
 GO:0048246	macrophage chemotaxis	6	1.00	0.88	9.63	95.92
 GO:0006307	DNA dealkylation involved in DNA repair	5	1.00	0.90	9.63	167.06
 GO:0035269	protein O-linked mannosylation	5	1.00	0.90	9.63	364.10
-GO:0090280	positive regulation of calcium ion import	4	0.87	0.83	9.42	92.69
 GO:2001170	negative regulation of ATP biosynthetic process	4	0.84	0.85	9.55	2736.76
 GO:0007042	lysosomal lumen acidification	4	1.00	0.96	9.63	327.69
 GO:1903232	melanosome assembly	3	1.00	0.85	9.63	62.72

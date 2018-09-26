@@ -8,6 +8,7 @@ GO:0007166	cell surface receptor signaling pathway	453	0.43	0.51	5.91	23.17
 GO:0030521	androgen receptor signaling pathway	13	0.89	0.82	9.45	54.01
 GO:0007166	cell surface receptor signaling pathway	453	0.43	0.51	5.91	23.17
 GO:0030521	androgen receptor signaling pathway	13	0.89	0.82	9.45	54.01
+GO:0048869	cellular developmental process	426	0.32	0.29	4.16	13.85
 GO:0065003	protein-containing complex assembly	332	0.45	0.48	6.06	36.47
 GO:2000113	negative regulation of cellular macromolecule biosynthetic process	297	0.50	0.60	7.60	369.32
 GO:0001101	response to acid chemical	64	0.51	0.45	6.31	9.28
@@ -18,7 +19,6 @@ GO:0046677	response to antibiotic	56	0.56	0.48	6.78	9.28
 GO:0009636	response to toxic substance	67	0.58	0.49	6.94	9.28
 GO:1901700	response to oxygen-containing compound	276	0.39	0.39	5.14	9.28
 GO:0071310	cellular response to organic substance	273	0.44	0.47	5.95	41.66
-GO:0030154	cell differentiation	272	0.39	0.39	5.18	16.68
 GO:0016570	histone modification	72	0.54	0.62	8.03	184.49
 GO:0016567	protein ubiquitination	147	0.69	0.74	9.00	153.79
 GO:0006886	intracellular protein transport	210	0.55	0.65	8.12	90.55
@@ -26,7 +26,6 @@ GO:0051603	proteolysis involved in cellular protein catabolic process	152	0.65	0
 GO:0009725	response to hormone	131	0.53	0.51	7.03	21.86
 GO:0043312	neutrophil degranulation	112	1.00	0.90	9.63	132.80
 GO:0022604	regulation of cell morphogenesis	111	0.53	0.56	7.35	31.06
-GO:0006281	DNA repair	109	0.63	0.66	8.78	180.34
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	93	0.76	0.78	9.31	348.36
 GO:0006874	cellular calcium ion homeostasis	65	0.63	0.71	8.83	287.08
 GO:0009150	purine ribonucleotide metabolic process	62	0.55	0.67	8.37	538.25
@@ -60,7 +59,6 @@ GO:0010918	positive regulation of mitochondrial membrane potential	6	1.00	0.79	9
 GO:1903077	negative regulation of protein localization to plasma membrane	5	0.84	0.80	9.49	218.53
 GO:0033077	T cell differentiation in thymus	4	0.87	0.78	9.42	66.99
 GO:0071316	cellular response to nicotine	4	1.00	0.79	9.63	116.91
-GO:0006293	nucleotide-excision repair, preincision complex stabilization	4	1.00	0.85	9.63	108.68
 GO:0051571	positive regulation of histone H3-K4 methylation	3	0.93	0.90	9.60	804.04
 GO:0052150	modulation by symbiont of host apoptotic process	3	0.79	0.79	9.53	167.70
 GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	2	1.00	0.90	9.63	197.69
@@ -68,7 +66,6 @@ GO:0002038	positive regulation of L-glutamate import across plasma membrane	2	0.
 GO:0046697	decidualization	2	1.00	0.75	9.63	34.68
 GO:0060154	cellular process regulating host cell cycle in response to virus	1	1.00	0.85	9.63	44.50
 GO:0071247	cellular response to chromate	1	1.00	0.79	9.63	117.25
-GO:0001711	endodermal cell fate commitment	1	1.00	0.79	9.63	21.34
 GO:0006452	translational frameshifting	1	1.00	0.85	9.63	106.95
 GO:0033133	positive regulation of glucokinase activity	1	1.00	0.93	9.63	693.13
 GO:2000078	positive regulation of type B pancreatic cell development	1	1.00	0.85	9.63	383.35

@@ -1,17 +1,50 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0009987	cellular process	1419	0.09	0.05	0.84	3.37
-GO:0042769	DNA damage response, detection of DNA damage	12	0.79	0.68	9.14	39.84
-GO:0042592	homeostatic process	203	0.45	0.42	5.70	8.64
-GO:0010767	regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	1	0.93	0.91	9.60	631.98
-GO:0050789	regulation of biological process	1166	0.09	0.17	1.80	4.47
-GO:0019538	protein metabolic process	355	0.31	0.41	4.91	44.77
-GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
+GO:0050794	regulation of cellular process	1100	0.12	0.26	2.47	7.96
+GO:0060255	regulation of macromolecule metabolic process	603	0.26	0.38	4.09	10.74
+GO:0016043	cellular component organization	527	0.28	0.26	3.74	11.45
+GO:0009966	regulation of signal transduction	445	0.33	0.45	5.35	37.59
+GO:0051239	regulation of multicellular organismal process	420	0.23	0.32	3.68	7.96
+GO:0010033	response to organic substance	351	0.35	0.37	4.75	9.28
+GO:0051252	regulation of RNA metabolic process	336	0.37	0.51	6.06	70.58
+GO:0045740	positive regulation of DNA replication	6	0.77	0.76	9.43	747.31
+GO:0048869	cellular developmental process	335	0.32	0.29	4.16	13.85
 GO:0006139	nucleobase-containing compound metabolic process	314	0.29	0.40	5.40	96.28
-GO:0019538	protein metabolic process	355	0.31	0.41	4.91	44.77
-GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
-GO:0006139	nucleobase-containing compound metabolic process	314	0.29	0.40	5.40	96.28
-GO:0051179	localization	585	0.26	0.13	2.57	3.37
-GO:0032502	developmental process	417	0.22	0.11	1.89	3.37
-GO:0009628	response to abiotic stimulus	109	0.46	0.35	5.43	6.14
-GO:0042221	response to chemical	382	0.32	0.29	4.12	6.14
+GO:0031324	negative regulation of cellular metabolic process	268	0.34	0.46	5.46	80.35
+GO:0006464	cellular protein modification process	262	0.34	0.49	5.84	147.03
+GO:0006511	ubiquitin-dependent protein catabolic process	29	0.74	0.74	9.19	156.45
+GO:0071310	cellular response to organic substance	249	0.44	0.47	5.95	41.66
+GO:0008284	positive regulation of cell proliferation	202	0.56	0.57	7.27	43.45
+GO:0045787	positive regulation of cell cycle	62	0.53	0.55	7.23	42.18
+GO:0042981	regulation of apoptotic process	226	0.45	0.55	6.60	16.23
+GO:0048856	anatomical structure development	174	0.33	0.29	3.70	6.46
+GO:0033554	cellular response to stress	163	0.44	0.42	6.05	25.47
+GO:0015031	protein transport	110	0.48	0.59	6.99	54.46
+GO:0071900	regulation of protein serine/threonine kinase activity	105	0.61	0.72	8.68	161.63
+GO:0000075	cell cycle checkpoint	26	0.66	0.65	8.65	51.68
+GO:0006974	cellular response to DNA damage stimulus	91	0.57	0.53	7.47	29.00
+GO:0031400	negative regulation of protein modification process	74	0.53	0.64	7.94	366.95
+GO:0010948	negative regulation of cell cycle process	47	0.53	0.59	7.47	61.75
+GO:0007088	regulation of mitotic nuclear division	39	0.59	0.64	8.17	54.97
+GO:1903827	regulation of cellular protein localization	68	0.48	0.53	6.86	25.72
+GO:0051052	regulation of DNA metabolic process	63	0.47	0.56	7.17	70.58
+GO:0044772	mitotic cell cycle phase transition	48	0.84	0.67	9.04	28.43
+GO:0071214	cellular response to abiotic stimulus	46	0.59	0.54	7.66	24.78
+GO:0051640	organelle localization	45	0.49	0.45	6.08	7.87
+GO:0031398	positive regulation of protein ubiquitination	12	0.75	0.79	9.37	528.45
+GO:0031056	regulation of histone modification	18	0.56	0.65	8.38	99.90
 GO:0046718	viral entry into host cell	22	0.77	0.73	8.94	28.37
+GO:0043009	chordate embryonic development	19	0.93	0.79	9.49	22.50
+GO:0070301	cellular response to hydrogen peroxide	18	1.00	0.82	9.63	361.03
+GO:0006633	fatty acid biosynthetic process	15	0.65	0.70	8.91	359.85
+GO:0055072	iron ion homeostasis	15	0.81	0.80	9.29	38.23
+GO:0043029	T cell homeostasis	8	1.00	0.85	9.63	22.00
+GO:0060045	positive regulation of cardiac muscle cell proliferation	5	1.00	0.92	9.63	720.41
+GO:0097186	amelogenesis	4	1.00	0.82	9.63	26.74
+GO:0034501	protein localization to kinetochore	4	0.84	0.80	9.29	35.82
+GO:0033160	positive regulation of protein import into nucleus, translocation	3	1.00	0.92	9.63	970.02
+GO:0015677	copper ion import	3	0.89	0.84	9.43	21.37
+GO:0098706	ferric iron import across plasma membrane	2	1.00	0.93	9.63	329.49
+GO:1905448	positive regulation of mitochondrial ATP synthesis coupled electron transport	2	0.93	0.91	9.60	1375.56
+GO:0071283	cellular response to iron(III) ion	1	1.00	0.85	9.63	96.29
+GO:0097202	activation of cysteine-type endopeptidase activity	1	1.00	0.95	9.63	669.11
+GO:0014038	regulation of Schwann cell differentiation	1	0.89	0.84	9.49	65.84

@@ -1,11 +1,11 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0048522	positive regulation of cellular process	817	0.24	0.37	3.90	23.85
+GO:0050794	regulation of cellular process	1320	0.12	0.26	2.47	7.96
+GO:0048518	positive regulation of biological process	928	0.21	0.30	3.05	7.96
 GO:0007165	signal transduction	771	0.36	0.43	5.06	19.43
 GO:0031326	regulation of cellular biosynthetic process	501	0.29	0.44	4.86	40.35
 GO:0051240	positive regulation of multicellular organismal process	341	0.35	0.42	4.98	23.60
 GO:0031328	positive regulation of cellular biosynthetic process	301	0.41	0.53	6.32	170.14
 GO:0043207	response to external biotic stimulus	228	0.41	0.40	5.91	16.64
-GO:0051050	positive regulation of transport	197	0.42	0.50	5.84	25.90
 GO:0016477	cell migration	195	0.47	0.48	6.31	17.13
 GO:1901701	cellular response to oxygen-containing compound	191	0.47	0.48	6.19	42.34
 GO:0043312	neutrophil degranulation	168	1.00	0.90	9.63	132.80
@@ -18,7 +18,6 @@ GO:0097746	regulation of blood vessel diameter	28	0.64	0.64	8.47	38.29
 GO:0030449	regulation of complement activation	24	0.69	0.72	9.30	245.77
 GO:0010863	positive regulation of phospholipase C activity	14	0.93	0.84	9.55	83.74
 GO:0001774	microglial cell activation	13	0.93	0.79	9.51	31.20
-GO:0002430	complement receptor mediated signaling pathway	7	0.93	0.86	9.58	218.74
 GO:0043315	positive regulation of neutrophil degranulation	4	1.00	0.93	9.63	798.77
 GO:0046085	adenosine metabolic process	3	0.87	0.83	9.55	443.47
 GO:0007567	parturition	2	1.00	0.70	9.63	32.81

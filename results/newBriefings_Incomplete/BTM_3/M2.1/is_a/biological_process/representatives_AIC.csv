@@ -38,7 +38,6 @@ GO:0042982	amyloid precursor protein metabolic process	3	0.87	0.72	9.41	47.86
 GO:0032496	response to lipopolysaccharide	102	0.89	0.74	9.45	64.41
 GO:0051129	negative regulation of cellular component organization	98	0.42	0.50	5.99	44.00
 GO:0000122	negative regulation of transcription by RNA polymerase II	95	0.61	0.74	8.79	1836.95
-GO:0048513	animal organ development	93	0.50	0.45	5.88	11.73
 GO:0034613	cellular protein localization	92	0.45	0.48	6.33	26.83
 GO:0048468	cell development	87	0.51	0.45	6.51	28.42
 GO:0071417	cellular response to organonitrogen compound	84	0.53	0.56	7.37	128.53
@@ -58,11 +57,13 @@ GO:0042542	response to hydrogen peroxide	31	0.93	0.76	9.54	79.29
 GO:2000117	negative regulation of cysteine-type endopeptidase activity	26	0.83	0.85	9.54	565.44
 GO:0034655	nucleobase-containing compound catabolic process	25	0.48	0.53	7.63	314.02
 GO:0010811	positive regulation of cell-substrate adhesion	23	0.80	0.69	9.01	35.31
+GO:0045471	response to ethanol	22	0.93	0.76	9.52	69.73
 GO:0006518	peptide metabolic process	22	0.56	0.57	7.65	56.97
 GO:0042100	B cell proliferation	21	0.87	0.76	9.39	50.60
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	20	0.93	0.93	9.60	734.49
 GO:0042130	negative regulation of T cell proliferation	19	0.78	0.78	9.42	581.93
 GO:0071260	cellular response to mechanical stimulus	19	1.00	0.79	9.63	56.12
+GO:0007517	muscle organ development	17	0.78	0.64	8.75	27.68
 GO:0033273	response to vitamin	17	0.67	0.66	8.44	22.82
 GO:0006026	aminoglycan catabolic process	17	0.72	0.65	8.97	179.43
 GO:0006024	glycosaminoglycan biosynthetic process	14	0.76	0.70	9.16	237.50
@@ -70,6 +71,7 @@ GO:0030512	negative regulation of transforming growth factor beta receptor signa
 GO:0034440	lipid oxidation	10	0.74	0.69	8.94	52.68
 GO:0043488	regulation of mRNA stability	10	0.74	0.77	9.24	282.23
 GO:0051926	negative regulation of calcium ion transport	9	0.71	0.73	8.89	69.46
+GO:0001890	placenta development	8	1.00	0.75	9.63	49.87
 GO:0035307	positive regulation of protein dephosphorylation	8	0.81	0.80	9.46	660.90
 GO:1990138	neuron projection extension	8	0.81	0.66	9.22	50.60
 GO:0042136	neurotransmitter biosynthetic process	8	0.70	0.64	8.67	62.16

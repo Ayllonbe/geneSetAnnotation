@@ -1,10 +1,8 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0009987	cellular process	226	0.09	0.05	0.84	3.37
-GO:0009987	cellular process	226	0.09	0.05	0.84	3.37
 GO:0050794	regulation of cellular process	204	0.12	0.26	2.47	7.96
 GO:0045995	regulation of embryonic development	3	0.50	0.54	6.89	27.38
-GO:0050794	regulation of cellular process	204	0.12	0.26	2.47	7.96
-GO:0045995	regulation of embryonic development	3	0.50	0.54	6.89	27.38
+GO:0032467	positive regulation of cytokinesis	5	0.70	0.70	9.02	142.06
 GO:0090304	nucleic acid metabolic process	81	0.35	0.46	5.97	111.15
 GO:0046034	ATP metabolic process	3	0.65	0.74	9.11	1262.34
 GO:0006464	cellular protein modification process	45	0.34	0.49	5.84	147.03
@@ -21,5 +19,4 @@ GO:1901700	response to oxygen-containing compound	37	0.39	0.39	5.14	9.28
 GO:0050871	positive regulation of B cell activation	15	0.74	0.75	9.12	160.33
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	7	1.00	0.79	9.63	42.20
 GO:0019724	B cell mediated immunity	3	0.73	0.66	8.88	29.49
-GO:0070301	cellular response to hydrogen peroxide	2	1.00	0.82	9.63	361.03
 GO:0008272	sulfate transport	1	0.87	0.78	9.41	30.35

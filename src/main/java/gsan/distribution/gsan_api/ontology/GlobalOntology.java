@@ -880,14 +880,15 @@ public class GlobalOntology {
 	public void AggregateIC() {
 
 		for(String t : this.allStringtoInfoTerm.keySet()) {
+			
 			InfoTerm it = this.allStringtoInfoTerm.get(t);
-
+			if(it.genome.size()>0) {
 			if(!it.id.equals(it.top)) {
-				it.sValueIC = 1./(1. + Math.exp(-1./it.ICs.get(3)));
+				it.sValueIC = 1./(1. + Math.exp(-1./it.ICs.get(4)));
 			}else {
 				it.sValueIC = 1;
 
-			}
+			}}
 
 
 
@@ -898,11 +899,13 @@ public class GlobalOntology {
 
 		for(String t : this.allStringtoInfoTerm.keySet()) {
 			InfoTerm it = this.allStringtoInfoTerm.get(t);
+			if(it.genome.size()>0) {
 			double aic = it.sValueIC;
 			for(String anc : it.is_a.ancestors) {
 				aic = aic + this.allStringtoInfoTerm.get(anc).sValueIC;
 			}
 			it.aggregateIC = aic;
+		}
 		}
 
 		//		System.exit(0);

@@ -14,6 +14,7 @@ GO:0033554	cellular response to stress	209	0.44	0.42	6.05	25.47
 GO:0009968	negative regulation of signal transduction	204	0.44	0.54	6.68	140.65
 GO:0001934	positive regulation of protein phosphorylation	200	0.58	0.69	8.60	663.11
 GO:0016477	cell migration	197	0.47	0.48	6.31	17.13
+GO:0045597	positive regulation of cell differentiation	177	0.45	0.51	6.57	82.53
 GO:0051707	response to other organism	166	0.42	0.46	6.41	24.63
 GO:0051345	positive regulation of hydrolase activity	152	0.57	0.57	7.42	32.99
 GO:0045087	innate immune response	151	0.68	0.59	8.16	26.47
@@ -30,14 +31,13 @@ GO:0051259	protein complex oligomerization	78	0.78	0.68	9.09	40.42
 GO:0030595	leukocyte chemotaxis	69	0.69	0.67	8.77	62.06
 GO:0050714	positive regulation of protein secretion	63	0.65	0.70	8.73	381.48
 GO:0071222	cellular response to lipopolysaccharide	57	1.00	0.82	9.63	238.00
-GO:1904018	positive regulation of vasculature development	54	0.70	0.67	8.67	85.86
 GO:0051924	regulation of calcium ion transport	51	0.59	0.65	7.94	18.44
 GO:0048608	reproductive structure development	50	0.61	0.50	7.37	31.35
+GO:0045766	positive regulation of angiogenesis	47	0.81	0.76	9.30	134.49
 GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	44	0.62	0.66	8.48	139.22
 GO:0050729	positive regulation of inflammatory response	44	0.66	0.68	8.59	125.85
 GO:0008016	regulation of heart contraction	34	0.57	0.61	7.59	16.15
 GO:0046651	lymphocyte proliferation	32	0.69	0.63	8.73	28.26
-GO:0045639	positive regulation of myeloid cell differentiation	32	0.73	0.72	9.19	278.21
 GO:0045582	positive regulation of T cell differentiation	31	0.70	0.75	9.32	861.16
 GO:0050672	negative regulation of lymphocyte proliferation	27	0.74	0.75	9.27	262.95
 GO:0042391	regulation of membrane potential	27	0.52	0.46	6.44	8.64
@@ -65,6 +65,7 @@ GO:0035162	embryonic hemopoiesis	6	0.93	0.79	9.49	36.11
 GO:0032469	endoplasmic reticulum calcium ion homeostasis	5	0.83	0.83	9.53	288.69
 GO:0002230	positive regulation of defense response to virus by host	5	1.00	0.88	9.63	73.08
 GO:0051712	positive regulation of killing of cells of other organism	4	0.72	0.65	9.05	72.12
+GO:1901844	regulation of cell communication by electrical coupling involved in cardiac conduction	3	0.89	0.82	9.47	47.34
 GO:0048170	positive regulation of long-term neuronal synaptic plasticity	3	1.00	0.92	9.63	315.95
 GO:0031274	positive regulation of pseudopodium assembly	3	0.93	0.86	9.57	200.71
 GO:0035234	ectopic germ cell programmed cell death	3	1.00	0.79	9.63	49.33

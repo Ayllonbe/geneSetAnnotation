@@ -24,13 +24,10 @@ GO:0044255	cellular lipid metabolic process	200	0.38	0.44	5.89	38.02
 GO:0051345	positive regulation of hydrolase activity	181	0.57	0.57	7.42	32.99
 GO:0008284	positive regulation of cell proliferation	171	0.56	0.57	7.27	43.45
 GO:0043065	positive regulation of apoptotic process	160	0.56	0.63	7.81	80.91
-GO:0033993	response to lipid	162	0.53	0.51	6.86	13.32
-GO:0014070	response to organic cyclic compound	148	0.45	0.47	5.96	13.32
 GO:0008285	negative regulation of cell proliferation	141	0.56	0.57	7.31	43.61
 GO:0045596	negative regulation of cell differentiation	129	0.44	0.51	6.50	82.79
 GO:0001933	negative regulation of protein phosphorylation	113	0.61	0.70	8.76	664.69
 GO:0045087	innate immune response	108	0.68	0.59	8.16	26.47
-GO:0003006	developmental process involved in reproduction	103	0.43	0.34	5.07	14.49
 GO:0006897	endocytosis	100	0.63	0.61	8.09	26.36
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	94	0.76	0.78	9.31	348.36
 GO:0071345	cellular response to cytokine stimulus	87	0.67	0.63	8.21	61.60
@@ -41,6 +38,7 @@ GO:0030100	regulation of endocytosis	65	0.59	0.62	8.15	44.91
 GO:1903362	regulation of cellular protein catabolic process	56	0.62	0.66	8.74	175.05
 GO:0050714	positive regulation of protein secretion	55	0.65	0.70	8.73	381.48
 GO:1901991	negative regulation of mitotic cell cycle phase transition	51	0.70	0.72	8.97	187.67
+GO:0048545	response to steroid hormone	48	0.69	0.64	8.94	60.25
 GO:0008654	phospholipid biosynthetic process	47	0.61	0.63	8.32	240.37
 GO:0006412	translation	39	0.87	0.78	9.51	402.56
 GO:0045665	negative regulation of neuron differentiation	39	0.62	0.68	8.73	338.15
@@ -62,6 +60,7 @@ GO:0045814	negative regulation of gene expression, epigenetic	24	0.77	0.73	9.08	
 GO:0009062	fatty acid catabolic process	24	0.68	0.71	8.98	428.64
 GO:0030183	B cell differentiation	23	0.73	0.69	9.02	64.36
 GO:0032481	positive regulation of type I interferon production	20	0.81	0.73	9.26	65.24
+GO:0006687	glycosphingolipid metabolic process	18	0.68	0.69	9.04	147.46
 GO:0006749	glutathione metabolic process	18	0.84	0.74	9.36	147.29
 GO:0001676	long-chain fatty acid metabolic process	26	0.68	0.72	8.87	93.73
 GO:0033559	unsaturated fatty acid metabolic process	17	0.66	0.71	8.83	93.73
@@ -87,10 +86,12 @@ GO:0016973	poly(A)+ mRNA export from nucleus	6	1.00	0.92	9.63	122.05
 GO:0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	6	0.84	0.84	9.47	150.30
 GO:0045684	positive regulation of epidermis development	6	0.77	0.67	9.01	40.22
 GO:0010875	positive regulation of cholesterol efflux	6	1.00	0.90	9.63	184.01
+GO:0070723	response to cholesterol	6	0.93	0.79	9.52	80.92
 GO:0042308	negative regulation of protein import into nucleus	5	0.93	0.86	9.59	779.11
 GO:0032966	negative regulation of collagen biosynthetic process	5	1.00	0.82	9.63	106.40
 GO:0060315	negative regulation of ryanodine-sensitive calcium-release channel activity	5	1.00	0.93	9.63	2557.62
 GO:0042220	response to cocaine	5	0.93	0.79	9.55	106.25
+GO:0016558	protein import into peroxisome matrix	5	1.00	0.93	9.63	631.85
 GO:0043149	stress fiber assembly	4	1.00	0.88	9.63	75.14
 GO:0045019	negative regulation of nitric oxide biosynthetic process	4	1.00	0.88	9.63	660.58
 GO:1901687	glutathione derivative biosynthetic process	4	0.93	0.76	9.56	153.57
@@ -104,6 +105,7 @@ GO:2000320	negative regulation of T-helper 17 cell differentiation	3	0.93	0.93	9
 GO:0043031	negative regulation of macrophage activation	3	0.93	0.82	9.55	126.92
 GO:1904659	glucose transmembrane transport	3	0.84	0.82	9.37	37.51
 GO:1901525	negative regulation of mitophagy	3	0.93	0.86	9.59	765.91
+GO:0046697	decidualization	3	1.00	0.75	9.63	34.68
 GO:0006685	sphingomyelin catabolic process	3	1.00	0.88	9.63	779.44
 GO:0014912	negative regulation of smooth muscle cell migration	3	0.89	0.82	9.51	202.60
 GO:0032466	negative regulation of cytokinesis	3	0.71	0.71	9.02	142.53
@@ -126,7 +128,7 @@ GO:0044721	protein import into peroxisome matrix, substrate release	1	1.00	0.82	
 GO:0090187	positive regulation of pancreatic juice secretion	1	0.87	0.78	9.52	141.80
 GO:1901621	negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning	1	1.00	0.88	9.63	472.81
 GO:0060336	negative regulation of interferon-gamma-mediated signaling pathway	1	1.00	0.90	9.63	644.77
-GO:0006776	vitamin A metabolic process	1	0.93	0.86	9.56	61.69
+GO:0030238	male sex determination	1	0.89	0.70	9.29	21.56
 GO:0051546	keratinocyte migration	1	1.00	0.85	9.63	24.97
 GO:1904637	cellular response to ionomycin	1	1.00	0.85	9.63	445.38
 GO:0090108	positive regulation of high-density lipoprotein particle assembly	1	1.00	0.85	9.63	180.03

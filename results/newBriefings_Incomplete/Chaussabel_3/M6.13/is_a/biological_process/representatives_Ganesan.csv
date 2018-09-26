@@ -88,13 +88,12 @@ GO:0090385	phagosome-lysosome fusion	2	0.93	0.82	9.54	65.81
 GO:0034142	toll-like receptor 4 signaling pathway	2	0.84	0.87	9.49	412.65
 GO:0002315	marginal zone B cell differentiation	2	1.00	0.90	9.63	149.81
 GO:0050853	B cell receptor signaling pathway	2	0.93	0.88	9.58	219.43
-GO:0015807	L-amino acid transport	3	0.60	0.69	8.14	67.63
-GO:0015804	neutral amino acid transport	2	0.62	0.71	8.56	67.63
 GO:0031629	synaptic vesicle fusion to presynaptic active zone membrane	2	1.00	0.88	9.63	97.91
 GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway	2	0.89	0.89	9.56	487.92
 GO:0070498	interleukin-1-mediated signaling pathway	2	1.00	0.85	9.63	30.19
 GO:0010888	negative regulation of lipid storage	2	0.89	0.77	9.43	46.28
 GO:0071276	cellular response to cadmium ion	2	1.00	0.82	9.63	78.50
+GO:0003333	amino acid transmembrane transport	2	0.58	0.68	8.30	195.85
 GO:0046621	negative regulation of organ growth	2	0.81	0.73	9.36	146.93
 GO:0035329	hippo signaling	1	1.00	0.82	9.63	26.43
 GO:0051457	maintenance of protein location in nucleus	1	0.81	0.76	9.29	48.00

@@ -58,6 +58,7 @@ GO:1901652	response to peptide	127	0.62	0.60	8.14	43.80
 GO:0051260	protein homooligomerization	117	0.89	0.77	9.41	42.03
 GO:0001666	response to hypoxia	105	0.81	0.70	9.12	21.16
 GO:0007088	regulation of mitotic nuclear division	92	0.59	0.64	8.17	54.97
+GO:0071363	cellular response to growth factor stimulus	89	0.77	0.67	8.94	60.39
 GO:0016072	rRNA metabolic process	84	0.61	0.68	8.41	117.72
 GO:0060271	cilium assembly	77	0.87	0.76	9.41	137.68
 GO:0010976	positive regulation of neuron projection development	75	0.68	0.73	9.14	493.19
@@ -94,7 +95,6 @@ GO:0002223	stimulatory C-type lectin receptor signaling pathway	26	1.00	0.93	9.6
 GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	25	0.93	0.82	9.56	84.23
 GO:0006336	DNA replication-independent nucleosome assembly	23	0.93	0.84	9.56	163.42
 GO:0007173	epidermal growth factor receptor signaling pathway	23	0.78	0.78	9.04	32.39
-GO:0071560	cellular response to transforming growth factor beta stimulus	21	1.00	0.82	9.63	97.49
 GO:0051402	neuron apoptotic process	21	0.83	0.70	9.02	23.44
 GO:0001523	retinoid metabolic process	20	0.77	0.76	9.19	47.55
 GO:0008344	adult locomotory behavior	20	0.84	0.62	9.16	24.58
@@ -122,7 +122,6 @@ GO:0047497	mitochondrion transport along microtubule	9	0.81	0.78	9.45	156.38
 GO:0007616	long-term memory	9	1.00	0.85	9.63	22.23
 GO:0042462	eye photoreceptor cell development	9	0.79	0.72	9.00	34.93
 GO:0006335	DNA replication-dependent nucleosome assembly	8	1.00	0.88	9.63	163.42
-GO:0036120	cellular response to platelet-derived growth factor stimulus	8	1.00	0.82	9.63	97.49
 GO:0007077	mitotic nuclear envelope disassembly	7	1.00	0.82	9.63	74.08
 GO:0097062	dendritic spine maintenance	7	1.00	0.85	9.63	53.71
 GO:0033151	V(D)J recombination	6	0.84	0.84	9.49	161.93

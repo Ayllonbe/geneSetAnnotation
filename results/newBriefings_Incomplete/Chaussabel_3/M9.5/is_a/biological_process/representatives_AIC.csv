@@ -12,10 +12,12 @@ GO:0065003	protein-containing complex assembly	497	0.45	0.48	6.06	36.47
 GO:0009967	positive regulation of signal transduction	447	0.44	0.54	6.71	140.23
 GO:2000113	negative regulation of cellular macromolecule biosynthetic process	411	0.50	0.60	7.60	369.32
 GO:0006508	proteolysis	386	0.55	0.57	7.34	47.86
+GO:0071310	cellular response to organic substance	374	0.44	0.47	5.95	41.66
 GO:0051130	positive regulation of cellular component organization	370	0.42	0.50	5.95	43.84
 GO:0030154	cell differentiation	367	0.39	0.39	5.18	16.68
 GO:0016310	phosphorylation	353	0.53	0.56	6.88	24.41
 GO:0031401	positive regulation of protein modification process	341	0.51	0.63	7.86	366.05
+GO:0032269	negative regulation of cellular protein metabolic process	333	0.47	0.59	7.45	289.39
 GO:0045944	positive regulation of transcription by RNA polymerase II	328	0.55	0.71	8.36	1463.86
 GO:0009968	negative regulation of signal transduction	323	0.44	0.54	6.68	140.65
 GO:0050776	regulation of immune response	316	0.38	0.44	5.64	22.45
@@ -26,9 +28,7 @@ GO:0001934	positive regulation of protein phosphorylation	268	0.58	0.69	8.60	663
 GO:0045859	regulation of protein kinase activity	247	0.56	0.68	8.33	159.56
 GO:0045597	positive regulation of cell differentiation	240	0.45	0.51	6.57	82.53
 GO:0030334	regulation of cell migration	231	0.48	0.56	7.11	36.74
-GO:0043065	positive regulation of apoptotic process	211	0.56	0.63	7.81	80.91
 GO:0051347	positive regulation of transferase activity	196	0.57	0.58	7.37	32.95
-GO:0045786	negative regulation of cell cycle	195	0.51	0.54	7.10	42.35
 GO:0050767	regulation of neurogenesis	177	0.47	0.56	7.34	60.46
 GO:0051493	regulation of cytoskeleton organization	174	0.51	0.58	7.03	19.19
 GO:0033674	positive regulation of kinase activity	171	0.61	0.70	8.62	265.90
@@ -41,11 +41,8 @@ GO:0010498	proteasomal protein catabolic process	140	0.73	0.72	9.08	189.71
 GO:0001819	positive regulation of cytokine production	134	0.51	0.54	6.97	44.26
 GO:0006897	endocytosis	130	0.63	0.61	8.09	26.36
 GO:0098662	inorganic cation transmembrane transport	126	0.58	0.64	7.91	76.35
-GO:0000226	microtubule cytoskeleton organization	122	0.58	0.58	7.66	30.31
-GO:0071345	cellular response to cytokine stimulus	121	0.67	0.63	8.21	61.60
 GO:0043547	positive regulation of GTPase activity	120	0.93	0.79	9.52	49.34
 GO:0001558	regulation of cell growth	119	0.58	0.58	7.66	26.25
-GO:0006644	phospholipid metabolic process	118	0.53	0.56	7.60	99.63
 GO:0071396	cellular response to lipid	117	0.60	0.59	7.70	61.75
 GO:0002237	response to molecule of bacterial origin	110	0.69	0.59	8.74	31.75
 GO:0034765	regulation of ion transmembrane transport	101	0.46	0.55	6.68	33.04
@@ -54,13 +51,14 @@ GO:0006874	cellular calcium ion homeostasis	94	0.63	0.71	8.83	287.08
 GO:0002429	immune response-activating cell surface receptor signaling pathway	91	0.74	0.75	9.28	217.35
 GO:0006469	negative regulation of protein kinase activity	85	0.68	0.76	9.22	1097.06
 GO:0050714	positive regulation of protein secretion	78	0.65	0.70	8.73	381.48
-GO:0051495	positive regulation of cytoskeleton organization	77	0.62	0.66	8.29	90.96
+GO:0008654	phospholipid biosynthetic process	70	0.61	0.63	8.32	240.37
 GO:0048812	neuron projection morphogenesis	64	0.65	0.68	8.50	63.00
 GO:0061136	regulation of proteasomal protein catabolic process	59	0.68	0.73	9.06	224.63
 GO:1901605	alpha-amino acid metabolic process	59	0.44	0.57	6.86	80.64
 GO:0001701	in utero embryonic development	57	1.00	0.85	9.63	22.50
 GO:0006816	calcium ion transport	54	0.67	0.71	8.69	35.67
 GO:0010921	regulation of phosphatase activity	53	0.65	0.70	8.68	45.36
+GO:0030833	regulation of actin filament polymerization	52	0.70	0.77	9.22	153.53
 GO:0002576	platelet degranulation	50	1.00	0.88	9.63	39.86
 GO:0016485	protein processing	49	0.65	0.65	8.32	99.81
 GO:0000086	G2/M transition of mitotic cell cycle	46	1.00	0.79	9.63	43.45
@@ -76,10 +74,8 @@ GO:0000281	mitotic cytokinesis	29	0.93	0.76	9.47	28.62
 GO:0006865	amino acid transport	29	0.52	0.64	7.71	64.92
 GO:0070301	cellular response to hydrogen peroxide	28	1.00	0.82	9.63	361.03
 GO:1901992	positive regulation of mitotic cell cycle phase transition	26	0.79	0.77	9.34	187.20
-GO:1903363	negative regulation of cellular protein catabolic process	26	0.74	0.74	9.36	873.23
 GO:0006024	glycosaminoglycan biosynthetic process	26	0.76	0.70	9.16	237.50
 GO:1900182	positive regulation of protein localization to nucleus	25	0.84	0.77	9.37	74.62
-GO:0038095	Fc-epsilon receptor signaling pathway	25	0.93	0.84	9.55	78.48
 GO:0050772	positive regulation of axonogenesis	22	0.74	0.79	9.36	884.01
 GO:1990138	neuron projection extension	20	0.81	0.66	9.22	50.60
 GO:0050710	negative regulation of cytokine secretion	20	0.70	0.74	9.09	549.99
@@ -114,12 +110,10 @@ GO:0006182	cGMP biosynthetic process	5	1.00	0.93	9.63	6128.11
 GO:0030913	paranodal junction assembly	5	1.00	0.82	9.63	88.99
 GO:1900264	positive regulation of DNA-directed DNA polymerase activity	5	1.00	0.92	9.63	1106.25
 GO:0031642	negative regulation of myelination	4	1.00	0.85	9.63	207.09
-GO:0051694	pointed-end actin filament capping	4	1.00	0.96	9.63	827.59
 GO:0060046	regulation of acrosome reaction	4	0.84	0.71	9.34	24.93
 GO:0015851	nucleobase transport	3	0.72	0.65	8.78	29.45
 GO:0006548	histidine catabolic process	3	0.80	0.80	9.44	962.53
 GO:0035544	negative regulation of SNARE complex assembly	3	1.00	0.88	9.63	315.07
-GO:1900004	negative regulation of serine-type endopeptidase activity	3	1.00	0.93	9.63	1126.61
 GO:0032511	late endosome to vacuole transport via multivesicular body sorting pathway	2	0.93	0.82	9.55	124.72
 GO:0030644	cellular chloride ion homeostasis	2	1.00	0.90	9.63	141.60
 GO:1903818	positive regulation of voltage-gated potassium channel activity	2	0.81	0.84	9.51	1257.11
@@ -128,7 +122,6 @@ GO:0010936	negative regulation of macrophage cytokine production	2	1.00	0.88	9.6
 GO:0060444	branching involved in mammary gland duct morphogenesis	2	0.87	0.78	9.37	53.50
 GO:0019227	neuronal action potential propagation	2	1.00	0.82	9.63	26.36
 GO:0016998	cell wall macromolecule catabolic process	2	0.74	0.69	9.04	64.62
-GO:0071374	cellular response to parathyroid hormone stimulus	2	1.00	0.82	9.63	109.38
 GO:0001694	histamine biosynthetic process	1	1.00	0.88	9.63	639.21
 GO:1900194	negative regulation of oocyte maturation	1	0.93	0.86	9.59	599.42
 GO:1905513	negative regulation of short-term synaptic potentiation	1	1.00	0.90	9.63	54.24

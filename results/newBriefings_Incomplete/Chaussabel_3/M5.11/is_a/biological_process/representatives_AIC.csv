@@ -29,6 +29,7 @@ GO:0030335	positive regulation of cell migration	137	0.58	0.64	8.22	157.26
 GO:0006281	DNA repair	135	0.63	0.66	8.78	180.34
 GO:0022604	regulation of cell morphogenesis	134	0.53	0.56	7.35	31.06
 GO:0001819	positive regulation of cytokine production	124	0.51	0.54	6.97	44.26
+GO:1903706	regulation of hemopoiesis	120	0.50	0.54	7.23	38.17
 GO:0032989	cellular component morphogenesis	119	0.56	0.48	7.27	42.57
 GO:0000226	microtubule cytoskeleton organization	118	0.58	0.58	7.66	30.31
 GO:0006875	cellular metal ion homeostasis	114	0.59	0.67	8.36	105.84
@@ -46,7 +47,6 @@ GO:0043409	negative regulation of MAPK cascade	54	0.72	0.78	9.37	1019.28
 GO:0046474	glycerophospholipid biosynthetic process	52	0.66	0.68	8.82	510.21
 GO:0030308	negative regulation of cell growth	51	0.69	0.67	8.67	80.89
 GO:0001701	in utero embryonic development	50	1.00	0.85	9.63	22.50
-GO:0045580	regulation of T cell differentiation	47	0.60	0.67	8.66	131.17
 GO:0060271	cilium assembly	47	0.87	0.76	9.41	137.68
 GO:0016485	protein processing	43	0.65	0.65	8.32	99.81
 GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	41	0.81	0.85	9.56	733.39
@@ -92,15 +92,12 @@ GO:0045429	positive regulation of nitric oxide biosynthetic process	8	1.00	0.88	
 GO:0051894	positive regulation of focal adhesion assembly	8	1.00	0.88	9.63	280.50
 GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	8	1.00	0.92	9.63	581.32
 GO:0061003	positive regulation of dendritic spine morphogenesis	7	1.00	0.95	9.63	1908.97
-GO:1902036	regulation of hematopoietic stem cell differentiation	7	0.89	0.80	9.47	97.62
 GO:0032435	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	7	0.84	0.85	9.52	3784.46
 GO:0050927	positive regulation of positive chemotaxis	6	0.83	0.76	9.42	128.70
-GO:0046475	glycerophospholipid catabolic process	6	0.79	0.74	9.35	589.12
 GO:0007288	sperm axoneme assembly	6	1.00	0.88	9.63	92.78
 GO:0046835	carbohydrate phosphorylation	6	0.93	0.79	9.54	67.31
 GO:1903671	negative regulation of sprouting angiogenesis	6	0.87	0.83	9.46	200.37
 GO:0046855	inositol phosphate dephosphorylation	6	0.93	0.84	9.59	336.66
-GO:0061087	positive regulation of histone H3-K27 methylation	5	0.93	0.90	9.60	804.04
 GO:0007567	parturition	4	1.00	0.70	9.63	32.81
 GO:0006111	regulation of gluconeogenesis	4	0.83	0.79	9.42	92.66
 GO:1903243	negative regulation of cardiac muscle hypertrophy in response to stress	4	1.00	0.90	9.63	308.05

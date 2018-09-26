@@ -1,15 +1,15 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	1330	0.12	0.26	2.47	7.96
 GO:0048522	positive regulation of cellular process	822	0.24	0.37	3.90	23.85
-GO:0009966	regulation of signal transduction	536	0.33	0.45	5.35	37.59
 GO:0009893	positive regulation of metabolic process	524	0.32	0.41	4.71	22.55
+GO:0010951	negative regulation of endopeptidase activity	52	0.77	0.80	9.45	500.32
+GO:0009966	regulation of signal transduction	536	0.33	0.45	5.35	37.59
 GO:0019538	protein metabolic process	461	0.31	0.41	4.91	44.77
 GO:0010033	response to organic substance	412	0.35	0.37	4.75	9.28
 GO:0006355	regulation of transcription, DNA-templated	406	0.40	0.60	6.84	245.35
-GO:0032268	regulation of cellular protein metabolic process	394	0.37	0.51	6.13	70.76
 GO:0051128	regulation of cellular component organization	371	0.30	0.40	4.57	12.04
 GO:0070887	cellular response to chemical stimulus	331	0.40	0.40	5.31	25.21
 GO:0006464	cellular protein modification process	331	0.34	0.49	5.84	147.03
+GO:0016192	vesicle-mediated transport	315	0.52	0.51	6.57	10.99
 GO:0009967	positive regulation of signal transduction	311	0.44	0.54	6.71	140.23
 GO:0050776	regulation of immune response	310	0.38	0.44	5.64	22.45
 GO:0035556	intracellular signal transduction	287	0.51	0.55	6.92	23.17
@@ -36,7 +36,6 @@ GO:1903980	positive regulation of microglial cell activation	4	1.00	0.88	9.63	15
 GO:0043269	regulation of ion transport	119	0.41	0.50	6.00	14.08
 GO:0019752	carboxylic acid metabolic process	113	0.32	0.45	5.31	42.50
 GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	106	0.58	0.64	7.56	28.11
-GO:0006897	endocytosis	94	0.63	0.61	8.09	26.36
 GO:0070663	regulation of leukocyte proliferation	84	0.61	0.59	7.87	15.51
 GO:1903827	regulation of cellular protein localization	81	0.48	0.53	6.86	25.72
 GO:0007204	positive regulation of cytosolic calcium ion concentration	73	0.68	0.77	9.10	290.30
@@ -65,7 +64,6 @@ GO:0006665	sphingolipid metabolic process	16	0.61	0.63	8.44	65.68
 GO:0002755	MyD88-dependent toll-like receptor signaling pathway	15	0.89	0.89	9.55	412.65
 GO:0030316	osteoclast differentiation	14	0.93	0.79	9.51	47.07
 GO:0030218	erythrocyte differentiation	14	0.84	0.71	9.12	22.68
-GO:0006888	ER to Golgi vesicle-mediated transport	14	1.00	0.82	9.63	49.13
 GO:0043388	positive regulation of DNA binding	12	0.71	0.64	8.58	32.53
 GO:0016064	immunoglobulin mediated immune response	12	0.76	0.70	9.04	30.58
 GO:0090322	regulation of superoxide metabolic process	12	0.78	0.71	9.18	28.86
@@ -80,6 +78,7 @@ GO:0045780	positive regulation of bone resorption	8	1.00	0.85	9.63	82.90
 GO:0044130	negative regulation of growth of symbiont in host	7	1.00	0.85	9.63	102.69
 GO:0014003	oligodendrocyte development	6	1.00	0.79	9.63	34.10
 GO:0050702	interleukin-1 beta secretion	5	1.00	0.93	9.63	137.76
+GO:0060397	JAK-STAT cascade involved in growth hormone signaling pathway	5	1.00	0.88	9.63	26.43
 GO:1903206	negative regulation of hydrogen peroxide-induced cell death	5	0.84	0.82	9.59	500.08
 GO:0038063	collagen-activated tyrosine kinase receptor signaling pathway	4	1.00	0.88	9.63	57.50
 GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway	4	1.00	0.95	9.63	412.65

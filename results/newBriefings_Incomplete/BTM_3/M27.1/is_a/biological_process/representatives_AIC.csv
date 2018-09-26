@@ -16,19 +16,20 @@ GO:0006464	cellular protein modification process	123	0.34	0.49	5.84	147.03
 GO:0031328	positive regulation of cellular biosynthetic process	115	0.41	0.53	6.32	170.14
 GO:0042119	neutrophil activation	112	0.89	0.77	9.49	20.95
 GO:0016477	cell migration	108	0.47	0.48	6.31	17.13
-GO:0006955	immune response	107	0.54	0.40	6.57	12.45
 GO:0006996	organelle organization	105	0.39	0.39	5.17	14.95
 GO:1902533	positive regulation of intracellular signal transduction	103	0.55	0.63	7.95	189.48
 GO:1901701	cellular response to oxygen-containing compound	102	0.47	0.48	6.19	42.34
 GO:0051707	response to other organism	84	0.42	0.46	6.41	24.63
 GO:0001817	regulation of cytokine production	80	0.40	0.45	5.78	11.79
 GO:0010629	negative regulation of gene expression	79	0.47	0.56	6.74	59.05
+GO:0045087	innate immune response	78	0.68	0.59	8.16	26.47
 GO:0051130	positive regulation of cellular component organization	78	0.42	0.50	5.95	43.84
 GO:0043066	negative regulation of apoptotic process	78	0.56	0.63	7.79	81.07
 GO:0006874	cellular calcium ion homeostasis	62	0.63	0.71	8.83	287.08
 GO:0051345	positive regulation of hydrolase activity	59	0.57	0.57	7.42	32.99
 GO:0043065	positive regulation of apoptotic process	53	0.56	0.63	7.81	80.91
 GO:0022409	positive regulation of cell-cell adhesion	47	0.59	0.59	7.66	36.23
+GO:0045596	negative regulation of cell differentiation	45	0.44	0.51	6.50	82.79
 GO:0014911	positive regulation of smooth muscle cell migration	6	0.89	0.82	9.51	201.78
 GO:0002685	regulation of leukocyte migration	38	0.56	0.63	8.17	50.83
 GO:0071219	cellular response to molecule of bacterial origin	42	0.80	0.69	9.25	59.35
@@ -47,19 +48,19 @@ GO:0002702	positive regulation of production of molecular mediator of immune res
 GO:0046883	regulation of hormone secretion	12	0.53	0.62	7.77	67.74
 GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	9	0.63	0.67	8.58	139.71
 GO:0051262	protein tetramerization	9	0.89	0.77	9.41	42.03
-GO:0045661	regulation of myoblast differentiation	7	0.83	0.70	9.34	27.05
 GO:0046632	alpha-beta T cell differentiation	6	0.71	0.71	9.05	90.59
 GO:0030816	positive regulation of cAMP metabolic process	6	0.83	0.83	9.53	1396.50
 GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	6	1.00	0.85	9.63	147.29
 GO:0045069	regulation of viral genome replication	4	0.78	0.74	9.09	18.47
 GO:0034605	cellular response to heat	4	0.84	0.71	9.26	50.43
 GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	4	1.00	0.93	9.63	645.24
-GO:1901739	regulation of myoblast fusion	4	0.89	0.82	9.47	64.32
 GO:0050482	arachidonic acid secretion	3	1.00	0.95	9.63	224.86
 GO:0031394	positive regulation of prostaglandin biosynthetic process	3	0.93	0.88	9.59	954.14
+GO:0002467	germinal center formation	3	1.00	0.79	9.63	29.46
 GO:0019064	fusion of virus membrane with host plasma membrane	3	0.93	0.82	9.54	56.73
 GO:0045672	positive regulation of osteoclast differentiation	3	0.93	0.86	9.59	840.78
 GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	3	0.77	0.80	9.41	305.77
+GO:1901741	positive regulation of myoblast fusion	3	1.00	0.90	9.63	353.20
 GO:0001780	neutrophil homeostasis	2	1.00	0.82	9.63	41.67
 GO:1905563	negative regulation of vascular endothelial cell proliferation	2	1.00	0.88	9.63	108.35
 GO:0045627	positive regulation of T-helper 1 cell differentiation	1	1.00	0.96	9.63	2605.16

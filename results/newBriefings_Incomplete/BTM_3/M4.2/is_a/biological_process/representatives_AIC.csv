@@ -5,12 +5,11 @@ GO:0007165	signal transduction	861	0.36	0.43	5.06	19.43
 GO:0016043	cellular component organization	683	0.28	0.26	3.74	11.45
 GO:0006355	regulation of transcription, DNA-templated	467	0.40	0.60	6.84	245.35
 GO:0051128	regulation of cellular component organization	427	0.30	0.40	4.57	12.04
-GO:1902531	regulation of intracellular signal transduction	383	0.45	0.55	6.77	41.85
-GO:0090263	positive regulation of canonical Wnt signaling pathway	18	0.83	0.79	9.42	236.53
 GO:0006464	cellular protein modification process	384	0.34	0.49	5.84	147.03
+GO:1902531	regulation of intracellular signal transduction	383	0.45	0.55	6.77	41.85
 GO:0006259	DNA metabolic process	138	0.45	0.55	7.12	145.26
 GO:0034645	cellular macromolecule biosynthetic process	298	0.47	0.53	6.91	102.76
-GO:0031399	regulation of protein modification process	333	0.41	0.56	6.69	72.96
+GO:0009967	positive regulation of signal transduction	338	0.44	0.54	6.71	140.23
 GO:0043933	protein-containing complex subunit organization	275	0.43	0.41	5.44	14.95
 GO:0008284	positive regulation of cell proliferation	263	0.56	0.57	7.27	43.45
 GO:0031401	positive regulation of protein modification process	243	0.51	0.63	7.86	366.05
@@ -24,7 +23,7 @@ GO:0015031	protein transport	146	0.48	0.59	6.99	54.46
 GO:0043065	positive regulation of apoptotic process	142	0.56	0.63	7.81	80.91
 GO:0032989	cellular component morphogenesis	97	0.56	0.48	7.27	42.57
 GO:0051276	chromosome organization	97	0.55	0.52	6.96	18.35
-GO:0045664	regulation of neuron differentiation	94	0.51	0.60	7.72	62.26
+GO:0044772	mitotic cell cycle phase transition	74	0.84	0.67	9.04	28.43
 GO:0051962	positive regulation of nervous system development	74	0.56	0.60	7.74	86.11
 GO:0090068	positive regulation of cell cycle process	73	0.54	0.59	7.58	61.43
 GO:0051640	organelle localization	63	0.49	0.45	6.08	7.87
@@ -33,9 +32,11 @@ GO:0045930	negative regulation of mitotic cell cycle	62	0.58	0.61	7.84	61.24
 GO:0033365	protein localization to organelle	58	0.50	0.54	7.01	29.83
 GO:0000226	microtubule cytoskeleton organization	57	0.58	0.58	7.66	30.31
 GO:0022412	cellular process involved in reproduction in multicellular organism	43	0.53	0.39	6.04	15.42
+GO:0045665	negative regulation of neuron differentiation	39	0.62	0.68	8.73	338.15
 GO:1903046	meiotic cell cycle process	38	0.49	0.44	6.09	19.36
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	36	0.76	0.78	9.31	348.36
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	31	1.00	0.79	9.63	42.20
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	30	0.79	0.83	9.47	340.69
 GO:0032091	negative regulation of protein binding	25	0.70	0.64	8.48	32.72
 GO:0070301	cellular response to hydrogen peroxide	23	1.00	0.82	9.63	361.03
 GO:0072422	signal transduction involved in DNA damage checkpoint	23	0.80	0.77	9.45	87.74
@@ -54,7 +55,6 @@ GO:1990138	neuron projection extension	10	0.81	0.66	9.22	50.60
 GO:1902751	positive regulation of cell cycle G2/M phase transition	9	0.84	0.80	9.42	106.37
 GO:0007094	mitotic spindle assembly checkpoint	7	1.00	0.96	9.63	1801.80
 GO:0010569	regulation of double-strand break repair via homologous recombination	6	0.84	0.82	9.52	184.48
-GO:0007063	regulation of sister chromatid cohesion	6	0.63	0.69	8.69	54.94
 GO:0007077	mitotic nuclear envelope disassembly	6	1.00	0.82	9.63	74.08
 GO:0070830	bicellular tight junction assembly	6	1.00	0.82	9.63	56.14
 GO:0045835	negative regulation of meiotic nuclear division	5	0.72	0.74	9.27	325.60
@@ -62,6 +62,9 @@ GO:0007127	meiosis I	5	0.87	0.78	9.41	72.31
 GO:0040001	establishment of mitotic spindle localization	4	0.89	0.80	9.58	138.62
 GO:0000915	actomyosin contractile ring assembly	3	0.93	0.84	9.57	135.17
 GO:0031915	positive regulation of synaptic plasticity	3	0.87	0.81	9.45	41.66
+GO:1904667	negative regulation of ubiquitin protein ligase activity	2	1.00	0.95	9.63	755.45
+GO:0046785	microtubule polymerization	2	1.00	0.85	9.63	97.27
+GO:0045875	negative regulation of sister chromatid cohesion	1	0.74	0.76	9.31	314.67
 GO:1900195	positive regulation of oocyte maturation	1	0.93	0.86	9.59	598.41
 GO:0072383	plus-end-directed vesicle transport along microtubule	1	0.93	0.86	9.58	265.62
 GO:0051661	maintenance of centrosome location	1	1.00	0.82	9.63	46.02

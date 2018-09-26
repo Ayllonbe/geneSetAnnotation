@@ -1,32 +1,36 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
-GO:0031323	regulation of cellular metabolic process	807	0.22	0.36	4.01	22.77
 GO:0007166	cell surface receptor signaling pathway	577	0.43	0.51	5.91	23.17
-GO:0009966	regulation of signal transduction	575	0.33	0.45	5.35	37.59
-GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
-GO:0042127	regulation of cell proliferation	358	0.45	0.48	6.03	12.04
 GO:0006355	regulation of transcription, DNA-templated	448	0.40	0.60	6.84	245.35
-GO:2000026	regulation of multicellular organismal development	392	0.29	0.39	4.73	23.09
+GO:0042127	regulation of cell proliferation	358	0.45	0.48	6.03	12.04
 GO:0016192	vesicle-mediated transport	344	0.52	0.51	6.57	10.99
-GO:0051241	negative regulation of multicellular organismal process	245	0.35	0.42	4.99	23.69
-GO:0001819	positive regulation of cytokine production	147	0.51	0.54	6.97	44.26
-GO:0071310	cellular response to organic substance	311	0.44	0.47	5.95	41.66
-GO:1901654	response to ketone	47	0.60	0.55	7.63	27.32
+GO:0009891	positive regulation of biosynthetic process	339	0.40	0.49	5.65	38.82
 GO:0035556	intracellular signal transduction	311	0.51	0.55	6.92	23.17
-GO:0080134	regulation of response to stress	304	0.35	0.42	5.03	11.65
 GO:0042981	regulation of apoptotic process	301	0.45	0.55	6.60	16.23
-GO:0043207	response to external biotic stimulus	252	0.41	0.40	5.91	16.64
-GO:0042592	homeostatic process	241	0.45	0.42	5.70	8.64
+GO:0010469	regulation of signaling receptor activity	124	0.59	0.62	7.95	48.62
+GO:1902533	positive regulation of intracellular signal transduction	231	0.55	0.63	7.95	189.48
+GO:0051241	negative regulation of multicellular organismal process	245	0.35	0.42	4.99	23.69
+GO:0033137	negative regulation of peptidyl-serine phosphorylation	4	0.89	0.86	9.56	780.33
+GO:0031401	positive regulation of protein modification process	234	0.51	0.63	7.86	366.05
+GO:0009968	negative regulation of signal transduction	218	0.44	0.54	6.68	140.65
+GO:0031347	regulation of defense response	203	0.40	0.49	5.73	14.14
+GO:0007186	G-protein coupled receptor signaling pathway	198	0.55	0.57	7.20	23.17
+GO:0001818	negative regulation of cytokine production	81	0.51	0.55	7.03	44.36
+GO:0001819	positive regulation of cytokine production	147	0.51	0.54	6.97	44.26
 GO:0042119	neutrophil activation	190	0.89	0.77	9.49	20.95
+GO:0014070	response to organic cyclic compound	163	0.45	0.47	5.96	13.32
 GO:0051345	positive regulation of hydrolase activity	161	0.57	0.57	7.42	32.99
 GO:0002689	negative regulation of leukocyte chemotaxis	8	0.76	0.78	9.36	424.86
 GO:0030335	positive regulation of cell migration	145	0.58	0.64	8.22	157.26
-GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	6	0.77	0.80	9.41	305.77
+GO:0071363	cellular response to growth factor stimulus	54	0.77	0.67	8.94	60.39
+GO:0071345	cellular response to cytokine stimulus	97	0.67	0.63	8.21	61.60
+GO:0050863	regulation of T cell activation	128	0.52	0.61	7.60	29.19
+GO:0032496	response to lipopolysaccharide	117	0.89	0.74	9.45	64.41
 GO:0022409	positive regulation of cell-cell adhesion	110	0.59	0.59	7.66	36.23
 GO:0006874	cellular calcium ion homeostasis	106	0.63	0.71	8.83	287.08
 GO:0050708	regulation of protein secretion	105	0.54	0.62	7.86	96.15
-GO:0002699	positive regulation of immune effector process	85	0.53	0.56	7.19	39.11
-GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	15	0.63	0.67	8.58	139.71
+GO:0045664	regulation of neuron differentiation	90	0.51	0.60	7.72	62.26
+GO:0009615	response to virus	89	0.74	0.66	8.80	27.27
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	70	0.52	0.58	7.50	27.23
 GO:0051924	regulation of calcium ion transport	55	0.59	0.65	7.94	18.44
 GO:0050852	T cell receptor signaling pathway	53	1.00	0.92	9.63	219.43
 GO:0051260	protein homooligomerization	53	0.89	0.77	9.41	42.03
@@ -34,30 +38,42 @@ GO:1903522	regulation of blood circulation	49	0.54	0.56	7.23	14.36
 GO:0050804	modulation of chemical synaptic transmission	48	0.52	0.58	7.24	27.32
 GO:0030593	neutrophil chemotaxis	45	1.00	0.90	9.63	130.30
 GO:0070098	chemokine-mediated signaling pathway	44	0.73	0.72	9.00	30.19
-GO:0090257	regulation of muscle system process	43	0.52	0.55	7.00	14.36
 GO:0006816	calcium ion transport	43	0.67	0.71	8.69	35.67
 GO:0016579	protein deubiquitination	36	0.73	0.76	9.15	202.60
-GO:0050792	regulation of viral process	35	0.60	0.59	7.74	14.20
+GO:0002702	positive regulation of production of molecular mediator of immune response	30	0.64	0.65	8.30	57.84
 GO:0048247	lymphocyte chemotaxis	25	0.77	0.73	9.30	94.38
 GO:0002548	monocyte chemotaxis	23	1.00	0.85	9.63	125.46
+GO:0007200	phospholipase C-activating G-protein coupled receptor signaling pathway	22	0.78	0.71	8.87	26.98
 GO:0051291	protein heterooligomerization	22	0.89	0.77	9.41	42.03
+GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	21	0.93	0.93	9.60	734.49
 GO:0051262	protein tetramerization	20	0.89	0.77	9.41	42.03
 GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	19	0.78	0.78	9.25	56.87
+GO:0030814	regulation of cAMP metabolic process	19	0.71	0.75	9.25	212.56
+GO:0045069	regulation of viral genome replication	17	0.78	0.74	9.09	18.47
+GO:0006940	regulation of smooth muscle contraction	16	0.65	0.68	8.36	17.35
 GO:0097755	positive regulation of blood vessel diameter	14	0.75	0.73	9.07	39.68
+GO:0030194	positive regulation of blood coagulation	12	0.77	0.76	9.34	205.45
 GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
 GO:0002407	dendritic cell chemotaxis	11	0.87	0.78	9.49	93.28
 GO:0048245	eosinophil chemotaxis	9	1.00	0.90	9.63	130.30
+GO:0030501	positive regulation of bone mineralization	8	0.93	0.82	9.56	171.86
 GO:0050873	brown fat cell differentiation	8	1.00	0.79	9.63	21.76
+GO:1904646	cellular response to amyloid-beta	8	1.00	0.85	9.63	273.93
 GO:0007205	protein kinase C-activating G-protein coupled receptor signaling pathway	7	1.00	0.82	9.63	26.98
 GO:0016239	positive regulation of macroautophagy	7	0.77	0.76	9.24	266.07
 GO:0048246	macrophage chemotaxis	7	1.00	0.88	9.63	95.92
+GO:0048873	homeostasis of number of cells within a tissue	6	0.89	0.77	9.38	26.75
+GO:0071379	cellular response to prostaglandin stimulus	6	0.84	0.77	9.45	362.48
 GO:0070493	thrombin-activated receptor signaling pathway	5	1.00	0.82	9.63	26.98
 GO:0061028	establishment of endothelial barrier	5	0.89	0.77	9.41	35.45
 GO:0045217	cell-cell junction maintenance	5	0.87	0.72	9.31	51.61
+GO:0031649	heat generation	4	0.93	0.79	9.49	21.01
 GO:0060155	platelet dense granule organization	3	1.00	0.82	9.63	22.86
 GO:0046085	adenosine metabolic process	3	0.87	0.83	9.55	443.47
+GO:0043922	negative regulation by host of viral transcription	3	1.00	0.93	9.63	272.38
 GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation	2	1.00	0.90	9.63	91.12
 GO:0006198	cAMP catabolic process	2	1.00	0.93	9.63	5918.16
+GO:1901898	negative regulation of relaxation of cardiac muscle	2	1.00	0.88	9.63	64.74
 GO:0048016	inositol phosphate-mediated signaling	2	0.93	0.82	9.51	27.81
 GO:0086024	adenylate cyclase-activating adrenergic receptor signaling pathway involved in positive regulation of heart rate	1	1.00	0.96	9.63	212.34
 GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation	1	1.00	0.90	9.63	210.75

@@ -1,5 +1,6 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	41	0.12	0.26	2.47	7.96
+GO:0048522	positive regulation of cellular process	31	0.24	0.37	3.90	23.85
+GO:0048523	negative regulation of cellular process	24	0.24	0.37	3.90	23.93
 GO:0007165	signal transduction	20	0.36	0.43	5.06	19.43
 GO:0009966	regulation of signal transduction	17	0.33	0.45	5.35	37.59
 GO:0006355	regulation of transcription, DNA-templated	17	0.40	0.60	6.84	245.35
@@ -15,7 +16,6 @@ GO:0048608	reproductive structure development	3	0.61	0.50	7.37	31.35
 GO:0050710	negative regulation of cytokine secretion	1	0.70	0.74	9.09	549.99
 GO:0046597	negative regulation of viral entry into host cell	1	0.93	0.84	9.55	84.95
 GO:0045581	negative regulation of T cell differentiation	1	0.70	0.75	9.32	878.99
-GO:0045636	positive regulation of melanocyte differentiation	1	0.89	0.80	9.50	190.70
 GO:0007565	female pregnancy	1	1.00	0.70	9.63	32.81
 GO:2000552	negative regulation of T-helper 2 cell cytokine production	1	1.00	0.92	9.63	875.75
 GO:0001545	primary ovarian follicle growth	1	0.89	0.64	9.29	21.72

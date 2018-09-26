@@ -33,9 +33,8 @@ public class ReadOrganism {
 		Hashtable<String,Set<String>> mod2sym  = new Hashtable<String,Set<String>>();
 
 		for(String line :file) {
-
 			String[] l = line.split(split);
-			if(!l[head.indexOf("Symbol")].equals("")) {
+			if(l.length>2) {
 				if(!mod2sym.containsKey(l[head.indexOf("Module")])) {
 					Set<String> set = new HashSet<String>();
 					set.add(l[head.indexOf("Symbol")]);
@@ -54,6 +53,9 @@ public class ReadOrganism {
 
 
 	}
+	
+	
+	
 	public static ReadOrganism chargeFileXLS(String fileInput) throws IOException {
 
 		List<List<String>> file = ReadFile.readXLS(fileInput);

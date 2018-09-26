@@ -1,11 +1,10 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0009987	cellular process	315	0.09	0.05	0.84	3.37
 GO:0044237	cellular metabolic process	232	0.16	0.21	2.71	13.80
-GO:0050794	regulation of cellular process	219	0.12	0.26	2.47	7.96
+GO:0050789	regulation of biological process	232	0.09	0.17	1.80	4.47
 GO:0032966	negative regulation of collagen biosynthetic process	1	1.00	0.82	9.63	106.40
 GO:0060255	regulation of macromolecule metabolic process	140	0.26	0.38	4.09	10.74
 GO:0008104	protein localization	57	0.40	0.40	5.07	7.46
 GO:0006810	transport	119	0.28	0.34	3.95	7.46
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	6	1.00	0.79	9.63	42.20
-GO:0040014	regulation of multicellular organism growth	3	0.89	0.74	9.38	36.78
 GO:0097746	regulation of blood vessel diameter	1	0.64	0.64	8.47	38.29

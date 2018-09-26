@@ -1,15 +1,15 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0007165	signal transduction	844	0.36	0.43	5.06	19.43
 GO:0009966	regulation of signal transduction	575	0.33	0.45	5.35	37.59
-GO:2000112	regulation of cellular macromolecule biosynthetic process	507	0.36	0.50	5.87	74.82
 GO:0048869	cellular developmental process	450	0.32	0.29	4.16	13.85
+GO:0006355	regulation of transcription, DNA-templated	448	0.40	0.60	6.84	245.35
 GO:0006464	cellular protein modification process	362	0.34	0.49	5.84	147.03
 GO:0042127	regulation of cell proliferation	358	0.45	0.48	6.03	12.04
 GO:0050806	positive regulation of synaptic transmission	23	0.67	0.69	8.68	101.55
 GO:0009967	positive regulation of signal transduction	332	0.44	0.54	6.71	140.23
 GO:0016192	vesicle-mediated transport	344	0.52	0.51	6.57	10.99
+GO:0031328	positive regulation of cellular biosynthetic process	332	0.41	0.53	6.32	170.14
 GO:0071310	cellular response to organic substance	311	0.44	0.47	5.95	41.66
-GO:0050778	positive regulation of immune response	249	0.46	0.52	6.76	78.39
 GO:0042592	homeostatic process	241	0.45	0.42	5.70	8.64
 GO:0001934	positive regulation of protein phosphorylation	213	0.58	0.69	8.60	663.11
 GO:0031398	positive regulation of protein ubiquitination	19	0.75	0.79	9.37	528.45
@@ -22,13 +22,14 @@ GO:0032496	response to lipopolysaccharide	117	0.89	0.74	9.45	64.41
 GO:0022409	positive regulation of cell-cell adhesion	110	0.59	0.59	7.66	36.23
 GO:0050727	regulation of inflammatory response	108	0.53	0.59	7.40	31.59
 GO:0006874	cellular calcium ion homeostasis	106	0.63	0.71	8.83	287.08
-GO:0050708	regulation of protein secretion	105	0.54	0.62	7.86	96.15
 GO:0071417	cellular response to organonitrogen compound	99	0.53	0.56	7.37	128.53
+GO:0045089	positive regulation of innate immune response	93	0.54	0.62	7.78	173.78
 GO:0045664	regulation of neuron differentiation	90	0.51	0.60	7.72	62.26
 GO:0009615	response to virus	89	0.74	0.66	8.80	27.27
 GO:0001818	negative regulation of cytokine production	81	0.51	0.55	7.03	44.36
 GO:0051259	protein complex oligomerization	80	0.78	0.68	9.09	40.42
 GO:0030595	leukocyte chemotaxis	71	0.69	0.67	8.77	62.06
+GO:0050852	T cell receptor signaling pathway	53	1.00	0.92	9.63	219.43
 GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	52	0.62	0.66	8.48	139.22
 GO:0050715	positive regulation of cytokine secretion	50	0.69	0.74	9.07	549.48
 GO:0030217	T cell differentiation	49	0.66	0.65	8.68	65.05
@@ -40,8 +41,8 @@ GO:0097746	regulation of blood vessel diameter	32	0.64	0.64	8.47	38.29
 GO:0051928	positive regulation of calcium ion transport	31	0.70	0.73	8.85	69.31
 GO:0002702	positive regulation of production of molecular mediator of immune response	30	0.64	0.65	8.30	57.84
 GO:0051279	regulation of release of sequestered calcium ion into cytosol	24	0.74	0.76	9.24	148.50
+GO:0050796	regulation of insulin secretion	23	0.83	0.81	9.53	205.48
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	21	0.93	0.93	9.60	734.49
-GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	19	0.78	0.78	9.25	56.87
 GO:0030814	regulation of cAMP metabolic process	19	0.71	0.75	9.25	212.56
 GO:0045069	regulation of viral genome replication	17	0.78	0.74	9.09	18.47
 GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	15	0.63	0.67	8.58	139.71
@@ -51,7 +52,9 @@ GO:0035264	multicellular organism growth	12	1.00	0.70	9.63	22.58
 GO:0032967	positive regulation of collagen biosynthetic process	9	1.00	0.82	9.63	105.22
 GO:0002689	negative regulation of leukocyte chemotaxis	8	0.76	0.78	9.36	424.86
 GO:0030501	positive regulation of bone mineralization	8	0.93	0.82	9.56	171.86
+GO:0086004	regulation of cardiac muscle cell contraction	8	0.71	0.75	9.31	77.56
 GO:0016239	positive regulation of macroautophagy	7	0.77	0.76	9.24	266.07
+GO:0008333	endosome to lysosome transport	6	0.84	0.74	9.37	62.68
 GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation	6	0.77	0.80	9.41	305.77
 GO:0071379	cellular response to prostaglandin stimulus	6	0.84	0.77	9.45	362.48
 GO:0045217	cell-cell junction maintenance	5	0.87	0.72	9.31	51.61
@@ -64,5 +67,7 @@ GO:0099553	trans-synaptic signaling by endocannabinoid, modulating synaptic tran
 GO:0006198	cAMP catabolic process	2	1.00	0.93	9.63	5918.16
 GO:2000969	positive regulation of AMPA receptor activity	2	1.00	0.92	9.63	1126.33
 GO:0040015	negative regulation of multicellular organism growth	2	1.00	0.82	9.63	145.84
+GO:0086024	adenylate cyclase-activating adrenergic receptor signaling pathway involved in positive regulation of heart rate	1	1.00	0.96	9.63	212.34
 GO:0003105	negative regulation of glomerular filtration	1	1.00	0.85	9.63	60.83
 GO:0030238	male sex determination	1	0.89	0.70	9.29	21.56
+GO:1900134	negative regulation of renin secretion into blood stream	1	1.00	0.90	9.63	591.23

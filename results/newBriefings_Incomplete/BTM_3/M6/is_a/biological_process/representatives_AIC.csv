@@ -1,12 +1,11 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	1014	0.12	0.26	2.47	7.96
 GO:0016043	cellular component organization	483	0.28	0.26	3.74	11.45
-GO:2000026	regulation of multicellular organismal development	268	0.29	0.39	4.73	23.09
-GO:0006464	cellular protein modification process	242	0.34	0.49	5.84	147.03
-GO:0031145	anaphase-promoting complex-dependent catabolic process	6	1.00	0.92	9.63	350.56
+GO:0010646	regulation of cell communication	431	0.30	0.40	4.51	12.04
 GO:0032270	positive regulation of cellular protein metabolic process	210	0.47	0.59	7.41	288.49
 GO:0034654	nucleobase-containing compound biosynthetic process	200	0.40	0.49	6.85	317.02
-GO:0048856	anatomical structure development	157	0.33	0.29	3.70	6.46
+GO:0006468	protein phosphorylation	113	0.57	0.64	8.18	177.76
+GO:0070647	protein modification by small protein conjugation or removal	49	0.61	0.66	8.44	151.15
 GO:0033043	regulation of organelle organization	149	0.36	0.47	5.49	15.89
 GO:0043066	negative regulation of apoptotic process	136	0.56	0.63	7.79	81.07
 GO:0032269	negative regulation of cellular protein metabolic process	113	0.47	0.59	7.45	289.39
@@ -14,6 +13,9 @@ GO:0045892	negative regulation of transcription, DNA-templated	101	0.56	0.69	8.5
 GO:0015031	protein transport	97	0.48	0.59	6.99	54.46
 GO:1903047	mitotic cell cycle process	91	0.50	0.45	5.87	11.32
 GO:0010564	regulation of cell cycle process	89	0.42	0.50	6.22	14.24
+GO:0051960	regulation of nervous system development	88	0.45	0.52	6.58	27.38
+GO:0051276	chromosome organization	74	0.55	0.52	6.96	18.35
+GO:0007140	male meiotic nuclear division	4	0.89	0.80	9.47	65.97
 GO:0045786	negative regulation of cell cycle	75	0.51	0.54	7.10	42.35
 GO:0033365	protein localization to organelle	43	0.50	0.54	7.01	29.83
 GO:1903829	positive regulation of cellular protein localization	42	0.60	0.62	7.80	40.87
@@ -21,11 +23,15 @@ GO:0051054	positive regulation of DNA metabolic process	37	0.59	0.65	8.41	301.51
 GO:0000226	microtubule cytoskeleton organization	31	0.58	0.58	7.66	30.31
 GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	22	1.00	0.79	9.63	42.20
 GO:0032091	negative regulation of protein binding	15	0.70	0.64	8.48	32.72
+GO:0007517	muscle organ development	14	0.78	0.64	8.75	27.68
 GO:0034644	cellular response to UV	14	0.80	0.75	9.22	66.19
+GO:0016202	regulation of striated muscle tissue development	13	0.61	0.63	8.27	41.67
 GO:0051303	establishment of chromosome localization	12	0.72	0.65	8.76	43.83
 GO:0034080	CENP-A containing nucleosome assembly	10	1.00	0.90	9.63	242.74
 GO:0010965	regulation of mitotic sister chromatid separation	10	0.71	0.75	9.22	146.86
 GO:0042177	negative regulation of protein catabolic process	8	0.71	0.71	9.11	231.82
+GO:0031145	anaphase-promoting complex-dependent catabolic process	6	1.00	0.92	9.63	350.56
 GO:0045132	meiotic chromosome segregation	5	0.80	0.65	9.09	42.96
 GO:0097711	ciliary basal body-plasma membrane docking	4	1.00	0.79	9.63	21.39
 GO:0071392	cellular response to estradiol stimulus	4	1.00	0.82	9.63	338.17
+GO:0072520	seminiferous tubule development	1	1.00	0.75	9.63	49.56

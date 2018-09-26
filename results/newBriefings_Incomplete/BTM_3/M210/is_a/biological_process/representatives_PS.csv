@@ -11,13 +11,11 @@ GO:0032092	positive regulation of protein binding	12	0.71	0.64	8.53	32.71
 GO:1901164	negative regulation of trophoblast cell migration	2	1.00	0.88	9.63	362.86
 GO:0009966	regulation of signal transduction	355	0.33	0.45	5.35	37.59
 GO:0050789	regulation of biological process	961	0.09	0.17	1.80	4.47
-GO:0003429	growth plate cartilage chondrocyte morphogenesis	3	1.00	0.88	9.63	76.28
-GO:0008152	metabolic process	639	0.15	0.07	1.52	3.37
-GO:0003429	growth plate cartilage chondrocyte morphogenesis	3	1.00	0.88	9.63	76.28
-GO:0008152	metabolic process	639	0.15	0.07	1.52	3.37
 GO:0006958	complement activation, classical pathway	12	1.00	0.88	9.63	171.03
 GO:0070278	extracellular matrix constituent secretion	2	0.87	0.76	9.38	23.10
 GO:0050896	response to stimulus	505	0.25	0.12	2.65	3.37
+GO:0043170	macromolecule metabolic process	465	0.25	0.32	3.46	10.22
+GO:0044248	cellular catabolic process	95	0.31	0.36	4.57	26.23
 GO:0006810	transport	434	0.28	0.34	3.95	7.46
 GO:0016043	cellular component organization	416	0.28	0.26	3.74	11.45
 GO:0002063	chondrocyte development	4	0.89	0.70	9.47	32.15
@@ -36,6 +34,7 @@ GO:0016331	morphogenesis of embryonic epithelium	4	0.74	0.66	8.42	31.67
 GO:0061333	renal tubule morphogenesis	4	0.72	0.68	8.80	32.21
 GO:0030521	androgen receptor signaling pathway	3	0.89	0.82	9.45	54.01
 GO:0034446	substrate adhesion-dependent cell spreading	3	1.00	0.82	9.63	56.23
+GO:0003429	growth plate cartilage chondrocyte morphogenesis	3	1.00	0.88	9.63	76.28
 GO:0048050	post-embryonic eye morphogenesis	2	0.93	0.79	9.51	48.05
 GO:0038063	collagen-activated tyrosine kinase receptor signaling pathway	2	1.00	0.88	9.63	57.50
 GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	2	1.00	0.82	9.63	83.93

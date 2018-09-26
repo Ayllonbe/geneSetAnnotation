@@ -1,76 +1,67 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0007165	signal transduction	137	0.36	0.43	5.06	19.43
 GO:0034641	cellular nitrogen compound metabolic process	102	0.26	0.33	4.23	26.70
+GO:0009966	regulation of signal transduction	94	0.33	0.45	5.35	37.59
 GO:0006355	regulation of transcription, DNA-templated	93	0.40	0.60	6.84	245.35
 GO:0051246	regulation of protein metabolic process	80	0.34	0.46	5.46	41.09
+GO:0034654	nucleobase-containing compound biosynthetic process	70	0.40	0.49	6.85	317.02
 GO:0031324	negative regulation of cellular metabolic process	66	0.34	0.46	5.46	80.35
+GO:0031328	positive regulation of cellular biosynthetic process	63	0.41	0.53	6.32	170.14
 GO:0031328	positive regulation of cellular biosynthetic process	63	0.41	0.53	6.32	170.14
 GO:0090399	replicative senescence	3	1.00	0.75	9.63	26.14
 GO:0030154	cell differentiation	59	0.39	0.39	5.18	16.68
 GO:0009967	positive regulation of signal transduction	55	0.44	0.54	6.71	140.23
 GO:0006464	cellular protein modification process	54	0.34	0.49	5.84	147.03
+GO:2000026	regulation of multicellular organismal development	52	0.29	0.39	4.73	23.09
+GO:0051049	regulation of transport	50	0.31	0.40	4.67	10.45
 GO:0050776	regulation of immune response	48	0.38	0.44	5.64	22.45
 GO:0006796	phosphate-containing compound metabolic process	47	0.36	0.43	5.28	20.85
 GO:0071310	cellular response to organic substance	45	0.44	0.47	5.95	41.66
-GO:0006351	transcription, DNA-templated	44	0.57	0.68	8.45	581.39
+GO:0051240	positive regulation of multicellular organismal process	43	0.35	0.42	4.98	23.60
 GO:0065003	protein-containing complex assembly	38	0.45	0.48	6.06	36.47
 GO:0046903	secretion	36	0.46	0.48	5.79	10.99
 GO:0001934	positive regulation of protein phosphorylation	36	0.58	0.69	8.60	663.11
 GO:0008284	positive regulation of cell proliferation	35	0.56	0.57	7.27	43.45
 GO:0015031	protein transport	34	0.48	0.59	6.99	54.46
-GO:0009968	negative regulation of signal transduction	32	0.44	0.54	6.68	140.65
 GO:0006887	exocytosis	30	0.67	0.66	8.38	37.08
 GO:0045087	innate immune response	28	0.68	0.59	8.16	26.47
 GO:0016477	cell migration	27	0.47	0.48	6.31	17.13
 GO:0043066	negative regulation of apoptotic process	26	0.56	0.63	7.79	81.07
 GO:0002429	immune response-activating cell surface receptor signaling pathway	24	0.74	0.75	9.28	217.35
-GO:0043312	neutrophil degranulation	23	1.00	0.90	9.63	132.80
 GO:0048513	animal organ development	20	0.50	0.45	5.88	11.73
 GO:0050801	ion homeostasis	19	0.50	0.54	6.88	13.14
-GO:0010469	regulation of signaling receptor activity	19	0.59	0.62	7.95	48.62
 GO:0071417	cellular response to organonitrogen compound	19	0.53	0.56	7.37	128.53
 GO:0071214	cellular response to abiotic stimulus	18	0.59	0.54	7.66	24.78
 GO:0001933	negative regulation of protein phosphorylation	15	0.61	0.70	8.76	664.69
-GO:0001819	positive regulation of cytokine production	14	0.51	0.54	6.97	44.26
+GO:0050727	regulation of inflammatory response	14	0.53	0.59	7.40	31.59
 GO:0006811	ion transport	14	0.38	0.44	5.19	10.99
 GO:0009617	response to bacterium	13	0.75	0.67	8.94	27.27
 GO:0001818	negative regulation of cytokine production	13	0.51	0.55	7.03	44.36
-GO:0034765	regulation of ion transmembrane transport	13	0.46	0.55	6.68	33.04
 GO:0006897	endocytosis	13	0.63	0.61	8.09	26.36
 GO:0002237	response to molecule of bacterial origin	12	0.69	0.59	8.74	31.75
 GO:0007204	positive regulation of cytosolic calcium ion concentration	11	0.68	0.77	9.10	290.30
+GO:1901565	organonitrogen compound catabolic process	10	0.39	0.45	5.67	46.28
 GO:0072657	protein localization to membrane	9	0.58	0.58	7.59	29.83
 GO:0045637	regulation of myeloid cell differentiation	9	0.62	0.63	8.47	67.17
-GO:0045765	regulation of angiogenesis	9	0.70	0.68	8.82	44.94
-GO:0008406	gonad development	7	0.87	0.68	9.27	49.87
 GO:0030449	regulation of complement activation	7	0.69	0.72	9.30	245.77
 GO:0051384	response to glucocorticoid	7	0.77	0.73	9.22	62.74
 GO:0030308	negative regulation of cell growth	7	0.69	0.67	8.67	80.89
 GO:0044262	cellular carbohydrate metabolic process	6	0.46	0.48	6.72	38.14
 GO:0050715	positive regulation of cytokine secretion	6	0.69	0.74	9.07	549.48
 GO:0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	5	0.87	0.88	9.56	734.49
-GO:0050729	positive regulation of inflammatory response	5	0.66	0.68	8.59	125.85
 GO:0002687	positive regulation of leukocyte migration	5	0.66	0.71	8.96	238.70
 GO:0033280	response to vitamin D	4	0.93	0.82	9.55	74.56
-GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	4	0.76	0.78	9.31	348.36
 GO:0090181	regulation of cholesterol metabolic process	4	0.83	0.76	9.41	31.92
-GO:0010676	positive regulation of cellular carbohydrate metabolic process	4	0.64	0.67	8.60	172.42
+GO:0098662	inorganic cation transmembrane transport	4	0.58	0.64	7.91	76.35
 GO:0006639	acylglycerol metabolic process	4	0.73	0.69	8.99	83.80
-GO:0071398	cellular response to fatty acid	4	0.74	0.69	9.00	203.00
 GO:0035336	long-chain fatty-acyl-CoA metabolic process	3	0.89	0.80	9.49	93.60
 GO:0032930	positive regulation of superoxide anion generation	3	1.00	0.88	9.63	144.58
 GO:0001774	microglial cell activation	3	0.93	0.79	9.51	31.20
 GO:0007567	parturition	2	1.00	0.70	9.63	32.81
 GO:0045345	positive regulation of MHC class I biosynthetic process	2	1.00	0.85	9.63	147.29
 GO:0010863	positive regulation of phospholipase C activity	2	0.93	0.84	9.55	83.74
-GO:0010867	positive regulation of triglyceride biosynthetic process	2	1.00	0.88	9.63	585.91
-GO:0015939	pantothenate metabolic process	2	0.83	0.76	9.44	165.93
-GO:0043097	pyrimidine nucleoside salvage	2	0.81	0.80	9.51	2649.26
 GO:0090276	regulation of peptide hormone secretion	2	0.65	0.70	8.78	104.37
-GO:0060421	positive regulation of heart growth	2	0.87	0.78	9.51	214.70
 GO:0006337	nucleosome disassembly	2	0.87	0.76	9.39	96.25
-GO:0050728	negative regulation of inflammatory response	2	0.67	0.69	8.71	126.18
-GO:0045987	positive regulation of smooth muscle contraction	2	0.77	0.76	9.08	66.30
 GO:0097186	amelogenesis	2	1.00	0.82	9.63	26.74
 GO:0097746	regulation of blood vessel diameter	2	0.64	0.64	8.47	38.29
 GO:0044247	cellular polysaccharide catabolic process	2	0.68	0.66	8.96	351.19
@@ -78,24 +69,16 @@ GO:0036101	leukotriene B4 catabolic process	2	1.00	0.92	9.63	1158.12
 GO:0048489	synaptic vesicle transport	2	0.77	0.73	9.29	108.01
 GO:1902943	positive regulation of voltage-gated chloride channel activity	1	1.00	0.92	9.63	1152.20
 GO:0009972	cytidine deamination	1	1.00	0.93	9.63	2918.46
-GO:1904303	positive regulation of maternal process involved in parturition	1	1.00	0.79	9.63	118.07
-GO:1904300	positive regulation of transcytosis	1	1.00	0.85	9.63	59.34
 GO:0035356	cellular triglyceride homeostasis	1	1.00	0.88	9.63	50.57
 GO:0006919	activation of cysteine-type endopeptidase activity involved in apoptotic process	1	0.93	0.93	9.60	734.49
 GO:0006000	fructose metabolic process	1	0.80	0.72	9.07	34.68
 GO:0045821	positive regulation of glycolytic process	1	0.89	0.89	9.59	4823.69
-GO:2001076	positive regulation of metanephric ureteric bud development	1	1.00	0.88	9.63	356.33
 GO:0032959	inositol trisphosphate biosynthetic process	1	1.00	0.88	9.63	361.00
 GO:1902603	carnitine transmembrane transport	1	0.93	0.88	9.57	151.16
 GO:0050711	negative regulation of interleukin-1 secretion	1	0.89	0.86	9.57	756.17
 GO:0045199	maintenance of epithelial cell apical/basal polarity	1	1.00	0.82	9.63	34.60
-GO:0098706	ferric iron import across plasma membrane	1	1.00	0.93	9.63	329.49
-GO:0010107	potassium ion import	1	0.93	0.88	9.57	121.72
 GO:0002720	positive regulation of cytokine production involved in immune response	1	0.74	0.72	9.21	248.72
 GO:0043315	positive regulation of neutrophil degranulation	1	1.00	0.93	9.63	798.77
 GO:0042572	retinol metabolic process	1	1.00	0.90	9.63	118.01
 GO:0061903	positive regulation of 1-phosphatidylinositol-3-kinase activity	1	1.00	0.95	9.63	1772.75
-GO:0006032	chitin catabolic process	1	0.81	0.76	9.47	407.15
 GO:0002003	angiotensin maturation	1	1.00	0.88	9.63	184.72
-GO:1904058	positive regulation of sensory perception of pain	1	1.00	0.88	9.63	66.22
-GO:0045409	negative regulation of interleukin-6 biosynthetic process	1	1.00	0.88	9.63	835.45

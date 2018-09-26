@@ -2,10 +2,10 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	450	0.12	0.26	2.47	7.96
 GO:0006810	transport	211	0.28	0.34	3.95	7.46
 GO:0016043	cellular component organization	204	0.28	0.26	3.74	11.45
+GO:0031326	regulation of cellular biosynthetic process	171	0.29	0.44	4.86	40.35
 GO:0050794	regulation of cellular process	450	0.12	0.26	2.47	7.96
 GO:0002682	regulation of immune system process	139	0.32	0.36	4.60	7.96
 GO:0009967	positive regulation of signal transduction	96	0.44	0.54	6.71	140.23
-GO:0031328	positive regulation of cellular biosynthetic process	92	0.41	0.53	6.32	170.14
 GO:0010629	negative regulation of gene expression	66	0.47	0.56	6.74	59.05
 GO:0002429	immune response-activating cell surface receptor signaling pathway	43	0.74	0.75	9.28	217.35
 GO:0001819	positive regulation of cytokine production	33	0.51	0.54	6.97	44.26
@@ -21,6 +21,5 @@ GO:0072678	T cell migration	3	0.71	0.71	8.88	30.24
 GO:0048304	positive regulation of isotype switching to IgG isotypes	3	1.00	0.93	9.63	1407.90
 GO:0042089	cytokine biosynthetic process	3	0.63	0.64	8.18	87.71
 GO:0043029	T cell homeostasis	3	1.00	0.85	9.63	22.00
-GO:0042985	negative regulation of amyloid precursor protein biosynthetic process	2	1.00	0.90	9.63	967.92
 GO:0060117	auditory receptor cell development	1	1.00	0.82	9.63	70.66
 GO:0045070	positive regulation of viral genome replication	1	0.89	0.82	9.47	85.31

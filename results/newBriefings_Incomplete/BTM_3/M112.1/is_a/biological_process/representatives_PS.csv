@@ -2,11 +2,11 @@ id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0048522	positive regulation of cellular process	789	0.24	0.37	3.90	23.85
 GO:0048583	regulation of response to stimulus	714	0.25	0.32	3.72	7.96
 GO:0043170	macromolecule metabolic process	710	0.25	0.32	3.46	10.22
+GO:0051246	regulation of protein metabolic process	421	0.34	0.46	5.46	41.09
+GO:0031326	regulation of cellular biosynthetic process	482	0.29	0.44	4.86	40.35
 GO:0048523	negative regulation of cellular process	632	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	510	0.33	0.45	5.35	37.59
 GO:0010468	regulation of gene expression	487	0.35	0.46	5.09	13.73
-GO:0031326	regulation of cellular biosynthetic process	482	0.29	0.44	4.86	40.35
-GO:0051246	regulation of protein metabolic process	421	0.34	0.46	5.46	41.09
 GO:0016192	vesicle-mediated transport	303	0.52	0.51	6.57	10.99
 GO:0032270	positive regulation of cellular protein metabolic process	257	0.47	0.59	7.41	288.49
 GO:0045055	regulated exocytosis	209	0.69	0.69	8.57	38.47
@@ -20,7 +20,6 @@ GO:0015031	protein transport	120	0.48	0.59	6.99	54.46
 GO:0009615	response to virus	77	0.74	0.66	8.80	27.27
 GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	60	0.52	0.58	7.50	27.23
 GO:0000902	cell morphogenesis	54	0.63	0.56	7.92	43.26
-GO:0043687	post-translational protein modification	47	0.65	0.67	8.51	151.15
 GO:0006631	fatty acid metabolic process	44	0.54	0.62	7.85	91.02
 GO:0097191	extrinsic apoptotic signaling pathway	22	0.83	0.74	9.22	51.06
 GO:0002686	negative regulation of leukocyte migration	14	0.67	0.71	8.99	239.84

@@ -1,33 +1,35 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
-GO:0050794	regulation of cellular process	2314	0.12	0.26	2.47	7.96
 GO:0019538	protein metabolic process	975	0.31	0.41	4.91	44.77
 GO:0009966	regulation of signal transduction	700	0.33	0.45	5.35	37.59
 GO:0045892	negative regulation of transcription, DNA-templated	299	0.56	0.69	8.52	1581.26
 GO:0006357	regulation of transcription by RNA polymerase II	603	0.44	0.63	7.11	248.57
-GO:0032268	regulation of cellular protein metabolic process	637	0.37	0.51	6.13	70.76
 GO:0051128	regulation of cellular component organization	629	0.30	0.40	4.57	12.04
 GO:0006351	transcription, DNA-templated	572	0.57	0.68	8.45	581.39
 GO:0010033	response to organic substance	473	0.35	0.37	4.75	9.28
-GO:0071466	cellular response to xenobiotic stimulus	18	0.74	0.62	8.58	40.79
 GO:0010628	positive regulation of gene expression	451	0.47	0.56	6.67	58.80
 GO:0051049	regulation of transport	430	0.31	0.40	4.67	10.45
+GO:0070887	cellular response to chemical stimulus	403	0.40	0.40	5.31	25.21
+GO:0045595	regulation of cell differentiation	383	0.34	0.42	5.25	23.33
+GO:0001932	regulation of protein phosphorylation	345	0.50	0.62	7.64	109.03
 GO:0042127	regulation of cell proliferation	329	0.45	0.48	6.03	12.04
-GO:0051726	regulation of cell cycle	286	0.41	0.45	5.89	12.04
 GO:0034613	cellular protein localization	250	0.45	0.48	6.33	26.83
 GO:0007010	cytoskeleton organization	206	0.52	0.51	6.76	18.35
 GO:0045055	regulated exocytosis	203	0.69	0.69	8.57	38.47
+GO:0010564	regulation of cell cycle process	200	0.42	0.50	6.22	14.24
 GO:0019221	cytokine-mediated signaling pathway	183	0.60	0.63	7.60	26.50
 GO:0051259	protein complex oligomerization	124	0.78	0.68	9.09	40.42
 GO:0001819	positive regulation of cytokine production	116	0.51	0.54	6.97	44.26
 GO:0043547	positive regulation of GTPase activity	107	0.93	0.79	9.52	49.34
 GO:1903829	positive regulation of cellular protein localization	93	0.60	0.62	7.80	40.87
-GO:0002696	positive regulation of leukocyte activation	91	0.57	0.61	7.92	96.44
+GO:0045861	negative regulation of proteolysis	92	0.61	0.68	8.71	337.18
 GO:0050900	leukocyte migration	86	0.60	0.59	8.02	26.94
 GO:0031668	cellular response to extracellular stimulus	66	0.55	0.52	7.38	45.16
+GO:0030336	negative regulation of cell migration	54	0.58	0.64	8.21	158.04
 GO:0000902	cell morphogenesis	50	0.63	0.56	7.92	43.26
 GO:0034329	cell junction assembly	46	0.71	0.61	8.53	35.01
 GO:0022900	electron transport chain	45	0.71	0.61	8.48	29.76
 GO:0048167	regulation of synaptic plasticity	40	0.67	0.69	8.57	39.26
+GO:0051384	response to glucocorticoid	37	0.77	0.73	9.22	62.74
 GO:0071456	cellular response to hypoxia	32	1.00	0.82	9.63	103.25
 GO:0006906	vesicle fusion	29	0.68	0.66	8.56	63.10
 GO:0007409	axonogenesis	29	0.69	0.72	8.67	64.61
@@ -37,6 +39,7 @@ GO:0048278	vesicle docking	20	0.81	0.70	9.18	21.39
 GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	17	0.93	0.82	9.56	84.23
 GO:0007189	adenylate cyclase-activating G-protein coupled receptor signaling pathway	16	0.78	0.78	9.25	56.87
 GO:0030195	negative regulation of blood coagulation	16	0.78	0.76	9.39	250.95
+GO:0000077	DNA damage checkpoint	16	0.81	0.78	9.46	85.76
 GO:0007569	cell aging	15	0.80	0.60	8.94	24.75
 GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	15	0.89	0.80	9.45	80.05
 GO:0008286	insulin receptor signaling pathway	14	0.87	0.81	9.34	31.00
@@ -45,6 +48,8 @@ GO:0043392	negative regulation of DNA binding	13	0.76	0.67	8.87	32.53
 GO:0048675	axon extension	12	0.89	0.74	9.43	51.99
 GO:0016358	dendrite development	10	0.83	0.74	9.26	32.63
 GO:0030032	lamellipodium assembly	9	0.89	0.77	9.53	78.22
+GO:0042104	positive regulation of activated T cell proliferation	7	1.00	0.92	9.63	649.89
+GO:0043306	positive regulation of mast cell degranulation	7	0.89	0.88	9.58	1034.30
 GO:0031114	regulation of microtubule depolymerization	7	0.83	0.81	9.42	74.89
 GO:0042135	neurotransmitter catabolic process	6	0.72	0.65	8.80	61.24
 GO:0001973	adenosine receptor signaling pathway	5	1.00	0.88	9.63	54.87

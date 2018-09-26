@@ -18,6 +18,7 @@ GO:0048869	cellular developmental process	904	0.32	0.29	4.16	13.85
 GO:0015031	protein transport	680	0.48	0.59	6.99	54.46
 GO:0010033	response to organic substance	864	0.35	0.37	4.75	9.28
 GO:1901700	response to oxygen-containing compound	596	0.39	0.39	5.14	9.28
+GO:0071285	cellular response to lithium ion	5	1.00	0.82	9.63	77.81
 GO:0071310	cellular response to organic substance	586	0.44	0.47	5.95	41.66
 GO:0051130	positive regulation of cellular component organization	550	0.42	0.50	5.95	43.84
 GO:0045892	negative regulation of transcription, DNA-templated	541	0.56	0.69	8.52	1581.26
@@ -41,7 +42,6 @@ GO:0032989	cellular component morphogenesis	193	0.56	0.48	7.27	42.57
 GO:0030001	metal ion transport	185	0.54	0.59	7.29	15.42
 GO:0071417	cellular response to organonitrogen compound	183	0.53	0.56	7.37	128.53
 GO:0120036	plasma membrane bounded cell projection organization	177	0.58	0.54	7.33	16.56
-GO:0002237	response to molecule of bacterial origin	169	0.69	0.59	8.74	31.75
 GO:0015711	organic anion transport	167	0.43	0.54	6.27	28.20
 GO:0034765	regulation of ion transmembrane transport	153	0.46	0.55	6.68	33.04
 GO:0046394	carboxylic acid biosynthetic process	150	0.44	0.54	6.80	162.02
@@ -49,6 +49,7 @@ GO:0006874	cellular calcium ion homeostasis	141	0.63	0.71	8.83	287.08
 GO:0001666	response to hypoxia	128	0.81	0.70	9.12	21.16
 GO:0050870	positive regulation of T cell activation	122	0.63	0.69	8.78	216.07
 GO:0060249	anatomical structure homeostasis	87	0.63	0.57	7.52	10.43
+GO:0071219	cellular response to molecule of bacterial origin	85	0.80	0.69	9.25	59.35
 GO:0019318	hexose metabolic process	85	0.58	0.58	7.68	32.37
 GO:0001701	in utero embryonic development	84	1.00	0.85	9.63	22.50
 GO:0045807	positive regulation of endocytosis	75	0.69	0.69	8.90	124.49
@@ -66,8 +67,8 @@ GO:0016525	negative regulation of angiogenesis	47	0.81	0.78	9.32	151.11
 GO:0050810	regulation of steroid biosynthetic process	44	0.61	0.65	8.27	49.64
 GO:0050672	negative regulation of lymphocyte proliferation	41	0.74	0.75	9.27	262.95
 GO:0042108	positive regulation of cytokine biosynthetic process	39	0.63	0.67	8.76	609.34
-GO:1902750	negative regulation of cell cycle G2/M phase transition	33	0.78	0.76	9.25	106.68
 GO:0030326	embryonic limb morphogenesis	25	0.89	0.74	9.38	43.31
+GO:0031623	receptor internalization	25	0.72	0.71	9.20	64.85
 GO:0045429	positive regulation of nitric oxide biosynthetic process	25	1.00	0.88	9.63	658.64
 GO:0001954	positive regulation of cell-matrix adhesion	25	0.87	0.76	9.34	50.26
 GO:0045806	negative regulation of endocytosis	22	0.72	0.71	9.06	124.58
@@ -81,7 +82,6 @@ GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	14	0.93	
 GO:0033077	T cell differentiation in thymus	14	0.87	0.78	9.42	66.99
 GO:0070830	bicellular tight junction assembly	13	1.00	0.82	9.63	56.14
 GO:0002827	positive regulation of T-helper 1 type immune response	12	0.89	0.82	9.50	171.87
-GO:0007602	phototransduction	12	0.81	0.73	9.34	75.43
 GO:1990126	retrograde transport, endosome to plasma membrane	11	0.87	0.76	9.53	64.06
 GO:0002026	regulation of the force of heart contraction	10	0.72	0.71	8.76	26.87
 GO:0001774	microglial cell activation	9	0.93	0.79	9.51	31.20
@@ -95,7 +95,6 @@ GO:0048048	embryonic eye morphogenesis	6	0.93	0.79	9.51	49.04
 GO:0071447	cellular response to hydroperoxide	6	0.87	0.72	9.49	143.11
 GO:0003323	type B pancreatic cell development	6	1.00	0.85	9.63	37.35
 GO:0071169	establishment of protein localization to chromatin	5	0.93	0.84	9.56	126.96
-GO:0071285	cellular response to lithium ion	5	1.00	0.82	9.63	77.81
 GO:0097186	amelogenesis	5	1.00	0.82	9.63	26.74
 GO:0010886	positive regulation of cholesterol storage	5	1.00	0.85	9.63	69.45
 GO:2000121	regulation of removal of superoxide radicals	5	0.83	0.76	9.49	93.21

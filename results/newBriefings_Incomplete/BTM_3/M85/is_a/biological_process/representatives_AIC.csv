@@ -1,4 +1,6 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
+GO:0048522	positive regulation of cellular process	650	0.24	0.37	3.90	23.85
+GO:0048522	positive regulation of cellular process	650	0.24	0.37	3.90	23.85
 GO:0007165	signal transduction	626	0.36	0.43	5.06	19.43
 GO:0048523	negative regulation of cellular process	514	0.24	0.37	3.90	23.93
 GO:0009966	regulation of signal transduction	427	0.33	0.45	5.35	37.59
@@ -16,7 +18,6 @@ GO:0071310	cellular response to organic substance	239	0.44	0.47	5.95	41.66
 GO:0031328	positive regulation of cellular biosynthetic process	235	0.41	0.53	6.32	170.14
 GO:0051247	positive regulation of protein metabolic process	234	0.44	0.54	6.72	129.04
 GO:0010628	positive regulation of gene expression	214	0.47	0.56	6.67	58.80
-GO:0008284	positive regulation of cell proliferation	191	0.56	0.57	7.27	43.45
 GO:0065003	protein-containing complex assembly	181	0.45	0.48	6.06	36.47
 GO:0007044	cell-substrate junction assembly	13	0.87	0.72	9.38	36.10
 GO:0009968	negative regulation of signal transduction	162	0.44	0.54	6.68	140.65
@@ -27,10 +28,8 @@ GO:0043312	neutrophil degranulation	150	1.00	0.90	9.63	132.80
 GO:0043066	negative regulation of apoptotic process	146	0.56	0.63	7.79	81.07
 GO:0010243	response to organonitrogen compound	137	0.45	0.48	6.23	25.43
 GO:0051248	negative regulation of protein metabolic process	134	0.45	0.55	6.75	129.53
-GO:0045597	positive regulation of cell differentiation	133	0.45	0.51	6.57	82.53
 GO:0050900	leukocyte migration	130	0.60	0.59	8.02	26.94
 GO:0051707	response to other organism	127	0.42	0.46	6.41	24.63
-GO:0010942	positive regulation of cell death	117	0.54	0.56	7.33	41.78
 GO:0009725	response to hormone	117	0.53	0.51	7.03	21.86
 GO:0030335	positive regulation of cell migration	115	0.58	0.64	8.22	157.26
 GO:0045087	innate immune response	110	0.68	0.59	8.16	26.47
@@ -42,7 +41,6 @@ GO:0070372	regulation of ERK1 and ERK2 cascade	74	0.87	0.85	9.54	158.99
 GO:0022604	regulation of cell morphogenesis	62	0.53	0.56	7.35	31.06
 GO:0007162	negative regulation of cell adhesion	59	0.57	0.57	7.40	38.27
 GO:0001666	response to hypoxia	46	0.81	0.70	9.12	21.16
-GO:0045861	negative regulation of proteolysis	45	0.61	0.68	8.71	337.18
 GO:0006898	receptor-mediated endocytosis	44	0.68	0.66	8.48	28.44
 GO:0030336	negative regulation of cell migration	43	0.58	0.64	8.21	158.04
 GO:0000902	cell morphogenesis	40	0.63	0.56	7.92	43.26
@@ -53,7 +51,6 @@ GO:0010952	positive regulation of peptidase activity	33	0.71	0.75	9.38	435.08
 GO:0030198	extracellular matrix organization	29	0.68	0.59	8.24	16.90
 GO:0051092	positive regulation of NF-kappaB transcription factor activity	28	0.93	0.91	9.59	279.44
 GO:2000379	positive regulation of reactive oxygen species metabolic process	27	0.78	0.71	9.25	112.72
-GO:0030193	regulation of blood coagulation	23	0.67	0.69	8.94	65.68
 GO:0016525	negative regulation of angiogenesis	23	0.81	0.78	9.32	151.11
 GO:0034504	protein localization to nucleus	19	0.72	0.68	8.76	32.77
 GO:0071260	cellular response to mechanical stimulus	18	1.00	0.79	9.63	56.12
@@ -65,15 +62,17 @@ GO:0030449	regulation of complement activation	12	0.69	0.72	9.30	245.77
 GO:0048260	positive regulation of receptor-mediated endocytosis	12	0.81	0.78	9.34	175.17
 GO:0001774	microglial cell activation	10	0.93	0.79	9.51	31.20
 GO:0045652	regulation of megakaryocyte differentiation	10	0.89	0.80	9.46	68.96
+GO:0030194	positive regulation of blood coagulation	9	0.77	0.76	9.34	205.45
 GO:0043032	positive regulation of macrophage activation	8	0.93	0.82	9.55	126.60
 GO:0001937	negative regulation of endothelial cell proliferation	8	0.89	0.80	9.46	87.36
 GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	8	0.83	0.85	9.50	3778.55
-GO:0051965	positive regulation of synapse assembly	7	0.83	0.76	9.44	224.64
 GO:0045773	positive regulation of axon extension	6	0.89	0.88	9.58	1257.91
+GO:2000353	positive regulation of endothelial cell apoptotic process	6	1.00	0.90	9.63	129.82
 GO:0032695	negative regulation of interleukin-12 production	5	0.89	0.77	9.43	65.25
 GO:0002578	negative regulation of antigen processing and presentation	5	0.69	0.64	8.48	38.83
 GO:0001836	release of cytochrome c from mitochondria	5	1.00	0.82	9.63	22.13
 GO:0050927	positive regulation of positive chemotaxis	4	0.83	0.76	9.42	128.70
+GO:0042730	fibrinolysis	4	1.00	0.90	9.63	252.90
 GO:0035966	response to topologically incorrect protein	4	0.79	0.64	9.04	22.86
 GO:0030823	regulation of cGMP metabolic process	3	0.76	0.78	9.39	212.56
 GO:0032463	negative regulation of protein homooligomerization	2	0.93	0.84	9.56	148.87

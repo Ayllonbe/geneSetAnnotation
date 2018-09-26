@@ -1,14 +1,14 @@
 id	name	nbGenes	ICSeco	ICZhou	ICSanchez	ICMazandu
 GO:0050794	regulation of cellular process	3409	0.12	0.26	2.47	7.96
 GO:0044237	cellular metabolic process	3231	0.16	0.21	2.71	13.80
+GO:0044260	cellular macromolecule metabolic process	2298	0.28	0.39	4.44	30.44
+GO:0044255	cellular lipid metabolic process	353	0.38	0.44	5.89	38.02
 GO:0060255	regulation of macromolecule metabolic process	2160	0.26	0.38	4.09	10.74
 GO:0016043	cellular component organization	1641	0.28	0.26	3.74	11.45
 GO:0045429	positive regulation of nitric oxide biosynthetic process	17	1.00	0.88	9.63	658.64
 GO:2000112	regulation of cellular macromolecule biosynthetic process	1470	0.36	0.50	5.87	74.82
 GO:0006810	transport	1415	0.28	0.34	3.95	7.46
 GO:0016070	RNA metabolic process	1248	0.39	0.52	6.45	112.25
-GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	158	0.76	0.78	9.31	348.36
-GO:0006464	cellular protein modification process	1138	0.34	0.49	5.84	147.03
 GO:1900271	regulation of long-term synaptic potentiation	15	0.89	0.82	9.45	41.66
 GO:0009966	regulation of signal transduction	1034	0.33	0.45	5.35	37.59
 GO:0051716	cellular response to stimulus	1022	0.35	0.30	4.36	13.53
@@ -20,7 +20,6 @@ GO:1901700	response to oxygen-containing compound	476	0.39	0.39	5.14	9.28
 GO:0071310	cellular response to organic substance	468	0.44	0.47	5.95	41.66
 GO:0032269	negative regulation of cellular protein metabolic process	397	0.47	0.59	7.45	289.39
 GO:0051241	negative regulation of multicellular organismal process	374	0.35	0.42	4.99	23.69
-GO:0044255	cellular lipid metabolic process	353	0.38	0.44	5.89	38.02
 GO:0045055	regulated exocytosis	292	0.69	0.69	8.57	38.47
 GO:0043065	positive regulation of apoptotic process	254	0.56	0.63	7.81	80.91
 GO:0060627	regulation of vesicle-mediated transport	192	0.48	0.53	6.81	26.12
