@@ -2,11 +2,17 @@
 
 # test if there is at least one argument: if not, return an error
 #args = commandArgs(trailingOnly=TRUE)
+lpack <- c("optparse","fastcluster","cluster")
+for(p in 1:length(lpack)){
+  if(lpack[p] %in% row.names(installed.packages())){
+    str <- lpack[p]
+    library(str,character.only=T)
+  }else{
+    install.packages(lpack[p],dependencies = TRUE)
+  }
+}
 
 
-library("optparse")
-library(clValid)
-library("fastcluster")
 
 option_list = list(
   
@@ -35,10 +41,6 @@ time.obj =paste(gsub(" ","_", as.character(Sys.time())))
 main = opt$outFolder 
 path = main #file.path(main,time.obj)
 setwd(path)
-require(Hmisc,warn.conflicts =FALSE,quietly=TRUE)
-require(cluster,warn.conflicts =FALSE,quietly=TRUE)
-require(vegan,warn.conflicts =FALSE,quietly=TRUE)
-
 
 mydata <- read.csv(opt$file,header=T,sep=";",row.names=1)
 print(length(mydata))
@@ -48,7 +50,6 @@ dist.obj <- as.dist(1-mydata)
 hclust.obj <- hclust(dist.obj,method = opt$methodHclust)
 
 silClus <- function(hc.obj,dist.obj,nc){
-  require(cluster)
   
   asw <-c()
   for( k in 2 : nc){
