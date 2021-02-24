@@ -567,6 +567,54 @@ exportcsv(terminos,file,go);
 		
 		
 	}
+public static void exportcsvONE(String[] terms, Double[][] table, String file) throws FileNotFoundException, UnsupportedEncodingException{
+		
+		StringBuffer table_sb = new StringBuffer();
+		
+		
+		table_sb.append(";");
+		
+		
+		
+
+		
+		
+		
+		for(String t : terms){
+			table_sb.append(t+";");
+			
+		}
+	table_sb.deleteCharAt(table_sb.length()-1);
+	
+	
+	table_sb.append("\n");
+	
+
+	
+	for(int i=0; i<terms.length;i++){
+		table_sb.append(terms[i]+";");
+		
+		
+		for(int j=0; j<terms.length;j++){
+			table_sb.append(table[i][j]+";");
+			
+		
+		}
+		table_sb.deleteCharAt(table_sb.length()-1);
+		
+		table_sb.append("\n");
+		
+	}
+	    table_sb.deleteCharAt(table_sb.length()-1);
+		
+		PrintWriter writer = new PrintWriter( file, "UTF-8");
+		writer.print(table_sb);
+		writer.close();
+
+
+		
+		
+	}
 	/**
 	 * Export in csv format the matrices
 	 * @param terms

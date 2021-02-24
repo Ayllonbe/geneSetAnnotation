@@ -1,6 +1,7 @@
 package gsan.distribution.gsan_api.run.representative;
 
 
+import java.io.File;
 import java.io.PrintWriter;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -67,6 +68,7 @@ public class Representative {
 
 			Communication communication = Communication.run(fileSS, mhcl);
 
+			
 			Hashtable<Integer,List<Representative>> cl2rep = Representative.getRepresentative(go,sub,ic,  communication.clusters, 
 					tailmin, RepCombinedSimilarity, precision,compare);
 
@@ -128,6 +130,147 @@ public class Representative {
 			pw.close();
 
 		}
+
+	}
+	
+	public static void onemetricONE( int ic,String sub,String mSS, String mhcl,Set<String> geneset,
+			String resfolder, String statfolder, GlobalOntology go, List<String>terminos, Annotation ann,
+			double tailmin,double RepCombinedSimilarity, double precision,int support,String Rfile) throws Exception{
+		String res = statfolder+"/Annotation_Representative/Pre-visual/";
+		File resF = new File(res);
+		if(!resF.exists()){
+			resF.mkdirs();
+		}
+
+
+		
+		StringBuffer sbT2G = new StringBuffer();
+		for(String t : terminos) {
+			sbT2G.append(go.allStringtoInfoTerm.get(t).name);
+			for(String g : go.allStringtoInfoTerm.get(t).geneSet) {
+				sbT2G.append(";"+g);
+			}
+			sbT2G.append("\n");
+		}
+	
+		PrintWriter pw = new PrintWriter(res+"term2gen.csv");
+		pw.print(sbT2G);
+		pw.close();
+		 
+					System.out.println("### Method : " + mSS);
+			String fileSS = resfolder+"/" + mSS+".csv";
+
+			Communication communication = Communication.runONE(fileSS, mhcl,Rfile);
+
+			
+	StringBuffer sbMoveGO = new StringBuffer();
+			
+			for(Integer i : communication.clusters.keySet()) {
+				sbMoveGO.append("cluster_"+i);
+				for(String t : communication.clusters.get(i)) {
+					sbMoveGO.append(";"+go.allStringtoInfoTerm.get(t).name);
+				}
+				sbMoveGO.append("\n");
+			}
+			sbMoveGO.append(" \n");
+			
+			for(String t : terminos) {
+				sbMoveGO.append(t);
+				for(String g: go.allStringtoInfoTerm.get(t).geneSet) {
+					sbMoveGO.append(";"+g);
+					
+				}
+				sbMoveGO.append("\n");
+			}
+			
+			PrintWriter pwMove = new PrintWriter(res+"MoveGOTest.csv");
+			pwMove.print(sbMoveGO);
+			pwMove.close();
+			
+			
+			
+			Hashtable<Integer,List<Representative>> cl2rep = Representative.getRepresentative(go,sub,ic,  communication.clusters, 
+					tailmin, RepCombinedSimilarity, precision,support);
+
+
+			Hashtable<Integer,Integer> cl2nbg = new Hashtable<Integer,Integer>();
+			for(Integer i : cl2rep.keySet()){
+
+				for(Representative rep : cl2rep.get(i)){
+
+					InfoTerm it = rep.repesentative;
+
+
+					cl2nbg.put(i, it.geneSet.size());
+
+				}
+			}
+
+			//Transfer as List and sort it
+
+			ArrayList<Map.Entry<Integer, Integer>> listCluster = new ArrayList<>(cl2nbg.entrySet());
+			Collections.sort(listCluster, new Comparator<Map.Entry<?, Integer>>(){
+
+				public int compare(Map.Entry<?, Integer> o1, Map.Entry<?, Integer> o2) {
+					return o2.getValue().compareTo(o1.getValue());
+				}});
+
+//			StringBuffer infoRepSB = new StringBuffer();
+//			infoRepSB.append("id\tname\tnbGenes\tICSeco\tICZhou\tICSanchez\tICMazandu\n");
+			StringBuffer sbR2T = new StringBuffer();
+			for(Entry<Integer, Integer> entry : listCluster){
+				int i = entry.getKey();
+				for(Representative rep : cl2rep.get(i)){
+					
+					InfoTerm it = rep.repesentative;
+					Set<String> gen = new HashSet<>();
+					for(InfoTerm s : rep.terms) {
+						gen.addAll(s.geneSet);	
+					}
+					if(gen.size()>=support) {
+					if(!it.termcombi.isEmpty()) {
+						for(String ti : it.termcombi) {
+							InfoTerm term = go.allStringtoInfoTerm.get(ti);
+							if(term.ICs.get(ic)>58.2) {
+							String cl = "cluster "+i+": "+term.name;
+							sbR2T.append(cl);
+							List<String> ds = new ArrayList<>(term.is_a.descendants);
+							ds.retainAll(communication.clusters.get(i));
+							for(String d : ds) {
+								sbR2T.append(";"+go.allStringtoInfoTerm.get(d).name);
+							}
+							sbR2T.append("\n");
+							
+							}
+							//infoRepSB.append(term.id+"\t"+term.name+"\t"+term.geneSet.size()+"\t"+df.format(term.ICs.get(0))+"\t"+df.format(term.ICs.get(1))+"\t"+df.format(term.ICs.get(2))+"\t"+df.format(term.ICs.get(3))+"\n");
+
+						}
+					}else {
+						if(it.ICs.get(ic)>58.2) {
+							//System.out.println(it.name+" "+it.ICs.get(ic));
+						String cl = "cluster "+i+": "+it.name;
+						sbR2T.append(cl);
+						List<String> ds = new ArrayList<>(it.is_a.descendants);
+						ds.retainAll(communication.clusters.get(i));
+						for(String d : ds) {
+							sbR2T.append(";"+go.allStringtoInfoTerm.get(d).name);
+						}
+						sbR2T.append("\n");
+						//infoRepSB.append(it.id+"\t"+it.name+"\t"+it.geneSet.size()+"\t"+df.format(it.ICs.get(0))+"\t"+df.format(it.ICs.get(1))+"\t"+df.format(it.ICs.get(2))+"\t"+df.format(it.ICs.get(3))+"\n");
+						}
+
+
+						}
+					}
+
+				}
+
+			}
+			pw = new PrintWriter(res+"rep2term.csv");
+			pw.print(sbR2T);
+			pw.close();
+
+		
 
 	}
 

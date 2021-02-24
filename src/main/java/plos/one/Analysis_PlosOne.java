@@ -288,7 +288,8 @@ public class Analysis_PlosOne {
 				for(String l : lines) {
 					String term  = l.split("\t")[0];
 					
-					if(go.allStringtoInfoTerm.get(term).geneSet.size()>3)
+					if(go.allStringtoInfoTerm.get(term).geneSet.size()>3&&
+							go.allStringtoInfoTerm.get(term).ICs.get(3)>GOA.percentileOnt.get(biologicalprocess).get(25))
 						geneModules.addAll(go.allStringtoInfoTerm.get(term).geneSet);
 				}
 				double coverture = (double)geneModules.size()/(double)symb.size() *100.;

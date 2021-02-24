@@ -9,17 +9,17 @@ if(!dir.exists(resFile)){
 
 ##########################################################################################
 
-lineplots <- function(t){
-  
+lineplots <- function(ds,t){
+  t$Module <- factor(t$Module, level=unique(t$Module))
   require(ggplot2)
   k=1
   l <- list()
   count = 0
-  n = length(t$Module)/5
-  for(x in 1:5){
+  n = length(t$Module)/9
+  for(x in 1:9){
     
     a <- 1 + count
-    if(x == 5){
+    if(x == 9){
       b <- length(t$Module)
     }else{
       b <- n+ count
@@ -27,14 +27,14 @@ lineplots <- function(t){
     ccc <- t[a:b,] 
     
     count = count +n
-    
+    print(head(ccc))
     l[[x]] <- ggplot(ccc, aes(x = Module, y=value,group = SS))+
       geom_line(aes(linetype=SS, color = SS))+
       ylim(0,100)+
-      scale_x_discrete("Chaussabel modules") +
+      scale_x_discrete("Modules") +
       #scale_colour_grey( start = 0.2, end = 0.8, na.value = "red")+
       #scale_y_continuous("Percentage of covered genes")+
-      theme(axis.text.x = element_text(hjust = 0.5),
+      theme(axis.text.x = element_text(hjust = 1,angle = 45),
             axis.line.x=element_line(size=0.5*k, colour="black"),
             axis.line.y = element_line(size=0.5*k,colour="black"),
             axis.line = element_line(size=1,colour="black"),
@@ -62,10 +62,14 @@ lineplots <- function(t){
                            l[[3]] + theme(legend.position="none"),
                            l[[4]]+ theme(legend.position="none"),
                            l[[5]] + theme(legend.position="none"),
-                           nrow=5, ncol = 1),
+                           l[[6]] + theme(legend.position="none"),
+                           l[[7]] + theme(legend.position="none"),
+                           l[[8]] + theme(legend.position="none"),
+                           l[[9]] + theme(legend.position="none"),
+                           nrow=9, ncol = 1),
                left = textGrob("\nPercentage of genes", rot = 90, vjust = 1),
                legend, 
-               bottom = textGrob("Chaussabel modules"),
+               bottom = textGrob(paste(ds,"modules", sep=" ")),
                
                widths=unit.c(unit(0.95, "npc") - legend$width, legend$width ))
 }
@@ -74,43 +78,40 @@ lineplots <- function(t){
 #Chau
 dataset = "Chaussabel"
 t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
+nm <- as.character(t$Module)
+nm <- as.numeric(gsub("M", "", nm))
+t <- cbind(t,"num"=nm)
 
-tiff(filename = "visualization/Figure_Chaussabel_Sup.tiff",compression = "lzw",pointsize = 12,
-     width = 8250,height=3250,res=400)
+t <- t[order(nm),] 
 lineplots(t)
+tiff(filename = "visualization/S1FigQ1.tiff",compression = "lzw",pointsize = 12,
+     width = 8250,height=4250,res=400)
+lineplots(dataset,t)
+dev.off()
+
+png(filename = "visualization/S1FigQ1.png",pointsize = 12,
+    width = 4250,height=4550,res=400)
+lineplots("Chaussabel and Baldwin",t)
 dev.off()
 
 dataset = "BTM"
 t<- read.table(paste("newBriefings_Incomplete/",dataset,"_3/Analysis_Rep/genCoverture.csv",sep=""),header = T)
+nm <- as.character(t$Module)
+letters <- substr(nm,1,1)
 
-tiff(filename = "visualization/Figure_BTM_Sup.tiff",compression = "lzw",pointsize = 12,
+
+nm <- as.numeric(gsub("M|S", "", nm))
+t <- cbind(t,"num"=nm,"let"=letters)
+
+
+t <- t[order(t$let,t$num),] 
+
+tiff(filename = "visualization/S2FigQ1.tiff",compression = "lzw",pointsize = 12,
      width = 8250,height=3250,res=400)
-lineplots(t)
+lineplots(dataset,t)
 dev.off()
 
-tiff(filename = "visualization/Figure_BTM_Sup2.tiff",compression = "lzw",pointsize = 10,
-     width = 2250,height=8250,res=400)
-ggplot(data = t, aes(x=SS, y=Module, fill=value)) + 
-  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
-                       midpoint = 50, limit = c(0,100), space = "Lab",
-                       name="Percentage") +
-  geom_tile()+
-  theme(axis.text.x = element_text(hjust = 0.5),
-        axis.line.x=element_line(size=0.5*k, colour="black"),
-        axis.line.y = element_line(size=0.5*k,colour="black"),
-        axis.line = element_line(size=1,colour="black"),
-        axis.title = element_text(size=10*k),
-        axis.title.y = element_blank(), #element_text(margin = margin(0,20,0,0)),
-        axis.title.x =element_blank(), #element_text(margin = margin(20,0,0,0)),
-        axis.text = element_text(size=8*k),
-        #panel.grid.major = element_blank(),
-        # panel.grid.minor = element_blank(),
-        # panel.border = element_blank(),
-        legend.key = element_rect(fill = "white", colour = "white"),
-        legend.title = element_text(face = "bold"),
-        legend.title.align=0.5,
-        panel.background = element_blank(), 
-        plot.margin = margin(t = 15, r = 15, b = 15, l = 15, unit = "pt"),
-        plot.title = element_text(size=25*k,hjust = 0.5,face="bold",margin = margin(5,0,40,0)))
+png(filename = "visualization/S2FigQ1.png",pointsize = 12,
+    width = 4250,height=4550,res=400)
+lineplots(dataset,t)
 dev.off()
-
