@@ -1,0 +1,19 @@
+package gsan.distribution.gsan_api.semantic_similarity;
+
+import gsan.distribution.gsan_api.ontology.GlobalOntology;
+import gsan.distribution.gsan_api.ontology.InfoTerm;
+
+public class LC extends SemanticSimilarityONE{
+
+	public double method(String t1, String t2,GlobalOntology go){
+
+
+		String ancestors = lca(t1, t2, go);
+		InfoTerm lca = go.allStringtoInfoTerm.get(ancestors);
+		double spl = go.allStringtoInfoTerm.get(t1).distancias.get(lca.toString()) + go.allStringtoInfoTerm.get(t2).distancias.get(lca.toString());
+
+		double leacock = 1. - Math.log10((double) spl)/Math.log10(2.*go.subontology.get(lca.top).maxDepth());
+		return leacock;
+	}
+
+}
